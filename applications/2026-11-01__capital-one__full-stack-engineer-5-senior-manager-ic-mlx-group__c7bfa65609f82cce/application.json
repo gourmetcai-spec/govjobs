@@ -1,0 +1,40 @@
+{
+  "employer": "Capital One",
+  "title": "Full Stack Engineer 5 (Senior Manager, IC, MLX Group)",
+  "requisition_id": "R1004785",
+  "canonical_url": "https://www.capitalonecareers.com/en/job/mclean/full-stack-engineer-5-senior-manager-ic-mlx-group/1732/102644420768",
+  "application_url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Full-Stack-Engineer-5--Senior-Manager--IC--MLX-Group-_R1004785-1/apply",
+  "posted_date": "2026-10-30",
+  "posted_date_evidence": "Employer page visible posted date and JobPosting.datePosted match.",
+  "location": "McLean, VA; additional U.S. offices listed in job.md",
+  "remote_restrictions": "Not advertised as remote; confirm office cadence. No relocation assumed.",
+  "salary": "$229,900–$262,400 McLean base",
+  "fit": "Strong engineering/platform overlap; confirm required cloud tenure.",
+  "gaps": "Baseline does not establish exact AWS/cloud tenure (2 years required for Engineer 4; 3 for Engineer 5). Confirm before application preparation; do not infer duration from employer tenure. Preferred frontend framework tenure, open-source contributions, CI/CD/IaC tenure, Kubernetes operations and observability are not documented. Multiple language experience exists, but language-specific durations are not claimed. No production LLM/agent experience is claimed.",
+  "strengths": "Baseline: Freddie Mac Director (May 2014–present) leads multi-project financial engineering; AWS/IBM Symphony modeling and enterprise forecasting. Campbell (2003–2014) documents Java trading architecture, database integration, C++ pricing, and risk reporting. Computer science master’s degrees and applied mathematics bachelor’s degree support degree requirements. Baseline core skills name Python, Docker, Spring Boot, SQL databases and MongoDB.",
+  "open_evidence": "Live employer detail page with Apply destination and current listing index; no expired deadline displayed.",
+  "retrieved_at": "2026-11-01T23:27:02.650127+00:00",
+  "aliases": [],
+  "discovery_window": [
+    "2026-09-01",
+    "2026-11-01"
+  ],
+  "status": "eligible",
+  "id": "c7bfa65609f82cce",
+  "step": 1,
+  "selected": false,
+  "submitted": false,
+  "artifacts": {
+    "resume_markdown": {
+      "path": "applications/2026-11-01__capital-one__full-stack-engineer-5-senior-manager-ic-mlx-group__c7bfa65609f82cce/resume-xuewu-cai__capital-one__full-stack-engineer-5-senior-manager-ic-mlx-group__R1004785__v1.md",
+      "sha256": "1bdefdf2860dea3ee009a14520c68c2768d97c93d935815ff81f2a4f05bebe04"
+    },
+    "resume_pdf": {
+      "path": "applications/2026-11-01__capital-one__full-stack-engineer-5-senior-manager-ic-mlx-group__c7bfa65609f82cce/resume-xuewu-cai__capital-one__full-stack-engineer-5-senior-manager-ic-mlx-group__R1004785__v1.pdf",
+      "sha256": "d073d14efb56ea6794bfbc35dcf4ad3c5212c1e977ddbd8639751667176040fa"
+    }
+  },
+  "resume_review": "Text extraction passed (2 pages); every page rendered with PDFKit and visually reviewed: no clipping, overlap or blank pages. Confirm mandatory cloud tenure before preparation.",
+  "geography_review": "2026-11-01 user-confirmed DMV region: local offered office or remote from Maryland required.",
+  "geography_fit": true
+}

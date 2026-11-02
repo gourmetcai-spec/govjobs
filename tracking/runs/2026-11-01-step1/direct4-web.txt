@@ -1,0 +1,237 @@
+Quantitative Developer | London UK (https://www.efinancialcareers.com/jobs-United_Kingdom-London-Quantitative_Developer.id24903205)
+citeturn4search0 [wordlim: 200] Crawled: last week; Quantitative Developer, Risk Technology
+A CAREER WITH POINT72's TECHNOLOGY TEAM ...   * Demonstrated track record and hands-on experience in financial instrument modeling, particularly within the equity space
+  * 5+ years of programming experience in Python or another language commonly used in quantitative and statistical work (e.g., R, Julia, MATLAB), in a quantitative or research environment ... We invest in our people, their careers, their health, and their well-being. ... Cohen with over $58.5 billion in assets under management (as of July 1, 2026).
+
+# Quantitative Developer
+
+Point72 London, United Kingdom
+
+Posted 1 day ago Permanent Competitive
+
+# Quantitative Developer
+
+Point72 London, United Kingdom
+
+Quantitative Developer
+
+Quantitative Developer, Risk Technology
+A CAREER WITH POINT72's TECHNOLOGY TEAM
+As Point72 reimagines the future of investing, our Technology team is constantly evolving our firm's IT infrastructure and engineering capabilities, positioning us at the forefront of a rapidly evolving technology landscape. We're a team of experts who experiment and work to discover new ways to harness open-source solutions, modern cloud architectures, and sophisticated Artificial Intelligence (AI) solutions, while embracing enterprise agile methodologies. Our commitment to building and innovating in the AI space provides the framework intended to drive smarter decision making and enhance how we build and operate our platforms and applications.
+As a member of Point72's Technology team, we encourage and support your professional development from day one-helping you advance your technical skills, contribute innovative ideas, and satisfy your own intellectual curiosity-all while delivering real business impact for our multi-billion-dollar global business.
+--------------------------------------------------------------------------------
+Quantitative Developer - eFinancialCareers at eFinancialCareers - New York | Haystack (https://haystackapp.io/jobs/aa33c2cd-3e39-455c-a192-60279611685d)
+citeturn4search1 [wordlim: 200] Published: last month; Crawled: 2 weeks ago; # Quantitative Developer - eFinancialCareers
+
+eFinancialCareers New York, NY🇺🇸United States Posted Sep 9, 2026
+
+Full time
+
+Technology
+
+EFImage: eFinancialCareers logo
+
+# Quantitative Developer - eFinancialCareers
+
+eFinancialCareersNew York, NY🇺🇸United States Posted Sep 9, 2026
+
+## Quick Overview
+
+Seniority
+
+Mid Senior
+
+Employment type
+
+Full Time
+
+Work mode
+
+Hybrid
+
+Location
+
+New York, NY, United States
+
+Posted
+
+5 weeks ago
+
+Python
+
+## Job Description
+
+I am working with a Top Tier Hedge Fund based in New York City who are looking to hire a Quantitative Developer to join their Global Macro Team . The main function of this role would be to assist on designing, coding and maintaining tools for the systematic trading infrastrucure of the team. They are open to considering candidates that have 3+ years of experince working as a Quantitative Developer . Experince onFixed Income is considered as a plus.
+
+I have an excellent relationship with the team there and would ike to present a select number of suitable profiles to recommend for an interview.
+
+Job Description:
+
+The Team:
+
+Systematic macro team which focuses on applying statistical and ML techniques to short-term strategies in futures, swaps, and FX markets.
+
+Responsibilities:
+
+  1. Strong Python programming skills
+  2. Knowledge of distributed computing technologies and event based architechtures
+  3. Good understanding of Fixed Income, Swaptions, FX and Futures
+  4. Educational background in a Quantitative Field such as: in Computer Science, Engineering, Applied Mathematics, Statistics.
+
+Requirements:
+
+  1. Trading platform development experience or exposure to a systematic trading environment or sell-side equivalent experience
+  2. 3+ years of experince with Python programming
+  3. Exposure working with high-frequency databases
+--------------------------------------------------------------------------------
+Quant Researchers & Quant Devs - eFinancialCareers at eFinancialCareers - Boston | Haystack (https://haystackapp.io/jobs/6981468f-8e6b-4a21-a352-b59a0a4035d9)
+citeturn4search2 [wordlim: 200] Published: 3 weeks ago; Crawled: 2 weeks ago; # Quant Researchers & Quant Devs - eFinancialCareers
+
+eFinancialCareers Boston, MA🇺🇸United States Posted Oct 7, 2026 ... A sizable systematic focused hedge fund is expanding its quant R&D team and hiring for Quantitative Developer and Quantitative Analyst roles. ... Focus on research and alpha development:
+
+Full time
+
+Other
+
+EFImage: eFinancialCareers logo
+
+# Quant Researchers & Quant Devs - eFinancialCareers
+
+eFinancialCareersBoston, MA🇺🇸United States Posted Oct 7, 2026
+
+## Quick Overview
+
+Seniority
+
+Mid Senior
+
+Employment type
+
+Full Time
+
+Work mode
+
+Hybrid
+
+Location
+
+Boston, MA, United States
+
+Posted
+
+1 week ago
+
+C++Fixed Income Python
+
+## Job Description
+
+A sizable systematic focused hedge fund is expanding its quant R&D team and hiring for Quantitative Developer and Quantitative Analyst roles. The firm has a global presence, including offices in NY, CT, Boston, London and HK.
+
+These roles sit close to the investment process, supporting and building systematic equity and futures trading strategies
+
+(mostly mid-frequency)
+
+Quant Developer
+
+Work at the intersection of research and production:
+
+  * Build and optimize research & trading infrastructure
+  * Implement systematic strategies into live systems
+  * Develop tools for backtesting, execution, and transaction cost modeling
+  * Partner with PMs and researchers on cash equities, futures, options, credit and macro desks
+Quant Analyst/Researcher
+
+Focus on research and alpha development:
+
+  * Analyze large datasets to identify systematic trading opportunities
+  * Research index, benchmark, and event-driven effects
+  * Support portfolio construction and risk analysis
+  * Collaborate with developers to transition models into production
+✅ Ideal Background
+
+  * Strong skills in Python (C++ a plus)
+  * Experience in systematic equities, options, futures or fixed income trading systems and analytics
+  * Understanding of market microstructure and data-driven research
+  * Background in a hedge fund, asset manager, or quant-driven environment
+
+
+Apply--------------------------------------------------------------------------------
+Senior Software Engineer in Baltimore, Maryland, USA | TEKsystems Careers (https://careers.teksystems.com/us/en/job/JP-006364516/Senior-Software-Engineer)
+citeturn4search3 [wordlim: 200] Crawled: 4 days ago; JOB DESCRIPTION ... Heres what the opportunity supported through our TGS Talent Acquisition Team requires: The Senior Software Engineer is a technical role responsible for designing, building, and maintaining cloud-based solutions and accelerators to support consulting and delivery projects or programs. ... Minimum Qualifications: Bachelors degree in Computer Science, Engineering, or a related technical field (or equivalent experience). 3+ years of hands-on experience in cloud development or related technical roles. 3+ years experience working with AWS services, including compute, storage, networking, and security. ... Our full-time, internal employment benefits include the following: Medical, Dental, and Vision Critical Illness, Accident, and Hospital 401(k) Retirement Plan Pre-tax and Roth post-tax contributions available Life Insurance (Voluntary Life and AD&D for employee and dependents) Short and Long-Term Disability Health Spending Account (HSA) Transportation Benefits Employee Assistance Program Time Off/Leave (PTO, Vacation or Sick Leave)
+
+We reserve the right to pay above or below the posted wage based on factors unrelated to sex, race, or any other protected classification. Additional earnings may be available through incentive programs like annual bonuses, profit sharing, etc. Our full-time, internal employment benefits include the following: Medical, Dental, and Vision Critical Illness, Accident, and Hospital 401(k) Retirement Plan Pre-tax and Roth post-tax contributions available Life Insurance (Voluntary Life and AD&D for employee and dependents) Short and Long-Term Disability Health Spending Account (HSA) Transportation Benefits Employee Assistance Program Time Off/Leave (PTO, Vacation or Sick Leave)
+
+Job Type & Location
+
+This is a Permanent position based out of Baltimore, MD.
+
+Application Deadline
+
+This position is anticipated to close on Nov 3, 2026.
+
+Workplace Type
+
+This is a fully remote position.
+
+#### About TEKsystems
+
+We're partners in transformation. We help clients activate ideas and solutions to take advantage of a new world of opportunity. --------------------------------------------------------------------------------
+Senior Software Engineer - UI-Focused Full-Stack Job Details | Leonardo DRS, Inc. (https://careers.leonardodrs.com/job/Germantown-Senior-Software-Engineer-UI-Focused-Full-Stack-MD-20876/1439528700/)
+citeturn4search4 [wordlim: 200] Crawled: 4 days ago; Job ID: 115700 ... DRS RADA Technologies is seeking a full-time, on-site Senior Software Engineer to design, build, and maintain modern front-end applications and full-stack features for mission-critical radar and defense systems. ... This full-time role is based on-site in Germantown, Maryland, where close collaboration with software, systems, hardware, integration, and test teams is essential.
+--------------------------------------------------------------------------------
+Senior Software Engineer Job - TalentOps - Annapolis Junction, Maryland (Hiring Now) - Monster (https://www.monster.com/job-openings/senior-software-engineer-annapolis-junction-md--7f1a3464-213d-4e1f-b92a-bcd2434098f5)
+citeturn4search5 [wordlim: 200] Crawled: last month; # Senior Software Engineer ...   * Annapolis Junction, Maryland ... ## Job Description
+
+## Senior Software Engineer
+--------------------------------------------------------------------------------
+Quantitative Developer | Hong Kong HK (https://www.efinancialcareers.com/jobs-Hong_Kong-Hong_Kong-Quantitative_Developer.id24741573)
+citeturn4search6 [wordlim: 200] Crawled: last month; The company operates within the finance sector, specialising in quantitative trading and technology-driven investment strategies. ... The Quantitative Developer will be part of a team dedicated to improving research tools, trading systems, and automation processes. ...   * Available to start on 02/09/2026 for a 2-week period
+--------------------------------------------------------------------------------
+Jobs at eFinancialCareers – page 7 | The Public Jobs (https://thepublicjobs.com/companies/efinancialcareers?page=7)
+citeturn4search7 [wordlim: 200] Crawled: yesterday; eFinancialCareers ...     on 24 Sept 2026 ... ### C++ Quantitative Developer - HFT- Systematic Quant Fund
+--------------------------------------------------------------------------------
+C++ quantitative developer - hft | amsterdam- systematic quant fund (https://jobs-search.org/quantitative-developer_amsterdam-c353726/2026-10-efinancialcareers_i4255124303)
+citeturn4search8 [wordlim: 200] Published: last week; Crawled: last week; # C++ Quantitative Developer - Hft | Amsterdam- Systematic Quant Fund
+
+EFinancialCareers Amsterdam, Noord-Holland, NL
+
+Published 2026-10-21 ... This opportunity offers a dynamic and fast-paced environment with excellent scope for career growth. ... Whilst we carefully review all applications, to all jobs, due to the high volume of applications we receive it is not possible to respond to those who have not been successful. ... Occupation C++ quantitative developer - hft | amsterdam- systematic quant fund
+--------------------------------------------------------------------------------
+Quantitative Developer jobs | Finseats (https://finseats.com/roles/quantitative-developer)
+citeturn4search9 [wordlim: 200] Crawled: yesterday; # Quantitative Developer jobs ... Every listing comes from an employer's own careers feed and links straight to their application — no reposts, no expired ads. ... Closes 31 Dec 2026 ... 2027 – Internship or Graduate, Software Engineer and Quantitative Developer Intern
+--------------------------------------------------------------------------------
+eFinancialCareers Jobs – 449 Open Vacancies – Page 23 (https://ukalljobs.com/company/efinancialcareers/page/23/)
+citeturn4search10 [wordlim: 200] Crawled: 3 days ago; # Jobs at eFinancialCareers
+
+449 jobs found · Page 23 · Updated 29 October 2026 ... ### Quantitative Developer - HFT C++- Systematic Quant Fund
+--------------------------------------------------------------------------------
+Quantitative developer jobs: 71 Open Roles at 29 Companies (https://www.elegylabs.com/jobs/quantitative-developer)
+citeturn4search11 [wordlim: 200] Published: 5 days ago; Crawled: 2 days ago; ElegyLabs / Jobs / Quantitative developer ... Talent Pool: Trading Systems Engineer  | Flow Traders  | New York  | Mid-level  | Aug 6 ... Quantitative Developer Intern 2027  | Voloridge  | Jupiter, FL  | Internship  | Jun 11
+--------------------------------------------------------------------------------
+WALLEYE QUANTIC (https://physicsworld.com/wp-content/uploads/2026/02/pwcareers2026-e-magazine-v2.pdf)
+citeturn4search12 [wordlim: 200] Published: 9 months ago; <visual_element id="e1"> ... Employees also have access to external learning platforms, enabling self-directed development aligned with individual interests and career goals. ... physicsworldjobs.com ... Quantic quantitative researcher, Quantic quantitative developer, volatility quantitative researcher, software engineering, artificial intelligence ... Physics World Careers 2026
+--------------------------------------------------------------------------------
+Empower (https://www.empower.co.tz/empower-jobs/download-job/java-developer-65af86dc63733)
+citeturn4search13 [wordlim: 200] Published: 5 months ago; Job Description ... Java developer
+--------------------------------------------------------------------------------
+Senior Software Engineer - EED3-HIR-1604 (https://www.suresecuresolutions.com/wp-content/uploads/2023/03/Senior-Software-Engineer-EED3-HIR-1604.pdf)
+citeturn4search14 [wordlim: 200] As a small business, we are recognized as industry leaders by our federal clients in providing talented and driven teams to multiple clientele across the US, including in Washington DC, Virginia, Maryland and California. ... **Job Summary:**
+
+Sure Secure Solutions is looking for a **Senior Software Engineer** specializing in **Cloud Data Analytics**, will be a key development team member supporting the evolution and sustainment of data analytics services for EED enterprise systems and supporting infrastructure.
+--------------------------------------------------------------------------------
+Senior Java Developer (https://emcbg.com/wp-content/uploads/2024/12/Senior_Java_Developer_NT1.pdf)
+citeturn4search15 [wordlim: 200] Published: 6 months ago; Job description
+We are looking for an experienced Senior Software Developer in Java that will be responsible
+--------------------------------------------------------------------------------
+MapleCap Partners (https://eth-gethired.ch/Media/Public/Jobs/11f7ad42-d59e-f011-9b56-88d9591626bf/jobdescription.pdf)
+citeturn4search16 [wordlim: 200] Published: 1.1 years ago; Job Title: Quantitative Developer Intern ... Start Date: Jan/Feb 2026, by arrangement ... <td>Enrolled in a master’s or Ph.D. program in a quantitative field like computer science, statistics, math, physics, engineering, etc. at a top academic institution</td> ... <td>Coding proficiency in a high-level language<br>Object oriented programming<br>Software design patterns<br>Time series analysis (e.g. state space models)</td>
+--------------------------------------------------------------------------------
+Financial Services - Technology Salary Guide 2026 (https://kapitalconsulting.com.au/wp-content/uploads/2026/03/Financial-Services-Technology-Salary-Guide-2026.pdf)
+citeturn4search17 [wordlim: 200] Published: 8 months ago; Salary Guide 2026 ... Software engineering demand remains strong across financial services, with firms continuing to invest in AI-driven innovation, platform scalability and cloud-native architectures. ... <table id="e1"> ... | Quantitative Developer | $140,000 + | $160,000 + | $250,000 + | $250,000 + | - |
+--------------------------------------------------------------------------------
+Citi Markets Cash Equities C11 Quant Developer Offer (https://www.reddit.com/r/quantindia/comments/1vi96xp/citi_markets_cash_equities_c11_quant_developer/)
+citeturn4reddit18 [wordlim: 200] Published: 2 months ago; [Friday August 07 2026] [+16 votes]
+I just received a verbal offer from the cash equities quant Mumbai team for a quantitative developer and analyst role. ... 2 YOE.
+--------------------------------------------------------------------------------
+Am I too late for quant recruiting? Graduating Dec 2026, looking for Jan 2027 full-time roles (https://www.reddit.com/r/quantfinance/comments/1vmzwpa/am_i_too_late_for_quant_recruiting_graduating_dec/)
+citeturn4reddit19 [wordlim: 200] Published: 2 months ago; [Thursday August 13 2026] [+10 votes] ... I’m currently pursuing a Master’s in Financial Engineering at an Ivy League university in the US and am starting to think seriously about full-time recruiting for quant roles. ... 4) Quantitative Developer (QD) ... If the job is on their careers page then it’s not too late.

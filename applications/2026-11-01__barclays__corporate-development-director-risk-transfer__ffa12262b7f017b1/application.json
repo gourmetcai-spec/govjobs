@@ -1,0 +1,33 @@
+{
+  "employer": "Barclays",
+  "requisition_id": "JR-0000136364",
+  "title": "Corporate Development Director (Risk Transfer)",
+  "canonical_url": "https://search.jobs.barclays/job/wilmington/corporate-development-director-risk-transfer/13015/102599893296",
+  "posted_date": "2026-10-29",
+  "gaps": "Substantial CRT, capital/ROE, valuation and structured transaction overlap. Required direct external counterparty work, commercial negotiation/due diligence, rating agency/legal documentation processes, advanced Excel and consumer banking/RWA/CET1 scope are not documented. Confirm before eligible. Wilmington/NY attendance preference unresolved. Geography update: no DMV office or verified Maryland-remote option; distant required office excluded by user preference.",
+  "location": "Wilmington, DE; New York, NY",
+  "salary": "$220,000–$280,000 base",
+  "aliases": [
+    "https://search.jobs.barclays/en/job/wilmington/corporate-development-director-risk-transfer/13015/102599893296"
+  ],
+  "application_url": "https://search.jobs.barclays/job/wilmington/corporate-development-director-risk-transfer/13015/102599893296",
+  "retrieved_at": "2026-11-01T23:31:59.056383+00:00",
+  "posted_date_evidence": "Employer JobPosting.datePosted or Workday startDate",
+  "remote_restrictions": "See job description; no relocation assumed.",
+  "fit": "Related responsibilities; needs verification",
+  "strengths": "Baseline: Freddie Mac Director (May 2014–present) leads multi-project financial engineering; AWS/IBM Symphony modeling and enterprise forecasting. Campbell (2003–2014) documents Java trading architecture, database integration, C++ pricing, and risk reporting. Computer science master’s degrees and applied mathematics bachelor’s degree support degree requirements. Baseline core skills name Python, Docker, Spring Boot, SQL databases and MongoDB.",
+  "open_evidence": "Live public employer job description; no application action performed.",
+  "discovery_window": [
+    "2026-09-01",
+    "2026-11-01"
+  ],
+  "status": "skipped",
+  "id": "ffa12262b7f017b1",
+  "step": 1,
+  "selected": false,
+  "submitted": false,
+  "artifacts": {},
+  "resume_review": "not generated; excluded or verification required",
+  "geography_review": "2026-11-01 user-confirmed DMV region: local offered office or remote from Maryland required.",
+  "geography_fit": false
+}

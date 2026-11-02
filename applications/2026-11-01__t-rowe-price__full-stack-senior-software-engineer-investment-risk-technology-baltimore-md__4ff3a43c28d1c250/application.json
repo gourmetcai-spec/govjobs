@@ -1,0 +1,42 @@
+{
+  "employer": "T. Rowe Price",
+  "title": "Full Stack Senior Software Engineer– Investment Risk Technology (Baltimore, MD)",
+  "requisition_id": "82379",
+  "canonical_url": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/Full-Stack-Senior-Software-Engineer--Investment-Risk-Technology_82379",
+  "application_url": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/Full-Stack-Senior-Software-Engineer--Investment-Risk-Technology_82379/apply",
+  "location": "Baltimore, MD; Washington DC",
+  "remote_restrictions": "Local hybrid role; exact home/office allowance in full description. Must work at offered Maryland/DC location.",
+  "posted_date": "2026-09-23",
+  "posted_date_evidence": "Employer public Workday jobPostingInfo.startDate; Posted 30+ Days Ago",
+  "salary": "$121,000.00 - $206,000.00; $133,000.00 - $227,000.00; $151,000.00 - $258,000.00 (employer disclosed base ranges; see location-specific text)",
+  "open_evidence": "Employer public data: canApply=True, posted=True",
+  "source_evidence": "tracking/runs/2026-11-01-step1-resume/trowe-82379.json",
+  "retrieved_at": "2026-11-01T23:58:15.048918+00:00",
+  "fit": "Financial/investment technology and software engineering overlap; verify role-specific requirements.",
+  "gaps": "Preferred React and exact test/CI/CD/observability practices not documented. No C#/.NET or frontend framework claims added. Confirm onsite cadence and current production engineering scope.",
+  "strengths": "Baseline: Freddie Mac Director (May 2014–present) leads multi-project financial engineering; AWS/IBM Symphony modeling and enterprise forecasting. Campbell (2003–2014) documents Java trading architecture, database integration, C++ pricing, and risk reporting. Computer science master’s degrees and applied mathematics bachelor’s degree support degree requirements. Baseline core skills name Python, Docker, Spring Boot, SQL databases and MongoDB. Campbell Portfolio and Risk Team (2009–2014): volatility/correlation research, portfolio stress reporting and Investment Committee support. Java trading platform supported more than $3B in capital; no personally managed-assets claim.",
+  "discovery_window": [
+    "2026-09-01",
+    "2026-11-01"
+  ],
+  "geography_fit": true,
+  "aliases": [],
+  "id": "4ff3a43c28d1c250",
+  "status": "eligible",
+  "step": 1,
+  "selected": false,
+  "submitted": false,
+  "application_directory": "applications/2026-11-01__t-rowe-price__full-stack-senior-software-engineer-investment-risk-technology-baltimore-md__4ff3a43c28d1c250",
+  "priority": "standard",
+  "artifacts": {
+    "resume_markdown": {
+      "path": "applications/2026-11-01__t-rowe-price__full-stack-senior-software-engineer-investment-risk-technology-baltimore-md__4ff3a43c28d1c250/resume-xuewu-cai__t-rowe-price__full-stack-senior-software-engineer-investment-risk-technology-baltimore-md__82379__v1.md",
+      "sha256": "6fe213a479b0ddcbd15a1850f04e203331e80225cf7805a983c8136cde19297e"
+    },
+    "resume_pdf": {
+      "path": "applications/2026-11-01__t-rowe-price__full-stack-senior-software-engineer-investment-risk-technology-baltimore-md__4ff3a43c28d1c250/resume-xuewu-cai__t-rowe-price__full-stack-senior-software-engineer-investment-risk-technology-baltimore-md__82379__v1.pdf",
+      "sha256": "f4495f593b48c8db5351f33c400b46e6c1700050ab146fbff91f6aee089a431b"
+    }
+  },
+  "resume_review": "Text extraction verified: 2 pages and all baseline experience bullets retained. Every page rendered with macOS PDFKit and visually reviewed: no clipping, overlap or blank pages."
+}

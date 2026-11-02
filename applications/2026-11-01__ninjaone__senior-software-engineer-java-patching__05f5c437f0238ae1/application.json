@@ -1,0 +1,33 @@
+{
+  "employer": "NinjaOne",
+  "requisition_id": "oyLHAfwk",
+  "title": "Senior Software Engineer, Java | Patching",
+  "canonical_url": "https://jobs.jobvite.com/ninjaone/job/oyLHAfwk",
+  "posted_date": "2026-08-25",
+  "gaps": "Employer original posting date August 25, 2026 falls outside this window. Built In recent/repost labels do not supersede the original date.",
+  "location": "U.S. remote, Maryland included",
+  "salary": "$140,000–$200,000 base",
+  "aliases": [
+    "https://builtin.com/job/senior-software-engineer-java-patching/11698666"
+  ],
+  "application_url": "https://jobs.jobvite.com/ninjaone/job/oyLHAfwk",
+  "retrieved_at": "2026-11-01T23:31:59.056383+00:00",
+  "posted_date_evidence": "Employer JobPosting.datePosted or Workday startDate",
+  "remote_restrictions": "See job description; no relocation assumed.",
+  "fit": "Related responsibilities; skipped",
+  "strengths": "Baseline: Freddie Mac Director (May 2014–present) leads multi-project financial engineering; AWS/IBM Symphony modeling and enterprise forecasting. Campbell (2003–2014) documents Java trading architecture, database integration, C++ pricing, and risk reporting. Computer science master’s degrees and applied mathematics bachelor’s degree support degree requirements. Baseline core skills name Python, Docker, Spring Boot, SQL databases and MongoDB.",
+  "open_evidence": "Live public employer job description; no application action performed.",
+  "discovery_window": [
+    "2026-09-01",
+    "2026-11-01"
+  ],
+  "status": "skipped",
+  "id": "05f5c437f0238ae1",
+  "step": 1,
+  "selected": false,
+  "submitted": false,
+  "artifacts": {},
+  "resume_review": "not generated; excluded or verification required",
+  "geography_review": "2026-11-01 user-confirmed DMV region: local offered office or remote from Maryland required.",
+  "geography_fit": true
+}

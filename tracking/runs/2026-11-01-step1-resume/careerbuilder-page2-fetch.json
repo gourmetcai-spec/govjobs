@@ -1,0 +1,8 @@
+{
+  "key": "careerbuilder-page2",
+  "url": "https://www.careerbuilder.com/jobs-java-developer?page=2",
+  "effective_url": "https://www.careerbuilder.com/jobs-java-developer?page=2",
+  "retrieved_at": "2026-11-01T23:52:32.112358+00:00",
+  "exit_code": 56,
+  "error": "curl: (56) The requested URL returned error: 403\n"
+}

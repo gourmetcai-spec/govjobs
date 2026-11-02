@@ -1,0 +1,75 @@
+{
+  "jobPostingInfo": {
+    "id": "4b77753ab0fd1001a5d169d0eed80000",
+    "title": "Access Management- Engineering- Senior Associate",
+    "jobDescription": "<p>Playing an essential role in the U.S. economy, Fannie Mae is foundational to housing finance. Here, your expertise can help fuel purpose-driven innovation that expands access to homeownership and affordable rental housing across the country. Join Fannie Mae to grow your career and help people find a place to call home.</p><p></p><p style=\"text-align:left\">Job Description</p><p style=\"text-align:inherit\"></p><p style=\"text-align:inherit\"></p><p>As a valued colleague on our team, you will design, develop, test, and/or maintain moderately complex hardware, technology, and/or processes.</p><p><b>Access Management Engineer</b><br />Collaborate and coordinate with customers to gather and evaluate business requirements and design automated test methodologies providing coverage for product delivery.<br />\u2022Lead a team of SDETs in building test strategies and framework design to test complex API, web and mobile based applications that reference database back-end systems.<br />\u2022Build test automation frameworks from scratch with Selenium, Pytest, Cucumber, Junit, TestNG, Applitools, Microsoft Graphs, Sauce Labs, Mavin, Jenkins, and Java.<br />\u2022Perform mobile testing and build frameworks with technologies and tools including Appium, Appium Desktop, UIAutomator2, XCUITest, Android, IOS, AndroidStudio.<br />\u2022Build and maintain Jenkin pipelines and jobs for automated tests system with resource monitoring tools including OS-native tools and popular resource monitoring and log analysis stacks (ELK, Splunk, Kibana).<br />\u2022Perform functional testing with a focus on functional test definition and test planning, test automation at all levels of the testing pyramid, and scalability testing in large scale, distributed systems.<br />\u2022Perform different testing methodologies, such as behavior-driven testing, regression testing, e2e testing, user acceptance consumer-driven contract testing, unit testing, and integration testing.<br />\u2022Summarize test results into meaningful reports to effectively communicate test coverage and code quality, as well as scalability, capacity and performance issues.<br />\u2022Review product scalability, reliability, consistency, and performance.<br />\u2022Mentor less experienced team members and share best practices in testing methodologies<br />This is a Flex position, limited remote work possible.</p><p></p><p>REQUIREMENTS:\u00a0\u00a0 \u00a0<br />Master\u2019s in Computer Science or Telecommunications and at least three years of experience as Developer in Test using Java, Python, Jenkins, GitLab, GitHub, Bitbucket, Cucumber, AWS services (including S3, EC2, CloudWatch, DynamoDB, Lambda, IAM), Applitools, Selenium, Maven, Microsoft Graphs, RestAssured, SQL, Postman, OAUTH 2.0, Appium, Android, IOS, XCUITest, UIAutomator2, LINUX shell scripting, PING products (including Ping One, Ping Identity, Ping Federate, Ping Directory, Ping Access), Splunk, and Kibana.<br />As a condition of employment with Fannie Mae, any successful job applicant will be required to pass a pre-employment drug screen and to successfully complete a background investigation, which may also include a credit check for positions in some areas of our business.</p><p style=\"text-align:inherit\"></p><p style=\"text-align:left\">Qualifications</p><p style=\"text-align:inherit\"></p><p style=\"text-align:left\">Education:</p>Bachelor's Level Degree  (Required)<p style=\"text-align:inherit\"></p><p style=\"text-align:left\">The future is what you make it to be. Discover compelling opportunities at <span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span class=\"WKM0\">Fanniemae.com/careers.</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></p><p style=\"text-align:inherit\"></p><p style=\"text-align:left\">For most roles, employees are expected to work onsite on a regular basis at their designated office location. In-office work cadence is determined by your manager. Proximity within a reasonable commute to your designated office location is preferred unless the job is noted as open to remote.</p><p style=\"text-align:left\"><br />Fannie Mae is an equal opportunity employer and considers qualified applicants for employment without regard to race, color, religion, sex, national origin, disability, age, sexual orientation, gender identity/gender expression, marital or parental status, or any other protected factor. Fannie Mae is committed to providing reasonable accommodations to qualified individuals with disabilities who are employees or applicants for employment, unless to do so would cause undue hardship to the company. If you need assistance using our online system and/or you need a reasonable accommodation related to the hiring/application process, please complete this <a href=\"https://www.fanniemae.com/form/main-contact-form?recipient&#61;careers_mailbox\" target=\"_blank\">form</a>.</p><p style=\"text-align:inherit\"></p><p style=\"text-align:left\">The hiring range for this role is set forth below. Final salaries will generally vary within that range based on factors that include but are not limited to, skill set, depth of experience, certifications, and other relevant qualifications. This position is eligible to participate in a Fannie Mae incentive program (subject to the terms of the program). As part of our comprehensive benefits package, Fannie Mae offers a broad range of Health, Life, Voluntary Lifestyle, and other benefits and perks that enhance an employee&#39;s physical, mental, emotional, and financial well-being. See more <a href=\"https://www.fanniemae.com/careers/benefits\" target=\"_blank\">here</a>.</p><p style=\"text-align:inherit\"></p><p style=\"text-align:inherit\"></p><p style=\"text-align:inherit\"></p><p style=\"text-align:inherit\"></p><p style=\"text-align:left\">Requisition compensation:</p>0<p style=\"text-align:left\">to</p>0",
+    "location": "",
+    "postedOn": "Posted 30+ Days Ago",
+    "startDate": "2026-08-28",
+    "timeType": "",
+    "jobReqId": "JR2745",
+    "jobPostingId": "Access-Management--Engineering--Senior-Associate_JR2745",
+    "jobPostingSiteId": "FannieMaeCareers",
+    "canApply": true,
+    "posted": true,
+    "includeResumeParsing": true,
+    "remoteType": "Flex",
+    "externalUrl": "https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Access-Management--Engineering--Senior-Associate_JR2745",
+    "questionnaireId": "0260430b8ab31001f20fa43995070000",
+    "timeLeftToApply": "28 days left to apply",
+    "endDate": "2026-11-30",
+    "jobPostingEndDateAsText": "End Date: November 30, 2026"
+  },
+  "hiringOrganization": {
+    "name": "Fannie Mae",
+    "url": ""
+  },
+  "similarJobs": [
+    {
+      "title": "Windows Engineering Manager",
+      "externalPath": "/job/Reston-VA/Windows-Engineering-Manager_JR2735",
+      "timeType": "Full time",
+      "locationsText": "2 Locations",
+      "postedOn": "Posted 30+ Days Ago",
+      "startDate": "2026-10-01",
+      "remoteType": "Flex"
+    },
+    {
+      "title": "Campus - Technology Program Intern",
+      "externalPath": "/job/Reston-VA/Campus---Technology-Program-Intern_JR2810",
+      "timeType": "Full time",
+      "locationsText": "2 Locations",
+      "postedOn": "Posted 30+ Days Ago",
+      "startDate": "2026-08-24",
+      "remoteType": "Flex"
+    },
+    {
+      "title": "Senior Full Stack Java Developer",
+      "externalPath": "/job/Reston-VA/Senior-Full-Stack-Java-Developer_JR2945",
+      "timeType": "Full time",
+      "locationsText": "Reston, VA",
+      "postedOn": "Posted 3 Days Ago",
+      "startDate": "2026-10-29",
+      "remoteType": "Flex"
+    },
+    {
+      "title": "Senior Associate \u2013 Palantir Forward Deployed Engineer",
+      "externalPath": "/job/Reston-VA/Senior-Associate---Palantir-Forward-Deployed-Engineer_JR2961-1",
+      "timeType": "Full time",
+      "locationsText": "Reston, VA",
+      "postedOn": "Posted 30 Days Ago",
+      "startDate": "2026-10-02",
+      "remoteType": "Flex"
+    },
+    {
+      "title": "Senior Identity & Access Management (IAM) Risk Advisor",
+      "externalPath": "/job/Plano-TX/Information-Security-Risk---Risk-Management---Advisor_JR2795",
+      "timeType": "Full time",
+      "locationsText": "Plano, TX",
+      "postedOn": "Posted 30+ Days Ago",
+      "startDate": "2026-09-16",
+      "remoteType": "Flex"
+    }
+  ],
+  "userAuthenticated": false
+}

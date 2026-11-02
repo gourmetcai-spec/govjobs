@@ -1,0 +1,42 @@
+{
+  "employer": "T. Rowe Price",
+  "title": "Associate Software Engineer",
+  "requisition_id": "83767",
+  "canonical_url": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Owings-Mills-MD/Associate-Software-Engineer_83767-1",
+  "application_url": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Owings-Mills-MD/Associate-Software-Engineer_83767-1/apply",
+  "location": "Owings Mills, MD",
+  "remote_restrictions": "Local hybrid role; exact home/office allowance in full description. Must work at offered Maryland/DC location.",
+  "posted_date": "2026-10-09",
+  "posted_date_evidence": "Employer public Workday jobPostingInfo.startDate; Posted 23 Days Ago",
+  "salary": "$77,500.00 - $132,000.00; $85,000.00 - $145,000.00; $96,500.00 - $165,000.00 (employer disclosed base ranges; see location-specific text)",
+  "open_evidence": "Employer public data: canApply=True, posted=True",
+  "source_evidence": "tracking/runs/2026-11-01-step1-resume/trowe-83767.json",
+  "retrieved_at": "2026-11-01T23:58:15.048918+00:00",
+  "fit": "Financial/investment technology and software engineering overlap; verify role-specific requirements.",
+  "gaps": "Associate-level scope/pay is below current Director role. Test-driven development/agile implementation details not explicit; core Java/database and engineering experience supported.",
+  "strengths": "Baseline: Freddie Mac Director (May 2014–present) leads multi-project financial engineering; AWS/IBM Symphony modeling and enterprise forecasting. Campbell (2003–2014) documents Java trading architecture, database integration, C++ pricing, and risk reporting. Computer science master’s degrees and applied mathematics bachelor’s degree support degree requirements. Baseline core skills name Python, Docker, Spring Boot, SQL databases and MongoDB. Campbell Portfolio and Risk Team (2009–2014): volatility/correlation research, portfolio stress reporting and Investment Committee support. Java trading platform supported more than $3B in capital; no personally managed-assets claim.",
+  "discovery_window": [
+    "2026-09-01",
+    "2026-11-01"
+  ],
+  "geography_fit": true,
+  "aliases": [],
+  "id": "847c32c9e9ffddb5",
+  "status": "eligible",
+  "step": 1,
+  "selected": false,
+  "submitted": false,
+  "application_directory": "applications/2026-11-01__t-rowe-price__associate-software-engineer__847c32c9e9ffddb5",
+  "priority": "lower",
+  "artifacts": {
+    "resume_markdown": {
+      "path": "applications/2026-11-01__t-rowe-price__associate-software-engineer__847c32c9e9ffddb5/resume-xuewu-cai__t-rowe-price__associate-software-engineer__83767__v1.md",
+      "sha256": "1bdefdf2860dea3ee009a14520c68c2768d97c93d935815ff81f2a4f05bebe04"
+    },
+    "resume_pdf": {
+      "path": "applications/2026-11-01__t-rowe-price__associate-software-engineer__847c32c9e9ffddb5/resume-xuewu-cai__t-rowe-price__associate-software-engineer__83767__v1.pdf",
+      "sha256": "e162637d821c147cce7e3c1a9defcc1e6c72d86f9fc64bf1bef473ae976937f6"
+    }
+  },
+  "resume_review": "Text extraction verified: 2 pages and all baseline experience bullets retained. Every page rendered with macOS PDFKit and visually reviewed: no clipping, overlap or blank pages."
+}

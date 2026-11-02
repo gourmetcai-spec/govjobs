@@ -1,0 +1,31 @@
+{
+  "employer": "Point72",
+  "requisition_id": "8389369002",
+  "title": "Fund Flow Quantitative Developer",
+  "canonical_url": "https://job-boards.greenhouse.io/point72/jobs/8389369002",
+  "posted_date": null,
+  "gaps": "Original posting date needs verification; no verified employer posting date yet. Fund research engineering overlaps Campbell quantitative research/Java/MATLAB and baseline Python, but current production Python/data-pipeline and fund-flow domain requirements need assessment. Do not use updated/index timestamps as posted dates. Geography update: no DMV office or verified Maryland-remote option; distant required office excluded by user preference. Retrieved page is a general careers landing page; full current description not verified.",
+  "location": "New York, NY; Stamford, CT",
+  "salary": null,
+  "aliases": [],
+  "application_url": "https://job-boards.greenhouse.io/point72/jobs/8389369002",
+  "retrieved_at": "2026-11-01T23:31:59.056383+00:00",
+  "posted_date_evidence": "Unknown; needs verification",
+  "remote_restrictions": "See job description; no relocation assumed.",
+  "fit": "Related responsibilities; needs verification",
+  "strengths": "Baseline: Freddie Mac Director (May 2014\u2013present) leads multi-project financial engineering; AWS/IBM Symphony modeling and enterprise forecasting. Campbell (2003\u20132014) documents Java trading architecture, database integration, C++ pricing, and risk reporting. Computer science master\u2019s degrees and applied mathematics bachelor\u2019s degree support degree requirements. Baseline core skills name Python, Docker, Spring Boot, SQL databases and MongoDB.",
+  "open_evidence": "Employer URL returned a general careers landing page; current job description and open status not verified.",
+  "discovery_window": [
+    "2026-09-01",
+    "2026-11-01"
+  ],
+  "status": "skipped",
+  "id": "5f07619a889472c4",
+  "step": 1,
+  "selected": false,
+  "submitted": false,
+  "artifacts": {},
+  "resume_review": "not generated; excluded or verification required",
+  "geography_review": "2026-11-01 user-confirmed DMV region: local offered office or remote from Maryland required.",
+  "geography_fit": false
+}

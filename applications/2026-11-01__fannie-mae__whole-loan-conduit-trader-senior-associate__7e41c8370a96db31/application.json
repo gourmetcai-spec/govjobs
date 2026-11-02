@@ -1,0 +1,42 @@
+{
+  "employer": "Fannie Mae",
+  "title": "Whole Loan Conduit Trader - Senior Associate",
+  "requisition_id": "JR2965",
+  "canonical_url": "https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Washington-DC/Whole-Loan-Conduit-Trader---Senior-Associate_JR2965",
+  "application_url": "https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Washington-DC/Whole-Loan-Conduit-Trader---Senior-Associate_JR2965/apply",
+  "location": "Washington, DC",
+  "remote_restrictions": "Flex/hybrid, DMV office offered; regular onsite work, manager sets cadence.",
+  "posted_date": "2026-10-05",
+  "posted_date_evidence": "Employer public Workday jobPostingInfo.startDate; Posted 27 Days Ago",
+  "salary": "$109000–$142000 (employer disclosed base ranges; see location-specific text)",
+  "open_evidence": "Employer public data: canApply=True, posted=True",
+  "source_evidence": "tracking/runs/2026-11-01-step1-resume/fannie-JR2965.json",
+  "retrieved_at": "2026-11-01T23:58:15.048918+00:00",
+  "fit": "Mortgage finance, MBS/TBA/CMO, duration/OAS/ROE analytics and trading-platform background support mortgage desk analytics and minimum related experience.",
+  "gaps": "Whole-loan pipeline hedging, pooling, settlements and dealer relationships not documented; role-specific operational responsibilities need discussion. Preferred Excel/VBA not established. Sensitive-role declarations require user review in Step 2.",
+  "strengths": "Baseline: Freddie Mac Director (May 2014–present) leads multi-project financial engineering; AWS/IBM Symphony modeling and enterprise forecasting. Campbell (2003–2014) documents Java trading architecture, database integration, C++ pricing, and risk reporting. Computer science master’s degrees and applied mathematics bachelor’s degree support degree requirements. Baseline core skills name Python, Docker, Spring Boot, SQL databases and MongoDB. Freddie Mac explicitly documents forecasting/CECL and STACR/ACIS model delivery; Campbell research covers statistical methods, Monte Carlo, stress analysis and Investment Committee reporting.",
+  "discovery_window": [
+    "2026-09-01",
+    "2026-11-01"
+  ],
+  "geography_fit": true,
+  "aliases": [],
+  "id": "7e41c8370a96db31",
+  "status": "eligible",
+  "step": 1,
+  "selected": false,
+  "submitted": false,
+  "application_directory": "applications/2026-11-01__fannie-mae__whole-loan-conduit-trader-senior-associate__7e41c8370a96db31",
+  "priority": "lower",
+  "artifacts": {
+    "resume_markdown": {
+      "path": "applications/2026-11-01__fannie-mae__whole-loan-conduit-trader-senior-associate__7e41c8370a96db31/resume-xuewu-cai__fannie-mae__whole-loan-conduit-trader-senior-associate__JR2965__v1.md",
+      "sha256": "a8f1c745d8d548dd222ca1b03fe9f9626c709bfd4b1ef1c31b15b01add9090ed"
+    },
+    "resume_pdf": {
+      "path": "applications/2026-11-01__fannie-mae__whole-loan-conduit-trader-senior-associate__7e41c8370a96db31/resume-xuewu-cai__fannie-mae__whole-loan-conduit-trader-senior-associate__JR2965__v1.pdf",
+      "sha256": "a5cff93bf3612a8ad9d636d6f7d3f0d9b09aad32666bf0de200bc0ebb6d08976"
+    }
+  },
+  "resume_review": "Text extraction verified: 2 pages and all baseline experience bullets retained. Every page rendered with macOS PDFKit and visually reviewed: no clipping, overlap or blank pages."
+}

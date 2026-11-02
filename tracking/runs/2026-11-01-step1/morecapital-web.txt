@@ -1,0 +1,251 @@
+Full-stack Engineer 5 at Capital One (https://www.capitalonecareers.com/en/job/mclean/full-stack-engineer-5/1732/100950228752)
+citeturn8view0 [wordlim: 200] Crawled: 2 weeks ago; Content type: text/html; Source: click({"ref_id":"turn7view1","id":4}); Total lines: 293
+L0: 【0†Skip to main content】
+L1:
+L2: You’re located near [Input] [Input: City, State, or ZIP]
+L3:
+L4: You’re interested in [Input: Search job title, category or skills]
+L5:
+L6: [Input] [Button: Find Jobs]
+L7:
+L8: R1001301 Posted 09/21/2026
+L9: # Full-stack Engineer 5
+L10:
+L11: McLean, Virginia | Richmond, Virginia | New York, New York | Plano, Texas | Chicago, Illinois [Button: Save Job]
+L12:
+L13: 【1†Apply†capitalone.wd12.myworkdayjobs.com】
+L14:
+L15:   * 【2†Image†tbcdn.talentbrew.com】
+L16:
+L17: Category Engineering
+L18:
+L19:   * 【3†Image†tbcdn.talentbrew.com】
+L20:
+L21: Experience Sr. Manager
+L22:
+L23:   * 【4†Image†tbcdn.talentbrew.com】
+L24:
+L25: Primary Address McLean, Virginia | Richmond, Virginia | New York, New York | Plano, Texas | Chicago, Illinois
+L26: ## Overview
+L27:
+L28: Full-stack Engineer 5
+L29: Do you love building and pioneering in the technology space? Do you enjoy solving complex business problems in a fast-paced, collaborative, inclusive and iterative delivery environment? At Capital One, you'll be part of a big group of makers, breakers, doers and disruptors who solve real problems and meet real customer needs. We are seeking Full-stack Software Engineers who are passionate about leveraging cutting-edge open source frameworks and emerging technologies.
+L30: In this role, you’ll be at the forefront of driving a major transformation across Capital One.
+L31: What You’ll Do:
+L32:   * Lead a portfolio of diverse technology projects and a team of developers with deep experience in distributed microservices, and full stack systems to create solutions that help meet regulatory needs for the company
+L33:   * Share your passion for staying on top of tech trends, experimenting with and learning new technologies, participating in internal & external technology communities, mentoring other members of the engineering community
+L34:   * Collaborate with digital product managers, and deliver robust cloud-based solutions that drive powerful experiences to help millions of Americans achieve financial empowerment
+L35:   * Utilize programming languages like Java, Scala, Python, Go, Node.js, JavaScript and TypeScript, Open Source RDBMS and NoSQL databases, Container Orchestration services including Docker and Kubernetes, and a variety of AWS tools and services
+L36:   * Provide technical leadership across multiple teams, shaping system architecture and long-term technology direction
+L37:   * Drive end-to-end design and implementation of large-scale, distributed, or cloud-native systems with high reliability and performance requirements
+L38:   * Partner with architects and product leaders to define platform roadmaps and shared services strategy
+L39: Basic Qualifications:
+L40:
+L41:   * Bachelor's Degree or higher in Computer Science or a related quantitative field (Statistics, Economics, Operations Research, Analytics, Mathematics, Engineering)
+L42:   * At least 6 years of experience in software engineering (Internship experience does not apply)
+L43:   * At least 3 years of experience with public cloud platforms (AWS, GCP, Azure), cloud-based productivity tools, or virtualization technologies
+L44:
+L45: Preferred Qualifications:
+L46:   * Master’s Degree in Computer Science or a related field
+L47:   * 9+ years of experience coding with more than two of the following: Go, Java, JavaScript/TypeScript, Python, Rust, C#, Scala
+L48:   * 5+ years of experience contributing to open source frameworks
+L49:   * 5+ years of experience with front-end JavaScript or TypeScript frameworks
+L50:   * 5+ years of experience creating synchronous and asynchronous APIs
+L51:   * 4+ years of experience with database and database management systems
+L52:   * 4+ years of experience with AWS, GCP, Azure, or cloud-based productivity tools or virtualization technologies
+L53:   * 4+ years of experience with CI/CD pipelines, infrastructure as code, and automated testing frameworks
+L54:   * 4+ years of experience using Git-based version-control systems (e.g., Git, GitHub, Bitbucket)
+L55:   * 4+ years of experience troubleshooting technical issues within cloud environments
+L56:   * 3+ years of experience mentoring senior engineers and driving professional development within technical teams
+L57:   * 2+ years of experience leveraging observability to identify and optimize performance bottlenecks in distributed systems
+L58:   * 1+ year of experience leading architectural design reviews and influencing enterprise-wide technical standards and methodologies
+L59:   * 1+ year of experience establishing and enforcing coding standards and design patterns across teams
+L60:   * 1+ year of experience implementing observability and reliability practices at scale
+L61:   * Experience leveraging modern AI-based coding tools and IDE copilots
+L62:   * Experience influencing technology strategy at the portfolio or business unit level
+L63:   * Experience with interactive AI tooling to accelerate productivity, utilizing capabilities beyond basic code completion
+L64:   * Experience leading cross-functional engineering efforts or large-scale technical initiatives
+L65: # Capital One will consider sponsoring a new qualified applicant for employment authorization for this position.
+L66: The minimum and maximum full-time annual salaries for this role are listed below, by location. Please note that this salary information is solely for candidates hired to perform work within one of these locations, and refers to the amount Capital One is willing to pay at the time of this posting. Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked.
+L67:
+L68: Chicago, IL: $209,000 - $238,500 for Full-stack Engineer 5
+L69: McLean, VA: $229,900 - $262,400 for Full-stack Engineer 5
+L70:
+L71: New York, NY: $250,800 - $286,200 for Full-stack Engineer 5
+L72:
+L73: Plano, TX: $209,000 - $238,500 for Full-stack Engineer 5
+L74:
+L75: Richmond, VA: $209,000 - $238,500 for Full-stack Engineer 5
+L76:
+L77: Candidates hired to work in other locations will be subject to the pay range associated with that location, and the actual annualized salary amount offered to any candidate at the time of hire will be reflected solely in the candidate’s offer letter.
+L78: This role is also eligible to earn performance based incentive compensation, which may include cash bonus(es) and/or long term incentives (LTI). Incentives could be discretionary or non discretionary depending on the plan.
+L79: Capital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well-being. Learn more at the【5†Capital One Careers website】. Eligibility varies based on full or part-time status, exempt or non-exempt status, and management level.
+L80:
+L81: This role is expected to accept applications for a minimum of 5 business days.
+L82: No agencies please. Capital One is an equal opportunity employer (EOE, including disability/vet) committed to non-discrimination in compliance with applicable federal, state, and local laws. Capital One promotes a drug-free workplace.
+L83: Capital One will consider for employment qualified applicants with a criminal history in a manner consistent with the requirements of applicable laws regarding criminal background inquiries, including, to the extent applicable, Article 23-A of the New York Correction Law; San Francisco, California Police Code Article 49, Sections 4901-4920; New York City’s Fair Chance Act; Philadelphia’s Fair Criminal Records Screening Act; and other applicable federal, state, and local laws and regulations regarding criminal background inquiries.
+L84: If you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation, please contact Capital One Recruiting at 1-800-304-9102 or via email at RecruitingAccommodation@capitalone.com. All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations.
+L85: For technical support or questions about Capital One's recruiting process, please send an email to Careers@capitalone.com
+L86:
+L87: Capital One does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.
+L88: Capital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe and any position posted in the Philippines is for Capital One Philippines Service Corp. (COPSSC).
+L89:
+L90: Hiring Process
+L91:
+L92: Stories
+L93:
+L94: Benefits
+L95:
+L96: Career Journey
+L97: ## How We Hire
+L98:
+L99: We take finding great coworkers pretty seriously.
+L100:
+L101: 【6†Image: Illustration of Man using laptop then excitedly pumping both arms†tbcdn.talentbrew.com】
+L102:
+L103:   * ### Step 1 Apply
+L104:
+L105: It only takes a few minutes to complete our application and assessment.
+L106:
+L107:   * ### Step 2 Screen and Schedule
+L108:
+L109: If your application is a good match you’ll hear from one of our recruiters to set up a screening interview.
+L110:
+L111:   * ### Step 3 Interview(s)
+L112: Now’s your chance to learn about the job, show us who you are, share why you would be a great addition to the team and determine if Capital One is the place for you.
+L113:
+L114:   * ### Step 4 Decision
+L115:
+L116: The team will discuss — if it’s a good fit for us and you, we’ll make it official!
+L117:
+L118: 【7†Image: Three employees walking down steps together in an office while conversing.†tbcdn.talentbrew.com】
+L119: ### A day in the life at Capital One
+L120:
+L121: Get an inside look at working at Capital One. Discover how our tech, product, and customer care teams collaborate and grow together.
+L122:
+L123: 【8†Read this story】
+L124:
+L125: 【9†View More Stories】
+L126:
+L127: ### Your wellbeing is our priority
+L128:
+L129: Our benefits and total compensation package is designed for the whole person. Caring for both you and your family.
+L130:
+L131:   * 【10†Image: Illustration of a stethoscope†tbcdn.talentbrew.com】
+L132: #### Healthy Body, Healthy Mind
+L133:
+L134: You have options and we have the tools to help you decide which health plans best fit your needs.
+L135:
+L136:   * 【11†Image: Illustration of a jar with acorns in it†tbcdn.talentbrew.com】
+L137:
+L138: #### Save Money, Make Money
+L139:
+L140: Secure your present, plan for your future and reduce expenses along the way.
+L141:
+L142:   * 【12†Image: Illustration of a mountain peak with a flag†tbcdn.talentbrew.com】
+L143: #### Time, Family and Advice
+L144:
+L145: Options for your time, opportunities for your family, and advice along the way. It’s time to BeWell.
+L146: ### Career Journey
+L147:
+L148: Here’s how the team fits together. We’re big on growth and knowing who and how coworkers can best support you.
+L149:
+L150: 【13†Image: Visual illustration of a career path at Capital One. Text version included in the Image Description button that follows†tbcdn.talentbrew.com】 [Button: Image Description]
+L151:
+L152: A possible career journey at Capital One:
+L153:   1. Coordinator
+L154:   2. Senior Coordinator
+L155:   3. Principal Coordinator
+L156:   4. Associate
+L157:   5. Senior Associate
+L158:   6. Principal Associate
+L159:   7. Manager
+L160:   8. Senior Manager
+L161:   9. Director
+L162:   10. Senior Director
+L163:   11. VP
+L164:
+L165:   * 【14†Similar Jobs】
+L166:   * 【15†Saved Jobs】
+L167:   * 【16†101965689744 Data Engineer 4 (Manager IC) Risk Tech Richmond, Virginia】
+L168:   * 【17†101965689680 Data Engineer 4 - ERM Transformation Richmond, Virginia】
+L169:   * 【18†101965689664 Full-stack Engineer 4 McLean, Virginia】
+L170:   * 【19†101965689456 Full Stack Engineer 4 (Manager IC) - Operational Risk Richmond, Virginia】
+L171:
+L172: You don't have any saved jobs right now
+L173:
+L174: 【20†Image: Illustration of woman chatting on a mobile device†tbcdn.talentbrew.com】
+L175:
+L176: Want more jobs like this?
+L177: ## Set a job alert
+L178:
+L179: [Button: Sign up]
+L180:
+L181: Job Alerts
+L182:
+L183: Don’t miss a thing. Stay in the know about opportunities you may be interested in!
+L184:
+L185: Email Address[Input]
+L186:
+L187: Interested In To create job alerts, you can either select a job category from the list of options or search by location. For location, you can search by city, state, zip or “remote”, then click 'Add'. Once done, click ‘Sign up’ to receive your job alerts.
+L188:
+L189: Job Category[Select]
+L190:
+L191: Location[Input: Type to Search for a Location]
+L192:
+L193: [Button: Add]
+L194:   * Engineering, McLean, Virginia, United States【21†Remove】
+L195:   * Engineering, Richmond, Virginia, United States【21†Remove】
+L196:   * Engineering, New York, New York, United States【21†Remove】
+L197:   * Engineering, Plano, Texas, United States【21†Remove】
+L198:   * Engineering, Chicago, Illinois, United States【21†Remove】
+L199:   * Technology, McLean, Virginia, United States【21†Remove】
+L200:   * Technology, Richmond, Virginia, United States【21†Remove】
+L201:   * Technology, New York, New York, United States【21†Remove】
+L202:   * Technology, Plano, Texas, United States【21†Remove】
+L203:   * Technology, Chicago, Illinois, United States【21†Remove】
+L204:   * 【21†Remove】
+L205: Confirm Email [Input]
+L206:
+L207: [Input][Input][Input][Input][Input][Input][Input][Input] By submitting your information, you acknowledge that you have read our 【22†privacy policy†www.capitalone.com】 and consent to receive email communication from Capital One.
+L208:
+L209: [Button: Sign Up ]
+L210:
+L211: *Required Field
+L212:
+L213: Stay connected to the opportunities and ideas that match your career goals.
+L214: 【23†Join our Talent Network†capitalone.eightfold.ai】.
+L215: ## Explore Jobs
+L216:
+L217:   * 【24†Job Search】
+L218:   * 【25†Teams】
+L219:   * 【26†Military】
+L220:   * 【27†Students & Grads】
+L221:   * 【28†Technology】
+L222:   * 【29†Customer Care】
+L223:
+L224: ## US Locations
+L225:
+L226:   * 【30†Overview】
+L227:   * 【31†Atlanta, GA】
+L228:   * 【32†Boston, MA】
+L229:   * 【33†Chicago, IL】
+L230:   * 【34†Dallas, TX】
+L231:   * 【35†McLean, VA】
+L232:   * 【36†New York, NY】
+L233:   * 【37†Philadelphia, PA】
+L234:   * 【38†Richmond, VA】
+L235:   * 【39†San Francisco, CA】
+L236:   * 【24†View All Jobs】
+--------------------------------------------------------------------------------
+Internal Error ()
+citeturn8view1 [wordlim: 200] Source: click({"ref_id":"turn7view1","id":5});
+Failed to fetch https://www.capitalonecareers.com/en/job/mclean/full-stack-engineer-4/1732/100950228464: Cache miss--------------------------------------------------------------------------------
+Full Stack Engineer 5 (Senior Manager, IC, MLX Group) at Capital One (https://www.capitalonecareers.com/en/job/mclean/full-stack-engineer-5-senior-manager-ic-mlx-group/1732/102644420768)
+citeturn8view2 [wordlim: 200] Crawled: today; Content type: text/html; Source: click({"ref_id":"turn7view1","id":14}); Total lines: 296
+--------------------------------------------------------------------------------
+Search Technology Jobs at Capital One (https://www.capitalonecareers.com/en/category/technology-jobs/234/4412/1/2)
+citeturn8view3 [wordlim: 200] Crawled: yesterday; Content type: text/html; Source: click({"ref_id":"turn7view1","id":20}); Total lines: 229
+--------------------------------------------------------------------------------
+Internal Error ()
+citeturn8view4 [wordlim: 200] Unable to resolve click call due to invalid arguments

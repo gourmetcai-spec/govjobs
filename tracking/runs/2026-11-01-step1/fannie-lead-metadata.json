@@ -1,0 +1,10 @@
+{
+  "url": "https://jobrise.io/en/jobs/listing/workday-fanniemae-fanniemaecareers-JR2899/",
+  "jsonld": [
+    "{\"@context\":\"https://schema.org\",\"@type\":\"JobPosting\",\"title\":\"Senior Financial Engineer - Capital Markets\",\"description\":\"\\u003cp\\u003eSenior Financial Engineer - Capital Markets at Fannie Mae. JR2899\\u003c/p\\u003e\",\"identifier\":{\"@type\":\"PropertyValue\",\"name\":\"Fannie Mae\",\"value\":\"workday-fanniemae-fanniemaecareers-JR2899\"},\"datePosted\":\"2026-10-14T18:50:43.949Z\",\"validThrough\":\"2026-11-22T22:04:39.972Z\",\"hiringOrganization\":{\"@type\":\"Organization\",\"name\":\"Fannie Mae\"},\"directApply\":false,\"url\":\"https://jobrise.io/en/jobs/listing/workday-fanniemae-fanniemaecareers-JR2899/\",\"employmentType\":\"FULL_TIME\",\"jobLocation\":{\"@type\":\"Place\",\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"Washington\",\"addressCountry\":\"US\"}}}",
+    "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Jobs\",\"item\":\"https://jobrise.io/en/jobs/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"United States\",\"item\":\"https://jobrise.io/en/jobs/in/united-states/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Washington\",\"item\":\"https://jobrise.io/en/jobs/in/united-states/washington/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Senior Financial Engineer - Capital Markets\",\"item\":\"https://jobrise.io/en/jobs/listing/workday-fanniemae-fanniemaecareers-JR2899/\"}]}"
+  ],
+  "application_links": [
+    "https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Washington-DC/Senior-Financial-Engineer---Capital-Markets_JR2899"
+  ]
+}

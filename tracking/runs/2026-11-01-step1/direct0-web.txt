@@ -1,0 +1,143 @@
+Full Stack Engineer 4 (AI Operations/MLX Group) at Capital One (https://www.capitalonecareers.com/job/new-york/full-stack-engineer-4-ai-operations-mlx-group/1732/102644420320)
+citeturn3search0 [wordlim: 200] Published: 2 days ago; Crawled: 2 days ago; R1004789 Posted 10/30/2026
+
+# Full Stack Engineer 4 (AI Operations/MLX Group) ... For technical support or questions about Capital One's recruiting process, please send an email to Careers@capitalone.com
+
+R1004789 Posted 10/30/2026
+
+# Full Stack Engineer 4 (AI Operations/MLX Group)
+
+New York, New York | McLean, Virginia | Cambridge, Massachusetts [Button: Save Job]
+
+Apply
+
+Category Engineering
+
+Primary Address New York, New York | McLean, Virginia | Cambridge, Massachusetts
+
+## Overview
+
+Full Stack Engineer 4 (AI Operations/MLX Group)
+
+Do you love building and pioneering in the technology space? Do you enjoy solving complex business problems in a fast-paced, collaborative, inclusive and iterative delivery environment? At Capital One, you'll be part of a big group of makers, breakers, doers and disruptors who solve real problems and meet real customer needs. We are seeking Full-stack Software Engineers who are passionate about leveraging cutting-edge open source frameworks and emerging technologies. In this role, you’ll be at the forefront of driving a major transformation across Capital One.
+
+What You’ll Do:
+
+  * Lead a portfolio of diverse technology projects and a team of developers with deep experience in distributed microservices, and full stack systems to create solutions that help meet regulatory needs for the company
+--------------------------------------------------------------------------------
+Search Technology Jobs at Capital One (https://www.capitalonecareers.com/en/category/technology-jobs/234/4412/1/1)
+citeturn3search1 [wordlim: 200] Crawled: today;   * 102644420320 10/30/2026 Full Stack Engineer 4 (AI Operations/MLX Group) New York, NY [Button: Save Job]
+
+# Technology Jobs
+
+  * 100950228752 09/21/2026 Full-stack Engineer 5 McLean, VA [Button: Save Job]
+  * 100950228464 09/21/2026 Full-stack Engineer 4 McLean, VA [Button: Save Job]
+  * 101042091488 09/23/2026 Full Stack Engineer 4 Richmond, VA [Button: Save Job]
+  * 102655366176 10/30/2026 Workday Integration Engineer 4 (Finance) McLean, VA [Button: Save Job]
+  * 101042091520 09/23/2026 Full-stack Engineer 4 Chicago, IL [Button: Save Job]
+  * 102252809600 10/21/2026 Full-Stack Engineer 4 (Mobile) Richmond, VA [Button: Save Job]
+  * 101574346048 10/05/2026 Full-stack Engineer 4 McLean, VA [Button: Save Job]
+  * 102644421232 10/30/2026 Full-stack Engineer 4 Richmond, VA [Button: Save Job]
+  * 102644421120 10/30/2026 Applied Researcher 4 (AI Foundations, VLM Customization) San Jose, CA [Button: Save Job]
+  * 102644420816 10/30/2026 Site Reliability Engineer 5 McLean, VA [Button: Save Job]
+  * 102644420768 10/30/2026 Full Stack Engineer 5 (Senior Manager, IC, MLX Group) McLean, VA [Button: Save Job]
+  * 102644420640 10/30/2026 Full-stack Engineer 4 McLean, VA [Button: Save Job]
+  * 100938343168 09/21/2026 Full-Stack Engineer 4 (Golang, AWS) McLean, VA [Button: Save Job]
+  * 102644420320 10/30/2026 Full Stack Engineer 4 (AI Operations/MLX Group) New York, NY [Button: Save Job]
+  * 102644420288 10/30/2026 Staff Cloud Engineer McLean, VA [Button: Save Job]
+
+
+Enter number to jump to a different page. You are currently on page 1 of 50.Page[Input]of 50[Button: Go]
+
+Previous Next
+--------------------------------------------------------------------------------
+Senior Lead Securities Quantitative Analytics Specialist (Req. #000895) (https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/Senior-Lead-Securities-Quantitative-Analytics-Specialist--Req--000895-_R-571448-1)
+citeturn3search2 [wordlim: 200] Crawled: 2 months ago; Wells Fargo Bank N.A. seeks a Senior Lead Securities Quantitative Analytics Specialist in New York, NY. ... Job Role and Responsibility: Advise senior leadership to develop or influence objectives, plans, specifications, resources, and long-term goals for highly complex business and technical needs across Securities Quantitative Analytics. ...   * Quantitative finance expertise encompassing derivatives pricing, valuation, and market risk analytics across multiple asset classes, including support for front‑office risk management and regulatory use cases.
+  * Advanced hands‑on programming experience in Java and C++, with working proficiency in Python, R, and SAS, and demonstrated use of functional programming techniques to implement scalable quantitative analytics. ... Visit Benefits - Wells Fargo Jobs for an overview of the following benefit plans and programs offered to employees.
+
+Senior Lead Securities Quantitative Analytics Specialist (Req. #000895) page is loaded
+
+## Senior Lead Securities Quantitative Analytics Specialist (Req. #000895)
+
+Apply
+
+locations
+    NEW YORK, NY
+
+time type
+    Full time
+
+posted on
+    Posted 6 Days Ago
+
+job requisition id
+    R-571448
+
+At Wells Fargo, we want to satisfy our customers’ financial needs and help them succeed financially. We’re looking for talented people who will put our customers at the center of everything we do.  Help us build a better Wells Fargo. It all begins with outstanding talent. It all begins with you.
+
+Wells Fargo Technology sets IT strategy; enhances the design, development, and operations of our systems; optimizes the Wells Fargo infrastructure footprint; provides information security; and enables continuous banking access through in-store, online, ATM, and other channels to Wells Fargo’s more than 70 million global customers.
+
+Wells Fargo Bank N.A. seeks a Senior Lead Securities Quantitative Analytics Specialist in New York, NY.
+  * Quantitative finance expertise encompassing derivatives pricing, valuation, and market risk analytics across multiple asset classes, including support for front‑office risk management and regulatory use cases.
+  * Advanced hands‑on programming experience in Java and C++, with working proficiency in Python, R, and SAS, and demonstrated use of functional programming techniques to implement scalable quantitative analytics.
+  * Experience designing and implementing asynchronous, event‑driven, or reactive architectures suitable for real‑time or near‑real‑time risk, pricing, and PnL computation.
+  * Enterprise‑scale software development experience, including integration with large distributed systems, database access using SQL, and use of source‑control and code‑repository tools within an Agile SDLC.
+  * Capital markets risk technology experience, including platforms that support front‑office risk, market risk calculations, valuation, PnL explain, and coordination with Risk and Finance functions.
+--------------------------------------------------------------------------------
+Full Stack Engineer jobs at Capital One (85 open) | Dreamwork (https://www.dreamworkhq.com/c/capitalone.com/jobs/full-stack-engineer)
+citeturn3search3 [wordlim: 200] Crawled: today; Full Stack Engineer 4 (AI Operations/MLX Group)Onsite  | New York, NY  | USD 215,200 – 245,600 per year  | Posted 2d ago  | View→ ... Capital One has 85 open Full Stack Engineer roles in Dreamwork's index as of November 1, 2026.
+--------------------------------------------------------------------------------
+Best Remote Java Developer Jobs 2026 | Built In (https://builtin.com/jobs/remote/dev-engineering/java)
+citeturn3search4 [wordlim: 200] Crawled: today; # Top Remote Java Developer Jobs
+--------------------------------------------------------------------------------
+Senior Financial Engineer - Capital Markets at Fannie Mae | The Muse (https://www.themuse.com/jobs/fanniemae/senior-financial-engineer-capital-markets)
+citeturn3search5 [wordlim: 200] Published: last month; Crawled: today; # Senior Financial Engineer - Capital Markets ... Join Fannie Mae to grow your career and help people find a place to call home. ...   * Bachelor degree or equivalent in Computer Science, Engineering, Data Science, Analytics, Finance, Financial Engineering, or a related discipline. ... Discover compelling opportunities at Fanniemae.com/careers.
+--------------------------------------------------------------------------------
+Senior Financial Engineer - Capital Markets | JobRise (https://jobrise.io/en/jobs/listing/workday-fanniemae-fanniemaecareers-JR2899/)
+citeturn3search6 [wordlim: 200] Published: 2 weeks ago; Crawled: last week; Senior Financial Engineer - Capital Markets at Fannie Mae.
+--------------------------------------------------------------------------------
+Capital One jobs: 54 developer roles posted this week (https://roleweek.com/companies/capital-one/)
+citeturn3search7 [wordlim: 200] Crawled: today;     Since Oct 8, 2026: 80 new roles in Oct 8–14, 75 in Oct 15–21, 38 in Oct 22–28, 36 in Oct 29–Nov 4 (so far) ...   * ### Full Stack Engineer 4 (AI Operations/MLX Group)
+
+C Image Capital One Oct 30 New York, Cambridge +1$197.3K–$245.6K/yr JavaScript TypeScript Senior ...   * ### Site Reliability Engineer 4 (Cloud Operations Resilience Engineering)
+--------------------------------------------------------------------------------
+Fannie Mae Jobs & Careers | JobSpring (https://jobspring.pro/company/fannie-mae/)
+citeturn3search8 [wordlim: 200] Crawled: 4 days ago; Senior Software Engineer- Enterprise Platforms Salary not disclosed Hybridfull-timeReston, VA, United States Posted 15 days ago Senior Full Stack Software Engineer Salary not disclosed Hybridfull-timeReston, VA, United States Posted 24 days ago Technical Integration Support Analyst- Associate Salary not disclosed Hybridfull-timeReston, VA, United States Posted 1 month ago Senior Sourcing Specialist - Software and SaaS Salary not disclosed Hybridfull-timePlano, TX, United States Posted 1 month ago Senior Financial Engineer - Capital Markets Salary not disclosed Hybridfull-timeWashington, DC, United States Posted 1 month ago Audit Director for Treasury and Capital Markets Salary not disclosed Remotefull-timeRemote, District Of Columbia, United States Posted 1 month ago Lead Technical Support Analyst Salary not disclosed On-sitefull-timeReston, VA, United States Posted 1 month ago Single Family - Risk Management - Advisor Salary not disclosed Hybridfull-timeWashington, DC, United States Posted 1 month ago LIHTC Asset Manager Salary not disclosed Hybridfull-timeBoston, MA, United States Posted 1 month ago VP, Cybersecurity Salary not disclosed Hybridfull-timeWashington, DC, United States Posted 1 month ago
+--------------------------------------------------------------------------------
+Capitalone Jobs: 254 Open Roles | RoleFinder (https://jobs.urbanodx.com/companies/capitalone)
+citeturn3search9 [wordlim: 200] Crawled: today; Pulled straight from Capitalone's careers page on Workday, last checked 5 h ago. ... ### Site Reliability Engineer 5 ... ### Full Stack Engineer 4 (AI Operations/MLX Group) ... Yes. 254 roles were open as of 1 November 2026, and 241 were posted in the past week.
+--------------------------------------------------------------------------------
+Fanniemae jobs - 28 open roles | Dreamwork (https://www.dreamworkhq.com/c/fanniemae.com)
+citeturn3search10 [wordlim: 200] Crawled: 4 days ago; Senior Financial Engineer - Capital Markets Engineering · SENIOR  | Washington, DC, US  | $109k - $142k  | Posted 6d ago  | View→ ... Financial Engineer - Anaplan Finance · JUNIOR  | Washington, DC, US  | $85k - $110k  | Posted 2w ago  | View→
+--------------------------------------------------------------------------------
+Search Jobs | The Muse (https://www.themuse.com/search/company/fanniemae?page=2)
+citeturn3search11 [wordlim: 200] Published: 3 weeks ago; Crawled: today; At Fannie Mae - Plano, TX [Button: (+2 more)] ... ## Senior Financial Engineer - Capital Markets
+--------------------------------------------------------------------------------
+Classifieds (https://a002-ceqraccess.nyc.gov/Handlers/ProjectFile.ashx?file=MjAyNVwyNURNRTAwNlhcZWlzXGRyYWZ0X2Vpc1wyNURNRTAwNlhfTm90aWNlX29mX1B1YmxpY19IZWFyaW5nXzA3MzAyMDI1LnBkZg2&signature=8934105784818af79e42bc632ce1a2a1bab88df8)
+citeturn3search12 [wordlim: 200] Remote work permitted w/i commutable distance from worksite. REQ’MTS: Bachelor’s or foreign equiv in CS, Comp Eng, IT or rel field & 9 yrs exp in job offered or rel IT occupation. 9 yrs exp must incl: designing & dvlpg high-volume low-latency apps using Core Java, Spring Boot, Dbase Scripting, IBM MQ, Kafka, HTML5, CSS, JSON & AngularJS; creating well defined & robust RESTful APIs for payment processing which support SWIFT MT & MX message formats & processes wires & other types of payments.
+--------------------------------------------------------------------------------
+Pracovná ponuka: IT Technician - Java Full Stack Developer (https://www.worki.sk/export-job-to-pdf/2050301)
+citeturn3search13 [wordlim: 200] Published: 5 months ago; IT Technician - Java Full Stack Developer ... Remote work according to your need is available
+--------------------------------------------------------------------------------
+Job Description(20250012)Senior_Spring Boot Java Developer.docx (https://scalean.io/assets/jds/20250012-Senior_Spring_Boot_Java_Developer.pdf)
+citeturn3search14 [wordlim: 200] - Flexible working hours and remote work options.
+--------------------------------------------------------------------------------
+Java Application Developer | remote, full-time (https://home.army.mil/stewart/1317/0448/1149/Java_Developer_PivotalITS1.pdf)
+citeturn3search15 [wordlim: 200] Published: 2.8 years ago; Java Application Developer | remote, full-time
+--------------------------------------------------------------------------------
+https://inbetween.com/?post_type=jobs&p=13796 (https://inbetween.com/jobs-en/seniorjava-developer-m-f-d/?export-pdf=13796)
+citeturn3search16 [wordlim: 200] Published: 9 months ago; SeniorJava Developer (m/f/d) ... Job Location: Goa (Remote working available)
+--------------------------------------------------------------------------------
+<3236303331382046524DBDBAC5CDB5F0B0A1C0CCB5E52E687770> (https://www.kosfi.com/Examinfo/FRM/2026_FRM_%EC%8A%A4%ED%84%B0%EB%94%94%EA%B0%80%EC%9D%B4%EB%93%9C.pdf?v=20260323)
+citeturn3search17 [wordlim: 200] Published: 7 months ago; | Software Vendor | Assistant Manager; Associate Consultant; Business Analyst; Business Development Manager; Data Analyst; Data and Financial Applications Specialist; Desktop Application Design Consultant; Executive Director; Financial Engineer; Financial Software Developer; Functional Consultant; Global Business Manager; Master Principal Solution Architect; Valuation Consulting; Principal Consultant; Product Specialist; Quantitative Analyst; Senior Associate; Senior Financial Analyst; Senior Financial Engineer; Senior System Architect; Support Engineer; Training Specialist |
+| Technology | Business Analyst; Business Development Manager; Consultant; Corporate Development Manager; Financial Analyst; Operation Manager; Banking & Capital Markets; Product Support Analyst; Project Manager; Researcher; Sr.
+--------------------------------------------------------------------------------
+[Hiring] [Remote] [Anywhere] - Java Engineer; (https://www.reddit.com/r/techjobs/comments/1wrngam/hiring_remote_anywhere_java_engineer/)
+citeturn3reddit18 [wordlim: 200] Published: last month; Looking for Java Developer with experience in the Life Sciences industry.
+
+
+
+**Job Details:** ... \* Location: Remote
+--------------------------------------------------------------------------------
+[HIRING] [REMOTE] a Java Developer (remote, Work Anywhere)! in Cloudlinux (https://www.reddit.com/r/jobboardsearch/comments/1w0q7ld/hiring_remote_a_java_developer_remote_work/)
+citeturn3reddit19 [wordlim: 200] Published: 2 months ago; Categories: #java #engineer #remote #fulltime #AI ... JobBoardSearch a meta directory of job boards and jobs.

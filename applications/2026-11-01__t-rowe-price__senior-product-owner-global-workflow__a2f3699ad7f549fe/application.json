@@ -1,0 +1,33 @@
+{
+  "employer": "T. Rowe Price",
+  "title": "Senior Product Owner, Global Workflow",
+  "requisition_id": "83552",
+  "canonical_url": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Owings-Mills-MD/Senior-Product-Owner--Global-Workflow_83552",
+  "application_url": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Owings-Mills-MD/Senior-Product-Owner--Global-Workflow_83552/apply",
+  "location": "Owings Mills, MD",
+  "remote_restrictions": "Local hybrid role; exact home/office allowance in full description. Must work at offered Maryland/DC location.",
+  "posted_date": "2026-09-21",
+  "posted_date_evidence": "Employer public Workday jobPostingInfo.startDate; Posted 30+ Days Ago",
+  "salary": "$122,000.00 - $209,000.00; $135,000.00 - $230,000.00; $153,000.00 - $261,000.00 (employer disclosed base ranges; see location-specific text)",
+  "open_evidence": "Employer public data: canApply=True, posted=True",
+  "source_evidence": "tracking/runs/2026-11-01-step1-resume/trowe-83552.json",
+  "retrieved_at": "2026-11-01T23:58:15.048918+00:00",
+  "fit": "Financial/investment technology and software engineering overlap; verify role-specific requirements.",
+  "gaps": "Platform ownership and total experience supported, but substantial Appian/workflow product ownership and lifecycle responsibilities need confirmation; Appian is preferred, not claimed.",
+  "strengths": "Baseline: Freddie Mac Director (May 2014–present) leads multi-project financial engineering; AWS/IBM Symphony modeling and enterprise forecasting. Campbell (2003–2014) documents Java trading architecture, database integration, C++ pricing, and risk reporting. Computer science master’s degrees and applied mathematics bachelor’s degree support degree requirements. Baseline core skills name Python, Docker, Spring Boot, SQL databases and MongoDB. Campbell Portfolio and Risk Team (2009–2014): volatility/correlation research, portfolio stress reporting and Investment Committee support. Java trading platform supported more than $3B in capital; no personally managed-assets claim.",
+  "discovery_window": [
+    "2026-09-01",
+    "2026-11-01"
+  ],
+  "geography_fit": true,
+  "aliases": [],
+  "id": "a2f3699ad7f549fe",
+  "status": "needs_verification",
+  "step": 1,
+  "selected": false,
+  "submitted": false,
+  "application_directory": "applications/2026-11-01__t-rowe-price__senior-product-owner-global-workflow__a2f3699ad7f549fe",
+  "priority": "standard",
+  "artifacts": {},
+  "resume_review": "Not generated; verification required or excluded."
+}

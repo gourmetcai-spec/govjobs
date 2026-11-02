@@ -1,0 +1,42 @@
+{
+  "employer": "Fannie Mae",
+  "title": "Senior Associate – Palantir Forward Deployed Engineer",
+  "requisition_id": "JR2961",
+  "canonical_url": "https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Reston-VA/Senior-Associate---Palantir-Forward-Deployed-Engineer_JR2961-1",
+  "application_url": "https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Reston-VA/Senior-Associate---Palantir-Forward-Deployed-Engineer_JR2961-1/apply",
+  "location": "Reston, VA",
+  "remote_restrictions": "Flex/hybrid, DMV office offered; regular onsite work, manager sets cadence.",
+  "posted_date": "2026-10-02",
+  "posted_date_evidence": "Employer public Workday jobPostingInfo.startDate; Posted 30 Days Ago",
+  "salary": "$123,000.00 - $161,000.00 (employer disclosed base ranges; see location-specific text)",
+  "open_evidence": "Employer public data: canApply=True, posted=True",
+  "source_evidence": "tracking/runs/2026-11-01-step1-resume/fannie-JR2961.json",
+  "retrieved_at": "2026-11-01T23:58:15.048918+00:00",
+  "fit": "Enterprise data integration, risk analytics and AWS satisfy minimum analytics/platform requirements.",
+  "gaps": "Palantir Foundry/ontology and Spark not documented; these are desired skills. Hands-on Foundry delivery is a role learning gap; no production FDE or agent deployments claimed.",
+  "strengths": "Baseline: Freddie Mac Director (May 2014–present) leads multi-project financial engineering; AWS/IBM Symphony modeling and enterprise forecasting. Campbell (2003–2014) documents Java trading architecture, database integration, C++ pricing, and risk reporting. Computer science master’s degrees and applied mathematics bachelor’s degree support degree requirements. Baseline core skills name Python, Docker, Spring Boot, SQL databases and MongoDB. Freddie Mac explicitly documents forecasting/CECL and STACR/ACIS model delivery; Campbell research covers statistical methods, Monte Carlo, stress analysis and Investment Committee reporting.",
+  "discovery_window": [
+    "2026-09-01",
+    "2026-11-01"
+  ],
+  "geography_fit": true,
+  "aliases": [],
+  "id": "8984ada7395b7ee9",
+  "status": "eligible",
+  "step": 1,
+  "selected": false,
+  "submitted": false,
+  "application_directory": "applications/2026-11-01__fannie-mae__senior-associate-palantir-forward-deployed-engineer__8984ada7395b7ee9",
+  "priority": "standard",
+  "artifacts": {
+    "resume_markdown": {
+      "path": "applications/2026-11-01__fannie-mae__senior-associate-palantir-forward-deployed-engineer__8984ada7395b7ee9/resume-xuewu-cai__fannie-mae__senior-associate-palantir-forward-deployed-engineer__JR2961__v1.md",
+      "sha256": "2e3043f9dd56aec06aeb8e060d6765c74e1f22ccf274327db2b1b1af63f59d80"
+    },
+    "resume_pdf": {
+      "path": "applications/2026-11-01__fannie-mae__senior-associate-palantir-forward-deployed-engineer__8984ada7395b7ee9/resume-xuewu-cai__fannie-mae__senior-associate-palantir-forward-deployed-engineer__JR2961__v1.pdf",
+      "sha256": "02cc866aee95c65e3e4b80db13e93901767877df0075d21fd7de81b51d85f404"
+    }
+  },
+  "resume_review": "Text extraction verified: 2 pages and all baseline experience bullets retained. Every page rendered with macOS PDFKit and visually reviewed: no clipping, overlap or blank pages."
+}

@@ -1,0 +1,17 @@
+{
+  "checked_at": "2026-11-01T19:01:44.765414-05:00",
+  "baseline_sha256": "b6493d18074902f305b30f985a0197e5d9e7e42b4ddd2367d3075e3d8e0ec6a8",
+  "ledger_records": 54,
+  "ledger_integrity": "ok",
+  "eligible_resumes_checked": 17,
+  "new_resumes_rendered_reviewed": 13,
+  "new_pages_reviewed": 26,
+  "facts": "All 20 baseline experience bullets retained in each of 17 eligible resumes; PDF text and all hashes verified",
+  "no_selected_jobs": true,
+  "no_submissions": true,
+  "counts": {
+    "eligible": 17,
+    "needs_verification": 27,
+    "skipped": 10
+  }
+}

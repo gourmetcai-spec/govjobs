@@ -1,0 +1,668 @@
+Java Jobs in Mclean Va (https://findmejobs.co/jobs/mclean-va/skills/java)
+citeturn1search0 [wordlim: 200] Crawled: today; # Java Jobs in Mclean Va ... Remote Work from anywhere Hybrid Flexible arrangement On-site In-office ... AI Engineer 5 (AI Foundations: LLM Customization, Finetuning, Reinforcement Learning) ... Python
+
+Mclean Va/JavaLive Data Updated hourly
+
+# Java Jobs in Mclean Va
+
+## Filter by Work Type
+
+Remote Work from anywhereHybrid Flexible arrangementOn-site In-office
+
+## Filter Jobs
+
+Mclean Va
+
+Role
+
+Java
+
+AI Engineer 5 (AI Foundations: LLM Customization, Finetuning, Reinforcement Learning)
+
+Capital One
+
+Posted: Oct 31, 2026
+
+McLean, VA Be among the first 25 applicants
+
+4+ years exp$229,900 - $286,200/year Full Time
+
+Software & SaaS
+
+Financial Services
+
+Python
+
+Go
+
+Scala
+
+CUDA
+
+Java
+
+C++
+
++11 more
+
+Apply with ChatGPTView DetailsApply Now
+
+Full Stack Engineer 4 (AI Operations/MLX Group)
+
+Capital One
+
+Remote
+
+Posted: Oct 31, 2026
+
+McLean, VA Be among the first 25 applicants
+
+4+ years exp$197,300 - $245,600/year Full Time
+
+Financial Services
+
+Java
+
+Scala
+
+Python
+
+Go
+
+Node.js
+
+JavaScript
+
++13 more
+
+Apply with ChatGPTView DetailsApply Now
+
+Account Solution Engineer - Intelligence Community (All Levels)
+
+Salesforce
+--------------------------------------------------------------------------------
+Java Developer jobs in Virginia | Dice.com (https://www.dice.com/jobs/q-Java%20Developer-l-Virginia-jobs)
+citeturn1search1 [wordlim: 200] Crawled: today; Sr Java Developer Specialist -W2 Contract 6 Months contract later C2H (Contract to Hire) McLean , VA On-site M-F Interview Information: Interview Type:1st round MS Teams - Video Mandatory | 2nd round In Person Rounds: 2 rounds Must Have Qualifications: Java Backend Developer 7+ years of related software engineering or technology delivery experience. ... Role : Java developer Location : Remote Skills: Java, Spring, Struts, Maven, WebSphere or Liberty, Docker, Open rewrite and Oracle DB , AWS Stack AI Technologies like Claude Code/CLI Experience upgrading past J2EE applications to the latest Java 21 version ... Job Title: Java Developer Location: Remote USA Short JD: Looking for an experienced Java Developer with strong hands-on experience in Java, AWS, Python, and Spring Boot.
+
+# Java Developer jobs in Virginia, USA
+
+298 results (2 new)
+
+Aivanta Tech Inc
+
+Java Developer
+
+Remote
+
+•
+
+Yesterday
+
+Java DeveloperJoin our dynamic team as a Java Developer and contribute to the development and maintenance of our cutting-edge software solutions. You will work closely with cross-functional teams to design, develop, and deploy high-quality applications that meet our clients' needs. Your role will involve collaborating with other developers, architects, and stakeholders to ensure that software solutions are robust, scalable, and efficient. ResponsibilitiesDevelop, test, and deploy Java-based appl
+
+Easy Apply
+
+Contract
+
+18 - 30
+
+Tandym Tech
+
+Lead/Sr. Java Developer
+
+Richmond, Virginia
+
+•
+
+Today
+
+A recognized institution in Virginia is seeking a Lead/Sr. Java Developer in Richmond to support the design, development, and delivery of complex software components for an enterprise workflow modernization initiative. About the Opportunity: Shift: Day shift Schedule: Monday to Friday Hours: Standard business Setting: On-site Responsibilities: Lead end-to-end solution design, development, and implementation for complex software components Apply Java development expertise to build scalable, secu
+Sr Java Developer
+
+McLean, Virginia
+
+•
+
+Today
+
+Sr Java Developer Specialist -W2 Contract 6 Months contract later C2H (Contract to Hire) McLean , VA On-site M-F Interview Information: Interview Type:1st round MS Teams - Video Mandatory | 2nd round In Person Rounds: 2 rounds Must Have Qualifications: Java Backend Developer 7+ years of related software engineering or technology delivery experience. Hands-on expertise with AWS, Java, and microservices architecture is required. Kubernetes Spring bootSome hands-on use of AI for software engineer
+
+Easy Apply
+
+Contract
+
+Depends on Experience
+
+Ace Technologies, Inc.
+
+Sr. Java Developer
+
+Remote
+
+•
+
+4d ago
+
+Role Sr Java Developer Location Remote (East Coast Consultants Only) Job Description: Required Qualifications 15+ years of development hands on experience Senior-level, hands-on experience in Java development in a web-based environment. Strong experience with: Spring Boot (building services, configuration, profiles, security patterns) REST APIs and service integration Relational databases and SQL Flyway for database migration/version control Jenkins and/or GitLab for CI/CD Proven Dev
+Java Developer
+
+Remote
+
+•
+
+Yesterday
+
+Role: Java Developer Location: Remote Rate : $44/Hr on W2 Must Have skills: Java, Spring boot, AWS an python
+
+Easy Apply
+
+Contract
+
+40 - 44
+
+Symphony Corporation
+
+Sr Java Developer - W2 Only
+
+Remote
+
+•
+
+Yesterday
+
+Sr Java Developer W2 Only Senior Software Engineer (Go and Java, Secure SDLC): A senior software engineer with 5+ years of enterprise experience who designs, builds, and secures enterprise-grade applications and platforms in Go and Java. You design scalable, cloud-native systems on distributed architectures, microservices, and well-structured APIs, and you apply sound software design patterns to every solution. You lead code reviews and contribute to system design and technical strategy, and yo
+
+Easy Apply
+
+Contract
+
+Depends on Experience
+
+Rivago infotech inc
+
+Java developer
+
+Remote
+
+•
+
+Yesterday
+
+Role : Java developer Location : Remote Skills: Java, Spring, Struts, Maven, WebSphere or Liberty, Docker, Open rewrite and Oracle DB , AWS Stack AI Technologies like Claude Code/CLI Experience upgrading past J2EE applications to the latest Java 21 version
+Since our formation in 2002, organizations across commercial and public sectors have been trusting us to help build their teams with exceptional temporary and permanent talent. Visit us at to learn more and view our open positions. Please apply o
+
+Easy Apply
+
+Third Party, Contract
+
+$75 - $80
+
+AQUA Information Systems, Inc.
+
+Java Developer
+
+Remote
+
+•
+
+Yesterday
+
+Job Title: Java Developer Location: Remote USA Short JD: Looking for an experienced Java Developer with strong hands-on experience in Java, AWS, Python, and Spring Boot. Must have experience developing scalable applications, building microservices, and working with AWS cloud services.
+
+Easy Apply
+
+Contract, Third Party
+
+Depends on Experience
+
+isolve technology inc
+
+Senior Java developer at Richmond, VA
+
+Hybrid in Richmond, Virginia
+
+•
+
+2d ago
+
+Job title:Programmer Analyst 4Location: Richmond VAWork: HybridAgency Interview Type:Either Phone or In PersonIs the candidate local to Richmond and willing to work from offsite atleast 2 days in officeJava/JEE Developer with Spring Boot, Phyton experience , Oracle database experience Design, develop, and implement complex full-stack application systems across the entire software development lifecycle.Maintaining and upgrading the software following deploymentManaging the end-to-end life cycle f
+
+Easy Apply
+
+Contract, Third Party
+
+Depends on Experience
+
+SSN Group LLC
+
+--------------------------------------------------------------------------------
+Jobs via Dice hiring Java with AI -- Mclean, VA (Onsite) in Virginia, United States | LinkedIn (https://www.linkedin.com/jobs/view/java-with-ai-mclean-va-onsite-at-jobs-via-dice-4424272988)
+citeturn1search2 [wordlim: 200] Crawled: 4 months ago; ### Java with AI -- Mclean, VA (Onsite)
+
+Jobs via Dice Virginia, United States ...   * 2+ years of hands-on experience in Python ...   * ### Job function
+
+### Java with AI -- Mclean, VA (Onsite)
+
+Jobs via Dice Virginia, United States
+
+# Java with AI -- Mclean, VA (Onsite)
+
+####
+
+Jobs via Dice Virginia, United States
+
+3 weeks ago Be among the first 25 applicants
+
+See who Jobs via Dice has hired for this role No longer accepting applications
+
+Dice is the leading career destination for tech experts at every stage of their careers. Our client, Sage IT Inc, is seeking the following. Apply via Dice today!
+Java with AI
+Mclean, VA
+Required Qualifications:
+
+  * 7+ years of professional experience in software engineering with strong Java expertise.
+  * 2+ years of hands-on experience in Python
+  * Hands-on experience building backend services using Java, Spring, Spring Boot, REST and GraphQL APIs.
+  * Hands-on experience using LangChain & LangGraph to create Agents and LLM based workflows
+  * Hands-on experience in any one or two of the AI-Assisted IDEs like Copliot, Amazon Q, Clade-code, Cursor, etc
+  * Frontend experience with React or Angular, modern state management, and component-driven development.
+  * Practical experience working with various LLMs and RAGs
+  * Experience with various AWS Services like EC2, S3, EKS, ECS, etc
+  * Experience with Git, Automated testing (unit/integration), CI/CD pipelines, containerization (Docker), and orchestration (Kubernetes).
+  * Strong software engineering fundamentals: design patterns, system design, scalability, security, and observability.
+  * Excellent communication skills and experience working in cross-functional teams.
+
+
+  * ### Seniority level
+
+Mid-Senior level
+  * ### Employment type
+
+Full-time
+  * ### Job function
+
+Engineering and Information Technology
+  * ### Industries
+
+Software Development
+
+Referrals increase your chances of interviewing at Jobs via Dice by 2x
+
+See who you know
+
+Get notified about new Java Specialist jobs in Virginia, United States.--------------------------------------------------------------------------------
+AI/ML Data Scientist - System One - McLean, VA, US | Dice.com (https://www.dice.com/job-detail/80c497eb-b8a5-4105-9b1a-69d3a87a0b3e)
+citeturn1search3 [wordlim: 200] Crawled: today; McLean, VA, US • Posted 30+ days ago • Updated 4 days ago ... Location: 100% REMOTE ...   * Strong proficiency in Python for data science and machine learning, including libraries such as Pandas, NumPy, Scikit-learn, PyTorch, or TensorFlow, along with strong SQL skills. ... Employers have access to artificial intelligence language tools (“AI”) that help generate and enhance job descriptions and AI may have been used to create this description. The position description has been reviewed for accuracy and Dice believes it to correctly reflect the job opportunity.
+
+# AI/ML Data Scientist
+
+McLean, VA, US • Posted 30+ days ago • Updated 4 days ago
+
+Contract W2
+
+24 Weeks
+
+On-site
+
+Depends on Experience
+
+## Job Details
+
+### Skills
+
+  *   * * * *
+
+### Summary
+
+Job Title: AI/ML Data Scientist
+Location: 100% REMOTE
+Clearance: Ability to obtain and maintain a Public Trust clearance.
+Type: Contract-to-hire
+Contact:
+WHAT YOU WILL DO:
+
+  * Partner with stakeholders to define and deliver AI, machine learning, and advanced analytics use cases, translating business needs into scalable data science solutions.
+  * Design and develop machine learning models and analytical approaches to support search, discovery, anomaly detection, fraud detection, and insight generation across structured and unstructured data.
+  * Develop anomaly and fraud detection analyses using supervised, unsupervised, semi-supervised, statistical, and graph-based techniques, including outlier detection, behavioral profiling, risk scoring, pattern detection, and relationship analysis.
+  * Use Generative AI and foundation models to enhance anomaly and fraud detection workflows through alert enrichment, case summarization, contextual analysis, evidence synthesis, pattern explanation, investigative hypothesis generation, and analyst decision support.
+  * Demonstrated competency working with AWS data lakehouse architectures, including Amazon S3-based data lakes, Apache Iceberg or similar open table formats, centralized metadata catalogs, governed data access, schema evolution, partitioning, data quality, and scalable query and transformation patterns.
+  * Demonstrated competency using Generative AI, large language models, or foundation models for anomaly and fraud detection analysis, including alert enrichment, investigative summarization, contextual reasoning, evidence synthesis, pattern explanation, and analyst assistance.
+  * Experience working with large-scale structured and unstructured data, particularly document-based datasets such as text, PDFs, images, extracted fields, and metadata.
+  * Experience using metadata, engineered features, embeddings, event or transaction histories, and relationship data to support analytics and modeling.
+  * Strong proficiency in Python for data science and machine learning, including libraries such as Pandas, NumPy, Scikit-learn, PyTorch, or TensorFlow, along with strong SQL skills.
+--------------------------------------------------------------------------------
+Dice Careers Jobs & News Updates| Latest News and Current News from dicecareers.com. Latest Jobs. Current Jobs, Top Jobs, Recent Jobs, High Paid Jobs (https://dicecareers.com/)
+citeturn1search4 [wordlim: 200] Crawled: today; J53593  | 11/01/2026  | Java Engineer – SRE & GenAI  | Charlotte, NC  | Apply Now  View ... J53491  | 11/01/2026  | Python Ai Engineer  | New York City, NY  | Apply Now  View
+J53490  | 11/01/2026  | Mobile Architect  | Remote, HI  | Apply Now  View ... J53179  | 10/30/2026  | IT Project Manager  | McLean, VA  | Apply Now  View
+J53495  | 11/01/2026  | Java Technical Lead  | Albion, IA  | Apply Now  View
+J53494  | 11/01/2026  | Salesforce Developer  | Chicago, IL  | Apply Now  View
+J53493  | 11/01/2026  | Full Stack Engineer Java  | Dallas, TX  | Apply Now  View
+J53492  | 11/01/2026  | AWS Cloud Engineer  | Atlanta, GA  | Apply Now  View
+J53491  | 11/01/2026  | Python Ai Engineer  | New York City, NY  | Apply Now  View
+J53490  | 11/01/2026  | Mobile Architect  | Remote, HI  | Apply Now  View
+J53489  | 11/01/2026  | Azure Data Engineer  | Grand Rapids, MI  | Apply Now  View
+J53488  | 11/01/2026  | Data Engineer – Databricks & Snowflake  | Dallas, TX  | Apply Now  View
+J53487  | 11/01/2026  | Java FSD with AWS expertise Lead/developer  | Plano, TX  | Apply Now  View
+J53090  | 10/30/2026  | Sr .Net Developer  | Houston, TX  | Apply Now  View
+J53089  | 10/30/2026  | Senior .Net Developer or .Net Lead  | Rockville, MD  | Apply Now  View
+J53088  | 10/30/2026  | .NET Developer with AI  | Redmond, WA  | Apply Now  View
+J53087  | 10/30/2026  | Data Scientist  | Raleigh, NC  | Apply Now  View
+J53086  | 10/30/2026  | Data Scientist  | Nashville, TN  | Apply Now  View
+J53085  | 10/30/2026  | Supply Chain Systems Analyst  | San Ramon, CA  | Apply Now  View
+J53084  | 10/30/2026  | SAP SCM (Supply Chain Management) Architect  | Chicago, IL  | Apply Now  View
+J53083  | 10/30/2026  | Supply Chain Planner  | Shawnee Mission, KS  | Apply Now  View
+J53082  | 10/30/2026  | User Interface (UI) Developer  | Ashburn, VA  | Apply Now  View
+J53081  | 10/30/2026  | UI/UX Designer  | Atlanta, GA  | Apply Now  View
+J53080  | 10/30/2026  | IOS Java Full Stack Developer  | Denver,, CO  | Apply Now  View
+J53079  | 10/30/2026  | iOS Developer  | McLean,, VA  | Apply Now  View
+J53078  | 10/30/2026  | Project Manager 3  | Atlanta, GA  | Apply Now  View
+J53077  | 10/30/2026  | Project Manager  | Remote, FL  | Apply Now  View
+J52866  | 10/29/2026  | Java / GenAI Developer  | Bentonville, AR  | Apply Now  View
+J52865  | 10/29/2026  | Python Developer  | Asheville, NC  | Apply Now  View
+J52864  | 10/29/2026  | Java Lead  | Austin, TX  | Apply Now  View
+J52863  | 10/29/2026  | Java Backend Engineer  | New York, NY  | Apply Now  View
+J52862  | 10/29/2026  | Project Manager  | pierre, SD  | Apply Now  View
+J52861  | 10/29/2026  | IT Project Consultant  | columbus, OH  | Apply Now  View
+J52860  | 10/29/2026  | IOS Application Developer  | Salem, OR  | Apply Now  View
+J52859  | 10/29/2026  | iOS Developer  | Mt Laurel, NJ  | Apply Now  View
+J52858  | 10/29/2026  | Senior iOS Engineer  | Hybrid, NY  | Apply Now  View
+J52857  | 10/29/2026  | Machine Learning Engineer  | McLean, VA  | Apply Now  View
+J52856  | 10/29/2026  | AI/ML Engineer  | Atlanta, GA  | Apply Now  View
+J52855  | 10/29/2026  | Full Stack .net Developer  | TALLAHASSEE, FL  | Apply Now  View
+J52854  | 10/29/2026  | Full Stack .net Developer  | TALLAHASSEE, FL  | Apply Now  View
+J52853  | 10/29/2026  | .NET Tech Lead with GitHub Copilot Experience  | Boston, MA  | Apply Now  View
+J52852  | 10/29/2026  | .NET - C# Developer  | Lansing, MI  | Apply Now  View
+J52851  | 10/29/2026  | Business Analyst  | Mountain View, CA  | Apply Now  View
+J52850  | 10/29/2026  | Oracle Security Analyst  | dallas, TX  | Apply Now  View
+J52849  | 10/29/2026  | Sr .net Developer (SQL AE)  | Mountain View, CA  | Apply Now  View
+J52848  | 10/29/2026  | Sr .net Developer (SQL AE)  | Mountain View, CA  | Apply Now  View
+J52847  | 10/29/2026  | ABAP RAP Development Lead  | Temple Terrace, FL  | Apply Now  View
+J52846  | 10/29/2026  | Frontend UI Developer  | Bentonville, AR  | Apply Now  View
+J52845  | 10/29/2026  | UI Developer  | McLean, VA  | Apply Now  View
+J52844  | 10/29/2026  | UI React/Redux Developer  | Albany, NY  | Apply Now  View
+--------------------------------------------------------------------------------
+Search Jobs | Dice.com (https://www.dice.com/jobs?location=Reston%2C+VA&q=Gen+AI%2FPython+Developer)
+citeturn1search5 [wordlim: 200] Crawled: 4 months ago; Systems Engineering Services is seeking an AI/Python Developer with a Java Certification based out of the Washington DC/Reston area. Top 5 Technical Skills: Python Gen AI SQL AWS Data Services LLM ML Sagemaker Bedrock Top 3 Soft Skills: Confidence in Communication skills for Teamwork and sharing Stand alone to get work done, Independent Flexibility Job Description: Experience: 10+ years overall in Software Engineering disciplines, preferably in the financial services industry 2-3 years of expe ... Remote or Jacksonville, Florida ... Need Sr Python Developer with strong AI, MCP exp McLean, VA Hybrid Python Fundamentals (Must Have) Deep expertise in Python 3.10+, including asyncio, multithreading/multiprocessing, decorators, generators, and metaclassesProficiency with foundational packages: NumPy, Pandas, Pydantic, httpx/requests, dataclasses, typingStrong grasp of clean code principles, SOLID design, and Pythonic idiomsExperience writing unit/integration tests with pytest and maintaining high code coverageFamiliarity with li
+Key Responsibilities: Design, test, and refine prompts for large language models (LLMs) to suppor
+
+Easy Apply
+
+Full-time
+
+Depends on Experience
+
+SES
+
+Python/GenAI Developer
+
+Hybrid in Herndon, Virginia
+
+•
+
+Today
+
+Technical Skills: Python Gen AI SQL AWS Data Services LLM ML Sagemaker Job Description: Experience: 8+ years overall in Software Engineering disciplines, preferably in the financial services industry 2-3 years of experience in AI/ML engineering roles Strong programming skills in Python, SQL and experience with AWS. Key Responsibilities: Design, test, and refine prompts for large language models (LLMs) to support financial reporting, summarization, and client communication tools. Analyze struc
+
+Easy Apply
+
+Contract
+
+Depends on Experience
+
+Visionsoft International
+
+Sr. Python with Strong AI - Need Top notch Candidates - F2F interview McLean, VA
+
+McLean, Virginia
+
+•
+
+14d ago
+
+Sr. Python Candidate with Strong AI McLean, VA. 12+ Months Face to Face Interviews Candidates must be local or neighboring to McLean, VA Required Skills: 710+ years of software engineering experience with strong expertise in Python (Python 3.10+, asyncio, multithreading, pytest, NumPy, Pandas, Pydantic).3+ years of production experience building AI/LLM-powered applications and leading end-to-end AI solution deliveryHands-on experience building AI/LLM applications using LangChain, LangGraph, MC
+
+Easy Apply
+
+Contract
+
+Depends on Experience
+
+NTT DATA, Inc.
+
+Python Gen AI Developer
+
+Remote or Jacksonville, Florida
+
+•
+
+Today
+
+Python Gen AI Developer - 26-00661 Hybrid/Onsite in Jacksonville, FL or Irving, TX 1yr Duration Temp W2 Only - Must be able to work directly with NTT Data | No C2C At NTT DATA, we know that with the right people on board, anything is possible. The quality, integrity, and commitment of our employees have been key factors in our company's growth and market presence. By hiring the best people and helping them grow both professionally and personally, we ensure a bright future for NTT DATA and for t
+
+Full-time
+
+USD 50.00 - 62.00 per hour
+
+Visionsoft International
+
+Need Senior AI System Engineer ( Python, MCP, Langchain)
+
+Hybrid in McLean, Virginia
+
+•
+
+5d ago
+
+Need Sr Python Developer with strong AI, MCP exp McLean, VA Hybrid Python Fundamentals (Must Have) Deep expertise in Python 3.10+, including asyncio, multithreading/multiprocessing, decorators, generators, and metaclassesProficiency with foundational packages: NumPy, Pandas, Pydantic, httpx/requests, dataclasses, typingStrong grasp of clean code principles, SOLID design, and Pythonic idiomsExperience writing unit/integration tests with pytest and maintaining high code coverageFamiliarity with li
+--------------------------------------------------------------------------------
+Java jobs | Dice.com (https://www.dice.com/jobs/q-Java-jobs)
+citeturn1search6 [wordlim: 200] Crawled: today; Job Title: Java Full Stack Developer Location: Atlanta, GA Experience: 10 Years Job Type: Full-Time Job Summary We are looking for an experienced Java Full Stack Developer with strong expertise in Java, Spring Boot, Angular, and AWS cloud services. ... DNS, Java Development Remote Supporting MST or CST Time Zones Top 5 Technical Skills: AWS architecture and development Amazon Simple Email Service (SES) Enterprise Email SME deliverability, DNS, SPF, DKIM, DMARC and sender reputation Lead-level Java / Spring Boot development Strong experience presenting technical details to Stakeholders Top 3 Soft Skills: Strong technical leadership Takes ownership and responsibility for the solution and drives
+
+Image: Boeing Company
+
+Boeing Company
+
+Java Software Engineer (Associate/Experienced)
+
+Herndon, Virginia
+
+•
+
+Today
+
+Java Software Engineer (Associate/Experienced) Company: The Boeing Company The Boeing Company is currently seeking a Java Software Engineer (Associate/Experienced) with experience in software engineering and architecting to support the Denali Software team located in Herndon, Virginia. This position will focus on supporting the Boeing Defense, Space & Security (BDS) software engineering organization. The Denali software team is a dynamic group of curious, bold, and innovative software enginee
+
+Full-time
+
+USD 106,250.00 - 143,750.00 per year
+
+Virtual Networx
+
+Java Full Stack Developer
+
+Atlanta, Georgia
+
+•
+
+Today
+
+Job Title: Java Full Stack Developer Location: Atlanta, GA Experience: 10 Years Job Type: Full-Time Job Summary We are looking for an experienced Java Full Stack Developer with strong expertise in Java, Spring Boot, Angular, and AWS cloud services. The candidate will be responsible for designing, developing, and maintaining scalable web applications, building REST APIs, and deploying cloud-based applications on AWS. Key Responsibilities Design, develop, and maintain full-stack applications us
+
+Easy Apply
+
+Full-time
+
+$$110k/annum
+
+Trans Union LLC
+
+Lead Java Engineer
+
+Pennsylvania
+
+•
+
+Today
+
+TransUnion's Job Applicant Privacy Notice Personal Information We Collect Your Privacy Choices Team Overview The Core Online team is responsible for building and supporting global enterprise platforms that operate across multiple countries and cloud environments. The team develops highly scalable, secure, and resilient applications that support critical business operations. The team embraces innovation, experimentation, and modern engineering practices to continuously improve products and servic
+
+Full-time
+
+USD 90,000.00 - 150,000.00 per year
+
+SES
+
+Lead Software Engineer - Enterprise Email SME, SES. DNS, Java Development
+
+Remote
+
+•
+
+Yesterday
+
+Lead Software Engineer - Enterprise Email SME, SES. DNS, Java Development Remote Supporting MST or CST Time Zones Top 5 Technical Skills: AWS architecture and development Amazon Simple Email Service (SES) Enterprise Email SME deliverability, DNS, SPF, DKIM, DMARC and sender reputation Lead-level Java / Spring Boot development Strong experience presenting technical details to Stakeholders Top 3 Soft Skills: Strong technical leadership Takes ownership and responsibility for the solution and drives
+
+Easy Apply
+
+Full-time
+
+Depends on Experience
+
+## Filter Results
+
+### Job post features
+
+Selecting these options will only show you job post results that have these features.
+
+[Input]
+
+Easy apply (2,683)
+
+### Posted date
+
+This is the date the job was posted by a recruiter or employer. Select one.
+
+[Input]
+
+No preference[Input]
+
+Today (220)[Input]
+
+Last 3 days (1,189)[Input]
+
+Last 7 days (2,115)
+
+### Work settings
+
+Are you thinking jammies or something more formal? You can select multiple options.
+
+[Input]
+
+Remote Work from anywhere (exceptions may apply)
+
+[Input]
+
+Hybrid Divide your time between the office and home
+
+[Input]
+
+On-Site Work in person at an office
+
+### Employment type
+
+Tell us the type of work you’re looking for. You can select multiple options.
+
+[Input]
+
+Full time (10,132)[Input]
+
+Part time (86)[Input]
+
+Contract (2,067)[Input]
+
+Third Party (857)[Input]
+
+Internship (0)
+
+### Distance
+
+How far are you willing to commute from the location specified in your search? Select one.
+
+[Input]
+
+No Preference[Input]
+
+Up to 10 miles[Input]
+
+Up to 30 miles[Input]
+
+Up to 50 miles[Input]
+
+Up to 75 miles
+
+### Employer type
+
+This is the source of the job post. You can select multiple options.
+
+[Input]
+
+Direct hire (9,497)[Input]
+
+Recruiter (2,200)[Input]
+
+Other (469)
+
+### Work authorization
+
+Are you looking for an employer who is willing to provide sponsorship? What does this mean?
+
+[Input]
+
+Willing to sponsor (217)--------------------------------------------------------------------------------
+Job Application for Machine Learning Engineer at CoVar (https://job-boards.greenhouse.io/covar/jobs/5070401007)
+citeturn1search7 [wordlim: 200] Crawled: today; CoVar is a small AI/ML R&D software company with offices in Durham, NC and McLean, VA, that uses artificial intelligence to solve problems that matter.
+--------------------------------------------------------------------------------
+Search our Job Opportunities at BlackRock (https://careers.blackrock.com/search-jobs?k=java+developer+careers)
+citeturn1search8 [wordlim: 200] Crawled: today;   * Java Developer, Software Engineering, Associate– Regulatory Reporting Location: New York, NY Team: Software Engineering Save for Later ...   * Vice President, Senior Java Engineer Location: London, England Team: Financial Engineering Save for Later
+--------------------------------------------------------------------------------
+Software Engineer – Developer Experience & AI Platform at Idme in McLean, VA | Dreamwork (https://www.dreamworkhq.com/job/5c2ad98b-6818-4994-b09c-aabe00925225)
+citeturn1search9 [wordlim: 200] Crawled: 4 days ago; McLean, VA, United States
+
+# Software Engineer – Developer Experience & AI Platform
+--------------------------------------------------------------------------------
+Job Application for Machine Learning Engineer at Bespoke Technologies (https://job-boards.greenhouse.io/bespoketechnologies/jobs/4406604009)
+citeturn1search10 [wordlim: 200] Crawled: today; McLean, VA ... The Sponsor seeks to develop and adapt Large Language Models (LLM) and Natural Language Processing (NLP) methodologies using artificial intelligence and machine learning (AI/ML) frameworks and programming languages to create new capabilities to improve analytic workflows and address key intelligence questions.
+--------------------------------------------------------------------------------
+Leidos Jobs - AI Native Software Developer (https://bandana.com/jobs/54975979-17e7-4bf7-a7ea-5e76486b4aab)
+citeturn1search11 [wordlim: 200] Published: last week; Crawled: last week; # AI Native Software Developer
+
+Leidos · McLean, Virginia ... ## About the Job
+--------------------------------------------------------------------------------
+Java Developer - English only (https://www.careercross.com/en/job/pdf-1594713)
+citeturn1search12 [wordlim: 200] Published: 4 months ago; An American multinational investment bank and financial services company with a global presence is seeking a Java
+Developer (SQL, Linux) ... - Unique chance to kick start a career in finance in one of the worlds most prestigious banks ... - Able to perform strong hands on coding and logic, without AI tool assistance
+--------------------------------------------------------------------------------
+Senior Java Developer (https://emcbg.com/wp-content/uploads/2024/12/Senior_Java_Developer_NT1.pdf)
+citeturn1search13 [wordlim: 200] Published: 6 months ago; Senior Java Developer ... We are looking for an experienced Senior Software Developer in Java that will be responsible
+--------------------------------------------------------------------------------
+JOB DESCRIPTION (https://www.aivhub.com/docs/Java%20Developer%20Senior-Intermediate.pdf)
+citeturn1search14 [wordlim: 200] Published: 1.4 years ago; Job Title: Java Senior/Intermediate Developer: ... It is essential that the Senior Java Developer can ... this role, please send your CV to careers@aivhub.com
+--------------------------------------------------------------------------------
+Pranav Chhabra (https://pranavchhabra.com/assets/Pranav_Resume-0XX3oP8W.pdf)
+citeturn1search15 [wordlim: 200] Published: 10 months ago; AI Engineer (Freelance)                                                       Remote
+• Designed and deployed a Spanish language-learning AI agent with persistent memory and adaptive tutoring, built using OpenAI Agent SDK, Javascript, and Supabase vector store ... Software Engineer                                                             Remote ... • Created MonsterRewards, an iOS app using Swift and SwiftUI that boosted user engagement by 20%
+--------------------------------------------------------------------------------
+INDUSTRY REPORT (https://www.ceipal.com/wp-content/uploads/2023/04/2025-JobSkills-Report.pdf)
+citeturn1search16 [wordlim: 200] Published: 1.6 years ago; Average Pay for Top 20 IT & Engineering Skills ... as “AI” or “ML,”—job titles with AI/ML only ... opportunities: Java Developer, Software Engineer, Backend Developer, Mobile App
+--------------------------------------------------------------------------------
+Bahrain Jobs Expertini® (https://bh.expertini.com/jobs/search/java-backend-developer-jobs-manama.pdf)
+citeturn1search17 [wordlim: 200] Published: 1.4 years ago; Java Developer Unicore Technologies ... Software Engineer II Java and/or Python
+--------------------------------------------------------------------------------
+[Hiring] [FullRemote] [US] 30+ python, ai, machine learning jobs (https://www.reddit.com/r/remotepython/comments/1x576ej/hiring_fullremote_us_30_python_ai_machine/)
+citeturn1reddit18 [wordlim: 200] Published: 2 weeks ago; AI Agent Developer (Remote) @ CrowdStrike Mexico S. de R.L. de C.V. ... Software Engineer II - AI Engineering (Remote Eligible)  @ Smartsheet ... AI Engineer @ Accellor
+--------------------------------------------------------------------------------
+[Hiring] [FullRemote] [US] 20 Machine Learning jobs (https://www.reddit.com/r/MachineLearningJobs/comments/1wa2u01/hiring_fullremote_us_20_machine_learning_jobs/)
+citeturn1reddit19 [wordlim: 200] Published: last month; - Software Engineer, Infrastructure (Go) - remote in the US @ Mirantis ... - AI Developer @ CareSource Management Services LLC ... - Product Engineer, Python AI, Consultant  -  Remote @ Integon Services Co ... Please contact the moderators of this subreddit if you have any questions or concerns.
+--------------------------------------------------------------------------------
+[HIRING] [US] 30 Remote Javascript jobs (https://www.reddit.com/r/remotejs/comments/1sr15bq/hiring_us_30_remote_javascript_jobs/)
+citeturn1reddit20 [wordlim: 200] Published: 6 months ago; - AI Engineer (React UI) - Remote US @ Cielo ... - Mid Backend Developer @ Lean Tech ... - Software Engineer II @ Toast

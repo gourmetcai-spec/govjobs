@@ -1,0 +1,61 @@
+{
+  "step": 1,
+  "updated_at": "2026-11-01T19:01:44.765414-05:00",
+  "window": [
+    "2026-09-01",
+    "2026-11-01"
+  ],
+  "geography": "Maryland, Virginia, DC and surrounding commutable communities; remote only if Maryland permitted",
+  "completed": [
+    "Fannie Mae index offsets 0,20,40: all 55 displayed roles screened; 25 detailed public descriptions retrieved (see source files).",
+    "T. Rowe Price Software search offsets 0,20: all 27 displayed results screened; 19 descriptions retrieved including quant analyst.",
+    "Capital One technology page 3: 13 technical descriptions assessed, 4 new eligible; 2 nonengineering results screened by title.",
+    "Freddie Mac JR17471 complete employer schema/date recovered; eligible resume generated; current employee internal application route flagged.",
+    "Accellor original posting date and open status verified; skills still unverified.",
+    "All 10 source boards queried separately across all 8 track families: 80 query attempts, 240 emitted result records including categories/nonjobs.",
+    "13 new tailored Markdown/PDF resumes generated, every page visually reviewed; 17 eligible resumes total."
+  ],
+  "remaining": [
+    "Capital One technology page 2 detail assessment (earlier index only) and pages 4\u201350; no exhaustive market coverage claimed.",
+    "Native board filtering/pagination where publicly available; public search indexing remains incomplete.",
+    "Verify potentially matching new URLs in board-leads.json against employer; file includes irrelevant category pages and must be triaged before ledger addition.",
+    "Guild full description/open status blocked by unsupported-browser shell.",
+    "Campbell ADP openings blocked by supported-browser shell; no login or restriction bypass.",
+    "Reconcile blocked source leads Randstad 1345736 and Allegis 2318 (HTTP 410); Blue Origin R71045 (HTTP 403). Keep off eligible list.",
+    "Exact cloud/people-management tenure and unverified specialized skills require user evidence before Step 2 preparation. Existing Fannie JR2899 Tableau and JR2677 product management gaps remain."
+  ],
+  "needs_verification_job_ids": [
+    "472777f0c17792df",
+    "0d26d7b3dc666dd4",
+    "5932b5c220204f03",
+    "cf3386db14e68153",
+    "99178015ce36c8dd",
+    "59f197bd284cb5b1",
+    "cec43f593b4eb790",
+    "828008dad707b568",
+    "f7b9e5aad4fed340",
+    "75fc7a789c585e24",
+    "bf90d2a4389b57a9",
+    "3fe565f7395ee2c4",
+    "8e66cf0c8500fa8a",
+    "21626c9bf2df6a16",
+    "db2362c6670338f0",
+    "d539a587f17554be",
+    "33d273b3b12cce89",
+    "832932ad1b618647",
+    "7e3fbe26679e8171",
+    "a80f45eb408ad373",
+    "9908e78b41702fdd",
+    "f2ac22cf97898902",
+    "a2f3699ad7f549fe",
+    "3f695f1d4d56d55e",
+    "ed308a1312102c05",
+    "b153dffa0334fdf3",
+    "3c8825d1b41aae71"
+  ],
+  "next_employer_cursor": "https://www.capitalonecareers.com/en/category/technology-jobs/234/4412/1/4",
+  "source_lead_inventory": "board-leads.json",
+  "portal_actions_authorized": false,
+  "step2_started": false,
+  "coverage_status": "Partial; all assessed outcomes and remaining sources explicitly saved."
+}

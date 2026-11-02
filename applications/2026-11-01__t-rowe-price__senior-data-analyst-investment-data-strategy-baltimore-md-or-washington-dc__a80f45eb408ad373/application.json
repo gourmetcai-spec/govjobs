@@ -1,0 +1,33 @@
+{
+  "employer": "T. Rowe Price",
+  "title": "Senior Data Analyst- Investment Data Strategy (Baltimore, MD or Washington DC)",
+  "requisition_id": "82743",
+  "canonical_url": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/Senior-Business-Analyst---Investment-Data-Strategy_82743",
+  "application_url": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/Senior-Business-Analyst---Investment-Data-Strategy_82743/apply",
+  "location": "Baltimore, MD; Washington DC",
+  "remote_restrictions": "Local hybrid role; exact home/office allowance in full description. Must work at offered Maryland/DC location.",
+  "posted_date": "2026-09-23",
+  "posted_date_evidence": "Employer public Workday jobPostingInfo.startDate; Posted 30+ Days Ago",
+  "salary": "$96,500.00 - $164,000.00; $105,000.00 - $180,000.00; $120,000.00 - $205,000.00 (employer disclosed base ranges; see location-specific text)",
+  "open_evidence": "Employer public data: canApply=True, posted=True",
+  "source_evidence": "tracking/runs/2026-11-01-step1-resume/trowe-82743.json",
+  "retrieved_at": "2026-11-01T23:58:15.048918+00:00",
+  "fit": "Financial/investment technology and software engineering overlap; verify role-specific requirements.",
+  "gaps": "Mandatory capabilities/operating-model/strategic-roadmap definition and agile partnering not established; investment technology and quantitative stakeholder work strongly overlap.",
+  "strengths": "Baseline: Freddie Mac Director (May 2014–present) leads multi-project financial engineering; AWS/IBM Symphony modeling and enterprise forecasting. Campbell (2003–2014) documents Java trading architecture, database integration, C++ pricing, and risk reporting. Computer science master’s degrees and applied mathematics bachelor’s degree support degree requirements. Baseline core skills name Python, Docker, Spring Boot, SQL databases and MongoDB. Campbell Portfolio and Risk Team (2009–2014): volatility/correlation research, portfolio stress reporting and Investment Committee support. Java trading platform supported more than $3B in capital; no personally managed-assets claim.",
+  "discovery_window": [
+    "2026-09-01",
+    "2026-11-01"
+  ],
+  "geography_fit": true,
+  "aliases": [],
+  "id": "a80f45eb408ad373",
+  "status": "needs_verification",
+  "step": 1,
+  "selected": false,
+  "submitted": false,
+  "application_directory": "applications/2026-11-01__t-rowe-price__senior-data-analyst-investment-data-strategy-baltimore-md-or-washington-dc__a80f45eb408ad373",
+  "priority": "standard",
+  "artifacts": {},
+  "resume_review": "Not generated; verification required or excluded."
+}

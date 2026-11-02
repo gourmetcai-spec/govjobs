@@ -1,0 +1,33 @@
+{
+  "employer": "Fannie Mae",
+  "title": "Director, Enterprise Architecture",
+  "requisition_id": "JR2571",
+  "canonical_url": "https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Reston-VA/Director--Enterprise-Business-Architecture_JR2571",
+  "application_url": "https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Reston-VA/Director--Enterprise-Business-Architecture_JR2571/apply",
+  "location": "Reston, VA; Plano, TX",
+  "remote_restrictions": "Flex/hybrid, DMV office offered; regular onsite work, manager sets cadence.",
+  "posted_date": "2026-10-16",
+  "posted_date_evidence": "Employer public Workday jobPostingInfo.startDate; Posted 16 Days Ago",
+  "salary": "$200000–$269000 (employer disclosed base ranges; see location-specific text)",
+  "open_evidence": "Employer public data: canApply=True, posted=True",
+  "source_evidence": "tracking/runs/2026-11-01-step1-resume/fannie-JR2571.json",
+  "retrieved_at": "2026-11-01T23:58:15.048918+00:00",
+  "fit": "Financial platform architecture/leadership overlap.",
+  "gaps": "Mandatory 8 years enterprise/business architecture and APM/rationalization/capability modeling expertise not documented; confirm before eligibility.",
+  "strengths": "Baseline: Freddie Mac Director (May 2014–present) leads multi-project financial engineering; AWS/IBM Symphony modeling and enterprise forecasting. Campbell (2003–2014) documents Java trading architecture, database integration, C++ pricing, and risk reporting. Computer science master’s degrees and applied mathematics bachelor’s degree support degree requirements. Baseline core skills name Python, Docker, Spring Boot, SQL databases and MongoDB. Freddie Mac explicitly documents forecasting/CECL and STACR/ACIS model delivery; Campbell research covers statistical methods, Monte Carlo, stress analysis and Investment Committee reporting.",
+  "discovery_window": [
+    "2026-09-01",
+    "2026-11-01"
+  ],
+  "geography_fit": true,
+  "aliases": [],
+  "id": "75fc7a789c585e24",
+  "status": "needs_verification",
+  "step": 1,
+  "selected": false,
+  "submitted": false,
+  "application_directory": "applications/2026-11-01__fannie-mae__director-enterprise-architecture__75fc7a789c585e24",
+  "priority": "standard",
+  "artifacts": {},
+  "resume_review": "Not generated; verification required or excluded."
+}

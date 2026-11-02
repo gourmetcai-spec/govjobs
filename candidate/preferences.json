@@ -1,0 +1,93 @@
+{
+  "baseline": "resume-xuewu.cai.pdf",
+  "baseline_sha256": "b6493d18074902f305b30f985a0197e5d9e7e42b4ddd2367d3075e3d8e0ec6a8",
+  "timezone": "America/New_York",
+  "lookback_calendar_months": 2,
+  "locations": [
+    "Maryland",
+    "Virginia",
+    "Washington, DC",
+    "Nearby commutable surrounding communities"
+  ],
+  "prioritize": [
+    "Maryland",
+    "Washington, DC",
+    "Northern Virginia",
+    "Remote roles permitting work from Maryland/DMV"
+  ],
+  "location_preferences_confirmed": true,
+  "minimum_salary": null,
+  "work_authorization": "U.S. citizen (resume)",
+  "exclude_federal_government_employers": null,
+  "target_tracks": [
+    "Financial engineering / quantitative engineering leadership",
+    "Mortgage analytics / credit risk transfer / structured finance",
+    "Banking / financial risk / portfolio analytics / enterprise forecasting",
+    "Funds / investment technology / quantitative research and development",
+    "IT / enterprise technology / engineering leadership",
+    "Software Development Engineer (SDE) / software engineer / backend engineer",
+    "AI Forward Deployed Engineer (AI FDE) / forward deployed software engineer",
+    "AI engineer / applied AI engineer / generative AI engineer"
+  ],
+  "unknown_answers": [
+    "salary expectations",
+    "relocation",
+    "notice period",
+    "sponsorship form wording",
+    "demographic disclosures",
+    "security clearance",
+    "noncompete"
+  ],
+  "require_final_confirmation_per_application": true,
+  "target_sectors": [
+    "Fintech",
+    "Finance",
+    "Mortgage",
+    "Banking",
+    "Funds (hedge funds, investment funds, and asset managers)",
+    "IT / technology"
+  ],
+  "automatically_prepare_applications_when_supported": true,
+  "confirmation_checkpoint": "Immediately before the final action that submits each application to the employer",
+  "workflow_steps": {
+    "1": "Discover new matches, tailor local resumes, update ledger/log and selectable queue; no portal actions",
+    "2": "Prepare and apply only to selected jobs, singly or in repeatable batches; final confirmation required"
+  },
+  "selection_required_before_application_preparation": true,
+  "duplicate_application_policy": "Warn Already applied and skip; reconcile uncertain submissions before retrying",
+  "allow_group_final_confirmation": true,
+  "git_checkpoints": {
+    "commit_and_push_required": true,
+    "destination": "git@github.com:gourmetcai-spec/nongovjobs.git",
+    "after_step_1": true,
+    "after_each_step_2_checkpoint": true,
+    "after_skill_updates": true,
+    "on_sync_failure": "Preserve local state and pause further portal actions; report blocker",
+    "empty_checkpoint": "Push pending commits and verify synchronization; no empty commit",
+    "remote": "origin",
+    "branch_policy": "Use current intended branch; currently main"
+  },
+  "location_preference_source": {
+    "date": "2026-11-01",
+    "source": "User message",
+    "text": "limit the job location near MDV, i.e. maryland, virginia, DC and surrounding area"
+  },
+  "location_policy": {
+    "remote": "Include only if work from Maryland/DMV is permitted without regular distant-office attendance",
+    "multi_location": "Include if a Maryland, Virginia or DC office is an offered work location",
+    "surrounding_area": "Nearby commutable communities relative to Clarksville, MD/DMV; do not include whole neighboring states by default",
+    "relocation": "Do not assume or search nationwide on-site/hybrid roles"
+  },
+  "resume_output_policy": {
+    "required_formats": [
+      "Markdown",
+      "PDF"
+    ],
+    "folder_template": "applications/YYYY-MM-DD__employer__role__ledger-id/",
+    "filename_template": "resume-xuewu-cai__employer__role__req-or-id__vN",
+    "pdf_for_every_customized_version": true,
+    "pdf_index": "applications/resume-index.md",
+    "preserve_existing_reviewed_files": true,
+    "source": "User instruction on 2026-11-01: generate pdf file for each customized resume under a meaningfully named folder"
+  }
+}

@@ -1,0 +1,86 @@
+[
+  {
+    "id": "05f5c437f0238ae1",
+    "employer": "NinjaOne",
+    "title": "Senior Software Engineer, Java | Patching",
+    "status": "skipped"
+  },
+  {
+    "id": "0d26d7b3dc666dd4",
+    "employer": "Fannie Mae",
+    "title": "Senior Director of Modeling and Analytics, Platforms/Products",
+    "status": "needs_verification"
+  },
+  {
+    "id": "30967b2bc689201c",
+    "employer": "NinjaOne",
+    "title": "Staff Software Engineer, Java",
+    "status": "skipped"
+  },
+  {
+    "id": "472777f0c17792df",
+    "employer": "Fannie Mae",
+    "title": "Senior Financial Engineer - Capital Markets",
+    "status": "needs_verification"
+  },
+  {
+    "id": "4ca4ebfe5bc74f14",
+    "employer": "Fannie Mae",
+    "title": "Senior Director, Mortgage Forecasting & Analytics",
+    "status": "eligible"
+  },
+  {
+    "id": "5932b5c220204f03",
+    "employer": "Guild Mortgage",
+    "title": "Lead, Software Engineer",
+    "status": "needs_verification"
+  },
+  {
+    "id": "5f07619a889472c4",
+    "employer": "Point72",
+    "title": "Fund Flow Quantitative Developer",
+    "status": "skipped"
+  },
+  {
+    "id": "63a28a62a4c717a2",
+    "employer": "Citi",
+    "title": "Forward Deployed Engineer - Director",
+    "status": "skipped"
+  },
+  {
+    "id": "850269b52b84dff8",
+    "employer": "Capital One",
+    "title": "Full-stack Engineer 5",
+    "status": "eligible"
+  },
+  {
+    "id": "bb73fca27d43900b",
+    "employer": "Capital One",
+    "title": "Full Stack Engineer 4 (AI Operations/MLX Group)",
+    "status": "eligible"
+  },
+  {
+    "id": "c7bfa65609f82cce",
+    "employer": "Capital One",
+    "title": "Full Stack Engineer 5 (Senior Manager, IC, MLX Group)",
+    "status": "eligible"
+  },
+  {
+    "id": "cf3386db14e68153",
+    "employer": "Accellor",
+    "title": "Senior Java Developer - Java J2EE, Cursor AI",
+    "status": "needs_verification"
+  },
+  {
+    "id": "fe788eccb7ec3e74",
+    "employer": "BlackRock",
+    "title": "Java Developer, Software Engineering, Associate\u2013 Regulatory Reporting",
+    "status": "skipped"
+  },
+  {
+    "id": "ffa12262b7f017b1",
+    "employer": "Barclays",
+    "title": "Corporate Development Director (Risk Transfer)",
+    "status": "skipped"
+  }
+]

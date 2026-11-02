@@ -1,0 +1,487 @@
+Staff Full-Stack Engineer (Director IC) at Capital One
+
+Skip to main content
+
+Join Talent Network
+
+Saved Jobs
+
+Sign In
+
+Menu
+
+Menu
+
+Explore Jobs
+
+back
+
+Explore Jobs
+
+Teams
+
+Military
+
+Saved Jobs
+
+All Jobs
+
+Locations
+
+back
+
+Locations
+
+United States
+
+Canada
+
+India
+
+Mexico
+
+Philippines
+
+United Kingdom
+
+Students & Grads
+
+back
+
+Students & Grads
+
+Overview
+
+Early Internship Program
+
+Internship Programs
+
+Full-Time Programs
+
+Graduate Programs
+
+Student Events
+
+Working at Capital One
+
+back
+
+Working at Capital One
+
+Benefits
+
+Culture
+
+How We Work
+
+Innovation
+
+Events
+
+Careers Blog
+
+FAQs
+
+Join Talent Network
+
+Saved Jobs
+
+Sign In
+
+Search Jobs
+
+You’re located near
+
+You’re interested in
+
+Find Jobs
+
+Your next chapter
+starts now
+
+Ayushi,
+Business Analyst
+
+R1001544
+
+Posted 09/22/2026
+
+Staff Full-Stack Engineer (Director IC)
+
+McLean, Virginia | Plano, Texas | Riverwoods, Illinois | Richmond, Virginia
+
+Save Job
+
+Apply
+
+Category
+
+Engineering
+
+Experience
+
+Director
+
+Primary Address
+
+McLean, Virginia | Plano, Texas | Riverwoods, Illinois | Richmond, Virginia
+
+Overview
+
+Staff Full-Stack Engineer (Director IC)
+
+As a Staff Engineer at Capital One, you will be part of a community of technical experts working to define the future of banking in the cloud. You will work alongside our talented team of developers, machine learning experts, product managers and people leaders. Our Staff Engineers are leading experts in their domains, helping devise practical and reusable solutions to complex problems. You will drive innovation at multiple levels, helping optimize business outcomes while delivering strong technology solutions.
+
+At Capital One, we believe diversity of thought strengthens our ability to influence, collaborate and provide the most innovative solutions across organizational boundaries. You will promote a culture of engineering excellence and strike the right balance between lending expertise and providing an inclusive environment where the ideas of others can be heard and championed. You will lead the way in creating next-generation talent for Capital One Tech, mentoring engineers and actively recruiting to keep building our community.
+
+Staff Engineers are expected to lead through technical contribution. You will operate as a trusted advisor for our key technologies, platforms and capability domains, creating clear and concise communications, code samples, blog posts and other materials to share knowledge both inside and outside the organization. You will specialize in a particular subject area, but your input and impact will be sought and expected throughout the organization.
+.
+The Global Payment Network (GPN) Technology organization designs, builds, and operates the mission-critical systems and infrastructure that seamlessly power complex money movement across domestic and international rails. We build and operate a high-volume, low-latency, and highly resilient distributed ecosystem that is simultaneously secure, performant, accurate, and nimble.
+
+What You’ll Do:
+Articulate and evangelize a bold technical vision for your domain
+Decompose complex problems into practical and operational solutions
+Ensure the quality of technical design and implementation
+Serve as an authoritative expert on non-functional system characteristics, such as performance, scalability and operability
+Continue learning and injecting advanced technical knowledge into our community
+Handle several projects simultaneously, balancing your time to maximize impact
+Act as a role model and mentor within the tech community, helping to coach and strengthen the technical expertise and know-how of our engineering and product community
+Drive modernization of monolithic systems into microservice architectures and event-driven platforms
+Collaborate with senior engineering and architecture leaders to define long-term platform strategy and API standards
+Serve as a force-multiplier for the team, balancing deep, hands-on technical contribution and innovation with mentoring and elevating the skills of peers and junior engineers.
+Lead cross-divisional projects and impacts that promote technological best practices and enhancements
+
+Basic Qualifications:
+Bachelor's Degree or higher in Computer Science or a related quantitative field (Statistics, Economics, Operations Research, Analytics, Mathematics, Engineering)
+At least 7 years of experience in all of the following:
+Software engineering and solution architecture
+Enterprise architecture and design patterns
+Cloud computing (AWS, Microsoft Azure, Google Cloud)
+Data architecture
+
+Preferred Qualifications:
+Master’s Degree in Computer Science or Software Engineering
+10+ years of experience in all of the following:
+Software engineering and solution architecture
+Enterprise architecture and design patterns
+Web technologies (JavaScript, TypeScript and SPA frameworks)
+Designing and building distributed HPC and ML systems
+Cloud computing (AWS, Microsoft Azure, Google Cloud)
+Data architecture
+10+ years of professional experience coding in commonly used languages like Go, Java, JavaScript/Typescript, Python, Rust, C#, Scala
+8+ years of experience with database and database management systems
+10+ years of professional experience in the full lifecycle of system development, from conception through architecture, implementation, testing, deployment and production support
+5+ years of experience with public cloud platforms (AWS, GCP, Azure), cloud-based productivity tools, or virtualization technologies
+10+ years of experience with Networking protocols and integration with third party distributed systems
+5+ years of experience mentoring senior engineers and driving professional development within technical teams
+2+ years of experience leading cross-domain architectural reviews and establishing coding and design standards
+Expertise in the strategic application of agentic AI coding tools to solve systemic development challenges
+
+Capital One will consider sponsoring a new qualified applicant for employment authorization for this position.
+
+The minimum and maximum full-time annual salaries for this role are listed below, by location. Please note that this salary information is solely for candidates hired to perform work within one of these locations, and refers to the amount Capital One is willing to pay at the time of this posting. Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked.
+McLean, VA: $269,100 - $307,200 for Staff Full-stack Engineer
+
+Plano, TX: $244,700 - $279,200 for Staff Full-stack Engineer
+
+Richmond, VA: $244,700 - $279,200 for Staff Full-stack Engineer
+
+Riverwoods, IL: $244,700 - $279,200 for Staff Full-stack Engineer
+
+Candidates hired to work in other locations will be subject to the pay range associated with that location, and the actual annualized salary amount offered to any candidate at the time of hire will be reflected solely in the candidate’s offer letter.
+This role is also eligible to earn performance based incentive compensation, which may include cash bonus(es) and/or long term incentives (LTI). Incentives could be discretionary or non discretionary depending on the plan.
+
+Capital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well-being. Learn more at theCapital One Careers website. Eligibility varies based on full or part-time status, exempt or non-exempt status, and management level.
+This role is expected to accept applications for a minimum of 5 business days.
+
+No agencies please. Capital One is an equal opportunity employer (EOE, including disability/vet) committed to non-discrimination in compliance with applicable federal, state, and local laws.  Capital One promotes a drug-free workplace.  Capital One will consider for employment qualified applicants with a criminal history in a manner consistent with the requirements of applicable laws regarding criminal background inquiries, including, to the extent applicable, Article 23-A of the New York Correction Law; San Francisco, California Police Code Article 49, Sections 4901-4920; New York City’s Fair Chance Act; Philadelphia’s Fair Criminal Records Screening Act; and other applicable federal, state, and local laws and regulations regarding criminal background inquiries.
+
+If you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation, please contact Capital One Recruiting at 1-800-304-9102 or via email at RecruitingAccommodation@capitalone.com. All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations.
+
+For technical support or questions about Capital One's recruiting process, please send an email to Careers@capitalone.com
+
+Capital One does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.
+
+Capital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe and any position posted in the Philippines is for Capital One Philippines Service Corp. (COPSSC).
+
+Hiring Process
+
+Stories
+
+Benefits
+
+Career Journey
+
+How We Hire
+
+We take finding great coworkers pretty seriously.
+
+Step 1 Apply
+
+It only takes a few minutes to complete our application and assessment.
+
+Step 2 Screen and Schedule
+
+If your application is a good match you’ll hear from one of our recruiters to set up a screening interview.
+
+Step 3 Interview(s)
+
+Now’s your chance to learn about the job, show us who you are, share why you would be a great addition to the team and determine if Capital One is the place for you.
+
+Step 4 Decision
+
+The team will discuss — if it’s a good fit for us and you, we’ll make it official!
+
+A day in the life at Capital One
+
+Get an inside look at working at Capital One. Discover how our tech, product, and customer care teams collaborate and grow together.
+
+Read this story
+
+View More Stories
+
+Your wellbeing is our priority
+
+Our benefits and total compensation package is designed for the whole person. Caring for both you and your family.
+
+Healthy Body, Healthy Mind
+
+You have options and we have the tools to help you decide which health plans best fit your needs.
+
+Save Money, Make Money
+
+Secure your present, plan for your future and reduce expenses along the way.
+
+Time, Family and Advice
+
+Options for your time, opportunities for your family, and advice along the way. It’s time to BeWell.
+
+Career Journey
+
+Here’s how the team fits together. We’re big on growth and knowing who and how coworkers can best support you.
+
+Image Description
+
+Close
+
+A possible career journey at Capital One:
+
+Coordinator
+
+Senior Coordinator
+
+Principal Coordinator
+
+Associate
+
+Senior Associate
+
+Principal Associate
+
+Manager
+
+Senior Manager
+
+Director
+
+Senior Director
+
+VP
+
+Similar Jobs
+
+Saved Jobs
+
+102644420288
+
+Staff Cloud Engineer
+
+McLean, Virginia
+
+102612142000
+
+Senior Staff Full-stack Engineer, Global Payments Network
+
+McLean, Virginia
+
+101662116720
+
+Staff Full-Stack Engineer (Director IC) - Digital Payments
+
+Chicago, Illinois
+
+102568863792
+
+Director, International Strategy & Enablement - Global Payment Network Risk & Advisory
+
+McLean, Virginia
+
+You don't have any saved jobs right now
+
+Want more jobs like this?
+
+Set a job alert
+
+Sign up
+
+Close
+
+Job Alerts
+
+Don’t miss a thing. Stay in the know about opportunities you may be interested in!
+
+Email AddressInterested InTo create job alerts, you can either select a job category from the list of options or search by location. For location, you can search by city, state, zip or “remote”, then click 'Add'. Once done, click ‘Sign up’ to receive your job alerts.
+Job CategorySelect a Job CategoryAI & Machine LearningAuditBranch AmbassadorBrandBusiness AnalystBusiness BankingCaféCommercial BankingConcierge ServicesCustomer CareCyber & Cyber SecurityDataDesignEngineeringFinanceGlobal Payment NetworkGlobal Workplace ServicesHuman ResourcesInvestment BankingLegalMarketing and CommunicationsOperationsProcess and Project ManagementProductRisk ManagementStrategyStudents and Grads Early Internship ProgramsStudents and Grads Graduate ProgramsStudents and Grads Internship ProgramsStudents and Grads Rotational ProgramsTech Delivery & OperationsTechnology
+LocationAdd
+Engineering, McLean, Virginia, United StatesRemove
+Engineering, Plano, Texas, United StatesRemove
+Engineering, Riverwoods, Illinois, United StatesRemove
+Engineering, Richmond, Virginia, United StatesRemove
+Technology, McLean, Virginia, United StatesRemove
+Technology, Plano, Texas, United StatesRemove
+Technology, Riverwoods, Illinois, United StatesRemove
+Technology, Richmond, Virginia, United StatesRemove
+Remove
+
+Confirm Email
+
+By submitting your information, you acknowledge that you have read our privacy policy and consent to receive email communication from Capital One.
+
+Sign Up
+
+*Required Field
+
+Stay connected to the opportunities and ideas that match your career goals.
+
+Join our Talent Network.
+
+Instagram
+
+Facebook
+
+LinkedIn
+
+YouTube
+
+Glassdoor
+
+Explore Jobs
+
+Job Search
+
+Teams
+
+Military
+
+Students & Grads
+
+Technology
+
+Customer Care
+
+US Locations
+
+Overview
+
+Atlanta, GA
+
+Boston, MA
+
+Chicago, IL
+
+Dallas, TX
+
+McLean, VA
+
+New York, NY
+
+Philadelphia, PA
+
+Richmond, VA
+
+San Francisco, CA
+
+View All Jobs
+
+Working at Capital One
+
+Culture
+
+Diversity, Inclusion & Belonging
+
+Benefits
+
+#LifeAtCapitalOne Blog
+
+Awards
+
+How We Work
+
+Innovation
+
+Connect With Us
+
+FAQs
+
+Talent Network
+
+Job Alerts
+
+Locations
+
+United States
+
+Canada
+
+India
+
+Mexico
+
+Philippines
+
+United Kingdom
+
+E-Verify® is a registered trademark of the
+U.S. Department of Homeland Security.
+
+COVID-19 Response
+
+www.capitalone.com
+
+Accommodation
+
+If you have visited our website in search of information on employment opportunities or to apply for a position and you require an accommodation, please contact Capital One Recruiting at 1-800-304-9102 or via email at RecruitingAccommodation@capitalone.com. All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodation.
+
+Capital One is an equal opportunity employer (PDF) committed to diversity and inclusion in the workplace. All qualified applicants will receive consideration for employment without regard to sex (including pregnancy, childbirth or related medical conditions), race, color, age (40 and older), national origin, religion, disability, genetic information, marital status, sexual orientation, gender identity, gender reassignment, citizenship, immigration status, protected veteran status, or any other basis prohibited under applicable federal, state or local law.
+
+Know Your Rights Poster (PDF)
+
+Candidate Terms and Conditions (PDF)
+
+Footnotes
+
+Capital One is a federally registered service mark. All rights reserved. Blank Check® is a registered trademark of Capital One Services, LLC. Capital One does not provide, endorse or guarantee and is not liable for third-party products, services, educational tools or other information available through this site.
+
+© 2026 FORTUNE Media IP Limited. All rights reserved. Used under license. FORTUNE is not affiliated with, and does not endorse products or services of, Capital One.
+
+PEOPLE Companies That Care logo is used under license, © 2026 TI Gotham, Inc.
+
+© 2026 Capital One
+
+Cookie Management
+
+Privacy
+
+Security
+
+AdChoices
+
+Your California Privacy Choices
+
+Terms & Conditions
+
+Patriot Act Cert. (PDF)
+
+Servicemembers Civil Relief Act
+
+Sitemap

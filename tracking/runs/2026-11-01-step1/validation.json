@@ -1,0 +1,16 @@
+{
+  "checked_at": "2026-11-01T18:35:54.063282-05:00",
+  "baseline_sha256": "b6493d18074902f305b30f985a0197e5d9e7e42b4ddd2367d3075e3d8e0ec6a8",
+  "resume_count": 4,
+  "pdf_pages": 8,
+  "text_extraction": "Passed: complete employer history, dates, degrees, scoped financial metrics and CAIA Level I",
+  "rendering": "macOS PDFKit, every page visually inspected; no clipping, overlaps or blank pages",
+  "counts": {
+    "skipped": 6,
+    "needs_verification": 4,
+    "eligible": 4
+  },
+  "selected": 0,
+  "submitted": 0,
+  "geography_updated_from_user": true
+}

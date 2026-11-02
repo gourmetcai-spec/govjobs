@@ -1,0 +1,33 @@
+{
+  "employer": "Capital One",
+  "title": "Machine Learning Engineer 5, Senior Manager - Intelligent Foundations and Experiences (IFX)",
+  "requisition_id": "R1004777",
+  "canonical_url": "https://www.capitalonecareers.com/en/job/mclean/machine-learning-engineer-5-senior-manager-intelligent-foundations-and-experiences-ifx/1732/102600818448",
+  "application_url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Machine-Learning-Engineer-5--Senior-Manager---Intelligent-Foundations-and-Experiences--IFX-_R1004777-1/apply",
+  "location": "McLean; Richmond",
+  "remote_restrictions": "Office role; offered McLean location required for local selection; confirm cadence.",
+  "posted_date": "2026-10-29",
+  "posted_date_evidence": "Employer JobPosting.datePosted; indexed repost does not create a new identity.",
+  "salary": "$229,900 - $262,400; $209,000 - $238,500 (employer disclosed base ranges; see location-specific text)",
+  "open_evidence": "Live employer JobPosting and Apply destination retrieved.",
+  "source_evidence": "tracking/runs/2026-11-01-step1-resume/capital-102600818448-metadata.json",
+  "retrieved_at": "2026-11-01T23:58:15.048918+00:00",
+  "fit": "Substantial engineering and delivery overlap; evaluate specific cloud/architecture duration before selection preparation.",
+  "gaps": "Core mandatory 4/6-year PyTorch/TensorFlow and Spark/Ray ML experience plus 2/4-year production ML/Kubernetes experience is unsupported. Baseline AI coding-tool use is insufficient.",
+  "strengths": "Baseline: Freddie Mac Director (May 2014–present) leads multi-project financial engineering; AWS/IBM Symphony modeling and enterprise forecasting. Campbell (2003–2014) documents Java trading architecture, database integration, C++ pricing, and risk reporting. Computer science master’s degrees and applied mathematics bachelor’s degree support degree requirements. Baseline core skills name Python, Docker, Spring Boot, SQL databases and MongoDB.",
+  "discovery_window": [
+    "2026-09-01",
+    "2026-11-01"
+  ],
+  "geography_fit": true,
+  "aliases": [],
+  "id": "0c876d541fb1201e",
+  "status": "skipped",
+  "step": 1,
+  "selected": false,
+  "submitted": false,
+  "application_directory": "applications/2026-11-01__capital-one__machine-learning-engineer-5-senior-manager-intelligent-foundations-and-experiences-ifx__0c876d541fb1201e",
+  "priority": "standard",
+  "artifacts": {},
+  "resume_review": "Not generated; verification required or excluded."
+}

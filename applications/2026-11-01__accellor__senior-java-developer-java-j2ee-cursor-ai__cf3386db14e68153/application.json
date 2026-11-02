@@ -1,0 +1,34 @@
+{
+  "employer": "Accellor",
+  "title": "Senior Java Developer - Java J2EE, Cursor AI",
+  "requisition_id": "5C44EACEF1",
+  "canonical_url": "https://apply.workable.com/accellor/j/5C44EACEF1/",
+  "application_url": "https://apply.workable.com/accellor/j/5C44EACEF1/",
+  "posted_date": "2026-10-22",
+  "posted_date_evidence": "Employer Workable public API published timestamp: 2026-10-22T00:00:00.000Z",
+  "location": "Silver Spring, MD / U.S. remote",
+  "remote_restrictions": "See employer evidence; no relocation assumed.",
+  "salary": "$110,000\u2013$130,000 base",
+  "fit": "Relevant software/leadership overlap; excluded or verification pending.",
+  "gaps": "Source date/open status resolved. Mandatory 12+ years Spring, 4+ cloud years, Cursor AI, publication history, Azure/PowerShell/Active Directory capabilities not established in baseline. Keep needs_verification.",
+  "strengths": "Baseline: Freddie Mac Director (May 2014\u2013present) leads multi-project financial engineering; AWS/IBM Symphony modeling and enterprise forecasting. Campbell (2003\u20132014) documents Java trading architecture, database integration, C++ pricing, and risk reporting. Computer science master\u2019s degrees and applied mathematics bachelor\u2019s degree support degree requirements. Baseline core skills name Python, Docker, Spring Boot, SQL databases and MongoDB.",
+  "open_evidence": "Employer state=published, approvalStatus=approved, remote=true, Silver Spring Maryland location.",
+  "retrieved_at": "2026-11-01T23:27:02.650127+00:00",
+  "aliases": [
+    "https://www.careerbuilder.com/job-details/senior-java-developer-java-j2ee-cursor-ai-silver-spring-md--81f0eba3-8abb-41e6-be10-2b33f158e4c3"
+  ],
+  "discovery_window": [
+    "2026-09-01",
+    "2026-11-01"
+  ],
+  "status": "needs_verification",
+  "id": "cf3386db14e68153",
+  "step": 1,
+  "selected": false,
+  "submitted": false,
+  "artifacts": {},
+  "resume_review": "not generated; verification required",
+  "geography_review": "2026-11-01 user-confirmed DMV region: local offered office or remote from Maryland required.",
+  "geography_fit": true,
+  "last_availability_check": "2026-11-01T23:58:15.048918+00:00"
+}

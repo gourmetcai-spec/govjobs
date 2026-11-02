@@ -1,0 +1,33 @@
+{
+  "employer": "Fannie Mae",
+  "title": "Product Lead Associate - Common Cashflow Application (CCFA) Modeling Platform",
+  "requisition_id": "JR3009",
+  "canonical_url": "https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Washington-DC/Product-Lead-Associate---Common-Cashflow-Application--CCFA--Modeling-Platform_JR3009",
+  "application_url": "https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Washington-DC/Product-Lead-Associate---Common-Cashflow-Application--CCFA--Modeling-Platform_JR3009/apply",
+  "location": "Washington, DC; Reston, VA",
+  "remote_restrictions": "Flex/hybrid, DMV office offered; regular onsite work, manager sets cadence.",
+  "posted_date": "2026-10-27",
+  "posted_date_evidence": "Employer public Workday jobPostingInfo.startDate; Posted 5 Days Ago",
+  "salary": "$123000–$161000 (employer disclosed base ranges; see location-specific text)",
+  "open_evidence": "Employer public data: canApply=True, posted=True",
+  "source_evidence": "tracking/runs/2026-11-01-step1-resume/fannie-JR3009.json",
+  "retrieved_at": "2026-11-01T23:58:15.048918+00:00",
+  "fit": "Forecasting/CECL and model platform ownership align with CCFA domain.",
+  "gaps": "Mandatory 4 years product management/consulting and deep agile/product lifecycle expertise not documented separately; confirm experience.",
+  "strengths": "Baseline: Freddie Mac Director (May 2014–present) leads multi-project financial engineering; AWS/IBM Symphony modeling and enterprise forecasting. Campbell (2003–2014) documents Java trading architecture, database integration, C++ pricing, and risk reporting. Computer science master’s degrees and applied mathematics bachelor’s degree support degree requirements. Baseline core skills name Python, Docker, Spring Boot, SQL databases and MongoDB. Freddie Mac explicitly documents forecasting/CECL and STACR/ACIS model delivery; Campbell research covers statistical methods, Monte Carlo, stress analysis and Investment Committee reporting.",
+  "discovery_window": [
+    "2026-09-01",
+    "2026-11-01"
+  ],
+  "geography_fit": true,
+  "aliases": [],
+  "id": "db2362c6670338f0",
+  "status": "needs_verification",
+  "step": 1,
+  "selected": false,
+  "submitted": false,
+  "application_directory": "applications/2026-11-01__fannie-mae__product-lead-associate-common-cashflow-application-ccfa-modeling-platform__db2362c6670338f0",
+  "priority": "standard",
+  "artifacts": {},
+  "resume_review": "Not generated; verification required or excluded."
+}

@@ -1,0 +1,42 @@
+{
+  "employer": "Fannie Mae",
+  "title": "Financial Engineer - Anaplan",
+  "requisition_id": "JR2963",
+  "canonical_url": "https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Washington-DC/Financial-Engineer---Anaplan_JR2963",
+  "application_url": "https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Washington-DC/Financial-Engineer---Anaplan_JR2963/apply",
+  "location": "Washington, DC; Reston, VA; Granite Park VII",
+  "remote_restrictions": "Flex/hybrid, DMV office offered; regular onsite work, manager sets cadence.",
+  "posted_date": "2026-10-09",
+  "posted_date_evidence": "Employer public Workday jobPostingInfo.startDate; Posted 23 Days Ago",
+  "salary": "$85,000.00 - 110,000.00 (employer disclosed base ranges; see location-specific text)",
+  "open_evidence": "Employer public data: canApply=True, posted=True",
+  "source_evidence": "tracking/runs/2026-11-01-step1-resume/fannie-JR2963.json",
+  "retrieved_at": "2026-11-01T23:58:15.048918+00:00",
+  "fit": "Enterprise income/balance-sheet/CECL forecasting and financial model implementation directly support planning-platform responsibilities.",
+  "gaps": "Anaplan not documented; employer explicitly provides training and does not require prior Anaplan experience. Associate scope/pay materially below current Director role.",
+  "strengths": "Baseline: Freddie Mac Director (May 2014–present) leads multi-project financial engineering; AWS/IBM Symphony modeling and enterprise forecasting. Campbell (2003–2014) documents Java trading architecture, database integration, C++ pricing, and risk reporting. Computer science master’s degrees and applied mathematics bachelor’s degree support degree requirements. Baseline core skills name Python, Docker, Spring Boot, SQL databases and MongoDB. Freddie Mac explicitly documents forecasting/CECL and STACR/ACIS model delivery; Campbell research covers statistical methods, Monte Carlo, stress analysis and Investment Committee reporting.",
+  "discovery_window": [
+    "2026-09-01",
+    "2026-11-01"
+  ],
+  "geography_fit": true,
+  "aliases": [],
+  "id": "486d8b17a1938acd",
+  "status": "eligible",
+  "step": 1,
+  "selected": false,
+  "submitted": false,
+  "application_directory": "applications/2026-11-01__fannie-mae__financial-engineer-anaplan__486d8b17a1938acd",
+  "priority": "lower",
+  "artifacts": {
+    "resume_markdown": {
+      "path": "applications/2026-11-01__fannie-mae__financial-engineer-anaplan__486d8b17a1938acd/resume-xuewu-cai__fannie-mae__financial-engineer-anaplan__JR2963__v1.md",
+      "sha256": "8d369e139ad13e06eb08b142c14f167820c45748e4b8768d31d252c4d92db5ff"
+    },
+    "resume_pdf": {
+      "path": "applications/2026-11-01__fannie-mae__financial-engineer-anaplan__486d8b17a1938acd/resume-xuewu-cai__fannie-mae__financial-engineer-anaplan__JR2963__v1.pdf",
+      "sha256": "a1f75d2e1001c862b4db1ef1bb4e352069f38c671837406a3ce96bdd6fdc59c5"
+    }
+  },
+  "resume_review": "Text extraction verified: 2 pages and all baseline experience bullets retained. Every page rendered with macOS PDFKit and visually reviewed: no clipping, overlap or blank pages."
+}

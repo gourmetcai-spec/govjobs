@@ -1,0 +1,317 @@
+Internal Error ()
+citeturn43view0 [wordlim: 200] Source: open({"ref_id":"https://www.capitalonecareers.com/en/category/technology-jobs/234/4412/1/3","lineno":null});
+URL https://www.capitalonecareers.com/en/category/technology-jobs/234/4412/1/3 is not accessible via this tool.--------------------------------------------------------------------------------
+Internal Error ()
+citeturn43view1 [wordlim: 200] Source: open({"ref_id":"https://www.careerbuilder.com/jobs-java-developer?page=2","lineno":null});
+Failed to fetch https://www.careerbuilder.com/jobs-java-developer?page=2: Cache miss--------------------------------------------------------------------------------
+Internal Error ()
+citeturn43view2 [wordlim: 200] Source: open({"ref_id":"https://careers.freddiemac.com/us/en/c/quantitative-analytics-jobs","lineno":null});
+URL https://careers.freddiemac.com/us/en/c/quantitative-analytics-jobs is not accessible via this tool.--------------------------------------------------------------------------------
+Best Java Developer Jobs in Washington, DC 2026 | Built In (https://builtin.com/jobs/washington-dc/dev-engineering/java)
+citeturn43view3 [wordlim: 200] Crawled: 2 months ago; Content type: text/html; Source: open({"ref_id":"https://builtin.com/jobs/washington-dc/dev-engineering/java","lineno":null}); Total lines: 538
+L0: 【0†Google Tag Manager†www.googletagmanager.com】
+L1:
+L2: [Input: Search]
+L3:
+L4: 【1†View All Jobs】
+L5:
+L6: 【2†Join】
+L7:
+L8: 【3†Log In】
+L9:
+L10: [Input: Job Title, Company or Keyword] Job Title, Company or Keyword
+L11:
+L12: [Input: Location]
+L13:
+L14: All Filters
+L15:
+L16: Save Alert
+L17:
+L18: Maximum of 25 job preferences reached.
+L19:
+L20: # Top Java Developer Jobs in Washington, DC
+L21:
+L22: 【4†Contact Government Services, LLC】
+L23: ## 【5†Java Developer】
+L24:
+L25: Reposted 7 Hours Ago Saved
+L26:
+L27: In-Office or Remote
+L28:
+L29: Washington, DC
+L30:
+L31: 140K-220K Annually
+L32:
+L33: Mid level
+L34:
+L35: Information Technology • Legal Tech • Software • Consulting
+L36:
+L37: The Java Developer will enhance data utilization for a state-run project, creating web applications and integrating systems, while collaborating with teams to ensure functionality and efficiency.
+L38:
+L39: Top Skills: CSS Hibernate HTML Java Java Server Faces JavaScript SQL
+L40:
+L41: 【6†AIS (Applied Information Sciences)】
+L42: ## 【7†Sr. Full Stack Java Developer】
+L43:
+L44: Yesterday Saved
+L45:
+L46: In-Office
+L47:
+L48: Washington, DC
+L49:
+L50: 117K-177K Annually
+L51:
+L52: Senior level
+L53:
+L54: Cloud • Information Technology • Software • Business Intelligence
+L55:
+L56: Design and implement backend APIs with Java/Spring Boot and responsive UIs with React/TypeScript. Build normalized PostgreSQL schemas, support data migration, manage CI/CD and deployments, ensure accessibility and security compliance, and participate in all SDLC phases within an Agile team.
+L57: Top Skills: Aws Aurora Aws Cloudwatch Aws Ec2 Aws Ecs Aws S3 Ci/Cd Confluence CSS Docker Git Gitlab Hibernate Java JavaScript JIRA Keycloak Kubernetes Maven Pl/Sql Postgres React Restful Apis Spring Boot Spring Mvc Spring Security SQL Typescript
+L58:
+L59: 【8†Synthesis Systems】
+L60: ## 【9†Senior Java Developer】
+L61:
+L62: Reposted 2 Days Ago Saved
+L63:
+L64: In-Office
+L65:
+L66: Washington, DC
+L67:
+L68: Senior level
+L69:
+L70: Information Technology • Professional Services • Software • Consulting
+L71:
+L72: Lead design, development, testing, integration and deployment of Java/J2EE applications. Produce technical artifacts, mentor team members, enforce standards, estimate work, and drive release and implementation activities to ensure high-quality delivery.
+L73: Top Skills: Ant Clearcase Clover Db2 Ejb Hibernate HTML J2Ee Java JavaScript Jdbc Jsp Junit Log4J O/R Mapping Rational Rose Servlets Spring Framework SQL Struts Uml Websphere XML
+L74:
+L75: 【10†Synergy ECP】
+L76: ## 【11†Senior Full Stack Java Developer】
+L77:
+L78: Reposted 4 Days Ago Saved
+L79:
+L80: In-Office
+L81:
+L82: Washington, DC
+L83:
+L84: 125K-155K Annually
+L85:
+L86: Senior level
+L87:
+L88: Information Technology • Software • Consulting • Cybersecurity
+L89: Senior full-stack developer responsible for designing and implementing Java/Spring back-end APIs, React/TypeScript front-ends, and normalized PostgreSQL schemas. Duties include data migration, CI/CD and deployments, ensuring security and 508 accessibility, supporting lifecycle phases, and using AWS, Keycloak, Kubernetes, Docker, and Atlassian tools. Requires strong documentation, Agile experience, and 7+ years of experience.
+L90: Top Skills: Aws Aurora Aws Cloudwatch Aws Ec2 Aws Ecs Aws S3 Ci/Cd Confluence CSS Docker Git Gitlab Hibernate Java JavaScript JIRA Keycloak Kubernetes Maven Plsql Postgres React Restful Apis Spring Boot Spring Mvc Spring Security SQL Typescript
+L91:
+L92: 【12†Guidehouse】
+L93: ## 【13†Full-Stack Developer (Java / PostgreSQL)】
+L94:
+L95: 6 Days Ago Saved
+L96:
+L97: In-Office
+L98:
+L99: Washington, DC
+L100:
+L101: 98K-163K Annually
+L102:
+L103: Mid level
+L104:
+L105: Consulting
+L106: Develop, modernize, test, deploy, and sustain mission-critical full-stack enterprise applications for a federal law enforcement modernization program. Work spans PostgreSQL database design, Java backend services and REST APIs, responsive front-end frameworks, security controls, automated testing, CI/CD and DevSecOps, performance troubleshooting, data migration, and technical documentation in a secure environment.
+L107: Top Skills: Angular Automated Testing AWS Azure Ci/Cd Devsecops Docker Hibernate Java Jpa Kubernetes Postgres React Restful Apis Secure Code Scanning Spring Boot Vue
+L108:
+L109: 【14†Dellfor Technologies】
+L110: ## 【15†senior java developer】
+L111:
+L112: Reposted 6 Days Ago Saved
+L113:
+L114: In-Office
+L115:
+L116: Washington, DC
+L117:
+L118: 60K-80K Annually
+L119:
+L120: Senior level
+L121:
+L122: Artificial Intelligence • Information Technology • Software • Consulting
+L123: Senior Java Developer responsible for full SDLC: design, develop, test and deploy Java/J2EE web applications using Spring/Hibernate, messaging (MQ), RDBMS (Oracle/SQL Server/MySQL), and front-end frameworks (Angular/Bootstrap). Collaborate in Agile teams, perform code-level implementation, unit testing, and production support.
+L124: Top Skills: Adobe Flex Sdk Ajax Angular Angularjs Ant Apache Tomcat Big Data Bootstrap CSS Cvs Eclipse Ejb Ggts Git Hibernate HTML Ibm Db2 J2Ee Java Javabeans JavaScript Jboss Jdbc JIRA Jmeter Jms Jquery Jsf Jsp Junit Ldap Log4J Maven Mq Mvc MySQL Oracle Primefaces Quality Center Rational Application Developer Redmine Servlets Soap Ui Spock Spring SQL SQL Server Stash Struts Svn Team Foundation Server Testng Uml Web Services Weblogic Websphere Application Developer Xhtml XML
+L125:
+L126: 【14†Dellfor Technologies】
+L127: ## 【16†Senior JAVA Developer】
+L128:
+L129: Reposted 6 Days Ago Saved
+L130:
+L131: In-Office
+L132:
+L133: Washington, DC
+L134:
+L135: 60K-80K Annually
+L136:
+L137: Senior level
+L138:
+L139: Artificial Intelligence • Information Technology • Software • Consulting
+L140: Senior Java developer responsible for designing and implementing distributed, real-time web applications. Work includes OOA/OOD, backend Java/J2EE, Spring/Hibernate, SOA/web services, APIs, relational databases, messaging systems, and automated build/test pipelines. Collaborate in Agile/TDD teams, implement rich UIs, and support deployment on Unix/Windows environments. Preferred experience with Cassandra, RabbitMQ, Pivotal Cloud Foundry, and Spring Boot.
+L141: Top Skills: Ajax Angularjs Ant Cassandra Chef Cruise Control Dojo Hibernate HTML5 Hudson J2Ee Java Javafx Jenkins Jquery Jsf Junit Maven Pivotal Cloud Foundry RabbitMQ Scrum Selenium Soa Spring Spring Boot Struts Swing Testng Unix/Linux Web Services Windows
+L142:
+L143: 【14†Dellfor Technologies】
+L144: ## 【17†Java ATG Developer】
+L145:
+L146: Reposted 6 Days Ago Saved
+L147:
+L148: In-Office
+L149:
+L150: Washington, DC
+L151:
+L152: 60K-60K Annually
+L153:
+L154: Senior level
+L155:
+L156: Artificial Intelligence • Information Technology • Software • Consulting
+L157: Develop and maintain ATG/Java J2EE applications across the full SDLC. Build and integrate REST/XML web services, back-end frameworks (Spring, Hibernate), WebLogic/Oracle DB, front-end components (jQuery/AngularJS), and microservices with RabbitMQ. Collaborate with stakeholders, troubleshoot issues, and contribute to deployment on AWS; occasional iOS/Swift work expected.
+L158: Top Skills: Ajax Angularjs Atg AWS CSS Hibernate HTML HTTP iOS J2Ee Java JavaScript Jdbc Jquery JSON Microservices Oracle Database Pl/Sql RabbitMQ Restful Web Services Spring Struts Swift Weblogic XML
+L159:
+L160: 【18†ITGoals】
+L161: ## 【19†Java Staff / Senior Staff Engineer】
+L162:
+L163: Reposted An Hour Ago Saved
+L164:
+L165: In-Office or Remote
+L166:
+L167: Washington, DC
+L168:
+L169: Senior level
+L170:
+L171: Information Technology • Software • Consulting • App development
+L172:
+L173: Lead design and delivery of scalable, resilient distributed systems. Act as technical authority across teams, mentor engineers, drive architecture and CI/CD best practices, troubleshoot production issues, optimize performance, and enhance observability while writing production-grade Java.
+L174: Top Skills: Caching Ci/Cd Docker Event-Driven Architecture Git Java Kafka Load Balancing Microservices Monitoring/Observability Multithreading NoSQL RabbitMQ Relational Databases Restful Apis Sharding Spring Boot
+L175:
+L176: 【20†McBride Consulting, LLC】
+L177: ## 【21†Senior Full Stack Java Developer】
+L178:
+L179: Reposted 7 Hours Ago Saved
+L180:
+L181: Remote
+L182:
+L183: Washington, DC
+L184:
+L185: Senior level
+L186:
+L187: Information Technology • Professional Services • Consulting
+L188:
+L189: Lead design, development, testing, and maintenance of enterprise Java microservices and front-end applications. Build APIs, CI/CD pipelines, and containerized deployments; troubleshoot production, ensure security/compliance, mentor junior developers, and collaborate within Agile teams.
+L190: Top Skills: Angular Ci/Cd Docker DynamoDB Git Hibernate J2Ee Java Java 17 Java 8 Jenkins Jpa Junit Jwt Kafka Kubernetes Microservices Mockito MongoDB MySQL Oauth Oracle Postgres Postman RabbitMQ React Rest Apis Soap Ui Spring Boot
+L191:
+L192: 【22†Photon】
+L193: ## 【23†Senior Blockchain Engineer - Digital Assets Platform(Java Developer) - New York】
+L194:
+L195: Reposted 7 Hours Ago Saved
+L196:
+L197: In-Office or Remote
+L198:
+L199: Washington, DC
+L200:
+L201: 41K-145K Annually
+L202:
+L203: Senior level
+L204:
+L205: Agency • Information Technology
+L206: Build and deliver backend enterprise web applications for Citi's Integrated Digital Assets Platform using Java/Spring and web3 technologies. Collaborate with distributed teams, follow best practices and design patterns, write technical documentation, resolve issues, and ensure scalability, reliability, and performance.
+L207:
+L208: Top Skills: Asynchronous Programming Containers Git Helm Charts Java Jenkins JIRA Solidity Spring Web3 Web3J Web3Js
+L209:
+L210: 【22†Photon】
+L211: ## 【24†Sr Java API Developer - New York】
+L212:
+L213: Reposted 7 Hours Ago Saved
+L214:
+L215: In-Office or Remote
+L216:
+L217: Washington, DC
+L218:
+L219: 40K-140K Annually
+L220:
+L221: Senior level
+L222:
+L223: Agency • Information Technology
+L224: Design, build, and maintain secure, high-performance RESTful APIs and microservices using Java and Spring Boot. Collaborate with cross-functional teams, implement API security (OAuth2/JWT/OpenID Connect), optimize databases, integrate messaging systems, write unit/integration/API tests, participate in code reviews and architecture decisions, troubleshoot production issues, and contribute to CI/CD and DevSecOps practices.
+L225: Top Skills: Apache Kafka Azure Devops Docker Git Github Actions Gitlab Ci Gradle Hibernate/Jpa Java 11 Java 17 Jenkins JSON Junit Kubernetes Maven Mockito MongoDB MySQL Openapi/Swagger Oracle Postgres RabbitMQ Rest Rest Assured Spring Boot Spring Data Jpa Spring Mvc Spring Security
+L226:
+L227: New
+L228: ## Cut your apply time in half.
+L229:
+L230: Use our AI Assistant to automatically fill your job applications.
+L231:
+L232: 【25†Use For Free】
+L233:
+L234: 【26†Image: Application Tracker Preview†static.builtin.com】
+L235:
+L236: 【22†Photon】
+L237: ## 【27†Java Fullstack Engineer - Dallas, TX】
+L238:
+L239: Reposted 7 Hours Ago Saved
+L240:
+L241: In-Office or Remote
+L242:
+L243: Washington, DC
+L244:
+L245: 40K-142K Annually
+L246:
+L247: Expert/Leader
+L248:
+L249: Agency • Information Technology
+L250: Lead architecture and delivery of enterprise Java full-stack applications. Hands-on development with Java/Spring Boot, microservices, AWS cloud-native services, database tuning (Oracle/RDS), CI/CD pipelines, monitoring, and incident resolution. Mentor engineers, enforce code quality, run architectural reviews, and collaborate with product, DevOps, and security teams to ensure scalable, secure, high-availability solutions.
+L251: Top Skills: Amazon Rds Aws Api Gateway Aws Cloudwatch Aws Codebuild Aws Codedeploy Aws Codepipeline Aws Ec2 Aws Lambda Aws S3 Confluence Git Java (8/11/17)Jenkins Microservices Oracle Rest Apis Spring Boot SQL
+L252:
+L253: 【28†Hexaware Technologies】
+L254: ## 【29†Senior Java Full Stack Developer with AI】
+L255:
+L256: Yesterday Saved
+L257:
+L258: Remote
+L259:
+L260: Washington, DC
+L261:
+L262: Senior level
+L263:
+L264: Information Technology • Consulting
+L265:
+L266: Design, build, and maintain scalable enterprise full-stack applications using Java, Spring Boot, microservices, and modern front-end frameworks. Implement cloud-based solutions on AWS, contribute to CI/CD and DevOps automation, optimize performance and security, and integrate AI-driven capabilities using Python and orchestration tools like LangChain and LangGraph.
+L267: Top Skills: Angular AWS Ci/Cd DevOps J2Ee Java Langchain Langgraph Microservices Python React Rest Apis Spring Spring Boot
+L268:
+L269: 【30†CareerSwift】
+L270: ## 【31†Backend Developer (Node.js / Java / .NET)】
+L271:
+L272: Yesterday Saved
+L273:
+L274: Remote
+L275:
+L276: Washington, DC
+L277:
+L278: 100K-120K Annually
+L279:
+L280: Mid level
+L281:
+L282: Artificial Intelligence • HR Tech • Software • Automation
+L283: Develop, maintain, and optimize backend services and APIs for a scalable healthcare platform using Node.js, Java, or .NET. Integrate third-party services, ensure performance, reliability, and security, collaborate with cross-functional teams, participate in code reviews, and work in an Agile environment to deliver high-quality server-side applications.
+L284:
+L285: Top Skills: .Net Git Java MySQL Node.js Postgres Restful Apis SQL Server
+L286:
+L287: 【32†Eliassen Group】
+L288: ## 【33†Java Production Support Developer (6 months Contract to Hire)】
+L289:
+L290: Reposted 11 Days Ago Saved
+L291:
+L292: In-Office
+L293:
+L294: Washington, DC
+L295:
+L296: Expert/Leader
+L297:
+L298: Professional Services • Consulting
+L299:
+L300: The Java Production Support Developer will analyze, develop, integrate, and maintain applications, providing support, troubleshooting, and mentoring team members. They will ensure software meets functional and non-functional requirements while collaborating with various technical teams.
+L301: Top Skills: Groovy Java Python Shell Scripting SQL XML
+L302:
+L303: 【34†General Dynamics Information Technology】
+L304: ## 【35†Senior Java Developer】
+L305:
