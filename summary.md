@@ -34,9 +34,9 @@ Persist `submitting` before the external action. Set `applied` only with success
 
 The resume describes financial engineering leadership, mortgage/CRT and structured finance, quantitative risk and forecasting, trading technology, Java/Python/C/C++, AWS, and documented AI tooling use. Assess each requirement against resume evidence. Never invent tools, projects, production AI systems, metrics, years, titles or credentials. Copilot usage does not establish production LLM/RAG, model-training or forward-deployment experience. CAIA Level I is not a full CAIA charter; CRT program size is not personally managed assets.
 
-Current provisional geography is the United States, prioritizing remote and DC/Maryland/Northern Virginia. Location preferences remain unconfirmed and no salary floor is set. Do not infer relocation, clearance, demographic answers, sponsorship form answers or federal-employer exclusions. The user has not explicitly excluded federal employers despite the directory name.
+Current scope: federal government agency employment only in Washington DC, Maryland and Virginia. Exclude private employers, federal contractors, GSEs and state/local governments. Remote roles must permit working from Maryland/DMV without regular distant-office attendance; multi-location roles need a genuine offered DC/MD/VA work location. No salary floor is set. Do not infer relocation, clearance, demographic or sponsorship form answers.
 
-Coverage targets: LinkedIn, Indeed, Glassdoor, ZipRecruiter, Monster, CareerBuilder, Dice, eFinancialCareers, Built In, Wellfound, and direct employer careers/ATS pages. Log query/page coverage and access limitations; never claim exhaustive coverage from a few search results. Verify unknown dates before eligibility and do not bypass access restrictions.
+Coverage targets: USAJOBS and official federal agency careers/announcement pages. General boards and search engines may supplement federal-only discovery; verify each result against its official announcement. Log query/page coverage and access limits.
 
 ## Files to recreate or restore
 
@@ -47,7 +47,7 @@ Coverage targets: LinkedIn, Indeed, Glassdoor, ZipRecruiter, Monster, CareerBuil
 | `skills/job-application-agent/references/search-and-tools.md` | Source coverage, query families and optional tools |
 | `skills/job-application-agent/scripts/ledger.py` | Python stdlib SQLite CLI: `list`, `add job.json`, `update ID patch.json`; optional `--db` |
 | `candidate/baseline.txt` | Extracted source resume text |
-| `candidate/preferences.json` | Baseline hash, targets, provisional preferences, confirmation rules and Git settings |
+| `candidate/preferences.json` | Baseline hash, targets, confirmed federal/DMV scope, confirmation rules and Git settings |
 | `tracking/jobs.sqlite3` | Authoritative jobs table and append-only change-event history |
 | `tracking/job-queue.md` | Derived selectable queue with stable IDs, statuses, fit/gaps and artifact links |
 | `tracking/batches/<timestamp>__<unique-suffix>.json` | Created per Step 2 selection; selected IDs, request reference, progress, approvals and outcomes |
@@ -76,7 +76,7 @@ The skill-creator skill guided creation; plugin-management was used for discover
 
 TinyFish was suggested as an optional browser integration, but connection was not confirmed. Official Playwright and PDF skills were reviewed, not installed. Browser automation requires a working tool and authenticated site access; otherwise retain a manual-ready packet without claiming submission. Use secure login flows rather than logging credentials.
 
-Skill validation passed. Isolated ledger checks covered cross-board duplicates, distinct requisitions, missing approval/receipt rejection, changed-packet rejection and uncertain-submission retry prevention. At the end of the conversation before this summary, no discovery run or actual application had occurred; the real ledger/queue was empty. Do not manufacture past jobs when recreating. If history exists later, restore it instead of initializing an empty ledger.
+Skill validation passed. Isolated ledger checks covered cross-board duplicates, distinct requisitions, missing approval/receipt rejection, changed-packet rejection and uncertain-submission retry prevention. On 2026-11-01, the user requested removal of copied non-government job history. All 54 imported jobs and their related events, application folders and discovery runs were removed; the ledger and queue are empty. No applications had been submitted. Do not restore copied records or resume old non-government discovery tasks. Preserve new federal job history across future runs.
 
 ## Exact invocation prompts
 
