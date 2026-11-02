@@ -98,5 +98,31 @@
       "source": "User instruction on 2026-11-01: no AI-update marks or tailored/targeted-to-position wording on resumes"
     }
   },
-  "employer_scope": "Federal government agencies only; exclude private employers, federal contractors, GSEs, and state/local government employers"
+  "employer_scope": "Federal government agencies only; exclude private employers, federal contractors, GSEs, and state/local government employers",
+  "preparation_policy": {
+    "prepare_unverified_jobs": true,
+    "unverified_dates_or_qualifications_block_preparation": false,
+    "skip_only_clear_evidenced_exclusions": true,
+    "preserve_truthful_claims_and_verification_status": true,
+    "backfill_existing_unsubmitted_resumes_next_step_1": true,
+    "missing_required_answers": "Continue all independent preparation; ask for missing facts before completing the affected fields or declarations",
+    "source": "User instruction: prepare unverified positions as verified unless an obvious mismatch prevents matching"
+  },
+  "step_1_final_summary": {
+    "required": true,
+    "scope": "Every unsubmitted position, including existing jobs, clear exclusions and uncertain submissions separately",
+    "print_each_position": true,
+    "fields": [
+      "stable job ID",
+      "agency and title",
+      "location",
+      "role summary and supported fit",
+      "deadline or unknown",
+      "preparation/submission status",
+      "current PDF or specific limitation",
+      "attention items",
+      "next action"
+    ],
+    "saved_path": "tracking/unsubmitted-jobs.md"
+  }
 }

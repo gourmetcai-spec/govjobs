@@ -107,3 +107,7 @@ Resume Step 2 batch <batch-id>. Check saved progress and reconcile uncertain sub
 ## Recreation request
 
 Use this summary, the original PDF, and any saved Git/tracking history to recreate the files above as a workspace skill. Preserve the two-step separation, user-selected batches, exact-packet final confirmation, truthful tailoring, permanent duplicate prevention, and Git checkpoints. Validate the skill and any regenerated helper behavior. Do not run job discovery, submit applications, create a scheduler or invent prior history merely as part of recreation.
+
+## Preparation policy update
+
+Prepare resumes and packets for all plausible unsubmitted jobs, including unverified dates and qualifications. Missing evidence alone is not a disqualifier; stop preparation only for clear evidenced exclusions. Keep factual claims truthful and verification status explicit. Backfill missing resumes on the next Step 1. Step 1 ends by printing every unsubmitted position with role/fit, deadline, PDF/status, attention items and next action; save this view in tracking/unsubmitted-jobs.md. Step 2 selection and final submission confirmation remain required.

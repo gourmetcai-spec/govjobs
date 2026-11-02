@@ -9,7 +9,7 @@ Search federal government agency jobs only. Verify the employing agency on the o
 | Agency application systems | Follow official announcement links for requirements, posting dates, open status and application destination |
 | General job boards / search engines | Supplemental discovery of federal agency announcements only; verify every result on an official federal source |
 
-Paginate available results and log queries, filters, pages, counts and access limits. Coverage is not exhaustive merely because a few indexed results were found. Record unavailable sources and continue accessible official sources. Preserve the existing two-calendar-month window and all other matching criteria. Record federal announcement number, series/grade, hiring path, specialized experience, education, citizenship, clearance and required documents when stated. Assess mandatory eligibility against verified candidate evidence; leave unsupported eligibility unresolved.
+Paginate available results and log queries, filters, pages, counts and access limits. Coverage is not exhaustive merely because a few indexed results were found. Record unavailable sources and continue accessible official sources. Preserve the existing two-calendar-month window and all other matching criteria. Record federal announcement number, series/grade, hiring path, specialized experience, education, citizenship, clearance and required documents when stated. Assess mandatory eligibility against verified candidate evidence; leave unsupported eligibility unresolved and visible as an attention item while continuing resume and application-packet preparation. Only clear, evidenced exclusions stop preparation.
 
 ## Query families
 
