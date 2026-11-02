@@ -77,8 +77,6 @@ Prefer canonical employer + requisition ID; otherwise canonical URL. The helper 
 
 ## Step 1 local resume tailoring
 
-Use [Xuewu-Cai-Resume-CFTC-Systems-Risk-Analyst-889991400.pdf](../../Xuewu-Cai-Resume-CFTC-Systems-Risk-Analyst-889991400.pdf) as the default template for all new tailored resumes and revisions in either step (user-designated on 2026-11-01): compact one-page layout when the relevant evidence fits, short summary, grouped core competencies, dates aligned to the right of experience headings, selected relevant experience bullets, and compact education/languages. Inspect the reference before changing the layout. Resolve its path from the workspace root and check its SHA-256 against `candidate/preferences.json` → `resume_output_policy.format_reference`; inspect changes before using a revised template. Select and condense supported evidence instead of carrying every baseline bullet into every resume; record material omissions/rewrites in `match.md`. Retain required factual and qualifying details and obey announcement page limits; use a second page if necessary. The reference establishes layout and concision, not new candidate facts. The authoritative factual baseline remains `resume-xuewu.cai.pdf`; do not import unsupported governance, controls, audit, work-schedule or other claims from the format reference.
-
 For each eligible unique match, create:
 `applications/YYYY-MM-DD__employer__role__ledger-id/`
 

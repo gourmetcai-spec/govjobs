@@ -87,14 +87,7 @@
     "pdf_for_every_customized_version": true,
     "pdf_index": "applications/resume-index.md",
     "preserve_existing_reviewed_files": true,
-    "source": "User instruction on 2026-11-01: generate pdf file for each customized resume under a meaningfully named folder",
-    "format_reference": {
-      "path": "Xuewu-Cai-Resume-CFTC-Systems-Risk-Analyst-889991400.pdf",
-      "sha256": "f8578722dc05958941002529af5e850ca68da321fd7b69544f705b8826c7484d",
-      "source": "User instruction on 2026-11-01: redo Step 1 using this more concise resume format",
-      "usage": "Layout and concision reference only; resume-xuewu.cai.pdf remains the factual baseline",
-      "layout": "Compact one-page layout when requirements fit: short summary, grouped competencies, selected relevant bullets, employer/title with right-aligned dates, compact education/languages. Use a second page only when necessary for mandatory evidence; obey announcement limits."
-    }
+    "source": "User instruction on 2026-11-01: generate pdf file for each customized resume under a meaningfully named folder"
   },
   "employer_scope": "Federal government agencies only; exclude private employers, federal contractors, GSEs, and state/local government employers"
 }

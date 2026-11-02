@@ -102,3 +102,9 @@
 
 - User requested inclusion of the new template in the skill. Made the existing CFTC format preference an explicit default for all new tailored resumes and revisions in both workflow steps, with a direct template link and hash verification against candidate preferences. Compact one-page formatting, supported factual content, required qualification details and preserved resume versions remain required.
 - Configuration-only checkpoint; no discovery, resume regeneration or portal actions. Previous checkpoint 9a3f950 was pushed and remote SHA verified. Validate, commit and push this update to govjobs origin/main.
+
+## 2026-11-01 — Previous resume formatting restored
+
+- User revoked the CFTC PDF format rule and requested the previous format. Restored the exact skill instructions from pre-template checkpoint 85fe348, removed the active format_reference from candidate preferences and removed the superseded template preference from the recreation summary. Original ATS-friendly layout guidance, truthful tailoring, readable pagination, PDF generation and version preservation remain in effect.
+- Configuration-only update; existing v1/v2 resume artifacts and ledger records preserved. User changes to the baseline PDF and deletion of the CFTC reference PDF were observed and left untouched/unstaged. Baseline changes must be reconciled at the next job-workflow run under the existing skill rule. No job discovery or portal actions performed.
+- Prior checkpoint f8ce1b0 was pushed and remote SHA verified. Validate, commit and push this restoration checkpoint to govjobs origin/main.
