@@ -87,7 +87,16 @@
     "pdf_for_every_customized_version": true,
     "pdf_index": "applications/resume-index.md",
     "preserve_existing_reviewed_files": true,
-    "source": "User instruction on 2026-11-01: generate pdf file for each customized resume under a meaningfully named folder"
+    "source": "User instruction on 2026-11-01: generate pdf file for each customized resume under a meaningfully named folder",
+    "document_label_policy": {
+      "no_ai_editing_labels": true,
+      "no_tailored_or_targeted_for_labels": true,
+      "scope": "Resume body, headings, headers/footers and editable document metadata in all generated formats",
+      "neutral_document_title": "Xuewu Cai — Resume",
+      "preparation_notes_location": "match.md, application.json, ledger and log; retain existing meaningful filenames/folders",
+      "preserve_supported_ai_experience": true,
+      "source": "User instruction on 2026-11-01: no AI-update marks or tailored/targeted-to-position wording on resumes"
+    }
   },
   "employer_scope": "Federal government agencies only; exclude private employers, federal contractors, GSEs, and state/local government employers"
 }
