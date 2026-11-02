@@ -1,6 +1,6 @@
 # Unsubmitted jobs — review and attention items
 
-Last refresh: 2026-11-01 21:54:52 EST. Verification status is preserved; unknown qualifications or dates do not block preparation.
+Last refresh: 2026-11-02 17:49:19 EST. Verification status is preserved; unknown qualifications or dates do not block preparation.
 
 15 unsubmitted position(s). Existing exclusion decisions must be rechecked under the current preparation policy on the next Step 1.
 
@@ -37,7 +37,7 @@ Last refresh: 2026-11-01 21:54:52 EST. Verification status is preserved; unknown
 - Role / supported fit: Strong Java/Python, SQL/database connectivity, time-series data and distributed/cloud analytics overlap. Tailored PDF is a draft pending required facts.
 - Deadline: 2027-01-31
 - Status: needs_verification; resume: draft_missing_required_facts
-- Current resume: [PDF](../applications/2026-11-01__central-intelligence-agency__data-engineer__fa28275048f3ce60/resume-xuewu-cai__central-intelligence-agency__data-engineer__759326100__v2.pdf)
+- Current resume: [PDF](../resumes/fa28275048f3ce60__resume-xuewu-cai__central-intelligence-agency__data-engineer__759326100__v2.pdf)
 - Attention: Mandatory GPA >=3.0/4.0 is unknown; verify transcripts and qualifying degree. Reopened listing date should be reconciled against original announcement. Clearance/medical/polygraph suitability and willingness are unverified. Lower grade/pay than current director scope; no salary filter applied. Hours/week absent.
 - Next action: Complete remaining independent preparation; user selection is required for Step 2.
 - [Official job](https://www.usajobs.gov/job/759326100)
@@ -73,7 +73,7 @@ Last refresh: 2026-11-01 21:54:52 EST. Verification status is preserved; unknown
 - Role / supported fit: Strong supported enterprise software, scripting, financial workflow and technical delivery overlap; public hiring path. Tailored PDF is a draft pending required facts.
 - Deadline: 2026-11-06
 - Status: eligible; resume: draft_missing_required_facts
-- Current resume: [PDF](../applications/2026-11-01__federal-emergency-management-agency__it-specialist-appsw__a5af83ea7ba6d744/resume-xuewu-cai__federal-emergency-management-agency__it-specialist-appsw__890584000__v2.pdf)
+- Current resume: [PDF](../resumes/a5af83ea7ba6d744__resume-xuewu-cai__federal-emergency-management-agency__it-specialist-appsw__890584000__v2.pdf)
 - Attention: Confirm one full year at the announcement’s stated GS-13-equivalent scope; dates with exact days and hours/week are absent from baseline. Low-code Power Platform, GCP and NFIP domain experience are not documented. No production AI/agent delivery claimed; scripts are an alternative in the specialized-experience requirement.
 - Next action: Complete remaining independent preparation; user selection is required for Step 2.
 - [Official job](https://www.usajobs.gov/job/890584000)
@@ -109,7 +109,7 @@ Last refresh: 2026-11-01 21:54:52 EST. Verification status is preserved; unknown
 - Role / supported fit: Strong Monte Carlo, forecasting, statistical analysis and decision-support modeling overlap. Tailored PDF is a draft pending required facts.
 - Deadline: 2026-11-13
 - Status: needs_verification; resume: draft_missing_required_facts
-- Current resume: [PDF](../applications/2026-11-01__immigration-and-customs-enforcement__operations-research-analyst__4e066be541ca1382/resume-xuewu-cai__immigration-and-customs-enforcement__operations-research-analyst__891052100__v2.pdf)
+- Current resume: [PDF](../resumes/4e066be541ca1382__resume-xuewu-cai__immigration-and-customs-enforcement__operations-research-analyst__891052100__v2.pdf)
 - Attention: Confirm official posting date; transcripts must demonstrate 24 qualifying semester hours including 3 in calculus, and foreign education equivalence if relied upon. Hours/week absent. User must personally answer any essays requiring an own-words/no-AI certification; none drafted. No security suitability outcome assumed.
 - Next action: Complete remaining independent preparation; user selection is required for Step 2.
 - [Official job](https://www.usajobs.gov/job/891052100)

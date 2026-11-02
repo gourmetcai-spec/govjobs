@@ -1,0 +1,156 @@
+{
+  "entries": [
+    {
+      "id": "fa28275048f3ce60",
+      "employer": "Central Intelligence Agency",
+      "title": "Data Engineer",
+      "status": "needs_verification",
+      "resume_status": "draft_missing_required_facts",
+      "version_label": "current",
+      "source": "applications/2026-11-01__central-intelligence-agency__data-engineer__fa28275048f3ce60/resume-xuewu-cai__central-intelligence-agency__data-engineer__759326100__v2.pdf",
+      "path": "resumes/fa28275048f3ce60__resume-xuewu-cai__central-intelligence-agency__data-engineer__759326100__v2.pdf",
+      "sha256": "52d975c0a3892d43b048790b9b8f7a91eb727c86bc5d4280f9c35c0b6903f3db"
+    },
+    {
+      "id": "fa28275048f3ce60",
+      "employer": "Central Intelligence Agency",
+      "title": "Data Engineer",
+      "status": "needs_verification",
+      "resume_status": "draft_missing_required_facts",
+      "version_label": "historical",
+      "source": "applications/2026-11-01__central-intelligence-agency__data-engineer__fa28275048f3ce60/resume-xuewu-cai__central-intelligence-agency__data-engineer__759326100__v1.pdf",
+      "path": "resumes/fa28275048f3ce60__resume-xuewu-cai__central-intelligence-agency__data-engineer__759326100__v1.pdf",
+      "sha256": "5de1d3a5044be8fdd71377e66cc83fff104b66e58e6f7dfef54f18f716877388"
+    },
+    {
+      "id": "a5af83ea7ba6d744",
+      "employer": "Federal Emergency Management Agency",
+      "title": "IT Specialist (APPSW)",
+      "status": "eligible",
+      "resume_status": "draft_missing_required_facts",
+      "version_label": "current",
+      "source": "applications/2026-11-01__federal-emergency-management-agency__it-specialist-appsw__a5af83ea7ba6d744/resume-xuewu-cai__federal-emergency-management-agency__it-specialist-appsw__890584000__v2.pdf",
+      "path": "resumes/a5af83ea7ba6d744__resume-xuewu-cai__federal-emergency-management-agency__it-specialist-appsw__890584000__v2.pdf",
+      "sha256": "396be592af7f588d34f90f2fbc77a976a5d5edfc44885fa866f5f873d7acfc42"
+    },
+    {
+      "id": "a5af83ea7ba6d744",
+      "employer": "Federal Emergency Management Agency",
+      "title": "IT Specialist (APPSW)",
+      "status": "eligible",
+      "resume_status": "draft_missing_required_facts",
+      "version_label": "historical",
+      "source": "applications/2026-11-01__federal-emergency-management-agency__it-specialist-appsw__a5af83ea7ba6d744/resume-xuewu-cai__federal-emergency-management-agency__it-specialist-appsw__890584000__v1.pdf",
+      "path": "resumes/a5af83ea7ba6d744__resume-xuewu-cai__federal-emergency-management-agency__it-specialist-appsw__890584000__v1.pdf",
+      "sha256": "e518fac18c74b853f4a21c6c7f21d2562f97e08885128b48793399533592d07e"
+    },
+    {
+      "id": "4e066be541ca1382",
+      "employer": "Immigration and Customs Enforcement",
+      "title": "Operations Research Analyst",
+      "status": "needs_verification",
+      "resume_status": "draft_missing_required_facts",
+      "version_label": "current",
+      "source": "applications/2026-11-01__immigration-and-customs-enforcement__operations-research-analyst__4e066be541ca1382/resume-xuewu-cai__immigration-and-customs-enforcement__operations-research-analyst__891052100__v2.pdf",
+      "path": "resumes/4e066be541ca1382__resume-xuewu-cai__immigration-and-customs-enforcement__operations-research-analyst__891052100__v2.pdf",
+      "sha256": "3357ea242975333e9401636c1a749313eac082986d36c8e1bca8fd45344eb9d8"
+    },
+    {
+      "id": "4e066be541ca1382",
+      "employer": "Immigration and Customs Enforcement",
+      "title": "Operations Research Analyst",
+      "status": "needs_verification",
+      "resume_status": "draft_missing_required_facts",
+      "version_label": "historical",
+      "source": "applications/2026-11-01__immigration-and-customs-enforcement__operations-research-analyst__4e066be541ca1382/resume-xuewu-cai__immigration-and-customs-enforcement__operations-research-analyst__891052100__v1.pdf",
+      "path": "resumes/4e066be541ca1382__resume-xuewu-cai__immigration-and-customs-enforcement__operations-research-analyst__891052100__v1.pdf",
+      "sha256": "fd891ce471392dbb4c06b4475f71eda36ee4a9f0f7544b9623dcbf2ca86c2037"
+    }
+  ],
+  "missing": [
+    {
+      "id": "16f54e578b2089d3",
+      "employer": "United States Sentencing Commission",
+      "title": "Software Engineering and Data Automation Specialist",
+      "status": "needs_verification",
+      "reason": "No saved resume PDF"
+    },
+    {
+      "id": "37b6987b5275b4da",
+      "employer": "General Services Administration - Technology Transformation Service",
+      "title": "Senior AI Software Engineer",
+      "status": "needs_verification",
+      "reason": "No saved resume PDF"
+    },
+    {
+      "id": "3d76836137888cac",
+      "employer": "Federal Emergency Management Agency",
+      "title": "Financial Policy Officer",
+      "status": "needs_verification",
+      "reason": "No saved resume PDF"
+    },
+    {
+      "id": "412d3b1f8d050ddc",
+      "employer": "Architect of the Capitol",
+      "title": "Business Financial Analyst",
+      "status": "needs_verification",
+      "reason": "No saved resume PDF"
+    },
+    {
+      "id": "48ee9a40e142e566",
+      "employer": "Bureau of Economic Analysis",
+      "title": "IT Specialist (Policy and Planning)",
+      "status": "needs_verification",
+      "reason": "No saved resume PDF"
+    },
+    {
+      "id": "8efc2d80781bcd7c",
+      "employer": "Nuclear Regulatory Commission",
+      "title": "Financial Analyst",
+      "status": "skipped",
+      "reason": "No saved resume PDF"
+    },
+    {
+      "id": "9cbfa96ef355b22e",
+      "employer": "Securities and Exchange Commission",
+      "title": "Financial Economist - Crypto Assets and Novel Products",
+      "status": "skipped",
+      "reason": "No saved resume PDF"
+    },
+    {
+      "id": "b6f24c3fd93797f0",
+      "employer": "Social Security Administration",
+      "title": "Head of Tech Finance",
+      "status": "skipped",
+      "reason": "No saved resume PDF"
+    },
+    {
+      "id": "db244e9a2dfdce0b",
+      "employer": "General Services Administration - Technology Transformation Service",
+      "title": "Principal AI Software Engineer",
+      "status": "needs_verification",
+      "reason": "No saved resume PDF"
+    },
+    {
+      "id": "e1953172ea90c8a7",
+      "employer": "Military Treatment Facilities under Defense Health Agency",
+      "title": "IT Specialist (APPSW/INET)",
+      "status": "needs_verification",
+      "reason": "No saved resume PDF"
+    },
+    {
+      "id": "f720af72449c48a0",
+      "employer": "Commodity Futures Trading Commission",
+      "title": "Systems Risk Analyst",
+      "status": "needs_verification",
+      "reason": "No saved resume PDF"
+    },
+    {
+      "id": "faa484188f9b969a",
+      "employer": "Securities and Exchange Commission",
+      "title": "Financial Economist",
+      "status": "needs_verification",
+      "reason": "No saved resume PDF"
+    }
+  ]
+}

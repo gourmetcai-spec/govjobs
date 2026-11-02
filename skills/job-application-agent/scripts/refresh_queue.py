@@ -3,9 +3,12 @@
 import calendar,datetime,json,sqlite3
 from pathlib import Path
 from zoneinfo import ZoneInfo
+from sync_resume_library import sync
 
 ROOT=Path(__file__).resolve().parents[3]
 def main():
+ library=sync()
+ library_paths={entry['id']:entry['path'] for entry in library['entries'] if entry['version_label']=='current'}
  with sqlite3.connect(ROOT/'tracking/jobs.sqlite3') as conn:
   jobs=[json.loads(row[0]) for row in conn.execute('SELECT data FROM jobs ORDER BY id')]
  groups={
@@ -41,7 +44,7 @@ def main():
   if not rows:lines+=['None.',''];continue
   lines+=['| Stable ledger ID | Employer / role | Location / arrangement | Posted | Fit / gaps | Status | Links |','|---|---|---|---|---|---|---|']
   for j in sorted(rows,key=lambda x:(x.get('priority')=='lower',x['employer']!='Fannie Mae',x['employer'],x['title'])):
-   folder=j.get('application_directory');pdf=j.get('artifacts',{}).get('resume_pdf',{}).get('path')
+   folder=j.get('application_directory');pdf=library_paths.get(j['id']) or j.get('artifacts',{}).get('resume_pdf',{}).get('path')
    links=f'[Job]({j["canonical_url"]})'
    if folder:links+=f' · [Assessment](../{folder}/match.md)'
    if pdf:links+=f' · [Resume PDF](../{pdf})'
@@ -67,7 +70,7 @@ def main():
  for j in sorted(pending,key=lambda x:(review_group(x)[0],x['employer'],x['title'])):
   group=review_group(j)[1]
   if group!=previous_group:summary+=['## '+group,''];previous_group=group
-  s=j['status'];pdf=j.get('artifacts',{}).get('resume_pdf',{}).get('path')
+  s=j['status'];pdf=library_paths.get(j['id']) or j.get('artifacts',{}).get('resume_pdf',{}).get('path')
   if s in ('submitting','submission_unknown'):action='Reconcile the uncertain submission before any new attempt.'
   elif s in ('skipped','closed'):action='Review recorded exclusion evidence; retain only clear exclusions under current policy.'
   elif not pdf:action='Prepare the missing Markdown/PDF resume and local packet at the next Step 1; keep uncertainties explicit.'
@@ -76,7 +79,7 @@ def main():
   summary += [f'### {j["employer"]} — {j["title"]}', '',f'- Stable ID: `{j["id"]}`',f'- Location: {j.get("location") or "Unknown"}',f'- Role / supported fit: {j.get("role_summary") or j.get("fit") or "See job description and assessment."}',f'- Deadline: {j.get("close_date") or "Unknown — needs attention"}',f'- Status: {s}; resume: {j.get("resume_status") or "Not recorded"}',f'- Current resume: '+(f'[PDF](../{pdf})' if pdf else 'Not generated yet — preparation remains outstanding.'),f'- Attention: {j.get("gaps") or "No additional issues recorded."}',f'- Next action: {action}',f'- [Official job]({j["canonical_url"]})','']
  if not pending:summary+=['No unsubmitted positions.','']
  (ROOT/'tracking/unsubmitted-jobs.md').write_text('\n'.join(summary))
- resume_lines=['# Customized resume PDFs','',f'Last refreshed: {now}. Each PDF is stored beside its editable source in the named employer/role folder.','',
+ resume_lines=['# Customized resume PDFs','',f'Last refreshed: {now}. Browse the [dedicated PDF collection](../resumes/index.md) for clearly labeled current and historical versions. Originals remain beside their editable sources.','',
   '| Employer | Role / requisition | Stable ledger ID | Status | Resume files |','|---|---|---|---|---|']
  resume_count=0
  for j in sorted(jobs,key=lambda x:(x['employer'],x['title'])):

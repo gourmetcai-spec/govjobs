@@ -111,3 +111,7 @@ Use this summary, the original PDF, and any saved Git/tracking history to recrea
 ## Preparation policy update
 
 Prepare resumes and packets for all plausible unsubmitted jobs, including unverified dates and qualifications. Missing evidence alone is not a disqualifier; stop preparation only for clear evidenced exclusions. Keep factual claims truthful and verification status explicit. Backfill missing resumes on the next Step 1. Step 1 ends by printing every unsubmitted position with role/fit, deadline, PDF/status, attention items and next action; save this view in tracking/unsubmitted-jobs.md. Step 2 selection and final submission confirmation remain required.
+
+## PDF collection and daily discovery reports
+
+Maintain resumes/ as a hash-verified PDF collection with index.md and manifest.json labeling current and historical versions; preserve per-job originals. Each Step 1 invocation snapshots starting job IDs and writes tracking/daily-updates/YYYY-MM-DD/<run-id>.md, then appends its link to the daily-update index and joblog. Report newly found jobs, verified/unknown deadlines and early closing conditions, supported fit, confirmed unmet versus unverified requirements, current PDF and next action. Separate existing-job changes from new jobs and preserve zero-new/partial/interrupted reports. Keep the full unsubmitted-job final summary as well.

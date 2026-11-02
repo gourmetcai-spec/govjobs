@@ -96,6 +96,16 @@
       "preparation_notes_location": "match.md, application.json, ledger and log; retain existing meaningful filenames/folders",
       "preserve_supported_ai_experience": true,
       "source": "User instruction on 2026-11-01: no AI-update marks or tailored/targeted-to-position wording on resumes"
+    },
+    "pdf_collection": {
+      "directory": "resumes",
+      "index": "resumes/index.md",
+      "manifest": "resumes/manifest.json",
+      "copy_all_saved_versions": true,
+      "label_current_and_historical": true,
+      "preserve_per_job_originals": true,
+      "verify_copy_sha256": true,
+      "sync_command": "python3 skills/job-application-agent/scripts/sync_resume_library.py"
     }
   },
   "employer_scope": "Federal government agencies only; exclude private employers, federal contractors, GSEs, and state/local government employers",
@@ -124,5 +134,23 @@
       "next action"
     ],
     "saved_path": "tracking/unsubmitted-jobs.md"
+  },
+  "daily_update_log": {
+    "required_for_each_step_1_invocation": true,
+    "path_template": "tracking/daily-updates/YYYY-MM-DD/<run-id>.md",
+    "index": "tracking/daily-updates/index.md",
+    "new_job_definition": "Stable ID absent from starting ledger snapshot; exclude aliases/rechecks/resume revisions",
+    "required_fields": [
+      "agency/title/location/stable ID",
+      "application deadline with time/timezone when known",
+      "deadline evidence and early-closure conditions",
+      "requirements confirmed unmet",
+      "requirements needing verification",
+      "mandatory versus preferred",
+      "current resume PDF",
+      "next action"
+    ],
+    "record_zero_new_partial_interrupted_runs": true,
+    "preserve_historical_reports": true
   }
 }
