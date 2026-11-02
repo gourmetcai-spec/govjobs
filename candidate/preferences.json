@@ -6,8 +6,7 @@
   "locations": [
     "Maryland",
     "Virginia",
-    "Washington, DC",
-    "Nearby commutable surrounding communities"
+    "Washington, DC"
   ],
   "prioritize": [
     "Maryland",
@@ -18,7 +17,7 @@
   "location_preferences_confirmed": true,
   "minimum_salary": null,
   "work_authorization": "U.S. citizen (resume)",
-  "exclude_federal_government_employers": null,
+  "exclude_federal_government_employers": false,
   "target_tracks": [
     "Financial engineering / quantitative engineering leadership",
     "Mortgage analytics / credit risk transfer / structured finance",
@@ -58,7 +57,7 @@
   "allow_group_final_confirmation": true,
   "git_checkpoints": {
     "commit_and_push_required": true,
-    "destination": "git@github.com:gourmetcai-spec/nongovjobs.git",
+    "destination": "git@github.com:gourmetcai-spec/govjobs.git",
     "after_step_1": true,
     "after_each_step_2_checkpoint": true,
     "after_skill_updates": true,
@@ -70,13 +69,13 @@
   "location_preference_source": {
     "date": "2026-11-01",
     "source": "User message",
-    "text": "limit the job location near MDV, i.e. maryland, virginia, DC and surrounding area"
+    "text": "only search for federal government jobs. limited to DMV (DC, Maryland and virginia), all other searching criteria remain the same"
   },
   "location_policy": {
     "remote": "Include only if work from Maryland/DMV is permitted without regular distant-office attendance",
     "multi_location": "Include if a Maryland, Virginia or DC office is an offered work location",
-    "surrounding_area": "Nearby commutable communities relative to Clarksville, MD/DMV; do not include whole neighboring states by default",
-    "relocation": "Do not assume or search nationwide on-site/hybrid roles"
+    "relocation": "Do not assume or search nationwide on-site/hybrid roles",
+    "boundary": "Only DC, Maryland and Virginia; no surrounding communities outside these jurisdictions"
   },
   "resume_output_policy": {
     "required_formats": [
@@ -89,5 +88,6 @@
     "pdf_index": "applications/resume-index.md",
     "preserve_existing_reviewed_files": true,
     "source": "User instruction on 2026-11-01: generate pdf file for each customized resume under a meaningfully named folder"
-  }
+  },
+  "employer_scope": "Federal government agencies only; exclude private employers, federal contractors, GSEs, and state/local government employers"
 }

@@ -86,3 +86,14 @@
 - Verified all 17 existing customized resumes already have two-page, selectable-text PDFs beside their Markdown files in date/employer/role/ledger-ID folders. All recorded paths and SHA-256 hashes match both the ledger and packet manifests. Existing visual reviews remain valid; no resume content or PDF bytes changed. No missing PDF needed backfilling.
 - Queue refresh now also builds [PDF index](applications/resume-index.md) with direct links to all saved resume versions and their named job folders. Application statuses/history preserved. No new discovery or Step 2 work performed.
 - Prior checkpoint 9c68e58 was successfully pushed and its GitHub main SHA verified. Commit and push this configuration checkpoint to designated origin/main; report actual result in response.
+
+## 2026-11-01 — Federal government and DMV search scope update
+
+- User requested federal government jobs only in Washington DC, Maryland and Virginia; all other search criteria retained. Updated skill, official-source search guidance, saved preferences and queue scope notice. Excluded contractors, GSEs, private employers and state/local governments; surrounding communities outside DC/MD/VA no longer qualify. Existing remote eligibility rules, role/sector interests, two-month window and confirmation safeguards retained.
+- Historical ledger and application artifacts preserved. Legacy statuses will be reconciled at the next Step 1; Step 2 now explicitly checks employer/geographic scope before preparation. No discovery or portal actions performed.
+- Git destination mismatch: configured origin is gourmetcai-spec/govjobs, while saved policy specifies gourmetcai-spec/nongovjobs. Preserve local checkpoint and pause pushing/portal actions pending destination confirmation. Unrelated untracked .gitattributes and .gitignore left untouched.
+
+## 2026-11-01 — Git destination confirmed
+
+- User explicitly changed the destination to git@github.com:gourmetcai-spec/govjobs.git. Updated skill, candidate preferences and workspace summary; existing origin fetch/push URLs already match. This resolves the preceding destination mismatch.
+- Includes the pending federal-only DC/MD/VA scope update. Skill validation and queue regeneration passed. Preserve unrelated untracked .gitattributes and .gitignore. Commit and push this configuration checkpoint to origin/main and verify remote SHA.

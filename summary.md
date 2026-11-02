@@ -4,8 +4,8 @@
 
 Create a reusable agent skill for Xuewu Cai's daily incremental job search and selected applications. Use `resume-xuewu.cai.pdf` as the authoritative resume baseline; preserve the original. This is a skill-driven workflow invoked in an agent session, not a standalone installed service. No daily scheduler has been configured.
 
-Workspace: `/Volumes/WD512x2/home/gourmetcai/project/nongovjobs`.
-GitHub: `git@github.com:gourmetcai-spec/nongovjobs.git`, remote `origin`, branch `main` tracking `origin/main`.
+Workspace: `/Volumes/WD512x2/home/gourmetcai/project/govjobs`.
+GitHub: `git@github.com:gourmetcai-spec/govjobs.git`, remote `origin`, branch `main` tracking `origin/main`.
 
 ## User requirements
 

@@ -1,8 +1,8 @@
 # Selectable job queue
 
-Last refresh: 2026-11-01 19:26:32 EST. Ledger is authoritative. Discovery window: 2026-09-01–2026-11-01 (inclusive).
+Last refresh: 2026-11-01 19:41:57 EST. Ledger is authoritative. Discovery window: 2026-09-01–2026-11-01 (inclusive).
 
-Geography: Maryland, Virginia, Washington DC and nearby commutable areas; remote roles must permit working from Maryland/DMV. Selection and final confirmation are required before submission. Eligible means substantial supported responsibilities and no known disqualifier; unresolved requirements remain explicit. Capital One mandatory cloud tenure requires confirmation before preparation.
+Scope: federal government agency jobs only in Maryland, Virginia and Washington DC; exclude private employers, contractors, GSEs and state/local government. Historical rows retain their recorded statuses pending reconciliation at the next Step 1; scope must be rechecked before Step 2. Geography: Maryland, Virginia and Washington DC only; remote roles must permit working from Maryland/DMV. Selection and final confirmation are required before submission. Eligible means substantial supported responsibilities and no known disqualifier; unresolved requirements remain explicit. Capital One mandatory cloud tenure requires confirmation before preparation.
 
 | Category | Count |
 |---|---:|

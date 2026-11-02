@@ -1,6 +1,6 @@
 # Customized resume PDFs
 
-Last refreshed: 2026-11-01 19:26:32 EST. Each PDF is stored beside its editable source in the named employer/role folder.
+Last refreshed: 2026-11-01 19:41:57 EST. Each PDF is stored beside its editable source in the named employer/role folder.
 
 | Employer | Role / requisition | Stable ledger ID | Status | Resume files |
 |---|---|---|---|---|

@@ -1,26 +1,19 @@
 # Search coverage and integrations
 
-Search source matrix each run (adapt to verified geographic preferences):
+Search federal government agency jobs only. Verify the employing agency on the official announcement; private employers, contractors, GSEs (including Fannie Mae and Freddie Mac), and state/local governments are excluded even if the work serves a federal client.
 
 | Source | Entry point / role |
 |---|---|
-| LinkedIn Jobs | linkedin.com/jobs — title variants and locations |
-| Indeed | indeed.com — title variants and locations |
-| Glassdoor | glassdoor.com/Job — verify mirrored roles against employer |
-| ZipRecruiter | ziprecruiter.com — deduplicate syndicated listings |
-| Monster | monster.com — check availability and redirects each run |
-| CareerBuilder | careerbuilder.com — check availability and redirects each run |
-| Dice | dice.com — engineering, quant and finance technology |
-| eFinancialCareers | efinancialcareers.com — quant, risk, structured finance |
-| Built In | builtin.com/jobs — finance technology and leadership |
-| Wellfound | wellfound.com/jobs — relevant startup roles |
-| Employer careers / ATS | Authoritative requisitions, posting dates, open status and application destination; Greenhouse, Lever, Workday, iCIMS and employer-specific sites |
+| USAJOBS | usajobs.gov — primary federal discovery source; search each track in DC, Maryland and Virginia |
+| Federal agency careers | Official agency careers pages — supplement USAJOBS, including direct agency hiring announcements; verify federal employment |
+| Agency application systems | Follow official announcement links for requirements, posting dates, open status and application destination |
+| General job boards / search engines | Supplemental discovery of federal agency announcements only; verify every result on an official federal source |
 
-These are coverage targets, not a guarantee that all listings can be accessed or every market is covered. Log redirects/retired sources rather than inventing results. Supplement with regional/specialist boards when useful. Include direct employer searches for fintech firms, financial institutions, mortgage companies, banks, hedge funds, investment funds, asset managers, IT companies and AI companies. Do not exclude Freddie Mac or other GSEs based on directory name.
+Paginate available results and log queries, filters, pages, counts and access limits. Coverage is not exhaustive merely because a few indexed results were found. Record unavailable sources and continue accessible official sources. Preserve the existing two-calendar-month window and all other matching criteria. Record federal announcement number, series/grade, hiring path, specialized experience, education, citizenship, clearance and required documents when stated. Assess mandatory eligibility against verified candidate evidence; leave unsupported eligibility unresolved.
 
 ## Query families
 
-Search each family independently with relevant synonyms; do not require financial-sector keywords for all IT, SDE or AI results.
+Search each family independently with relevant synonyms; do not require financial-sector keywords for all IT, SDE or AI results. Apply these functional/title synonyms within federal agencies; use agency terminology such as IT specialist, computer scientist, financial analyst and operations research analyst as appropriate.
 
 | Focus | Example queries / title variants |
 |---|---|
@@ -35,7 +28,7 @@ Search each family independently with relevant synonyms; do not require financia
 
 The terms expand discovery, not the candidate's claimed qualifications. Evaluate required experience individually, especially production AI systems and customer-facing deployment. Include both engineering leadership and suitable senior individual-contributor roles.
 
-Geography confirmed by the user on 2026-11-01: Maryland, Virginia, Washington DC and nearby commutable surrounding communities. Search DMV offices and remote roles that explicitly allow working from Maryland/DMV. Multi-location roles qualify when a DMV office is an offered location. Do not search nationwide on-site/hybrid roles, assume relocation, or include all of a neighboring state merely because it borders the region. Use board date filters plus employer date verification; when only a one-month filter exists, search an additional older slice to cover the full two-month window.
+Geography confirmed by the user on 2026-11-01: Washington DC, Maryland and Virginia only. Exclude surrounding communities outside these jurisdictions. Search DMV offices and remote roles that explicitly allow working from Maryland/DMV. Multi-location roles qualify when a DMV office is an offered location. Do not search nationwide on-site/hybrid roles or assume relocation. Use source date filters plus official announcement date verification; when only a one-month filter exists, search an additional older slice to cover the full two-month window.
 
 ## Tools reviewed at setup (2026-11-01)
 

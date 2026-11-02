@@ -30,7 +30,7 @@ def main():
  month=current.year*12+current.month-1-2; year,mi=divmod(month,12)
  start=datetime.date(year,mi+1,min(current.day,calendar.monthrange(year,mi+1)[1]))
  lines=['# Selectable job queue','',f'Last refresh: {now}. Ledger is authoritative. Discovery window: {start}–{current.date()} (inclusive).','',
- 'Geography: Maryland, Virginia, Washington DC and nearby commutable areas; remote roles must permit working from Maryland/DMV. Selection and final confirmation are required before submission. Eligible means substantial supported responsibilities and no known disqualifier; unresolved requirements remain explicit. Capital One mandatory cloud tenure requires confirmation before preparation.','',
+ 'Scope: federal government agency jobs only in Maryland, Virginia and Washington DC; exclude private employers, contractors, GSEs and state/local government. Historical rows retain their recorded statuses pending reconciliation at the next Step 1; scope must be rechecked before Step 2. Geography: Maryland, Virginia and Washington DC only; remote roles must permit working from Maryland/DMV. Selection and final confirmation are required before submission. Eligible means substantial supported responsibilities and no known disqualifier; unresolved requirements remain explicit. Capital One mandatory cloud tenure requires confirmation before preparation.','',
  '| Category | Count |','|---|---:|']
  lines += [f'| {k} | {len(v)} |' for k,v in groups.items()]
  lines += ['',f'Total: {len(jobs)} unique requisitions. Select jobs using the full stable ledger IDs below. Step 2 requires a separate user request.','']
