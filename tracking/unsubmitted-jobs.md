@@ -1,6 +1,6 @@
 # Unsubmitted jobs — review and attention items
 
-Last refresh: 2026-11-02 17:49:19 EST. Verification status is preserved; unknown qualifications or dates do not block preparation.
+Last refresh: 2026-11-02 17:55:12 EST. Verification status is preserved; unknown qualifications or dates do not block preparation.
 
 15 unsubmitted position(s). Existing exclusion decisions must be rechecked under the current preparation policy on the next Step 1.
 

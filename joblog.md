@@ -126,3 +126,9 @@
 - Added resumes/ PDF collection, index.md and manifest.json, plus a sync helper invoked by queue refresh. Collected all 6 existing PDF versions; 3 are labeled current using ledger artifact paths and 3 historical. Copies are byte-identical and SHA-256 verified; originals, content, formatting, versions and ledger untouched. Missing PDFs remain explicitly listed as preparation tasks. Queue/unsubmitted views link current collection PDFs; editable-source index links the collection.
 - Skill validation passed. Verified copy hashes/current-version identity and idempotent repeat synchronization. This update did not perform discovery, generate new resume content or invent historical daily reports; the next Step 1 creates its actual discovery report. Existing user baseline/reference deletions and Finder metadata changes remain untouched and unstaged.
 - Prior checkpoint 25cd73b was pushed and remote SHA verified. Commit and push this workflow configuration/artifact checkpoint to confirmed govjobs origin/main.
+
+## 2026-11-02 — Stop separate v2 resume PDF generation
+
+- User requested no v2 resume PDF output. Updated skill/preferences to maintain one current unversioned source/PDF per job in the restored ATS-friendly format, without automatic compact alternatives or numbered-version copies. Actual revisions archive prior files and preserve approval history before updating current hashes. Existing v1/v2 documents remain untouched.
+- Collection/index helpers now discover archived resumes recursively; hash-based collection filenames preserve different revisions with the same unversioned name without overwriting prior copies. Configuration-only update; no discovery, PDF regeneration or portal actions. User baseline/reference deletion/Finder metadata changes remain unstaged.
+- Validate and commit/push this checkpoint to confirmed govjobs origin/main. Prior checkpoint 4cefdf4 was pushed and remote SHA verified.

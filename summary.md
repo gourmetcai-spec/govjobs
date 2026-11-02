@@ -115,3 +115,7 @@ Prepare resumes and packets for all plausible unsubmitted jobs, including unveri
 ## PDF collection and daily discovery reports
 
 Maintain resumes/ as a hash-verified PDF collection with index.md and manifest.json labeling current and historical versions; preserve per-job originals. Each Step 1 invocation snapshots starting job IDs and writes tracking/daily-updates/YYYY-MM-DD/<run-id>.md, then appends its link to the daily-update index and joblog. Report newly found jobs, verified/unknown deadlines and early closing conditions, supported fit, confirmed unmet versus unverified requirements, current PDF and next action. Separate existing-job changes from new jobs and preserve zero-new/partial/interrupted reports. Keep the full unsubmitted-job final summary as well.
+
+## Current resume output policy
+
+Use one current, unversioned resume PDF and matching source per job in the restored ATS-friendly format. Do not routinely generate a separate v2 or compact alternative. Archive prior files before substantive revisions and preserve approval hashes. Existing v1/v2 artifacts remain historical/current according to the ledger until explicitly revised; this policy change alone does not regenerate or delete them.

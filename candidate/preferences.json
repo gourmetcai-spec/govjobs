@@ -83,7 +83,7 @@
       "PDF"
     ],
     "folder_template": "applications/YYYY-MM-DD__employer__role__ledger-id/",
-    "filename_template": "resume-xuewu-cai__employer__role__req-or-id__vN",
+    "filename_template": "resume-xuewu-cai__employer__role__req-or-id",
     "pdf_for_every_customized_version": true,
     "pdf_index": "applications/resume-index.md",
     "preserve_existing_reviewed_files": true,
@@ -106,6 +106,15 @@
       "preserve_per_job_originals": true,
       "verify_copy_sha256": true,
       "sync_command": "python3 skills/job-application-agent/scripts/sync_resume_library.py"
+    },
+    "revision_policy": {
+      "one_current_pdf_per_job": true,
+      "generate_separate_v2_pdf": false,
+      "new_current_filename_has_version_suffix": false,
+      "format": "Restored ATS-friendly format; no automatic compact alternate layout",
+      "archive_before_actual_revision": "applications/<job-folder>/history/<timestamp>__<hash>/",
+      "preserve_existing_v1_v2_files": true,
+      "source": "User instruction on 2026-11-02: stop producing v2 version of resume pdf file"
     }
   },
   "employer_scope": "Federal government agencies only; exclude private employers, federal contractors, GSEs, and state/local government employers",

@@ -1,6 +1,6 @@
 # Selectable job queue
 
-Last refresh: 2026-11-02 17:49:19 EST. Ledger is authoritative. Discovery window: 2026-09-02–2026-11-02 (inclusive).
+Last refresh: 2026-11-02 17:55:12 EST. Ledger is authoritative. Discovery window: 2026-09-02–2026-11-02 (inclusive).
 
 Scope: federal government agency jobs only in Maryland, Virginia and Washington DC. Prepare plausible jobs even when qualifications or dates are unverified; keep unknown facts explicit. Only clear evidenced exclusions stop preparation. Step 2 requires user selection and final submission confirmation. See [all unsubmitted jobs and attention items](unsubmitted-jobs.md).
 

@@ -85,7 +85,7 @@ def main():
  for j in sorted(jobs,key=lambda x:(x['employer'],x['title'])):
   if not j.get('application_directory'):continue
   folder=ROOT/j['application_directory']
-  for md in sorted(folder.glob('resume-xuewu-cai__*.md')):
+  for md in sorted(folder.rglob('resume-xuewu-cai__*.md')):
    pdf=md.with_suffix('.pdf');relative_md=md.relative_to(ROOT/'applications')
    source=f'[Markdown]({relative_md})'
    document=f'[PDF]({pdf.relative_to(ROOT/"applications")})' if pdf.is_file() else '**PDF missing — incomplete tailoring**'

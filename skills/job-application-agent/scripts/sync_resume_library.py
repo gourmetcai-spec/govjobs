@@ -23,7 +23,7 @@ def sync():
         current = job.get('artifacts', {}).get('resume_pdf', {})
         current_path = ROOT / current['path'] if current.get('path') else None
         folder = ROOT / job['application_directory'] if job.get('application_directory') else None
-        sources = set(folder.glob('resume-xuewu-cai__*.pdf')) if folder and folder.is_dir() else set()
+        sources = set(folder.rglob('resume-xuewu-cai__*.pdf')) if folder and folder.is_dir() else set()
         if current_path and current_path.is_file():
             sources.add(current_path)
         if not sources:
@@ -41,7 +41,9 @@ def sync():
                 name = job['id'] + '__' + source.stem[:160] + '__' + hashlib.sha256(source.name.encode()).hexdigest()[:12] + '.pdf'
             copy = destination / name
             if copy.exists() and sha(copy) != digest:
-                raise ValueError(f'Preserved library file conflicts with source; create a new resume version: {copy}')
+                copy = destination / (job['id'] + '__' + source.stem[:160] + '__' + digest[:12] + '.pdf')
+                if copy.exists() and sha(copy) != digest:
+                    raise ValueError(f'Preserved library file conflicts with source hash: {copy}')
             if not copy.exists():
                 shutil.copyfile(source, copy)
             if sha(copy) != digest:

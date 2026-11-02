@@ -1,6 +1,6 @@
 # Customized resume PDFs
 
-Last refreshed: 2026-11-02 17:49:19 EST. Browse the [dedicated PDF collection](../resumes/index.md) for clearly labeled current and historical versions. Originals remain beside their editable sources.
+Last refreshed: 2026-11-02 17:55:12 EST. Browse the [dedicated PDF collection](../resumes/index.md) for clearly labeled current and historical versions. Originals remain beside their editable sources.
 
 | Employer | Role / requisition | Stable ledger ID | Status | Resume files |
 |---|---|---|---|---|
