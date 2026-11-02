@@ -11,7 +11,7 @@
   "canonical_url": "https://www.usajobs.gov/job/759326100",
   "application_url": "https://www.cia.gov/careers/jobs/data-engineer/",
   "posted_date_evidence": "Official USAJOBS CIA/public and AI/2210 indexed result lists September 1, 2026–January 31, 2027. Announcement number is older; this is one existing requisition, not a newly created identity. Recheck original/reopened date before selection.",
-  "retrieved_at": "2026-11-02T00:53:12.615092+00:00",
+  "retrieved_at": "2026-11-02T01:18:48.041747+00:00",
   "status": "needs_verification",
   "aliases": [
     "https://intelligencecareers.usajobs.gov/job/759326100",
@@ -22,7 +22,7 @@
     "2026-11-01"
   ],
   "remote_restrictions": "Not remote; DMV duty station offered. Confirm telework policy in official job description.",
-  "open_evidence": "Official USAJOBS announcement retrieved through web tool and reports Accepting applications; recheck at Step 2.",
+  "open_evidence": "Refreshed official USAJOBS page reports Accepting applications; scope and prior mandatory gaps retained. Evidence: tracking/runs/2026-11-01-federal-step1-redo/refresh-web.txt and existing0/1-web.txt.",
   "hiring_path": "Open to the public",
   "control_number": "759326100",
   "id": "fa28275048f3ce60",
@@ -31,14 +31,59 @@
   "submitted": false,
   "artifacts": {
     "resume_markdown": {
-      "path": "applications/2026-11-01__central-intelligence-agency__data-engineer__fa28275048f3ce60/resume-xuewu-cai__central-intelligence-agency__data-engineer__759326100__v1.md",
-      "sha256": "7edb1bc33ed11b06af0e00133b8072528bbc910ae01d74bc212715e58cbe3894"
+      "path": "applications/2026-11-01__central-intelligence-agency__data-engineer__fa28275048f3ce60/resume-xuewu-cai__central-intelligence-agency__data-engineer__759326100__v2.md",
+      "sha256": "205315ea61c15b7c25a89ac3816e58ba7e728bf3f155358472f9fa50b5650176"
     },
     "resume_pdf": {
-      "path": "applications/2026-11-01__central-intelligence-agency__data-engineer__fa28275048f3ce60/resume-xuewu-cai__central-intelligence-agency__data-engineer__759326100__v1.pdf",
-      "sha256": "5de1d3a5044be8fdd71377e66cc83fff104b66e58e6f7dfef54f18f716877388"
+      "path": "applications/2026-11-01__central-intelligence-agency__data-engineer__fa28275048f3ce60/resume-xuewu-cai__central-intelligence-agency__data-engineer__759326100__v2.pdf",
+      "sha256": "52d975c0a3892d43b048790b9b8f7a91eb727c86bc5d4280f9c35c0b6903f3db"
     }
   },
   "resume_status": "draft_missing_required_facts",
-  "resume_review": "Text extraction passed; all 20 baseline experience bullets preserved; all 2 pages rendered with PDFKit and visually reviewed without clipping, overlap or blank pages. Draft pending required candidate facts and job eligibility evidence in match.md."
+  "resume_review": "One selectable-text page; all pages rendered with PDFKit and visually compared with the CFTC template. No clipping, overlap or blank pages; original v1 files and hashes preserved. Draft pending required candidate facts and applicable eligibility evidence.",
+  "artifact_versions": [
+    {
+      "version": 1,
+      "artifacts": {
+        "resume_markdown": {
+          "path": "applications/2026-11-01__central-intelligence-agency__data-engineer__fa28275048f3ce60/resume-xuewu-cai__central-intelligence-agency__data-engineer__759326100__v1.md",
+          "sha256": "7edb1bc33ed11b06af0e00133b8072528bbc910ae01d74bc212715e58cbe3894"
+        },
+        "resume_pdf": {
+          "path": "applications/2026-11-01__central-intelligence-agency__data-engineer__fa28275048f3ce60/resume-xuewu-cai__central-intelligence-agency__data-engineer__759326100__v1.pdf",
+          "sha256": "5de1d3a5044be8fdd71377e66cc83fff104b66e58e6f7dfef54f18f716877388"
+        }
+      },
+      "resume_review": "Text extraction passed; all 20 baseline experience bullets preserved; all 2 pages rendered with PDFKit and visually reviewed without clipping, overlap or blank pages. Draft pending required candidate facts and job eligibility evidence in match.md."
+    },
+    {
+      "version": 2,
+      "artifacts": {
+        "resume_markdown": {
+          "path": "applications/2026-11-01__central-intelligence-agency__data-engineer__fa28275048f3ce60/resume-xuewu-cai__central-intelligence-agency__data-engineer__759326100__v2.md",
+          "sha256": "205315ea61c15b7c25a89ac3816e58ba7e728bf3f155358472f9fa50b5650176"
+        },
+        "resume_pdf": {
+          "path": "applications/2026-11-01__central-intelligence-agency__data-engineer__fa28275048f3ce60/resume-xuewu-cai__central-intelligence-agency__data-engineer__759326100__v2.pdf",
+          "sha256": "52d975c0a3892d43b048790b9b8f7a91eb727c86bc5d4280f9c35c0b6903f3db"
+        }
+      },
+      "format_reference": {
+        "path": "Xuewu-Cai-Resume-CFTC-Systems-Risk-Analyst-889991400.pdf",
+        "sha256": "f8578722dc05958941002529af5e850ca68da321fd7b69544f705b8826c7484d",
+        "source": "User instruction on 2026-11-01: redo Step 1 using this more concise resume format",
+        "usage": "Layout and concision reference only; resume-xuewu.cai.pdf remains the factual baseline",
+        "layout": "Compact one-page layout when requirements fit: short summary, grouped competencies, selected relevant bullets, employer/title with right-aligned dates, compact education/languages. Use a second page only when necessary for mandatory evidence; obey announcement limits."
+      }
+    }
+  ],
+  "resume_version": 2,
+  "format_reference": {
+    "path": "Xuewu-Cai-Resume-CFTC-Systems-Risk-Analyst-889991400.pdf",
+    "sha256": "f8578722dc05958941002529af5e850ca68da321fd7b69544f705b8826c7484d",
+    "source": "User instruction on 2026-11-01: redo Step 1 using this more concise resume format",
+    "usage": "Layout and concision reference only; resume-xuewu.cai.pdf remains the factual baseline",
+    "layout": "Compact one-page layout when requirements fit: short summary, grouped competencies, selected relevant bullets, employer/title with right-aligned dates, compact education/languages. Use a second page only when necessary for mandatory evidence; obey announcement limits."
+  },
+  "last_step1_refresh": "2026-11-01-federal-step1-redo"
 }

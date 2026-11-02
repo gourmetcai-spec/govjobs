@@ -1,0 +1,340 @@
+USAJOBS - Job Announcement (https://www.usajobs.gov/job/890500200)
+citeturn35view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.usajobs.gov/job/890500200","lineno":150}); Total lines: 516
+L0: 【0†Skip to main content】
+L1:
+L2: 【1†Image: U.S. flag】
+L3:
+L4: [Button: An official website of the United States government ]
+L5:
+L6: [Button: MENU ]
+L7:
+L8: 【2†Back to results】
+L9:
+L10:
+L11:
+L12: 【3†Apply】
+L13:
+L14: Print
+L15:
+L16: Share
+L17:
+L18: Save
+L19:
+L20:   * 【4†Summary】
+L21:   * 【5†This job is open to】
+L22:   * 【6†Duties】
+L23:   * 【7†Requirements】
+L24:   * 【8†How you will be evaluated】
+L25:   * 【9†Required documents】
+L26:   * 【10†How to apply】
+L27: ## Summary
+L28:
+L29: Creditable Service for Annual Leave Accrual and Public Service Loan Forgiveness Program are available.
+L30: The position is in the Office of the Chief Information Officer (OCIO), Portfolio Governance Center (PGC), Capital Planning, Execution, and Workforce Management Branch (CPEWMB). The PGC/CPEWMB team works collaboratively with USDA Capital Planning and IT Governance Division (CPITGD) and the other FSIS OCIO Divisions to provide oversight and performance reporting for FSIS IT investments.
+L31: [Button: Learn more about this agency ]
+L32: ## Summary
+L33:
+L34: Creditable Service for Annual Leave Accrual and Public Service Loan Forgiveness Program are available.
+L35: The position is in the Office of the Chief Information Officer (OCIO), Portfolio Governance Center (PGC), Capital Planning, Execution, and Workforce Management Branch (CPEWMB). The PGC/CPEWMB team works collaboratively with USDA Capital Planning and IT Governance Division (CPITGD) and the other FSIS OCIO Divisions to provide oversight and performance reporting for FSIS IT investments.
+L36: [Button: Learn more about this agency ]
+L37: ## Overview
+L38:
+L39: 【11†Help†usajobshelp.opm.gov】
+L40:
+L41: Accepting applications
+L42:
+L43: Location
+L44:
+L45: 1 vacancy in the following locations:
+L46:
+L47: Fort Collins, CO
+L48:
+L49: Urbandale, IA
+L50:
+L51: Work site options
+L52:
+L53: Telework eligible
+L54:     Yes—as determined by the agency policy. FSIS does not currently have a telework policy.
+L55:
+L56: Remote job
+L57:     No
+L58:
+L59: Relocation expenses reimbursed
+L60:     No
+L61:
+L62: Salary
+L63:     $107,301 - $154,280 per year
+L64:
+L65: Pay will be determined based on location selected at.
+L66:
+L67: Pay scale & grade
+L68:
+L69:
+L70: GS 13
+L71:
+L72: Promotion potential
+L73:     13
+L74: 【12†Learn more about pay scale and grade†usajobshelp.opm.gov】
+L75:
+L76: Pay scale and grade determines the salary of the job.
+L77:
+L78: Work schedule
+L79:     Full-time
+L80:
+L81: Travel Required
+L82:     Occasional travel - You may be expected to travel for this position.
+L83:
+L84: Appointment type
+L85:     Permanent
+L86:
+L87: Occupations and job series
+L88:
+L89:   * 【13†2210 Information Technology Management】
+L90:
+L91: Supervisory status
+L92:     No
+L93:
+L94: Federal service type
+L95:     This job is in the Competitive Service
+L96:
+L97: Represented by a union
+L98:     No
+L99:
+L100: Drug test
+L101:     No
+L102: Security clearance
+L103:     Other
+L104:
+L105: Position sensitivity and risk
+L106:     【14†Non-sensitive (NS)/Low Risk†usajobshelp.opm.gov】
+L107:
+L108: Jobs require a 【14†background check†usajobshelp.opm.gov】 and some require a 【14†security clearance†usajobshelp.opm.gov】. The type depends on the job.
+L109:
+L110: Background check type
+L111:
+L112:   * 【14†Suitability/Fitness†usajobshelp.opm.gov】
+L113:
+L114: Financial disclosure required
+L115:     No
+L116:
+L117:
+L118: Some jobs require 【15†financial disclosure†usajobshelp.opm.gov】 to identify conflicts of interests.
+L119: Announcement number
+L120:     FSIS-27-MCE-13098541-DW
+L121:
+L122: Control number
+L123:     890500200
+L124: ## This job is open to
+L125:
+L126: 【16†Help†usajobshelp.opm.gov】
+L127:
+L128: 【17†The public U.S. Citizens, Nationals or those who owe allegiance to the U.S.】
+L129:
+L130: 【18†Career transition (CTAP, ICTAP, RPL) Federal employees whose job, agency or department was eliminated and are eligible for priority over other applicants.】
+L131: ## Duties
+L132:
+L133: 【19†Help†usajobshelp.opm.gov】
+L134:   * Integrate business operations across capital planning, governance, financial management, and acquisitions to address changing client requirements and resolve operational issues.
+L135:   * Develop recommendations with the branch chief and prepare written reports that diagnose problems and document solutions and procedural modifications for OCIO business operations.
+L136:   * Advise enterprise IT architects and contract vendors by interpreting policies, regulations, and system provisions and facilitate resolution of problem areas.
+L137:   * Interpret higher-authority regulations and guidance (e.g., OMB/USDA/FSIS) for IT activities/services and coordinate with USDA entities to resolve escalated issues.
+L138:   * Develop and revise guidance for IT projects in response to changing requirements, legislative/business drivers, and emerging technologies, using experienced judgment and discretion.
+L139:   * Recommend plans to OCIO management to shape/adjust/modify capital planning business cases, governance structures, financial management approaches, acquisitions, and operating policies/procedures.
+L140:   * Research capital planning, financial management, and IT contract-administration problems; develop solutions; and make immediate decisions on priority investments/contracts to ensure timely delivery of services.
+L141:   * Review new or improved processes/techniques in capital planning, financial management, and contract administration and recommend enhancements that increase innovation and efficiency.
+L142:   * Coordinate special projects across the Division and other OCIO units, ensuring cross-functional alignment and delivery against scope, deadlines, and objectives.
+L143:   * Develop and maintain business-operations artifacts, including capital-planning business cases, IT governance documentation, budget formulation/execution plans, acquisition packages, and contract-administration files.
+L144:   * Lead meetings and working conferences with management/program officials; provide capital-planning/governance/financial/contract information to influence program changes; and analyze program requirements and management needs.
+L145: ## Requirements
+L146:
+L147: 【20†Help†usajobshelp.opm.gov】
+L148: ### Conditions of employment
+L149:   * You must be a US Citizen or US National.
+L150:   * Males born after 12/31/1959 must be Selective Service registered or exempt.
+L151:   * Subject to satisfactory adjudication of background investigation and/or fingerprint check.
+L152:   * Successful completion of one-year probationary period, unless previously served. Refer to the Next Steps section for more information.
+L153:   * Direct Deposit: Per Public Law 104-134 all Federal employees are required to have federal payments made by direct deposit to their financial institution.
+L154:   * Successfully pass the E-Verify employment verification check. To learn more about E-Verify, including your rights and responsibilities, visit https://www.e-verify.gov/.
+L155:   * False statements or responses on a resume or application can jeopardize employment and may be grounds for disciplinary action, including removal from Federal service.
+L156:   * If you are selected, you may need to complete a Declaration for Federal Employment (OF-306) prior to being appointed to determine suitability for Federal employment and to authorize a background investigation.
+L157: ### Qualifications
+L158: Applicants must meet all qualifications and eligibility requirements by the closing date of the announcement including specialized experience as defined below.
+L159: FOR GS-13 CONSIDERATION: Applicants must have one year of specialized experience equivalent to the GS-12 level in the Federal
+L160: service that demonstrates experience in capital planning, IT governance, financial management,
+L161: acquisition support, and business operations in an enterprise information technology environment.
+L162: Qualifying experience includes performing at least five of the following:
+L163:   1. Integrating business operations activities across IT programs or portfolios, including analyzing operational issues, identifying performance gaps, and recommending improvements to governance processes or business operations procedures.
+L164:   2. Applying federal capital planning and investment control (CPIC) principles to assist in preparing, updating, or reviewing IT investment artifacts such as business cases, governance documentation, execution plans, and project justifications.
+L165:   3. Supporting IT governance processes, including preparing materials for governance boards, coordinating with enterprise architects, program officials, or contract vendors, or reviewing documentation for compliance with established policies, regulations, and guidance.
+L166:   4. Conducting analyses of IT financial data, including researching cost drivers, monitoring investment performance, reviewing budget execution materials, tracking obligations/expenditures, or identifying discrepancies requiring corrective action to maintain fiscal integrity.
+L167:   5. Assisting with IT acquisition or contract administration activities, such as compiling requirements, preparing or maintaining acquisition packages, supporting evaluations, or monitoring contractor performance to ensure timely and compliant delivery.
+L168:   6. Developing or maintaining business operations artifacts, including IT governance templates, standard operating procedures, business processes, analytical reports, or documentation used to support portfolio oversight and mission delivery.
+L169:   7. Researching and resolving issues related to IT capital planning, financial management, governance, or acquisition, including formulating recommendations and presenting findings to management.
+L170:   8. Coordinating with higher-level stakeholders-such as USDA oversight offices, enterprise architects, program managers, contractors, or financial personnel-to interpret policy, address operational challenges, or align IT activities with evolving requirements, legislative drivers, or emerging technologies.
+L171:   9. Supporting portfolio oversight activities aimed at maintaining internal controls, investment transparency, and balanced portfolio performance, including preparing summary reports, dashboards, or compliance assessments.
+L172:   10. Providing advisory services to managers or IT professionals on business operations, policy interpretation, investment processes, or governance requirements, including participating in meetings, briefings, or working groups.
+L173: In addition to the above specialized experience requirements, applicants will undergo a structured resume review to determine whether they meet the Individual Occupational Requirements (IOR) of the 2210 series. Successfully completing the 2210 series USAHire assessment with a passing score will be used as proof of possessing the necessary proficiency in the following competencies: Attention to Detail, Customer Service, Decision Making, Interpersonal Skills, and Teamwork.
+L174: A panel of subject matter experts will review your resume to determine if you meet the minimum proficiency level (as defined by the 2210 series IOR) for the following competencies:
+L175:   * Information Management
+L176:   * Oral Communication
+L177:   * Problem Solving
+L178:   * Technical Competence
+L179: Experience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., Peace Corps, AmeriCorps) and other organizations (e.g., professional; philanthropic; religious; spiritual; community, student, social). Volunteer work helps build critical competencies and can provide valuable training and experience that translates directly to paid employment. You will receive credit for all qualifying experience, including volunteer experience.
+L180: ### Education
+L181:
+L182: N/A
+L183: ### Additional information
+L184: Career Transition Assistance Plan (CTAP), Reemployment Priority List (RPL), or Interagency Career Transition Assistance Plan (ICTAP): Visit the 【21†OPM†www.opm.gov】 website for information on how to apply as a CTAP, RPL, or ICTAP eligible. To exercise selection priority for this vacancy, CTAP/RPL/ICTAP candidates must meet the basic eligibility requirements and all selective factors.
+L185: CTAP/ICTAP candidates must be rated and determined to be well qualified (or above) based on an evaluation of the competencies listed in the How You Will Be Evaluated section. When assessed through a score-based category rating method, CTAP/ICTAP applicants must receive a rating of at least 80 out of a possible 100.
+L186: Reasonable Accommodation (RA) Requests: If you believe you have a disability (i.e., physical or mental), covered by the Rehabilitation Act of 1973 as amended that would interfere with completing the USA Hire Competency Based Assessments, you will be granted the opportunity to request a RA in your online application. Requests for RA for the USA Hire Competency Based Assessments and appropriate supporting documentation for RA must be received prior to starting the USA Hire Competency Based Assessments.
+L187: Decisions on requests for RA are made on a case-by-case basis. If you meet the minimum qualifications of the position, after notification of the adjudication of your request, you will receive an email invitation to complete the USA Hire Competency Based Assessments, based on your adjudication decision. You must complete all assessments within 48 hours of receiving the URL to access the USA Hire Competency Based Assessments if you received the link after the close of the announcement.
+L188: To determine if you need a RA, please review the 【22†Procedures for Requesting a Reasonable Accommodation for Online Assessments†appsupport-usastaffing.opm.gov】.
+L189: Selectees may be eligible for Creditable Service for Annual Leave Accrual (【23†CSALA†www.opm.gov】).
+L190: Public Service Loan Forgiveness Program. For more information please visit: 【24†PSLF Program†studentaid.gov】.
+L191: Expand Hide  additional information
+L192:
+L193: Candidates should be committed to improving the efficiency of the Federal government, passionate about the ideals of our American republic, and committed to upholding the rule of law and the United States Constitution.
+L194: # Benefits
+L195:
+L196: 【25†Help†usajobshelp.opm.gov】
+L197:
+L198: A career with the U.S. government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding. 【26†Opens in a new window Learn more about federal benefits†usajobshelp.opm.gov】.
+L199:
+L200: 【27†Review our benefits†www.fsis.usda.gov】
+L201: Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time or intermittent. Contact the hiring agency for more information on the specific benefits offered.
+L202: ## How you will be evaluated
+L203:
+L204: You will be evaluated for this job based on how well you meet the qualifications above.
+L205: Applications will be evaluated in accordance with Office of Personnel Management's (OPM) Delegated Examining Procedures and USDA policy using category rating. Applicants who meet basic minimum qualifications will be placed in one of three categories: Best Qualified, Well Qualified, or Qualified. Within these categories, applicants eligible for Veterans' Preference will receive selection priority over non-veterans.
+L206: Category placement will be determined based on applicants' quality of experience and the extent to which they possess the following knowledge, skills, and abilities (KSA) or competencies:
+L207:   * Attention to Detail
+L208:   * Customer Service
+L209:   * Decision Making
+L210:   * Information Management
+L211:   * Interpersonal Skills
+L212:   * Oral Communication
+L213:   * Problem Solving
+L214:   * Teamwork
+L215:   * Technical Competence
+L216: The USA Hire Assessment includes a cut score based on the minimum level of required proficiency in these critical general competencies. You must meet or exceed the cut score to be considered. You will not be considered for the position if you score below the cut score or fail to complete the assessment.
+L217: Overstating your qualifications and/or experience in your application materials or application questionnaire may result in your removal from consideration. Cheating on an assessment may also result in your removal from consideration.
+L218: Your application, including the online Assessment Questionnaire, will be reviewed to determine if you meet (a) minimum qualification requirements and (b) your resume supports the answers provided to the job-specific questions. Your resume must clearly support your responses to all the questions addressing experience and education relevant to this position. Those determined to be in the best qualified category will be referred to the selecting official for consideration.
+L219: NOTE: If, after reviewing your resume and/or supporting documentation, a determination is made that you have inflated your qualifications and or experience, your score may be adjusted to more accurately reflect your abilities, or you may be found ineligible. Please follow all instructions carefully. Errors or omissions may affect your rating. Providing inaccurate information on Federal documents could be grounds for non-selection or disciplinary action up to and including removal from the Federal service.
+L220: Clicking the link below will present a preview of the application form; i.e. the online questionnaire. The application form link below will only provide a preview and does not initiate the application process. To initiate the online application process, click the "Apply" button to the right.
+L221: To preview the application questionnaire, click the following link: 【28†https://apply.usastaffing.gov/ViewQuestionnaire/13098541†apply.usastaffing.gov】
+L222: Your application will be reviewed to verify that you meet the eligibility and qualification requirements for the position prior to issuing referral lists to the selecting official. If further evaluation or interviews are required, you will be contacted. Log in to your 【29†USAJOBS†gcc02.safelinks.protection.outlook.com】 account to check your application status.
+L223: You must choose to turn on email notifications in your USAJOBS profile if you want to receive important email notifications that may impact your applicant experience (e.g. If you start an application and do not submit it prior to the closing date, USAJOBS will send an email reminder that the closing date is approaching and your application is in an incomplete status).
+L224: # Benefits
+L225:
+L226: 【25†Help†usajobshelp.opm.gov】
+L227:
+L228: A career with the U.S. government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding. 【26†Opens in a new window Learn more about federal benefits†usajobshelp.opm.gov】.
+L229:
+L230: 【27†Review our benefits†www.fsis.usda.gov】
+L231: Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time or intermittent. Contact the hiring agency for more information on the specific benefits offered.
+L232: # Required documents
+L233: ## Required Documents
+L234:
+L235: 【20†Help†usajobshelp.opm.gov】
+L236: The following documents are required for your applicant package to be complete. Encrypted documents will not be accepted. Failure to submit required, legible documents may result in loss of consideration.
+L237: 【30†Resume that includes:†help.usajobs.gov】 Personal Information: name, address, contact information; Education; Work Experience related to this position as described in the major duties including work schedule, hours worked per week, dates of employment; title, series, grade (if applicable); other qualifications. Resume cannot exceed 2 pages.
+L238:   * Your application may be disqualified if you include any of the information listed here: 【31†What should I leave out of my resume?†usajobshelp.opm.gov】
+L239: If education is required or you are using education to qualify, you must submit a copy of all relevant college transcripts. An unofficial copy is sufficient with the application if it includes your name and the necessary course information; however, if you are selected, you will be required to submit official transcripts prior to entering on duty. Education must have been successfully obtained from an accredited school, college or university.
+L240: If any education was completed at a foreign institute, you must submit with your application evidence that the institute was appropriately accredited by an accrediting body recognized by the U.S. Department of Education as equivalent to U.S. education standards. There are private organizations that specialize in this evaluation and a fee is normally associated with this service. For a list of private organizations that evaluate education, visit the 【32†NACES†www.naces.org】 website.
+L241: All transcripts must be in English or include an English translation.
+L242: If claiming Veterans' Preference, you must submit a DD-214, Certificate of Release from Active Duty, which shows dates of service and discharge under honorable conditions. If currently on active duty, you must submit a certification of expected discharge or release from active duty service under honorable conditions not later than 120 days after the date the certification is submitted. Veterans' Preference must be verified prior to appointment.
+L243: Without this documentation, you will not receive Veterans' Preference, and your application will be evaluated based on the material(s) submitted.
+L244: If claiming 10-point Veterans' Preference, you must provide the DD-214 or certification requirements (see above bullet), plus the proof of entitlement of this preference as listed on the SF-15 Application for 10-point Veterans' Preference. The SF-15 should be included but is not required. Failure to submit these documents could result in the determination that there is insufficient documentation to support your claim for 10-point preference.
+L245: For more information on Veterans' Preference visit 【33†FedsHireVets†www.opm.gov】.
+L246: Surplus or displaced employees eligible for CTAP, RPL, or ICTAP priority must provide: proof of eligibility (RIF separation notice, notice of proposed removal for declining a transfer of function or directed reassignment to another commuting area, notice of disability annuity termination), SF-50 documenting separation (as applicable), current performance appraisal with rating of at least "Fully Successful" or equivalent, and your most recent SF-50 noting position, grade level, and duty location with your application per 5 CFR 330.
+L247: ### If you are relying on your education to meet qualification requirements:
+L248:
+L249: Education must be accredited by an accrediting institution recognized by the U.S. Department of Education in order for it to be credited towards qualifications. Therefore, provide only the attendance and/or degrees from 【34†schools accredited by accrediting institutions recognized by the U.S. Department of Education†www.ed.gov】.
+L250: Failure to provide all of the required information as stated in this vacancy announcement may result in an ineligible rating or may affect the overall rating.
+L251: # How to Apply
+L252:
+L253: 【35†Help†usajobshelp.opm.gov】
+L254: Please read the entire announcement and all the instructions before you begin an application. To apply and be considered for this position, you must complete all required questionnaires, assessments, and required documentation as specified in the How to Apply and Required Documents section. The complete application package must be submitted by 11:59 PM (ET) on the closing date of the announcement to receive consideration. Resumes must not exceed two pages. The application process is as follows:
+L255:   1. Click the Apply Online button.
+L256:   2. Answer the questions presented in the application and attach all necessary supporting documentation.
+L257:   3. Click the Submit Application button prior to 11:59 PM (ET) on the announcement closing date.
+L258:   4. If you are required to complete any USA Hire Assessments, you will be notified after submitting your application. The notification will be provided in your application submission screen and via email. The notification will include your unique assessment access link to the USA Hire system and the completion deadline. Additionally, in USAJOBS you can click "Track this application" to return to your assessment completion notice.
+L259:   5. Access USA Hire using your unique assessment link. Access is granted through your USAJOBS login credentials.
+L260:   6. Review all instructions prior to beginning your assessments. You will have the opportunity to request a testing accommodation before beginning the assessments should you have a disability covered under the Rehabilitation Act of 1973 as amended.
+L261:   7. Set aside at least 3 hours to take the USA Hire assessments; however, most applicants complete the assessments in less time. If you need to stop the assessments and continue later, you can re-use your unique assessment link.
+L262:   8. Your responses to the USA Hire Assessments will be reused for one year (in most cases) from the date you complete an assessment. If future applications you submit require completion of the same assessments, your responses will be automatically reused.
+L263: Visit the 【36†USA Hire Applicant Resource Center†support-usahire.opm.gov】 for practice assessments and assessment preparation.
+L264: To update your application, including supporting documentation: During the announcement open period, return to your USAJOBS account, find your application record, and click Edit my application. This option will no longer be available once the announcement has closed.
+L265: To view the announcement status or your application status: Click on this: 【37†https://www.usajobs.gov/Help/how-to/application/status/】. Your application status page is where you can view your application status, USA Hire assessment completion status, and review your notifications sent by the hiring agency regarding your application.
+L266: Please verify that documents you are uploading from USAJOBs transfer into the Agency's staffing system as there is a limitation to the number of documents that can be transferred. However, once in the Agency's staffing system, you will have the opportunity to upload additional documents. Uploaded documents must be less than 5MB and in one of the following document formats: GIF, JPG, JPEG, PNG, RTF, PDF, TXT or Word (DOC or DOCX). Do not upload Adobe Portfolio documents because they are not viewable.
+L267: Please ensure your resume does not exceed two pages. Applicants who submit a resume that exceeds two pages will be removed from consideration.
+L268: ### Agency contact information
+L269:
+L270: Doug Welder
+L271:
+L272: Phone
+L273:     612-852-7713
+L274: Email
+L275:     douglas.welder@usda.gov
+L276:
+L277: Address
+L278:     Food Safety and Inspection Service
+L279: 1400 Independence Ave SW
+L280: Washington, DC 20250
+L281: US
+L282: ### Next steps
+L283: Multiple positions may be filled from this announcement.
+L284: As a condition of employment for accepting this position, you will be required to serve a 1-year probationary period during which we will evaluate your fitness and whether your continued employment advances the public interest.
+L285: In determining if your employment advances the public interest, we may consider: your performance and conduct; the needs and interests of the agency; whether your continued employment would advance organizational goals of the agency or the Government; and whether your continued employment would advance the efficiency of the Federal service.
+L286: Upon completion of your probationary period your employment will be terminated unless you receive certification, in writing, that your continued employment advances the public interest.
+L287: The U.S. Government utilizes Trusted Workforce 2.0 to implement 【38†Continuous Vetting (CV)†gcc02.safelinks.protection.outlook.com】 as a-whole-of government approach to personnel security. If selected for this position, you will be subject to continuous automated record checks of criminal, financial, and public record databases throughout your period of eligibility or employment, replacing traditional periodic reinvestigations.
+L288: Under the Fair Chance Act, agencies are not allowed to request information about an applicant's criminal history until a conditional offer of employment has been made, except as allowed for access to classified information; assignment to national security duties or positions; acceptance or retention in the armed forces; or recruitment of a Federal law enforcement officer.
+L289: An applicant may submit a complaint or any other information related to an organization's alleged noncompliance with the Fair Chance Act. The complaint must be submitted within 30 calendar days of the date of the alleged noncompliance. To make a Fair Chance Act inquiry or complaint, send an email with the appropriate information to fsis.fca@usda.gov, subject line: Fair Chance Act.
+L290: # Fair and transparent
+L291:
+L292: The Federal hiring process is set up to be fair and transparent. Please read the following guidance.
+L293:
+L294: 【39†Criminal history inquiries†usajobshelp.opm.gov】 【40†Equal Employment Opportunity (EEO) Policy†usajobshelp.opm.gov】
+L295:
+L296: 【41†Financial suitability†usajobshelp.opm.gov】 【42†New employee probationary period†usajobshelp.opm.gov】
+L297:
+L298: 【43†Privacy Act†usajobshelp.opm.gov】 【44†Reasonable accommodation policy†usajobshelp.opm.gov】
+L299: 【45†Selective Service†usajobshelp.opm.gov】 【46†Signature and false statements†usajobshelp.opm.gov】
+L300:
+L301: 【47†Social security number request†usajobshelp.opm.gov】
+L302: ## Required Documents
+L303:
+L304: 【20†Help†usajobshelp.opm.gov】
+L305: The following documents are required for your applicant package to be complete. Encrypted documents will not be accepted. Failure to submit required, legible documents may result in loss of consideration.
+L306: 【30†Resume that includes:†help.usajobs.gov】 Personal Information: name, address, contact information; Education; Work Experience related to this position as described in the major duties including work schedule, hours worked per week, dates of employment; title, series, grade (if applicable); other qualifications. Resume cannot exceed 2 pages.
+L307:   * Your application may be disqualified if you include any of the information listed here: 【31†What should I leave out of my resume?†usajobshelp.opm.gov】
+L308: If education is required or you are using education to qualify, you must submit a copy of all relevant college transcripts. An unofficial copy is sufficient with the application if it includes your name and the necessary course information; however, if you are selected, you will be required to submit official transcripts prior to entering on duty. Education must have been successfully obtained from an accredited school, college or university.
+L309: If any education was completed at a foreign institute, you must submit with your application evidence that the institute was appropriately accredited by an accrediting body recognized by the U.S. Department of Education as equivalent to U.S. education standards. There are private organizations that specialize in this evaluation and a fee is normally associated with this service. For a list of private organizations that evaluate education, visit the 【32†NACES†www.naces.org】 website.
+L310: All transcripts must be in English or include an English translation.
+L311: If claiming Veterans' Preference, you must submit a DD-214, Certificate of Release from Active Duty, which shows dates of service and discharge under honorable conditions. If currently on active duty, you must submit a certification of expected discharge or release from active duty service under honorable conditions not later than 120 days after the date the certification is submitted. Veterans' Preference must be verified prior to appointment.
+L312: Without this documentation, you will not receive Veterans' Preference, and your application will be evaluated based on the material(s) submitted.
+L313: If claiming 10-point Veterans' Preference, you must provide the DD-214 or certification requirements (see above bullet), plus the proof of entitlement of this preference as listed on the SF-15 Application for 10-point Veterans' Preference. The SF-15 should be included but is not required. Failure to submit these documents could result in the determination that there is insufficient documentation to support your claim for 10-point preference.
+L314: For more information on Veterans' Preference visit 【33†FedsHireVets†www.opm.gov】.
+L315: Surplus or displaced employees eligible for CTAP, RPL, or ICTAP priority must provide: proof of eligibility (RIF separation notice, notice of proposed removal for declining a transfer of function or directed reassignment to another commuting area, notice of disability annuity termination), SF-50 documenting separation (as applicable), current performance appraisal with rating of at least "Fully Successful" or equivalent, and your most recent SF-50 noting position, grade level, and duty location with your application per 5 CFR 330.
+L316: ### If you are relying on your education to meet qualification requirements:
+L317:
+L318: Education must be accredited by an accrediting institution recognized by the U.S. Department of Education in order for it to be credited towards qualifications. Therefore, provide only the attendance and/or degrees from 【34†schools accredited by accrediting institutions recognized by the U.S. Department of Education†www.ed.gov】.
+L319: Failure to provide all of the required information as stated in this vacancy announcement may result in an ineligible rating or may affect the overall rating.
+L320: ## How to Apply
+L321:
+L322: 【35†Help†usajobshelp.opm.gov】
+L323: Please read the entire announcement and all the instructions before you begin an application. To apply and be considered for this position, you must complete all required questionnaires, assessments, and required documentation as specified in the How to Apply and Required Documents section. The complete application package must be submitted by 11:59 PM (ET) on the closing date of the announcement to receive consideration. Resumes must not exceed two pages. The application process is as follows:
+L324:   1. Click the Apply Online button.
+L325:   2. Answer the questions presented in the application and attach all necessary supporting documentation.
+L326:   3. Click the Submit Application button prior to 11:59 PM (ET) on the announcement closing date.
+L327:   4. If you are required to complete any USA Hire Assessments, you will be notified after submitting your application. The notification will be provided in your application submission screen and via email. The notification will include your unique assessment access link to the USA Hire system and the completion deadline. Additionally, in USAJOBS you can click "Track this application" to return to your assessment completion notice.
+L328:   5. Access USA Hire using your unique assessment link. Access is granted through your USAJOBS login credentials.
+L329:   6. Review all instructions prior to beginning your assessments. You will have the opportunity to request a testing accommodation before beginning the assessments should you have a disability covered under the Rehabilitation Act of 1973 as amended.
+L330:   7. Set aside at least 3 hours to take the USA Hire assessments; however, most applicants complete the assessments in less time. If you need to stop the assessments and continue later, you can re-use your unique assessment link.
+L331:   8. Your responses to the USA Hire Assessments will be reused for one year (in most cases) from the date you complete an assessment. If future applications you submit require completion of the same assessments, your responses will be automatically reused.
+L332: Visit the 【36†USA Hire Applicant Resource Center†support-usahire.opm.gov】 for practice assessments and assessment preparation.
+L333: To update your application, including supporting documentation: During the announcement open period, return to your USAJOBS account, find your application record, and click Edit my application. This option will no longer be available once the announcement has closed.
+L334: To view the announcement status or your application status: Click on this: 【37†https://www.usajobs.gov/Help/how-to/application/status/】. Your application status page is where you can view your application status, USA Hire assessment completion status, and review your notifications sent by the hiring agency regarding your application.
+L335: Please verify that documents you are uploading from USAJOBs transfer into the Agency's staffing system as there is a limitation to the number of documents that can be transferred. However, once in the Agency's staffing system, you will have the opportunity to upload additional documents. Uploaded documents must be less than 5MB and in one of the following document formats: GIF, JPG, JPEG, PNG, RTF, PDF, TXT or Word (DOC or DOCX). Do not upload Adobe Portfolio documents because they are not viewable.
+L336: Please ensure your resume does not exceed two pages. Applicants who submit a resume that exceeds two pages will be removed from consideration.
+L337: Expand Hide  how to apply

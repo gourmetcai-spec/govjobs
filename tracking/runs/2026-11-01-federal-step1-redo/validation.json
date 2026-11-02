@@ -1,0 +1,41 @@
+{
+  "baseline_unchanged": true,
+  "reference_unchanged": true,
+  "sqlite_integrity": "ok",
+  "resumes": [
+    {
+      "id": "4e066be541ca1382",
+      "v1_pages": 2,
+      "v2_pages": 1,
+      "v1_words": 747,
+      "v2_words": 457,
+      "v1_unchanged": true,
+      "hashes_valid": true,
+      "visual_review": "passed; v2-contact-sheet.png",
+      "format_reference_hash": "f8578722dc05958941002529af5e850ca68da321fd7b69544f705b8826c7484d"
+    },
+    {
+      "id": "a5af83ea7ba6d744",
+      "v1_pages": 2,
+      "v2_pages": 1,
+      "v1_words": 755,
+      "v2_words": 480,
+      "v1_unchanged": true,
+      "hashes_valid": true,
+      "visual_review": "passed; v2-contact-sheet.png",
+      "format_reference_hash": "f8578722dc05958941002529af5e850ca68da321fd7b69544f705b8826c7484d"
+    },
+    {
+      "id": "fa28275048f3ce60",
+      "v1_pages": 2,
+      "v2_pages": 1,
+      "v1_words": 753,
+      "v2_words": 456,
+      "v1_unchanged": true,
+      "hashes_valid": true,
+      "visual_review": "passed; v2-contact-sheet.png",
+      "format_reference_hash": "f8578722dc05958941002529af5e850ca68da321fd7b69544f705b8826c7484d"
+    }
+  ],
+  "portal_actions": 0
+}

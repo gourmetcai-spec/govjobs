@@ -1,0 +1,31 @@
+{
+  "employer": "Commodity Futures Trading Commission",
+  "title": "Systems Risk Analyst",
+  "requisition_id": "CFTC-DMO-2027-0003",
+  "location": "Washington, DC",
+  "salary": "$152,377–$223,819 per year; CT-13",
+  "hiring_path": "Agency clarification: applications accepted from all U.S. citizens",
+  "fit": "Trading architecture, FIX, market data, risk analytics and SEC/CFTC/OPERA reporting overlap.",
+  "gaps": "Official opening and closing dates remain unverified. Mandatory system safeguard/security-control reviews, electronic-trading compliance oversight and evaluation of emergency/backup/disaster-recovery plans are not established by the baseline. The user-designated CFTC PDF is a format reference and does not establish those additional claims.",
+  "canonical_url": "https://www.usajobs.gov/job/889991400",
+  "application_url": "https://www.usajobs.gov/job/889991400",
+  "posted_date": null,
+  "posted_date_evidence": "No verified official opening date in retrieved text; not treated as eligible.",
+  "retrieved_at": "2026-11-02T01:18:48.041747+00:00",
+  "remote_restrictions": "Not remote; listed DMV duty station. Telework subject to agency policy.",
+  "control_number": "889991400",
+  "status": "needs_verification",
+  "aliases": [],
+  "discovery_window": [
+    "2026-09-01",
+    "2026-11-01"
+  ],
+  "open_evidence": "Official announcement reports Accepting applications; saved in tracking/runs/2026-11-01-federal-step1-redo/cftc-web.txt",
+  "id": "f720af72449c48a0",
+  "step": 1,
+  "selected": false,
+  "submitted": false,
+  "artifacts": {},
+  "resume_status": "not_generated_verification_required",
+  "resume_review": "Not generated; mandatory gaps/date or hiring-path blocker."
+}

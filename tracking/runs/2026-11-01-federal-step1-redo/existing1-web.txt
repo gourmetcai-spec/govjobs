@@ -1,0 +1,649 @@
+USAJOBS - Job Announcement (https://www.usajobs.gov/job/890572600)
+citeturn40view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.usajobs.gov/job/890572600","lineno":null}); Total lines: 472
+L0: 【0†Skip to main content】
+L1:
+L2: 【1†Image: U.S. flag】
+L3:
+L4: [Button: An official website of the United States government ]
+L5:
+L6: [Button: MENU ]
+L7:
+L8: 【2†Back to results】
+L9:
+L10:
+L11:
+L12: 【3†Apply】
+L13:
+L14: Print
+L15:
+L16: Share
+L17:
+L18: Save
+L19:
+L20:   * 【4†Summary】
+L21:   * 【5†This job is open to】
+L22:   * 【6†Duties】
+L23:   * 【7†Requirements】
+L24:   * 【8†How you will be evaluated】
+L25:   * 【9†Required documents】
+L26:   * 【10†How to apply】
+L27: ## Summary
+L28:
+L29: About the Position: The IT Specialist (APPSW/INET) provides support to Naval Health Clinic Quantico in Washington, DC, helping ensure consistent, high-quality patient care and facility operations.
+L30: This is a Direct Hire Solicitation
+L31:
+L32: [Button: Learn more about this agency ]
+L33: ## Summary
+L34:
+L35: About the Position: The IT Specialist (APPSW/INET) provides support to Naval Health Clinic Quantico in Washington, DC, helping ensure consistent, high-quality patient care and facility operations.
+L36: This is a Direct Hire Solicitation
+L37:
+L38: [Button: Learn more about this agency ]
+L39: ## Overview
+L40:
+L41: 【11†Help†usajobshelp.opm.gov】
+L42:
+L43: Accepting applications
+L44:
+L45: Location
+L46:
+L47: 1 vacancy in the following location:
+L48:
+L49: Quantico, VA
+L50:
+L51: Work site options
+L52:
+L53: Telework eligible
+L54:     Yes—as determined by the agency policy.
+L55:
+L56: Remote job
+L57:     No
+L58:
+L59: Relocation expenses reimbursed
+L60:     No
+L61:
+L62: Salary
+L63:     $102,415 - $133,142 per year
+L64:
+L65: Pay scale & grade
+L66:
+L67:
+L68: GS 12
+L69:
+L70: Promotion potential
+L71:     None
+L72:
+L73: 【12†Learn more about pay scale and grade†usajobshelp.opm.gov】
+L74:
+L75: Pay scale and grade determines the salary of the job.
+L76: Work schedule
+L77:     Full-time
+L78:
+L79: Travel Required
+L80:     Not required
+L81:
+L82: Appointment type
+L83:     Permanent
+L84:
+L85: Occupations and job series
+L86:
+L87:   * 【13†2210 Information Technology Management】
+L88:
+L89: Supervisory status
+L90:     No
+L91:
+L92: Federal service type
+L93:     This job is in the Competitive Service
+L94:
+L95: Represented by a union
+L96:     No
+L97:
+L98: Drug test
+L99:     Yes
+L100:
+L101: Security clearance
+L102:     Secret
+L103:
+L104: Position sensitivity and risk
+L105:     【14†Noncritical-Sensitive (NCS)/Moderate Risk†usajobshelp.opm.gov】
+L106: Jobs require a 【14†background check†usajobshelp.opm.gov】 and some require a 【14†security clearance†usajobshelp.opm.gov】. The type depends on the job.
+L107:
+L108: Background check type
+L109:
+L110:   * 【14†Suitability/Fitness†usajobshelp.opm.gov】
+L111:
+L112: Financial disclosure required
+L113:     No
+L114:
+L115:
+L116: Some jobs require 【15†financial disclosure†usajobshelp.opm.gov】 to identify conflicts of interests.
+L117:
+L118: Announcement number
+L119:     HSJT-27-13090193
+L120:
+L121: Control number
+L122:     890572600
+L123: ## This job is open to
+L124:
+L125: 【16†Help†usajobshelp.opm.gov】
+L126:
+L127: 【17†The public U.S. Citizens, Nationals or those who owe allegiance to the U.S.】
+L128: ## Duties
+L129:
+L130: 【18†Help†usajobshelp.opm.gov】
+L131:   * Serve as an Information Technology (IT) Subject matter expert with duties to provide direct customer service integration support for the Information Systems Engineering (ISEC) SharePoint Portal design.
+L132:   * Develop the strategy for optimal system integration with other collaborative tools within the organization.
+L133:   * Advise management concerning state-of-the-art techniques, software, and hardware.
+L134:   * Develop web application programs, assures optimum equipment utilization, achieves functional goals, and enhances program maintenance.
+L135:   * Work with Information Assurance staff to provide information and documentation required for network system accreditations.
+L136:   * Maintain web applications to ensure that updates are performed to the latest requirements to meet application programming and Information Assurance requirements.
+L137:   * Review, interpret, and execute DOD, HQDA, and command policies and guidelines for data and system security including DISA Security Technical Implementation Guides (STIG).
+L138: ## Requirements
+L139:
+L140: 【19†Help†usajobshelp.opm.gov】
+L141: ### Conditions of employment
+L142:   * Appointment may be subject to a suitability or fitness determination, as determined by a completed background investigation.
+L143:   * This position requires the incumbent be able to obtain and maintain a determination of eligibility for a Secret security clearance or access for the duration of employment. A background investigation and credit check are required.
+L144:   * Immunization screening is required. Hepatitis B immunization is required for all positions with direct patient contact. Applicants may be required to show proof of other immunizations depending on the type of position.
+L145:   * This position has mandatory seasonal Influenza vaccination requirements and is subject to annual seasonal Influenza vaccinations unless otherwise exempted for medical or religious reasons (documentation of exemption must be provided upon hire).
+L146:   * This position requires the incumbent to have Tuberculosis testing.
+L147:   * This position is subject to a pre-employment screening, and random drug testing, to include testing based on reasonable suspicion and testing due to direct involvement with an on-duty accident.
+L148:   * One year trial/probationary period may be required.
+L149: ### Qualifications
+L150: Who May Apply: US Citizens
+L151: In order to qualify, you must meet the education and/or experience requirements described below. Experience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., Peace Corps, AmeriCorps) and other organizations (e.g., professional; philanthropic; religious; spiritual; community; student; social). You will receive credit for all qualifying experience, including volunteer experience.
+L152: Your resume must clearly describe your relevant experience; if qualifying based on education, your transcripts will be required as part of your application. Additional information about transcripts is 【20†in this document†portal.chra.army.mil】.
+L153: Basic Requirement for IT Specialist (APPSW/INET):
+L154: Specialized and Other Experience: One year of specialized experience which includes developing Sharepoint applications and system integrations; analyzing complex application and system issues; and implementing Sharepoint enhancement and DoD security compliance. This definition of specialized experience is typical of work performed at the next lower grade/level position in the federal service (GS-11).
+L155: The specialized experience must include, or be supplemented by, information technology related experience (paid or unpaid experience and/or completion of specific, intensive training, as appropriate) which demonstrates each of the four competencies, as defined:
+L156: (1) Attention to Detail - Is thorough when performing work and conscientious about attending to detail. Examples of IT-related experience demonstrating this competency include: completing thorough and accurate work independently, even in the most difficult or stressful situations; occasionally reviewing work completed by others.
+L157: (2) Customer Service - Works with clients and customers (that is, any individuals who use or receive the services or products that your work unit produces, including the general public, individuals who work in the agency, other agencies, or organizations outside the Government) to assess their needs, provide information or assistance, resolve their problems, or satisfy their expectations; knows about available products and services; is committed to providing quality products and services.
+--------------------------------------------------------------------------------
+USAJOBS - Job Announcement (https://www.usajobs.gov/job/891011700)
+citeturn40view1 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.usajobs.gov/job/891011700","lineno":null}); Total lines: 525
+L0: 【0†Skip to main content】
+L1:
+L2: 【1†Image: U.S. flag】
+L3:
+L4: [Button: An official website of the United States government ]
+L5:
+L6: [Button: MENU ]
+L7:
+L8: 【2†Back to results】
+L9:
+L10:
+L11:
+L12: 【3†Apply】
+L13:
+L14: Print
+L15:
+L16: Share
+L17:
+L18: Save
+L19:
+L20:   * 【4†Summary】
+L21:   * 【5†This job is open to】
+L22:   * 【6†Duties】
+L23:   * 【7†Requirements】
+L24:   * 【8†How you will be evaluated】
+L25:   * 【9†Required documents】
+L26:   * 【10†How to apply】
+L27: ## Summary
+L28:
+L29: This position is located in Office of Chief Financial Officer in the Washington, DC area. The ideal candidate for this position will be a seasoned financial policy professional with strong written and oral communication skills, proven team management and leadership experience, and expertise in independently researching policies, regulations, and legislation to interpret requirements and draft new policies, standards, and guidance aligned to agency priorities.
+L30: [Button: Learn more about this agency ]
+L31: ## Summary
+L32:
+L33: This position is located in Office of Chief Financial Officer in the Washington, DC area. The ideal candidate for this position will be a seasoned financial policy professional with strong written and oral communication skills, proven team management and leadership experience, and expertise in independently researching policies, regulations, and legislation to interpret requirements and draft new policies, standards, and guidance aligned to agency priorities.
+L34: [Button: Learn more about this agency ]
+L35: ## Overview
+L36:
+L37: 【11†Help†usajobshelp.opm.gov】
+L38:
+L39: Accepting applications
+L40:
+L41: This job will close when we have received 100 applications which may be sooner than the closing date. 【12†Learn more†usajobshelp.opm.gov】
+L42:
+L43: Location
+L44:
+L45: 1 vacancy in the following locations:
+L46:
+L47: Washington, DC
+L48:
+L49: Winchester, VA
+L50:
+L51: Work site options
+L52:
+L53: Telework eligible
+L54:     No
+L55:
+L56: Remote job
+L57:     No
+L58:
+L59: Relocation expenses reimbursed
+L60:     No
+L61:
+L62: Salary
+L63:     $169,279 - $197,200 per year
+L64:
+L65: Pay scale & grade
+L66:
+L67:
+L68: GS 15
+L69:
+L70: Promotion potential
+L71:     15
+L72: 【13†Learn more about pay scale and grade†usajobshelp.opm.gov】
+L73:
+L74: Pay scale and grade determines the salary of the job.
+L75:
+L76: Work schedule
+L77:     Full-time
+L78:
+L79: Travel Required
+L80:     Occasional travel - You may be expected to travel for this position.
+L81:
+L82: Appointment type
+L83:     Permanent
+L84:
+L85: Occupations and job series
+L86:
+L87:   * 【14†0501 Financial Administration And Program】
+L88:
+L89: Supervisory status
+L90:     Yes
+L91:
+L92: Federal service type
+L93:     This job is in the Competitive Service
+L94:
+L95: Represented by a union
+L96:     No
+L97:
+L98: Drug test
+L99:     No
+L100: Security clearance
+L101:     Not Required
+L102:
+L103: Position sensitivity and risk
+L104:     【15†High Risk (HR)†usajobshelp.opm.gov】
+L105:
+L106: Jobs require a 【15†background check†usajobshelp.opm.gov】 and some require a 【15†security clearance†usajobshelp.opm.gov】. The type depends on the job.
+L107:
+L108: Background check type
+L109:
+L110:   * 【15†Suitability/Fitness†usajobshelp.opm.gov】
+L111:
+L112: Financial disclosure required
+L113:     Yes
+L114:
+L115:
+L116: Some jobs require 【16†financial disclosure†usajobshelp.opm.gov】 to identify conflicts of interests.
+L117: Announcement number
+L118:     FEMA-JB-13100736-DE
+L119:
+L120: Control number
+L121:     891011700
+L122: ## This job is open to
+L123:
+L124: 【17†Help†usajobshelp.opm.gov】
+L125:
+L126: 【18†The public U.S. Citizens, Nationals or those who owe allegiance to the U.S.】
+L127:
+L128: 【19†Career transition (CTAP, ICTAP, RPL) Federal employees whose job, agency or department was eliminated and are eligible for priority over other applicants.】
+L129:
+L130: ### Clarification from the agency
+L131:
+L132: This job is open to: U.S. Citizens
+L133: ## Duties
+L134:
+L135: 【20†Help†usajobshelp.opm.gov】
+L136: The Department of Homeland Security (DHS) is calling on those who want to help protect American interests and secure our Nation. DHS Components work collectively to prevent terrorism; secure borders and our transportation systems; protect the President and other dignitaries; enforce and administer immigration laws; safeguard cyberspace; and ensure resilience to disasters. We achieve these vital missions through a workforce spanning hundreds of occupations. Make an impact; join DHS.
+L137: When disaster strikes, America looks to the Federal Emergency Management Agency (FEMA). Now FEMA looks to you. Join our team and use your talent to support Americans in their times of greatest need. FEMA prepares the nation for all hazards and manages Federal response and recovery efforts following any national incident. We foster innovation, reward performance and creativity, and provide challenges on a routine basis with a well-skilled, knowledgeable, high performance workforce.
+L138: Please visit 【21†www.fema.gov†www.fema.gov】 for additional information.
+L139: EXCEPTED SERVICE: This is a Schedule Policy/Career position in the excepted service.
+L140: EMERGENCY ASSIGNMENT: Every FEMA employee has regular and recurring emergency management responsibilities, though not every position requires routine deployment to disaster sites. All positions are subject to recall around the clock for emergency management operations, which may require irregular work hours, work at locations other than the official duty station, and may include duties other than those specified in the employee's official position description.
+L141: Travel requirements in support of emergency operations may be extensive in nature (weeks to months), with little advance notice, and may require employees to relocate to emergency sites with physically austere and operationally challenging conditions.
+L142: In this position, you will serve as Chief, Financial Policy Branch within the Financial Management Division in FEMA's Office of the Chief Financial Officer. You will provide leadership, technical guidance and expertise on a wide range of financial and travel policies. . Typical assignments include:
+L143:   * Directing staff to develop a mixture of routine and challenging financial and travel policy guidance based on organizational goals and objectives.
+L144:   * Directing and overseeing daily work assignments, setting priorities, and determining resource requirements.
+L145:   * Determining short- or long-term goals and strategies to achieve them; coordinating with other organizations to accomplish goals and objectives.
+L146: ## Requirements
+L147:
+L148: 【22†Help†usajobshelp.opm.gov】
+L149: ### Conditions of employment
+L150: To ensure the accomplishment of our mission, DHS requires every employee to be reliable and trustworthy. To meet those standards, all selected applicants must undergo, successfully pass, and maintain a background investigation for Public Trust High-Risk as a condition of placement into this position.
+L151: This may include a credit check after initial job qualifications are determined, a review of financial issues, such as delinquency in the payment of debts, child support and/or tax obligations, as well as certain criminal offenses and illegal use or possession of drugs (please visit: 【23†Mythbuster on Federal Hiring Policies for additional information†chcoc.gov】). For more information on background investigations for Federal jobs please visit 【24†OPM Investigations†www.opm.gov】.
+--------------------------------------------------------------------------------
+USAJOBS - Job Announcement (https://www.usajobs.gov/job/889960700)
+citeturn40view2 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.usajobs.gov/job/889960700","lineno":null}); Total lines: 504
+L0: 【0†Skip to main content】
+L1:
+L2: 【1†Image: U.S. flag】
+L3:
+L4: [Button: An official website of the United States government ]
+L5:
+L6: [Button: MENU ]
+L7:
+L8: 【2†Back to results】
+L9:
+L10:
+L11:
+L12: 【3†Apply】
+L13:
+L14: Print
+L15:
+L16: Share
+L17:
+L18: Save
+L19:
+L20:   * 【4†Summary】
+L21:   * 【5†This job is open to】
+L22:   * 【6†Duties】
+L23:   * 【7†Requirements】
+L24:   * 【8†How you will be evaluated】
+L25:   * 【9†Required documents】
+L26:   * 【10†How to apply】
+L27: ## Summary
+L28:
+L29: This position is located in Division of Strategic Technology and Enterprise Portfolio Governance.
+L30: The supervisor is Tiffany Fields.
+L31: This position is not subject to Confidential Financial Disclosure reporting requirements.
+L32: This position is not subject to security ownership restriction reporting requirements.
+L33:
+L34: [Button: Learn more about this agency ]
+L35: ## Summary
+L36:
+L37: This position is located in Division of Strategic Technology and Enterprise Portfolio Governance.
+L38: The supervisor is Tiffany Fields.
+L39: This position is not subject to Confidential Financial Disclosure reporting requirements.
+L40: This position is not subject to security ownership restriction reporting requirements.
+L41:
+L42: [Button: Learn more about this agency ]
+L43: ## Overview
+L44:
+L45: 【11†Help†usajobshelp.opm.gov】
+L46:
+L47: Accepting applications
+L48:
+L49: Location
+L50:
+L51: 1 vacancy in the following location:
+L52:
+L53: Rockville, MD
+L54:
+L55: Work site options
+L56:
+L57: Telework eligible
+L58:     Yes—as determined by the agency policy.
+L59:
+L60: Remote job
+L61:     No
+L62:
+L63: Relocation expenses reimbursed
+L64:     Yes—You may qualify for reimbursement of relocation expenses in accordance with agency policy.
+L65:
+L66: Salary
+L67:     $70,623 - $158,322 per year
+L68:
+L69: Pay scale & grade
+L70:
+L71:
+L72: GG 9 - 13
+L73:
+L74: Promotion potential
+L75:     13
+L76: 【12†Learn more about pay scale and grade†usajobshelp.opm.gov】
+L77:
+L78: Pay scale and grade determines the salary of the job.
+L79:
+L80: Work schedule
+L81:     Full-time
+L82:
+L83: Travel Required
+L84:     Occasional travel - You may be expected to travel for this position.
+L85:
+L86: Appointment type
+L87:     Permanent
+L88:
+L89: Occupations and job series
+L90:
+L91:   * 【13†0501 Financial Administration And Program】
+L92:
+L93: Supervisory status
+L94:     No
+L95:
+L96: Federal service type
+L97:     This job is in the Excepted Service
+L98:
+L99: Represented by a union
+L100:     No
+L101:
+L102: Drug test
+L103:     Yes
+L104: Security clearance
+L105:     L Access Authorization
+L106:
+L107: Position sensitivity and risk
+L108:     【14†Noncritical-Sensitive (NCS)/Moderate Risk†usajobshelp.opm.gov】
+L109:
+L110: Jobs require a 【14†background check†usajobshelp.opm.gov】 and some require a 【14†security clearance†usajobshelp.opm.gov】. The type depends on the job.
+L111:
+L112: Background check type
+L113:
+L114:   * 【14†Credentialing†usajobshelp.opm.gov】
+L115:   * 【14†Suitability/Fitness†usajobshelp.opm.gov】
+L116:   * 【14†National security†usajobshelp.opm.gov】
+L117:
+L118: Financial disclosure required
+L119:     No
+L120: Some jobs require 【15†financial disclosure†usajobshelp.opm.gov】 to identify conflicts of interests.
+L121:
+L122: Announcement number
+L123:     IMP-13095310-27-EM
+L124:
+L125: Control number
+L126:     889960700
+L127: ## This job is open to
+L128:
+L129: 【16†Help†usajobshelp.opm.gov】
+L130:
+L131: 【17†Internal to an agency Current federal employees of the hiring agency that posted the job announcement.】
+L132:
+L133: ### Clarification from the agency
+L134:
+L135: Applications will be accepted from current employees of the U.S. Nuclear Regulatory Commission on a permanent or competitive term appointment only.
+L136: ## Duties
+L137:
+L138: 【18†Help†usajobshelp.opm.gov】
+L139:
+L140: The successful candidate will perform the full range of the duties of a Financial Analyst for the Strategic Technology and Enterprise Portfolio Governance Division (STEPG) Division
+L141: IT Financial Strategy and Investment Branch (IFSIB) Branch.
+L142: Such duties include but are not limited to:
+L143:   * Provides guidance, and ensures the overall integration of the IT/IM resources for budget formulation per fiscal year using a collaborative approach.
+L144:   * Provides guidance, and ensures the overall integration of the IT/IM resources for budget formulation per fiscal year using a collaborative approach.
+L145:   * Serves as the OCIO liaison with program offices and/or business lines. Supports briefings to OEDO staff, Regional offices, OMB and other government agencies on matters related to IT/IM budget formulation and execution.
+L146:   * Supports short-term and long-term analysis of agency resource allocation decisions.
+L147:   * Assist with planning, monitoring, and analysis of the agency's IT budget for the Prior Year, Current Year Budget, Budget Year, and Budget Year + 1. Works with headquarters and regional offices to identify the resources required to support IT and IM activities for formulation.
+L148:   * Supports financial analyses and evaluations of resource allocation proposals of all types to ensure the most favorable cost-benefit trade-offs for NRC. Such duties include the collaborating in development of reports presenting.
+L149:   * Contributes to topics or areas affecting OCIO's policies and objectives which require analysis and recommends that they be pursued. Coordinates resultant study by breaking problems into manageable segments; identifies available resources within and outside the agency to apply to these segments; schedules completion of assigned tasks and is responsible for the final product.
+L150:   * Analyzes requests from the Offices for new or improved OCIO services, equipment, and products. Confers with requesting office staff to determine the nature and level of support required, resource impacts, and the relative priority of requests to other activities.
+L151:   * Utilizes Excel and the agency Budget Formulation System (BFS) and OMB MAX system to update data.
+L152:   * Utilizes the Strategic Acquisitions System (STAQS) to review and validate submitted requisitions and ensure consistency with the enacted IT budget.
+L153:   * Utilizes the agency Financial Accounting and Integrated Management Information System (FAIMIS), BFS Spend Plan Application, and BFS to obtain data for execution analysis and reporting.
+L154:   * Assists in creating, maintaining, and disseminating complex budget reports and analyses using standard office productivity tools, including spreadsheet, database, and presentation software.
+L155:   * Supports the work of interoffice or interagency Task groups.
+L156: ## Requirements
+L157:
+L158: 【19†Help†usajobshelp.opm.gov】
+L159:
+L160: ### Conditions of employment
+L161:
+L162: You must meet the qualifications for this position by no later than 30 calendar days after the closing date of this announcement and before placement in the position.
+L163:
+L164: All information in your resume must be true and accurate.
+L165:
+L166: Conditions of Employment:
+L167:
+L168:   * This is a Drug Testing position
+L169:   * Must be able to meet and maintain security & suitability requirements.
+L170: ### Qualifications
+L171: In order to qualify for this position, you must have at least one year of specialized experience at the next lower grade level in the Federal service or equivalent experience in the private or public sector.
+L172: SPECIALIZED EXPERIENCE at the GG-9 is defined as performing routine financial analysis and supporting budget formulation and execution activities in a federal or organizational environment. This includes compiling and analyzing financial data, supporting the preparation and review of IT investment business cases, using financial systems and software tools, and assisting with studies or audits of programmatic and resource management issues.
+--------------------------------------------------------------------------------
+USAJOBS - Job Announcement (https://www.usajobs.gov/job/890676500)
+citeturn40view3 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.usajobs.gov/job/890676500","lineno":null}); Total lines: 483
+L0: 【0†Skip to main content】
+L1:
+L2: 【1†Image: U.S. flag】
+L3:
+L4: [Button: An official website of the United States government ]
+L5:
+L6: [Button: MENU ]
+L7:
+L8: 【2†Back to results】
+L9:
+L10:
+L11:
+L12: 【3†Apply】
+L13:
+L14: Print
+L15:
+L16: Share
+L17:
+L18: Save
+L19:
+L20:   * 【4†Summary】
+L21:   * 【5†This job is open to】
+L22:   * 【6†Duties】
+L23:   * 【7†Requirements】
+L24:   * 【8†How you will be evaluated】
+L25:   * 【9†Required documents】
+L26:   * 【10†How to apply】
+L27: ## Summary
+L28:
+L29: The Division of Trading and Markets (TM) is seeking a Financial Economist - Crypto Assets and Novel Products. As a Financial Economist - Crypto Assets and Novel Products, you will work with colleagues in other offices within TM and other Divisions and Offices at the SEC on initiatives related to the development or modification of market rules and regulations and the review of rules proposed by self-regulatory organizations related to the structure and operation of securities markets.
+L30: [Button: Learn more about this agency ]
+L31: ## Summary
+L32:
+L33: The Division of Trading and Markets (TM) is seeking a Financial Economist - Crypto Assets and Novel Products. As a Financial Economist - Crypto Assets and Novel Products, you will work with colleagues in other offices within TM and other Divisions and Offices at the SEC on initiatives related to the development or modification of market rules and regulations and the review of rules proposed by self-regulatory organizations related to the structure and operation of securities markets.
+L34: [Button: Learn more about this agency ]
+L35: ## Overview
+L36:
+L37: 【11†Help†usajobshelp.opm.gov】
+L38:
+L39: Accepting applications
+L40:
+L41: Location
+L42:
+L43: 1 vacancy in the following location:
+L44:
+L45: Washington, DC
+L46:
+L47: Work site options
+L48:
+L49: Telework eligible
+L50:     No
+L51:
+L52: Remote job
+L53:     No
+L54:
+L55: Relocation expenses reimbursed
+L56:     No
+L57:
+L58: Salary
+L59:     $174,859 - $292,300 per year
+L60:
+L61: Pay scale & grade
+L62:
+L63:
+L64: SK 16
+L65:
+L66: Promotion potential
+L67:     16
+L68:
+L69: 【12†Learn more about pay scale and grade†usajobshelp.opm.gov】
+L70:
+L71: Pay scale and grade determines the salary of the job.
+L72:
+L73: Work schedule
+L74:     Full-time
+L75: Travel Required
+L76:     Occasional travel - You may be expected to travel for this position.
+L77:
+L78: Appointment type
+L79:     Permanent
+L80:
+L81: Occupations and job series
+L82:
+L83:   * 【13†0110 Economist】
+L84:
+L85: Supervisory status
+L86:     No
+L87:
+L88: Federal service type
+L89:     This job is in the Competitive Service
+L90:
+L91: Represented by a union
+L92:     Yes
+L93:
+L94: Drug test
+L95:     No
+L96:
+L97: Security clearance
+L98:     Other
+L99:
+L100: Position sensitivity and risk
+L101:     【14†High Risk (HR)†usajobshelp.opm.gov】
+L102: Jobs require a 【14†background check†usajobshelp.opm.gov】 and some require a 【14†security clearance†usajobshelp.opm.gov】. The type depends on the job.
+L103:
+L104: Background check type
+L105:
+L106:   * 【14†Suitability/Fitness†usajobshelp.opm.gov】
+L107:
+L108: Financial disclosure required
+L109:     Yes
+L110:
+L111:
+L112: Some jobs require 【15†financial disclosure†usajobshelp.opm.gov】 to identify conflicts of interests.
+L113:
+L114: Announcement number
+L115:     27-IN-13103411-LS
+L116:
+L117: Control number
+L118:     890676500
+L119: ## This job is open to
+L120:
+L121: 【16†Help†usajobshelp.opm.gov】
+L122:
+L123: 【17†Internal to an agency Current federal employees of the hiring agency that posted the job announcement.】
+L124:
+L125: ### Clarification from the agency
+L126:
+L127: Well-qualified surplus/displaced SEC employees ((i.e. CTAP) in the local area and current SEC employees in permanent competitive service positions (i.e. status candidates)
+L128: ## Duties
+L129:
+L130: 【18†Help†usajobshelp.opm.gov】
+L131:
+L132: In this role as a Financial Economist - Crypto Assets and Novel Products, you will be responsible for:
+L133:   * Advising OAR, Division, and Commission leadership on developments in securities market structure, drawing on research and/or experience working in markets.
+L134:   * Serving as a principal investigator or subject matter expert on data-intensive research efforts on matters related to the operations and structure of financial markets using large, complex data sets.
+L135:   * Developing, or leading the development of, tools and applications, including visualizations and dashboards, that provide SEC staff and leadership with insights into the state and functioning of markets.
+L136:   * Developing and presenting analytical products that are clear and easily understood by staff who may not have extensive technical or quantitative backgrounds, to inform SEC policy choices or identify emerging issues, trends, and risks that may merit SEC action.
+L137:   * Advising others on best practices for effective communication of complex, quantitative analysis to policy-makers.
+L138:   * Advising OAR leadership on matters related to data, technology, and quantitative methods, including potential new data sets to acquire, selection and development of technology for querying and analyzing data, and best practices for the conduct of quantitative analysis.
+L139:   * Engaging with staff throughout the Commission, market participants, and other regulators to maintain up-to-date knowledge of market practices and dynamics, and advise staff in other TM offices with respect to market practices, developments in market structure, and market data bearing on policy initiatives.
+L140:   * OAR staff research contributes to the clarification of issues and contributes an analytical and transparent basis for policy choices. OAR staff may collaborate on examinations and in enforcement matters as subject-matter experts. Staff in OAR also conduct research and analysis to identify emerging issues, trends, and risks that may affect the fair, orderly, and efficient operation of markets.
+L141: Work in support of this area of focus ranges from the development of market monitoring tools to the conduct of original market structure research. OAR staff typically has frequent discussions with a wide variety of market participants and external experts as part of gathering details on given topics and initiatives
+L142: ## Requirements
+L143:
+L144: 【19†Help†usajobshelp.opm.gov】
+L145: ### Conditions of employment
+L146:   * CITZENSHIP: You must be a US Citizen.
+L147:   * SELECTIVE SERVICE: Males born after 12/31/59 must be registered or exempt from Selective Service (see https://www.sss.gov/).
+L148:   * DRUG TESTING: This position may be subjected to drug testing requirements.
+L149:   * PERMANENT CHANGE OF STATION (PCS): Moving/Relocation expenses are not authorized.
+L150:   * DIRECT DEPOSIT: All Federal employees are required to have Federal salary payments made by direct deposit to a financial institution of their choosing.
+L151:   * The selectee is required to report to the duty station(s) listed.
+L152: ### Qualifications
+L153: Time-in-grade for this announcement is one year at the GS/SK-14 level.
+L154: Applicants are responsible for confirming all required materials are submitted by the closing date of the announcement. Please check the How You Will Be Evaluated and Required Documents sections carefully, as missing documents will render the application incomplete and ineligible for review.

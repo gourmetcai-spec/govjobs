@@ -1,0 +1,31 @@
+{
+  "employer": "United States Sentencing Commission",
+  "title": "Software Engineering and Data Automation Specialist",
+  "requisition_id": "27-01",
+  "location": "Washington, DC",
+  "salary": "$102,415–$187,093 per year; JS-12–14",
+  "hiring_path": "Open to the public",
+  "fit": "Java/Python, relational databases, integration, analytical platforms and data-intensive engineering overlap.",
+  "gaps": "Official posting dates unknown. Production Python applications with secure development, document/PDF parsing or OCR, ETL/ELT, automated testing/logging/monitoring/recovery and precise specialized-experience scope require evidence. Baseline Python skill listing and Java platform delivery do not establish every mandatory requirement.",
+  "canonical_url": "https://www.usajobs.gov/job/888547100",
+  "application_url": "https://www.usajobs.gov/job/888547100",
+  "posted_date": null,
+  "posted_date_evidence": "No verified official opening date in retrieved text; not treated as eligible.",
+  "retrieved_at": "2026-11-02T01:18:48.041747+00:00",
+  "remote_restrictions": "Not remote; listed DMV duty station. Telework subject to agency policy.",
+  "control_number": "888547100",
+  "status": "needs_verification",
+  "aliases": [],
+  "discovery_window": [
+    "2026-09-01",
+    "2026-11-01"
+  ],
+  "open_evidence": "Official announcement reports Accepting applications; saved in tracking/runs/2026-11-01-federal-step1-redo/ussc-web.txt",
+  "id": "16f54e578b2089d3",
+  "step": 1,
+  "selected": false,
+  "submitted": false,
+  "artifacts": {},
+  "resume_status": "not_generated_verification_required",
+  "resume_review": "Not generated; mandatory gaps/date or hiring-path blocker."
+}

@@ -1,0 +1,16 @@
+{
+  "step": 1,
+  "window": [
+    "2026-09-01",
+    "2026-11-01"
+  ],
+  "remaining": [
+    "Resume native USAJOBS pagination when usable; no source exhausted cursor established.",
+    "Complete current official FDIC/OCC/SEC agency vacancy enumeration and repeat all search tracks across DC/MD/VA.",
+    "Resolve mandatory requirements and original posting dates for new CFTC/USSC/BEA leads and existing needs_verification roles.",
+    "Confirm missing candidate hours/week, exact employment days where required, CIA GPA and ICE qualifying coursework; regenerate later resume versions only when verified facts arrive."
+  ],
+  "current_resume_version": 2,
+  "preserve_v1": true,
+  "portal_actions": 0
+}

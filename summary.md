@@ -7,6 +7,8 @@ Create a reusable agent skill for Xuewu Cai's daily incremental job search and s
 Workspace: `/Volumes/WD512x2/home/gourmetcai/project/govjobs`.
 GitHub: `git@github.com:gourmetcai-spec/govjobs.git`, remote `origin`, branch `main` tracking `origin/main`.
 
+Resume format preference (2026-11-01): use `Xuewu-Cai-Resume-CFTC-Systems-Risk-Analyst-889991400.pdf` as a compact one-page layout/concision reference. Keep `resume-xuewu.cai.pdf` as the factual baseline; select supported relevant bullets and retain versions. Reference-only claims do not establish new candidate facts. Current tailored documents use v2; read the live ledger/queue for current job counts and status.
+
 ## User requirements
 
 - Search major job sites for jobs posted within the past two months that match the candidate's background. Interpret this as two calendar months, inclusive, in America/New_York.

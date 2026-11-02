@@ -1,0 +1,60 @@
+{
+  "date": "2026-11-01",
+  "window": [
+    "2026-09-01",
+    "2026-11-01"
+  ],
+  "queries": [
+    {
+      "q": "site:usajobs.gov/job/ financial quantitative mortgage capital planning Washington Maryland Virginia after:2026-09-01"
+    },
+    {
+      "q": "site:usajobs.gov/job/ software Java Python APPSW Maryland Virginia Washington after:2026-09-01"
+    },
+    {
+      "q": "site:usajobs.gov/job/ AI engineer forward deployed artificial intelligence Washington after:2026-09-01"
+    },
+    {
+      "q": "\"889991400\" \"Open Date\""
+    },
+    {
+      "q": "site:usajobs.gov/job/ (\"financial engineering\" OR \"quantitative\") (\"Washington\" OR \"Maryland\" OR \"Virginia\") after:2026-09-01"
+    },
+    {
+      "q": "site:usajobs.gov/job/ (\"mortgage\" OR \"credit risk\" OR \"MBS\") after:2026-09-01"
+    },
+    {
+      "q": "site:usajobs.gov/job/ (\"banking\" OR \"capital planning\" OR \"portfolio\") (\"Washington\" OR \"Maryland\" OR \"Virginia\") after:2026-09-01"
+    },
+    {
+      "q": "site:usajobs.gov/job/ (\"software engineer\" OR \"computer scientist\" OR \"Java\" OR \"Python\") (\"Washington\" OR \"Maryland\" OR \"Virginia\") after:2026-09-01"
+    },
+    {
+      "q": "site:usajobs.gov/job/ (\"IT Specialist\" OR \"enterprise technology\") (\"Washington\" OR \"Maryland\" OR \"Virginia\") after:2026-09-01"
+    },
+    {
+      "q": "site:usajobs.gov/job/ (\"AI engineer\" OR \"artificial intelligence\") (\"Washington\" OR \"Maryland\" OR \"Virginia\") after:2026-09-01"
+    },
+    {
+      "q": "site:usajobs.gov/job/ \"forward deployed\" after:2026-09-01"
+    },
+    {
+      "q": "site:usajobs.gov/job/ (\"investment technology\" OR \"financial risk\" OR \"trading systems\") after:2026-09-01"
+    },
+    {
+      "q": "\"888547100\" \"Open Date\""
+    },
+    {
+      "q": "\"889991400\" \"Systems Risk\" \"2026\""
+    },
+    {
+      "q": "\"889752600\" \"Open Date\""
+    },
+    {
+      "q": "\"889254700\" \"Head of Tech Finance\""
+    }
+  ],
+  "query_attempts": 16,
+  "pagination": "Native APPSW Maryland and financial Washington page 1 attempted; source responses saved in dates-and-sources-web.txt. No reliable pagination exhaustion established.",
+  "limits": "One search-index response per query; batch responses may truncate at 40000 characters; per-query result counts unavailable. Saved visible evidence only. Official source dates control eligibility; index date filters are discovery aids."
+}

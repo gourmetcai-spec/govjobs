@@ -11,7 +11,7 @@
   "canonical_url": "https://www.usajobs.gov/job/891052100",
   "application_url": "https://www.usajobs.gov/job/891052100",
   "posted_date_evidence": "Federalgovernmentjobs mirror lists October 30–November 13. Official announcement confirms November 13 deadline and accepting applications; official opening date not exposed by retrieved text.",
-  "retrieved_at": "2026-11-02T00:53:12.615092+00:00",
+  "retrieved_at": "2026-11-02T01:18:48.041747+00:00",
   "status": "needs_verification",
   "aliases": [],
   "discovery_window": [
@@ -19,7 +19,7 @@
     "2026-11-01"
   ],
   "remote_restrictions": "Not remote; DMV duty station offered. Confirm telework policy in official job description.",
-  "open_evidence": "Official USAJOBS announcement retrieved through web tool and reports Accepting applications; recheck at Step 2.",
+  "open_evidence": "Refreshed official USAJOBS page reports Accepting applications; scope and prior mandatory gaps retained. Evidence: tracking/runs/2026-11-01-federal-step1-redo/refresh-web.txt and existing0/1-web.txt.",
   "hiring_path": "Open to the public",
   "control_number": "891052100",
   "id": "4e066be541ca1382",
@@ -28,14 +28,59 @@
   "submitted": false,
   "artifacts": {
     "resume_markdown": {
-      "path": "applications/2026-11-01__immigration-and-customs-enforcement__operations-research-analyst__4e066be541ca1382/resume-xuewu-cai__immigration-and-customs-enforcement__operations-research-analyst__891052100__v1.md",
-      "sha256": "15de06f8136b64f01f99b64c6226a080d45d5631e11a649323a3ccc2d0de62d8"
+      "path": "applications/2026-11-01__immigration-and-customs-enforcement__operations-research-analyst__4e066be541ca1382/resume-xuewu-cai__immigration-and-customs-enforcement__operations-research-analyst__891052100__v2.md",
+      "sha256": "13a1ad703f8a552d733f9daa60caca95d47a058effa46fe6a1e632669aeec077"
     },
     "resume_pdf": {
-      "path": "applications/2026-11-01__immigration-and-customs-enforcement__operations-research-analyst__4e066be541ca1382/resume-xuewu-cai__immigration-and-customs-enforcement__operations-research-analyst__891052100__v1.pdf",
-      "sha256": "fd891ce471392dbb4c06b4475f71eda36ee4a9f0f7544b9623dcbf2ca86c2037"
+      "path": "applications/2026-11-01__immigration-and-customs-enforcement__operations-research-analyst__4e066be541ca1382/resume-xuewu-cai__immigration-and-customs-enforcement__operations-research-analyst__891052100__v2.pdf",
+      "sha256": "3357ea242975333e9401636c1a749313eac082986d36c8e1bca8fd45344eb9d8"
     }
   },
   "resume_status": "draft_missing_required_facts",
-  "resume_review": "Text extraction passed; all 20 baseline experience bullets preserved; all 2 pages rendered with PDFKit and visually reviewed without clipping, overlap or blank pages. Draft pending required candidate facts and job eligibility evidence in match.md."
+  "resume_review": "One selectable-text page; all pages rendered with PDFKit and visually compared with the CFTC template. No clipping, overlap or blank pages; original v1 files and hashes preserved. Draft pending required candidate facts and applicable eligibility evidence.",
+  "artifact_versions": [
+    {
+      "version": 1,
+      "artifacts": {
+        "resume_markdown": {
+          "path": "applications/2026-11-01__immigration-and-customs-enforcement__operations-research-analyst__4e066be541ca1382/resume-xuewu-cai__immigration-and-customs-enforcement__operations-research-analyst__891052100__v1.md",
+          "sha256": "15de06f8136b64f01f99b64c6226a080d45d5631e11a649323a3ccc2d0de62d8"
+        },
+        "resume_pdf": {
+          "path": "applications/2026-11-01__immigration-and-customs-enforcement__operations-research-analyst__4e066be541ca1382/resume-xuewu-cai__immigration-and-customs-enforcement__operations-research-analyst__891052100__v1.pdf",
+          "sha256": "fd891ce471392dbb4c06b4475f71eda36ee4a9f0f7544b9623dcbf2ca86c2037"
+        }
+      },
+      "resume_review": "Text extraction passed; all 20 baseline experience bullets preserved; all 2 pages rendered with PDFKit and visually reviewed without clipping, overlap or blank pages. Draft pending required candidate facts and job eligibility evidence in match.md."
+    },
+    {
+      "version": 2,
+      "artifacts": {
+        "resume_markdown": {
+          "path": "applications/2026-11-01__immigration-and-customs-enforcement__operations-research-analyst__4e066be541ca1382/resume-xuewu-cai__immigration-and-customs-enforcement__operations-research-analyst__891052100__v2.md",
+          "sha256": "13a1ad703f8a552d733f9daa60caca95d47a058effa46fe6a1e632669aeec077"
+        },
+        "resume_pdf": {
+          "path": "applications/2026-11-01__immigration-and-customs-enforcement__operations-research-analyst__4e066be541ca1382/resume-xuewu-cai__immigration-and-customs-enforcement__operations-research-analyst__891052100__v2.pdf",
+          "sha256": "3357ea242975333e9401636c1a749313eac082986d36c8e1bca8fd45344eb9d8"
+        }
+      },
+      "format_reference": {
+        "path": "Xuewu-Cai-Resume-CFTC-Systems-Risk-Analyst-889991400.pdf",
+        "sha256": "f8578722dc05958941002529af5e850ca68da321fd7b69544f705b8826c7484d",
+        "source": "User instruction on 2026-11-01: redo Step 1 using this more concise resume format",
+        "usage": "Layout and concision reference only; resume-xuewu.cai.pdf remains the factual baseline",
+        "layout": "Compact one-page layout when requirements fit: short summary, grouped competencies, selected relevant bullets, employer/title with right-aligned dates, compact education/languages. Use a second page only when necessary for mandatory evidence; obey announcement limits."
+      }
+    }
+  ],
+  "resume_version": 2,
+  "format_reference": {
+    "path": "Xuewu-Cai-Resume-CFTC-Systems-Risk-Analyst-889991400.pdf",
+    "sha256": "f8578722dc05958941002529af5e850ca68da321fd7b69544f705b8826c7484d",
+    "source": "User instruction on 2026-11-01: redo Step 1 using this more concise resume format",
+    "usage": "Layout and concision reference only; resume-xuewu.cai.pdf remains the factual baseline",
+    "layout": "Compact one-page layout when requirements fit: short summary, grouped competencies, selected relevant bullets, employer/title with right-aligned dates, compact education/languages. Use a second page only when necessary for mandatory evidence; obey announcement limits."
+  },
+  "last_step1_refresh": "2026-11-01-federal-step1-redo"
 }

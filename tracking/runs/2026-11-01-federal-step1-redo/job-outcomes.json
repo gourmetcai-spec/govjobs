@@ -1,0 +1,85 @@
+[
+  {
+    "id": "37b6987b5275b4da",
+    "outcome": "refreshed_existing",
+    "status": "needs_verification"
+  },
+  {
+    "id": "3d76836137888cac",
+    "outcome": "refreshed_existing",
+    "status": "needs_verification"
+  },
+  {
+    "id": "412d3b1f8d050ddc",
+    "outcome": "refreshed_existing",
+    "status": "needs_verification"
+  },
+  {
+    "id": "4e066be541ca1382",
+    "outcome": "refreshed_existing",
+    "status": "needs_verification"
+  },
+  {
+    "id": "8efc2d80781bcd7c",
+    "outcome": "refreshed_existing",
+    "status": "skipped"
+  },
+  {
+    "id": "9cbfa96ef355b22e",
+    "outcome": "refreshed_existing",
+    "status": "skipped"
+  },
+  {
+    "id": "a5af83ea7ba6d744",
+    "outcome": "refreshed_existing",
+    "status": "eligible"
+  },
+  {
+    "id": "db244e9a2dfdce0b",
+    "outcome": "refreshed_existing",
+    "status": "needs_verification"
+  },
+  {
+    "id": "e1953172ea90c8a7",
+    "outcome": "refreshed_existing",
+    "status": "needs_verification"
+  },
+  {
+    "id": "fa28275048f3ce60",
+    "outcome": "refreshed_existing",
+    "status": "needs_verification"
+  },
+  {
+    "id": "faa484188f9b969a",
+    "outcome": "refreshed_existing",
+    "status": "needs_verification"
+  },
+  {
+    "id": "f720af72449c48a0",
+    "employer": "Commodity Futures Trading Commission",
+    "title": "Systems Risk Analyst",
+    "outcome": "new",
+    "status": "needs_verification"
+  },
+  {
+    "id": "16f54e578b2089d3",
+    "employer": "United States Sentencing Commission",
+    "title": "Software Engineering and Data Automation Specialist",
+    "outcome": "new",
+    "status": "needs_verification"
+  },
+  {
+    "id": "48ee9a40e142e566",
+    "employer": "Bureau of Economic Analysis",
+    "title": "IT Specialist (Policy and Planning)",
+    "outcome": "new",
+    "status": "needs_verification"
+  },
+  {
+    "id": "b6f24c3fd93797f0",
+    "employer": "Social Security Administration",
+    "title": "Head of Tech Finance",
+    "outcome": "new",
+    "status": "skipped"
+  }
+]

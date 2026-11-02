@@ -1,0 +1,1295 @@
+USAJOBS - Job Announcement (https://www.usajobs.gov/job/888547100)
+citeturn30search0 [wordlim: 200] Crawled: today; Washington, DC ... Remote job ...   * Software Development: Experience developing and maintaining production Python applications using modular design, source control, testing, documentation, and secure development practices.
+
+## Summary
+
+The Commission is seeking a Software Engineering and Data Automation Specialist who will work within the Information Systems team of the Office of Administration and Technology. The incumbent will design, develop, integrate, and maintain applications, data-processing workflows, data warehouse solutions, and analytics systems, with an emphasis on document and data extraction, processing, transformation, validation, integration, and automation.
+
+## Overview
+
+Help
+
+Accepting applications
+
+Location
+
+1 vacancy in the following location:
+
+Washington, DC
+
+Work site options
+
+Telework eligible
+    Yes—as determined by the agency policy.
+
+Remote job
+    No
+
+Relocation expenses reimbursed
+    No
+
+Salary
+    $102,415 - $187,093 per year
+
+Pay scale & grade
+
+
+JS 12 - 14
+
+Promotion potential
+    14
+
+Learn more about pay scale and grade
+
+Pay scale and grade determines the salary of the job.
+
+Work schedule
+    Full-time
+
+Travel Required
+    Not required
+
+The Software Engineering and Data Automation Specialist will work within the Information Systems team of the Office of Administration and Technology to support the research and operational work of the United States Sentencing Commission. The incumbent will design, develop, integrate, and maintain applications, data-processing workflows, data warehouse solutions, and analytics systems, with an emphasis on document and data extraction, processing, transformation, validation, integration, and automation.
+The position encompasses both modernization projects and ongoing support of existing systems. Assignments may include leading or supporting document extraction, data transformation, database integration, reporting, and application maintenance, with responsibilities varying according to project priorities, operational needs, and team expertise. The incumbent will collaborate with technical staff and subject-matter experts to develop shared knowledge of the Commission's data, business rules, and systems. The ideal candidate will be passionate about data and technology, possess strong analytical and problem-solving skills, and enjoy developing practical solutions to complex data and automation challenges.
+The incumbent will:
+
+  * Analyze business and user requirements and design, develop, implement, and maintain software solutions supporting data collection, document processing, data integration, business intelligence, and analytics.
+  * Design and develop Python applications and automated pipelines to ingest and process PDFs, scanned documents, databases, and other structured and unstructured data sources.
+  * Develop and enhance OCR, text parsing, regular-expression, and document-layout techniques. Segment documents into meaningful sections or chunks while preserving context, document identifiers, and source locations needed for subsequent processing and review.
+  * Collaborate with subject-matter experts to define, document, implement, and test coding rules that transform extracted information into standardized data elements. Address exceptions, conflicting information, and ambiguous results through documented validation and review procedures.
+  * Develop and maintain SQL and Oracle PL/SQL solutions for data transformation, validation, reconciliation, loading, and integration with operational databases and data warehouses.
+## Requirements
+
+Help
+
+### Conditions of employment
+
+MANDATORY QUALIFICATION REQUIREMENTS
+Applicants must have:
+
+  * An undergraduate degree from an accredited university or college in information technology or a related field of study.
+  * A minimum of three (3) years of application development experience to qualify for JS-12.
+  * At least one (1) year of specialized experience equivalent to the next lower level of the grade for which they are applying. For example, to qualify for the JS-13, one (1) year of specialized experience must have been at the GS-12 level or equivalent.
+
+### Qualifications
+
+Specialized Experience:
+
+  * Software Development: Experience developing and maintaining production Python applications using modular design, source control, testing, documentation, and secure development practices.
+  * Data Processing and Transformation: Experience using relational databases to transform, validate, reconcile, and load data, and translating business requirements and documented coding rules into maintainable software.
+
+  * Oracle databases, SQL and PL/SQL development, data modeling, query optimization, and enterprise data integration.
+  * Advanced document processing, including OCR, layout analysis, context-preserving segmentation, and extraction from varied or complex document formats.
+  * Applied machine learning, natural-language processing, or LLM-based information extraction, including evaluation of accuracy, error analysis, and workflows for human review.
+  * Locally hosted AI models or application deployment in air-gapped, restricted-network, or other controlled environments.
+  * Data warehouses, business intelligence, analytics, and application support, including tools such as ODI, OAS/OBIEE, Oracle APEX, or comparable platforms.
+  * AI-enabled database and application capabilities, including vector search or integration of models through APIs, where relevant to document processing and data analysis.
+CONDITIONS OF EMPLOYMENT
+
+  * The selected applicant must reside in or relocate to the Washington DC Metropolitan area.
+--------------------------------------------------------------------------------
+USAJOBS - Job Announcement (https://www.usajobs.gov/job/890068400)
+citeturn30search1 [wordlim: 200] Crawled: today; This Job Opportunity Announcement may be used to fill other IT Specialist (Applications Software), ZP-2210-3 positions within the Bureau of Economic Analysis in the same geographical location with the same qualifications and specialized experience.
+
+## Summary
+
+This vacancy is for a/an IT Specialist (Applications Software) position in the located at the Bureau of Economic Analysis.
+This Job Opportunity Announcement may be used to fill other IT Specialist (Applications Software), ZP-2210-3 positions within the Bureau of Economic Analysis in the same geographical location with the same qualifications and specialized experience.
+
+## Overview
+
+Help
+
+Accepting applications
+
+Location
+
+FEW vacancies in the following location:
+
+Suitland, MD
+
+Work site options
+
+Telework eligible
+    Yes—as determined by the agency policy.
+
+Remote job
+    No
+
+Relocation expenses reimbursed
+    No
+
+Salary
+    $85,447 - $133,142 per year
+
+Pay scale & grade
+
+
+ZP 3
+
+Promotion potential
+    None
+
+Learn more about pay scale and grade
+
+Pay scale and grade determines the salary of the job.
+
+Work schedule
+    Full-time
+
+Travel Required
+    Not required
+
+Appointment type
+    Permanent
+
+Occupations and job series
+
+  * 2210 Information Technology Management
+--------------------------------------------------------------------------------
+USAJOBS - Job Announcement (https://www.usajobs.gov/job/887093300)
+citeturn30search2 [wordlim: 200] Crawled: 2 weeks ago; This position is located in Division of Risk Management Supervision Capital Markets, Accounting, and Policy Branch, Exam Support Section and is responsible for providing support in all pertinent matters relating to policy and supervision for capital markets risk, capital markets risk management techniques, and the economic and regulatory capital requirements of financial institutions. ... Washington, DC ... Remote job ... If you haven’t already, register and establish a USAJOBS account. ... An applicant may submit a complaint, or any other information, to the agency within 30 calendar days of the date of alleged non-compliance by contacting the Federal Deposit Insurance Corporation’s Human Resources Staffing Policy and Accountability team at FairChanceAct@fdic.gov
+
+## Summary
+
+This position is located in Division of Risk Management Supervision Capital Markets, Accounting, and Policy Branch, Exam Support Section and is responsible for providing support in all pertinent matters relating to policy and supervision for capital markets risk, capital markets risk management techniques, and the economic and regulatory capital requirements of financial institutions.
+Additional selections may be made from this announcement to fill identical vacancies that arise later.
+
+## Summary
+
+This position is located in Division of Risk Management Supervision Capital Markets, Accounting, and Policy Branch, Exam Support Section and is responsible for providing support in all pertinent matters relating to policy and supervision for capital markets risk, capital markets risk management techniques, and the economic and regulatory capital requirements of financial institutions.
+Additional selections may be made from this announcement to fill identical vacancies that arise later.
+
+## Overview
+
+Help
+
+Accepting applications
+
+Location
+
+1 vacancy in the following location:
+
+Washington, DC
+
+Work site options
+
+Telework eligible
+    Yes—Yes—as determined by the agency policy.
+
+Remote job
+    No
+
+Relocation expenses reimbursed
+    No
+
+Salary
+    $133,964 - $257,500 per year
+
+Pay scale & grade
+
+
+CG 13 - 14
+
+Promotion potential
+    14
+
+Learn more about pay scale and grade
+
+Pay scale and grade determines the salary of the job.
+
+Work schedule
+    Full-time
+
+Travel Required
+    Occasional travel - You may be expected to travel for this position.
+
+Appointment type
+    Permanent
+
+Occupations and job series
+
+  * 0570 Financial Institution Examining
+
+Supervisory status
+    No
+
+Federal service type
+    This job is in the Competitive Service
+
+Represented by a union
+    Yes
+
+Drug test
+    No
+
+Security clearance
+    Other
+
+Position sensitivity and risk
+    Moderate Risk (MR)
+
+Jobs require a background check and some require a security clearance. The type depends on the job.
+
+Background check type
+
+  * Credentialing
+  * Suitability/Fitness
+
+Financial disclosure required
+    Yes
+
+
+Some jobs require financial disclosure to identify conflicts of interests.
+
+Announcement number
+    2026-RMS-B0353
+
+Control number
+    887093300
+
+FDIC Human Resources Branch
+3501 Fairfax Drive
+HRB (PA-1730-5007)
+Arlington, Virginia 22226
+United States
+
+## Summary
+
+This position is located in Division of Risk Management Supervision Capital Markets, Accounting, and Policy Branch, Exam Support Section and is responsible for providing support in all pertinent matters relating to policy and supervision for capital markets risk, capital markets risk management techniques, and the economic and regulatory capital requirements of financial institutions.
+Additional selections may be made from this announcement to fill identical vacancies that arise later.
+
+[Button: Learn more about this agency ]
+
+## Overview
+
+Help
+
+Accepting applications
+
+Location
+
+1 vacancy in the following location:
+
+Washington, DC
+
+Work site options
+
+Telework eligible
+    Yes—Yes—as determined by the agency policy.
+
+Remote job
+    No
+
+Relocation expenses reimbursed
+    No
+
+Salary
+    $133,964 - $257,500 per year
+
+Pay scale & grade
+
+
+CG 13 - 14
+
+Promotion potential
+--------------------------------------------------------------------------------
+USAJOBS - Job Announcement (https://www.usajobs.gov/job/855330700)
+citeturn30search3 [wordlim: 200] Crawled: today; IT Specialist (APPSW), JAVA Angular Full Stack Web Application Developer positions are being filled through the Office of Personnel Management's delegated Direct Hire Authority, open to all U.S. citizens. ... Remote job
+
+## Summary
+
+IT Specialist (APPSW), JAVA Angular Full Stack Web Application Developer positions are being filled through the Office of Personnel Management's delegated Direct Hire Authority, open to all U.S. citizens. Selections made will be processed as new appointments to the civil service. Current civil service employees would, therefore, be given new appointments to the civil service. Under the provisions of the Direct Hire Authority, Veterans Preference and the "Rule of Many" do not apply.
+
+Accepting applications
+
+Location
+
+Many vacancies in the following location:
+
+Woodlawn, MD
+
+Work site options
+
+Telework eligible
+    No
+
+Remote job
+    No
+
+Relocation expenses reimbursed
+    No
+
+Salary
+    $121,785 - $197,200 per year
+
+Pay scale & grade
+
+
+GS 13 - 15
+
+Promotion potential
+    None
+
+Learn more about pay scale and grade
+
+Pay scale and grade determines the salary of the job.
+
+Work schedule
+    Full-time - Flextime and Alternative Work Schedule are available
+
+Travel Required
+--------------------------------------------------------------------------------
+USAJOBS - Job Announcement (https://www.usajobs.gov/job/890572600)
+citeturn30search4 [wordlim: 200] Crawled: today; About the Position: The IT Specialist (APPSW/INET) provides support to Naval Health Clinic Quantico in Washington, DC, helping ensure consistent, high-quality patient care and facility operations. ... Remote job ...   * Advise management concerning state-of-the-art techniques, software, and hardware.
+
+## Summary
+
+About the Position: The IT Specialist (APPSW/INET) provides support to Naval Health Clinic Quantico in Washington, DC, helping ensure consistent, high-quality patient care and facility operations.
+This is a Direct Hire Solicitation
+
+## Summary
+
+About the Position: The IT Specialist (APPSW/INET) provides support to Naval Health Clinic Quantico in Washington, DC, helping ensure consistent, high-quality patient care and facility operations.
+This is a Direct Hire Solicitation
+
+## Overview
+
+Help
+
+Accepting applications
+
+Location
+
+1 vacancy in the following location:
+
+Quantico, VA
+
+Work site options
+
+Telework eligible
+    Yes—as determined by the agency policy.
+
+Remote job
+    No
+
+Relocation expenses reimbursed
+    No
+
+Salary
+    $102,415 - $133,142 per year
+
+Pay scale & grade
+
+
+GS 12
+
+Promotion potential
+    None
+
+Learn more about pay scale and grade
+
+Pay scale and grade determines the salary of the job.
+
+Work schedule
+    Full-time
+--------------------------------------------------------------------------------
+USAJOBS - Job Announcement (https://www.usajobs.gov/job/890206200)
+citeturn30search5 [wordlim: 200] Crawled: today; You will serve as a FINANCIAL MANAGEMENT ANALYST in the DEPARTMENT OF NAVY, MCICOM of MARCORPS NATIONAL CAPITAL REGION. ...   * Must be a US Citizen. ... To learn more about E-Verify, including your rights and responsibilities, visit e-verify.gov ... Depending on the hiring organization and the position being filled, job requirements (e.g., security clearance, travel, drug testing, financial disclosure filing, bargaining unit status, etc.) may vary.
+
+## Summary
+
+You will serve as a FINANCIAL MANAGEMENT ANALYST in the DEPARTMENT OF NAVY, MCICOM of MARCORPS NATIONAL CAPITAL REGION.
+
+## Overview
+
+Help
+
+Accepting applications
+
+This job will close when we have received 50 applications which may be sooner than the closing date. Learn more
+
+Location
+
+3 vacancies in the following location:
+
+Arlington, VA
+
+Work site options
+
+Telework eligible
+    Yes—as determined by the agency policy.
+
+Remote job
+    No
+
+Relocation expenses reimbursed
+    Yes—You may qualify for reimbursement of relocation expenses in accordance with agency policy.
+
+Salary
+    $121,785 - $158,322 per year
+
+Pay scale & grade
+
+
+GS 13
+
+Promotion potential
+    None
+
+Learn more about pay scale and grade
+
+Pay scale and grade determines the salary of the job.
+
+Work schedule
+    Full-time
+
+Travel Required
+    Occasional travel - You may be expected to travel for this position.
+
+Appointment type
+    Permanent
+--------------------------------------------------------------------------------
+USAJOBS - Job Announcement (https://www.usajobs.gov/job/885040000)
+citeturn30search6 [wordlim: 200] Crawled: yesterday; Washington, DC ... Remote job ... All US Citizens ...   * Applying advanced economic concepts and methods to the evaluation of federal financial rules and policies, including their impact on individuals, businesses, market efficiency, competition, and capital formation. ...   * Designing, implementing, and maintaining quantitative and qualitative models to risk-rank market participants, financial entities, and market events, providing decision-ready assessments of systemic vulenerabilities.
+  * Planning, organizing, and prioritizing tasks to address needs, emerging issues, and meet timelines, while working collaboratively and flexibly with multi-disciplinary team members, including lawyers, data analysts, and finance policy experts.
+
+## Summary
+
+The Division of Economic and Risk Analysis is seeking applicants to fill several Financial Economist positions. As a Financial Economist, you will be part of a team that has a track record of creative thinking, strong empirical research abilities, and excellent communication skills. We seek individuals with a keen interest in finance, securities markets and public policy.
+
+## Overview
+
+Help
+
+Accepting applications
+
+Location
+
+Washington, DC
+
+many vacancies
+
+Work site options
+
+Telework eligible
+    No
+
+Remote job
+    No
+
+Relocation expenses reimbursed
+    No
+
+Salary
+    $200,157 - $225,943 per year
+
+Starting salary is based on experience. The range is listed for informational purposes. Initial pay will be set below the maximum. See more below.
+
+Pay scale & grade
+
+
+SK 14
+
+Promotion potential
+    14
+
+Learn more about pay scale and grade
+
+Pay scale and grade determines the salary of the job.
+
+Work schedule
+    Full-time
+
+Travel Required
+
+### Clarification from the agency
+
+All US Citizens
+
+## Duties
+
+Help
+
+In this role as a Financial Economist, you will be responsible for:
+
+  * Applying advanced economic concepts and methods to the evaluation of federal financial rules and policies, including their impact on individuals, businesses, market efficiency, competition, and capital formation.
+  * Analyzing economic, financial, and administrative data to assess the efficiency and effectiveness of federal financial and securities regulations and policies.
+  * Designing, implementing, and maintaining quantitative and qualitative models to risk-rank market participants, financial entities, and market events, providing decision-ready assessments of systemic vulenerabilities.
+  * Planning, organizing, and prioritizing tasks to address needs, emerging issues, and meet timelines, while working collaboratively and flexibly with multi-disciplinary team members, including lawyers, data analysts, and finance policy experts.
+  * Discussing, evaluating economic research, comments, and analysis authored by federal agencies, international organizations, standard setting bodies, academics and other experts to determine their relevance and implications for federal financial rules and policies, or broadly systemic risk.
+  * Providing economic guidance and research expertise to a broad range of activities, including federal policy, rule-making, enforcement actions, market risk assessment, and other regulatory initiatives, with opportunities to specialize in policy areas.
+  * Reviewing draft analyses and reports to ensure accuracy, precision, and clarity of presentation of economic issues and data.
+
+
+--------------------------------------------------------------------------------
+USAJOBS - Job Announcement (https://www.usajobs.gov/job/890304000)
+citeturn30search7 [wordlim: 200] Crawled: today; NET, HTML, C#, JavaScript, SQL Server, Sharepoint; installing/configuring software; monitoring/optimizing performance; security compliance; change management; documentation. ... This job will close when we have received 100 applications which may be sooner than the closing date.
+
+## Summary
+
+The ideal candidate for this position will have experience developing web applications using Visual Studio, .NET, HTML, C#, JavaScript, SQL Server, Sharepoint; installing/configuring software; monitoring/optimizing performance; security compliance; change management; documentation.
+
+## Summary
+
+The ideal candidate for this position will have experience developing web applications using Visual Studio, .NET, HTML, C#, JavaScript, SQL Server, Sharepoint; installing/configuring software; monitoring/optimizing performance; security compliance; change management; documentation.
+
+## Overview
+
+Help
+
+Accepting applications
+
+This job will close when we have received 100 applications which may be sooner than the closing date. Learn more
+
+Location
+
+1 vacancy in the following location:
+
+Emmitsburg, MD
+
+Work site options
+
+Telework eligible
+    Yes—as determined by the agency policy.
+
+Remote job
+    No
+
+Relocation expenses reimbursed
+    No
+
+Salary
+--------------------------------------------------------------------------------
+USAJOBS - Job Announcement (https://hrmanagement.usajobs.gov/job/855330700)
+citeturn30search8 [wordlim: 200] Crawled: today; IT Specialist (APPSW), JAVA Angular Full Stack Web Application Developer positions are being filled through the Office of Personnel Management's delegated Direct Hire Authority, open to all U.S. citizens. ... Remote job ... Developing object-oriented software that interfaces with Relational databases and leverages Continuous Integration/Continuous Delivery technology to comply with modern development standards. ... Qualification standards and additional information for this position can be found here: http://www.opm.gov/policy-data-oversight/classification-qualifications/general-schedule-qualification-standards/2200/information-technology-it-management-series-2210-alternative-a/
+
+## Summary
+
+IT Specialist (APPSW), JAVA Angular Full Stack Web Application Developer positions are being filled through the Office of Personnel Management's delegated Direct Hire Authority, open to all U.S. citizens. Selections made will be processed as new appointments to the civil service. Current civil service employees would, therefore, be given new appointments to the civil service. Under the provisions of the Direct Hire Authority, Veterans Preference and the "Rule of Many" do not apply.
+
+## Overview
+
+Accepting applications
+
+Location
+
+Many vacancies in the following location:
+
+Woodlawn, MD
+
+Work site options
+
+Telework eligible
+    No
+
+Remote job
+    No
+
+Relocation expenses reimbursed
+    No
+
+Salary
+    $121,785 - $197,200 per year
+
+Pay scale & grade
+
+
+GS 13 - 15
+
+Promotion potential
+    None
+
+Learn more about pay scale and grade
+
+Pay scale and grade determines the salary of the job.
+
+Work schedule
+    Full-time - Flextime and Alternative Work Schedule are available
+
+--------------------------------------------------------------------------------
+USAJOBS - Job Announcement (https://www.usajobs.gov/job/889628700)
+citeturn30search9 [wordlim: 200] Crawled: today; The Senior Super Intelligence Engineer / Architect serves as the Department's senior technical authority and strategic leader for Super Intelligence (SI). ... This job will close when we have received 150 applications which may be sooner than the closing date. ... Provides authoritative technical expertise on advanced AI system architecture, lifecycle engineering, and solution design. ... Ensures consistent, secure, and efficient AI development and deployment practices across DOI bureaus. ... To verify registration visit SSS.gov.
+
+## Summary
+
+This position reports directly to the Chief Information Officer at the Department of the Interior. The Senior Super Intelligence Engineer / Architect serves as the Department's senior technical authority and strategic leader for Super Intelligence (SI).The minimum pay is $151,661 with salary considerations based on the selectee's current salary and other factors.
+Location negotiable will be any DOI Office.
+
+Accepting applications
+
+This job will close when we have received 150 applications which may be sooner than the closing date. Learn more
+
+1 vacancy in the following location:
+
+Location Negotiable After Selection
+
+Work site options
+
+Telework eligible
+    Yes—as determined by the agency policy.
+
+Remote job
+    No
+
+Relocation expenses reimbursed
+    Yes—You may qualify for reimbursement of relocation expenses in accordance with agency policy.
+
+Salary
+    $151,661 - $228,000 per year
+
+SL 00
+
+Promotion potential
+    00
+
+Work schedule
+    Full-time
+
+Travel Required
+
+### Clarification from the agency
+
+This is a Merit Promotion announcement for current and former career and career conditional Federal employees, Career Transition eligibles (CTAP & ICTAP) and those who are eligible under the hiring paths listed above. Refer to Required Documents section for more information.
+
+The position is located in the Office of the Chief Information Officer at the Department of the Interior (Department) and reports to the Chief Information Officer.
+The incumbent carries out the following specific responsibilities:
+
+1. Serve as DOI's Senior Most SI Technical Architect
+Provides authoritative technical expertise on advanced AI system architecture, lifecycle engineering, and solution design. Ensures architectural decisions align with DOI's enterprise IT and data ecosystems, Federal directives, and mission needs.
+2. Lead Development of Enterprise-Scale SI Architectures
+Designs, validates, and evolves scalable AI models, pipelines, cloud environments, and computational platforms. Ensures interoperability, performance optimization, and compliance with enterprise architecture frameworks and Departmental mission requirements.
+--------------------------------------------------------------------------------
+USAJOBS - Job Announcement (https://www.usajobs.gov/job/887355600)
+citeturn30search10 [wordlim: 200] Crawled: today; Washington, DC ... Remote job ... The Real Property Budget and Financial Management Analyst will play a pivotal role on a multidisciplinary team composed of Judiciary staff and contractors who will support the strategic planning efforts for the Judiciary's pursuit of seeking real property and legislative authorities both owned and leased buildings within the Judiciary. ... Coordinating with subject matter experts to formulate multi-year budgets based on plan options related to the proposed transfer of buildings, contracts, surveys, drawings, projects to the Judiciary.
+
+## Summary
+
+The Real Property Budget and Financial Management Analyst position is in the Administrative Office of the U.S. Courts (AO), Department of Administrative Services, Facilities and Security Office (FSO). FSO manages, oversees, and supports security, emergency preparedness, and space and facilities programs for the AO, courts, and other judiciary offices. FSO also provides administrative services within the Thurgood Marshall Federal Judiciary Building.
+
+## Overview
+
+Help
+
+Accepting applications
+
+Location
+
+1 vacancy in the following location:
+
+Washington, DC
+
+Work site options
+
+Telework eligible
+    Yes—as determined by the agency policy.
+
+Remote job
+    No
+
+Relocation expenses reimbursed
+    No
+
+Salary
+    $169,292 - $209,600 per year
+
+Pay scale & grade
+
+
+AD 00
+
+Promotion potential
+    00
+
+Learn more about pay scale and grade
+
+Pay scale and grade determines the salary of the job.
+
+Work schedule
+    Full-time
+
+Travel Required
+    50% or less - You may be expected to travel for this position.
+This vacancy is open to the public. This position allows for recurring and situational telework but does not qualify for full-time or remote telework. The duty station is in the Thurgood Marshal Federal Judiciary Building at One Columbus Circle NE in Washington, DC, across the street from Union Station with easy access to Metro (red line), VRE, MARC, and Amtrak.
+
+## Duties
+
+Help
+
+The Administrative Office of the U.S. Courts (AO), Department of Administrative Services, Facilities and Security Office is seeking a dynamic, high energy, and exceptional Real Property Budget and Financial Management Analyst to join its team.
+The Real Property Budget and Financial Management Analyst will play a pivotal role on a multidisciplinary team composed of Judiciary staff and contractors who will support the strategic planning efforts for the Judiciary's pursuit of seeking real property and legislative authorities both owned and leased buildings within the Judiciary. This position reports to the Chief, Real Property Asset Planning.
+--------------------------------------------------------------------------------
+USAJOBS - Search (https://www.usajobs.gov/Search/?k=appsw&p=1)
+citeturn30search11 [wordlim: 200] Crawled: last month; We may use a different job title or description than what you are searching for. ... US ARMY HUMAN RESOURCES COMMAND (DRU) • Department of the Army ... ## IT Project Manager (APPSW) ... Woodlawn, Maryland ... Washington, District of Columbia ... Pentagon, Arlington, Virginia
+## Please refine your search
+
+We couldn't find any results. Try refining your search.
+
+## No jobs found
+
+### Other search suggestions:
+
+  * Check your spelling.
+  * Use more generic keywordsOpens in a new window or fewer keywords.
+  * Use the filters to broaden or narrow your search. Expand the Show options with 0 jobs to see more options.
+  * Review the Opens in a new windowfederal occupation titles. We may use a different job title or description than what you are searching for.
+
+## IT SPECIALIST (APPSW)
+
+Naval Education and Training Command • Department of the Navy
+
+Naval Air Station Pensacola, Florida
+
+Open 09/30/2026 to 10/05/2026
+
+Internal to an agency
+
+Show 6 more
+
+Internal to an agency
+
+Career transition (CTAP, ICTAP, RPL)
+
+Land and base management
+
+Veterans
+
+Military spouses
+
+Individuals with disabilities
+
+Special authorities
+
+Show less
+
+Starting at $106,437 Per year (GS 13)Permanent Full-time
+
+Save job
+
+## IT SPECIALIST (APPSW)
+
+US ARMY HUMAN RESOURCES COMMAND (DRU) • Department of the Army
+
+Fort Knox, Kentucky
+
+Open 09/24/2026 to 10/07/2026
+
+Internal to an agency
+
+Show 4 more
+
+Internal to an agency
+
+Career transition (CTAP, ICTAP, RPL)
+
+Land and base management
+
+Veterans
+
+Military spouses
+
+Show less
+
+Starting at $106,437 Per year (GS 13)Permanent Full-time
+
+Save job
+
+## IT Specialist (APPSW)
+
+Defense Logistics Agency • Department of Defense
+
+Battle Creek, Michigan + 7 location(s)
+
+Open 09/30/2026 to 10/09/2026
+
+Open to the public
+
+Starting at $89,508 Per year (GS 12)Permanent Full-time
+
+Save job
+
+## IT Project Manager (APPSW)
+
+Defense Logistics Agency • Department of Defense
+
+Battle Creek, Michigan + 7 location(s)
+
+Open 09/22/2026 to 10/02/2026
+
+Internal to an agency
+
+Show 4 more
+
+Internal to an agency
+
+Career transition (CTAP, ICTAP, RPL)
+
+Veterans
+
+Military spouses
+
+Individuals with disabilities
+
+Show less
+
+Starting at $89,508 Per year (GS 12)Permanent - Multiple Appointment Types Full-time
+
+Save job
+
+## IT Specialist (APPSW) - .NET - DHA
+
+Social Security Administration • Other Agencies and Independent Organizations
+
+Denver, Colorado + 4 location(s)
+
+Open 04/15/2026 to 10/12/2026
+
+Open to the public
+
+Show 1 more
+
+Open to the public
+
+Career transition (CTAP, ICTAP, RPL)
+
+Show less
+
+Starting at $90,925 Per year (GS 13-14)Permanent Full-time - Flex Time
+
+Save job
+
+## IT SPECIALIST (APPSW)
+
+Social Security Administration • Other Agencies and Independent Organizations
+
+Woodlawn, Maryland
+
+Open 08/24/2026 to 02/13/2027
+
+Open to the public
+
+Show 1 more
+
+Open to the public
+
+Career transition (CTAP, ICTAP, RPL)
+
+Show less
+
+Starting at $58,193 Per year (GS 7-12)Permanent Full-time
+
+Save job
+
+## IT Specialist (APPSW)
+
+Deputy Assistant Secretary for Information and Technology • Department of Veterans Affairs
+
+Location Negotiable After Selection (20 locations)
+
+Open 09/29/2026 to 10/08/2026
+
+Open to the public
+
+Show 1 more
+
+Open to the public
+
+Career transition (CTAP, ICTAP, RPL)
+
+Show less
+
+Starting at $106,437 Per year (GS 13)Permanent Full-time
+
+Save job
+
+## IT SPECIALIST (APPSW)
+
+Defense Finance and Accounting Service • Department of Defense
+
+Indianapolis, Indiana + 2 location(s)
+
+Open 09/22/2026 to 10/05/2026
+
+Open to the public
+
+Starting at $90,341 Per year (GS 12)Permanent Full-time
+
+Save job
+
+## IT Specialist (SYSANALYSIS/APPSW)
+
+Patent and Trademark Office • Department of Commerce
+
+Alexandria, Virginia
+
+Open 09/23/2026 to 10/02/2026
+
+Open to the public
+
+Show 1 more
+
+Open to the public
+
+Career transition (CTAP, ICTAP, RPL)
+
+Show less
+
+Starting at $70,623 Per year (GS 9-13)Permanent Full-time
+
+Save job
+
+## IT Specialist (SYSANALYSIS/APPSW)
+
+Patent and Trademark Office • Department of Commerce
+
+Alexandria, Virginia
+
+Open 09/23/2026 to 10/02/2026
+
+Competitive service
+
+Show 7 more
+
+Competitive service
+
+Career transition (CTAP, ICTAP, RPL)
+
+Veterans
+
+Military spouses
+
+National Guard and reserves
+
+Individuals with disabilities
+
+Peace Corps & AmeriCorps Vista
+
+Special authorities
+
+Show less
+
+Starting at $70,623 Per year (GS 9-13)Permanent Full-time
+
+Save job
+
+## Information Technology Specialist (APPSW/DTMG) (DE)
+
+Department of Education Headquarters • Department of Education
+
+Washington, District of Columbia
+
+Open 09/29/2026 to 10/12/2026
+
+Open to the public
+
+Show 1 more
+
+Open to the public
+
+Career transition (CTAP, ICTAP, RPL)
+
+Show less
+
+Starting at $143,913 Per year (GS 14)Permanent Full-time
+
+Save job
+
+## Information Technology Specialist (APPSW/DTMG) (MP)
+
+Department of Education Headquarters • Department of Education
+
+Washington, District of Columbia
+
+Open 09/29/2026 to 10/12/2026
+
+Competitive service
+
+Show 7 more
+
+Competitive service
+
+Career transition (CTAP, ICTAP, RPL)
+
+Land and base management
+
+Veterans
+
+Military spouses
+
+Individuals with disabilities
+
+Peace Corps & AmeriCorps Vista
+
+Special authorities
+
+Show less
+
+Starting at $143,913 Per year (GS 14)Permanent Full-time
+
+Save job
+
+## IT CYBERSECURITY SPECIALIST (APPSW)
+
+Defense Finance and Accounting Service • Department of Defense
+
+Indianapolis, Indiana + 3 location(s)
+
+Open 09/22/2026 to 10/05/2026
+
+Open to the public
+
+Starting at $89,508 Per year (GS 12)Permanent Full-time
+
+Save job
+
+## IT Specialist (APPSW) - COBOL Developer
+
+Social Security Administration • Other Agencies and Independent Organizations
+
+Woodlawn, Maryland
+
+Open 09/28/2026 to 10/02/2026
+
+Internal to an agency
+
+Starting at $121,785 Per year (GS 13)Permanent Full-time - Flex time and alternate schedules may be available.
+
+Save job
+
+## SUPERVISORY IT SPECIALIST (APPSW/SYSANALYSIS)
+
+HQ USAF and Support Elements • Department of the Air Force
+
+Pentagon, Arlington, Virginia
+
+Open 09/29/2026 to 10/12/2026
+
+Competitive service
+
+Show 8 more
+
+Competitive service
+
+Excepted service
+
+Career transition (CTAP, ICTAP, RPL)
+
+Land and base management
+
+Veterans
+
+Military spouses
+
+Individuals with disabilities
+
+Family of overseas employees
+
+Peace Corps & AmeriCorps Vista
+
+Show less
+
+Starting at $143,913 Per year (GS 14)Permanent Full-time
+
+Save job
+
+## INFORMATION TECHNOLOGY SPECIALIST (APPSW) (STEM)
+
+Defense Intelligence Agency • Department of Defense
+
+Molesworth, United Kingdom
+
+Open 09/16/2026 to 09/30/2026
+
+Open to the public
+
+Show 3 more
+
+Open to the public
+
+Excepted service
+
+Veterans
+
+National Guard and reserves
+
+Show less
+
+Starting at $105,262 Per year (GG 11)Permanent Full-time - Full Time
+
+Save job
+
+## IT CYBERSECURITY SPECIALIST (APPSW/INFOSEC)
+
+Defense Finance and Accounting Service • Department of Defense
+
+Indianapolis, Indiana + 1 location(s)
+
+Open 09/23/2026 to 10/06/2026
+
+Competitive service
+
+Show 3 more
+
+Competitive service
+
+Career transition (CTAP, ICTAP, RPL)
+
+Veterans
+
+Military spouses
+
+Show less
+
+Starting at $90,341 Per year (GS 12)Permanent Full-time
+
+Save job
+
+## IT Cybersecurity Specialist (APPSW/INFOSEC)
+
+Defense Information Systems Agency • Department of Defense
+
+Joint Base Anacostia-Bolling, District of Columbia
+
+Open 09/30/2026 to 10/06/2026
+
+Open to the public
+
+Starting at $121,785 Per year (GG 13)Permanent Full-time
+
+Save job
+
+## COMPUTER SCIENCE INTERN
+
+Defense Finance and Accounting Service • Department of Defense
+
+Indianapolis, Indiana + 2 location(s)
+
+Open 09/30/2026 to 11/02/2026
+
+Students
+
+Starting at $17.82 Per hour (GS 4)Internships Full-time
+
+Save job
+
+## INFORMATION TECHNOLOGY INTERN
+
+Defense Finance and Accounting Service • Department of Defense
+
+Indianapolis, Indiana + 2 location(s)
+
+Open 09/30/2026 to 11/02/2026
+
+Students
+
+Starting at $17.82 Per hour (GS 4)Internships Full-time
+
+Save job
+
+## Kafka Engineer
+
+Social Security Administration • Other Agencies and Independent Organizations
+
+Woodlawn, Maryland
+
+Open 02/05/2026 to 10/31/2026
+
+Open to the public
+
+Show 1 more
+
+Open to the public
+
+Career transition (CTAP, ICTAP, RPL)
+
+Show less
+
+Starting at $143,913 Per year (GS 14-15)Permanent Full-time - Flextime and Alternate Work Schedules are available
+
+Save job
+
+## Solutions Architect
+
+Social Security Administration • Other Agencies and Independent Organizations
+
+Woodlawn, Maryland
+
+Open 02/06/2026 to 10/31/2026
+
+Open to the public
+
+Show 1 more
+
+Open to the public
+
+Career transition (CTAP, ICTAP, RPL)
+
+Show less
+
+Starting at $143,913 Per year (GS 14-15)Permanent Full-time - - Flex Time and Alternate Work Schedules available
+
+Save job
+
+## COBOL Developer
+
+Social Security Administration • Other Agencies and Independent Organizations
+
+Woodlawn, Maryland
+
+Open 03/05/2026 to 10/31/2026
+
+Open to the public
+
+Show 1 more
+
+Open to the public
+
+Career transition (CTAP, ICTAP, RPL)
+
+Show less
+
+Starting at $143,913 Per year (GS 14-15)Permanent Full-time
+
+Save job
+
+## Network Architect-DHA
+
+Social Security Administration • Other Agencies and Independent Organizations
+
+Denver, Colorado + 4 location(s)
+
+Open 03/06/2026 to 10/31/2026
+
+Open to the public
+
+Show 1 more
+
+Open to the public
+
+Career transition (CTAP, ICTAP, RPL)
+
+Show less
+
+Starting at $126,384 Per year (GS 15)Permanent Full-time
+
+Save job
+
+## Infrastructure Engineer - DHA
+
+Social Security Administration • Other Agencies and Independent Organizations
+
+Woodlawn, Maryland
+
+Open 03/09/2026 to 10/31/2026
+
+Open to the public
+
+Show 1 more
+
+Open to the public
+
+Career transition (CTAP, ICTAP, RPL)
+
+Show less
+
+Starting at $121,785 Per year (GS 13)Permanent Full-time - Flextime and Alternate Work Schedules are available

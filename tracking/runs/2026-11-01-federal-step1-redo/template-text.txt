@@ -1,0 +1,58 @@
+XUEWU CAI  |  Page 1
+XUEWU CAI
+Trading Systems, Operational Risk & Technology Controls | FIX, Java, Python, AWS | Regulatory Reporting
+Clarksville, MD | 410-446-6815 | gourmetcai@gmail.com | linkedin.com/in/xuewu-cai-a8069664 | U.S. Citizen
+PROFESSIONAL SUMMARY
+Technology and risk leader with more than 20 years designing, operating, and overseeing the systems that support electronic trading,
+market data, and financial risk reporting. Built and led development of a multithreaded, fault-tolerant trading platform handling multiple
+asset classes and more than $3 billion in capital, and later produced SEC, CFTC, and OPERA regulatory reporting as a risk engineer.
+Today, as Director, Financial Engineering at Freddie Mac, directs large-scale analytics on AWS and IBM Symphony for
+credit-risk-transfer programs covering more than $1.6 trillion in mortgage loans, with responsibility for model governance, controls, and
+audit response. Combines hands-on engineering credibility with the examination mindset needed to assess reliability, capacity, security,
+and recovery practices at regulated entities.
+CORE COMPETENCIES
+Trading & Market Systems: electronic trading platforms, FIX connectivity, order routing, market data feeds, time-series infrastructure
+System Safeguards: reliability and failover design, capacity and performance planning, business continuity and recovery, change and
+release controls
+Risk & Controls: operational and model risk, control testing, reconciliation, audit and regulatory examination response
+Regulatory Reporting: SEC, CFTC, and OPERA reporting; SOFR transition; CECL; capital and stress testing
+Engineering: Java, Python, C/C++, MATLAB, SQL, Docker, AWS, IBM Symphony, QuantLib, automated testing
+Stakeholder Communication: examination findings, technical documentation, executive briefings, cross-agency coordination
+PROFESSIONAL EXPERIENCE
+ Director, Financial Engineering — Freddie Mac
+ May 2014 – Present
+McLean, VA | Credit Risk Transfer (STACR / ACIS) | Full-time
+ Direct large-scale financial analytics on AWS and IBM Symphony for STACR and ACIS programs covering more than $1.6 trillion in
+mortgage loans, with production controls, reconciliation, and audit-ready documentation.
+ Own model and analytics governance for transaction-critical systems: version control, validation, change management, and response
+to internal audit and regulatory inquiries.
+ Led the LIBOR-to-SOFR transition across CRT models and analytics — translating regulatory requirements into engineering controls,
+test plans, and remediation.
+ Deliver transaction economics and risk measurement (duration, convexity, OAS, KRDs, capital, ROE) that depend on reliable,
+high-volume automated cash-flow and valuation systems.
+ Apply generative AI and agentic engineering to accelerate delivery while maintaining control, traceability, and review standards.
+ Partner with risk, finance, legal, and technology stakeholders to prioritize remediation and align system changes with policy
+requirements.
+Research Engineer / Quantitative Finance Engineer / Senior Software Engineer
+ Mar 2003 – Apr 2014
+Campbell & Company | Washington, DC–Baltimore, MD | Full-time
+Progressive engineering roles across trading systems, market data, risk reporting, and derivatives.
+ Led architecture and development of a multithreaded, fault-tolerant electronic trading platform (Java, Portware, FIX) supporting
+concurrent strategies, orders, and multiple asset classes, with more than $3 billion in capital and tens of millions of dollars in slippage
+savings.
+ Built a Java-based intraday cash equity trading system on Caché and time-series data infrastructure and market data feeds in
+MFC/C++, directly comparable to evaluating automated trading and data-reporting environments.
+ Designed and implemented risk reporting — factor analysis, scenarios, stress tests, duration, and margin — and produced SEC,
+CFTC, and OPERA regulatory reporting.
+Senior Software Engineer — Aquilent
+ Jun 1999 – Feb 2003
+Full-time | Java/Linux integration and data systems
+ Built Java/Linux sensor-integration systems, including embedded Linux deployments, JNI hardware interfaces, serial
+communications, XML instrument definitions, and dynamic sensor discovery.
+EDUCATION & PROFESSIONAL DEVELOPMENT
+M.S., Computer Science — University of Maryland, Baltimore County
+M.S., Computer Science & Engineering — Shanghai Jiao Tong University
+B.S., Applied Mathematics — Dalian University of Technology
+Professional development: CAIA (Chartered Alternative Investment Analyst) Level I
+LANGUAGES
+Chinese (native or bilingual) | English (full professional)

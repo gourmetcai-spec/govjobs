@@ -11,7 +11,7 @@
   "canonical_url": "https://www.usajobs.gov/job/883693300",
   "application_url": "https://www.usajobs.gov/job/883693300",
   "posted_date_evidence": "Official indexed AI/2210 search lists September 4–December 31; announcement confirms December 31 and weekly standing-register cutoffs.",
-  "retrieved_at": "2026-11-02T00:53:12.615092+00:00",
+  "retrieved_at": "2026-11-02T01:18:48.041747+00:00",
   "status": "needs_verification",
   "aliases": [],
   "discovery_window": [
@@ -19,7 +19,7 @@
     "2026-11-01"
   ],
   "remote_restrictions": "Not remote; DMV duty station offered. Confirm telework policy in official job description.",
-  "open_evidence": "Official USAJOBS announcement retrieved through web tool and reports Accepting applications; recheck at Step 2.",
+  "open_evidence": "Refreshed official USAJOBS page reports Accepting applications; scope and prior mandatory gaps retained. Evidence: tracking/runs/2026-11-01-federal-step1-redo/refresh-web.txt and existing0/1-web.txt.",
   "hiring_path": "Open to the public",
   "control_number": "883693300",
   "id": "37b6987b5275b4da",
@@ -28,5 +28,6 @@
   "submitted": false,
   "artifacts": {},
   "resume_status": "not_generated_verification_required",
-  "resume_review": "Not generated; unresolved mandatory requirements."
+  "resume_review": "Not generated; unresolved mandatory requirements.",
+  "last_step1_refresh": "2026-11-01-federal-step1-redo"
 }

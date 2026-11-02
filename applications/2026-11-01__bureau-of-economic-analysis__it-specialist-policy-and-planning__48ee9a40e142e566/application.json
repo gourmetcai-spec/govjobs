@@ -1,0 +1,31 @@
+{
+  "employer": "Bureau of Economic Analysis",
+  "title": "IT Specialist (Policy and Planning)",
+  "requisition_id": "27-BEA-OCIO-13094248-DE-SB",
+  "location": "Suitland, MD",
+  "salary": "$85,447–$133,142 per year; ZP-3",
+  "hiring_path": "Open to the public",
+  "fit": "IT delivery, enterprise forecasting and financial analytics adjacency.",
+  "gaps": "Official opening date unverified. Mandatory federal budgeting/CPIC, Technology Business Management, Integrated Project Teams and SharePoint administration not established. Do not substitute financial forecasting for federal IT budget execution. Merit-promotion companion 889753100 is separately screened as restricted; public route retained.",
+  "canonical_url": "https://www.usajobs.gov/job/889752600",
+  "application_url": "https://www.usajobs.gov/job/889752600",
+  "posted_date": null,
+  "posted_date_evidence": "No verified official opening date in retrieved text; not treated as eligible.",
+  "retrieved_at": "2026-11-02T01:18:48.041747+00:00",
+  "remote_restrictions": "Not remote; listed DMV duty station. Telework subject to agency policy.",
+  "control_number": "889752600",
+  "status": "needs_verification",
+  "aliases": [],
+  "discovery_window": [
+    "2026-09-01",
+    "2026-11-01"
+  ],
+  "open_evidence": "Official announcement reports Accepting applications; saved in tracking/runs/2026-11-01-federal-step1-redo/leads-web.txt",
+  "id": "48ee9a40e142e566",
+  "step": 1,
+  "selected": false,
+  "submitted": false,
+  "artifacts": {},
+  "resume_status": "not_generated_verification_required",
+  "resume_review": "Not generated; mandatory gaps/date or hiring-path blocker."
+}

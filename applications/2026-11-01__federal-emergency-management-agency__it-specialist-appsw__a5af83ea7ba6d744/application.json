@@ -11,7 +11,7 @@
   "canonical_url": "https://www.usajobs.gov/job/890584000",
   "application_url": "https://www.usajobs.gov/job/890584000",
   "posted_date_evidence": "Official USAJOBS FEMA index displays October 28–November 6; federalgovernmentjobs mirror and jobboardhq agree.",
-  "retrieved_at": "2026-11-02T00:53:12.615092+00:00",
+  "retrieved_at": "2026-11-02T01:18:48.041747+00:00",
   "status": "eligible",
   "aliases": [],
   "discovery_window": [
@@ -19,7 +19,7 @@
     "2026-11-01"
   ],
   "remote_restrictions": "Not remote; DMV duty station offered. Confirm telework policy in official job description.",
-  "open_evidence": "Official USAJOBS announcement retrieved through web tool and reports Accepting applications; recheck at Step 2.",
+  "open_evidence": "Refreshed official USAJOBS page reports Accepting applications; scope and prior mandatory gaps retained. Evidence: tracking/runs/2026-11-01-federal-step1-redo/refresh-web.txt and existing0/1-web.txt.",
   "hiring_path": "Open to the public",
   "control_number": "890584000",
   "id": "a5af83ea7ba6d744",
@@ -28,14 +28,59 @@
   "submitted": false,
   "artifacts": {
     "resume_markdown": {
-      "path": "applications/2026-11-01__federal-emergency-management-agency__it-specialist-appsw__a5af83ea7ba6d744/resume-xuewu-cai__federal-emergency-management-agency__it-specialist-appsw__890584000__v1.md",
-      "sha256": "4ce16dfd6f4b1ee5cf1ec6033dacafdd860714554a868ce11e30c76caf0a59ab"
+      "path": "applications/2026-11-01__federal-emergency-management-agency__it-specialist-appsw__a5af83ea7ba6d744/resume-xuewu-cai__federal-emergency-management-agency__it-specialist-appsw__890584000__v2.md",
+      "sha256": "1c9be9986034ef41f9aed0d5d601812d9a3e3895c51d46f58c8f67086198e868"
     },
     "resume_pdf": {
-      "path": "applications/2026-11-01__federal-emergency-management-agency__it-specialist-appsw__a5af83ea7ba6d744/resume-xuewu-cai__federal-emergency-management-agency__it-specialist-appsw__890584000__v1.pdf",
-      "sha256": "e518fac18c74b853f4a21c6c7f21d2562f97e08885128b48793399533592d07e"
+      "path": "applications/2026-11-01__federal-emergency-management-agency__it-specialist-appsw__a5af83ea7ba6d744/resume-xuewu-cai__federal-emergency-management-agency__it-specialist-appsw__890584000__v2.pdf",
+      "sha256": "396be592af7f588d34f90f2fbc77a976a5d5edfc44885fa866f5f873d7acfc42"
     }
   },
   "resume_status": "draft_missing_required_facts",
-  "resume_review": "Text extraction passed; all 20 baseline experience bullets preserved; all 2 pages rendered with PDFKit and visually reviewed without clipping, overlap or blank pages. Draft pending required candidate facts and job eligibility evidence in match.md."
+  "resume_review": "One selectable-text page; all pages rendered with PDFKit and visually compared with the CFTC template. No clipping, overlap or blank pages; original v1 files and hashes preserved. Draft pending required candidate facts and applicable eligibility evidence.",
+  "artifact_versions": [
+    {
+      "version": 1,
+      "artifacts": {
+        "resume_markdown": {
+          "path": "applications/2026-11-01__federal-emergency-management-agency__it-specialist-appsw__a5af83ea7ba6d744/resume-xuewu-cai__federal-emergency-management-agency__it-specialist-appsw__890584000__v1.md",
+          "sha256": "4ce16dfd6f4b1ee5cf1ec6033dacafdd860714554a868ce11e30c76caf0a59ab"
+        },
+        "resume_pdf": {
+          "path": "applications/2026-11-01__federal-emergency-management-agency__it-specialist-appsw__a5af83ea7ba6d744/resume-xuewu-cai__federal-emergency-management-agency__it-specialist-appsw__890584000__v1.pdf",
+          "sha256": "e518fac18c74b853f4a21c6c7f21d2562f97e08885128b48793399533592d07e"
+        }
+      },
+      "resume_review": "Text extraction passed; all 20 baseline experience bullets preserved; all 2 pages rendered with PDFKit and visually reviewed without clipping, overlap or blank pages. Draft pending required candidate facts and job eligibility evidence in match.md."
+    },
+    {
+      "version": 2,
+      "artifacts": {
+        "resume_markdown": {
+          "path": "applications/2026-11-01__federal-emergency-management-agency__it-specialist-appsw__a5af83ea7ba6d744/resume-xuewu-cai__federal-emergency-management-agency__it-specialist-appsw__890584000__v2.md",
+          "sha256": "1c9be9986034ef41f9aed0d5d601812d9a3e3895c51d46f58c8f67086198e868"
+        },
+        "resume_pdf": {
+          "path": "applications/2026-11-01__federal-emergency-management-agency__it-specialist-appsw__a5af83ea7ba6d744/resume-xuewu-cai__federal-emergency-management-agency__it-specialist-appsw__890584000__v2.pdf",
+          "sha256": "396be592af7f588d34f90f2fbc77a976a5d5edfc44885fa866f5f873d7acfc42"
+        }
+      },
+      "format_reference": {
+        "path": "Xuewu-Cai-Resume-CFTC-Systems-Risk-Analyst-889991400.pdf",
+        "sha256": "f8578722dc05958941002529af5e850ca68da321fd7b69544f705b8826c7484d",
+        "source": "User instruction on 2026-11-01: redo Step 1 using this more concise resume format",
+        "usage": "Layout and concision reference only; resume-xuewu.cai.pdf remains the factual baseline",
+        "layout": "Compact one-page layout when requirements fit: short summary, grouped competencies, selected relevant bullets, employer/title with right-aligned dates, compact education/languages. Use a second page only when necessary for mandatory evidence; obey announcement limits."
+      }
+    }
+  ],
+  "resume_version": 2,
+  "format_reference": {
+    "path": "Xuewu-Cai-Resume-CFTC-Systems-Risk-Analyst-889991400.pdf",
+    "sha256": "f8578722dc05958941002529af5e850ca68da321fd7b69544f705b8826c7484d",
+    "source": "User instruction on 2026-11-01: redo Step 1 using this more concise resume format",
+    "usage": "Layout and concision reference only; resume-xuewu.cai.pdf remains the factual baseline",
+    "layout": "Compact one-page layout when requirements fit: short summary, grouped competencies, selected relevant bullets, employer/title with right-aligned dates, compact education/languages. Use a second page only when necessary for mandatory evidence; obey announcement limits."
+  },
+  "last_step1_refresh": "2026-11-01-federal-step1-redo"
 }

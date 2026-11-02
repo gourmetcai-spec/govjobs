@@ -1,0 +1,518 @@
+USAJOBS - Job Announcement (https://www.usajobs.gov/job/887093300)
+citeturn37view0 [wordlim: 200] Crawled: 5 days ago; Content type: text/html; Source: open({"ref_id":"https://www.usajobs.gov/job/887093300","lineno":140}); Total lines: 516
+L0: 【0†Skip to main content】
+L1:
+L2: 【1†Image: U.S. flag】
+L3:
+L4: [Button: An official website of the United States government ]
+L5:
+L6: [Button: MENU ]
+L7:
+L8: 【2†Back to results】
+L9:
+L10: This job announcement has closed
+L11:
+L12: Print
+L13:
+L14:   * 【3†Summary】
+L15:   * 【4†This job is open to】
+L16:   * 【5†Duties】
+L17:   * 【6†Requirements】
+L18:   * 【7†How you will be evaluated】
+L19:   * 【8†Required documents】
+L20:   * 【9†How to apply】
+L21: ## Summary
+L22:
+L23: This position is located in Division of Risk Management Supervision Capital Markets, Accounting, and Policy Branch, Exam Support Section and is responsible for providing support in all pertinent matters relating to policy and supervision for capital markets risk, capital markets risk management techniques, and the economic and regulatory capital requirements of financial institutions.
+L24: Additional selections may be made from this announcement to fill identical vacancies that arise later.
+L25: [Button: Learn more about this agency ]
+L26: ## Summary
+L27:
+L28: This position is located in Division of Risk Management Supervision Capital Markets, Accounting, and Policy Branch, Exam Support Section and is responsible for providing support in all pertinent matters relating to policy and supervision for capital markets risk, capital markets risk management techniques, and the economic and regulatory capital requirements of financial institutions.
+L29: Additional selections may be made from this announcement to fill identical vacancies that arise later.
+L30: [Button: Learn more about this agency ]
+L31: ## Overview
+L32:
+L33: 【10†Help†usajobshelp.opm.gov】
+L34:
+L35: Reviewing applications
+L36:
+L37: Open date: 09/30/2026
+L38:
+L39: Closed date: 10/13/2026
+L40:
+L41: Location
+L42:
+L43: 1 vacancy in the following location:
+L44:
+L45: Washington, DC
+L46:
+L47: Work site options
+L48:
+L49: Telework eligible
+L50:     Yes—Yes—as determined by the agency policy.
+L51:
+L52: Remote job
+L53:     No
+L54:
+L55: Relocation expenses reimbursed
+L56:     No
+L57:
+L58: Salary
+L59:     $133,964 - $257,500 per year
+L60:
+L61: Pay scale & grade
+L62:
+L63:
+L64: CG 13 - 14
+L65:
+L66: Promotion potential
+L67:     14
+L68:
+L69: 【11†Learn more about pay scale and grade†usajobshelp.opm.gov】
+L70: Pay scale and grade determines the salary of the job.
+L71:
+L72: Work schedule
+L73:     Full-time
+L74:
+L75: Travel Required
+L76:     Occasional travel - You may be expected to travel for this position.
+L77:
+L78: Appointment type
+L79:     Permanent
+L80:
+L81: Occupations and job series
+L82:
+L83:   * 【12†0570 Financial Institution Examining】
+L84:
+L85: Supervisory status
+L86:     No
+L87:
+L88: Federal service type
+L89:     This job is in the Competitive Service
+L90:
+L91: Represented by a union
+L92:     Yes
+L93:
+L94: Drug test
+L95:     No
+L96:
+L97: Security clearance
+L98:     Other
+L99: Position sensitivity and risk
+L100:     【13†Moderate Risk (MR)†usajobshelp.opm.gov】
+L101:
+L102: Jobs require a 【13†background check†usajobshelp.opm.gov】 and some require a 【13†security clearance†usajobshelp.opm.gov】. The type depends on the job.
+L103:
+L104: Background check type
+L105:
+L106:   * 【13†Credentialing†usajobshelp.opm.gov】
+L107:   * 【13†Suitability/Fitness†usajobshelp.opm.gov】
+L108:
+L109: Financial disclosure required
+L110:     Yes
+L111:
+L112:
+L113: Some jobs require 【14†financial disclosure†usajobshelp.opm.gov】 to identify conflicts of interests.
+L114: Announcement number
+L115:     2026-RMS-B0353
+L116:
+L117: Control number
+L118:     887093300
+L119: ## This job is open to
+L120:
+L121: 【15†Help†usajobshelp.opm.gov】
+L122:
+L123: 【16†Internal to an agency Current federal employees of the hiring agency that posted the job announcement.】
+L124:
+L125: ### Clarification from the agency
+L126:
+L127: This position is open to current FDIC permanent employees with competitive status eligibility.
+L128: ## Duties
+L129:
+L130: 【17†Help†usajobshelp.opm.gov】
+L131:
+L132: At the full performance level, major duties include:
+L133:   * Serves as a subject matter expert in the development of recommendations on agency and/or interagency policy and guidance with respect to regulatory capital, liquidity, interest rate risk, capital markets instruments, activities, and strategies (including structured products, trading activities and derivatives activities); and other supervisory and examination issues.
+L134:   * Serves as a subject matter expert in the analysis and examination of bank and non-bank financial institution activities including stress testing exercises, market risk reviews, capital markets related horizontal reviews, market making and underwriting metrics, derivatives activities (including hedging), and other similar data intensive or model-based analyses.
+L135:   * Provides technical examination and supervisory guidance, advice, and assistance to RMS Washington Office management and staff, RMS regional and area office management, RMS Regional Capital Markets Specialists, other regional and area office staff, and field examination staff primarily in areas of liquidity, sensitivity to market risk, securities, regulatory capital, and other capital markets related matters.
+L136:   * Assists in the development of Division policies and revised supervisory approaches to the examinations that relate to liquidity, sensitivity to market risk, securities, regulatory capital, and other capital markets related matters.
+L137:   * Evaluates the potential impact of regulatory and capital markets changes on the general economy, the banking industry and the Deposit Insurance Fund in developing recommended actions for purposes of promoting safety and soundness or protecting the financial stability of the United States.
+L138:   * Conducts financial and capital markets research and analyses of complex financial instruments and analyzes the impact that such would have on the actions and activities of bank and non-bank financial institutions.
+L139:   * Performs research and develops analytical reports on segments of complex capital markets issues regarding capital market instruments, insured institution's use and involvement with/in capital markets and the associated risks. Analyzes the actual and potential impact of capital, earnings, liquidity and market risks to insured financial institutions.
+L140:   * Keeps abreast of trends and developments in the field of finance, economics and law related to financial institutions. Keeps abreast of trends and developments in portfolio management and trading strategies utilized by financial institutions.
+L141: ## Requirements
+L142:
+L143: 【18†Help†usajobshelp.opm.gov】
+L144:
+L145: ### Conditions of employment
+L146:
+L147: Completion Of Financial Disclosure May Be Required.
+L148:
+L149: Minimum Background Investigation (MBI) required
+L150: ### Qualifications
+L151: Qualifying experience may be obtained in the private or public sector. Experience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., Peace Corps, AmeriCorps) and other organizations (e.g., professional; philanthropic, religious/spiritual; community; student, social). Volunteer work helps build critical competencies, knowledge, and skills and can provide valuable training and experience that translates directly to paid employment.
+L152: You will receive credit for all qualifying experience, including volunteer experience. Additional qualifications information can be found 【19†here†www.opm.gov】.
+L153: CG-13: Applicants must complete one year of specialized experience equivalent to the 12 level or above in Federal service. Specialized experience is defined as:
+L154:
+L155:   * Conducting examinations of financial institutions and/or assisting in the development of, or analysis and compliance with, policies related to regulatory capital, liquidity, interest rate risk, capital markets instruments, activities, and strategies.
+L156: CG-14: Applicants must complete one year of specialized experience equivalent to the 13 level or above in Federal service. Specialized experience is defined as:
+L157:   * Conducting examinations of financial institutions and independently developing or analyzing compliance with policies related to regulatory capital, liquidity, interest rate risk, capital markets instruments, activities, and strategies; and analyzing financial institutions' capital markets activities to identify instruments or strategies posing institution-level or systemic U.S. financial risk.
+L158:
+L159: In addition to the qualification requirements above, you must meet the following selective factor:
+L160:   * Must be a commissioned FDIC Financial Institution Examiner (Risk Management) or hold a Risk Management Examiner commission from another comparable organization as determined by the FDIC.
+L161:
+L162: Applicants must have met the qualification requirements (including selective placement factors – if any) for this position within 30 calendar days of the closing date of this announcement.
+L163:
+L164: For qualification determinations, your resume must contain the following for each work experience listed:
+L165:   * Organization/Agency's Name
+L166:   * Title
+L167:   * Salary (series and grade, if applicable)
+L168:   * Start and end dates (including the month and year)
+L169:   * Number of hours you worked per week
+L170:   * Relevant experience that supports your response to the specialized experience that is stated in the job announcement
+L171:
+L172: If your resume does not contain this information, your application may be marked as incomplete, and you may not receive consideration for this position.
+L173: NOTE: Please indicate how you meet the specialized experience under each applicable position. Do not copy and paste the duties or specialized experience from this announcement into your resume as that will not be considered a demonstration of your qualifications.
+L174: ### Education
+L175:
+L176: There is no substitution of education for the experience for this position.
+L177: ### Additional information
+L178:
+L179: If selected, you may be required to serve a probationary or trial period as applicable to appointment type. During the probationary or trial period, you will be evaluated for fitness and whether your continued employment advances the public interest. In determining if your employment advances the public interest, we may consider:
+L180:   * your performance and conduct;
+L181:   * the needs and interests of the agency;
+L182:   * whether your continued employment would advance organizational goals of the agency or the Government; and
+L183:   * whether your continued employment would advance the efficiency of the Federal service.
+L184:
+L185: Upon completion of your probationary or trial period your employment will be terminated unless you receive certification, in writing, that your continued employment advances the public interest.
+L186: Financial Institution Examiners must maintain the highest personal ethical standards as provided in Part 336 of the FDIC's Rules and Regulations, (Employee Responsibilities and Conduct). Financial Institution Examiners must comply with Section 3201.102 of Supplemental Standards of Ethical Conduct for FDIC Employees (5 CFR Part 3201), which, in part, prohibits them and their immediate families from accepting certain credit from State nonmember banks.
+L187: All Financial Institution Examiners are prohibited from the following:
+L188: 1. Obtaining a loan or a line of credit from any insured state nonmember bank or its subsidiaries. Any extensions of credit held by the Examiner, the Examiner's spouse, or any dependent children are direct or indirect extensions of credit to the Examiner.
+L189: Exceptions:
+L190: a. Loans for a primary residence are permissible. The Examiner must not participate in any examination of that institution with which he holds the primary residence loan, and a "cooling off" period is required before negotiating a loan for a primary residence from any institution the Examiner has examined.
+L191: b. No restrictions on obtaining credit cards issued under the same terms and conditions available to the public from an insured state nonmember bank either within or outside of their field office of assignment.
+L192: 2. Participating in any examination, or other matter, involving an insured depository institution or any person with whom the Examiner has an outstanding loan or line of credit.
+L193: 3. Performing any service for compensation with any bank, or for any officer, director, or employee thereof, or for any person connected therewith.
+L194: 4. Disclosing any confidential information from a bank examination report except as authorized by law.
+L195: 5. Soliciting or accepting any gift from a prohibited source or because of the Examiner's official position.
+L196: Salary reflects a pay cap for this position of $257,500.
+L197:
+L198: To read about your rights and responsibilities as an applicant for Federal employment,  【20†click here†www.fdic.gov】.
+L199:
+L200: Expand Hide  additional information
+L201:
+L202: Candidates should be committed to improving the efficiency of the Federal government, passionate about the ideals of our American republic, and committed to upholding the rule of law and the United States Constitution.
+L203: # Benefits
+L204:
+L205: 【21†Help†usajobshelp.opm.gov】
+L206:
+L207: A career with the U.S. government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding. 【22†Opens in a new windowLearn more about federal benefits†usajobshelp.opm.gov】.
+L208: In addition to the regular benefits offered by Federal agencies, the FDIC offers additional benefits to its employees. These benefits, some at minimal cost, are some of the best and most competitive in both the private and public sectors.
+L209:
+L210: To find out more, 【23†click here†www.fdic.gov】.
+L211:
+L212: Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time or intermittent. Contact the hiring agency for more information on the specific benefits offered.
+L213: ## How you will be evaluated
+L214:
+L215: You will be evaluated for this job based on how well you meet the qualifications above.
+L216: Once the application process is complete, your two page resume and supporting documentation will be used to determine whether you meet the job qualifications.
+L217: Structured Resume Review: Occupational Experts (OEs) will review your resume to determine your technical qualifications for this position based on the required competencies. OEs will review ONLY your two (2) page resume. OEs will not review additional information beyond your resume (e.g., cover letter, links embedded in your resume).
+L218: If you are found qualified, your application will move forward to additional phase(s) of the review process.
+L219:
+L220: You will be assessed on the following competencies:
+L221:
+L222: Bank Supervision
+L223: Financial Regulations
+L224: Risk Management
+L225: Economics
+L226: Oral Communication
+L227: Writing
+L228:
+L229: You may 【24†preview questions†jobs.applygovt.net】 for this vacancy.
+L230: # Benefits
+L231:
+L232: 【21†Help†usajobshelp.opm.gov】
+L233:
+L234: A career with the U.S. government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding. 【22†Opens in a new windowLearn more about federal benefits†usajobshelp.opm.gov】.
+L235: In addition to the regular benefits offered by Federal agencies, the FDIC offers additional benefits to its employees. These benefits, some at minimal cost, are some of the best and most competitive in both the private and public sectors.
+L236:
+L237: To find out more, 【23†click here†www.fdic.gov】.
+L238:
+L239: Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time or intermittent. Contact the hiring agency for more information on the specific benefits offered.
+L240: # Required documents
+L241: ## Required Documents
+L242:
+L243: 【18†Help†usajobshelp.opm.gov】
+L244:
+L245: Your two (2) page resume showing all relevant work experience (paid and unpaid) including: duties performed; full name and address of each employer; start and end dates (month/year); work schedule (part-time, full-time, number of hours if intermittent); salary; and any completed education and training (program title, subject area, number of hours completed, and completion date).
+L246: FDIC EMPLOYEES: If you want to be considered non-competitively include a copy of your SF-50.  The SF-50 must show the highest grade level or full performance level applicant has attained competitively on a permanent basis, and grade must be equivalent or higher than the grade for which applying.
+L247: ### If you are relying on your education to meet qualification requirements:
+L248:
+L249: Education must be accredited by an accrediting institution recognized by the U.S. Department of Education in order for it to be credited towards qualifications. Therefore, provide only the attendance and/or degrees from 【25†schools accredited by accrediting institutions recognized by the U.S. Department of Education†www.ed.gov】.
+L250: Failure to provide all of the required information as stated in this vacancy announcement may result in an ineligible rating or may affect the overall rating.
+L251: # How to Apply
+L252:
+L253: 【26†Help†usajobshelp.opm.gov】
+L254:
+L255: To begin, click the “Apply” button and follow the prompts. If you haven’t already, register and establish a USAJOBS account. After you register online, click the “Apply” button to complete the online assessment questionnaire, and submit all required documents. Please be sure to click “Submit Application” to complete the application process. You must apply online.
+L256:
+L257: To apply for this position, you MUST provide a complete application package.
+L258: Applicants requesting an exception from the online process must contact the Human Resources Specialist or point of contact listed in this announcement prior to 12:00 noon local time on the closing date.
+L259:
+L260: To return to your saved application, log in to your 【27†USAJOBS】 account and click on “Applications” tab. Click on the “Position Title,” and then select “Update Application” or “Additional Application Information” to continue.
+L261: You have until 11:59 p.m. ET (Eastern Time) on the closing date of this announcement to complete the application process.
+L262:
+L263: Please ensure you have completed the application process by verifying the status of your application on-line to reflect: “Received”. Failure to complete the application process will result in an incomplete application and you will not be considered for the position.
+L264: ### Agency contact information
+L265:
+L266: Janeen Lazard
+L267:
+L268: Phone
+L269:     972-560-1693
+L270: TDD
+L271:     1-800-925-4618
+L272: Fax
+L273:     000-000-0000
+L274: Email
+L275:     jlazard@FDIC.gov
+L276:
+L277: Address
+L278:     Federal Deposit Insurance Corporation
+L279: FDIC Human Resources Branch
+L280: 3501 Fairfax Drive
+L281: HRB (PA-1730-5007)
+L282: Arlington, Virginia 22226
+L283: United States
+L284: ### Next steps
+L285:
+L286: You may check the status of your application on-line 24 hours a day, 7 days a week through 【27†USAJOBS】 by signing in and selecting "Application Status." Thank you for your interest in working for the Federal Deposit Insurance Corporation.
+L287: 【28†The Fair Chance Act†gcc02.safelinks.protection.outlook.com】prohibits inquiries concerning an applicant's criminal history information unless the hiring agency has made a conditional (tentative) offer of employment to the applicant.
+L288: An applicant may submit a complaint, or any other information, to the agency within 30 calendar days of the date of alleged non-compliance by contacting the Federal Deposit Insurance Corporation’s Human Resources Staffing Policy and Accountability team at FairChanceAct@fdic.gov
+L289: For more information go to 【29†FDIC Fair Chance to Compete for Jobs Act.†gcc02.safelinks.protection.outlook.com】
+L290: # Fair and transparent
+L291:
+L292: The Federal hiring process is set up to be fair and transparent. Please read the following guidance.
+L293:
+L294: 【30†Criminal history inquiries†usajobshelp.opm.gov】 【31†Equal Employment Opportunity (EEO) Policy†usajobshelp.opm.gov】
+L295:
+L296: 【32†Financial suitability†usajobshelp.opm.gov】 【33†New employee probationary period†usajobshelp.opm.gov】
+L297:
+L298: 【34†Privacy Act†usajobshelp.opm.gov】 【35†Reasonable accommodation policy†usajobshelp.opm.gov】
+L299: 【36†Selective Service†usajobshelp.opm.gov】 【37†Signature and false statements†usajobshelp.opm.gov】
+L300:
+L301: 【38†Social security number request†usajobshelp.opm.gov】
+L302: ## Required Documents
+L303:
+L304: 【18†Help†usajobshelp.opm.gov】
+L305:
+L306: Your two (2) page resume showing all relevant work experience (paid and unpaid) including: duties performed; full name and address of each employer; start and end dates (month/year); work schedule (part-time, full-time, number of hours if intermittent); salary; and any completed education and training (program title, subject area, number of hours completed, and completion date).
+L307: FDIC EMPLOYEES: If you want to be considered non-competitively include a copy of your SF-50.  The SF-50 must show the highest grade level or full performance level applicant has attained competitively on a permanent basis, and grade must be equivalent or higher than the grade for which applying.
+L308: ### If you are relying on your education to meet qualification requirements:
+L309:
+L310: Education must be accredited by an accrediting institution recognized by the U.S. Department of Education in order for it to be credited towards qualifications. Therefore, provide only the attendance and/or degrees from 【25†schools accredited by accrediting institutions recognized by the U.S. Department of Education†www.ed.gov】.
+L311: Failure to provide all of the required information as stated in this vacancy announcement may result in an ineligible rating or may affect the overall rating.
+L312: ## How to Apply
+L313:
+L314: 【26†Help†usajobshelp.opm.gov】
+L315:
+L316: To begin, click the “Apply” button and follow the prompts. If you haven’t already, register and establish a USAJOBS account. After you register online, click the “Apply” button to complete the online assessment questionnaire, and submit all required documents. Please be sure to click “Submit Application” to complete the application process. You must apply online.
+L317:
+L318: To apply for this position, you MUST provide a complete application package.
+L319: Applicants requesting an exception from the online process must contact the Human Resources Specialist or point of contact listed in this announcement prior to 12:00 noon local time on the closing date.
+L320:
+L321: To return to your saved application, log in to your 【27†USAJOBS】 account and click on “Applications” tab. Click on the “Position Title,” and then select “Update Application” or “Additional Application Information” to continue.
+L322: You have until 11:59 p.m. ET (Eastern Time) on the closing date of this announcement to complete the application process.
+L323:
+L324: Please ensure you have completed the application process by verifying the status of your application on-line to reflect: “Received”. Failure to complete the application process will result in an incomplete application and you will not be considered for the position.
+L325:
+L326: Expand Hide  how to apply
+L327: ### Agency contact information
+L328:
+L329: Janeen Lazard
+L330:
+L331: Phone
+L332:     972-560-1693
+L333: TDD
+L334:     1-800-925-4618
+L335: Fax
+L336:     000-000-0000
+L337: Email
+L338:     jlazard@FDIC.gov
+L339:
+L340: Address
+L341:     Federal Deposit Insurance Corporation
+L342: FDIC Human Resources Branch
+L343: 3501 Fairfax Drive
+L344: HRB (PA-1730-5007)
+L345: Arlington, Virginia 22226
+L346: United States
+L347: ### Next steps
+L348:
+L349: You may check the status of your application on-line 24 hours a day, 7 days a week through 【27†USAJOBS】 by signing in and selecting "Application Status." Thank you for your interest in working for the Federal Deposit Insurance Corporation.
+L350: 【28†The Fair Chance Act†gcc02.safelinks.protection.outlook.com】prohibits inquiries concerning an applicant's criminal history information unless the hiring agency has made a conditional (tentative) offer of employment to the applicant.
+L351: An applicant may submit a complaint, or any other information, to the agency within 30 calendar days of the date of alleged non-compliance by contacting the Federal Deposit Insurance Corporation’s Human Resources Staffing Policy and Accountability team at FairChanceAct@fdic.gov
+L352: For more information go to 【29†FDIC Fair Chance to Compete for Jobs Act.†gcc02.safelinks.protection.outlook.com】
+L353:
+L354: Expand Hide  next steps
+L355: ## Fair and transparent
+L356:
+L357: The Federal hiring process is set up to be fair and transparent. Please read the following guidance.
+L358:
+L359: 【30†Criminal history inquiries†usajobshelp.opm.gov】 【31†Equal Employment Opportunity (EEO) Policy†usajobshelp.opm.gov】
+L360:
+L361: 【32†Financial suitability†usajobshelp.opm.gov】 【33†New employee probationary period†usajobshelp.opm.gov】
+L362:
+L363: 【34†Privacy Act†usajobshelp.opm.gov】 【35†Reasonable accommodation policy†usajobshelp.opm.gov】
+L364: 【36†Selective Service†usajobshelp.opm.gov】 【37†Signature and false statements†usajobshelp.opm.gov】
+L365:
+L366: 【38†Social security number request†usajobshelp.opm.gov】
+L367: ## Federal Deposit Insurance Corporation
+L368:
+L369: *
+L370:
+L371: ### Agency contact information
+L372:
+L373: Janeen Lazard
+L374:
+L375: Phone
+L376:     972-560-1693
+L377: TDD
+L378:     1-800-925-4618
+L379: Fax
+L380:     000-000-0000
+L381: Email
+L382:     jlazard@FDIC.gov
+L383:
+L384: Address
+L385:     Federal Deposit Insurance Corporation
+L386: FDIC Human Resources Branch
+L387: 3501 Fairfax Drive
+L388: HRB (PA-1730-5007)
+L389: Arlington, Virginia 22226
+L390: United States
+L391:
+L392: [Input]
+L393: ## Summary
+L394:
+L395: This position is located in Division of Risk Management Supervision Capital Markets, Accounting, and Policy Branch, Exam Support Section and is responsible for providing support in all pertinent matters relating to policy and supervision for capital markets risk, capital markets risk management techniques, and the economic and regulatory capital requirements of financial institutions.
+L396: Additional selections may be made from this announcement to fill identical vacancies that arise later.
+L397: [Button: Learn more about this agency ]
+L398: ## Overview
+L399:
+L400: 【10†Help†usajobshelp.opm.gov】
+L401:
+L402: Reviewing applications
+L403:
+L404: Open date: 09/30/2026
+L405:
+L406: Closed date: 10/13/2026
+L407:
+L408: Location
+L409:
+L410: 1 vacancy in the following location:
+L411:
+L412: Washington, DC
+L413:
+L414: Work site options
+L415:
+L416: Telework eligible
+L417:     Yes—Yes—as determined by the agency policy.
+L418:
+L419: Remote job
+L420:     No
+L421:
+L422: Relocation expenses reimbursed
+L423:     No
+L424:
+L425: Salary
+L426:     $133,964 - $257,500 per year
+L427:
+L428: Pay scale & grade
+L429:
+L430:
+L431: CG 13 - 14
+L432:
+L433: Promotion potential
+L434:     14
+L435:
+L436: 【11†Learn more about pay scale and grade†usajobshelp.opm.gov】
+L437: Pay scale and grade determines the salary of the job.
+L438:
+L439: Work schedule
+L440:     Full-time
+L441:
+L442: Travel Required
+L443:     Occasional travel - You may be expected to travel for this position.
+L444:
+L445: Appointment type
+L446:     Permanent
+L447:
+L448: Occupations and job series
+L449:
+L450:   * 【12†0570 Financial Institution Examining】
+L451:
+L452: Supervisory status
+L453:     No
+L454:
+L455: Federal service type
+L456:     This job is in the Competitive Service
+L457:
+L458: Represented by a union
+L459:     Yes
+L460:
+L461: Drug test
+L462:     No
+L463:
+L464: Security clearance
+L465:     Other
+L466: Position sensitivity and risk
+L467:     【13†Moderate Risk (MR)†usajobshelp.opm.gov】
+L468:
+L469: Jobs require a 【13†background check†usajobshelp.opm.gov】 and some require a 【13†security clearance†usajobshelp.opm.gov】. The type depends on the job.
+L470:
+L471: Background check type
+L472:
+L473:   * 【13†Credentialing†usajobshelp.opm.gov】
+L474:   * 【13†Suitability/Fitness†usajobshelp.opm.gov】
+L475:
+L476: Financial disclosure required
+L477:     Yes
+L478:
+L479:
+L480: Some jobs require 【14†financial disclosure†usajobshelp.opm.gov】 to identify conflicts of interests.
+L481: Announcement number
+L482:     2026-RMS-B0353
+L483:
+L484: Control number
+L485:     887093300
+L486:
+L487: 【2†Previous result】
+L488:
+L489: 【2†Next result】
+L490: ## Your session is about to expire!
+L491:
+L492: Your USAJOBS session will expire due to inactivity in 8 minutes. Any unsaved data will be lost if you allow the session to expire. Click the button below to continue your session.
+L493:
+L494: [Button: Sign out] [Button: Stay signed in]
+L495:
+L496: [Button: Return to top]
+L497:
+L498: 【39†Image: USAJOBS footer logo】
+L499:
+L500: USAJOBS is a 【40†Opens in a new windowUnited States Office of Personnel Management†www.opm.gov】 website.
+L501: 【41†(Opens in a new window) OPM on LinkedIn†www.linkedin.com】 【42†(Opens in a new window) OPM YouTube channel†www.youtube.com】 【43†(Opens in a new window) OPM on X†x.com】
+L502:
+L503:   * 【31†Opens in a new windowEEO Policy Statement†usajobshelp.opm.gov】
+L504:   * 【35†Opens in a new windowReasonable Accommodation Policy Statement†usajobshelp.opm.gov】
+L505:   * 【44†Veterans Information】
+L506:   * 【45†Opens in a new windowLegal and Regulatory Guidance†usajobshelp.opm.gov】
+L507:   * 【46†About USAJOBS】
+L508:   * 【47†Opens in a new windowAccessibility†usajobshelp.opm.gov】
+L509:   * 【48†Opens in a new windowFOIA†www.opm.gov】
+L510:   * 【49†Opens in a new windowInspector general†www.opm.gov】
+L511:   * 【50†Opens in a new windowNo Fear Act Data†www.opm.gov】
+L512:   * 【34†Opens in a new windowPrivacy policy†usajobshelp.opm.gov】
+L513:   * 【51†Opens in a new windowReports and publications†www.opm.gov】
+L514:   * 【52†Opens in a new windowTerms and conditions†usajobshelp.opm.gov】
+L515:   * 【53†Opens in a new windowUSA.gov†www.usa.gov】

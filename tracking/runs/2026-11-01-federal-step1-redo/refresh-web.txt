@@ -1,0 +1,682 @@
+USAJOBS - Job Announcement (https://www.usajobs.gov/job/890584000)
+citeturn28view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.usajobs.gov/job/890584000","lineno":null}); Total lines: 561
+L0: 【0†Skip to main content】
+L1:
+L2: 【1†Image: U.S. flag】
+L3:
+L4: [Button: An official website of the United States government ]
+L5:
+L6: [Button: MENU ]
+L7:
+L8: 【2†Back to results】
+L9:
+L10:
+L11:
+L12: 【3†Apply】
+L13:
+L14: Print
+L15:
+L16: Share
+L17:
+L18: Save
+L19:
+L20:   * 【4†Summary】
+L21:   * 【5†This job is open to】
+L22:   * 【6†Duties】
+L23:   * 【7†Requirements】
+L24:   * 【8†How you will be evaluated】
+L25:   * 【9†Required documents】
+L26:   * 【10†How to apply】
+L27: ## Summary
+L28:
+L29: This position is located in the Resilience Federal Insurance Directorate Insurance Acquisition & Technology Division. Ideal candidate for this position will be a automation specialist with experience researching emerging technologies and prototyping low-code tools, AI workflows, dashboards, and scripts to improve NFIP operations and services.
+L30:
+L31: [Button: Learn more about this agency ]
+L32: ## Summary
+L33:
+L34: This position is located in the Resilience Federal Insurance Directorate Insurance Acquisition & Technology Division. Ideal candidate for this position will be a automation specialist with experience researching emerging technologies and prototyping low-code tools, AI workflows, dashboards, and scripts to improve NFIP operations and services.
+L35:
+L36: [Button: Learn more about this agency ]
+L37: ## Overview
+L38:
+L39: 【11†Help†usajobshelp.opm.gov】
+L40:
+L41: Accepting applications
+L42:
+L43: This job will close when we have received 110 applications which may be sooner than the closing date. 【12†Learn more†usajobshelp.opm.gov】
+L44:
+L45: Location
+L46:
+L47: 2 vacancies in the following location:
+L48:
+L49: Washington, DC
+L50:
+L51: Work site options
+L52:
+L53: Telework eligible
+L54:     Yes—as determined by the agency policy.
+L55:
+L56: Remote job
+L57:     No
+L58:
+L59: Relocation expenses reimbursed
+L60:     No
+L61:
+L62: Salary
+L63:     $121,785 - $158,322 per year
+L64:
+L65: Pay scale & grade
+L66:
+L67:
+L68: GS 13
+L69: Promotion potential
+L70:     13
+L71:
+L72: 【13†Learn more about pay scale and grade†usajobshelp.opm.gov】
+L73:
+L74: Pay scale and grade determines the salary of the job.
+L75:
+L76: Work schedule
+L77:     Full-time
+L78:
+L79: Travel Required
+L80:     25% or less - You may be expected to travel for this position.
+L81:
+L82: Appointment type
+L83:     Permanent
+L84:
+L85: Occupations and job series
+L86:
+L87:   * 【14†2210 Information Technology Management】
+L88:
+L89: Supervisory status
+L90:     No
+L91:
+L92: Federal service type
+L93:     This job is in the Competitive Service
+L94:
+L95: Represented by a union
+L96:     No
+L97:
+L98: Drug test
+L99:     No
+L100: Security clearance
+L101:     Not Required
+L102:
+L103: Position sensitivity and risk
+L104:     【15†High Risk (HR)†usajobshelp.opm.gov】
+L105:
+L106: Jobs require a 【15†background check†usajobshelp.opm.gov】 and some require a 【15†security clearance†usajobshelp.opm.gov】. The type depends on the job.
+L107:
+L108: Background check type
+L109:
+L110:   * 【15†Suitability/Fitness†usajobshelp.opm.gov】
+L111:
+L112: Financial disclosure required
+L113:     No
+L114:
+L115:
+L116: Some jobs require 【16†financial disclosure†usajobshelp.opm.gov】 to identify conflicts of interests.
+L117: Announcement number
+L118:     FEMA-KB-13101601-DE
+L119:
+L120: Control number
+L121:     890584000
+L122: ## This job is open to
+L123:
+L124: 【17†Help†usajobshelp.opm.gov】
+L125:
+L126: 【18†The public U.S. Citizens, Nationals or those who owe allegiance to the U.S.】
+L127:
+L128: 【19†Career transition (CTAP, ICTAP, RPL) Federal employees whose job, agency or department was eliminated and are eligible for priority over other applicants.】
+L129:
+L130: ### Clarification from the agency
+L131:
+L132: Status candidates may also apply under FEMA- KB-13101602-MP. This Job is open to: U.S. citizens
+L133: ## Duties
+L134:
+L135: 【20†Help†usajobshelp.opm.gov】
+L136:
+L137: What will I do in this position if hired?
+L138:
+L139: In this position, you will be an IT Specialist. Typical assignments include:
+L140:   * Supporting the identification and analysis of opportunities for automation and AI enabled workflow improvement across NFIP
+L141: business operations, customer facing services, map modernization support, underwriting, and other program areas in
+L142: coordination with business SMEs, analysts, UX, engineering, and data stakeholders.
+L143:   * Assisting in configuring, prototyping, and testing low code/no code solutions, AI agents, workflow automations, dashboards, forms,
+L144: lightweight applications, and scripts (for example Python) or utilities to query, transform, create, or validate data and workflow
+L145: outputs using approved enterprise platforms such as Power Platform, GCP enabled tools, DHSChat, Python libraries, or similar
+L146: technologies.
+L147:   * Helping convert approved business and user requirements into working technical implementations by supporting workflow logic
+L148: development, automation and AI agent configuration, data input and output definition, integration analysis, prototype
+L149: documentation, and technical hand off materials for engineering, security, and operational teams.
+L150:   * Conducting market, technology, and policy research on emerging automation, artificial intelligence, digital service, geospatial,
+L151: insurance technology, and AI governance trends to help the Innovation Branch remain current and identify practical
+L152: modernization opportunities.
+L153:   * Supporting evaluation of prototypes and AI enabled workflows for feasibility, usability, accuracy, operational fit, and governance
+L154: alignment through functional testing, user feedback, AI output review, exception testing, human in the loop validation,
+L155: responsible AI practices, and coordination with engineering, cybersecurity, data, UX, geospatial, and business teams.
+L156: What else do I need to know?
+L157: At FEMA, our mission is to help people before, during and after disasters, and every employee at FEMA has a role in emergency management. Every FEMA employee has regular and recurring emergency management responsibilities, though not every position requires routine deployment to disaster sites.
+L158: All positions are subject to recall around the clock for emergency management operations, which may require irregular work hours, work at locations other than the official duty station, and may include duties other than those specified in the employee's official position description.
+L159: Travel requirements in support of emergency operations may be extensive in nature (weeks to months), with little advance notice, and may require employees to relocate to emergency sites with physically austere and operationally challenging conditions.
+L160: ## Requirements
+L161:
+L162: 【21†Help†usajobshelp.opm.gov】
+L163: ### Conditions of employment
+L164: To ensure the accomplishment of our mission, DHS requires every employee to be reliable and trustworthy. To meet those standards, all selected applicants must undergo, successfully pass, and maintain a background investigation for High riskas a condition of placement into this position.
+L165: This may include a credit check after initial job qualifications are determined, a review of financial issues, such as delinquency in the payment of debts, child support and/or tax obligations, as well as certain criminal offenses and illegal use or possession of drugs (please visit: 【22†Mythbuster on Federal Hiring Policies†chcoc.gov】 for additional information). For more information on background investigations for Federal jobs please visit 【23†OPM Investigations†www.opm.gov】.
+--------------------------------------------------------------------------------
+USAJOBS - Job Announcement (https://www.usajobs.gov/job/759326100)
+citeturn28view1 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.usajobs.gov/job/759326100","lineno":null}); Total lines: 413
+L0: 【0†Skip to main content】
+L1:
+L2: 【1†Image: U.S. flag】
+L3:
+L4: [Button: An official website of the United States government ]
+L5:
+L6: [Button: MENU ]
+L7:
+L8: 【2†Back to results】
+L9:
+L10: Print
+L11:
+L12: Share
+L13:
+L14: Save
+L15:
+L16:   * 【3†Summary】
+L17:   * 【4†This job is open to】
+L18:   * 【5†Duties】
+L19:   * 【6†Requirements】
+L20:   * 【7†How you will be evaluated】
+L21:   * 【8†Required documents】
+L22:   * 【9†How to apply】
+L23: ## Summary
+L24:
+L25: Data Engineers in the Directorate of Mission Systems (DMS) solve critical data challenges by building data pipelines, transforming data, and delivering data to systems to advance CIA's mission.
+L26:
+L27: [Button: Learn more about this agency ]
+L28:
+L29: ## Summary
+L30:
+L31: Data Engineers in the Directorate of Mission Systems (DMS) solve critical data challenges by building data pipelines, transforming data, and delivering data to systems to advance CIA's mission.
+L32:
+L33: [Button: Learn more about this agency ]
+L34: ## Overview
+L35:
+L36: 【10†Help†usajobshelp.opm.gov】
+L37:
+L38: Accepting applications
+L39:
+L40: Location
+L41:
+L42: Many vacancies in the following location:
+L43:
+L44: Washington, DC
+L45:
+L46: Work site options
+L47:
+L48: Telework eligible
+L49:     No
+L50:
+L51: Remote job
+L52:     No
+L53:
+L54: Relocation expenses reimbursed
+L55:     Yes—You may qualify for reimbursement of relocation expenses in accordance with agency policy.
+L56:
+L57: Salary
+L58:     $74,584 - $156,755 per year
+L59:
+L60: Pay scale & grade
+L61:
+L62:
+L63: GS 9 - 13
+L64:
+L65: Promotion potential
+L66:     15
+L67:
+L68: 【11†Learn more about pay scale and grade†usajobshelp.opm.gov】
+L69: Pay scale and grade determines the salary of the job.
+L70:
+L71: Work schedule
+L72:     Full-time
+L73:
+L74: Travel Required
+L75:     Occasional travel - You may be expected to travel for this position.
+L76:
+L77: Appointment type
+L78:     Permanent
+L79:
+L80: Occupations and job series
+L81:
+L82:   * 【12†2210 Information Technology Management】
+L83:
+L84: Supervisory status
+L85:     No
+L86:
+L87: Federal service type
+L88:     This job is in the Excepted Service
+L89:
+L90: Represented by a union
+L91:     No
+L92:
+L93: Drug test
+L94:     Yes
+L95:
+L96: Security clearance
+L97:     Sensitive Compartmented Information
+L98: Position sensitivity and risk
+L99:     【13†Special-Sensitive (SS)/High Risk†usajobshelp.opm.gov】
+L100:
+L101: Jobs require a 【13†background check†usajobshelp.opm.gov】 and some require a 【13†security clearance†usajobshelp.opm.gov】. The type depends on the job.
+L102:
+L103: Background check type
+L104:
+L105:   * 【13†National security†usajobshelp.opm.gov】
+L106:
+L107: Financial disclosure required
+L108:     Yes
+L109:
+L110:
+L111: Some jobs require 【14†financial disclosure†usajobshelp.opm.gov】 to identify conflicts of interests.
+L112:
+L113: Announcement number
+L114:     24-12198900-6898/DIHD
+L115: Control number
+L116:     759326100
+L117: ## This job is open to
+L118:
+L119: 【15†Help†usajobshelp.opm.gov】
+L120:
+L121: 【16†The public U.S. Citizens, Nationals or those who owe allegiance to the U.S.】
+L122:
+L123: 【17†Federal employees - Competitive service Current federal employees whose agencies follow the U.S. Office of Personnel Management's hiring rules and pay scales.】
+L124:
+L125: 【17†Federal employees - Excepted service Current federal employees whose agencies have their own hiring rules, pay scales and evaluation criteria.】
+L126:
+L127: ## Videos
+L128:
+L129: 【18†iframe†www.youtube.com】
+L130: ## Duties
+L131:
+L132: 【19†Help†usajobshelp.opm.gov】
+L133:
+L134: As a Directorate of Mission Systems (DMS) Data Engineer at CIA, you will transform and deliver high-priority datasets to enable exploitation and analysis for CIA's intelligence mission.
+L135: Using computer programming and other capabilities, DMS Data Engineers develop processes to transform raw structured or unstructured data into useful, actionable information for critical mission systems. They design and build scalable data pipelines using commercial cloud, open source, and custom software solutions to process large datasets. DMS Data Engineers create automated data validation methods to load data into systems accurately and consistently.
+L136: Through partnerships with collectors, data scientists, and software engineers, DMS Data Engineers design how data will be integrated and stored for optimal effectiveness.
+L137: DMS Data Engineers are curious and use their skills to identify problems and build solutions, applying updated expertise in areas such as ETL, workflow and container orchestration, database and search technologies, distributed computing, serverless design, and cloud solutions. DMS encourages and supports continual learning. Opportunities exist for continued professional development, to include advanced technical training. Travel opportunities may be available.
+L138: ## Requirements
+L139:
+L140: 【20†Help†usajobshelp.opm.gov】
+L141: ### Conditions of employment
+L142:   * You must be physically in the United States or one of its territories when you submit your resume via MyLINK.
+L143:   * You must be registered for the Selective Service, if applicable.
+L144:   * You must be a U.S. citizen and at least 18 years of age (dual-national US citizens are eligible).
+L145:   * You must be willing to move to the Washington, DC area.
+L146:   * You must successfully complete a thorough medical and psychological exam, a polygraph interview, and a comprehensive background investigation.
+L147:   * For further requirements information, please visit: https://www.cia.gov/careers/how-we-hire/requirements/
+L148: ### Qualifications
+L149:
+L150: Minimum Qualifications
+L151: Interested candidates should be passionate about the ideals of our American republic, committed to upholding the rule of law and the U.S. Constitution, and committed to improving the efficiency of the Federal government. Hiring decisions will not be based on race, sex, color, religion, or national origin.
+L152:   * Proficiency with computer programming languages like Python, Java, Scala, or equivalent Object-Oriented Programming Language and knowledge of SQL
+L153:   * Knowledge of data ingestion, transformation, modeling, and storage:
+L154:     * Strong critical thinking and problem-solving skills
+L155:     * Ability to work independently and in groups within a team environment.
+L156:     * Curiosity, creativity, and initiative
+L157:   * Ability to meet the 【21†minimum requirements for joining CIA†www.cia.gov】, including U.S. citizenship and a background investigation
+L158: Desired Qualifications
+L159:   * Prior experience related to data engineering, data science, data architecture, database and search technologies
+L160:   * Experience analyzing or processing bulk datasets
+L161:   * Experience with signal/image processing, geospatial modeling or voice/data communications
+L162:   * Prior application of serverless design patterns, such as serverless applications or websites
+L163:   * Understanding of scaling and performance of distributed/cloud systems
+L164:   * Understanding of data science concepts, AI/ML, automation, and scripting
+L165: ### Education
+L166:
+L167:   * Bachelor's degree in one of the following fields or related studies:
+L168:     * Computer Science
+L169:     * Computer/Electrical Engineering or related field
+L170:     * Data Science or related quantitative field
+L171:     * Information Science/Technology
+L172:     * Forensics (Digital Forensics, Forensic Science, and Technology)
+L173:     * Mathematics/Statistics
+L174:   * At least a 3.0 GPA on a 4-point scale
+--------------------------------------------------------------------------------
+USAJOBS - Job Announcement (https://www.usajobs.gov/job/891052100)
+citeturn28view2 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.usajobs.gov/job/891052100","lineno":null}); Total lines: 502
+L0: 【0†Skip to main content】
+L1:
+L2: 【1†Image: U.S. flag】
+L3:
+L4: [Button: An official website of the United States government ]
+L5:
+L6: [Button: MENU ]
+L7:
+L8: 【2†Back to results】
+L9:
+L10:
+L11:
+L12: 【3†Apply】
+L13:
+L14: Print
+L15:
+L16: Share
+L17:
+L18: Save
+L19:
+L20:   * 【4†Summary】
+L21:   * 【5†This job is open to】
+L22:   * 【6†Duties】
+L23:   * 【7†Requirements】
+L24:   * 【8†How you will be evaluated】
+L25:   * 【9†Required documents】
+L26:   * 【10†How to apply】
+L27: ## Summary
+L28:
+L29: View 【11†Common Definitions†www.dhs.gov】 of terms found in this announcement.
+L30: Organizational Location: This position is located in the Department of Homeland Security, U.S. Immigration and Customs Enforcement, Chief Financial Officer, Office of Budget & Program Performance in Washington, District of Columbia.
+L31: This is a non-bargaining unit position.
+L32:
+L33: [Button: Learn more about this agency ]
+L34: ## Summary
+L35:
+L36: View 【11†Common Definitions†www.dhs.gov】 of terms found in this announcement.
+L37: Organizational Location: This position is located in the Department of Homeland Security, U.S. Immigration and Customs Enforcement, Chief Financial Officer, Office of Budget & Program Performance in Washington, District of Columbia.
+L38: This is a non-bargaining unit position.
+L39:
+L40: [Button: Learn more about this agency ]
+L41: ## Overview
+L42:
+L43: 【12†Help†usajobshelp.opm.gov】
+L44:
+L45: Accepting applications
+L46:
+L47: Location
+L48:
+L49: Few vacancies in the following location:
+L50:
+L51: Washington, DC
+L52:
+L53: Work site options
+L54:
+L55: Telework eligible
+L56:     No
+L57:
+L58: Remote job
+L59:     No
+L60:
+L61: Relocation expenses reimbursed
+L62:     No
+L63:
+L64: Salary
+L65:     $102,415 - $158,322 per year
+L66:
+L67: Pay scale & grade
+L68:
+L69:
+L70: GS 12 - 13
+L71:
+L72: Promotion potential
+L73:     13
+L74:
+L75: 【13†Learn more about pay scale and grade†usajobshelp.opm.gov】
+L76:
+L77: Pay scale and grade determines the salary of the job.
+L78:
+L79: Work schedule
+L80:     Full-time
+L81: Travel Required
+L82:     Occasional travel - OCCASIONAL TRAVEL
+L83:
+L84: Appointment type
+L85:     Permanent
+L86:
+L87: Occupations and job series
+L88:
+L89:   * 【14†1515 Operations Research】
+L90:
+L91: Supervisory status
+L92:     No
+L93:
+L94: Federal service type
+L95:     This job is in the Competitive Service
+L96:
+L97: Represented by a union
+L98:     No
+L99:
+L100: Drug test
+L101:     Yes
+L102:
+L103: Security clearance
+L104:     Not Required
+L105:
+L106: Position sensitivity and risk
+L107:     【15†Critical-Sensitive (CS)/High Risk†usajobshelp.opm.gov】
+L108: Jobs require a 【15†background check†usajobshelp.opm.gov】 and some require a 【15†security clearance†usajobshelp.opm.gov】. The type depends on the job.
+L109:
+L110: Background check type
+L111:
+L112:   * 【15†National security†usajobshelp.opm.gov】
+L113:
+L114: Financial disclosure required
+L115:     No
+L116:
+L117:
+L118: Some jobs require 【16†financial disclosure†usajobshelp.opm.gov】 to identify conflicts of interests.
+L119:
+L120: Announcement number
+L121:     DHA-CFO-13061801-2026-CLM
+L122:
+L123: Control number
+L124:     891052100
+L125: ## This job is open to
+L126:
+L127: 【17†Help†usajobshelp.opm.gov】
+L128:
+L129: 【18†The public U.S. Citizens, Nationals or those who owe allegiance to the U.S.】
+L130:
+L131: 【19†Career transition (CTAP, ICTAP, RPL) Federal employees whose job, agency or department was eliminated and are eligible for priority over other applicants.】
+L132:
+L133: ### Clarification from the agency
+L134:
+L135: These positions will be filled through the Office of Personnel Management's Direct Hire Authority for the occupation and is open to all U.S. citizens.
+L136: ## Duties
+L137:
+L138: 【20†Help†usajobshelp.opm.gov】
+L139:
+L140: As an Operations Research Analyst, at the full performance you will perform the following duties:
+L141:   * Identified, formulated, and defined trends; designs research and study methods; developed, applied and interpreted appropriate models and methods in conducting operations research analysis; recommended new or amended legislation, policies and or procedures as they related to the effective and efficient management of the organizations resources.
+L142:   * Provide analytic concepts to provide validity of assumptions made and the criteria by which alternatives will be assessed.
+L143:   * Facilitates discussions with program-level operations research analyst(s) across the Agency including managers, subject matter experts, and law enforcement personnel to clarify issues and objectives to improve data quality and reporting.
+L144:   * Performs risk-related cost-benefit analyses; develops mitigation strategies to address those gaps/risks; offering recommendations to mitigate risks associated with not obtaining appropriated resources for staffing and budget.
+L145:   * Develops or recommends new policies and or procedures as they relate to the effective and efficient management of the organizations resources.
+L146:   * Facilitates meetings with program stakeholders thorough all levels of directorates.
+L147:   * Collaborates with Subject Matter Experts and Leadership to understand their program requirements. Clarifies issues into operational plans to understand their business process.
+L148:   * Provide support to Management and Programs for strategic planning and assistance related to data research, analysis, modeling design and development, reporting and communicating results.
+L149: ## Requirements
+L150:
+L151: 【21†Help†usajobshelp.opm.gov】
+L152: ### Conditions of employment
+L153:   * You must be a U.S. citizen to apply for this position.
+L154:   * You must successfully pass a background investigation.
+L155:   * You must successfully pass a drug screen.
+L156:   * Males born after 12/31/59 must certify registration with Selective Service.
+L157:   * Requirements by Closing Date: Unless otherwise noted, you must meet all requirements by the closing date of the announcement.
+L158:   * Probationary Period: This is a full-time permanent position (Career/Career-Conditional appointment). Upon appointment to this position, you may be required to serve a one-year probationary period.
+L159: ### Qualifications
+L160: Please limit your resume to 2 pages. If more than 2 pages are submitted, only the first 2 pages will be reviewed to determine your eligibility/qualifications.
+L161: IN DESCRIBING YOUR EXPERIENCE, PLEASE BE CLEAR AND SPECIFIC. WE WILL NOT MAKE ASSUMPTIONS REGARDING YOUR EXPERIENCE.
+L162: Do not copy and paste the duties, specialized experience, or occupational assessment questionnaire from this announcement into your resume as that will not be considered a demonstration of your qualifications for this position.
+L163: Basic Education Requirement
+L164:   * Degree: in operations research; or at least 24 semester hours in a combination of operations research, mathematics, probability, statistics, mathematical logic, science, or subject-matter courses requiring substantial competence in college-level mathematics or statistics. At least 3 of the 24 semester hours must have been in calculus.
+L165: In addition to the basic requirements listed above:
+--------------------------------------------------------------------------------
+USAJOBS - Job Announcement (https://www.usajobs.gov/job/889991400)
+citeturn28view3 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.usajobs.gov/job/889991400","lineno":null}); Total lines: 553
+L0: 【0†Skip to main content】
+L1:
+L2: 【1†Image: U.S. flag】
+L3:
+L4: [Button: An official website of the United States government ]
+L5:
+L6: [Button: MENU ]
+L7:
+L8: 【2†Back to results】
+L9:
+L10:
+L11:
+L12: 【3†Apply】
+L13:
+L14: Print
+L15:
+L16: Share
+L17:
+L18: Save
+L19:
+L20:   * 【4†Summary】
+L21:   * 【5†This job is open to】
+L22:   * 【6†Duties】
+L23:   * 【7†Requirements】
+L24:   * 【8†How you will be evaluated】
+L25:   * 【9†Required documents】
+L26:   * 【10†How to apply】
+L27: ## Summary
+L28:
+L29: This position is located in the Compliance Branch of the Division of Market Oversight (DMO). DMO's mission is to be transparent, fair, competitive, and secure markets through clear rules and effective oversight of derivatives markets and market participants. DMO seeks to be the world’s foremost authority on the rapidly evolving derivatives markets.
+L30:
+L31: [Button: Learn more about this agency ]
+L32: ## Summary
+L33:
+L34: This position is located in the Compliance Branch of the Division of Market Oversight (DMO). DMO's mission is to be transparent, fair, competitive, and secure markets through clear rules and effective oversight of derivatives markets and market participants. DMO seeks to be the world’s foremost authority on the rapidly evolving derivatives markets.
+L35:
+L36: [Button: Learn more about this agency ]
+L37: ## Overview
+L38:
+L39: 【11†Help†usajobshelp.opm.gov】
+L40:
+L41: Accepting applications
+L42:
+L43: Location
+L44:
+L45: Few vacancies in the following location:
+L46:
+L47: Washington, DC
+L48:
+L49: Work site options
+L50:
+L51: Telework eligible
+L52:     Yes—Position is eligible for telework in accordance with agency policy.
+L53:
+L54: Remote job
+L55:     No
+L56:
+L57: Relocation expenses reimbursed
+L58:     No
+L59:
+L60: Salary
+L61:     $152,377 - $223,819 per year
+L62:
+L63: Pay scale & grade
+L64:
+L65:
+L66: CT 13
+L67:
+L68: Promotion potential
+L69:     14
+L70:
+L71: 【12†Learn more about pay scale and grade†usajobshelp.opm.gov】
+L72: Pay scale and grade determines the salary of the job.
+L73:
+L74: Work schedule
+L75:     Full-time
+L76:
+L77: Travel Required
+L78:     Occasional travel - Occasional travel might be required.
+L79:
+L80: Appointment type
+L81:     Permanent
+L82:
+L83: Occupations and job series
+L84:
+L85:   * 【13†1101 General Business And Industry】
+L86:
+L87: Supervisory status
+L88:     No
+L89:
+L90: Federal service type
+L91:     This job is in the Competitive Service
+L92:
+L93: Represented by a union
+L94:     Yes
+L95:
+L96: Drug test
+L97:     No
+L98:
+L99: Security clearance
+L100:     Not Required
+L101: Position sensitivity and risk
+L102:     【14†Moderate Risk (MR)†usajobshelp.opm.gov】
+L103:
+L104: Jobs require a 【14†background check†usajobshelp.opm.gov】 and some require a 【14†security clearance†usajobshelp.opm.gov】. The type depends on the job.
+L105:
+L106: Background check type
+L107:
+L108:   * 【14†Suitability/Fitness†usajobshelp.opm.gov】
+L109:
+L110: Financial disclosure required
+L111:     No
+L112:
+L113:
+L114: Some jobs require 【15†financial disclosure†usajobshelp.opm.gov】 to identify conflicts of interests.
+L115:
+L116: Announcement number
+L117:     CFTC-DMO-2027-0003
+L118: Control number
+L119:     889991400
+L120: ## This job is open to
+L121:
+L122: 【16†Help†usajobshelp.opm.gov】
+L123:
+L124: 【17†Federal employees - Competitive service Current federal employees whose agencies follow the U.S. Office of Personnel Management's hiring rules and pay scales.】
+L125:
+L126: 【17†Career transition (CTAP, ICTAP, RPL) Federal employees whose job, agency or department was eliminated and are eligible for priority over other applicants.】
+L127:
+L128: 【18†Land and base management Current or former employees of a base management agency.】
+L129: 【19†Veterans Veterans of the U.S. Armed Forces or a spouse, widow, widower or parent of a veteran, who may be eligible for derived preference】
+L130:
+L131: 【20†Military spouses Military spouses of active duty service members or whose spouse is 100 percent disabled or died on active duty.】
+L132:
+L133: 【21†Individuals with disabilities Individuals who are eligible under Schedule A.】
+L134:
+L135: 【22†Peace Corps & AmeriCorps Vista Individuals who have served at least 2 years with the Peace Corps or 1 year with AmeriCorps VISTA.】
+L136: 【23†Special authorities Individuals eligible under a special authority not listed in another hiring path.】
+L137: ### Clarification from the agency
+L138:
+L139: Applications will be accepted from all US Citizens.
+L140:
+L141: ## Videos
+L142:
+L143: 【24†iframe†embedr.flickr.com】
+L144: ## Duties
+L145:
+L146: 【25†Help†usajobshelp.opm.gov】
+L147: At the full performance level, you will serve as a Systems Risk Analyst in the Compliance Branch (Branch) of the Division of Market Oversight (DMO), as senior staff of the Branch's Market Continuity Program (MCP).
+L148: Using advanced knowledge of information technology (IT) concepts and of standards, guidelines, and best practices regarding system safeguards and security control reviews, you will conduct the CFTC's oversight of compliance by Designated Contract Markets (DCMs), Swap Data Repositories (SDRs), and Swap Execution Facilities (SEFs) with the system safeguards requirements of the Commodity Exchange Act (Act) and CFTC regulations. Additionally, you will;
+L149: Plan and conduct System Safeguards Examinations (SSEs) and Targeted Maturity Assessments (TMAs) of all DCMs, SDRs, and SEFs, to evaluate the reliability, cyber and physical security, adequate scalable capacity, internal oversight, and testing of their automated trading and data reporting systems, and the compliance of their programs of system safeguards risk analysis and oversight with the requirements of the Act and CFTC regulations.
+L150: Serve as one of DMO's senior IT and system safeguards experts for performance of system safeguards oversight that is complex, sensitive, and of high importance to the mission of the CFTC.
+L151: Serve as an expert on teams conducting system safeguards examinations (SSEs) of DCMs, SEFs, and SDRs to assess their compliance with the system safeguards requirements of the Act and Commission regulations.
+L152: SSEs address DCM, SEF,  and SDR compliance with core principles requiring the regulatee to: establish and maintain   a program of risk oversight to identify and minimize sources of operational risk through development of appropriate controls and procedures and development of automated systems that are reliable, secure, and have adequate scalable capacity; establish and maintain emergency procedures, backup facilities, and a plan for disaster recovery that allow for the timely recovery and resumption of operations and the fulfillment of the duties and obligations of the regulatee; and periodically conduct tests to verify that backup resources are sufficient.
+L153: SSEs focus on seven risk oversight program areas, including:
+L154:
+L155:   1. Enterprise risk management and governance;
+L156:   2. Information security;
+L157:   3. Business continuity and disaster recovery, including pandemic planning;
+L158:   4. Capacity and performance planning;
+L159:   5. Systems operations;
+L160:   6. Systems development and quality assurance; and
+L161:   7. Physical security and environmental
+L162:
+L163: In leading or participating on an SSE or TMA team, the incumbent will:

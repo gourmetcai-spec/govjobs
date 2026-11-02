@@ -1,0 +1,50 @@
+[
+  {
+    "id": "4e066be541ca1382",
+    "title": "Operations Research Analyst",
+    "pages": 1,
+    "artifacts": {
+      "resume_markdown": {
+        "path": "applications/2026-11-01__immigration-and-customs-enforcement__operations-research-analyst__4e066be541ca1382/resume-xuewu-cai__immigration-and-customs-enforcement__operations-research-analyst__891052100__v2.md",
+        "sha256": "13a1ad703f8a552d733f9daa60caca95d47a058effa46fe6a1e632669aeec077"
+      },
+      "resume_pdf": {
+        "path": "applications/2026-11-01__immigration-and-customs-enforcement__operations-research-analyst__4e066be541ca1382/resume-xuewu-cai__immigration-and-customs-enforcement__operations-research-analyst__891052100__v2.pdf",
+        "sha256": "3357ea242975333e9401636c1a749313eac082986d36c8e1bca8fd45344eb9d8"
+      }
+    },
+    "version": 2
+  },
+  {
+    "id": "a5af83ea7ba6d744",
+    "title": "IT Specialist (APPSW)",
+    "pages": 1,
+    "artifacts": {
+      "resume_markdown": {
+        "path": "applications/2026-11-01__federal-emergency-management-agency__it-specialist-appsw__a5af83ea7ba6d744/resume-xuewu-cai__federal-emergency-management-agency__it-specialist-appsw__890584000__v2.md",
+        "sha256": "1c9be9986034ef41f9aed0d5d601812d9a3e3895c51d46f58c8f67086198e868"
+      },
+      "resume_pdf": {
+        "path": "applications/2026-11-01__federal-emergency-management-agency__it-specialist-appsw__a5af83ea7ba6d744/resume-xuewu-cai__federal-emergency-management-agency__it-specialist-appsw__890584000__v2.pdf",
+        "sha256": "396be592af7f588d34f90f2fbc77a976a5d5edfc44885fa866f5f873d7acfc42"
+      }
+    },
+    "version": 2
+  },
+  {
+    "id": "fa28275048f3ce60",
+    "title": "Data Engineer",
+    "pages": 1,
+    "artifacts": {
+      "resume_markdown": {
+        "path": "applications/2026-11-01__central-intelligence-agency__data-engineer__fa28275048f3ce60/resume-xuewu-cai__central-intelligence-agency__data-engineer__759326100__v2.md",
+        "sha256": "205315ea61c15b7c25a89ac3816e58ba7e728bf3f155358472f9fa50b5650176"
+      },
+      "resume_pdf": {
+        "path": "applications/2026-11-01__central-intelligence-agency__data-engineer__fa28275048f3ce60/resume-xuewu-cai__central-intelligence-agency__data-engineer__759326100__v2.pdf",
+        "sha256": "52d975c0a3892d43b048790b9b8f7a91eb727c86bc5d4280f9c35c0b6903f3db"
+      }
+    },
+    "version": 2
+  }
+]
