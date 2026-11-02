@@ -1,0 +1,44 @@
+{
+  "employer": "Central Intelligence Agency",
+  "title": "Data Engineer",
+  "requisition_id": "24-12198900-6898/DIHD",
+  "posted_date": "2026-09-01",
+  "close_date": "2027-01-31",
+  "location": "Washington, DC",
+  "salary": "$74,584–$156,755 per year; GS-9–13; promotion potential 15",
+  "fit": "Strong Java/Python, SQL/database connectivity, time-series data and distributed/cloud analytics overlap.",
+  "gaps": "Mandatory GPA >=3.0/4.0 is unknown; verify transcripts and qualifying degree. Reopened listing date should be reconciled against original announcement. Clearance/medical/polygraph suitability and willingness are unverified. Lower grade/pay than current director scope; no salary filter applied. Hours/week absent.",
+  "canonical_url": "https://www.usajobs.gov/job/759326100",
+  "application_url": "https://www.cia.gov/careers/jobs/data-engineer/",
+  "posted_date_evidence": "Official USAJOBS CIA/public and AI/2210 indexed result lists September 1, 2026–January 31, 2027. Announcement number is older; this is one existing requisition, not a newly created identity. Recheck original/reopened date before selection.",
+  "retrieved_at": "2026-11-02T00:53:12.615092+00:00",
+  "status": "needs_verification",
+  "aliases": [
+    "https://intelligencecareers.usajobs.gov/job/759326100",
+    "https://ai.usajobs.gov/job/759326100"
+  ],
+  "discovery_window": [
+    "2026-09-01",
+    "2026-11-01"
+  ],
+  "remote_restrictions": "Not remote; DMV duty station offered. Confirm telework policy in official job description.",
+  "open_evidence": "Official USAJOBS announcement retrieved through web tool and reports Accepting applications; recheck at Step 2.",
+  "hiring_path": "Open to the public",
+  "control_number": "759326100",
+  "id": "fa28275048f3ce60",
+  "step": 1,
+  "selected": false,
+  "submitted": false,
+  "artifacts": {
+    "resume_markdown": {
+      "path": "applications/2026-11-01__central-intelligence-agency__data-engineer__fa28275048f3ce60/resume-xuewu-cai__central-intelligence-agency__data-engineer__759326100__v1.md",
+      "sha256": "7edb1bc33ed11b06af0e00133b8072528bbc910ae01d74bc212715e58cbe3894"
+    },
+    "resume_pdf": {
+      "path": "applications/2026-11-01__central-intelligence-agency__data-engineer__fa28275048f3ce60/resume-xuewu-cai__central-intelligence-agency__data-engineer__759326100__v1.pdf",
+      "sha256": "5de1d3a5044be8fdd71377e66cc83fff104b66e58e6f7dfef54f18f716877388"
+    }
+  },
+  "resume_status": "draft_missing_required_facts",
+  "resume_review": "Text extraction passed; all 20 baseline experience bullets preserved; all 2 pages rendered with PDFKit and visually reviewed without clipping, overlap or blank pages. Draft pending required candidate facts and job eligibility evidence in match.md."
+}

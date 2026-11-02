@@ -1,0 +1,41 @@
+{
+  "employer": "Federal Emergency Management Agency",
+  "title": "IT Specialist (APPSW)",
+  "requisition_id": "FEMA-KB-13101601-DE",
+  "posted_date": "2026-10-28",
+  "close_date": "2026-11-06",
+  "location": "Washington, DC",
+  "salary": "$121,785–$158,322 per year; GS-13",
+  "fit": "Strong supported enterprise software, scripting, financial workflow and technical delivery overlap; public hiring path.",
+  "gaps": "Confirm one full year at the announcement’s stated GS-13-equivalent scope; dates with exact days and hours/week are absent from baseline. Low-code Power Platform, GCP and NFIP domain experience are not documented. No production AI/agent delivery claimed; scripts are an alternative in the specialized-experience requirement.",
+  "canonical_url": "https://www.usajobs.gov/job/890584000",
+  "application_url": "https://www.usajobs.gov/job/890584000",
+  "posted_date_evidence": "Official USAJOBS FEMA index displays October 28–November 6; federalgovernmentjobs mirror and jobboardhq agree.",
+  "retrieved_at": "2026-11-02T00:53:12.615092+00:00",
+  "status": "eligible",
+  "aliases": [],
+  "discovery_window": [
+    "2026-09-01",
+    "2026-11-01"
+  ],
+  "remote_restrictions": "Not remote; DMV duty station offered. Confirm telework policy in official job description.",
+  "open_evidence": "Official USAJOBS announcement retrieved through web tool and reports Accepting applications; recheck at Step 2.",
+  "hiring_path": "Open to the public",
+  "control_number": "890584000",
+  "id": "a5af83ea7ba6d744",
+  "step": 1,
+  "selected": false,
+  "submitted": false,
+  "artifacts": {
+    "resume_markdown": {
+      "path": "applications/2026-11-01__federal-emergency-management-agency__it-specialist-appsw__a5af83ea7ba6d744/resume-xuewu-cai__federal-emergency-management-agency__it-specialist-appsw__890584000__v1.md",
+      "sha256": "4ce16dfd6f4b1ee5cf1ec6033dacafdd860714554a868ce11e30c76caf0a59ab"
+    },
+    "resume_pdf": {
+      "path": "applications/2026-11-01__federal-emergency-management-agency__it-specialist-appsw__a5af83ea7ba6d744/resume-xuewu-cai__federal-emergency-management-agency__it-specialist-appsw__890584000__v1.pdf",
+      "sha256": "e518fac18c74b853f4a21c6c7f21d2562f97e08885128b48793399533592d07e"
+    }
+  },
+  "resume_status": "draft_missing_required_facts",
+  "resume_review": "Text extraction passed; all 20 baseline experience bullets preserved; all 2 pages rendered with PDFKit and visually reviewed without clipping, overlap or blank pages. Draft pending required candidate facts and job eligibility evidence in match.md."
+}

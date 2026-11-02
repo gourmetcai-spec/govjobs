@@ -1,0 +1,274 @@
+Artificial Intelligence for Analysis: The Road Ahead (https://www.cia.gov/resources/csi/static/88dbcb2b5d4812731b3ff5122e3b6cb5/Article-Artificial-Intelligence-for-Analysis-The-Road-Ahead.pdf)
+citeturn10search12 [wordlim: 200] Published: 2.9 years ago; Crawled: 2.9 years ago; The job of data engineer is coming into vogue but if that person does not have a substantive understanding of the domains in which analysts work or of the value of the work of analysts to their organizations’ customers, it is unlikely they will be able to unlock anything approaching the full potential of an organization’s information.
+For analysts, data clean-up lies far outside of the work on which their performance is evaluated. The job of data engineer is coming into vogue but if that person does not have a substantive understanding of the domains in which analysts work or of the value of the work of analysts to their organizations’ customers, it is unlikely they will be able to unlock anything approaching the full potential of an organization’s information. Why? Tacit knowledge.
+
+Leverage tacit knowledge
+
+Tacit knowledge—defined as “skills, ideas and experiences that are possessed by people but are not codified and may not necessarily be easily expressed”—cannot completely elude capture in an enterprise setting: metadata, audit data, and knowledge management tools (e.g., filing, tagging) can serve as the basis for novel weighting systems.^b Analysts weigh information intuitively as part of their workflow: they open, read, tag, file, and use only the documents they think contain insights that are the most relevant to their work.
+
+The documents analysts produce and the talks they give are not just explicit knowledge. This output should also be used to train AIs on how experts think and how that thinking has evolved over time: an unexplained assertion today masks the evolution of the thinking that underpins that assertion. To intellectually curious analysts (or to the policymakers and decisionmakers they serve), an unexplained assertion—even if seemingly reasonable—might as well have come from a fortune cookie. Experts need to be able to understand the bases on which AIs make their assertions because their reputations and the reputations of their organizations lie
+
+a. Philip E. Ross, “The Expert Mind,” Scientific American, August 1, 2006.
+b. Ritesh Chugh, “Do Australian Universities Encourage Tacit Knowledge Transfer?” Proceedings of the 7th International Joint Conference on Discovery, Knowledge Engineering and Knowledge Management (2015): 128–35.
+
+Studies in Intelligence Vol. 67, No. 4 (Extracts, December 2023) 13--------------------------------------------------------------------------------
+Studies in Intelligence Volume 67, Number 3 (Extracts, September 2023) (https://www.cia.gov/resources/csi/static/9796d1bd00cbbd2d07a6e87572f6b962/Studies-Extracts-67-3-Sep-2023.pdf)
+citeturn10search13 [wordlim: 200] Published: 3.1 years ago; ²⁷ The product owner helps the data engineer/integrator shape analytics, tests software with the programmer/developer, and answers questions as a subject matter expert for the team.
+Agile Analysis
+
+managers participate in sprint reviews to understand the arc of the effort and provide feedback, and the product owner uses reviews to determine the priority for delivery and development. Priorities are generated using “user stories,” short examples of desired capabilities derived from customer and source discovery.²⁶ As discovery continues, these biweekly meetings allow the team to change its plan and pursue new capabilities.
+
+Day to day work is integrated, collaborative, and colocated.²⁷ The product owner helps the data engineer/integrator shape analytics, tests software with the programmer/developer, and answers questions as a subject matter expert for the team. The data engineer/integrator creates analytics leveraging other team members’ collection, code, security, standards and tradecraft expertise. The programmer/developer develops user interfaces and application programming interfaces for the product owner to test, as well as scripts and other automation solutions to integrate the data engineer’s analytics into those interfaces.
+Openness to customer feedback can be a double-edged sword, as the product owner, senior analyst, and security/standards expert must guard against pivots turning into politicization or otherwise contaminating analytic objectivity.³¹ The senior analyst and security/standards expert reinforce a product owner who could face politicization pressures.
+
+Step 7: From Publication to Continuous Analytic Delivery
+
+Agile analysis delivers an analytic program on an account with multiple delivery options instead of a single printed or published document. Delivery options include dashboards, advanced analytics for use in legacy printed production, scripts for the automatic delivery of analysis via email, or other software-based solutions.³² Solutions the team develops ingest data from collection agencies and update themselves using a combination of machine learning and all-source human insight, eliminating the existing problem of intelligence cutoff dates and obsolete analysis. Programming audit trails, versioning, and cheap cloud storage allow the team to save analytics over time to show the “arc” of a story, including through the use of
+
+a. This differs from the role of analytic facilitators, who typically are only brought in for a specific brainstorming or group activity at an early stage in finished intelligence production.
+b. Every policy customer complains about this tension between timeliness and “perfection.” I did when supporting policy on rotation to the National Security Council and and defense policy staffs, 2009–12.
+
+Studies in Intelligence Vol. 67, No. 3 (Extracts, September 2023) 19--------------------------------------------------------------------------------
+Privacy Impact Assessment for (https://www.fhfa.gov/sites/default/files/2023-12/OPM%20USA%20Staffing_pia.pdf)
+citeturn10search14 [wordlim: 200] Published: last year; Temporary Employment, Jobs Requiring Travel, Part Time Employment, ... users as needed for their vacancies. ... the hiring manager who posted the vacancy announcement. ... benefits data related to the job position.
+Privacy Impact Assessment
+USA Staffing®
+Page 7
+Work City, Work Zip Code, Employment Availability (Full Time Employment,
+Temporary Employment, Jobs Requiring Travel, Part Time Employment,
+Special Accommodation, Other Employment Questions), Background
+Information, Gender, Date of Birth, Languages, Hiring Eligibility, Professional
+Skills, Test Location, Availability Date, Service Computation Date, Job
+Preference, Transition Assistance Plan, Job Related Experience (Years,
+Months), and Education Information (College or University).
+Customizations of the optional fields, as well as customization of additional
+responses collected from applicants via a questionnaire, are made by agency
+users as needed for their vacancies. As determined by agency users, some
+vacancies may accept and/or require supporting documentation in order to
+rate and qualify an individual for a particular position.
+Applicant ratings from assessments and written tests may be used and
+maintained in USA Staffing as determined by agency users. Information is
+accessed by the agency office that posts the vacancy announcement or by
+the hiring manager who posted the vacancy announcement. Onboarding
+staff at the subscribing agency may require additional personal information,
+such as name, address, and SSN and financial/payroll information such as
+allotments and banking information. USA Staffing also collects personnel and
+benefits data related to the job position.
+USA Staffing also allows the collection of several document types including
+Resumes, Cover Letters, Transcripts, Qualifications, Veterans
+Documentation, and Others requested by the hiring agency. A full list of
+supporting document types can be found in USA Staffing’s Online Help
+system:
+https://help.usastaffing.gov/USAS/index.php?title=Help_for_USA_Staffing_H
+R_Users
+The content of the document can include information that may or may not
+have been requested by the agency. USA Staffing cannot control the content
+of any supporting document provided by an applicant.
+OPM Form 5003--------------------------------------------------------------------------------
+Economics | OCC (https://www.occ.gov/topics/economics/index-economics.html)
+citeturn10search0 [wordlim: 200] Crawled: 4 days ago; The OCC's economists support the agency and its mission through thought leadership, bank-specific supervision, economic analysis, policy development and implementation, and original research applying quantitative methods in economics and finance. ...       * Feb 12, 2026
+
+  * # Economics
+
+The OCC's economists support the OCC mission through economic thought leadership, analysis, and research to aid bank supervision and policy development.
+
+  * ## Economics Overview
+
+The OCC's economists support the agency and its mission through thought leadership, bank-specific supervision, economic analysis, policy development and implementation, and original research applying quantitative methods in economics and finance.
+
+OCC economists perform both off-site analyses of changing economic conditions, industry trends, and banking conditions, and on-site direct exam support.
+
+Learn more about the OCC's Office of the Chief National Bank Examiner, which is responsible for economic analysis at the agency.
+
+  * ## News & Bulletins
+
+    *       * News Release
+      * Feb 12, 2026
+
+### OCC Releases Dodd-Frank Act Stress Test Scenarios for 2026
+
+    *       * News Release
+      * Feb 13, 2025
+
+### OCC Releases Dodd-Frank Act Stress Test Scenarios for 2025
+
+    *       * News Release
+--------------------------------------------------------------------------------
+2026-06281.pdf (https://occ.gov/news-issuances/federal-register/2026/91fr16156.pdf)
+citeturn10search15 [wordlim: 200] Published: 7 months ago; 62 / Wednesday, April 1, 2026 / Rules and Regulations 16157 ... ¹ Under the Guidelines, an insured national bank, insured Federal savings association, or insured Federal branch subject to the standards (covered banks) should have a recovery plan that includes (1) quantitative or qualitative indicators of the risk or existence of severe stress that reflect its particular vulnerabilities; (2) a wide range of credible options that it could undertake in response to the stress to restore its financial strength and viability; and (3) an assessment and description of how these options would affect it.
+Federal Register / Vol. 91, No. 62 / Wednesday, April 1, 2026 / Rules and Regulations 16157
+
+Standards for Recovery Planning by Certain Large Insured National Banks, Insured Federal Savings Associations, and Insured Federal Branches (Guidelines).¹ Under the Guidelines, an insured national bank, insured Federal savings association, or insured Federal branch subject to the standards (covered banks) should have a recovery plan that includes (1) quantitative or qualitative indicators of the risk or existence of severe stress that reflect its particular vulnerabilities; (2) a wide range of credible options that it could undertake in response to the stress to restore its financial strength and viability; and (3) an assessment and description of how these options would affect it. The Guidelines provide that a recovery plan should also address (1) the covered bank’s overall organizational and legal entity structure and its interconnections and interdependencies; (2) procedures for escalating decision making to senior management or the board of directors or an appropriate committee thereof (board); (3) management reports; (4) communication procedures; and (5) any other information the OCC communicates in writing. ⁴
+
+III. Summary of Comments on the Notice of Proposed Rulemaking
+
+The OCC received eight comments on the proposal, representing a range of viewpoints, including two trade associations, a state government official, a consumer advocacy group, and several individuals. Some commenters expressed support for the proposed rescission of the Guidelines while other commenters expressed opposition to the proposal. Two commenters expressed support for rescinding the Guidelines. One commenter claimed that rescinding the Guidelines would reduce regulatory burden and inefficiencies without compromising the safety and soundness of the covered banks. Another commenter supported rescinding the Guidelines on the grounds that they are unnecessary, lack cost-benefit justification, and rescinding them would eliminate duplicative requirements because they overlap with other contingency planning and risk management practices.
+
+Risk Management Function. Several commenters stated that the Guidelines should be maintained because they serve an important risk management function.
+Lack of Data in Support of Proposal. Two commenters asserted that the data analysis in support of the proposal was insufficient. One commenter stated that the proposal lacks evidence of the proposal’s effect on supervisory outcomes or how rescission of the Guidelines interacts with and does not degrade other frameworks (e.g., resolution planning, long-term debt and total loss-absorbing capacity, and liquidity and contingency funding planning). Another commenter stated that the agency offered no evidence for certain statements in the proposal. Specifically, the commenter stated that the agency did not provide any evidence for the statement that recovery planning documentation is “scenario dependent or otherwise conjectural and, therefore, is likely to be irrelevant or of limited utility when a covered bank faces stress” and “that covered banks are well attuned to indicia of stress without regard to the presence of the recovery planning triggers and escalation procedure expectation of the Guidelines.”
+
+Consistent with the earlier iterations of the Guidelines and other rulemakings, the OCC relies on its supervisory observations and expert judgments to establish and revise supervisory policy. Since the Guidelines were last amended in 2024, the OCC has undertaken a new initiative to review and refresh its supervisory approach to restore balance, reset the agency’s tolerance for risk, focus supervision on material financial risks, and free banks to lend, invest, innovate, and grow
+
+¹ 81 FR 66791 (Sept. 29, 2016). The Guidelines are codified at 12 CFR part 30, appendix E. They were issued pursuant to section 39 of the Federal Deposit Insurance Act, 12 U.S.C. 1831p–1, which authorizes the OCC to prescribe enforceable safety and soundness standards.
+² See 83 FR 66604 (Dec. 27, 2018).
+³ See 89 FR 84255 (Oct. 22, 2024).
+⁴ See 90 FR 51587 (Nov. 18, 2025).
+⁵ Id. at 51588.
+⁶ Id.--------------------------------------------------------------------------------
+Economics | OCC (https://occ.gov/topics/economics/index-economics.html)
+citeturn10search1 [wordlim: 200] Crawled: last week; The OCC's economists support the agency and its mission through thought leadership, bank-specific supervision, economic analysis, policy development and implementation, and original research applying quantitative methods in economics and finance. ...       * Feb 12, 2026
+
+  * # Economics
+
+The OCC's economists support the OCC mission through economic thought leadership, analysis, and research to aid bank supervision and policy development.
+
+  * ## Economics Overview
+
+The OCC's economists support the agency and its mission through thought leadership, bank-specific supervision, economic analysis, policy development and implementation, and original research applying quantitative methods in economics and finance.
+
+OCC economists perform both off-site analyses of changing economic conditions, industry trends, and banking conditions, and on-site direct exam support.
+
+Learn more about the OCC's Office of the Chief National Bank Examiner, which is responsible for economic analysis at the agency.
+
+  * ## News & Bulletins
+
+    *       * News Release
+      * Feb 12, 2026
+
+### OCC Releases Dodd-Frank Act Stress Test Scenarios for 2026
+
+    *       * News Release
+      * Feb 13, 2025
+
+### OCC Releases Dodd-Frank Act Stress Test Scenarios for 2025
+
+    *       * News Release
+      * Oct 07, 2024
+
+### OCC Solicits Research on Artificial Intelligence in Banking and Finance
+
+    *       * News Release
+      * Feb 15, 2024
+
+### OCC Releases Dodd-Frank Act Stress Test Scenarios for 2024
+--------------------------------------------------------------------------------
+Regulatory Capital Rules: Regulatory Capital and Standardized Approach for Risk-Weighted Assets (https://www.occ.gov/news-issuances/federal-register/2026/91fr15332.pdf)
+citeturn10search16 [wordlim: 200] Published: 7 months ago; - **FDIC:** Benedetto Bosco, Chief Capital Policy Section; Bob Charurat, Corporate Expert; Irina Leonova, Corporate Expert; Andrew Carayiannis, Chief, Policy and Risk Analytics Section; Michael Maloney, Senior Policy Analyst; Iris Li, Senior Policy Analyst; Olga Lionakis, Senior Policy Analyst; Richard Smith, Capital Markets Policy Analyst; Ernest Barkett, Financial Analyst; Kyle McCormick, Senior Policy Analyst; Keith Bergstresser, Senior Policy Analyst; Lauren Brown, Senior Risk and Policy Analyst; Rachel Romm-Nisson, Risk Analytics Specialist; Jim Yu, Senior Policy Analyst; Peter Yen, Senior Policy Analyst; Huiyang Zhou, Senior Quantitative Risk Specialist; Soo Jeong Kim, Capital Markets Policy Analyst; Capital Markets and Accounting Policy Branch, Division of Risk Management Supervision; Catherine Wood, Counsel; Merritt Pardini, Counsel; Kevin Zhao, Senior Attorney; Nicholas Soyer, Attorney; Michael Overmyer, Special Counsel, Legal Division; regulatorycapital@fdic.gov, (202) 898–6888; Federal Deposit Insurance Corporation, 550 17th Street NW, Washington, DC 20429.
+If you are deaf, hard of hearing, or have a speech disability, please dial 7–1–1 to access telecommunications relay services.
+- **Board:** Anna Lee Hewko, Associate Director, (202) 530–6260; Andrew Willis, Manager, (202) 430–1667; Missaka Nuwan Warusawitharana, Manager, (202) 452–3461; Marco Migueis, Principal Economist, (202) 452–6447; Ke Wang, Principal Economist, (202) 680–8527; Emily Davine, Senior Financial Institution Policy Analyst, (771) 216–7655; Division of Supervision and Regulation; or Jay Schwarz, Deputy Associate General Counsel, (202) 452–2970; Mark Buresh, Senior Special Counsel, (202) 452–5270; Gillian Burgess, Senior Counsel, (202) 736–5564; Jonah Kind, Senior Counsel, (202) 452–2045, Legal Division, Board of Governors of the Federal Reserve System, 20th Street and Constitution Avenue NW, Washington, DC 20551. For users of TTY–TRS, please call 711 from any telephone, anywhere in the United States.
+- **FDIC:** Benedetto Bosco, Chief Capital Policy Section; Bob Charurat, Corporate Expert; Irina Leonova, Corporate Expert; Andrew Carayiannis, Chief, Policy and Risk Analytics Section; Michael Maloney, Senior Policy Analyst; Iris Li, Senior Policy Analyst; Olga Lionakis, Senior Policy Analyst; Richard Smith, Capital Markets Policy Analyst; Ernest Barkett, Financial Analyst; Kyle McCormick, Senior Policy Analyst; Keith Bergstresser, Senior Policy Analyst; Lauren Brown, Senior Risk and Policy Analyst; Rachel Romm-Nisson, Risk Analytics Specialist; Jim Yu, Senior Policy Analyst; Peter Yen, Senior Policy Analyst; Huiyang Zhou, Senior Quantitative Risk Specialist; Soo Jeong Kim, Capital Markets Policy Analyst; Capital Markets and Accounting Policy Branch, Division of Risk Management Supervision; Catherine Wood, Counsel; Merritt Pardini, Counsel; Kevin Zhao, Senior Attorney; Nicholas Soyer, Attorney; Michael Overmyer, Special Counsel, Legal Division; regulatorycapital@fdic.gov, (202) 898–6888; Federal Deposit Insurance Corporation, 550 17th Street NW, Washington, DC 20429.
+
+--------------------------------------------------------------------------------
+Contact:
+ Corinne Russell
+ (202) 414-6921
+
+ St (https://www.fhfa.gov/document/d/par/ofheo-performance-and-accountability-report-2007)
+citeturn10search17 [wordlim: 200] Published: 5 months ago; In addition, OFHEO is actively recruiting to fill over 40 vacancies. The large percentage of vacancies is primarily a function of uncertain funding in 2007 caused by a continuing Fi Director Deputy Director Office of Office of Office of Office of External Relations Supervision General Counsel Executive Director Office of Technology Office of Human Office of Examination Office of Examination & Information Resources (Fannie Mae) (Freddie Mac Management Management Office of Budget Office of the Office of & Financial Chief Accountant Compliance Management Office of Strategic Office of Office of Policy Planning & Capital Supervision Analysis & Research Management Office of Supervision Office of Risk Policy, Systems and Analysis & Financial Quality Assurance Performance | | --- | --- | --- About OFHEO The Office of Federal Housing Enterprise Oversight (OFHEO) was established as an independent entity within the Department of Housing and Urban Development (HUD) by the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 (12 U.S.C. 4501 et seq.).
+Although appropriated by Congress, OFHEO is funded through assessments on Fannie Mae and Freddie Mac and its operations represent no direct cost to the taxpayer. OFHEO’s Organizational Structure OFHEO is led by the Director, who sets the direction for OFHEO to achieve its mission of ensuring the safety and soundness of Fannie Mae and Freddie Mac. At the end of the fiscal year, OFHEO had a staff of 236 employees. In addition, OFHEO is actively recruiting to fill over 40 vacancies. The large percentage of vacancies is primarily a function of uncertain funding in 2007 caused by a continuing Fi Director Deputy Director Office of Office of Office of Office of External Relations Supervision General Counsel Executive Director Office of Technology Office of Human Office of Examination Office of Examination & Information Resources (Fannie Mae) (Freddie Mac Management Management Office of Budget Office of the Office of & Financial Chief Accountant Compliance Management Office of Strategic Office of Office of Policy Planning & Capital Supervision Analysis & Research Management Office of Supervision Office of Risk Policy, Systems and Analysis & Financial Quality Assurance Performance | | --- | --- | --- About OFHEO The Office of Federal Housing Enterprise Oversight (OFHEO) was established as an independent entity within the Department of Housing and Urban Development (HUD) by the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 (12 U.S.C. 4501 et seq.). At the end of the fiscal year, OFHEO had a staff of 236 employees. In addition, OFHEO is actively recruiting to fill over 40 vacancies. The large percentage of vacancies is primarily a function of uncertain funding in 2007 caused by a continuing None | Fi | gure 1 – Organization Chart for OFHEO About OFHEO The Office of Federal Housing Enterprise Oversight (OFHEO) was established as an independent entity within the Department of Housing and Urban Development (HUD) by the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 (12 U.S.C. 4501 et seq.). The agency is headed by a Director appointed by the President for a five-year term. James B. Lockhart III was nominated and appointed as Acting Director by President George W. Bush in May 2006, and was confirmed as the Director of OFHEO by the U.S. Senate in June 2006. OFHEO's mission is to promote housing and a strong national housing finance system by ensuring the safety and soundness of two housing government-sponsored enterprises (GSEs), Fannie Mae (Federal National Mortgage Association) and Freddie Mac (Federal Home Loan Mortgage Corporation). OFHEO works to ensure the capital adequacy and financial safety and soundness of these two GSEs, also known as the Enterprises. Although appropriated by Congress, OFHEO is funded through assessments on Fannie Mae and Freddie Mac and its operations represent no direct cost to the taxpayer. OFHEO’s Organizational Structure OFHEO is led by the Director, who sets the direction for OFHEO to achieve its mission of ensuring the safety and soundness of Fannie Mae and Freddie Mac. At the end of the fiscal year, OFHEO had a staff of 236 employees. In addition, OFHEO is actively recruiting to fill over 40 vacancies. The large percentage of vacancies is primarily a function of uncertain funding in 2007 caused by a continuing None | | About OFHEO The Office of Federal Housing Enterprise Oversight (OFHEO) was established as an independent entity within the Department of Housing and Urban Development (HUD) by the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 (12 U.S.C. 4501 et seq.). The agency is headed by a Director appointed by the President for a five-year term. James B. Lockhart III was nominated and appointed as Acting Director by President George W. Bush in May 2006, and was confirmed as the Director of OFHEO by the U.S. Senate in June 2006. OFHEO's mission is to promote housing and a strong national housing finance system by ensuring the safety and soundness of two housing government-sponsored enterprises (GSEs), Fannie Mae (Federal National Mortgage Association) and Freddie Mac (Federal Home Loan Mortgage Corporation). OFHEO works to ensure the capital adequacy and financial safety and soundness of these two GSEs, also known as the Enterprises. Although appropriated by Congress, OFHEO is funded through assessments on Fannie Mae and Freddie Mac and its operations represent no direct cost to the taxpayer. OFHEO’s Organizational Structure OFHEO is led by the Director, who sets the direction for OFHEO to achieve its mission of ensuring the safety and soundness of Fannie Mae and Freddie Mac. At the end of the fiscal year, OFHEO had a staff of 236 employees. In addition, OFHEO is actively recruiting to fill over 40 vacancies. The large percentage of vacancies is primarily a function of uncertain funding in 2007 caused by a continuing | |--------------------------------------------------------------------------------
+Model Risk Management: Revised Guidance | OCC (https://occ.gov/news-issuances/bulletins/2026/bulletin-2026-13.html)
+citeturn10search2 [wordlim: 200] Published: 6 months ago; Crawled: 2 days ago;   * OCC Bulletin 2026-13 | April 17, 2026 ... For the purposes of this guidance, the term “model” refers to a complex quantitative method, system, or approach that applies statistical, economic, or financial theories to process input data into quantitative estimates. ... For example, the agencies plan to issue in the near future a request for information that addresses model risk management generally and considers, in particular, banks’ use of AI, including generative AI and agentic AI and AI-based models.
+
+  * OCC Bulletin 2026-13 | April 17, 2026
+
+# Model Risk Management: Revised Guidance
+
+### To
+
+Chief Executive Officers of All National Banks, Federal Savings Associations, and Federal Branches and Agencies; Department and Division Heads; All Examining Personnel; and Other Interested Parties
+
+## Summary
+
+The Office of the Comptroller of the Currency (OCC), the Board of Governors of the Federal Reserve System (Federal Reserve Board), and the Federal Deposit Insurance Corporation (FDIC) (collectively, the agencies) are issuing updated interagency guidance and this bulletin to clarify model risk management principles, to set forth a risk-based approach to model risk management, and to rescind prior model risk management guidance and other issuances.
+
+## Rescissions
+
+This bulletin rescinds
+
+  * “Model Risk Management” booklet of the Comptroller’s Handbook
+  * OCC Bulletin 1997-24, “Credit Scoring Models: Examination Guidance,” including the Appendix, “Safety and Soundness and Compliance Issues on Credit Scoring Models”
+The OCC previously began to address technological, supervisory, and other developments by clarifying the scope of model risk management under existing guidance while acknowledging that the OCC will continue to review model risk management guidance.^{4}
+
+For the purposes of this guidance, the term “model” refers to a complex quantitative method, system, or approach that applies statistical, economic, or financial theories to process input data into quantitative estimates. The term “model” in this guidance excludes simple arithmetic calculations, such as those found within spreadsheets, as well as deterministic rule-based processes and software where there are no statistical, economic, or financial theories underpinning their design or use. Generative AI and agentic AI models are novel and rapidly evolving. As such, they are not within the scope of this guidance. Furthermore, this guidance is expected to be most relevant to banking organizations with over $30 billion in total assets. However, in some situations, this guidance also may be relevant to banking organizations with total assets of $30 billion or less that have significant exposure to model risk because of the prevalence and complexity of their models or because of activities outside the scope of traditional community banking.
+--------------------------------------------------------------------------------
+Dodd-Frank Act Stress Test (Company Run) | OCC (https://occ.gov/publications-and-resources/forms/dodd-frank-act-stress-test/index-dodd-frank-act-stress-test.html)
+citeturn10search3 [wordlim: 200] Crawled: today; These reporting templates collect quantitative projections of balance sheet, capital, losses, and income across several macroeconomic scenarios, along with qualitative information on methodologies. ... ## 2026 DFAST Templates and Instructions
+
+## Reporting Templates
+
+These reporting templates collect quantitative projections of balance sheet, capital, losses, and income across several macroeconomic scenarios, along with qualitative information on methodologies.
+
+Covered institutions are required to complete reporting templates using financial information as of December 31 of each year. For current reporting cycle, the OCC has proposed the following templates and instructions:
+
+## 2026 DFAST Templates and Instructions
+
+Templates  | Instructions  | Scenarios  | Technical Instructions
+--- | --- | --- | ---
+.zip  | .pdf  | .zip  | .zip
+
+See prior year (2015-2025) DFAST templates, instructions, scenarios, and technical instructions
+
+## Disclosure of Annual Stress Test Results
+
+The stress testing rule (12 CFR 46.8) requires a covered institution to publish a summary of the results of its stress test. The required summary of results may be published on the covered institution's website or in any other forum that is reasonably accessible to the public.
+--------------------------------------------------------------------------------
+OFHEO Releases 2007 Performance and Accountability Report | FHFA (https://www.fhfa.gov/news/news-release/ofheo-releases-2007-performance-and-accountability-report)
+citeturn10search4 [wordlim: 200] Published: 19.0 years ago; Crawled: last month;   * OFHEO published a Human Capital Strategic Plan and enhanced recruitment efforts in order to fill numerous vacancies and ensure a strong agency workforce.
+
+  * The agency made significant progress on the President’s Management Agenda (PMA) during FY 2007, including committing to five government-wide PMA initiatives.
+
+  * The agency’s 2006 OMB Program Assessment Rating Tool (PART) assessment, published in February 2007, found that OFHEO has improved its effectiveness, and that the agency’s key obstacle is the lack of legislation to strengthen its regulatory powers.
+
+  * OFHEO updated its Continuity of Operations (COOP) Plan, which identifies essential functions and alternate plans in an emergency.
+
+  * OFHEO published a Human Capital Strategic Plan and enhanced recruitment efforts in order to fill numerous vacancies and ensure a strong agency workforce.
+
+  * OFHEO launched a revamped and updated website with improved features and easier navigation.
+
+  * OFHEO published a Technology and Information Management Five-Year Strategic Plan.​
+
+
+
+The report provides a three-part summary of OFHEO’s operations, progress toward achieving the agency’s goals and a financial summary for FY 2007.
+
+“As this report shows, this agency has accomplished much but the challenges facing OFHEO, Fannie Mae, Freddie Mac and all stakeholders in the nation’s housing markets will continue in the year ahead,” said Lockhart. “Enhanced supervision and the legislation needed to strengthen GSE oversight are crucial to prevent a recurrence of past problems and potentially more serious ones in the future.”
+
+The PAR report in PDF format​​.​
+
+
+
+​Corinne Russell (202) 414-6921 / Stefanie Mullin (202) 414-6376--------------------------------------------------------------------------------
+Dodd-Frank Act Stress Test (Company Run) | OCC (https://www.occ.gov/publications-and-resources/forms/dodd-frank-act-stress-test/index-dodd-frank-act-stress-test.html)
+citeturn10search5 [wordlim: 200] Crawled: today; These reporting templates collect quantitative projections of balance sheet, capital, losses, and income across several macroeconomic scenarios, along with qualitative information on methodologies. ... ## 2026 DFAST Templates and Instructions
+
+The stress testing rule (12 CFR 46.5) requires a covered institution to conduct a stress test every other year, on even-numbered years, unless it is consolidated under a holding company that is required by the Board of Governors of the Federal Reserve (under 12 CFR 252.54(a)(2)) to conduct an annual company-run stress test. Generally, covered institutions subject to Category III standards will only conduct company-run stress tests in even-numbered reporting years (e.g., April 5, 2022, 2024, etc.). While the annual stress test requirement applies to covered institutions subject to Category I or Category II standards.
+
+## Scenarios
+
+The OCC releases economic and financial market scenarios that are used in the company-run stress test no later than February 15. The scenarios, which are not forecasts, include baseline and severely adverse scenarios. Each scenario includes economic variables, including macroeconomic activity, unemployment, exchange rates, prices, income, and interest rates. The severely adverse scenario is a hypothetical scenario designed to assess the strength and resilience of financial institutions.
+
+## Reporting Templates
+
+These reporting templates collect quantitative projections of balance sheet, capital, losses, and income across several macroeconomic scenarios, along with qualitative information on methodologies.
+
+Covered institutions are required to complete reporting templates using financial information as of December 31 of each year. For current reporting cycle, the OCC has proposed the following templates and instructions:
+
+## 2026 DFAST Templates and Instructions
+
+Templates  | Instructions  | Scenarios  | Technical Instructions
+--- | --- | --- | ---
+.zip  | .pdf  | .zip  | .zip
+
+See prior year (2015-2025) DFAST templates, instructions, scenarios, and technical instructions
+--------------------------------------------------------------------------------
+2007 OFHEO Performance and Accountability Report | FHFA (https://www.fhfa.gov/reports/fhfa-performance-and-accountability-report/2007)
+citeturn10search6 [wordlim: 200] Published: 19.0 years ago; Crawled: last month;   * OFHEO published a Human Capital Strategic Plan and enhanced recruitment efforts in order to fill numerous vacancies and ensure a strong agency workforce.
+--------------------------------------------------------------------------------
+Oversight of the Federal Housing Finance Agency | FHFA (https://www.fhfa.gov/news/testimony/oversight-of-the-federal-housing-finance-agency)
+citeturn10search7 [wordlim: 200] Published: 15.0 years ago; Crawled: 2 days ago; As a career-long federal employee, I, too, perceive the compensation agreements as large. ... That conclusion is further buttressed by the realization that, from an Enterprise executive’s or staff’s point of view, continued employment at an Enterprise risks substantial job and career uncertainty. ... It was important to set pay at levels sufficient to compete for quality talent because the Enterprises had many key vacancies to fill, potential departures to avoid, and pay has been a significant issue in some cases. ... The Enterprises likely would suffer a rapidly growing vacancy list and replacements with lesser skills and no experience in their specific jobs.
+--------------------------------------------------------------------------------
+Insider Lending Restrictions and Related Reporting Requirements: Status of Certain Investment Funds and Their Portfolio Investments | OCC (https://www.occ.gov/news-issuances/bulletins/2025/bulletin-2025-47.html)
+citeturn10search8 [wordlim: 200] Published: 10 months ago; Crawled: today; Regulation O, 12 CFR 215, places quantitative limits and qualitative restrictions on extensions of credit by banks to executive officers, directors, principal shareholders, and related interests of such persons. ... ^{2} The statement supersedes the application of the interagency statement to banks, previously issued on December 27, 2024, which is set to expire on January 1, 2026.
+--------------------------------------------------------------------------------
+The Future of the Mortgage Market and the Housing Enterprises | FHFA (https://www.fhfa.gov/news/testimony/the-future-of-the-mortgage-market-and-the-housing-enterprises)
+citeturn10search9 [wordlim: 200] Published: 17.1 years ago; Crawled: 2 days ago; Both Enterprises have filled significant vacancies at the executive management level. ... As we see improvements in the economy, opportunities for employees and officers to seek other employment will increase, adding to the current retention challenge. ... In addition to the stress in the single-family mortgage market, the multifamily market is experiencing declining property values and record vacancy rates.

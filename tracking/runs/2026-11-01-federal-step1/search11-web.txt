@@ -1,0 +1,856 @@
+IT Specialist (APPSW) at Department of Homeland Security | JB Andrews Military & Family Readiness Center (https://afdwjobs.jobboardhq.com/job/2qvw4r/it-specialist-%28appsw%29/washington/dc)
+citeturn12search0 [wordlim: 200] Published: 5 days ago; Crawled: 3 days ago; # IT Specialist (APPSW)
+
+## Department of Homeland Security | Washington, DC
+
+Posted Date 10/28/2026
+
+# IT Specialist (APPSW)
+
+## Department of Homeland Security | Washington, DC
+
+Posted Date 10/28/2026
+
+Description
+
+### Summary
+
+This position is located in the Resilience Federal Insurance Directorate Insurance Acquisition & Technology Division. Ideal candidate for this position will be a automation specialist with experience researching emerging technologies and prototyping low-code tools, AI workflows, dashboards, and scripts to improve NFIP operations and services.
+
+### Duties
+
+What will I do in this position if hired? In this position, you will be an IT Specialist. Typical assignments include: Supporting the identification and analysis of opportunities for automation and AI enabled workflow improvement across NFIP business operations, customer facing services, map modernization support, underwriting, and other program areas in coordination with business SMEs, analysts, UX, engineering, and data stakeholders. Assisting in configuring, prototyping, and testing low code/no code solutions, AI agents, workflow automations, dashboards, forms, lightweight applications, and scripts (for example Python) or utilities to query, transform, create, or validate data and workflow outputs using approved enterprise platforms such as Power Platform, GCP enabled tools, DHSChat, Python libraries, or similar technologies. --------------------------------------------------------------------------------
+USAJOBS - Job Announcement (https://www.usajobs.gov/job/891052100)
+citeturn12search1 [wordlim: 200] Crawled: 2 days ago;     891052100 ...   * Facilitates discussions with program-level operations research analyst(s) across the Agency including managers, subject matter experts, and law enforcement personnel to clarify issues and objectives to improve data quality and reporting. ...   * Requirements by Closing Date: Unless otherwise noted, you must meet all requirements by the closing date of the announcement.
+
+## Summary
+
+View Common Definitions of terms found in this announcement.
+Organizational Location: This position is located in the Department of Homeland Security, U.S. Immigration and Customs Enforcement, Chief Financial Officer, Office of Budget & Program Performance in Washington, District of Columbia.
+This is a non-bargaining unit position.
+
+## Overview
+
+Help
+
+Accepting applications
+
+Location
+
+Few vacancies in the following location:
+
+Washington, DC
+
+Work site options
+
+Telework eligible
+    No
+
+Remote job
+    No
+
+Relocation expenses reimbursed
+    No
+
+Salary
+    $102,415 - $158,322 per year
+
+Pay scale & grade
+
+
+GS 12 - 13
+
+Promotion potential
+    13
+
+Learn more about pay scale and grade
+
+Pay scale and grade determines the salary of the job.
+
+Work schedule
+    Full-time
+
+Travel Required
+    Occasional travel - OCCASIONAL TRAVEL
+
+Appointment type
+    Permanent
+
+Occupations and job series
+
+  * 1515 Operations Research
+
+Supervisory status
+    No
+
+Federal service type
+    This job is in the Competitive Service
+
+Represented by a union
+    No
+
+Drug test
+    Yes
+
+Security clearance
+    Not Required
+
+Position sensitivity and risk
+    Critical-Sensitive (CS)/High Risk
+
+Jobs require a background check and some require a security clearance. The type depends on the job.
+
+Background check type
+
+  * National security
+
+Financial disclosure required
+    No
+
+
+Some jobs require financial disclosure to identify conflicts of interests.
+
+Announcement number
+    DHA-CFO-13061801-2026-CLM
+
+Control number
+    891052100
+
+## This job is open to
+
+Help
+
+The public U.S. Citizens, Nationals or those who owe allegiance to the U.S.
+
+Career transition (CTAP, ICTAP, RPL) Federal employees whose job, agency or department was eliminated and are eligible for priority over other applicants.
+
+### Clarification from the agency
+
+These positions will be filled through the Office of Personnel Management's Direct Hire Authority for the occupation and is open to all U.S. citizens.
+
+## Duties
+
+Help
+
+As an Operations Research Analyst, at the full performance you will perform the following duties:
+
+  * Identified, formulated, and defined trends; designs research and study methods; developed, applied and interpreted appropriate models and methods in conducting operations research analysis; recommended new or amended legislation, policies and or procedures as they related to the effective and efficient management of the organizations resources.
+  * Provide analytic concepts to provide validity of assumptions made and the criteria by which alternatives will be assessed.
+  * Facilitates discussions with program-level operations research analyst(s) across the Agency including managers, subject matter experts, and law enforcement personnel to clarify issues and objectives to improve data quality and reporting.
+  * Performs risk-related cost-benefit analyses; develops mitigation strategies to address those gaps/risks; offering recommendations to mitigate risks associated with not obtaining appropriated resources for staffing and budget.
+  * Develops or recommends new policies and or procedures as they relate to the effective and efficient management of the organizations resources.
+  * Facilitates meetings with program stakeholders thorough all levels of directorates.
+  * Collaborates with Subject Matter Experts and Leadership to understand their program requirements. Clarifies issues into operational plans to understand their business process.
+  * Provide support to Management and Programs for strategic planning and assistance related to data research, analysis, modeling design and development, reporting and communicating results.
+
+## Requirements
+
+Help
+
+### Conditions of employment
+
+  * You must be a U.S. citizen to apply for this position.
+  * You must successfully pass a background investigation.
+  * You must successfully pass a drug screen.
+  * Males born after 12/31/59 must certify registration with Selective Service.
+  * Requirements by Closing Date: Unless otherwise noted, you must meet all requirements by the closing date of the announcement.
+  * Probationary Period: This is a full-time permanent position (Career/Career-Conditional appointment). Upon appointment to this position, you may be required to serve a one-year probationary period.
+
+### Qualifications
+
+Please limit your resume to 2 pages. If more than 2 pages are submitted, only the first 2 pages will be reviewed to determine your eligibility/qualifications.
+IN DESCRIBING YOUR EXPERIENCE, PLEASE BE CLEAR AND SPECIFIC. WE WILL NOT MAKE ASSUMPTIONS REGARDING YOUR EXPERIENCE.
+Do not copy and paste the duties, specialized experience, or occupational assessment questionnaire from this announcement into your resume as that will not be considered a demonstration of your qualifications for this position.
+Basic Education Requirement
+
+  * Degree: in operations research; or at least 24 semester hours in a combination of operations research, mathematics, probability, statistics, mathematical logic, science, or subject-matter courses requiring substantial competence in college-level mathematics or statistics.
+  * Applying quantitative and qualitative analysis to a variety of complex problems (to include, but not limited to: operations processes, business and management processes, mission support to programs, allocating resources, measuring performance, designing systems, managing logistics, budget analysis, work distribution, or analyzing large databases) to assist senior leaders in decision-making and problem solving of complex operational issues;
+  * Experience utilizing mathematical models (to include but not limited to: Monte Carlo simulation, linear and nonlinear programming, dynamic programming, queuing and other stochastic-process models, Markov decision processes, econometric methods, data envelopment analysis, neural networks, expert systems, decision analysis, and the analytic hierarchy process) to describe system or process being studied.
+Qualification requirements must be met by the closing date of this announcement. Qualification claims will be subject to verification.
+National Service Experience (i.e., volunteer experience): Experience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., Peace Corps, AmeriCorps) and other organizations (e.g., professional; philanthropic; religious; spiritual; community, student, social). If you are a member of one of these groups, you may not have to compete with the public for federal jobs. To determine your eligibility for non-competitive appointment and to understand the required documentation, click on the links above or contact the Servicing Human Resources Office listed at the bottom of this announcement.
+
+### Education
+
+*For GS-12 Education: There is no education substitution for this grade level.
+*For GS-13 Education: There is no education substitution for this grade level.
+
+### Additional information
+
+Promotion Potential: When promotion potential is shown, the agency is not making a commitment and is not obligated to provide future promotions to you if you are selected. Future promotions will be dependent on your ability to perform the duties at a higher level, the continuing need for an employee assigned to the higher level, and administrative approval.
+E-Verify: DHS uses E-Verify, an Internet-based system, to confirm the eligibility of all newly hired employees to work in the United States. Learn more about E-Verify, including your rights and responsibilities.
+Suitability: If you receive a conditional offer of employment for this position, you will be required to complete an Optional Form 306, Declaration for Federal Employment, and to sign and certify the accuracy of all information in your application, prior to entry on duty. False statements on any part of the application may result in withdrawal of offer of employment, dismissal after beginning work, fine, or imprisonment.
+Background Investigation: To ensure the accomplishment of our mission, DHS requires every employee to be reliable and trustworthy. To meet these standards, all selected applicants must undergo and successfully obtain and maintain a background investigation for as a condition of placement into this position. This may include a credit check, a review of financial issues such as delinquency in the payment of debts, child support and/or tax obligations, as well as certain criminal offenses and illegal use or possession of drugs.
+A student loan repayment incentive may be available, in which case a service agreement will be required.
+Note: One or more positions may be filled using this vacancy announcement. Applying to this announcement certifies that you give permission for DHS to share your application with others in DHS for similar positions.
+Salary: The salary range indicated in this announcement reflects the lowest and highest potential salaries for this position. The actual salary range will be based on the applicable locality pay for the selected duty location. General Schedule locality pay tables may be found under Salaries & Wages.
+
+Candidates should be committed to improving the efficiency of the Federal government, passionate about the ideals of our American republic, and committed to upholding the rule of law and the United States Constitution.
+
+
+You will be evaluated based on how well you meet the qualifications listed in this vacancy announcement. Your qualifications will be evaluated based on your application materials (e.g., resume, supporting documents), your responses on the application questionnaire, and your responses to all assessments required for this position.
+
+You will be assessed on the following competencies (knowledge, skills, abilities, and other characteristics):
+
+  * Arithmetic/Mathematical Reasoning
+  * Attention to Detail
+  * Customer Service
+  * Decision Making
+  * Flexibility
+  * Integrity/Honesty
+  * Interpersonal Skills
+  * Learning
+  * Reasoning
+  * Self-Management
+  * Stress Tolerance
+  * Teamwork
+In order to be considered for this position, you must complete all required steps in the process. In addition to the application and application questionnaire, this position requires an online assessment. The online assessment measures critical general competencies required to perform the job.
+
+The USA Hire Assessments includes a cut score based on the minimum level of required proficiency in these critical general competencies. You must meet or exceed the cut score to be considered. You will not be considered for the position if you score below the cut score or fail to complete the assessment.
+
+Overstating your qualifications and/or experience in your application materials or application questionnaire may result in your removal from consideration. Cheating on an assessment may also result in your removal from consideration.
+
+We will review your resume and supporting documentation to ensure you meet the minimum qualification requirements.
+Direct Hire Authority: These positions will be filled through the Office of Personnel Management's Direct Hire Authority. The "Rule of Three", Category Rating and Veterans Preference will not apply to this vacancy. For more information on Direct Hire Authority, please see: OPM Direct Hire Fact Sheet.
+Veterans: Although the Direct Hire Authority permits hiring without regard to Veterans Preference, applicants who are eligible for Veterans Preference are still encouraged to include that information in their application and submit supporting documentation (i.e. DD-214, or other substantiating documents). Staffing Policy View information on veterans' preference.
+Interagency Career Transition Assistance Program (ICTAP) Eligibles: If you have never worked for the federal government, you are not ICTAP eligible. View information about ICTAP eligibility on OPM's Career Transition Resources website. To be considered eligible under ICTAP, you must be placed in the well qualified category for this position. In addition, you must submit the supporting documents listed under the required documents section of this job announcement.
+Pursuant to Executive Order 12564, and the DHS Drug-Free Workplace Plan, ICE is committed to maintaining a drug-free workplace and, therefore, personnel in safety- or security-sensitive positions (testing designated positions) are subject to random drug testing. Moreover, other drug testing of employees (e.g., reasonable suspicion drug test) may be conducted in order to ensure a safe and healthy work environment. All applicants tentatively selected for employment at ICE are subject to pre-employment drug testing and a final offer of employment is contingent upon a negative drug test result.
+
+--------------------------------------------------------------------------------
+IT Specialist (APPSW) Job in Washington, DC (https://federalgovernmentjobs.us/jobs/IT-Specialist-APPSW-890584400.html)
+citeturn12search2 [wordlim: 200] Crawled: today; # IT Specialist (APPSW) Job in Washington, DC ... Open Date  | 10/28/2026  | Close Date  | 11/6/2026
+
+# IT Specialist (APPSW) Job in Washington, DC
+
+Vacancy No.  | FEMA-KB-13101602-MP  | Department  | Federal Emergency Management Agency
+Salary  | $121,785.00 to $158,322.00  | Grade  | 13 to 13
+Perm/Temp  | Permanent  | FT/PT  | Full-time
+Open Date  | 10/28/2026  | Close Date  | 11/6/2026
+Job Link  | Apply Online  | Who may apply  | Status Candidates
+Locations:
+Washington, DC
+
+# IT Specialist (APPSW)
+
+Department of Homeland Security
+
+Federal Emergency Management Agency
+
+## Summary
+
+This position is located in Resilience-FIMA Federal Insurance Ins Acquisition & Tech Div. The ideal candidate for this position will a automation specialist with experience researching emerging technologies and prototyping low-code tools, AI workflows, dashboards, and scripts to improve NFIP operations and services.
+
+### Clarification from the agency
+
+Individuals who do not meet the requirements shown below may apply under FEMA-KB-13101601-DE, which is open to the public. This job is open to: Status Candidates; DRRA Eligibles; Former Overseas Employees; CTAP; ICTAP; VEOA; 30% or More Disabled veterans; Schedule A; Military Spouses; Peace Corps; Americorps; Vista; Land/Base Management; Boren Awardees; and, Interchange Agreement Eligibles.
+--------------------------------------------------------------------------------
+IT Specialist (APPSW) Job in Washington, DC (https://federalgovernmentjobs.us/jobs/IT-Specialist-APPSW-890584000.html)
+citeturn12search3 [wordlim: 200] Crawled: today; # IT Specialist (APPSW) Job in Washington, DC ... Open Date  | 10/28/2026  | Close Date  | 11/6/2026
+
+# IT Specialist (APPSW) Job in Washington, DC
+
+Vacancy No.  | FEMA-KB-13101601-DE  | Department  | Federal Emergency Management Agency
+Salary  | $121,785.00 to $158,322.00  | Grade  | 13 to 13
+Perm/Temp  | Permanent  | FT/PT  | Full-time
+Open Date  | 10/28/2026  | Close Date  | 11/6/2026
+Job Link  | Apply Online  | Who may apply  | Public
+Locations:
+Washington, DC
+
+# IT Specialist (APPSW)
+
+Department of Homeland Security
+
+Federal Emergency Management Agency
+
+Resilience Federal Insurance Directorate Insurance Acquisition & Technology Division
+
+## Summary
+
+This position is located in the Resilience Federal Insurance Directorate Insurance Acquisition & Technology Division. Ideal candidate for this position will be a automation specialist with experience researching emerging technologies and prototyping low-code tools, AI workflows, dashboards, and scripts to improve NFIP operations and services.
+
+## This job is open to
+
+The public U.S. Citizens, Nationals or those who owe allegiance to the U.S.
+--------------------------------------------------------------------------------
+USAJOBS - Search (https://www.usajobs.gov/Search/?AutoCompleteSelected=&Location=&keyword=FEMA)
+citeturn12search4 [wordlim: 200] Crawled: today; Washington, District of Columbia ... ## IT Specialist (APPSW) ... Open 10/28/2026 to 11/06/2026
+
+Save job
+
+## Information Technology Specialist (Systems Analyst)
+
+Federal Emergency Management Agency • Department of Homeland Security
+
+Washington, District of Columbia
+
+Open 10/28/2026 to 11/03/2026
+
+Internal to an agency
+
+Show 1 more
+
+Internal to an agency
+
+Career transition (CTAP, ICTAP, RPL)
+
+Show less
+
+Starting at $143,913 Per year (GS 14)Permanent Full-time
+
+## Fire Program Specialist
+
+Federal Emergency Management Agency • Department of Homeland Security
+
+Emmitsburg, Maryland
+
+Open 10/29/2026 to 11/09/2026
+
+Open to the public
+
+Show 1 more
+
+Open to the public
+
+Career transition (CTAP, ICTAP, RPL)
+
+Show less
+
+Starting at $121,785 Per year (GS 13)Permanent Full-time
+
+Save job
+
+## Instructional Systems Specialist
+
+Federal Emergency Management Agency • Department of Homeland Security
+
+Emmitsburg, Maryland
+
+Open 10/28/2026 to 11/11/2026
+
+Open to the public
+
+Show 1 more
+
+Open to the public
+
+Career transition (CTAP, ICTAP, RPL)
+
+Show less
+
+Starting at $121,785 Per year (GS 13)Permanent Full-time
+
+Open 10/27/2026 to 11/05/2026
+
+Open to the public
+
+Show 1 more
+
+Open to the public
+
+Career transition (CTAP, ICTAP, RPL)
+
+Show less
+
+Starting at $85,447 Per year (GS 11-12)Permanent Full-time
+
+Save job
+
+## IT Specialist (APPSW)
+
+Federal Emergency Management Agency • Department of Homeland Security
+
+Washington, District of Columbia
+
+Open 10/28/2026 to 11/06/2026
+
+Open to the public
+
+Show 1 more
+
+Open to the public
+
+Career transition (CTAP, ICTAP, RPL)
+
+Show less
+
+Starting at $121,785 Per year (GS 13)Permanent Full-time
+
+Save job
+
+## Fire Program Specialist
+
+Federal Emergency Management Agency • Department of Homeland Security
+
+Emmitsburg, Maryland
+
+Open 10/29/2026 to 11/09/2026
+
+Competitive service
+
+Show 8 more
+
+Competitive service
+
+Career transition (CTAP, ICTAP, RPL)
+
+Land and base management
+
+Veterans
+
+Military spouses
+
+Individuals with disabilities
+
+Family of overseas employees
+
+Peace Corps & AmeriCorps Vista
+
+Special authorities
+
+Show less
+
+Starting at $121,785 Per year (GS 13)Permanent Full-time
+
+## Emergency Management Specialist (Geospatial)
+
+Federal Emergency Management Agency • Department of Homeland Security
+
+Lakewood, Colorado
+
+Open 10/27/2026 to 11/03/2026
+
+Open to the public
+
+Show 1 more
+
+Open to the public
+
+Career transition (CTAP, ICTAP, RPL)
+
+Show less
+
+Starting at $118,675 Per year (GS 13)Permanent Full-time
+
+Save job
+
+## Information Technology Specialist (INET)
+
+Federal Emergency Management Agency • Department of Homeland Security
+
+Emmitsburg, Maryland
+
+Open 10/27/2026 to 11/05/2026
+
+Competitive service
+
+Show 8 more
+
+Competitive service
+
+Career transition (CTAP, ICTAP, RPL)
+
+Land and base management
+
+Veterans
+
+Military spouses
+
+Individuals with disabilities
+
+Family of overseas employees
+
+Peace Corps & AmeriCorps Vista
+
+Special authorities
+
+Show less
+
+Starting at $85,447 Per year (GS 11-12)Permanent Full-time
+
+## IT Specialist
+
+Federal Emergency Management Agency • Department of Homeland Security
+
+Washington, District of Columbia
+
+Open 10/28/2026 to 11/06/2026
+
+Competitive service
+
+Show 8 more
+
+Competitive service
+
+Career transition (CTAP, ICTAP, RPL)
+
+Land and base management
+
+Veterans
+
+Military spouses
+
+Individuals with disabilities
+
+Family of overseas employees
+
+Peace Corps & AmeriCorps Vista
+
+Special authorities
+
+Show less
+
+Starting at $121,785 Per year (GS 13)Permanent Full-time
+
+## Training Specialist (Distance Learning)
+
+Federal Emergency Management Agency • Department of Homeland Security
+
+Emmitsburg, Maryland
+
+Open 10/23/2026 to 11/05/2026
+
+Competitive service
+
+Show 8 more
+
+Competitive service
+
+Career transition (CTAP, ICTAP, RPL)
+
+Land and base management
+
+Veterans
+
+Military spouses
+
+Individuals with disabilities
+
+Family of overseas employees
+
+Peace Corps & AmeriCorps Vista
+
+Special authorities
+
+Show less
+
+Starting at $70,623 Per year (GS 9-12)Permanent Full-time
+
+## Firefighter (BLS/HazMat Technician)
+
+Federal Emergency Management Agency • Department of Homeland Security
+
+Round Hill, Virginia
+
+Open 10/27/2026 to 11/05/2026
+
+Competitive service
+
+Show 8 more
+
+Competitive service
+
+Career transition (CTAP, ICTAP, RPL)
+
+Land and base management
+
+Veterans
+
+Military spouses
+
+Individuals with disabilities
+
+Family of overseas employees
+
+Peace Corps & AmeriCorps Vista
+
+Special authorities
+
+Show less
+
+Starting at $46,610 Per year (GS 5-8)Permanent Full-time
+
+## Program Manager (Dean)
+
+Federal Emergency Management Agency • Department of Homeland Security
+
+Emmitsburg, Maryland
+
+Open 10/26/2026 to 11/04/2026
+
+Open to the public
+
+Show 1 more
+
+Open to the public
+
+Career transition (CTAP, ICTAP, RPL)
+
+Show less
+
+Starting at $169,279 Per year (GS 15)Permanent Full-time
+
+## IT Specialist (APPSW)
+
+Federal Emergency Management Agency • Department of Homeland Security
+
+Washington, District of Columbia
+
+Open 10/28/2026 to 11/06/2026
+
+Competitive service
+
+Show 8 more
+
+Competitive service
+
+Career transition (CTAP, ICTAP, RPL)
+
+Land and base management
+
+Veterans
+
+Military spouses
+
+Individuals with disabilities
+
+Family of overseas employees
+
+Peace Corps & AmeriCorps Vista
+
+Special authorities
+
+Show less
+
+Starting at $121,785 Per year (GS 13)Permanent Full-time--------------------------------------------------------------------------------
+IT Specialist (APPSW) | DatenUS Jobs (https://jobs.datenus.com/federal-jobs/job/890024200)
+citeturn12search5 [wordlim: 200] Crawled: 3 days ago; IT Specialist (APPSW) ...   * Washington, DC ... Data as of 10/28/2026
+  3. IT Specialist (APPSW)
+
+Checked Oct 28, 2026
+
+# IT Specialist (APPSW)
+
+Deputy Assistant Secretary for Information and Technology, Department of Veterans Affairs
+
+## Job summary
+
+Pay
+    $125,776 to $163,514 a year
+
+Grade
+    Grade 14
+
+Open to
+    Career transition (CTAP, ICTAP, RPL), The public (U.S. citizens and nationals)
+
+Opened
+    Oct 23, 2026
+
+Closes
+    Oct 29, 2026
+
+Job series
+    2210
+
+This position is located in the Department of Veterans Affairs (VA), Office of Information and Technology (OIT) within this services: Software Product Management, Product Engineering Service, Chief Technology Office, Compliance, Risk and Remediation. The incumbent will serve as Senior Information Technology (IT) Specialist. The purpose of the position is to develop, coordinate, and monitor, assess and elevate development schedules for applications assigned to OIT.
+
+View and apply on USAJOBS
+
+## 20 locations
+
+  * Salt Lake City, UT
+  * Seattle, WA
+  * Phoenix, AZ
+  * Los Angeles, CA
+  * San Francisco, CA
+  * Denver, CO
+  * Washington, DC
+  * Miami, FL
+  * Atlanta, GA
+  * Chicago, IL
+  * Indianapolis, IN
+  * New Orleans, LA
+  * Boston, MA
+  * Minneapolis, MN
+  * Kansas City, MO
+  * Albuquerque, NM
+  * New York, NY
+  * Oklahoma City, OK
+  * Portland, OR
+  * Austin, TX
+
+## Data sources
+
+  * USAJOBSU.S. Office of Personnel Management
+
+Data as of 10/28/2026
+
+The announcement on USAJOBS is the official version. Details can change or the job can close early.--------------------------------------------------------------------------------
+USAJOBS - Job Announcement (https://ice.usajobs.gov/job/891052100)
+citeturn12search6 [wordlim: 200] Crawled: today; This provides an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). ... You will be asked to certify that you are using your own words and did not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot. ... PLEASE NOTE: If your materials are not received by the closing date, your application will be evaluated solely on the information available and you may not receive full consideration or may not be considered eligible. ...     PROG ANALYSIS AND EVALUATION BR
+# How to Apply
+
+Help
+
+To apply for this position, you must complete the Occupational Questionnaire https://apply.usastaffing.gov/ViewQuestionnaire/13061801, and assessmentand submit all the required documentation as specified in the HOW TO APPLY and the REQUIRED DOCUMENTS section.
+The complete initial Application must be submitted by 11:59 PM (EST) on 11/13/2026.
+The vacancy questionnaire includes four short, free-response essay questions. This provides an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot.
+Your application packet must include a completed assessment questionnaire, a resume, and any applicable and or required supporting documentation. Please see the "Required Documents" section below for additional information. All application materials, including transcripts, must be in English. We encourage you to apply online.
+Applications and supporting documentation will not be accepted by mail or email. The address below is for inquiries only. You may apply more than once, but the most recent application is the only one that will be used. You must submit your resume, your online questionnaire, and any supporting documents by 11:59 PM eastern standard time on11/13/2026.
+It is your responsibility to verify that any information entered or uploaded is received and is accurate. Human Resources will not modify or change any part of your application. Determining your eligibility and qualifications is dependent on the supporting documentation and information provided, which may impact your referral for further consideration. If a document is not legible, you will not be able to view it in your application.
+One or more positions may be filled using this vacancy announcement.
+Applying to this announcement certifies that you give permission for DHS to share your application with others in DHS for similar positions.
+
+
+### Agency contact information
+
+Chalmatta McCalebb
+
+Email
+    chalmatta.mccalebb@associates.ice.dhs.gov
+
+Address
+    PROG ANALYSIS AND EVALUATION BR
+500 12th Street SW
+Washington, DC 20536
+US
+
+### Next steps
+
+Once you submit your application, we will assess your experience and training, identify the minimally qualified applicants, and refer those applications to the hiring manager for further consideration and interviews. We will notify you by email after each of these steps has been completed. Your status will also be updated on USAJOBS throughout the process. To check your status, log on to your USAJOBS account, click on "Application Status," and then click "More Information." We expect to make a job offer within 60 days after the deadline for applications. If you are selected, we will conduct a suitability/security background investigation. View more information on applying for federal employment.
+Any offers of employment made pursuant to this announcement will be consistent with all applicable authorities, including Presidential Memoranda, Executive Orders, interpretive U.S. Office of Management and Budget (OMB) and U.S. Office of Personnel Management (OPM) guidance, and Office of Management and Budget plans and policies concerning hiring. These authorities are subject to change.
+
+## Immigration and Customs Enforcement
+
+The Department of Homeland Security (DHS) is calling on those who want to help protect American interests and secure our Nation. DHS components work collectively to prevent terrorism; secure borders and our transportation systems; protect the President and other dignitaries; enforce and administer immigration laws, safeguard cyberspace; and ensure resilience to disasters. We achieve these vital missions through a dynamic workforce spanning hundreds of occupations. Make an impact; join DHS.
+The mission of U.S. Immigration and Customs Enforcement (ICE) is to protect America from the cross-border crime and illegal immigration that threaten national security and public safety. ICE focuses on smart immigration enforcement, preventing terrorism, and combating the illegal movement of people and goods. ICE is the principal investigative arm of DHS and the second largest investigative agency in the federal government. Created in 2003, through a merger of the investigative and interior enforcement elements of the U.S. Customs Service and the Immigration and Naturalization Service, ICE has more than 20,000 employees in more than 400 offices in the United States and around the world. ICE is a key component of the DHS layered approach to protecting our nation from a wide range of threats. For additional information about ICE and career opportunities, please visit www.ice.gov.--------------------------------------------------------------------------------
+IT Specialist (APPSW) at Department of Homeland Security: $121,785 - $158,322 base · Six Figure Work (https://sixfigurework.com/jobs/it-specialist-appsw-64a2af1d-0aeb-4da2-bb5b-629399be56c7)
+citeturn12search7 [wordlim: 200] Published: 5 days ago; Crawled: today; # IT Specialist (APPSW) ...     2026-10-28 ... Location as the employer wrote it: Washington, District of Columbia
+
+## Observed changes
+
+  1. Oct 28, 2026 13:11 UTC Began meeting the published-salary criteria
+  2. Oct 28, 2026 13:11 UTC First observed on the employer's board
+
+Observed since
+    Oct 28, 2026
+
+Employer-stated posting date
+    2026-10-28
+
+Where this pay comes from
+
+Location as the employer wrote it: Washington, District of Columbia
+
+> USD 121,785 – 158,322 · PA · federal_basic_pay
+
+Method
+    Structured pay field published by the employer
+
+Checked
+    Nov 1, 2026 19:29 UTC
+
+Rule set
+    us-base-v2
+
+Source
+    Employer posting (opens in new tab)
+
+The employer's job board publishes this pay as a dedicated data field. We read the field directly; no interpretation was needed.
+
+### What we verified
+
+  * The pay figures come from the employer's own listing, quoted exactly above.
+  * The pay is an annual base salary in US dollars with a minimum of at least $100,000.
+  * The role was publicly listed on the employer's job board when last checked.
+
+We do not verify what the employer will actually offer, whether the employer is still recruiting for the role, or anything beyond what the employer published. Full methodology.--------------------------------------------------------------------------------
+IT Specialist (APPSW/INET) Job in Quantico, VA (https://federalgovernmentjobs.us/jobs/IT-Specialist-APPSW-INET-890572600.html)
+citeturn12search8 [wordlim: 200] Crawled: today; Open Date  | 10/28/2026  | Close Date  | 11/4/2026 ... About the Position: The IT Specialist (APPSW/INET) provides support to Naval Health Clinic Quantico in Washington, DC, helping ensure consistent, high-quality patient care and facility operations.
+
+# IT Specialist (APPSW/INET) Job in Quantico, VA
+
+Vacancy No.  | HSJT-27-13090193  | Department  | Military Treatment Facilities under DHA
+Salary  | $102,415.00 to $133,142.00  | Grade  | 12 to 12
+Perm/Temp  | Permanent  | FT/PT  | Full-time
+Open Date  | 10/28/2026  | Close Date  | 11/4/2026
+Job Link  | Apply Online  | Who may apply  | Public
+Locations:
+Quantico, VA
+
+# IT Specialist (APPSW/INET)
+
+Department of Defense
+
+Military Treatment Facilities under DHA
+
+Naval Health Clinic Quantico, Director of Administration
+
+## Summary
+
+About the Position: The IT Specialist (APPSW/INET) provides support to Naval Health Clinic Quantico in Washington, DC, helping ensure consistent, high-quality patient care and facility operations.
+This is a Direct Hire Solicitation
+
+## This job is open to
+
+The public U.S. Citizens, Nationals or those who owe allegiance to the U.S.
+
+## Duties
+
+  * Serve as an Information Technology (IT) Subject matter expert with duties to provide direct customer service integration support for the Information Systems Engineering (ISEC) SharePoint Portal design.
+--------------------------------------------------------------------------------
+IT Specialist (APPSW) – Federal Emergency Management Agency (https://usa.748job.com/job/890584000/)
+citeturn12search9 [wordlim: 200] Published: 5 days ago; Crawled: 3 days ago; # IT Specialist (APPSW) ... 2026-11-06 · About 1 week left ... After FEMA completes its hiring, the resumes of the remaining candidates referred for selection consideration may be shared with other DHS Components and other federal agencies.
+
+# IT Specialist (APPSW)
+
+Department of Homeland Security › Federal Emergency Management Agency
+
+Salary
+
+$121,785 – $158,322 per year
+
+(GS-13)
+
+Location
+
+Washington, District of Columbia
+
+Job type
+
+Full-time
+
+Security Clearance
+
+Not Required
+
+Application Deadline
+
+2026-11-06 · About 1 week left
+
+Posted
+
+2026-10-28
+
+## Who may apply
+
+This job is open to the following hiring paths:
+
+You only need to qualify under one of these hiring paths. You must also meet the job announcement's other requirements.
+
+  * Open to the public
+  * Career transition (CTAP, ICTAP, RPL)Career transition and reemployment programs for eligible current or former federal employees. Check the official posting for eligibility.
+
+Apply on usajobs.gov
+
+## Job Details
+
+### Position Overview
+
+This position is located in the Resilience Federal Insurance Directorate Insurance Acquisition & Technology Division. Ideal candidate for this position will be a automation specialist with experience researching emerging technologies and prototyping low-code tools, AI workflows, dashboards, and scripts to improve NFIP operations and services.
+--------------------------------------------------------------------------------
+IT Specialist (APPSW/INET) at Military Treatment Facilities under DHA: $102,415 - $133,142 base · Six Figure Work (https://sixfigurework.com/jobs/it-specialist-appsw-inet-4cb30971-bfe7-453e-ade7-527a9de7191d)
+citeturn12search10 [wordlim: 200] Published: 5 days ago; Crawled: 3 days ago; About the Position: The IT Specialist (APPSW/INET) provides support to Naval Health Clinic Quantico in Washington, DC, helping ensure consistent, high-quality patient care and facility operations. ...     2026-10-28
+--------------------------------------------------------------------------------
+USAJOBS - Search (https://www.usajobs.gov/search/results/?k=cybersecurity&l=Washington)
+citeturn12search11 [wordlim: 200] Crawled: last week; ## IT Specialist (APPSW) ... Washington, District of Columbia + 22 location(s) ... Open 10/22/2026 to 10/28/2026

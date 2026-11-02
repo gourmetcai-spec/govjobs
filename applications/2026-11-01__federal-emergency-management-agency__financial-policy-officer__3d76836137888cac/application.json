@@ -1,0 +1,32 @@
+{
+  "employer": "Federal Emergency Management Agency",
+  "title": "Financial Policy Officer",
+  "requisition_id": "FEMA-JB-13100736-DE",
+  "posted_date": "2026-10-30",
+  "close_date": "2026-11-09",
+  "location": "Washington, DC or Winchester, VA",
+  "salary": "$169,279–$197,200 per year; GS-15",
+  "fit": "Financial systems and senior management overlap.",
+  "gaps": "Mandatory financial policy design/implementation, financial management systems policy direction and legislative/regulatory advice need specific evidence; baseline focuses on engineering/model delivery.",
+  "canonical_url": "https://www.usajobs.gov/job/891011700",
+  "application_url": "https://www.usajobs.gov/job/891011700",
+  "posted_date_evidence": "Mirror October 30–November 9; official announcement accepting applications.",
+  "retrieved_at": "2026-11-02T00:53:12.615092+00:00",
+  "status": "needs_verification",
+  "aliases": [],
+  "discovery_window": [
+    "2026-09-01",
+    "2026-11-01"
+  ],
+  "remote_restrictions": "Not remote; DMV duty station offered. Confirm telework policy in official job description.",
+  "open_evidence": "Official USAJOBS announcement retrieved through web tool and reports Accepting applications; recheck at Step 2.",
+  "hiring_path": "Open to the public",
+  "control_number": "891011700",
+  "id": "3d76836137888cac",
+  "step": 1,
+  "selected": false,
+  "submitted": false,
+  "artifacts": {},
+  "resume_status": "not_generated_verification_required",
+  "resume_review": "Not generated; unresolved mandatory requirements."
+}

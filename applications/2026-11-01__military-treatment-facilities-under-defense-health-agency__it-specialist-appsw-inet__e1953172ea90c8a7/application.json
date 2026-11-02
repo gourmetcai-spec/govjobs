@@ -1,0 +1,32 @@
+{
+  "employer": "Military Treatment Facilities under Defense Health Agency",
+  "title": "IT Specialist (APPSW/INET)",
+  "requisition_id": "HSJT-27-13090193",
+  "posted_date": "2026-10-28",
+  "close_date": "2026-11-04",
+  "location": "Quantico, VA",
+  "salary": "$102,415–$133,142 per year; GS-12",
+  "fit": "Java web applications and system integrations overlap.",
+  "gaps": "Mandatory SharePoint applications/enhancements and DoD security compliance are not documented; confirm before eligibility. Clearance, health screening and vaccination conditions remain unanswered.",
+  "canonical_url": "https://www.usajobs.gov/job/890572600",
+  "application_url": "https://www.usajobs.gov/job/890572600",
+  "posted_date_evidence": "Mirror October 28–November 4; official announcement accepting applications.",
+  "retrieved_at": "2026-11-02T00:53:12.615092+00:00",
+  "status": "needs_verification",
+  "aliases": [],
+  "discovery_window": [
+    "2026-09-01",
+    "2026-11-01"
+  ],
+  "remote_restrictions": "Not remote; DMV duty station offered. Confirm telework policy in official job description.",
+  "open_evidence": "Official USAJOBS announcement retrieved through web tool and reports Accepting applications; recheck at Step 2.",
+  "hiring_path": "Open to the public",
+  "control_number": "890572600",
+  "id": "e1953172ea90c8a7",
+  "step": 1,
+  "selected": false,
+  "submitted": false,
+  "artifacts": {},
+  "resume_status": "not_generated_verification_required",
+  "resume_review": "Not generated; unresolved mandatory requirements."
+}

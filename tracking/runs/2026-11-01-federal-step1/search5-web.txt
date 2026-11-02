@@ -1,0 +1,673 @@
+USAJOBS - Search (https://www.usajobs.gov/Search/Results?k=artificial+intelligence&p=1)
+citeturn4view0 [wordlim: 200] Crawled: 3 days ago; Content type: text/html; Source: open({"ref_id":"https://www.usajobs.gov/Search/Results?k=artificial+intelligence&p=1","lineno":100}); Total lines: 288
+L0: 【0†Skip to main content】
+L1:
+L2: 【1†Image: U.S. flag】
+L3:
+L4: [Button: An official website of the United States government ]
+L5:
+L6: [Button: MENU ]
+L7:
+L8: Find your federal government job
+L9:
+L10: Enter a job or keyword to start searching
+L11:
+L12: [Input]
+L13:
+L14: Where do you want to work?
+L15:
+L16: [Input]
+L17:
+L18: [Button: Search]
+L19: # Search results
+L20:
+L21: Who can apply
+L22:
+L23: Who can apply
+L24:   * [Input] Open to the public (0)
+L25:   * [Input] Competitive service (0)
+L26:   * [Input] Excepted service (0)
+L27:   * [Input] Internal to an agency (0)
+L28:   * [Input] Career transition (CTAP, ICTAP, RPL) (0)
+L29:   * [Input] Land & base management (0)
+L30:   * [Input] Veterans (0)
+L31:   * [Input] Military spouses (0)
+L32:   * [Input] National Guard & reserves (0)
+L33:   * [Input] Students (0)
+L34:   * [Input] Recent graduates (0)
+L35:   * [Input] Senior executives (0)
+L36:   * [Input] Individuals with disabilities (0)
+L37:   * [Input] Family of overseas employees (0)
+L38:   * [Input] Native Americans (0)
+L39:   * [Input] Peace Corps & AmeriCorps Vista (0)
+L40:   * [Input] Special authorities (0)
+L41: 【2†Choose your hiring path†usajobshelp.opm.gov】 [Button: Apply]
+L42:
+L43: Pay or Experience
+L44:
+L45: Pay or experience level
+L46:
+L47: Add a minimum salary
+L48:
+L49: [Input] $ [Button: Apply]
+L50:
+L51: Or choose a grade.
+L52:
+L53: The government puts many jobs on the General Schedule (GS) grade scale which sets pay based on experience. The higher the grade means the more experience required.
+L54:
+L55: Min grade [Select]
+L56:
+L57: Max grade [Select]
+L58:
+L59: [Button: Apply]
+L60:
+L61: 【3†What grade am I qualified for?†usajobshelp.opm.gov】
+L62:
+L63: Security clearance
+L64:
+L65: Security clearance
+L66:   * [Input] Not Required (0)
+L67:   * [Input] Confidential (0)
+L68:   * [Input] Secret (0)
+L69:   * [Input] Top secret (0)
+L70:   * [Input] Sensitive Compartmented Information (0)
+L71:   * [Input] Q Access Authorization (0)
+L72:   * [Input] L Access Authorization (0)
+L73:   * [Input] Other (0)
+L74:
+L75: 【4†How security clearance works†usajobshelp.opm.gov】 [Button: Apply]
+L76:
+L77: Job type
+L78:
+L79: Job type
+L80:   * [Input] Detail (0)
+L81:   * [Input] Intermittent (0)
+L82:   * [Input] Internships (0)
+L83:   * [Input] Multiple (0)
+L84:   * [Input] Permanent (0)
+L85:   * [Input] Recent graduates (0)
+L86:   * [Input] Seasonal (0)
+L87:   * [Input] Summer (0)
+L88:   * [Input] Supervisor (0)
+L89:   * [Input] Temporary (0)
+L90:   * [Input] Temporary promotion (0)
+L91:   * [Input] Term (0)
+L92:
+L93: 【5†How job types work†usajobshelp.opm.gov】 [Button: Apply]
+L94:
+L95: Travel
+L96:
+L97: Are you willing to travel?
+L98:   * [Input] Not required (0)
+L99:   * [Input] Occasional travel (0)
+L100:   * [Input] 25% or less (0)
+L101:   * [Input] 50% or less (0)
+L102:   * [Input] 75% or less (0)
+L103:   * [Input] 76% or greater (0)
+L104:
+L105: 【6†What travel requirements mean†usajobshelp.opm.gov】 [Button: Apply]
+L106:
+L107: Work schedule
+L108:
+L109: Work schedule
+L110:
+L111:   * [Input] Full-time (0)
+L112:   * [Input] Part-time (0)
+L113:   * [Input] Shift work (0)
+L114:   * [Input] Intermittent (0)
+L115:   * [Input] Job sharing (0)
+L116:   * [Input] Multiple schedules (0)
+L117: 【7†How to filter by work schedule†usajobshelp.opm.gov】 [Button: Apply]
+L118:
+L119: Occupation
+L120:
+L121: Occupations and job series
+L122:
+L123: This is how we group federal jobs.
+L124:
+L125: [Input]
+L126:
+L127: [Input] Show all
+L128:
+L129: There is no occupation or job series that matches this search. Try taking the 【8†career explorer quiz】 to find occupations and job series that match your interests. Learn more about 【9†occupations and job series in the Help Center†usajobshelp.opm.gov】.
+L130:
+L131: 【8†Take a quiz to explore careers】 [Button: Apply]
+L132:
+L133: Agency
+L134: Agencies and departments
+L135:
+L136: [Input]
+L137:
+L138: [Input] Include
+L139:
+L140: [Input] Remove
+L141:
+L142: [Input] Show all
+L143:
+L144: There is no agency or department that matches this search. Learn more about 【10†agencies and departments in the Help Center†usajobshelp.opm.gov】.
+L145:
+L146: 【10†How to filter by agency†usajobshelp.opm.gov】 [Button: Apply]
+L147:
+L148: Work site
+L149:
+L150: Work site
+L151:
+L152: [Input] Remote jobs
+L153:
+L154: [Input] Exclude remote jobs
+L155:
+L156: [Input] Offers telework
+L157:
+L158: 【11†What are remote and telework jobs?†usajobshelp.opm.gov】
+L159:
+L160: Distance
+L161:
+L162: Distance from city center
+L163: Reset distance filter Reset
+L164:
+L165: [Input] 5 mi
+L166:
+L167: [Input] 10 mi
+L168:
+L169: [Input] 25 mi
+L170:
+L171: [Input] 50 mi
+L172:
+L173: [Input] 100 mi
+L174:
+L175: 【12†How to filter by distance†usajobshelp.opm.gov】
+L176:
+L177: Relocation assistance
+L178:
+L179: Sort by
+L180:
+L181: Sort by
+L182:
+L183: [Input] Recently posted
+L184:
+L185: [Input] Closing soon
+L186:
+L187: [Input] Highest salary
+L188:
+L189: 【13†How posting dates work†usajobshelp.opm.gov】
+L190:
+L191: Turn on job alert
+L192:
+L193: Turn on job alert
+L194:
+L195: We'll email new jobs that match this search and filters. 【14†See all job alerts】.
+L196:
+L197: [Button: Sign in]
+L198:
+L199: [Input]
+L200:
+L201: Name of alert *
+L202:
+L203: [Input]
+L204:
+L205: Frequency *
+L206: [Input]Daily
+L207:
+L208: [Input]Weekly
+L209:
+L210: [Input]Monthly
+L211:
+L212: [Input]Never
+L213:
+L214: 【15†Help†usajobshelp.opm.gov】
+L215:
+L216: [Button: Add new job alert]
+L217:
+L218: Hide default filters
+L219:
+L220: Hide default filters
+L221:
+L222: You have filters saved.
+L223:
+L224: Add or remove a filter to update.
+L225:
+L226: 【16†Help†usajobshelp.opm.gov】 [Button: Delete default filters]
+L227: ## Please refine your search
+L228:
+L229: We couldn't find any results. Try refining your search.
+L230:
+L231: ## No jobs found
+L232: ### Other search suggestions:
+L233:
+L234:   * Check your spelling.
+L235:   * Use more generic 【17†keywordsOpens in a new window†usajobshelp.opm.gov】 or fewer keywords.
+L236:   * Use the filters to broaden or narrow your search. Expand the Show options with 0 jobs to see more options.
+L237:   * Review the 【9†Opens in a new windowfederal occupation titles†usajobshelp.opm.gov】. We may use a different job title or description than what you are searching for.
+L238: ## Discover federal jobs with the Career Explorer
+L239:
+L240: Tell us what you're interested in and we'll match you with federal jobs.
+L241:
+L242: 【18†Take quiz】
+L243:
+L244: ## What you can do next
+L245:
+L246: ###
+L247:
+L248: Add a resume to your profile
+L249:
+L250: You can upload your own resume or use our resume builder tool to create one online. You can add up to five different resumes.
+L251:
+L252: 【19†Upload a resume】 【20†Build a resume】
+L253: ###
+L254:
+L255: Get noticed by agency recruiters
+L256:
+L257: Once you add a resume to your profile, make it searchable. Agency recruiters can view your profile and resume when it's searchable. They may reach out to you if your skills and experience match the jobs they're looking to fill.
+L258:
+L259: 【21†Make your resume searchable】
+L260: ###
+L261:
+L262: Provide your military service information
+L263:
+L264: If you're a veteran or a family member of a veteran, answer a few questions to see if you're eligible for veteran's preference or a special hiring authority.
+L265:
+L266: 【22†Answer military service questions】
+L267: ## Your session is about to expire!
+L268:
+L269: Your USAJOBS session will expire due to inactivity in 8 minutes. Any unsaved data will be lost if you allow the session to expire. Click the button below to continue your session.
+L270:
+L271: [Button: Sign out] [Button: Stay signed in]
+L272:
+L273: [Button: Return to top]
+L274:
+L275: 【23†Image: USAJOBS footer logo】
+L276:
+L277: USAJOBS is a 【24†Opens in a new windowUnited States Office of Personnel Management†www.opm.gov】 website.
+L278: 【25†(Opens in a new window) OPM on LinkedIn†www.linkedin.com】 【26†(Opens in a new window) OPM YouTube channel†www.youtube.com】 【27†(Opens in a new window) OPM on X†x.com】
+L279:   * 【28†About USAJOBS】
+L280:   * 【29†Opens in a new windowAccessibility†usajobshelp.opm.gov】
+L281:   * 【30†Opens in a new windowFOIA†www.opm.gov】
+L282:   * 【31†Opens in a new windowInspector general†www.opm.gov】
+L283:   * 【32†Opens in a new windowNo Fear Act Data†www.opm.gov】
+L284:   * 【33†Opens in a new windowPrivacy policy†usajobshelp.opm.gov】
+L285:   * 【34†Opens in a new windowReports and publications†www.opm.gov】
+L286:   * 【35†Opens in a new windowTerms and conditions†usajobshelp.opm.gov】
+L287:   * 【36†Opens in a new windowUSA.gov†www.usa.gov】
+--------------------------------------------------------------------------------
+USAJOBS - Job Announcement (https://www.usajobs.gov/job/889960700)
+citeturn4view1 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.usajobs.gov/job/889960700","lineno":null}); Total lines: 504
+L0: 【0†Skip to main content】
+L1:
+L2: 【1†Image: U.S. flag】
+L3:
+L4: [Button: An official website of the United States government ]
+L5:
+L6: [Button: MENU ]
+L7:
+L8: 【2†Back to results】
+L9:
+L10:
+L11:
+L12: 【3†Apply】
+L13:
+L14: Print
+L15:
+L16: Share
+L17:
+L18: Save
+L19:
+L20:   * 【4†Summary】
+L21:   * 【5†This job is open to】
+L22:   * 【6†Duties】
+L23:   * 【7†Requirements】
+L24:   * 【8†How you will be evaluated】
+L25:   * 【9†Required documents】
+L26:   * 【10†How to apply】
+L27: ## Summary
+L28:
+L29: This position is located in Division of Strategic Technology and Enterprise Portfolio Governance.
+L30: The supervisor is Tiffany Fields.
+L31: This position is not subject to Confidential Financial Disclosure reporting requirements.
+L32: This position is not subject to security ownership restriction reporting requirements.
+L33:
+L34: [Button: Learn more about this agency ]
+L35: ## Summary
+L36:
+L37: This position is located in Division of Strategic Technology and Enterprise Portfolio Governance.
+L38: The supervisor is Tiffany Fields.
+L39: This position is not subject to Confidential Financial Disclosure reporting requirements.
+L40: This position is not subject to security ownership restriction reporting requirements.
+L41:
+L42: [Button: Learn more about this agency ]
+L43: ## Overview
+L44:
+L45: 【11†Help†usajobshelp.opm.gov】
+L46:
+L47: Accepting applications
+L48:
+L49: Location
+L50:
+L51: 1 vacancy in the following location:
+L52:
+L53: Rockville, MD
+L54:
+L55: Work site options
+L56:
+L57: Telework eligible
+L58:     Yes—as determined by the agency policy.
+L59:
+L60: Remote job
+L61:     No
+L62:
+L63: Relocation expenses reimbursed
+L64:     Yes—You may qualify for reimbursement of relocation expenses in accordance with agency policy.
+L65:
+L66: Salary
+L67:     $70,623 - $158,322 per year
+L68:
+L69: Pay scale & grade
+L70:
+L71:
+L72: GG 9 - 13
+L73:
+L74: Promotion potential
+L75:     13
+L76: 【12†Learn more about pay scale and grade†usajobshelp.opm.gov】
+L77:
+L78: Pay scale and grade determines the salary of the job.
+L79:
+L80: Work schedule
+L81:     Full-time
+L82:
+L83: Travel Required
+L84:     Occasional travel - You may be expected to travel for this position.
+L85:
+L86: Appointment type
+L87:     Permanent
+L88:
+L89: Occupations and job series
+L90:
+L91:   * 【13†0501 Financial Administration And Program】
+L92:
+L93: Supervisory status
+L94:     No
+L95:
+L96: Federal service type
+L97:     This job is in the Excepted Service
+L98:
+L99: Represented by a union
+L100:     No
+L101:
+L102: Drug test
+L103:     Yes
+L104: Security clearance
+L105:     L Access Authorization
+L106:
+L107: Position sensitivity and risk
+L108:     【14†Noncritical-Sensitive (NCS)/Moderate Risk†usajobshelp.opm.gov】
+L109:
+L110: Jobs require a 【14†background check†usajobshelp.opm.gov】 and some require a 【14†security clearance†usajobshelp.opm.gov】. The type depends on the job.
+L111:
+L112: Background check type
+L113:
+L114:   * 【14†Credentialing†usajobshelp.opm.gov】
+L115:   * 【14†Suitability/Fitness†usajobshelp.opm.gov】
+L116:   * 【14†National security†usajobshelp.opm.gov】
+L117:
+L118: Financial disclosure required
+L119:     No
+L120: Some jobs require 【15†financial disclosure†usajobshelp.opm.gov】 to identify conflicts of interests.
+L121:
+L122: Announcement number
+L123:     IMP-13095310-27-EM
+L124:
+L125: Control number
+L126:     889960700
+L127: ## This job is open to
+L128:
+L129: 【16†Help†usajobshelp.opm.gov】
+L130:
+L131: 【17†Internal to an agency Current federal employees of the hiring agency that posted the job announcement.】
+L132:
+L133: ### Clarification from the agency
+L134:
+L135: Applications will be accepted from current employees of the U.S. Nuclear Regulatory Commission on a permanent or competitive term appointment only.
+L136: ## Duties
+L137:
+L138: 【18†Help†usajobshelp.opm.gov】
+L139:
+L140: The successful candidate will perform the full range of the duties of a Financial Analyst for the Strategic Technology and Enterprise Portfolio Governance Division (STEPG) Division
+L141: IT Financial Strategy and Investment Branch (IFSIB) Branch.
+L142: Such duties include but are not limited to:
+L143:   * Provides guidance, and ensures the overall integration of the IT/IM resources for budget formulation per fiscal year using a collaborative approach.
+L144:   * Provides guidance, and ensures the overall integration of the IT/IM resources for budget formulation per fiscal year using a collaborative approach.
+L145:   * Serves as the OCIO liaison with program offices and/or business lines. Supports briefings to OEDO staff, Regional offices, OMB and other government agencies on matters related to IT/IM budget formulation and execution.
+L146:   * Supports short-term and long-term analysis of agency resource allocation decisions.
+L147:   * Assist with planning, monitoring, and analysis of the agency's IT budget for the Prior Year, Current Year Budget, Budget Year, and Budget Year + 1. Works with headquarters and regional offices to identify the resources required to support IT and IM activities for formulation.
+L148:   * Supports financial analyses and evaluations of resource allocation proposals of all types to ensure the most favorable cost-benefit trade-offs for NRC. Such duties include the collaborating in development of reports presenting.
+L149:   * Contributes to topics or areas affecting OCIO's policies and objectives which require analysis and recommends that they be pursued. Coordinates resultant study by breaking problems into manageable segments; identifies available resources within and outside the agency to apply to these segments; schedules completion of assigned tasks and is responsible for the final product.
+L150:   * Analyzes requests from the Offices for new or improved OCIO services, equipment, and products. Confers with requesting office staff to determine the nature and level of support required, resource impacts, and the relative priority of requests to other activities.
+L151:   * Utilizes Excel and the agency Budget Formulation System (BFS) and OMB MAX system to update data.
+L152:   * Utilizes the Strategic Acquisitions System (STAQS) to review and validate submitted requisitions and ensure consistency with the enacted IT budget.
+L153:   * Utilizes the agency Financial Accounting and Integrated Management Information System (FAIMIS), BFS Spend Plan Application, and BFS to obtain data for execution analysis and reporting.
+L154:   * Assists in creating, maintaining, and disseminating complex budget reports and analyses using standard office productivity tools, including spreadsheet, database, and presentation software.
+L155:   * Supports the work of interoffice or interagency Task groups.
+L156: ## Requirements
+L157:
+L158: 【19†Help†usajobshelp.opm.gov】
+L159:
+L160: ### Conditions of employment
+L161:
+L162: You must meet the qualifications for this position by no later than 30 calendar days after the closing date of this announcement and before placement in the position.
+L163:
+L164: All information in your resume must be true and accurate.
+L165:
+L166: Conditions of Employment:
+L167:
+L168:   * This is a Drug Testing position
+L169:   * Must be able to meet and maintain security & suitability requirements.
+L170: ### Qualifications
+L171: In order to qualify for this position, you must have at least one year of specialized experience at the next lower grade level in the Federal service or equivalent experience in the private or public sector.
+L172: SPECIALIZED EXPERIENCE at the GG-9 is defined as performing routine financial analysis and supporting budget formulation and execution activities in a federal or organizational environment. This includes compiling and analyzing financial data, supporting the preparation and review of IT investment business cases, using financial systems and software tools, and assisting with studies or audits of programmatic and resource management issues.
+L173: SPECIALIZED EXPERIENCE at the GG-11 is defined as conducting moderately complex financial analyses and supporting the formulation and execution of IT budgets in a federal or organizational setting. This includes evaluating phases of the Capital Planning and Investment Control (CPIC) process, preparing written reports and briefings, providing guidance on budget formulation, reviewing and analyzing business cases, and utilizing financial systems such as BFS, FAIMIS, and STAQS.
+L174: SPECIALIZED EXPERIENCE at the GG-12 is defined as performing complex financial analysis and supporting investment management activities for IT portfolios in a federal or organizational environment. This includes developing and evaluating CPIC policies and procedures, conducting cost-benefit analyses, preparing and submitting major IT investment business cases, monitoring budget execution, and providing advice and training to program offices.
+--------------------------------------------------------------------------------
+USAJOBS - Job Announcement (https://www.usajobs.gov/job/883693300)
+citeturn4view2 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.usajobs.gov/job/883693300","lineno":130}); Total lines: 627
+L0: 【0†Skip to main content】
+L1:
+L2: 【1†Image: U.S. flag】
+L3:
+L4: [Button: An official website of the United States government ]
+L5:
+L6: [Button: MENU ]
+L7:
+L8: 【2†Back to results】
+L9:
+L10:
+L11:
+L12: 【3†Apply】
+L13:
+L14: Print
+L15:
+L16: Share
+L17:
+L18: Save
+L19:
+L20:   * 【4†Summary】
+L21:   * 【5†This job is open to】
+L22:   * 【6†Duties】
+L23:   * 【7†Requirements】
+L24:   * 【8†How you will be evaluated】
+L25:   * 【9†Required documents】
+L26:   * 【10†How to apply】
+L27: ## Summary
+L28:
+L29: As a Senior Al Software Engineer, you will develop secure, ethical, and mission-aligned AI strategies and architectures across the federal government using engineering best practices.
+L30:
+L31: This position is with the Office of Technology Transformation Services (TTS), Federal Acquisition Service (FAS), General Services Administration (GSA).
+L32:
+L33: We are currently filling multiple vacancies, but additional vacancies may be filled as needed.
+L34:
+L35: [Button: Learn more about this agency ]
+L36: ## Summary
+L37:
+L38: As a Senior Al Software Engineer, you will develop secure, ethical, and mission-aligned AI strategies and architectures across the federal government using engineering best practices.
+L39:
+L40: This position is with the Office of Technology Transformation Services (TTS), Federal Acquisition Service (FAS), General Services Administration (GSA).
+L41:
+L42: We are currently filling multiple vacancies, but additional vacancies may be filled as needed.
+L43:
+L44: [Button: Learn more about this agency ]
+L45: ## Overview
+L46:
+L47: 【11†Help†usajobshelp.opm.gov】
+L48:
+L49: Accepting applications
+L50:
+L51: Location
+L52:
+L53: Many vacancies in the following locations:
+L54:
+L55: [Input]
+L56:
+L57: San Francisco, CA
+L58:
+L59: Lakewood, CO
+L60:
+L61: Washington, DC
+L62:
+L63: Chicago, IL
+L64:
+L65: Boston, MA
+L66:
+L67: New York, NY
+L68:
+L69: Philadelphia, PA
+L70:
+L71: Tacoma, WA
+L72:
+L73: Work site options
+L74:
+L75: Telework eligible
+L76:     Yes—This position is full-time in the office. In rare instances, situational telework may be approved on a case-by-case basis.
+L77:
+L78: Remote job
+L79:     No
+L80:
+L81: Relocation expenses reimbursed
+L82:     No
+L83: Salary
+L84:     $138,595 - $197,200 per year
+L85:
+L86: If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade for which you are selected.
+L87:
+L88: Pay scale & grade
+L89:
+L90:
+L91: GS 14
+L92:
+L93: Promotion potential
+L94:     14
+L95:
+L96: 【12†Learn more about pay scale and grade†usajobshelp.opm.gov】
+L97:
+L98: Pay scale and grade determines the salary of the job.
+L99:
+L100: Work schedule
+L101:     Full-time
+L102:
+L103: Travel Required
+L104:     Occasional travel - Business travel may be required.
+L105:
+L106: Appointment type
+L107:     Permanent
+L108:
+L109: Occupations and job series
+L110:   * 【13†2210 Information Technology Management】
+L111:
+L112: Supervisory status
+L113:     No
+L114:
+L115: Federal service type
+L116:     This job is in the Competitive Service
+L117:
+L118: Represented by a union
+L119:     No
+L120:
+L121: Drug test
+L122:     Yes
+L123:
+L124: Security clearance
+L125:     Other
+L126:
+L127: Financial disclosure required
+L128:     No
+L129:
+L130:
+L131: Some jobs require 【14†financial disclosure†usajobshelp.opm.gov】 to identify conflicts of interests.
+L132:
+L133: Announcement number
+L134:     F2-2026-0007
+L135:
+L136: Control number
+L137:     883693300
+L138: ## This job is open to
+L139:
+L140: 【15†Help†usajobshelp.opm.gov】
+L141:
+L142: 【16†The public U.S. Citizens, Nationals or those who owe allegiance to the U.S.】
+L143: ### Clarification from the agency
+L144: This public notice is issued under Direct Hire Authority (DHA) to recruit talent to occupations for which there is a severe shortage of candidates or a critical hiring need. This means that we can hire any qualified candidate from this notice or any other source. About this DHA notice: -Current civil service employees will receive new appointments if selected under this DHA. -For information on DHA, please visit https://www.opm.gov/policy-data-oversight/hiring-information/direct-hire-authority/
+L145: ## Duties
+L146:
+L147: 【17†Help†usajobshelp.opm.gov】
+L148:   * Serves as a senior technical expert leading high level, enterprise-wide engineering
+L149: strategies for Al-enabled systems, computer hardware/software integration, and cloud-native architectures and platforms, delivering impactful solutions for the American people.
+L150:   * As an AI technical SME provide technical guidance for the development and management of Al-enabled systems, computer hardware/software integration, and cloud-native architectures, ensuring compliance with federal mandates, executive orders, and/or other guidelines.
+L151:   * Provides authoritative consultation and technical direction to agency personnel, shaping national and international Al, computer engineering and digital policies, directives and mandates.
+L152:   * Participates and coordinates cross-agency Al engineering projects involving large-scale digital transformation, data platforms, and secure computing infrastructures.
+L153:   * Establishes, promotes, and communicates governmentwide technical standards, Al engineering policies, and architectures for the ethical, secure, and trustworthy use of Al and emerging technologies.
+L154:   * Interprets new and revised plans and guidance received from senior agency officials and/or other higher authorities.
+L155: The Technology Transformation Services (TTS) is responsible for providing scalable software products and services to federal agencies.
+L156: ## Requirements
+L157:
+L158: 【18†Help†usajobshelp.opm.gov】
+L159: ### Conditions of employment
+L160:
+L161:   * US Citizenship or National (Residents of American Samoa and Swains Island)
+L162:   * Meet all eligibility requirements within 30 days of the closing date.
+L163:   * Register with Selective Service if you are a male born after 12/31/1959
+L164:   * Serve a one year probationary period, if required.
+L165:
+L166: If selected, you must meet the following conditions:
+L167:   * Current or Former Political Appointees: The Office of Personnel Management (OPM) must authorize employment offers made to current or former political appointees. If you are currently, or have been within the last 5 years, a political Schedule A, Schedule C or Non­Career SES employee in the Executive Branch, you must disclose this information to the HR Office. Failure to disclose this information could result in disciplinary action including removal from Federal Service.
+L168:   * Position security requirements are dependent on the position for which selected, and may be designated at Top Secret, Secret, High Risk, Moderate Risk or Low Risk. Dependent on which position you are selected for you will be required to undergo and pass the appropriate Tier background investigation level. You must be granted this clearance before you can start the job.
+L169:   * Have your identity and work status eligibility verified if you are not a GSA employee.  We will use the Department of Homeland Security’s e-Verify system for this. Any discrepancies must be resolved as a condition of continued employment.
+L170:   * Any applicant tentatively selected for this position will be required to submit to urinalysis to screen for illegal drug use prior to appointment. Appointment to the position will be contingent upon a negative drug test result.
+L171:   * Some positions may require on-call duty outside typical scheduled duty hours as needed and directed to respond to and resolve issues related to fraud, platform, engineering, partnership, and/or other comparable issues.
+L172: ### Qualifications
+L173:
+L174: To evaluate your qualifications, your resume must clearly demonstrate how you meet the specialized experience described below. Your resume must not exceed two pages. To ensure your qualifications can be fully evaluated, we recommend including the following information:
+L175:
+L176:   * Name, address, telephone number, email address;
+L177:
+L178:   * Job Title (if Federal Service, provide series and grade; if not in GS plan, provide GS equivalent grade);
+L179:   * Relevant work experience—should include employer name, job title, start and end dates (month/year), the number of hours worked per week and descriptions that explain how you meet the required qualifications in the job announcement.
+L180:
+L181:   * Education, certifications or licensures—If the job announcement requires any education, certifications or licensures, make sure to include the required information and any required documents like transcripts.
+L182: Your resume should contain enough information to make a valid determination that you fully meet experience requirements for each grade level you are applying to. If you do not provide enough information for us to determine your qualifications, you may be rated ineligible
+L183: If you have volunteered your service through a National Service program (e.g., Peace Corps, Americorps), we encourage you to apply and include this experience on your resume.
+L184: The GS-14salary range starts at $138,595 per year.
+L185: If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade for which you are selected.
+L186: To qualify, you must have at least one year of specialized experience equivalent to the GS-13 level or higher in the Federal service.
+L187: Applicants applying for the GS-14 grade level must meet the following requirements: Have IT-related experience demonstrating EACH of the nine competencies AND one year of specialized experience equivalent to the GS-13 level in the Federal service as described below:
+L188:
+L189:   * Attention to Detail - Is thorough when performing work and conscientious about attending to detail.
+L190:   * Customer Service - Works with clients and customers (that is, any individuals who use or receive the services or products that your work unit produces, including the general public, individuals who work in the agency, other agencies, or organizations outside the Government) to assess their needs, provide information or assistance, resolve their problems, or satisfy their expectations; knows about available products and services; is committed to providing quality products and services.
+L191:   * Decision Making - Makes sound, well-informed, and objective decisions; perceives the impact and implications of decisions; commits to action, even in uncertain situations, to accomplish organizational goals; causes change.
+L192:
+L193:   * Information Management - Identifies a need for and knows where or how to gather information; organizes and maintains information or information management systems.
+L194:   * Interpersonal Skills - Shows understanding, friendliness, courtesy, tact, empathy, concern, and politeness to others; develops and maintains effective relationships with others; may include effectively dealing with individuals who are difficult, hostile, or distressed; relates well to people from varied backgrounds and different situations.
+L195:   * Oral Communication - This skill is generally demonstrated by assignments where the applicant persuades others to take a particular course of action or to accept findings, recommendations, changes, or alternative viewpoints.
+L196:
+L197:   * Problem Solving - This skill is generally demonstrated by assignments where the applicant identifies and accommodates technology and resource constraints.
+--------------------------------------------------------------------------------
+Internal Error ()
+citeturn4view3 [wordlim: 200] Source: open({"ref_id":"https://www.usajobs.gov/job/890329200","lineno":null});
+URL https://www.usajobs.gov/job/890329200 is not accessible via this tool.

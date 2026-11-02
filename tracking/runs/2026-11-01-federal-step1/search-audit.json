@@ -1,0 +1,225 @@
+[
+  {
+    "source": "Web search index; official-source targeted where stated",
+    "date": "2026-11-01",
+    "queries": [
+      "site.usajobs.gov/job/ \"financial\" \"2026\" \"November\" \"Washington\"",
+      "site.usajobs.gov/job/ \"IT Specialist\" \"2026\" \"November\"",
+      "site.usajobs.gov/job/ \"quantitative\" \"2026\""
+    ],
+    "filters": "Query terms; after:2026-09-01 where present. Search filters do not establish employer posting dates. search2 uses usajobs.gov domain restriction.",
+    "pages_searched": "One returned result set per query; native USAJOBS pagination attempted separately, blocked or empty rendering.",
+    "result_records_in_saved_response": 24,
+    "result_count_scope": "Batch response includes opened pages when present; not per-query count or unique vacancies.",
+    "evidence": "search1-web.txt",
+    "limits": "Public search-index coverage only; irrelevant/duplicate/stale results screened; no exhaustive coverage claimed."
+  },
+  {
+    "source": "Web search index; official-source targeted where stated",
+    "date": "2026-11-01",
+    "queries": [
+      "\"financial analyst\" \"2026\" \"Washington\" \"October\"",
+      "\"IT Specialist\" \"2026\" \"Maryland\"",
+      "\"computer scientist\" \"2026\" \"Virginia\"",
+      "\"artificial intelligence\" \"2026\" \"Washington\""
+    ],
+    "filters": "Query terms; after:2026-09-01 where present. Search filters do not establish employer posting dates. search2 uses usajobs.gov domain restriction.",
+    "pages_searched": "One returned result set per query; native USAJOBS pagination attempted separately, blocked or empty rendering.",
+    "result_records_in_saved_response": 14,
+    "result_count_scope": "Batch response includes opened pages when present; not per-query count or unique vacancies.",
+    "evidence": "search2-web.txt",
+    "limits": "Public search-index coverage only; irrelevant/duplicate/stale results screened; no exhaustive coverage claimed."
+  },
+  {
+    "source": "Web search index; official-source targeted where stated",
+    "date": "2026-11-01",
+    "queries": [
+      "site.usajobs.gov/job/ \"risk\" \"11/2026\"",
+      "site.usajobs.gov/job/ \"financial\" \"10/2026\" \"11/\"",
+      "site.usajobs.gov/job/ \"software\" \"11/2026\"",
+      "site.usajobs.gov/job/ \"mortgage\" \"2026\""
+    ],
+    "filters": "Query terms; after:2026-09-01 where present. Search filters do not establish employer posting dates. search2 uses usajobs.gov domain restriction.",
+    "pages_searched": "One returned result set per query; native USAJOBS pagination attempted separately, blocked or empty rendering.",
+    "result_records_in_saved_response": 26,
+    "result_count_scope": "Batch response includes opened pages when present; not per-query count or unique vacancies.",
+    "evidence": "search3-web.txt",
+    "limits": "Public search-index coverage only; irrelevant/duplicate/stale results screened; no exhaustive coverage claimed."
+  },
+  {
+    "source": "Web search index; official-source targeted where stated",
+    "date": "2026-11-01",
+    "queries": [
+      "\"financial analyst\" \"Washington\" \"November\" \"2026\" federal job",
+      "\"financial engineer\" OR \"risk analyst\" site:usajobs.gov/job/",
+      "\"mortgage\" site:usajobs.gov/job/ after:2026-09-01",
+      "\"investment\" site:usajobs.gov/job/ \"2026\" \"11/\""
+    ],
+    "filters": "Query terms; after:2026-09-01 where present. Search filters do not establish employer posting dates. search2 uses usajobs.gov domain restriction.",
+    "pages_searched": "One returned result set per query; native USAJOBS pagination attempted separately, blocked or empty rendering.",
+    "result_records_in_saved_response": 18,
+    "result_count_scope": "Batch response includes opened pages when present; not per-query count or unique vacancies.",
+    "evidence": "search4-web.txt",
+    "limits": "Public search-index coverage only; irrelevant/duplicate/stale results screened; no exhaustive coverage claimed."
+  },
+  {
+    "source": "Web search index; official-source targeted where stated",
+    "date": "2026-11-01",
+    "queries": [
+      "site:usajobs.gov/job/ \"IT SPECIALIST\" \"10/30/2026\" \"Washington\"",
+      "site:usajobs.gov/job/ \"software\" \"10/2026\" \"Maryland\"",
+      "site:usajobs.gov/job/ \"Financial\" \"10/2026\" \"risk\"",
+      "site:usajobs.gov/job/ \"Principal\" \"AI\" \"2026\""
+    ],
+    "filters": "Query terms; after:2026-09-01 where present. Search filters do not establish employer posting dates. search2 uses usajobs.gov domain restriction.",
+    "pages_searched": "One returned result set per query; native USAJOBS pagination attempted separately, blocked or empty rendering.",
+    "result_records_in_saved_response": 16,
+    "result_count_scope": "Batch response includes opened pages when present; not per-query count or unique vacancies.",
+    "evidence": "search6-web.txt",
+    "limits": "Public search-index coverage only; irrelevant/duplicate/stale results screened; no exhaustive coverage claimed."
+  },
+  {
+    "source": "Web search index; official-source targeted where stated",
+    "date": "2026-11-01",
+    "queries": [
+      "site:usajobs.gov/job/ (\"financial engineer\" OR \"quantitative\" OR \"capital markets\") after:2026-09-01",
+      "site:usajobs.gov/job/ (\"mortgage\" OR \"credit risk\" OR \"structured finance\") after:2026-09-01",
+      "site:usajobs.gov/job/ (\"investment\" OR \"portfolio\" OR \"trading\") \"2026\" \"Washington\"",
+      "site:usajobs.gov/job/ (\"banking\" OR \"CECL\" OR \"financial technology\") \"2026\""
+    ],
+    "filters": "Query terms; after:2026-09-01 where present. Search filters do not establish employer posting dates. search2 uses usajobs.gov domain restriction.",
+    "pages_searched": "One returned result set per query; native USAJOBS pagination attempted separately, blocked or empty rendering.",
+    "result_records_in_saved_response": 16,
+    "result_count_scope": "Batch response includes opened pages when present; not per-query count or unique vacancies.",
+    "evidence": "search7-web.txt",
+    "limits": "Public search-index coverage only; irrelevant/duplicate/stale results screened; no exhaustive coverage claimed."
+  },
+  {
+    "source": "Web search index; official-source targeted where stated",
+    "date": "2026-11-01",
+    "queries": [
+      "site:usajobs.gov/job/ \"Data Engineer\" \"Central Intelligence\"",
+      "site:usajobs.gov/job/ \"software engineer\" \"Central Intelligence\"",
+      "site:usajobs.gov/job/ \"IT Specialist\" \"APPSW\" \"11/\" \"2026\" \"Virginia\"",
+      "site:usajobs.gov/job/ \"financial\" \"FHFA\" \"2026\""
+    ],
+    "filters": "Query terms; after:2026-09-01 where present. Search filters do not establish employer posting dates. search2 uses usajobs.gov domain restriction.",
+    "pages_searched": "One returned result set per query; native USAJOBS pagination attempted separately, blocked or empty rendering.",
+    "result_records_in_saved_response": 15,
+    "result_count_scope": "Batch response includes opened pages when present; not per-query count or unique vacancies.",
+    "evidence": "search8-web.txt",
+    "limits": "Public search-index coverage only; irrelevant/duplicate/stale results screened; no exhaustive coverage claimed."
+  },
+  {
+    "source": "Web search index; official-source targeted where stated",
+    "date": "2026-11-01",
+    "queries": [
+      "\"FEMA\" \"IT Specialist (APPSW)\" \"10/28/2026\" \"usajobs.gov/job\"",
+      "site:cia.gov/careers/jobs/ \"data engineer\"",
+      "site:fhfa.gov \"vacancies\" careers",
+      "site:occ.gov careers \"quantitative\" \"2026\""
+    ],
+    "filters": "Query terms; after:2026-09-01 where present. Search filters do not establish employer posting dates. search2 uses usajobs.gov domain restriction.",
+    "pages_searched": "One returned result set per query; native USAJOBS pagination attempted separately, blocked or empty rendering.",
+    "result_records_in_saved_response": 16,
+    "result_count_scope": "Batch response includes opened pages when present; not per-query count or unique vacancies.",
+    "evidence": "search9-web.txt",
+    "limits": "Public search-index coverage only; irrelevant/duplicate/stale results screened; no exhaustive coverage claimed."
+  },
+  {
+    "source": "Web search index; official-source targeted where stated",
+    "date": "2026-11-01",
+    "queries": [
+      "\"FEMA\" \"IT Specialist\" \"APPSW\" \"2026\" \"11/06\"",
+      "\"IT Specialist (APPSW)\" \"Washington\" \"10/28/2026\"",
+      "\"Operations Research Analyst\" \"891052100\" opening closing",
+      "\"Data Engineer\" \"759326100\" \"09/01/2026\""
+    ],
+    "filters": "Query terms; after:2026-09-01 where present. Search filters do not establish employer posting dates. search2 uses usajobs.gov domain restriction.",
+    "pages_searched": "One returned result set per query; native USAJOBS pagination attempted separately, blocked or empty rendering.",
+    "result_records_in_saved_response": 12,
+    "result_count_scope": "Batch response includes opened pages when present; not per-query count or unique vacancies.",
+    "evidence": "search11-web.txt",
+    "limits": "Public search-index coverage only; irrelevant/duplicate/stale results screened; no exhaustive coverage claimed."
+  },
+  {
+    "source": "Web search index; official-source targeted where stated",
+    "date": "2026-11-01",
+    "queries": [
+      "\"891052100\" \"Open Date\"",
+      "\"889349900\" \"Open Date\"",
+      "\"890584000\" \"10/28/2026\" site:usajobs.gov",
+      "site:usajobs.gov/job/ \"forward deployed\""
+    ],
+    "filters": "Query terms; after:2026-09-01 where present. Search filters do not establish employer posting dates. search2 uses usajobs.gov domain restriction.",
+    "pages_searched": "One returned result set per query; native USAJOBS pagination attempted separately, blocked or empty rendering.",
+    "result_records_in_saved_response": 8,
+    "result_count_scope": "Batch response includes opened pages when present; not per-query count or unique vacancies.",
+    "evidence": "search12-web.txt",
+    "limits": "Public search-index coverage only; irrelevant/duplicate/stale results screened; no exhaustive coverage claimed."
+  },
+  {
+    "source": "Web search index; official-source targeted where stated",
+    "date": "2026-11-01",
+    "queries": [
+      "891052100 operations research analyst opening date",
+      "\"FEMA-KB-13101601-DE\" qualifications",
+      "\"759326100\" opening date 2026",
+      "\"Operations Research Analyst\" \"10/30/2026\" \"11/13/2026\""
+    ],
+    "filters": "Query terms; after:2026-09-01 where present. Search filters do not establish employer posting dates. search2 uses usajobs.gov domain restriction.",
+    "pages_searched": "One returned result set per query; native USAJOBS pagination attempted separately, blocked or empty rendering.",
+    "result_records_in_saved_response": 20,
+    "result_count_scope": "Batch response includes opened pages when present; not per-query count or unique vacancies.",
+    "evidence": "search13-web.txt",
+    "limits": "Public search-index coverage only; irrelevant/duplicate/stale results screened; no exhaustive coverage claimed."
+  },
+  {
+    "source": "Web search index; official-source targeted where stated",
+    "date": "2026-11-01",
+    "queries": [
+      "site:usajobs.gov/job/ (\"Java\" OR \"Python\") (\"Maryland\" OR \"Virginia\" OR \"Washington\") after:2026-09-01",
+      "site:usajobs.gov/job/ (\"quantitative\" OR \"financial engineering\") (\"Maryland\" OR \"Virginia\" OR \"Washington\") after:2026-09-01",
+      "site:usajobs.gov/job/ (\"mortgage\" OR \"credit risk transfer\" OR \"MBS\") after:2026-09-01",
+      "site:usajobs.gov/job/ (\"cloud\" OR \"enterprise technology\") (\"Maryland\" OR \"Virginia\" OR \"Washington\") after:2026-09-01"
+    ],
+    "filters": "Query terms; after:2026-09-01 where present. Search filters do not establish employer posting dates. search2 uses usajobs.gov domain restriction.",
+    "pages_searched": "One returned result set per query; native USAJOBS pagination attempted separately, blocked or empty rendering.",
+    "result_records_in_saved_response": 0,
+    "result_count_scope": "Batch response includes opened pages when present; not per-query count or unique vacancies.",
+    "evidence": "coverage0-web.txt",
+    "limits": "Public search-index coverage only; irrelevant/duplicate/stale results screened; no exhaustive coverage claimed."
+  },
+  {
+    "source": "Web search index; official-source targeted where stated",
+    "date": "2026-11-01",
+    "queries": [
+      "site:usajobs.gov/job/ (\"investment\" OR \"portfolio risk\" OR \"asset management\") (\"Maryland\" OR \"Virginia\" OR \"Washington\") after:2026-09-01",
+      "site:usajobs.gov/job/ (\"banking\" OR \"capital planning\" OR \"CECL\") after:2026-09-01",
+      "site:usajobs.gov/job/ (\"AI engineer\" OR \"machine learning\" OR \"artificial intelligence\") (\"Maryland\" OR \"Virginia\" OR \"Washington\") after:2026-09-01",
+      "site:usajobs.gov/job/ (\"software engineer\" OR \"computer scientist\" OR \"APPSW\") (\"Maryland\" OR \"Virginia\" OR \"Washington\") after:2026-09-01"
+    ],
+    "filters": "Query terms; after:2026-09-01 where present. Search filters do not establish employer posting dates. search2 uses usajobs.gov domain restriction.",
+    "pages_searched": "One returned result set per query; native USAJOBS pagination attempted separately, blocked or empty rendering.",
+    "result_records_in_saved_response": 11,
+    "result_count_scope": "Batch response includes opened pages when present; not per-query count or unique vacancies.",
+    "evidence": "coverage1-web.txt",
+    "limits": "Public search-index coverage only; irrelevant/duplicate/stale results screened; no exhaustive coverage claimed."
+  },
+  {
+    "source": "Web search index; official-source targeted where stated",
+    "date": "2026-11-01",
+    "queries": [
+      "site:fdic.gov careers current opportunities",
+      "site:fhfa.gov careers job opportunities",
+      "site:careers.occ.gov \"quantitative\" OR \"technology\"",
+      "site:sec.gov careers \"opportunities\" \"2026\""
+    ],
+    "filters": "Query terms; after:2026-09-01 where present. Search filters do not establish employer posting dates. search2 uses usajobs.gov domain restriction.",
+    "pages_searched": "One returned result set per query; native USAJOBS pagination attempted separately, blocked or empty rendering.",
+    "result_records_in_saved_response": 18,
+    "result_count_scope": "Batch response includes opened pages when present; not per-query count or unique vacancies.",
+    "evidence": "coverage2-web.txt",
+    "limits": "Public search-index coverage only; irrelevant/duplicate/stale results screened; no exhaustive coverage claimed."
+  }
+]

@@ -1,0 +1,32 @@
+{
+  "employer": "Nuclear Regulatory Commission",
+  "title": "Financial Analyst",
+  "requisition_id": "IMP-13095310-27-EM",
+  "posted_date": null,
+  "close_date": null,
+  "location": "Rockville, MD",
+  "salary": "$70,623–$158,322 per year; GG-9–13",
+  "fit": "IT investment and financial analytics adjacency.",
+  "gaps": "Restricted to current permanent or competitive-term NRC employees only. Baseline employment is Freddie Mac, not NRC; no qualifying NRC status evidenced.",
+  "canonical_url": "https://www.usajobs.gov/job/889960700",
+  "application_url": "https://www.usajobs.gov/job/889960700",
+  "posted_date_evidence": "Official announcement accepting applications; dates not verified because hiring path already excludes this candidate on available evidence.",
+  "retrieved_at": "2026-11-02T00:53:12.615092+00:00",
+  "status": "skipped",
+  "aliases": [],
+  "discovery_window": [
+    "2026-09-01",
+    "2026-11-01"
+  ],
+  "remote_restrictions": "Not remote; DMV duty station offered. Confirm telework policy in official job description.",
+  "open_evidence": "Official USAJOBS announcement retrieved through web tool and reports Accepting applications; recheck at Step 2.",
+  "hiring_path": "Restricted agency hiring path",
+  "control_number": "889960700",
+  "id": "8efc2d80781bcd7c",
+  "step": 1,
+  "selected": false,
+  "submitted": false,
+  "artifacts": {},
+  "resume_status": "not_generated_verification_required",
+  "resume_review": "Not generated; unresolved mandatory requirements."
+}

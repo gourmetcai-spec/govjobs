@@ -1,0 +1,41 @@
+{
+  "employer": "Immigration and Customs Enforcement",
+  "title": "Operations Research Analyst",
+  "requisition_id": "DHA-CFO-13061801-2026-CLM",
+  "posted_date": "2026-10-30",
+  "close_date": "2026-11-13",
+  "location": "Washington, DC",
+  "salary": "$102,415–$158,322 per year; GS-12–13",
+  "fit": "Strong Monte Carlo, forecasting, statistical analysis and decision-support modeling overlap.",
+  "gaps": "Confirm official posting date; transcripts must demonstrate 24 qualifying semester hours including 3 in calculus, and foreign education equivalence if relied upon. Hours/week absent. User must personally answer any essays requiring an own-words/no-AI certification; none drafted. No security suitability outcome assumed.",
+  "canonical_url": "https://www.usajobs.gov/job/891052100",
+  "application_url": "https://www.usajobs.gov/job/891052100",
+  "posted_date_evidence": "Federalgovernmentjobs mirror lists October 30–November 13. Official announcement confirms November 13 deadline and accepting applications; official opening date not exposed by retrieved text.",
+  "retrieved_at": "2026-11-02T00:53:12.615092+00:00",
+  "status": "needs_verification",
+  "aliases": [],
+  "discovery_window": [
+    "2026-09-01",
+    "2026-11-01"
+  ],
+  "remote_restrictions": "Not remote; DMV duty station offered. Confirm telework policy in official job description.",
+  "open_evidence": "Official USAJOBS announcement retrieved through web tool and reports Accepting applications; recheck at Step 2.",
+  "hiring_path": "Open to the public",
+  "control_number": "891052100",
+  "id": "4e066be541ca1382",
+  "step": 1,
+  "selected": false,
+  "submitted": false,
+  "artifacts": {
+    "resume_markdown": {
+      "path": "applications/2026-11-01__immigration-and-customs-enforcement__operations-research-analyst__4e066be541ca1382/resume-xuewu-cai__immigration-and-customs-enforcement__operations-research-analyst__891052100__v1.md",
+      "sha256": "15de06f8136b64f01f99b64c6226a080d45d5631e11a649323a3ccc2d0de62d8"
+    },
+    "resume_pdf": {
+      "path": "applications/2026-11-01__immigration-and-customs-enforcement__operations-research-analyst__4e066be541ca1382/resume-xuewu-cai__immigration-and-customs-enforcement__operations-research-analyst__891052100__v1.pdf",
+      "sha256": "fd891ce471392dbb4c06b4475f71eda36ee4a9f0f7544b9623dcbf2ca86c2037"
+    }
+  },
+  "resume_status": "draft_missing_required_facts",
+  "resume_review": "Text extraction passed; all 20 baseline experience bullets preserved; all 2 pages rendered with PDFKit and visually reviewed without clipping, overlap or blank pages. Draft pending required candidate facts and job eligibility evidence in match.md."
+}

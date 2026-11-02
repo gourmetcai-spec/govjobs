@@ -1,0 +1,316 @@
+Internal Error ()
+citeturn19view0 [wordlim: 200] Source: open({"ref_id":"https://federalgovernmentjobs.us/jobs/Operations-Research-Analyst-891052100.html","lineno":null});
+Failed to fetch https://federalgovernmentjobs.us/jobs/Operations-Research-Analyst-891052100.html: Cache miss--------------------------------------------------------------------------------
+Business Financial Analyst Job in Washington, DC (https://federalgovernmentjobs.us/jobs/Business-Financial-Analyst-889349900.html)
+citeturn19view1 [wordlim: 200] Crawled: yesterday; Content type: text/html; Source: open({"ref_id":"https://federalgovernmentjobs.us/jobs/Business-Financial-Analyst-889349900.html","lineno":null}); Total lines: 235
+L0:   * 【0†federalgovernmentjobs.us】
+L1:   * 【1†Jobs By State】
+L2:   * 【2†Job Titles】
+L3:   * 【3†Jobs By Agency】
+L4:   * 【4†Resumes】
+L5:   * 【5†Search】
+L6:
+L7: [Input]
+L8:
+L9: # Business Financial Analyst Job in Washington, DC
+L10:
+L11: Vacancy No.  | SOB-2027-013  | Department  | Architect of the Capitol
+L12: Salary  | $85,447.00 to $158,322.00  | Grade  | 11 to 13
+L13: Perm/Temp  | Permanent  | FT/PT  | Full-time
+L14: Open Date  | 10/19/2026  | Close Date  | 11/5/2026
+L15: Job Link  | 【6†Apply Online】  | Who may apply  | Public
+L16: Locations:
+L17: 【7†Washington, DC】
+L18: # Business Financial Analyst
+L19:
+L20: Legislative Branch
+L21:
+L22: Architect of the Capitol
+L23:
+L24: ## Summary
+L25:
+L26: This position is located in the Architect of the Capitol (AOC), Office of the Chief of Operations, Superintendent, Senate Office Buildings (SOB).  The Business Financial Analyst serves as a principle financial advisor on the effectiveness of budget and financial operations and programs and administers the components of the budget that support the operational and construction activities within SOB.
+L27: ## This job is open to
+L28:
+L29: 【8†The public U.S. Citizens, Nationals or those who owe allegiance to the U.S.†www.usajobs.gov】
+L30:
+L31: ### Clarification from the agency
+L32:
+L33: The resume(s) submitted with the application can be no more than two pages in length. Please be advised that federal retired annuitant candidates may only be considered as a temporary employee if the role can be filled in that capacity.
+L34: ## Duties
+L35:
+L36: This is a career ladder position; the duties were taken from the highest grade level, which is the GS-13.
+L37:
+L38: Major Duties:
+L39:
+L40: Budget Formulation and Execution:
+L41:
+L42: Serves as principal advisor on budget matters.
+L43: Obtains information from managers to formulate the budget, preparing the budget for presentation for review and coordinating with the Architect of the Capitol (AOC) Budget Division on budget execution, including out year projections, spend plan development, monthly execution reviews and fiscal year end close out.
+L44:
+L45: Analyzes appropriation legislation for impact on Senate Office Buildings (SOB) operating programs.
+L46: Works closely with program managers to ensure coordination of the major budget phases during the current year’s budget execution, the following year’s presentation and enactment phases and the formulation phase for the next two years.
+L47:
+L48: Utilizes the budget system as an evaluation tool in measuring program performance and effectiveness.
+L49:
+L50: Works with senior managers to respond to questions from the AOC Budget Division regarding ongoing budget and financial management operations.
+L51: Financial Resources Analysis and Reporting
+L52:
+L53:  Analyzes financial data to identify problem areas and develops plans to resolve problems and implement policies.
+L54:
+L55:  Locates, analyzes and validates complex cost data pertaining to a wide range of programs with different modes of operation, guidelines and requirements.
+L56:
+L57: Provides advice and recommendations on all aspects of the financial budget process to program officials and senior managers and in resolving issues.
+L58: Conducts studies and audits on control and use of funds throughout the year. Analyzes and forecasts usage of funds within the SOB.
+L59:
+L60:  Financial Advisory Services
+L61:
+L62: Develops and updates SOB division budget trackers.
+L63:
+L64: Identifies, analyzes, evaluates, troubleshoots and resolves financial management/reporting and internal control problems and addresses and resolves deficiencies as deemed necessary.
+L65:
+L66: Performs other related duties as assigned.
+L67: ## Requirements
+L68: ### Conditions of employment
+L69:
+L70:   * You must be able to pass a drug test and background check.
+L71:   * Your resume and question responses must demonstrate the job-related KSAs.
+L72:   * You must meet the definition of specialized experience.
+L73:
+L74: To be employed by the Architect of the Capitol in a paid position, an individual must meet one of the categories below:
+L75:   * A citizen of the United States;
+L76:   * A person who is lawfully admitted for permanent residence and is seeking citizenship as outlined in 8 U.S.C. 1324b(a)(3)(B);
+L77:   * A person who is admitted as a refugee under 8 U.S.C. 1157 or is granted asylum under 8 U.S.C. 1158 and has filed a declaration of intention to become a lawful permanent resident and then a citizen when eligible;
+L78:   * A person who owes allegiance to the United States (nationals of American Samoa, Swains Island, and the Northern Mariana Islands, and nationals who meet other requirements described in 8 U.S.C. 1408); or
+L79:   * A person who is currently an officer or employee of the Government of the United States.
+L80: ### Qualifications
+L81: You must meet the United States Office of Personnel Management's (OPM) qualification requirements (including specialized experience and/or educational requirements) for the advertised position.
+L82: You must meet all eligibility and qualifications requirements by the closing date of the job announcement. Additional information on the qualification requirements is outlined in the OPM Qualifications Standards Handbook of General Schedule Positions. It is available for your review on the OPM web site at 【9†OPM qualification standards†www.opm.gov】
+L83:
+L84: Specialized experience: is experience that has equipped you with the particular knowledge, skills and abilities to perform successfully the duties of the position, and that is typically in or related to the position to be filled. To be creditable, specialized experience must have been equivalent to at least the next lower grade level.
+L85: For GS-11 Grade Level:
+L86:
+L87: Candidates for the GS-11 grade level must demonstrate on their resume at least 52 weeks of specialized experience equivalent to the next lower grade level (GS-09) or pay band in the federal service or equivalent experience in the private or public sectors.  Specialized experience for this position is defined as having experience in (3) of the (4) following:
+L88:   1. Serving as an organization’s principle advisor on budgetary matters and interpretation of policies, regulations, and laws related to the federal budget process;
+L89:   2. Utilizing principles, policies, regulations and procedures of budget/financial transactions to evaluate financial data and prepare a variety of reports;
+L90:   3. Communicating in writing to reflect financial management and budgeting findings and recommendations to top management officials;
+L91:   4. Conducting reviews of financial programs to ensure expenditure of funds in accordance with regulatory or legal requirements.
+L92: -OR-
+L93:
+L94: Education:
+L95:
+L96: Ph.D. or equivalent doctoral degree
+L97:
+L98: -OR-
+L99:
+L100: 3 full years of progressively higher level graduate education leading to such a degree
+L101:
+L102: -OR-
+L103:
+L104: LL.M. in a field which demonstrates the knowledge, skills, and abilities necessary to perform the work of the position, such as accounting, finance, economics, organizational management, or related field of study.
+L105:
+L106: -OR-
+L107:
+L108: Combination of experience and education:
+L109: A combination of education and experience may be used to qualify for this position as long as the computed percentage of the requirements is at least 100%. To compute the percentage of the requirements, divide your total months of experience by 12. Then divide the total number of completed graduate semester hours (or equivalent) beyond the second year (total graduate semester hours minus 36) by 18. Add the two percentages.
+L110:
+L111: For GS-12 Grade Level:
+L112: Candidates for the GS-12 grade level must demonstrate on their resume at least 52 weeks of specialized experience equivalent to the next lower grade level (GS-11) or pay band in the federal service or equivalent experience in the private or public sectors.  Specialized experience for this position is defined as having experience in (4) out of the (5) following:
+L113:   1. Serving as an organization’s principle advisor on budgetary matters and interpretation of policies, regulations, and laws related to the federal budget process;
+L114:   2. Utilizing principles, policies, regulations and procedures of budget/financial transactions to evaluate financial data and prepare a variety of reports;
+L115:   3. Communicating in writing to reflect financial management and budgeting findings and recommendations to top management officials;
+L116:   4. Conducting reviews of financial programs to ensure expenditure of funds in accordance with regulatory or legal requirements;
+L117:   5. Creating charts, graphs and reports using financial analytics tools.
+L118: For GS-13 Grade Level:
+L119:
+L120: Candidates for the GS-12 grade level must demonstrate on their resume at least 52 weeks of specialized experience equivalent to the next lower grade level (GS-11) or pay band in the federal service or equivalent experience in the private or public sectors.  Specialized experience for this position is defined as having experience in (5) out of the (6) following:
+L121:   1. Serving as an organization’s principle advisor on budgetary matters and interpretation of policies, regulations, and laws related to the federal budget process;
+L122:   2. Utilizing principles, policies, regulations and procedures of budget/financial transactions to evaluate financial data and prepare a variety of reports;
+L123:   3. Communicating in writing to reflect financial management and budgeting findings and recommendations to top management officials;
+L124:   4. Conducting reviews of financial programs to ensure expenditure of funds in accordance with regulatory or legal requirements;
+L125:   5. Creating charts, graphs and reports using financial analytics tools.
+L126:   6. Formulating and executing an assigned portion of an organizational budget, including developing spend plans and monitoring obligations and expenditures against allotments, in order to ensure funds are used in compliance with fiscal law and support programmatic decision-making.
+L127: For more information on qualifying education or on combining education and experience see OPM Qualification Standards linked below:
+L128:
+L129: 【10†https://www.opm.gov/policy-data-oversight/classification-qualifications/general-schedule-qualification-standards/0500/financial-administration-and-program-series-0501/†www.opm.gov】
+L130: ### Additional information
+L131: Welcome Veterans. The Veterans Employment Opportunities Act of 1998 (VEOA) gives veterans' preference rights in the legislative branch to certain veterans as applied by the Congressional Accountability Act. Veterans' preference is applied on this vacancy announcement. If you are a veteran and have been separated under honorable conditions, you must submit a copy of your DD-214 or other proof of eligibility; SF-15, if applicable; and Department of Veterans Affairs documentation of disability, if applicable.
+L132: For more information, please visit 【11†OPM vet guide†www.opm.gov】
+L133: If you are a male applicant born after December 31, 1959, you must certify that you have registered with the Selective Service System. If you are exempt from registration under Selective Service Law, you must provide appropriate proof of exemption. Please visit the 【12†Selective Service System†www.sss.gov】 website for more information.
+L134: DRUG TESTING: The Architect of the Capitol (AOC) is a Drug Free Workplace. As part of the AOC’s suitability assessment, a candidate tentatively selected for a position who is not currently an AOC employee is required to submit to screening for illegal drug use. Satisfactory completion of a drug test is a condition of employment with the Agency. A candidate must test negative prior to being eligible for appointment into a position. We will schedule, provide and cover the cost for the drug test.
+L135: The selectee(s) under the vacancy announcement for this position is subject to a criminal record check by the U.S. Capitol Police and satisfactory adjudication to be eligible for employment at the Architect of the Capitol.
+L136: The Architect of the Capitol is an E-VERIFY Participant. E-VERIFY is an Internet-based system that compares information from an employee's Form I-9, Employment Eligibility Verification, to data from U.S. Department of Homeland Security (DHS) and Social Security Administration records to confirm employment authorization in the United States.
+L137: If you are selected for this position, the documentation that you present for purposes of completing the DHS Form I-9 will be verified through the DHS "E-VERIFY" electronic system. For more information on E-Verify, please visit 【13†http://www.dhs.gov/files/programs/gc_1185221678150.shtm†www.dhs.gov】
+L138: The Architect of the Capitol is an Equal Opportunity Employer and prohibits discrimination on the basis of race, color, sex, religion, age, national origin, sexual orientation, gender identity, genetic information and/or disability.
+L139: This agency provides reasonable accommodation to applicants with disabilities. If you need a reasonable accommodation for any part of the application and hiring process, please notify the agency. The decision on granting reasonable accommodation will be made on a case-by-case basis.
+L140:
+L141: Moving expenses are not authorized.
+L142:
+L143: Relocation expenses are not authorized.
+L144: Probationary Period - A newly appointed selectee is subject to the completion of a one-year trial/probationary period, regardless of whether or not a trial/probationary period has been completed previously with the Architect of the Capitol or another Federal agency.
+L145: This vacancy announcement may be used to fill additional vacancies in any of the jurisdictions of the Architect of the Capitol.
+L146: All application materials become the property of the Architect of the Capitol.
+L147: Candidates should be committed to improving the efficiency of the Federal government, passionate about the ideals of our American republic, and committed to upholding the rule of law and the United States Constitution.
+L148: #
+L149:
+L150: A career with the U.S. government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding. 【14†Opens in a new window Learn more about federal benefits†usajobshelp.opm.gov】.
+L151: A variety of health insurance plans; retirement system with investment options; paid holidays; paid sick and annual (vacation) leave; life insurance; incentive systems; subsidized transportation; training and development opportunities, etc.
+L152:
+L153: The Architect of the Capitol offers eligible employees opportunity to participate in the Student Loan Repayment Program.
+L154: Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time or intermittent. Contact the hiring agency for more information on the specific benefits offered.
+L155: ## How you will be evaluated
+L156:
+L157: You will be evaluated for this job based on how well you meet the qualifications above.
+L158: Review your resume and responses carefully. Your eligibility for consideration and qualifications for the position will be determined based upon a review of your detailed resume and your responses to job specific self-assessment questions.
+L159: Your resume will be evaluated based on evidence of your ability to demonstrate the knowledge, skills, and abilities (KSAs) for this position, possession of any specialized experience, and how well your background and experience relates to the self-assessment questions in the job announcement. The self-assessment questions relate to the following knowledge, skills, abilities, and competencies:
+L160: Financial Management - Understands the organization's financial processes. Prepares, justifies, and administers the program budget. Oversees procurement and contracting to achieve desired results. Monitors expenditures and uses cost-benefit thinking to set priorities.
+L161:
+L162: Financial Systems - Knowledge of the standards, architecture, and specifications of automated financial systems, including source documents, system flows, system interfaces, and related internal controls.
+L163: Financial Analysis - Knowledge of the principles, methods, and techniques of financial analysis, forecasting, and modeling to interpret quantitative and qualitative data; includes data modeling, earned value management, and evaluating key financial indicators, trends, and historical data.
+L164:
+L165: Problem Solving - Identifies and analyzes problems; weighs relevance and accuracy of information; generates and evaluates alternative solutions; makes recommendations.
+L166: Communication - Demonstrates writing reports to develop staff papers that accurately reflect findings and recommendations regarding financial management for Congressional oversight committees.
+L167: Your responses to the self-assessment questions serve as the basis for your initial rating.
+L168: You will receive a numerical score based on your responses to these questions.  Next, your responses will be evaluated by a Human Resources Specialist and/or a subject matter expert against the information provided in your resume and optional cover letter. Your resume must support your answers to the self-assessment questions. Falsifying your background, education and/or experience is cause for non-selection or disqualification from further consideration.
+L169: Please note that a complete application is required for consideration. (Please review the “Required Documents” section of this job announcement to see what must be included in a complete application).
+L170: You may 【15†preview questions†jobs.applygovt.net】 for this vacancy.
+L171: ## Required Documents
+L172: The Architect of the Capitol's job application process is designed to ensure that we only ask you for the information that is absolutely needed to evaluate your qualifications and eligibility for the position.
+L173: To apply for this position, you only need to submit online the following: a) your resume and 2) answer the online vacancy assessment questionnaire. The online questionnaire contains eligibility and screening questions and other relevant supplemental information. No additional documentation or attachment is required at the time of application.
+--------------------------------------------------------------------------------
+Financial Economist Job in Washington, DC (https://federalgovernmentjobs.us/jobs/Financial-Economist-885040000.html)
+citeturn19view2 [wordlim: 200] Crawled: last month; Content type: text/html; Source: open({"ref_id":"https://federalgovernmentjobs.us/jobs/Financial-Economist-885040000.html","lineno":null}); Total lines: 196
+L0:   * 【0†federalgovernmentjobs.us】
+L1:   * 【1†Jobs By State】
+L2:   * 【2†Job Titles】
+L3:   * 【3†Jobs By Agency】
+L4:   * 【4†Resumes】
+L5:   * 【5†Search】
+L6:
+L7: [Input]
+L8: # Financial Economist Job in Washington, DC
+L9:
+L10: Vacancy No.  | 26-DH-13054022-WLJ  | Department  | Securities and Exchange Commission
+L11: Salary  | $200,157.00 to $225,943.00  | Grade  | 14 to 14
+L12: Perm/Temp  | Permanent  | FT/PT  | Full-time
+L13: Open Date  | 9/21/2026  | Close Date  | 3/30/2027
+L14: Job Link  | 【6†Apply Online】  | Who may apply  | Status Candidates
+L15: Locations:
+L16: 【7†Washington, DC】
+L17:
+L18: # Financial Economist
+L19:
+L20: Securities and Exchange Commission
+L21:
+L22: Division of Economic and Risk Analysis
+L23: ## Summary
+L24:
+L25: The Division of Economic and Risk Analysis is seeking applicants to fill several Financial Economist positions. As a Financial Economist, you will be part of a team that has a track record of creative thinking, strong empirical research abilities, and excellent communication skills. We seek individuals with a keen interest in finance, securities markets and public policy.
+L26:
+L27: ## This job is open to
+L28:
+L29: 【8†The public U.S. Citizens, Nationals or those who owe allegiance to the U.S.†www.usajobs.gov】
+L30: ### Clarification from the agency
+L31:
+L32: All US Citizens
+L33: ## Duties
+L34:
+L35: In this role as a Financial Economist, you will be responsible for:
+L36:   * Applying advanced economic concepts and methods to the evaluation of federal financial rules and policies, including their impact on individuals, businesses, market efficiency, competition, and capital formation.
+L37:   * Analyzing economic, financial, and administrative data to assess the efficiency and effectiveness of federal financial and securities regulations and policies.
+L38:   * Designing, implementing, and maintaining quantitative and qualitative models to risk-rank market participants, financial entities, and market events, providing decision-ready assessments of systemic vulenerabilities.
+L39:   * Planning, organizing, and prioritizing tasks to address needs, emerging issues, and meet timelines, while working collaboratively and flexibly with multi-disciplinary team members, including lawyers, data analysts, and finance policy experts.
+L40:   * Discussing, evaluating economic research, comments, and analysis authored by federal agencies, international organizations, standard setting bodies, academics and other experts to determine their relevance and implications for federal financial rules and policies, or broadly systemic risk.
+L41:   * Providing economic guidance and research expertise to a broad range of activities, including federal policy, rule-making, enforcement actions, market risk assessment, and other regulatory initiatives, with opportunities to specialize in policy areas.
+L42:   * Reviewing draft analyses and reports to ensure accuracy, precision, and clarity of presentation of economic issues and data.
+L43: ## Requirements
+L44: ### Conditions of employment
+L45:   * CITZENSHIP: You must be a US Citizen.
+L46:   * SELECTIVE SERVICE: Males born after 12/31/59 must be registered or exempt from Selective Service (see https://www.sss.gov/).
+L47:   * SECURITY CLEARANCE: Entrance on duty is contingent upon completion of a pre-employment security investigation. Favorable results on a Background Investigation may be a condition of employment or selection to another position.
+L48:   * PERMANENT CHANGE OF STATION (PCS): Moving/Relocation expenses are not authorized.
+L49:   * DIRECT DEPOSIT: All Federal employees are required to have Federal salary payments made by direct deposit to a financial institution of their choosing.
+L50:   * PROBATIONARY PERIOD: This appointment may require completion of a one-year probationary period.
+L51:   * The selectee is required to report to the duty station(s) listed.
+L52: ### Qualifications
+L53: Applicants are responsible for confirming all required materials are submitted by the closing date of the announcement. Please check the How You Will Be Evaluated and Required Documents sections carefully, as missing documents will render the application incomplete and ineligible for review.
+L54: Qualifying experience may be obtained in the private or public sector. Experience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., Peace Corps, AmeriCorps) and other organizations (e.g., professional, philanthropic, religious, spiritual, community, student, social). Volunteer work helps build critical competencies, knowledge, and skills and can provide valuable training and experience that translates directly to paid employment.
+L55: You will receive credit for all qualifying experience, including volunteer experience. All qualification requirements must be met by the closing date of this announcement.
+L56: BASIC REQUIREMENT:
+L57: A. Applicants must possess a degree in economics that included at least 21 semester hours in economics and 3 semester hours in statistics, accounting, or calculus.
+L58: --OR--
+L59: B. An appropriate combination of education and experience----courses equivalent to a major in economics, as shown in A above, plus appropriate experience or additional education.
+L60: Examples of qualifying experience include individual economic research assignments requiring planning, information assembly, analysis and evaluation, conclusions and report preparation; supervisory or project coordination assignments involving a staff of professional economists, and requiring the evaluation and interpretation of economic information; or teaching assignments in a college or university in economic subjects in combination with one of the following: (1) personal research that produced evidence of results, (2) direction of graduate theses in economics, or (3) service as a consultant or advisor on technical economics problems.
+L61: MINIMUM QUALIFICATION REQUIREMENT: In addition to meeting the basic requirement, applicants must have at least one year of specialized experience equivalent to the GS/SK-13 grade level providing economic analysis which includes at least one of the following:
+L62:   1. Success in conducting research that is of comparable quality to peer-and economics journals;
+L63:   2. Experience analyzing the economics of securities litigation that have been submitted in federal courts or in the context of an SEC action, including the quantification of either harm to investors or ill-gotten gains;
+L64:   3. Experience writing reports that evaluate the effect of policy and rule changes on market performance and function;
+L65:   4. Experience writing reports in market microstructure or similar applied microeconomic fields such as industrial organizations and auction theory;
+L66:   5. Experience in analyzing the costs and benefits of regulations in financial markets, including effects on market efficiency, competition, and capital formation;
+L67:   6. Experience in developing, writing, and presenting economic risk analyses to intra-agency or international organizations, or other standard setting bodies.
+L68: ACCOMPLISHMENT RECORD COMPETENCIES: Your Accomplishment Record narratives should address the following competencies. See the How You Will Be Evaluated section below for more information:
+L69: Competency 1: Economic Analysis - Evaluates economic effects of financial actions related to a rule, conduct in the marketplace, and/or risks in the market.
+L70: Competency 2: Statistical Expertise - Performs and interprets data analysis.
+L71: Competency 3: Teamwork and Collaboration - Interacts with internal and external others in a manner that advances examinations and SEC goals and objectives.
+L72: Competency 4: Workload Management - Effectively prioritizes workload in a way that accommodates unforeseen developments and achieves successful outcomes.
+L73: Applications will be reviewed on a rolling basis. All applicants are required to submit a complete application package by the specified cutoff dates. Incomplete submissions by the bi-weekly cutoff will not move forward in the hiring process. Certificates will be issued on a bi-weekly basis until the announcement's closing date.
+L74: Cut Off Dates: October 2nd; October 16th; October 30th; November 13th; November 27th, December 11th, December 24th; January 8th, January 22nd; February 5th; February 19th; March 5th; and March 19th.
+L75: ### Education
+L76: You MUST provide transcripts or other documentation to support your educational claims. Unless otherwise stated: (1) official or unofficial transcripts are acceptable, or (2) you may submit a list with all your courses, grades, semester, year, and credit for the course. If you are qualifying for this position by substituting education or training for experience, you must submit a copy of your unofficial transcripts or equivalent by the closing date of the announcement.
+L77: Qualifying education must have been obtained from an accredited college or university recognized by the U.S. Department of Education. Internal Applicants: OHR will verify education qualifications for internal applicants using documents in the Electronic Official Personnel Folder (eOPF). If required transcripts or certificates are not present in your eOPF, you will be required to provide them to OHR. If selected, a start date will not be established until official transcripts are received.
+L78: FOREIGN EDUCATION: If you are using education completed in foreign colleges or universities to meet the qualification requirements, you must show the education credentials have been evaluated by a private organization that specializes in interpretation of foreign education programs. For more information, click 【9†here.†www.ed.gov】
+L79: Applicants may also find the following helpful:
+L80: 【10†National Association of Credential Evaluation Services (NACES)†www.naces.org】 is an association of 19 credential evaluation services with admission standards and an enforced code of good practice.
+L81: 【11†Association of International Credentials Evaluators (AICE)†aice-eval.org】 is an association of 10 credential evaluation services with a board of advisors and an enforced code of ethics.
+L82: ### Additional information
+L83: Supplementary vacancies may be filled in addition to the number stated in this announcement and may be filled from any division or office within the agency.
+L84: SEC COMPENSATION PROGRAM: Total salary (base pay + locality) is dependent upon duty location. The overall salary range listed above is provided for informational purposes; a selectee's initial pay will be established below the maximum rate of the range. The pay for current SEC employees will be determined according to the procedures specified in the agency's policy. Please 【12†click here†www.sec.gov】 for a compensation overview.
+L85: IMPORTANT INFORMATION FOR SURPLUS OR DISPLACED FEDERAL EMPLOYEES: If you have never worked for the federal government, you are not I/CTAP eligible. To receive selection priority for this position, you must: (1) meet CTAP or ICTAP eligibility criteria; the questionnaire asks you to identify your ICTAP/CTAP eligibility (2) be rated well-qualified; and, (3) submit the appropriate documentation to support your CTAP or ICTAP eligibility.
+L86: View information about 【13†I/CTAP eligibility†www.opm.gov】 on OPM's Career Transition Resources website.
+L87: Reasonable Accommodation: If you are an applicant who needs a reasonable accommodation to participate in the SEC application process due to a medical disability, please contact reasonableaccommodation@sec.gov. For religious-based accommodations, please contact religiousaccommodation@sec.gov . Please be sure to submit your request at least 5 business days in advance of the date you need the requested accommodation.
+L88: Equal Employment Opportunity (EEO) Information for SEC Job Applicants: For more information, please click 【14†here†www.sec.gov】.
+L89: The Fair Chance Act prohibits specific inquiries concerning an applicant's criminal or credit background unless the hiring agency has made a conditional offer of employment to the applicant. An applicant may submit a complaint, or any other information, to the agency within 30 calendar days of the date of alleged non-compliance by contacting the Legal and Policy Office in the Office of Human Resources at 【15†ElliottT@sec.gov】.
+L90: Candidates should be committed to improving the efficiency of the Federal government, passionate about the ideals of our American republic, and committed to upholding the rule of law and the United States Constitution.
+L91: #
+L92:
+L93: A career with the U.S. government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding. 【16†Opens in a new windowLearn more about federal benefits†usajobshelp.opm.gov】.
+L94:
+L95: 【17†Review our benefits†www.sec.gov】
+L96: Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time or intermittent. Contact the hiring agency for more information on the specific benefits offered.
+L97: ## How you will be evaluated
+L98:
+L99: You will be evaluated for this job based on how well you meet the qualifications above.
+L100:
+L101: You will be evaluated for this position based on how well you meet the qualifications listed in this announcement.
+L102: This position is being advertised through the Office of Personnel Management's (OPM) Delegated Direct-Hire Authority (5 U.S.C. Section 3304 and 5 CFR Part 337, Subpart B) and is open to All U.S. Citizens. Under this authority, competitive rating, ranking and veterans' preference procedures do not apply.
+L103: Your resume and application package will first be reviewed to determine whether you meet the minimum qualification requirements outlined in the announcement. Please do not submit an Accomplishment Record at this time.
+L104: If you are found minimally qualified, the Office of Human Resources will contact you to request an Accomplishment Record. You will have 3 business days from the date of the request to submit it. Failure to submit the Accomplishment Record on time will remove you from further consideration. A response is required even if an Accomplishment Record was submitted at time of application. Because of the short turnaround time, you are strongly encouraged to begin preparing your Accomplishment Record in advance.
+L105: Once your Accomplishment Record is received, a rating panel will review both your resume and your narrative responses. Your Accomplishment Record must clearly demonstrate your proficiency in the competencies listed in the Qualifications section.
+L106: Click 【18†here†www.sec.gov】 for guidance on writing your Accomplishment Record.
+L107: Your resume must provide evidence that supports the claims in your Accomplishment Record. Each narrative must describe one specific, relevant example from your experience or training. Responses are limited to 300 words per competency; any text beyond this limit will not be reviewed.
+L108: Accomplishment Record Format:
+L109: Competency Title
+L110:   * Position title and dates from your resume that this experience was obtained
+L111:   * Describe the situation (i.e., the challenged faced, the problem solved)
+L112:   * Describe the specific actions you took
+L113:   * State the outcome, results, or long-term impact of your accomplishment
+L114:   * Name and email address of someone who can verify this information
+L115:
+L116: Reference checks may be conducted as part of the final selection process, and you will be notified before any contacts are made.
+L117: Basis for Rating: The rating panel will evaluate applicants' accomplishment records and resume, and then place them into one of the following categories:
+L118:
+L119:   * Pass - Meets the minimum qualification requirements and has at least a moderate amount of skills and experience in most of the job related competencies.
+L120:   * Fail - Meets the minimum qualification requirements, but has only limited experience in several of the job related competencies.
+L121: Passing applicants will be referred to the hiring office for further review and consideration. The hiring office may directly contact recommended candidates for interview(s).
+L122: *If you are invited to participate in the interview stage, you may be asked to provide a job market paper related to economic theory and research for which you are the author or co-author. You may also be asked to present the paper and discuss your research approach and findings.*
+L123: To preview the Questionnaire, click 【19†https://apply.usastaffing.gov/ViewQuestionnaire/13054022†apply.usastaffing.gov】
+L124: ## Required Documents
+L125:
+L126: You must provide a complete Application Package, which includes:
+L127:   * Required: Your responses to the Questionnaire.
+L128:   * Required: Resume - Resumes should include relevant work experience, with specific employment dates, that demonstrates qualifications for the specialized experience and competencies as outlined above. If your resume does not reflect demonstrated evidence of these qualifications, you may not receive consideration for the position. Resumes that exceed two pages will be deemed ineligible and receive no further consideration. For resume writing tips, visit USAJOBS and the SEC 【18†careers†www.sec.gov】 page.
+L129:   * Required: Unofficial Transcripts - If education is a required qualification for this position, you must submit unofficial transcripts with your application demonstrating that you meet the specified degree and/or coursework requirements. Failure to provide transcripts showing completion of all required degree and coursework requirements may result in a determination that you are ineligible for further consideration. Official documents will be required if selected. .
+L130:   * Required, if applicable: CTAP/ICTAP documentation (a copy of a separation notice or other proof of eligibility for priority selection; a copy of an SF-50, Notification of Personnel Action, showing current position, grade, promotion potential, and duty location; AND a copy of your most recent performance appraisal.)
+L131: ### If you are relying on your education to meet qualification requirements:
+L132:
+L133: Education must be accredited by an accrediting institution recognized by the U.S. Department of Education in order for it to be credited towards qualifications. Therefore, provide only the attendance and/or degrees from 【20†schools accredited by accrediting institutions recognized by the U.S. Department of Education†www.ed.gov】.

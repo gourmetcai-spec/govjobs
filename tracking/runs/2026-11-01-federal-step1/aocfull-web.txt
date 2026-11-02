@@ -1,0 +1,444 @@
+USAJOBS - Job Announcement (https://www.usajobs.gov/job/889349900)
+citeturn9view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.usajobs.gov/job/889349900","lineno":180}); Total lines: 541
+L0: 【0†Skip to main content】
+L1:
+L2: 【1†Image: U.S. flag】
+L3:
+L4: [Button: An official website of the United States government ]
+L5:
+L6: [Button: MENU ]
+L7:
+L8: 【2†Back to results】
+L9:
+L10:
+L11:
+L12: 【3†Apply】
+L13:
+L14: Print
+L15:
+L16: Share
+L17:
+L18: Save
+L19:
+L20:   * 【4†Summary】
+L21:   * 【5†This job is open to】
+L22:   * 【6†Duties】
+L23:   * 【7†Requirements】
+L24:   * 【8†How you will be evaluated】
+L25:   * 【9†Required documents】
+L26:   * 【10†How to apply】
+L27: ## Summary
+L28:
+L29: This position is located in the Architect of the Capitol (AOC), Office of the Chief of Operations, Superintendent, Senate Office Buildings (SOB).  The Business Financial Analyst serves as a principle financial advisor on the effectiveness of budget and financial operations and programs and administers the components of the budget that support the operational and construction activities within SOB.
+L30:
+L31: [Button: Learn more about this agency ]
+L32: ## Summary
+L33:
+L34: This position is located in the Architect of the Capitol (AOC), Office of the Chief of Operations, Superintendent, Senate Office Buildings (SOB).  The Business Financial Analyst serves as a principle financial advisor on the effectiveness of budget and financial operations and programs and administers the components of the budget that support the operational and construction activities within SOB.
+L35:
+L36: [Button: Learn more about this agency ]
+L37: ## Overview
+L38:
+L39: 【11†Help†usajobshelp.opm.gov】
+L40:
+L41: Accepting applications
+L42:
+L43: Location
+L44:
+L45: 1 vacancy in the following location:
+L46:
+L47: 441 2nd Street SW
+L48:
+L49: Washington, DC
+L50:
+L51: 1 vacancy
+L52:
+L53: Work site options
+L54:
+L55: Telework eligible
+L56:     Yes—Telework as Directed by Agency Policy
+L57:
+L58: Remote job
+L59:     No
+L60:
+L61: Relocation expenses reimbursed
+L62:     No
+L63:
+L64: Salary
+L65:     $85,447 - $158,322 per year
+L66:
+L67: Pay scale & grade
+L68:
+L69:
+L70: GS 11 - 13
+L71:
+L72: Promotion potential
+L73:     13
+L74:
+L75: 【12†Learn more about pay scale and grade†usajobshelp.opm.gov】
+L76: Pay scale and grade determines the salary of the job.
+L77:
+L78: Work schedule
+L79:     Full-time - This is an Excepted Service position and does not require or confer Civil Service Competitive Status
+L80:
+L81: Travel Required
+L82:     Not required
+L83:
+L84: Appointment type
+L85:     Permanent - Permanent, Full Time
+L86:
+L87: Occupations and job series
+L88:
+L89:   * 【13†0501 Financial Administration And Program】
+L90:
+L91: Supervisory status
+L92:     No
+L93:
+L94: Federal service type
+L95:     This job is in the Excepted Service
+L96:
+L97: Represented by a union
+L98:     No
+L99:
+L100: Drug test
+L101:     Yes
+L102: Security clearance
+L103:     Not Required
+L104:
+L105: Position sensitivity and risk
+L106:     【14†Non-sensitive (NS)/Low Risk†usajobshelp.opm.gov】
+L107:
+L108: Jobs require a 【14†background check†usajobshelp.opm.gov】 and some require a 【14†security clearance†usajobshelp.opm.gov】. The type depends on the job.
+L109:
+L110: Background check type
+L111:
+L112:   * 【14†Suitability/Fitness†usajobshelp.opm.gov】
+L113:
+L114: Financial disclosure required
+L115:     No
+L116:
+L117:
+L118: Some jobs require 【15†financial disclosure†usajobshelp.opm.gov】 to identify conflicts of interests.
+L119: Announcement number
+L120:     SOB-2027-013
+L121:
+L122: Control number
+L123:     889349900
+L124: ## This job is open to
+L125:
+L126: 【16†Help†usajobshelp.opm.gov】
+L127:
+L128: 【17†The public U.S. Citizens, Nationals or those who owe allegiance to the U.S.】
+L129:
+L130: ### Clarification from the agency
+L131:
+L132: The resume(s) submitted with the application can be no more than two pages in length. Please be advised that federal retired annuitant candidates may only be considered as a temporary employee if the role can be filled in that capacity.
+L133:
+L134: ## Videos
+L135:
+L136: 【18†iframe†www.youtube.com】
+L137: ## Duties
+L138:
+L139: 【19†Help†usajobshelp.opm.gov】
+L140:
+L141: This is a career ladder position; the duties were taken from the highest grade level, which is the GS-13.
+L142:
+L143: Major Duties:
+L144:
+L145: Budget Formulation and Execution:
+L146:
+L147: Serves as principal advisor on budget matters.
+L148: Obtains information from managers to formulate the budget, preparing the budget for presentation for review and coordinating with the Architect of the Capitol (AOC) Budget Division on budget execution, including out year projections, spend plan development, monthly execution reviews and fiscal year end close out.
+L149:
+L150: Analyzes appropriation legislation for impact on Senate Office Buildings (SOB) operating programs.
+L151: Works closely with program managers to ensure coordination of the major budget phases during the current year’s budget execution, the following year’s presentation and enactment phases and the formulation phase for the next two years.
+L152:
+L153: Utilizes the budget system as an evaluation tool in measuring program performance and effectiveness.
+L154:
+L155: Works with senior managers to respond to questions from the AOC Budget Division regarding ongoing budget and financial management operations.
+L156: Financial Resources Analysis and Reporting
+L157:
+L158:  Analyzes financial data to identify problem areas and develops plans to resolve problems and implement policies.
+L159:
+L160:  Locates, analyzes and validates complex cost data pertaining to a wide range of programs with different modes of operation, guidelines and requirements.
+L161:
+L162: Provides advice and recommendations on all aspects of the financial budget process to program officials and senior managers and in resolving issues.
+L163: Conducts studies and audits on control and use of funds throughout the year. Analyzes and forecasts usage of funds within the SOB.
+L164:
+L165:  Financial Advisory Services
+L166:
+L167: Develops and updates SOB division budget trackers.
+L168:
+L169: Identifies, analyzes, evaluates, troubleshoots and resolves financial management/reporting and internal control problems and addresses and resolves deficiencies as deemed necessary.
+L170:
+L171: Performs other related duties as assigned.
+L172: ## Requirements
+L173:
+L174: 【20†Help†usajobshelp.opm.gov】
+L175: ### Conditions of employment
+L176:
+L177:   * You must be able to pass a drug test and background check.
+L178:   * Your resume and question responses must demonstrate the job-related KSAs.
+L179:   * You must meet the definition of specialized experience.
+L180:
+L181: To be employed by the Architect of the Capitol in a paid position, an individual must meet one of the categories below:
+L182:   * A citizen of the United States;
+L183:   * A person who is lawfully admitted for permanent residence and is seeking citizenship as outlined in 8 U.S.C. 1324b(a)(3)(B);
+L184:   * A person who is admitted as a refugee under 8 U.S.C. 1157 or is granted asylum under 8 U.S.C. 1158 and has filed a declaration of intention to become a lawful permanent resident and then a citizen when eligible;
+L185:   * A person who owes allegiance to the United States (nationals of American Samoa, Swains Island, and the Northern Mariana Islands, and nationals who meet other requirements described in 8 U.S.C. 1408); or
+L186:   * A person who is currently an officer or employee of the Government of the United States.
+L187: ### Qualifications
+L188: You must meet the United States Office of Personnel Management's (OPM) qualification requirements (including specialized experience and/or educational requirements) for the advertised position.
+L189: You must meet all eligibility and qualifications requirements by the closing date of the job announcement. Additional information on the qualification requirements is outlined in the OPM Qualifications Standards Handbook of General Schedule Positions. It is available for your review on the OPM web site at 【21†OPM qualification standards†www.opm.gov】
+L190:
+L191: Specialized experience: is experience that has equipped you with the particular knowledge, skills and abilities to perform successfully the duties of the position, and that is typically in or related to the position to be filled. To be creditable, specialized experience must have been equivalent to at least the next lower grade level.
+L192: For GS-11 Grade Level:
+L193:
+L194: Candidates for the GS-11 grade level must demonstrate on their resume at least 52 weeks of specialized experience equivalent to the next lower grade level (GS-09) or pay band in the federal service or equivalent experience in the private or public sectors.  Specialized experience for this position is defined as having experience in (3) of the (4) following:
+L195:   1. Serving as an organization’s principle advisor on budgetary matters and interpretation of policies, regulations, and laws related to the federal budget process;
+L196:   2. Utilizing principles, policies, regulations and procedures of budget/financial transactions to evaluate financial data and prepare a variety of reports;
+L197:   3. Communicating in writing to reflect financial management and budgeting findings and recommendations to top management officials;
+L198:   4. Conducting reviews of financial programs to ensure expenditure of funds in accordance with regulatory or legal requirements.
+L199: -OR-
+L200:
+L201: Education:
+L202:
+L203: Ph.D. or equivalent doctoral degree
+L204:
+L205: -OR-
+L206:
+L207: 3 full years of progressively higher level graduate education leading to such a degree
+L208:
+L209: -OR-
+L210:
+L211: LL.M. in a field which demonstrates the knowledge, skills, and abilities necessary to perform the work of the position, such as accounting, finance, economics, organizational management, or related field of study.
+L212:
+L213: -OR-
+L214:
+L215: Combination of experience and education:
+L216: A combination of education and experience may be used to qualify for this position as long as the computed percentage of the requirements is at least 100%. To compute the percentage of the requirements, divide your total months of experience by 12. Then divide the total number of completed graduate semester hours (or equivalent) beyond the second year (total graduate semester hours minus 36) by 18. Add the two percentages.
+L217:
+L218: For GS-12 Grade Level:
+L219: Candidates for the GS-12 grade level must demonstrate on their resume at least 52 weeks of specialized experience equivalent to the next lower grade level (GS-11) or pay band in the federal service or equivalent experience in the private or public sectors.  Specialized experience for this position is defined as having experience in (4) out of the (5) following:
+L220:   1. Serving as an organization’s principle advisor on budgetary matters and interpretation of policies, regulations, and laws related to the federal budget process;
+L221:   2. Utilizing principles, policies, regulations and procedures of budget/financial transactions to evaluate financial data and prepare a variety of reports;
+L222:   3. Communicating in writing to reflect financial management and budgeting findings and recommendations to top management officials;
+L223:   4. Conducting reviews of financial programs to ensure expenditure of funds in accordance with regulatory or legal requirements;
+L224:   5. Creating charts, graphs and reports using financial analytics tools.
+L225: For GS-13 Grade Level:
+L226:
+L227: Candidates for the GS-12 grade level must demonstrate on their resume at least 52 weeks of specialized experience equivalent to the next lower grade level (GS-11) or pay band in the federal service or equivalent experience in the private or public sectors.  Specialized experience for this position is defined as having experience in (5) out of the (6) following:
+L228:   1. Serving as an organization’s principle advisor on budgetary matters and interpretation of policies, regulations, and laws related to the federal budget process;
+L229:   2. Utilizing principles, policies, regulations and procedures of budget/financial transactions to evaluate financial data and prepare a variety of reports;
+L230:   3. Communicating in writing to reflect financial management and budgeting findings and recommendations to top management officials;
+L231:   4. Conducting reviews of financial programs to ensure expenditure of funds in accordance with regulatory or legal requirements;
+L232:   5. Creating charts, graphs and reports using financial analytics tools.
+L233:   6. Formulating and executing an assigned portion of an organizational budget, including developing spend plans and monitoring obligations and expenditures against allotments, in order to ensure funds are used in compliance with fiscal law and support programmatic decision-making.
+L234: For more information on qualifying education or on combining education and experience see OPM Qualification Standards linked below:
+L235:
+L236: 【22†https://www.opm.gov/policy-data-oversight/classification-qualifications/general-schedule-qualification-standards/0500/financial-administration-and-program-series-0501/†www.opm.gov】
+L237: ### Additional information
+L238: Welcome Veterans. The Veterans Employment Opportunities Act of 1998 (VEOA) gives veterans' preference rights in the legislative branch to certain veterans as applied by the Congressional Accountability Act. Veterans' preference is applied on this vacancy announcement. If you are a veteran and have been separated under honorable conditions, you must submit a copy of your DD-214 or other proof of eligibility; SF-15, if applicable; and Department of Veterans Affairs documentation of disability, if applicable.
+L239: For more information, please visit 【23†OPM vet guide†www.opm.gov】
+L240: If you are a male applicant born after December 31, 1959, you must certify that you have registered with the Selective Service System. If you are exempt from registration under Selective Service Law, you must provide appropriate proof of exemption. Please visit the 【24†Selective Service System†www.sss.gov】 website for more information.
+L241: DRUG TESTING: The Architect of the Capitol (AOC) is a Drug Free Workplace. As part of the AOC’s suitability assessment, a candidate tentatively selected for a position who is not currently an AOC employee is required to submit to screening for illegal drug use. Satisfactory completion of a drug test is a condition of employment with the Agency. A candidate must test negative prior to being eligible for appointment into a position. We will schedule, provide and cover the cost for the drug test.
+L242: The selectee(s) under the vacancy announcement for this position is subject to a criminal record check by the U.S. Capitol Police and satisfactory adjudication to be eligible for employment at the Architect of the Capitol.
+L243: The Architect of the Capitol is an E-VERIFY Participant. E-VERIFY is an Internet-based system that compares information from an employee's Form I-9, Employment Eligibility Verification, to data from U.S. Department of Homeland Security (DHS) and Social Security Administration records to confirm employment authorization in the United States.
+L244: If you are selected for this position, the documentation that you present for purposes of completing the DHS Form I-9 will be verified through the DHS "E-VERIFY" electronic system. For more information on E-Verify, please visit 【25†http://www.dhs.gov/files/programs/gc_1185221678150.shtm†www.dhs.gov】
+L245: The Architect of the Capitol is an Equal Opportunity Employer and prohibits discrimination on the basis of race, color, sex, religion, age, national origin, sexual orientation, gender identity, genetic information and/or disability.
+L246: This agency provides reasonable accommodation to applicants with disabilities. If you need a reasonable accommodation for any part of the application and hiring process, please notify the agency. The decision on granting reasonable accommodation will be made on a case-by-case basis.
+L247:
+L248: Moving expenses are not authorized.
+L249:
+L250: Relocation expenses are not authorized.
+L251: Probationary Period - A newly appointed selectee is subject to the completion of a one-year trial/probationary period, regardless of whether or not a trial/probationary period has been completed previously with the Architect of the Capitol or another Federal agency.
+L252: This vacancy announcement may be used to fill additional vacancies in any of the jurisdictions of the Architect of the Capitol.
+L253: All application materials become the property of the Architect of the Capitol.
+L254: Expand Hide  additional information
+L255:
+L256: Candidates should be committed to improving the efficiency of the Federal government, passionate about the ideals of our American republic, and committed to upholding the rule of law and the United States Constitution.
+L257: # Benefits
+L258:
+L259: 【26†Help†usajobshelp.opm.gov】
+L260:
+L261: A career with the U.S. government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding. 【27†Opens in a new window Learn more about federal benefits†usajobshelp.opm.gov】.
+L262: A variety of health insurance plans; retirement system with investment options; paid holidays; paid sick and annual (vacation) leave; life insurance; incentive systems; subsidized transportation; training and development opportunities, etc.
+L263:
+L264: The Architect of the Capitol offers eligible employees opportunity to participate in the Student Loan Repayment Program.
+L265: Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time or intermittent. Contact the hiring agency for more information on the specific benefits offered.
+L266: ## How you will be evaluated
+L267:
+L268: You will be evaluated for this job based on how well you meet the qualifications above.
+L269: Review your resume and responses carefully. Your eligibility for consideration and qualifications for the position will be determined based upon a review of your detailed resume and your responses to job specific self-assessment questions.
+L270: Your resume will be evaluated based on evidence of your ability to demonstrate the knowledge, skills, and abilities (KSAs) for this position, possession of any specialized experience, and how well your background and experience relates to the self-assessment questions in the job announcement. The self-assessment questions relate to the following knowledge, skills, abilities, and competencies:
+L271: Financial Management - Understands the organization's financial processes. Prepares, justifies, and administers the program budget. Oversees procurement and contracting to achieve desired results. Monitors expenditures and uses cost-benefit thinking to set priorities.
+L272:
+L273: Financial Systems - Knowledge of the standards, architecture, and specifications of automated financial systems, including source documents, system flows, system interfaces, and related internal controls.
+L274: Financial Analysis - Knowledge of the principles, methods, and techniques of financial analysis, forecasting, and modeling to interpret quantitative and qualitative data; includes data modeling, earned value management, and evaluating key financial indicators, trends, and historical data.
+L275:
+L276: Problem Solving - Identifies and analyzes problems; weighs relevance and accuracy of information; generates and evaluates alternative solutions; makes recommendations.
+L277: Communication - Demonstrates writing reports to develop staff papers that accurately reflect findings and recommendations regarding financial management for Congressional oversight committees.
+L278: Your responses to the self-assessment questions serve as the basis for your initial rating.
+L279: You will receive a numerical score based on your responses to these questions.  Next, your responses will be evaluated by a Human Resources Specialist and/or a subject matter expert against the information provided in your resume and optional cover letter. Your resume must support your answers to the self-assessment questions. Falsifying your background, education and/or experience is cause for non-selection or disqualification from further consideration.
+L280: Please note that a complete application is required for consideration. (Please review the “Required Documents” section of this job announcement to see what must be included in a complete application).
+L281: You may 【28†preview questions†jobs.applygovt.net】 for this vacancy.
+L282: # Benefits
+L283:
+L284: 【26†Help†usajobshelp.opm.gov】
+L285:
+L286: A career with the U.S. government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding. 【27†Opens in a new window Learn more about federal benefits†usajobshelp.opm.gov】.
+L287: A variety of health insurance plans; retirement system with investment options; paid holidays; paid sick and annual (vacation) leave; life insurance; incentive systems; subsidized transportation; training and development opportunities, etc.
+L288:
+L289: The Architect of the Capitol offers eligible employees opportunity to participate in the Student Loan Repayment Program.
+L290: Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time or intermittent. Contact the hiring agency for more information on the specific benefits offered.
+L291: # Required documents
+L292: ## Required Documents
+L293:
+L294: 【20†Help†usajobshelp.opm.gov】
+L295: The Architect of the Capitol's job application process is designed to ensure that we only ask you for the information that is absolutely needed to evaluate your qualifications and eligibility for the position.
+L296: To apply for this position, you only need to submit online the following: a) your resume and 2) answer the online vacancy assessment questionnaire. The online questionnaire contains eligibility and screening questions and other relevant supplemental information. No additional documentation or attachment is required at the time of application.
+L297: We ask that you prepare and submit a resume that best describes fully your background experience, skills, abilities, education, training and other relevant credentials. The resume should include dates of employment.
+L298: Nothing further is required until it is requested by the staff of the Human Capital Management Division. If additional documentation is required for a position, you will be asked to provide it during the selection process or upon selection. At that point, we may ask you to submit documentation to support statements made in your resume.
+L299: For example, we may ask you to provide documents such as college transcripts, copy of diploma or proof of Federal employment status. If the position requires a license or certification, we will ask candidate(s) to provide proof at the time of selection.
+L300: If you are claiming veterans' preference, we may ask you to submit proof of Veterans preference (DD-214, and, if claiming 10-point preference, the SF-15 plus proof required by that form).
+L301: If you fail to provide the required documents, we will withdraw a tentative job offer made and/or remove you from further consideration.
+L302: ### If you are relying on your education to meet qualification requirements:
+L303:
+L304: Education must be accredited by an accrediting institution recognized by the U.S. Department of Education in order for it to be credited towards qualifications. Therefore, provide only the attendance and/or degrees from 【29†schools accredited by accrediting institutions recognized by the U.S. Department of Education†www.ed.gov】.
+L305: Failure to provide all of the required information as stated in this vacancy announcement may result in an ineligible rating or may affect the overall rating.
+L306: # How to Apply
+L307:
+L308: 【30†Help†usajobshelp.opm.gov】
+L309: You MUST apply online. FORMS RECEIVED BY FAX, EMAIL OR U.S. POSTAL SERVICE DELIVERY WILL NOT BE ACCEPTED.
+L310: If you are a new user to the USAJOBS Site and have never registered for an account; you will first need to create an account profile with your basic contact information and a resume to begin applying. You must be a registered USAJOBS user AND you must be signed-in to your account in order to apply for this position. For help with setting up an account or for general assistance in using USAJOBS, go to 【31†USAJOBS Help Page†help.usajobs.gov】.
+L311:
+L312: NEED HELP?
+L313: If you experience any difficulties with the application site, help is available! If you have problems completing your on-line application, contact the Monster Hiring Management Help Desk at 1-866-656-6831 or by e-mail at MGSHELP@monster.com. The help desk is available Monday - Friday 7:00 a.m. to 7:00 p.m. Eastern Time.  You may call and leave a voice mail message at all other times.
+L314: All required supporting documents will be collected electronically via the USAJOBS “Saved Documents” feature.
+L315: If you are unable to apply on-line, you may visit our Employment Center for technical assistance in entering your application. The Employment Center is located at 441 Second & D Streets S.W., Washington, D.C., Room H2-178, and is open Monday through Friday from 8:00 a.m. to 4:00 p.m. You may call (202) 226-7000 for directions.
+L316: ### Agency contact information
+L317:
+L318: Arnita Edmonds
+L319:
+L320: Phone
+L321:     202.322.0981
+L322: Email
+L323:     arnita.edmonds@aoc.gov
+L324:
+L325: Address
+L326:     Architect of the Capitol
+L327: United States Capitol
+L328: Washington, District of Columbia 20515
+L329: United States
+L330: ### Next steps
+L331: You will receive a notice generated by the USAJOBS System when you have successfully submitted your application. We will review your application and transcript(s) (if you are qualifying based on education) to ensure you meet the basic qualification requirements.
+L332: You can check the status of your application by logging into 【32†http://www.usajobs.gov】. You may also sign up to receive automatic emails anytime the status of your application has changed by logging into your USAJOBS Account, editing your profile and changing the ‘Notification Settings’ to indicate that you want to be notified by email when the status changes. Information regarding the status of your application should be updated in the system within two (2) weeks after the closing date of this job announcement.
+L333: # Fair and transparent
+L334:
+L335: The Federal hiring process is set up to be fair and transparent. Please read the following guidance.
+L336:
+L337: 【33†Criminal history inquiries†usajobshelp.opm.gov】 【34†Equal Employment Opportunity (EEO) Policy†usajobshelp.opm.gov】
+L338:
+L339: 【35†Financial suitability†usajobshelp.opm.gov】 【36†New employee probationary period†usajobshelp.opm.gov】
+L340:
+L341: 【37†Privacy Act†usajobshelp.opm.gov】 【38†Reasonable accommodation policy†usajobshelp.opm.gov】
+L342: 【39†Selective Service†usajobshelp.opm.gov】 【40†Signature and false statements†usajobshelp.opm.gov】
+L343:
+L344: 【41†Social security number request†usajobshelp.opm.gov】
+L345: ## Required Documents
+L346:
+L347: 【20†Help†usajobshelp.opm.gov】
+L348: The Architect of the Capitol's job application process is designed to ensure that we only ask you for the information that is absolutely needed to evaluate your qualifications and eligibility for the position.
+L349: To apply for this position, you only need to submit online the following: a) your resume and 2) answer the online vacancy assessment questionnaire. The online questionnaire contains eligibility and screening questions and other relevant supplemental information. No additional documentation or attachment is required at the time of application.
+L350: We ask that you prepare and submit a resume that best describes fully your background experience, skills, abilities, education, training and other relevant credentials. The resume should include dates of employment.
+L351: Nothing further is required until it is requested by the staff of the Human Capital Management Division. If additional documentation is required for a position, you will be asked to provide it during the selection process or upon selection. At that point, we may ask you to submit documentation to support statements made in your resume.
+L352: For example, we may ask you to provide documents such as college transcripts, copy of diploma or proof of Federal employment status. If the position requires a license or certification, we will ask candidate(s) to provide proof at the time of selection.
+L353: If you are claiming veterans' preference, we may ask you to submit proof of Veterans preference (DD-214, and, if claiming 10-point preference, the SF-15 plus proof required by that form).
+L354: If you fail to provide the required documents, we will withdraw a tentative job offer made and/or remove you from further consideration.
+L355: ### If you are relying on your education to meet qualification requirements:
+L356:
+L357: Education must be accredited by an accrediting institution recognized by the U.S. Department of Education in order for it to be credited towards qualifications. Therefore, provide only the attendance and/or degrees from 【29†schools accredited by accrediting institutions recognized by the U.S. Department of Education†www.ed.gov】.
+L358: Failure to provide all of the required information as stated in this vacancy announcement may result in an ineligible rating or may affect the overall rating.
+L359: ## How to Apply
+L360:
+L361: 【30†Help†usajobshelp.opm.gov】
+L362: You MUST apply online. FORMS RECEIVED BY FAX, EMAIL OR U.S. POSTAL SERVICE DELIVERY WILL NOT BE ACCEPTED.
+L363: If you are a new user to the USAJOBS Site and have never registered for an account; you will first need to create an account profile with your basic contact information and a resume to begin applying. You must be a registered USAJOBS user AND you must be signed-in to your account in order to apply for this position. For help with setting up an account or for general assistance in using USAJOBS, go to 【31†USAJOBS Help Page†help.usajobs.gov】.
+L364:
+L365: NEED HELP?
+L366: If you experience any difficulties with the application site, help is available! If you have problems completing your on-line application, contact the Monster Hiring Management Help Desk at 1-866-656-6831 or by e-mail at MGSHELP@monster.com. The help desk is available Monday - Friday 7:00 a.m. to 7:00 p.m. Eastern Time.  You may call and leave a voice mail message at all other times.
+L367: All required supporting documents will be collected electronically via the USAJOBS “Saved Documents” feature.
+L368: If you are unable to apply on-line, you may visit our Employment Center for technical assistance in entering your application. The Employment Center is located at 441 Second & D Streets S.W., Washington, D.C., Room H2-178, and is open Monday through Friday from 8:00 a.m. to 4:00 p.m. You may call (202) 226-7000 for directions.
+L369: Expand Hide  how to apply
+L370: ### Agency contact information
+L371:
+L372: Arnita Edmonds
+L373:
+L374: Phone
+L375:     202.322.0981
+L376: Email
+L377:     arnita.edmonds@aoc.gov
+L378:
+L379: Address
+L380:     Architect of the Capitol
+L381: United States Capitol
+L382: Washington, District of Columbia 20515
+L383: United States
+L384: ### Next steps
+L385: You will receive a notice generated by the USAJOBS System when you have successfully submitted your application. We will review your application and transcript(s) (if you are qualifying based on education) to ensure you meet the basic qualification requirements.
+L386: You can check the status of your application by logging into 【32†http://www.usajobs.gov】. You may also sign up to receive automatic emails anytime the status of your application has changed by logging into your USAJOBS Account, editing your profile and changing the ‘Notification Settings’ to indicate that you want to be notified by email when the status changes. Information regarding the status of your application should be updated in the system within two (2) weeks after the closing date of this job announcement.
+L387: Expand Hide  next steps
+L388: ## Fair and transparent
+L389:
+L390: The Federal hiring process is set up to be fair and transparent. Please read the following guidance.
+L391:
+L392: 【33†Criminal history inquiries†usajobshelp.opm.gov】 【34†Equal Employment Opportunity (EEO) Policy†usajobshelp.opm.gov】
+L393:
+L394: 【35†Financial suitability†usajobshelp.opm.gov】 【36†New employee probationary period†usajobshelp.opm.gov】
+L395:
+L396: 【37†Privacy Act†usajobshelp.opm.gov】 【38†Reasonable accommodation policy†usajobshelp.opm.gov】
+L397: 【39†Selective Service†usajobshelp.opm.gov】 【40†Signature and false statements†usajobshelp.opm.gov】
+L398:
+L399: 【41†Social security number request†usajobshelp.opm.gov】
+L400: ## Architect of the Capitol
+L401: The mission of the Architect of the Capitol (AOC) is to serve Congress and the Supreme Court, preserve America's Capitol and inspire memorable experiences. The AOC is responsible for the maintenance, operation, development and preservation of 18.4 million square feet of buildings and more than 570 acres of land throughout Capitol Hill. The AOC provides a welcoming and educational environment for millions of visitors through the U.S. Capitol Visitor Center and the US Botanic Garden.
+L402: Learn more at 【42†https://www.aoc.gov/careers. †www.aoc.gov】 The AOC prides itself on its Core Values of Respect, Integrity, Safety, and Empowerment (RISE).
+L403: ### Agency contact information
+L404:
+L405: Arnita Edmonds
+L406:
+L407: Phone
+L408:     202.322.0981
+L409: Email
+L410:     arnita.edmonds@aoc.gov
+L411:
+L412: Address
+L413:     Architect of the Capitol
+L414: United States Capitol
+L415: Washington, District of Columbia 20515
+L416: United States
+L417:
+L418: [Input]
+L419: ## Summary
+L420:
+L421: This position is located in the Architect of the Capitol (AOC), Office of the Chief of Operations, Superintendent, Senate Office Buildings (SOB).  The Business Financial Analyst serves as a principle financial advisor on the effectiveness of budget and financial operations and programs and administers the components of the budget that support the operational and construction activities within SOB.
+L422:
+L423: [Button: Learn more about this agency ]
+L424: ## Overview
+L425:
+L426: 【11†Help†usajobshelp.opm.gov】
+L427:
+L428: Accepting applications
+L429:
+L430: Location
+L431:
+L432: 1 vacancy in the following location:
+L433:
+L434: 441 2nd Street SW
+L435:
+L436: Washington, DC
+L437:
+L438: 1 vacancy
+L439:
+L440: Work site options
+L441:

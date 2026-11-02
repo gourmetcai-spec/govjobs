@@ -1,0 +1,32 @@
+{
+  "employer": "General Services Administration - Technology Transformation Service",
+  "title": "Senior AI Software Engineer",
+  "requisition_id": "F2-2026-0007",
+  "posted_date": "2026-09-04",
+  "close_date": "2026-12-31",
+  "location": "Washington, DC offered among eight offices",
+  "salary": "$138,595–$197,200 per year; GS-14",
+  "fit": "Enterprise software, Python and cloud architecture overlap.",
+  "gaps": "Mandatory production-grade AI-enabled system development, AI technical consultation and security/privacy work are not established. Copilot usage alone does not satisfy them.",
+  "canonical_url": "https://www.usajobs.gov/job/883693300",
+  "application_url": "https://www.usajobs.gov/job/883693300",
+  "posted_date_evidence": "Official indexed AI/2210 search lists September 4–December 31; announcement confirms December 31 and weekly standing-register cutoffs.",
+  "retrieved_at": "2026-11-02T00:53:12.615092+00:00",
+  "status": "needs_verification",
+  "aliases": [],
+  "discovery_window": [
+    "2026-09-01",
+    "2026-11-01"
+  ],
+  "remote_restrictions": "Not remote; DMV duty station offered. Confirm telework policy in official job description.",
+  "open_evidence": "Official USAJOBS announcement retrieved through web tool and reports Accepting applications; recheck at Step 2.",
+  "hiring_path": "Open to the public",
+  "control_number": "883693300",
+  "id": "37b6987b5275b4da",
+  "step": 1,
+  "selected": false,
+  "submitted": false,
+  "artifacts": {},
+  "resume_status": "not_generated_verification_required",
+  "resume_review": "Not generated; unresolved mandatory requirements."
+}

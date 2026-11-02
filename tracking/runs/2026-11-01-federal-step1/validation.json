@@ -1,0 +1,32 @@
+{
+  "baseline_hash_unchanged": true,
+  "sqlite_integrity": "ok",
+  "resumes": [
+    {
+      "id": "a5af83ea7ba6d744",
+      "pages": 2,
+      "baseline_bullets_verified": 20,
+      "hashes_match": true,
+      "visual_review": "All pages inspected in resume-review-contact-sheet.png; readable and no clipping/overlap/blank pages.",
+      "resume_status": "draft_missing_required_facts"
+    },
+    {
+      "id": "fa28275048f3ce60",
+      "pages": 2,
+      "baseline_bullets_verified": 20,
+      "hashes_match": true,
+      "visual_review": "All pages inspected in resume-review-contact-sheet.png; readable and no clipping/overlap/blank pages.",
+      "resume_status": "draft_missing_required_facts"
+    },
+    {
+      "id": "4e066be541ca1382",
+      "pages": 2,
+      "baseline_bullets_verified": 20,
+      "hashes_match": true,
+      "visual_review": "All pages inspected in resume-review-contact-sheet.png; readable and no clipping/overlap/blank pages.",
+      "resume_status": "draft_missing_required_facts"
+    }
+  ],
+  "portal_actions": 0,
+  "submitted": 0
+}

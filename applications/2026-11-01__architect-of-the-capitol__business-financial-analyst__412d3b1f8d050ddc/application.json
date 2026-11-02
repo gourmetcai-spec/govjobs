@@ -1,0 +1,32 @@
+{
+  "employer": "Architect of the Capitol",
+  "title": "Business Financial Analyst",
+  "requisition_id": "SOB-2027-013",
+  "posted_date": "2026-10-19",
+  "close_date": "2026-11-05",
+  "location": "Washington, DC",
+  "salary": "$85,447–$158,322 per year; GS-11–13",
+  "fit": "Financial analysis and enterprise forecasting overlap; federal appropriations/budget execution experience not established.",
+  "gaps": "GS-11 needs 3 of 4 specialized areas; GS-12 needs 4 of 5 and GS-13 5 of 6. Federal budget law interpretation, expenditure reviews/compliance and spend plans are not supported by baseline. Verify actual qualifying scope; do not equate financial forecasting with federal budget execution.",
+  "canonical_url": "https://www.usajobs.gov/job/889349900",
+  "application_url": "https://www.usajobs.gov/job/889349900",
+  "posted_date_evidence": "Mirror October 19–November 5; official current announcement accepting applications.",
+  "retrieved_at": "2026-11-02T00:53:12.615092+00:00",
+  "status": "needs_verification",
+  "aliases": [],
+  "discovery_window": [
+    "2026-09-01",
+    "2026-11-01"
+  ],
+  "remote_restrictions": "Not remote; DMV duty station offered. Confirm telework policy in official job description.",
+  "open_evidence": "Official USAJOBS announcement retrieved through web tool and reports Accepting applications; recheck at Step 2.",
+  "hiring_path": "Open to the public",
+  "control_number": "889349900",
+  "id": "412d3b1f8d050ddc",
+  "step": 1,
+  "selected": false,
+  "submitted": false,
+  "artifacts": {},
+  "resume_status": "not_generated_verification_required",
+  "resume_review": "Not generated; unresolved mandatory requirements."
+}

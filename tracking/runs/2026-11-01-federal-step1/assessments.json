@@ -1,0 +1,224 @@
+[
+  {
+    "employer": "Federal Emergency Management Agency",
+    "title": "IT Specialist (APPSW)",
+    "requisition_id": "FEMA-KB-13101601-DE",
+    "control": "890584000",
+    "posted_date": "2026-10-28",
+    "close_date": "2026-11-06",
+    "date_evidence": "Official USAJOBS FEMA index displays October 28–November 6; federalgovernmentjobs mirror and jobboardhq agree.",
+    "location": "Washington, DC",
+    "salary": "$121,785–$158,322 per year; GS-13",
+    "target": "eligible",
+    "source": "fema-full-web.txt",
+    "track": "engineering",
+    "fit": "Strong supported enterprise software, scripting, financial workflow and technical delivery overlap; public hiring path.",
+    "gaps": "Confirm one full year at the announcement’s stated GS-13-equivalent scope; dates with exact days and hours/week are absent from baseline. Low-code Power Platform, GCP and NFIP domain experience are not documented. No production AI/agent delivery claimed; scripts are an alternative in the specialized-experience requirement.",
+    "requirements": [
+      [
+        "Configure/prototype/test technical solutions",
+        "Freddie Mac modeling tools on AWS/IBM Symphony; enterprise forecasting implementation; Campbell Java trading systems and database connectivity."
+      ],
+      [
+        "Develop workflow automations, AI-enabled workflows OR scripts",
+        "Java/Python engineering, model implementation and platform delivery; baseline names Python and describes Java connectivity and MATLAB reporting. Confirm concrete script examples and duration before portal preparation."
+      ],
+      [
+        "Translate business needs into requirements/workflow/data inputs and outputs",
+        "Income statement, balance sheet and CECL platform; CRT deal economics/ROE analytics and Investment Committee risk reports."
+      ],
+      [
+        "IT competencies and one year of comparable specialized experience",
+        "Director-level multi-project leadership and hands-on engineering are supported; exact hours and one-year comparable scope require user confirmation."
+      ]
+    ]
+  },
+  {
+    "employer": "Central Intelligence Agency",
+    "title": "Data Engineer",
+    "requisition_id": "24-12198900-6898/DIHD",
+    "control": "759326100",
+    "posted_date": "2026-09-01",
+    "close_date": "2027-01-31",
+    "date_evidence": "Official USAJOBS CIA/public and AI/2210 indexed result lists September 1, 2026–January 31, 2027. Announcement number is older; this is one existing requisition, not a newly created identity. Recheck original/reopened date before selection.",
+    "location": "Washington, DC",
+    "salary": "$74,584–$156,755 per year; GS-9–13; promotion potential 15",
+    "target": "needs_verification",
+    "source": "cia-full-web.txt",
+    "track": "data",
+    "fit": "Strong Java/Python, SQL/database connectivity, time-series data and distributed/cloud analytics overlap.",
+    "gaps": "Mandatory GPA >=3.0/4.0 is unknown; verify transcripts and qualifying degree. Reopened listing date should be reconciled against original announcement. Clearance/medical/polygraph suitability and willingness are unverified. Lower grade/pay than current director scope; no salary filter applied. Hours/week absent.",
+    "requirements": [
+      [
+        "Python/Java or equivalent and SQL",
+        "Baseline core technology lists Python, Java and SQL databases; Campbell documents Java database connectivity and trading platforms."
+      ],
+      [
+        "Data ingestion, transformation, modeling and storage",
+        "Campbell time-series data infrastructure, market feeds and unified MATLAB/database access; Freddie large-scale analytics on AWS/IBM Symphony."
+      ],
+      [
+        "Related bachelor’s degree and minimum GPA",
+        "Applied Mathematics bachelor’s and Computer Science master’s degrees supported; GPA not in baseline, must verify."
+      ],
+      [
+        "Security screening and DC work location",
+        "U.S. citizenship and Clarksville, MD supported; no clearance or screening outcome assumed."
+      ]
+    ]
+  },
+  {
+    "employer": "Immigration and Customs Enforcement",
+    "title": "Operations Research Analyst",
+    "requisition_id": "DHA-CFO-13061801-2026-CLM",
+    "control": "891052100",
+    "posted_date": "2026-10-30",
+    "close_date": "2026-11-13",
+    "date_evidence": "Federalgovernmentjobs mirror lists October 30–November 13. Official announcement confirms November 13 deadline and accepting applications; official opening date not exposed by retrieved text.",
+    "location": "Washington, DC",
+    "salary": "$102,415–$158,322 per year; GS-12–13",
+    "target": "needs_verification",
+    "source": "ice-full-web.txt",
+    "track": "quant",
+    "fit": "Strong Monte Carlo, forecasting, statistical analysis and decision-support modeling overlap.",
+    "gaps": "Confirm official posting date; transcripts must demonstrate 24 qualifying semester hours including 3 in calculus, and foreign education equivalence if relied upon. Hours/week absent. User must personally answer any essays requiring an own-words/no-AI certification; none drafted. No security suitability outcome assumed.",
+    "requirements": [
+      [
+        "Quantitative analysis to inform complex management decisions",
+        "Freddie enterprise forecasting/capital planning/DFAST and portfolio duration/convexity/OAS; Campbell risk reports for Investment Committee."
+      ],
+      [
+        "Mathematical modeling including Monte Carlo and forecasting",
+        "Campbell explicitly documents Monte Carlo, bootstrapping, statistical stress analysis and volatility/correlation forecasts."
+      ],
+      [
+        "Basic education: 24 relevant semester hours including 3 calculus",
+        "Applied Mathematics bachelor’s is supported; course counts/calculus credits and foreign credential equivalence are not verified."
+      ],
+      [
+        "One year of specialized experience; public direct hire",
+        "Multi-year financial engineering and quantitative research duties overlap; grade equivalence and hours must be substantiated."
+      ]
+    ]
+  },
+  {
+    "employer": "Architect of the Capitol",
+    "title": "Business Financial Analyst",
+    "requisition_id": "SOB-2027-013",
+    "control": "889349900",
+    "posted_date": "2026-10-19",
+    "close_date": "2026-11-05",
+    "date_evidence": "Mirror October 19–November 5; official current announcement accepting applications.",
+    "location": "Washington, DC",
+    "salary": "$85,447–$158,322 per year; GS-11–13",
+    "target": "needs_verification",
+    "source": "aocfull-web.txt",
+    "fit": "Financial analysis and enterprise forecasting overlap; federal appropriations/budget execution experience not established.",
+    "gaps": "GS-11 needs 3 of 4 specialized areas; GS-12 needs 4 of 5 and GS-13 5 of 6. Federal budget law interpretation, expenditure reviews/compliance and spend plans are not supported by baseline. Verify actual qualifying scope; do not equate financial forecasting with federal budget execution."
+  },
+  {
+    "employer": "Securities and Exchange Commission",
+    "title": "Financial Economist",
+    "requisition_id": "USAJOBS-885040000",
+    "control": "885040000",
+    "posted_date": null,
+    "close_date": null,
+    "date_evidence": "Official announcement is accepting applications with bi-weekly cutoffs; opening date and final deadline not verified.",
+    "location": "Washington, DC",
+    "salary": "$200,157–$225,943 per year; SK-14",
+    "target": "needs_verification",
+    "source": "sec-full-web.txt",
+    "fit": "Quantitative market risk, research, trading and reporting overlap.",
+    "gaps": "Economics major or equivalent coursework (21 economics credits) is unverified; specified economic policy/securities litigation/research outputs are not established. Need original dates and verified official announcement number; control number used as fallback identity."
+  },
+  {
+    "employer": "General Services Administration - Technology Transformation Service",
+    "title": "Senior AI Software Engineer",
+    "requisition_id": "F2-2026-0007",
+    "control": "883693300",
+    "posted_date": "2026-09-04",
+    "close_date": "2026-12-31",
+    "date_evidence": "Official indexed AI/2210 search lists September 4–December 31; announcement confirms December 31 and weekly standing-register cutoffs.",
+    "location": "Washington, DC offered among eight offices",
+    "salary": "$138,595–$197,200 per year; GS-14",
+    "target": "needs_verification",
+    "source": "gsa201-web.txt",
+    "fit": "Enterprise software, Python and cloud architecture overlap.",
+    "gaps": "Mandatory production-grade AI-enabled system development, AI technical consultation and security/privacy work are not established. Copilot usage alone does not satisfy them."
+  },
+  {
+    "employer": "General Services Administration - Technology Transformation Service",
+    "title": "Principal AI Software Engineer",
+    "requisition_id": "F2-2026-0008",
+    "control": "883695200",
+    "posted_date": "2026-09-04",
+    "close_date": "2026-12-31",
+    "date_evidence": "Official indexed AI/2210 search lists September 4–December 31.",
+    "location": "Washington, DC offered among eight offices",
+    "salary": "$163,023–$197,200 per year; GS-15",
+    "target": "needs_verification",
+    "source": "principal-full-web.txt",
+    "fit": "Senior enterprise engineering leadership overlap.",
+    "gaps": "Principal-level production AI engineering, AI architecture/governance and technical leadership requirements are not established by baseline; do not invent experience from AI tooling use."
+  },
+  {
+    "employer": "Military Treatment Facilities under Defense Health Agency",
+    "title": "IT Specialist (APPSW/INET)",
+    "requisition_id": "HSJT-27-13090193",
+    "control": "890572600",
+    "posted_date": "2026-10-28",
+    "close_date": "2026-11-04",
+    "date_evidence": "Mirror October 28–November 4; official announcement accepting applications.",
+    "location": "Quantico, VA",
+    "salary": "$102,415–$133,142 per year; GS-12",
+    "target": "needs_verification",
+    "source": "quantico-full-web.txt",
+    "fit": "Java web applications and system integrations overlap.",
+    "gaps": "Mandatory SharePoint applications/enhancements and DoD security compliance are not documented; confirm before eligibility. Clearance, health screening and vaccination conditions remain unanswered."
+  },
+  {
+    "employer": "Federal Emergency Management Agency",
+    "title": "Financial Policy Officer",
+    "requisition_id": "FEMA-JB-13100736-DE",
+    "control": "891011700",
+    "posted_date": "2026-10-30",
+    "close_date": "2026-11-09",
+    "date_evidence": "Mirror October 30–November 9; official announcement accepting applications.",
+    "location": "Washington, DC or Winchester, VA",
+    "salary": "$169,279–$197,200 per year; GS-15",
+    "target": "needs_verification",
+    "source": "fema-policy-full-web.txt",
+    "fit": "Financial systems and senior management overlap.",
+    "gaps": "Mandatory financial policy design/implementation, financial management systems policy direction and legislative/regulatory advice need specific evidence; baseline focuses on engineering/model delivery."
+  },
+  {
+    "employer": "Nuclear Regulatory Commission",
+    "title": "Financial Analyst",
+    "requisition_id": "IMP-13095310-27-EM",
+    "control": "889960700",
+    "posted_date": null,
+    "close_date": null,
+    "date_evidence": "Official announcement accepting applications; dates not verified because hiring path already excludes this candidate on available evidence.",
+    "location": "Rockville, MD",
+    "salary": "$70,623–$158,322 per year; GG-9–13",
+    "target": "skipped",
+    "source": "nrc-full-web.txt",
+    "fit": "IT investment and financial analytics adjacency.",
+    "gaps": "Restricted to current permanent or competitive-term NRC employees only. Baseline employment is Freddie Mac, not NRC; no qualifying NRC status evidenced."
+  },
+  {
+    "employer": "Securities and Exchange Commission",
+    "title": "Financial Economist - Crypto Assets and Novel Products",
+    "requisition_id": "USAJOBS-890676500",
+    "control": "890676500",
+    "posted_date": null,
+    "close_date": null,
+    "date_evidence": "Official announcement accepting applications; dates not verified because hiring path is restricted.",
+    "location": "Washington, DC",
+    "salary": "$174,859–$292,300 per year; SK-16",
+    "target": "skipped",
+    "source": "sec-crypto-full-web.txt",
+    "fit": "Trading systems and market research adjacency.",
+    "gaps": "Restricted to current SEC employees/status candidates or displaced SEC CTAP candidates; no such status evidenced. Economics education and crypto market policy experience also unverified; control number used as fallback identity."
+  }
+]

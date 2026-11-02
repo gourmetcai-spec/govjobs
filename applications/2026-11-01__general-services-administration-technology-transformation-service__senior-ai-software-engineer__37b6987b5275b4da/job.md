@@ -1,0 +1,554 @@
+# Senior AI Software Engineer
+
+{
+  "employer": "General Services Administration - Technology Transformation Service",
+  "title": "Senior AI Software Engineer",
+  "requisition_id": "F2-2026-0007",
+  "posted_date": "2026-09-04",
+  "close_date": "2026-12-31",
+  "location": "Washington, DC offered among eight offices",
+  "salary": "$138,595–$197,200 per year; GS-14",
+  "fit": "Enterprise software, Python and cloud architecture overlap.",
+  "gaps": "Mandatory production-grade AI-enabled system development, AI technical consultation and security/privacy work are not established. Copilot usage alone does not satisfy them.",
+  "canonical_url": "https://www.usajobs.gov/job/883693300",
+  "application_url": "https://www.usajobs.gov/job/883693300",
+  "posted_date_evidence": "Official indexed AI/2210 search lists September 4–December 31; announcement confirms December 31 and weekly standing-register cutoffs.",
+  "retrieved_at": "2026-11-02T00:53:12.615092+00:00",
+  "status": "discovered",
+  "aliases": [],
+  "discovery_window": [
+    "2026-09-01",
+    "2026-11-01"
+  ],
+  "remote_restrictions": "Not remote; DMV duty station offered. Confirm telework policy in official job description.",
+  "open_evidence": "Official USAJOBS announcement retrieved through web tool and reports Accepting applications; recheck at Step 2.",
+  "hiring_path": "Open to the public",
+  "control_number": "883693300"
+}
+
+## Retrieved official announcement text
+
+USAJOBS - Job Announcement (https://www.usajobs.gov/job/883693300)
+citeturn6view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.usajobs.gov/job/883693300","lineno":201}); Total lines: 627
+L27: ## Summary
+L28:
+L29: As a Senior Al Software Engineer, you will develop secure, ethical, and mission-aligned AI strategies and architectures across the federal government using engineering best practices.
+L30:
+L31: This position is with the Office of Technology Transformation Services (TTS), Federal Acquisition Service (FAS), General Services Administration (GSA).
+L32:
+L33: We are currently filling multiple vacancies, but additional vacancies may be filled as needed.
+L34:
+L35: [Button: Learn more about this agency ]
+L36: ## Summary
+L37:
+L38: As a Senior Al Software Engineer, you will develop secure, ethical, and mission-aligned AI strategies and architectures across the federal government using engineering best practices.
+L39:
+L40: This position is with the Office of Technology Transformation Services (TTS), Federal Acquisition Service (FAS), General Services Administration (GSA).
+L41:
+L42: We are currently filling multiple vacancies, but additional vacancies may be filled as needed.
+L43:
+L44: [Button: Learn more about this agency ]
+L45: ## Overview
+L46:
+L47: 【11†Help†usajobshelp.opm.gov】
+L48:
+L49: Accepting applications
+L50:
+L51: Location
+L52:
+L53: Many vacancies in the following locations:
+L54:
+L55: [Input]
+L56:
+L57: San Francisco, CA
+L58:
+L59: Lakewood, CO
+L60:
+L61: Washington, DC
+L62:
+L63: Chicago, IL
+L64:
+L65: Boston, MA
+L66:
+L67: New York, NY
+L68:
+L69: Philadelphia, PA
+L70:
+L71: Tacoma, WA
+L72:
+L73: Work site options
+L74:
+L75: Telework eligible
+L76:     Yes—This position is full-time in the office. In rare instances, situational telework may be approved on a case-by-case basis.
+L77:
+L78: Remote job
+L79:     No
+L80:
+L81: Relocation expenses reimbursed
+L82:     No
+L83: Salary
+L84:     $138,595 - $197,200 per year
+L85:
+L86: If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade for which you are selected.
+L87:
+L88: Pay scale & grade
+L89:
+L90:
+L91: GS 14
+L92:
+L93: Promotion potential
+L94:     14
+L95:
+L96: 【12†Learn more about pay scale and grade†usajobshelp.opm.gov】
+L97:
+L98: Pay scale and grade determines the salary of the job.
+L99:
+L100: Work schedule
+L101:     Full-time
+L102:
+L103: Travel Required
+L104:     Occasional travel - Business travel may be required.
+L105:
+L106: Appointment type
+L107:     Permanent
+L108:
+L109: Occupations and job series
+L110:   * 【13†2210 Information Technology Management】
+L111:
+L112: Supervisory status
+L113:     No
+L114:
+L115: Federal service type
+L116:     This job is in the Competitive Service
+L117:
+L118: Represented by a union
+L119:     No
+L120:
+L121: Drug test
+L122:     Yes
+L123:
+L124: Security clearance
+L125:     Other
+L126:
+L127: Financial disclosure required
+L128:     No
+L129:
+L130:
+L131: Some jobs require 【14†financial disclosure†usajobshelp.opm.gov】 to identify conflicts of interests.
+L132:
+L133: Announcement number
+L134:     F2-2026-0007
+L135:
+L136: Control number
+L137:     883693300
+L138: ## This job is open to
+L139:
+L140: 【15†Help†usajobshelp.opm.gov】
+L141:
+L142: 【16†The public U.S. Citizens, Nationals or those who owe allegiance to the U.S.】
+L143: ### Clarification from the agency
+L144: This public notice is issued under Direct Hire Authority (DHA) to recruit talent to occupations for which there is a severe shortage of candidates or a critical hiring need. This means that we can hire any qualified candidate from this notice or any other source. About this DHA notice: -Current civil service employees will receive new appointments if selected under this DHA. -For information on DHA, please visit https://www.opm.gov/policy-data-oversight/hiring-information/direct-hire-authority/
+L145: ## Duties
+L146:
+L147: 【17†Help†usajobshelp.opm.gov】
+L148:   * Serves as a senior technical expert leading high level, enterprise-wide engineering
+L149: strategies for Al-enabled systems, computer hardware/software integration, and cloud-native architectures and platforms, delivering impactful solutions for the American people.
+L150:   * As an AI technical SME provide technical guidance for the development and management of Al-enabled systems, computer hardware/software integration, and cloud-native architectures, ensuring compliance with federal mandates, executive orders, and/or other guidelines.
+L151:   * Provides authoritative consultation and technical direction to agency personnel, shaping national and international Al, computer engineering and digital policies, directives and mandates.
+L152:   * Participates and coordinates cross-agency Al engineering projects involving large-scale digital transformation, data platforms, and secure computing infrastructures.
+L153:   * Establishes, promotes, and communicates governmentwide technical standards, Al engineering policies, and architectures for the ethical, secure, and trustworthy use of Al and emerging technologies.
+L154:   * Interprets new and revised plans and guidance received from senior agency officials and/or other higher authorities.
+L155: The Technology Transformation Services (TTS) is responsible for providing scalable software products and services to federal agencies.
+L156: ## Requirements
+L157:
+L158: 【18†Help†usajobshelp.opm.gov】
+L159: ### Conditions of employment
+L160:
+L161:   * US Citizenship or National (Residents of American Samoa and Swains Island)
+L162:   * Meet all eligibility requirements within 30 days of the closing date.
+L163:   * Register with Selective Service if you are a male born after 12/31/1959
+L164:   * Serve a one year probationary period, if required.
+L165:
+L166: If selected, you must meet the following conditions:
+L167:   * Current or Former Political Appointees: The Office of Personnel Management (OPM) must authorize employment offers made to current or former political appointees. If you are currently, or have been within the last 5 years, a political Schedule A, Schedule C or Non­Career SES employee in the Executive Branch, you must disclose this information to the HR Office. Failure to disclose this information could result in disciplinary action including removal from Federal Service.
+L168:   * Position security requirements are dependent on the position for which selected, and may be designated at Top Secret, Secret, High Risk, Moderate Risk or Low Risk. Dependent on which position you are selected for you will be required to undergo and pass the appropriate Tier background investigation level. You must be granted this clearance before you can start the job.
+L169:   * Have your identity and work status eligibility verified if you are not a GSA employee.  We will use the Department of Homeland Security’s e-Verify system for this. Any discrepancies must be resolved as a condition of continued employment.
+L170:   * Any applicant tentatively selected for this position will be required to submit to urinalysis to screen for illegal drug use prior to appointment. Appointment to the position will be contingent upon a negative drug test result.
+L171:   * Some positions may require on-call duty outside typical scheduled duty hours as needed and directed to respond to and resolve issues related to fraud, platform, engineering, partnership, and/or other comparable issues.
+L172: ### Qualifications
+L173:
+L174: To evaluate your qualifications, your resume must clearly demonstrate how you meet the specialized experience described below. Your resume must not exceed two pages. To ensure your qualifications can be fully evaluated, we recommend including the following information:
+L175:
+L176:   * Name, address, telephone number, email address;
+L177:
+L178:   * Job Title (if Federal Service, provide series and grade; if not in GS plan, provide GS equivalent grade);
+L179:   * Relevant work experience—should include employer name, job title, start and end dates (month/year), the number of hours worked per week and descriptions that explain how you meet the required qualifications in the job announcement.
+L180:
+L181:   * Education, certifications or licensures—If the job announcement requires any education, certifications or licensures, make sure to include the required information and any required documents like transcripts.
+L182: Your resume should contain enough information to make a valid determination that you fully meet experience requirements for each grade level you are applying to. If you do not provide enough information for us to determine your qualifications, you may be rated ineligible
+L183: If you have volunteered your service through a National Service program (e.g., Peace Corps, Americorps), we encourage you to apply and include this experience on your resume.
+L184: The GS-14salary range starts at $138,595 per year.
+L185: If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade for which you are selected.
+L186: To qualify, you must have at least one year of specialized experience equivalent to the GS-13 level or higher in the Federal service.
+L187: Applicants applying for the GS-14 grade level must meet the following requirements: Have IT-related experience demonstrating EACH of the nine competencies AND one year of specialized experience equivalent to the GS-13 level in the Federal service as described below:
+L188:
+L189:   * Attention to Detail - Is thorough when performing work and conscientious about attending to detail.
+L190:   * Customer Service - Works with clients and customers (that is, any individuals who use or receive the services or products that your work unit produces, including the general public, individuals who work in the agency, other agencies, or organizations outside the Government) to assess their needs, provide information or assistance, resolve their problems, or satisfy their expectations; knows about available products and services; is committed to providing quality products and services.
+L191:   * Decision Making - Makes sound, well-informed, and objective decisions; perceives the impact and implications of decisions; commits to action, even in uncertain situations, to accomplish organizational goals; causes change.
+L192:
+L193:   * Information Management - Identifies a need for and knows where or how to gather information; organizes and maintains information or information management systems.
+L194:   * Interpersonal Skills - Shows understanding, friendliness, courtesy, tact, empathy, concern, and politeness to others; develops and maintains effective relationships with others; may include effectively dealing with individuals who are difficult, hostile, or distressed; relates well to people from varied backgrounds and different situations.
+L195:   * Oral Communication - This skill is generally demonstrated by assignments where the applicant persuades others to take a particular course of action or to accept findings, recommendations, changes, or alternative viewpoints.
+L196:
+L197:   * Problem Solving - This skill is generally demonstrated by assignments where the applicant identifies and accommodates technology and resource constraints.
+L198:   * Teamwork - Encourages and facilitates cooperation, pride, trust, and group identity; fosters commitment and team spirit; works with others to achieve goals.
+L199:
+L200:   * Technical Competence – Uses knowledge that is acquired through formal training or on-the-job experience to perform one's job; works with, understands, and evaluates technical information related to the job; advises others on technical issues.
+L201: To qualify, you must have one (1) year of specialized experience. Specialized experience is defined as:
+L202:   * Developing, testing, debugging, and maintaining large-scale, complex digital applications and services for public-facing or enterprise environments, including data engineering, cloud-native architectures, computer hardware/software integration, cybersecurity-by-design, performance requirements, interoperability, and/or secure deployment of emerging technologies.
+L203: This includes applying modern programming languages, frameworks, and technologies (e.g., Python, Go, JavaScript, TypeScript, Node.js, React, Ruby on Rails, Terraform, Next.js, HTML/CSS, Rust).
+L204:   * Applying artificial intelligence and machine learning technologies, including generative AI tools and models to develop production grade AI-enabled systems.
+L205:
+L206:   * Implementing and applying information security and privacy best practices, performing risk assessments, and ensuring compliance with security policies and standards during digital product development and deployment.
+L207:   * Providing technical guidance and consultation on AI, data strategy, and emerging technologies to stakeholders, partner agencies, and technical teams; translating mission and business requirements into scalable, secure, and workable engineering solutions; and resolving complex technical issues involving multiple IT disciplines.
+L208: ### Education
+L209:
+L210: This job does not have an education qualification requirement.
+L211: ### Additional information
+L212:
+L213: EEO Statement
+L214:
+L215: Candidates will not be hired based on their race, sex, color, religion, or national origin.
+L216:
+L217: Resume Mining/Searchable Resume
+L218:
+L219: Applicants are encouraged to make their resume searchable in their USAJOBS.gov profile. This will allow Federal hiring specialists and hiring managers across agencies to find their resume as part of agency recruitment campaigns or staffing searches.
+L220:
+L221: Criminal History Inquiries - Not allowed before offer
+L222: If you apply to this position and are selected, we will not ask about your criminal history before you receive a conditional job offer. If you believe you were asked about your criminal history improperly, contact the agency or 【19†visit GSA's webpage†www.gsa.gov】.
+L223:
+L224: Relocation Not Paid
+L225:
+L226: Relocation-related expenses are not approved and will be your responsibility.
+L227:
+L228: Travel – May be approved
+L229:
+L230: Travel expenses associated with interviews may be approved. Determinations will be made on a case-by-case basis.
+L231: Recruitment/Relocation Incentive
+L232:
+L233: On a case-by-case basis, the following incentives may be approved:
+L234:
+L235: ·       Recruitment incentive if you are new to the federal government
+L236:
+L237: ·       Relocation incentive if you are a current federal employee
+L238:
+L239: ·       Credit toward vacation leave if you are new to the federal government
+L240:
+L241: Management Rights
+L242: Additional vacancies may be filled through this announcement in this or other GSA organizations within the same commuting area as needed; through other means; or not at all.
+L243:
+L244: Standing Register Announcement
+L245: This announcement will be used to fill positions on an ongoing-basis as job openings occur. Eligible applicants who have submitted a complete application by the initial cut-off date, will be considered first. If additional vacancies exist, remaining applicants will be considered as needed. The initial cut-off date for referral of eligible applications will be 09/11/2026.
+L246: Thereafter, the cut-off for applications received will be every 7 days on Friday unless a Holiday occurs until the job opportunity announcement closes on 12/31/2026.
+L247: Expand Hide  additional information
+L248:
+L249: Candidates should be committed to improving the efficiency of the Federal government, passionate about the ideals of our American republic, and committed to upholding the rule of law and the United States Constitution.
+L250: # Benefits
+L251:
+L252: 【20†Help†usajobshelp.opm.gov】
+L253:
+L254: A career with the U.S. government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding. 【21†Opens in a new window Learn more about federal benefits†usajobshelp.opm.gov】.
+L255:
+L256: You will have access to many 【22†benefits†www.gsa.gov】 including:
+L257:   * Health insurance (choose from a wide range of plans)
+L258:   * Life insurance coverage with several options
+L259:   * Sick leave and vacation time, including 11 paid holidays per year
+L260:   * Thrift Savings Plan (similar to a 401(k) plan)
+L261:   * Transit and child care subsidies
+L262:   * Flexible spending accounts
+L263:   * Long-term care insurance
+L264:   * Training and development
+L265: Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time or intermittent. Contact the hiring agency for more information on the specific benefits offered.
+L266: ## How you will be evaluated
+L267:
+L268: You will be evaluated for this job based on how well you meet the qualifications above.
+L269: Your application will be evaluated against the basic qualifications which includes any specialized experience and/or education requirements (if applicable). Qualified candidates will be considered in accordance with the Office of Personnel Management Direct Hire Guidelines. Applications will not be rated or ranked. Veterans’ Preference is not applicable to the direct hire recruitment procedures.
+L270: Failure to submit a complete application or missing required supporting documentation may result in you not being considered for the position. Falsification of your background, education, and/or experience is grounds for non-selection or dismissal if hired.
+L271: Technical Assessment:
+L272:
+L273: Shortly after the job posting closes, eligible applicants will receive an email with a link to a technical assessment to complete. Responses to the assessment will be used to measure the depth of knowledge in relation to the required competencies for the position. Candidates who pass the assessment will move to the next phase.
+L274:
+L275: Subject Matter Experts (SMEs) Resume Review:
+L276: Subject Matter Experts (SMEs) will review your resume to determine your technical qualifications for this position based on the required competencies, including the required IT competencies and the specialized experience on a Pass/Fail process.
+L277: ICTAP/CTAP Candidates: The Interagency Career Transition Assistance Plan (ICTAP) and Career Transition Assistance Plan (CTAP) provide eligible displaced Federal competitive service employees with selection priority over other candidates for competitive service vacancies.
+L278: To be qualified you must submit appropriate documentation (a copy of the agency notice, your most recent performance rating, and your most recent SF-50 noting current position, grade level, and duty location) and be found “well-qualified" for this vacancy.
+L279: In addition to meeting the basic qualifications stated in the qualification section of this announcement, well qualified is defined as: experience that exceeds the minimum qualifications of the position, demonstrated by meeting at least 3 out of 5 KSA’s listed below:
+L280:   1. Ability to utilize advanced Al system design, machine learning engineering, cloud-native computing, and secure systems architecture for hardware/software integration.
+L281:
+L282:   2. Ability to provide expert technical advice, guidance, and recommendations to technology leadership.
+L283:
+L284:   3. Ability to utilize expert knowledge of Al engineering methodologies to evaluate, design, and integrate Al into enterprise computing platforms.
+L285:   4. Ability to communicate technical IT, Al, emerging technology, and related information to diverse audiences with various levels of technical expertise and understanding.
+L286:
+L287:   5. Ability to apply advanced IT principles, concepts, methods, standards, and practices sufficient to develop and interpret policies, procedures, and strategies governing the planning, delivery, and maintenance of projects.
+L288:
+L289: Demonstration of these KSA’s must be supported by your resume.
+L290: You may 【23†preview questions†jobs.monstergovt.com】 for this vacancy.
+L291: # Benefits
+L292:
+L293: 【20†Help†usajobshelp.opm.gov】
+L294:
+L295: A career with the U.S. government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding. 【21†Opens in a new window Learn more about federal benefits†usajobshelp.opm.gov】.
+L296:
+L297: You will have access to many 【22†benefits†www.gsa.gov】 including:
+L298:   * Health insurance (choose from a wide range of plans)
+L299:   * Life insurance coverage with several options
+L300:   * Sick leave and vacation time, including 11 paid holidays per year
+L301:   * Thrift Savings Plan (similar to a 401(k) plan)
+L302:   * Transit and child care subsidies
+L303:   * Flexible spending accounts
+L304:   * Long-term care insurance
+L305:   * Training and development
+L306: Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time or intermittent. Contact the hiring agency for more information on the specific benefits offered.
+L307: # Required documents
+L308: ## Required Documents
+L309:
+L310: 【18†Help†usajobshelp.opm.gov】
+L311:
+L312: ALL required documents must be submitted before the closing date. Review the following list to determine what you need to submit.
+L313:
+L314: Resume: Must not exceed two pages. Refer to the Qualifications section for resume requirements.
+L315:
+L316: If you are 【24†ICTAP/CTAP†help.usajobs.gov】 eligible - submit a, b, and c: (a) proof of eligibility including agency notice; (b) SF-50, and (c) most recent performance appraisal.
+L317: Current or Former Political Appointees: Submit SF-50.
+L318: # How to Apply
+L319:
+L320: 【25†Help†usajobshelp.opm.gov】
+L321:
+L322: Submit a complete online application including any required documents prior to 11:59 pm Eastern Time on the closing date of the announcement. You can modify or complete your application any time before the deadline. Simply return to USAJOBS, select the vacancy, and update your application.  For more detailed instructions on how to apply, click here: 【26†Apply for a GSA Job.†www.gsa.gov】
+L323: If you are having issues applying to this announcement, you should switch to a different browser, network or device. Note: Your firewall may block your transfer from USAJOBS to your GSA application.
+L324:
+L325: To begin, click the Apply Online button on the vacancy announcement.
+L326:   * Sign in or register on USAJobs and select a resume and documents to include in your application.
+L327:   * Resumes exceeding two pages will not be accepted by USAJOBS and will prevent your application from moving forward in the hiring process. Please see Required Documents for additional details.
+L328:   * Once you have clicked Apply for this position now, you will be taken to the GSA site to complete the application process.
+L329:   * Click the Apply To This Vacancy and complete all steps in the application process until the Confirmation indicates your application is complete.  If you click Return to USAJobs or get timed out prior to receiving confirmation, your application will not be submitted and cannot be considered for this job.
+L330:   * Note:  Review the REQUIRED DOCUMENTS section of this announcement to determine which apply to you and must be submitted online. You may choose one or more of the following options to submit your document(s): Upload (from your computer) or USAJOBS (click the "USAJOBS" link to complete the transfer process).
+L331: Need Assistance?
+L332:
+L333:   * Questions or issues completing an application and/or submitting documentation - contact fedhirehelp@applygovernment.com or 1-866-656-6831 Monday-Friday 7AM - 7PM EST, except for Federal holidays
+L334:   * Specific questions on the position - contact the HR representative (Monday-Friday during normal business hours) listed on the announcement, prior to the application deadline
+L335:
+L336: You must receive HR approval before deviating from these instructions.
+L337: Be sure to APPLY EARLY as most assessments must be completed fully and submitted before the announcement closing.
+L338:
+L339: Standing Register
+L340: As mentioned in the Other Information section, this announcement will be used to fill positions on an ongoing basis as job openings occur.  Your application will only be reviewed after a cut-off date or after the vacancy closing date if you have completed the application process described above.
+L341: ### Agency contact information
+L342:
+L343: Tiffany Trimm
+L344:
+L345: Phone
+L346:     000-000-0000
+L347: Fax
+L348:     000-000-0000
+L349: Email
+L350:     crcavacancyinquiries@gsa.gov
+L351:
+L352: Address
+L353:     GSA, Technology Transformation Service
+L354: Servicing HR Office:
+L355: GSA, Office of Human Resources Management (OHRM)
+L356: 1800 F Street, NW
+L357: Washington, District of Columbia 20405
+L358: United States
+L359: ### Next steps
+L360:
+L361: STANDING REGISTER
+L362: The following process is used if your application is complete and active as of the cut-off date deadline.
+L363:   1. TECHNICAL ASSESSMENT:You will receive an email with instructions to complete a technical assessment.
+L364:   2. ELIGIBILITY/QUALIFICATIONS: Your application will be reviewed for all requirements.
+L365:   3. REFERRAL TO MANAGEMENT: If you meet all the requirements, you may be referred to management for review and a possible interview.
+L366:   4. SELECTION/TENTATIVE JOB OFFER: If you are selected, you will receive a tentative offer and start the suitability and/or security background investigation process.
+L367:   5. FINAL JOB OFFER: Once our security office determines you can come on board, you will be given a final offer, which is typically 40 days after the announcement closes
+L368: Thank you for your interest in working for the U.S. General Services Administration!
+L369: # Fair and transparent
+L370:
+L371: The Federal hiring process is set up to be fair and transparent. Please read the following guidance.
+L372:
+L373: 【27†Criminal history inquiries†usajobshelp.opm.gov】 【28†Equal Employment Opportunity (EEO) Policy†usajobshelp.opm.gov】
+L374:
+L375: 【29†Financial suitability†usajobshelp.opm.gov】 【30†New employee probationary period†usajobshelp.opm.gov】
+L376:
+L377: 【31†Privacy Act†usajobshelp.opm.gov】 【32†Reasonable accommodation policy†usajobshelp.opm.gov】
+L378: 【33†Selective Service†usajobshelp.opm.gov】 【34†Signature and false statements†usajobshelp.opm.gov】
+L379:
+L380: 【35†Social security number request†usajobshelp.opm.gov】
+L381: ## Required Documents
+L382:
+L383: 【18†Help†usajobshelp.opm.gov】
+L384:
+L385: ALL required documents must be submitted before the closing date. Review the following list to determine what you need to submit.
+L386:
+L387: Resume: Must not exceed two pages. Refer to the Qualifications section for resume requirements.
+L388:
+L389: If you are 【24†ICTAP/CTAP†help.usajobs.gov】 eligible - submit a, b, and c: (a) proof of eligibility including agency notice; (b) SF-50, and (c) most recent performance appraisal.
+L390: Current or Former Political Appointees: Submit SF-50.
+L391: ## How to Apply
+L392:
+L393: 【25†Help†usajobshelp.opm.gov】
+L394:
+L395: Submit a complete online application including any required documents prior to 11:59 pm Eastern Time on the closing date of the announcement. You can modify or complete your application any time before the deadline. Simply return to USAJOBS, select the vacancy, and update your application.  For more detailed instructions on how to apply, click here: 【26†Apply for a GSA Job.†www.gsa.gov】
+L396: If you are having issues applying to this announcement, you should switch to a different browser, network or device. Note: Your firewall may block your transfer from USAJOBS to your GSA application.
+L397:
+L398: To begin, click the Apply Online button on the vacancy announcement.
+L399:   * Sign in or register on USAJobs and select a resume and documents to include in your application.
+L400:   * Resumes exceeding two pages will not be accepted by USAJOBS and will prevent your application from moving forward in the hiring process. Please see Required Documents for additional details.
+L401:   * Once you have clicked Apply for this position now, you will be taken to the GSA site to complete the application process.
+L402:   * Click the Apply To This Vacancy and complete all steps in the application process until the Confirmation indicates your application is complete.  If you click Return to USAJobs or get timed out prior to receiving confirmation, your application will not be submitted and cannot be considered for this job.
+L403:   * Note:  Review the REQUIRED DOCUMENTS section of this announcement to determine which apply to you and must be submitted online. You may choose one or more of the following options to submit your document(s): Upload (from your computer) or USAJOBS (click the "USAJOBS" link to complete the transfer process).
+L404: Need Assistance?
+L405:
+L406:   * Questions or issues completing an application and/or submitting documentation - contact fedhirehelp@applygovernment.com or 1-866-656-6831 Monday-Friday 7AM - 7PM EST, except for Federal holidays
+L407:   * Specific questions on the position - contact the HR representative (Monday-Friday during normal business hours) listed on the announcement, prior to the application deadline
+L408:
+L409: You must receive HR approval before deviating from these instructions.
+L410: Be sure to APPLY EARLY as most assessments must be completed fully and submitted before the announcement closing.
+L411:
+L412: Standing Register
+L413: As mentioned in the Other Information section, this announcement will be used to fill positions on an ongoing basis as job openings occur.  Your application will only be reviewed after a cut-off date or after the vacancy closing date if you have completed the application process described above.
+L414:
+L415: Expand Hide  how to apply
+L416: ### Agency contact information
+L417:
+L418: Tiffany Trimm
+L419:
+L420: Phone
+L421:     000-000-0000
+L422: Fax
+L423:     000-000-0000
+L424: Email
+L425:     crcavacancyinquiries@gsa.gov
+L426:
+L427: Address
+L428:     GSA, Technology Transformation Service
+L429: Servicing HR Office:
+L430: GSA, Office of Human Resources Management (OHRM)
+L431: 1800 F Street, NW
+L432: Washington, District of Columbia 20405
+L433: United States
+L434: ### Next steps
+L435:
+L436: STANDING REGISTER
+L437: The following process is used if your application is complete and active as of the cut-off date deadline.
+L438:   1. TECHNICAL ASSESSMENT:You will receive an email with instructions to complete a technical assessment.
+L439:   2. ELIGIBILITY/QUALIFICATIONS: Your application will be reviewed for all requirements.
+L440:   3. REFERRAL TO MANAGEMENT: If you meet all the requirements, you may be referred to management for review and a possible interview.
+L441:   4. SELECTION/TENTATIVE JOB OFFER: If you are selected, you will receive a tentative offer and start the suitability and/or security background investigation process.
+L442:   5. FINAL JOB OFFER: Once our security office determines you can come on board, you will be given a final offer, which is typically 40 days after the announcement closes
+L443: Thank you for your interest in working for the U.S. General Services Administration!
+L444:
+L445: Expand Hide  next steps
+L446: ## Fair and transparent
+L447:
+L448: The Federal hiring process is set up to be fair and transparent. Please read the following guidance.
+L449:
+L450: 【27†Criminal history inquiries†usajobshelp.opm.gov】 【28†Equal Employment Opportunity (EEO) Policy†usajobshelp.opm.gov】
+L451:
+L452: 【29†Financial suitability†usajobshelp.opm.gov】 【30†New employee probationary period†usajobshelp.opm.gov】
+L453:
+L454: 【31†Privacy Act†usajobshelp.opm.gov】 【32†Reasonable accommodation policy†usajobshelp.opm.gov】
+L455: 【33†Selective Service†usajobshelp.opm.gov】 【34†Signature and false statements†usajobshelp.opm.gov】
+L456:
+L457: 【35†Social security number request†usajobshelp.opm.gov】
+L458: ## Additional locations
+L459:
+L460: Boston, MA
+L461:
+L462: New York, NY
+L463:
+L464: Philadelphia, PA
+L465:
+L466: Tacoma, WA
+L467:
+L468: ## Technology Transformation Service
+L469:
+L470: ### Agency contact information
+L471:
+L472: Tiffany Trimm
+L473:
+L474: Phone
+L475:     000-000-0000
+L476: Fax
+L477:     000-000-0000
+L478: Email
+L479:     crcavacancyinquiries@gsa.gov
+L480:
+L481: Address
+L482:     GSA, Technology Transformation Service
+L483: Servicing HR Office:
+L484: GSA, Office of Human Resources Management (OHRM)
+L485: 1800 F Street, NW
+L486: Washington, District of Columbia 20405
+L487: United States
+L488: ### Visit our careers page
+L489:
+L490: Learn more about what it's like to work at Technology Transformation Service, what the agency does, and about the types of careers this agency offers.
+L491:
+L492: 【36†https://www.gsa.gov/about-us†www.gsa.gov】
+L493:
+L494: [Input]
+L495: ## Summary
+L496:
+L497: As a Senior Al Software Engineer, you will develop secure, ethical, and mission-aligned AI strategies and architectures across the federal government using engineering best practices.
+L498:
+L499: This position is with the Office of Technology Transformation Services (TTS), Federal Acquisition Service (FAS), General Services Administration (GSA).
+L500:
+L501: We are currently filling multiple vacancies, but additional vacancies may be filled as needed.
+L502:
+L503: [Button: Learn more about this agency ]
+L504: ## Overview
+L505:
+L506: 【11†Help†usajobshelp.opm.gov】
+L507:
+L508: Accepting applications
+L509:
+L510: Location
+L511:
+L512: Many vacancies in the following locations:
+L513:
+L514: [Input]
+L515:
+L516: San Francisco, CA
+L517:
+L518: Lakewood, CO
+L519:
+L520: Washington, DC
+L521:
+L522: Chicago, IL
+L523:
+L524: Boston, MA
+L525:
+L526: New York, NY
+L527:
+L528: Philadelphia, PA
+L529:
+L530: Tacoma, WA
+L531:
+L532: Work site options
+L533:
+L534: Telework eligible
+L535:     Yes—This position is full-time in the office. In rare instances, situational telework may be approved on a case-by-case basis.
+L536:
+L537: Remote job
+L538:     No
+L539:
+L540: Relocation expenses reimbursed
+L541:     No
+L542: Salary
+L543:     $138,595 - $197,200 per year
+L544:
+
+
+
+Source is the web tool rendered announcement, including its line references; HTML downloads were blocked with HTTP 403. Date evidence is distinguished from retrieval time above.

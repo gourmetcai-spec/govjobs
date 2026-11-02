@@ -1,0 +1,46 @@
+{
+  "step": 1,
+  "window": [
+    "2026-09-01",
+    "2026-11-01"
+  ],
+  "scope": "Federal agencies only; DC/MD/VA",
+  "remaining": [
+    {
+      "task": "Resume USAJOBS native filtered search and pagination when accessible",
+      "queries": [
+        "financial",
+        "quantitative",
+        "mortgage",
+        "investment",
+        "2210",
+        "APPSW",
+        "computer scientist",
+        "artificial intelligence"
+      ],
+      "locations": [
+        "Washington, DC",
+        "Maryland",
+        "Virginia"
+      ],
+      "cursor": "Page 1 blocked or empty rendering; page 2 APPSW and comptroller attempts inaccessible; no reliable exhausted-source cursor."
+    },
+    {
+      "task": "Refresh FHFA Current Openings on a later run (currently no listings); retry FDIC careers when accessible and enumerate OCC/SEC current openings."
+    },
+    {
+      "task": "Verify additional search leads before ledger eligibility",
+      "control_numbers": [
+        "890500200",
+        "889752600",
+        "889753100",
+        "889254700"
+      ],
+      "evidence": "coverage1-web.txt"
+    },
+    {
+      "task": "Resolve 8 needs_verification records and missing federal resume facts; recheck date provenance and mandatory education/course/experience evidence."
+    }
+  ],
+  "portal_actions": "None; Step 2 requires explicit user selection and final completed-packet confirmation."
+}

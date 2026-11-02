@@ -1,0 +1,32 @@
+{
+  "employer": "General Services Administration - Technology Transformation Service",
+  "title": "Principal AI Software Engineer",
+  "requisition_id": "F2-2026-0008",
+  "posted_date": "2026-09-04",
+  "close_date": "2026-12-31",
+  "location": "Washington, DC offered among eight offices",
+  "salary": "$163,023–$197,200 per year; GS-15",
+  "fit": "Senior enterprise engineering leadership overlap.",
+  "gaps": "Principal-level production AI engineering, AI architecture/governance and technical leadership requirements are not established by baseline; do not invent experience from AI tooling use.",
+  "canonical_url": "https://www.usajobs.gov/job/883695200",
+  "application_url": "https://www.usajobs.gov/job/883695200",
+  "posted_date_evidence": "Official indexed AI/2210 search lists September 4–December 31.",
+  "retrieved_at": "2026-11-02T00:53:12.615092+00:00",
+  "status": "needs_verification",
+  "aliases": [],
+  "discovery_window": [
+    "2026-09-01",
+    "2026-11-01"
+  ],
+  "remote_restrictions": "Not remote; DMV duty station offered. Confirm telework policy in official job description.",
+  "open_evidence": "Official USAJOBS announcement retrieved through web tool and reports Accepting applications; recheck at Step 2.",
+  "hiring_path": "Open to the public",
+  "control_number": "883695200",
+  "id": "db244e9a2dfdce0b",
+  "step": 1,
+  "selected": false,
+  "submitted": false,
+  "artifacts": {},
+  "resume_status": "not_generated_verification_required",
+  "resume_review": "Not generated; unresolved mandatory requirements."
+}
