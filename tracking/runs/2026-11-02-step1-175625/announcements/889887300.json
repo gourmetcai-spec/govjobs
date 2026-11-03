@@ -1,0 +1,192 @@
+{
+  "@context": "http://www.schema.org",
+  "@type": "JobPosting",
+  "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": {
+      "@type": "QuantitativeValue",
+      "value": 151661.0,
+      "unitText": "YEAR"
+    }
+  },
+  "datePosted": "10/23/2026",
+  "description": "Principal advisor to the Office of Health, Chief Financial Officer and other key officials within the Department of Veterans Affairs on matters pertaining to the enterprise organizations responsible for financial accounting, financial quality, managerial cost accounting, and VISN financial operations supporting the Veterans Health Administration. The position will be responsible for ensuring standardized, compliant, and effective financial management that supports VA's mission.",
+  "educationRequirements": "<b>This job does not have an education qualification requirement.</b><br>\n<br>",
+  "employmentType": "OTHER",
+  "hiringOrganization": "AS Management - 1007",
+  "jobLocation": [
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Mesa",
+        "addressRegion": "AZ "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Long Beach",
+        "addressRegion": "CA "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Mare Island Naval Shipyard",
+        "addressRegion": "CA "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Golden",
+        "addressRegion": "CO "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Washington",
+        "addressRegion": "DC "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Saint Petersburg",
+        "addressRegion": "FL "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Duluth",
+        "addressRegion": "GA "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Hines",
+        "addressRegion": "IL "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Bedford",
+        "addressRegion": "MA "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Linthicum",
+        "addressRegion": "MD "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Minneapolis",
+        "addressRegion": "MN "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Kansas City",
+        "addressRegion": "MO "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Ridgeland",
+        "addressRegion": "MS "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Durham",
+        "addressRegion": "NC "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Lincoln",
+        "addressRegion": "NE "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Bronx",
+        "addressRegion": "NY "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Mason",
+        "addressRegion": "OH "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Pittsburgh",
+        "addressRegion": "PA "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Nashville",
+        "addressRegion": "TN "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Arlington",
+        "addressRegion": "TX "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Vancouver",
+        "addressRegion": "WA "
+      }
+    }
+  ],
+  "responsibilities": "<ul>\n\t<li>Responsible for all matters pertaining to field-level financial operations, including audit coordination and quality assurance, financial accounting controls oversight, financial policy implementation and compliance, and managerial cost accounting. </li>\n\t<li>Ensures uniform execution of Federal and VA regulations, laws, directives, and standards as they relate to financial systems and operations across VHA's health care delivery network.</li>\n\t<li>Reviews internal and external audits and develops corrective actions, working with stakeholders to correct areas that may develop into a material weakness.</li>\n\t<li>Oversees the integration of accounting, cost accounting, obligations accounting and budgetary information to recommend complete, reliable information for data driven decision-making.</li>\n</ul>",
+  "qualifications": "To meet the minimum qualification requirements for this position, you must show that you possess the Executive Core Qualifications (ECQ), and Technical Qualifications (TQ) related to this position within your resume - <b>NOT TO EXCEED 2 PAGES</b>. <b>Resumes over the 2-page limit will be disqualified. Please see \"Required Documents\" section below for all resume formatting requirements.</b><br>\n<br>\nYour resume should include examples of experience, education, and accomplishments applicable to the qualification(s). If your resume does not reflect demonstrated evidence of these qualifications, you may not receive consideration for the position.<br>\n<br>\n<b>Do NOT submit a separate narrative statement specifically addressing the Executive Core Qualifications (ECQs) or the Technical Qualifications (TQs).<br>\n<br>\nTECHNICAL QUALIFICATIONS (TQs)</b>: Your resume should demonstrate accomplishments that would satisfy the technical qualifications.<br>\n<br>\nTQ1: Demonstrates extensive knowledge and experience with accounting, cost management, audit<br>\ncoordination, and financial policy implementation.<br>\n<br>\n<b>EXECUTIVE CORE QUALIFICATIONS (ECQs):</b> In addition to the Technical Qualification Requirements listed above, all new entrants into the Senior Executive Service (SES) under a career appointment will be assessed for executive competency against the following five mandatory ECQs. If your 2-page resume does not reflect demonstrated evidence of the ECQs and TQs, you may not receive further consideration for the position.<br>\n<br>\n<b>There are five ECQs:</b><br>\n<br>\n<b>ECQ 1: Commitment to the Rule of Law and the Principles of the American Founding - </b>This core qualification requires a demonstrated knowledge of the American system of government, commitment to uphold the Constitution and the rule of law, and commitment to serve the American people.\n<ul>\n\t<li>Sub-Competencies:\n\t<ul>\n\t\t<li><u>Knowledge of the American System of Government</u>: Demonstrates understanding and appreciation of the American system of government, including the Constitution, the Bill of Rights, separation of powers, federalism, and the historical development of the American Nation.</li>\n\t\t<li><u>Commitment to the Rule of Law:</u> Upholds the principles of the American Founding, including equality under the law and democratic self-government. Ensures the law is applied fairly and consistently.</li>\n\t\t<li><u>Civic-Mindedness:</u> Stays up-to-date on important developments in American government and aligns organizational objectives and practices with presidential and public interests. Demonstrates a commitment to serve the American people.</li>\n\t</ul>\n\t</li>\n</ul>\n<b>ECQ 2: Driving Efficiency -</b> This core qualification involves the demonstrated ability to strategically and efficiently manage resources, budget effectively, cut wasteful spending, and pursue efficiency through process and technological upgrades.\n\n<ul>\n\t<li>Sub-Competencies:\n\t<ul>\n\t\t<li><u>Fiscal Responsibility:</u> Strategically manages, allocates and monitors financial resources. Aligns priorities and initiatives to justify budget proposals. Monitors expenditures, cuts unnecessary costs, and uses cost-benefit analysis to set priorities.</li>\n\t\t<li><u>Managing Resources</u>: Manages resources efficiently and effectively based on current and projected organizational goals, skills, budget considerations, and staffing needs.</li>\n\t\t<li><u>Leveraging Technology:</u> Explores emerging technology and potential applications. Incorporates technology to enhance efficiency and achieve results. Ensures access to and security of technology systems</li>\n\t</ul>\n\t</li>\n</ul>\n<b>ECQ 3: Merit and Competence - </b>This core qualification involves the demonstrated knowledge, ability and technical competence to effectively and reliably produce work that is of exceptional quality.\n\n<ul>\n\t<li>Sub-Competencies:\n\t<ul>\n\t\t<li><u>Technical Skill</u>: Possesses the requisite technical knowledge and subject matter expertise to consistently produce timely, high-quality work. Is considered a strong contributor in his or her domain.</li>\n\t\t<li><u>Problem Solving</u>: Engages in critical and data-driven thinking when diagnosing root causes and evaluating options. Identifies and promptly addresses the most pressing, high-priority problems.</li>\n\t\t<li><u>Agility and Resilience</u>: Anticipates and adapts to change, new ideas, new information, and new conditions. Is committed to continuous improvement. Deals effectively with pressure and remains optimistic and persistent, even under adversity.</li>\n\t</ul>\n\t</li>\n</ul>\n<b>ECQ 4: Leading People - </b>This core qualification involves the demonstrated ability to lead and inspire a group toward meeting the organization's vision, mission, and goals, and to drive a high-performance, high-accountability culture. This includes, when necessary, the ability to lead people through change and to hold individuals accountable.\n\n<ul>\n\t<li>Sub-Competencies:\n\t<ul>\n\t\t<li><u>Accountability</u>: Ensures that employees are appropriately recruited, selected, appraised, trained, and retained. Takes swift action to address performance- or conduct-based deficiencies in employees supervised. Holds self and others accountable for measurable high-quality, timely, and cost-effective results.</li>\n\t\t<li><u>Developing Others</u>: Recognizes and rewards outstanding achievement in others. Develops the ability of others to perform and contribute to the organization by providing opportunities to learn through formal and informal methods. Cultivates a dynamic environment in which employees are not afraid to make mistakes.</li>\n\t\t<li><u>Executive Judgement</u>: Makes well-reasoned, timely, and effective decisions and considers short- and long-term implications. Communicates effectively with stakeholders across all organizational levels, sharing and guarding information where appropriate.</li>\n\t</ul>\n\t</li>\n</ul>\n<b>ECQ 5: Achieving Results - </b>This core qualification involves the demonstrated ability to achieve both individual and organizational results, and to align results to stated goals from superiors.\n\n<ul>\n\t<li>Sub-Competencies:\n\t<ul>\n\t\t<li><u>Operational Mindset</u>: Effectively translates strategies into actionable steps and processes. Partners effectively with stakeholders to drive adoption and addresses blockers to ensure successful implementation.</li>\n\t\t<li><u>Innovation</u>: Applies creativity to improving products and processes, challenges convention, takes measured risks, and considers ways to simplify and remove unnecessary requirements.</li>\n\t\t<li><u>Strategic Thinking:</u> Formulates objectives and priorities and implements plans consistent with the long-term interests of the organization by evaluating conditions, resources, capabilities, constraints, and organizational goals and values.</li>\n\t</ul>\n\t</li>\n</ul>\n<u>Note:</u> If you are a member of the SES or have been certified through successful participation in an OPM approved SES Candidate Development Program (SESCDP), or have SES reinstatement eligibility, you should attach proof (e.g., SF-50, Certification by OPM's SES Qualifications Review Board (QRB)) of your eligibility for noncompetitive appointment to the SES. See \"Required Documents\" section for additional information.",
+  "title": "Executive Director Financial Operations",
+  "validThrough": "2026-11-06"
+}

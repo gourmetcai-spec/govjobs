@@ -1,0 +1,89 @@
+{
+  "title": "FINANCIAL MANAGEMENT ANALYST",
+  "requisition_id": "ST-13104833-27-MLV",
+  "canonical_url": "https://www.usajobs.gov/job/890983000",
+  "application_url": "https://www.usajobs.gov/job/890983000",
+  "posted_date": "2026-11-02",
+  "posted_date_evidence": "Official announcement JobPosting.datePosted; corroborated by native search PositionStartDate where listed.",
+  "close_date": "2026-11-06",
+  "deadline_timezone": "America/New_York",
+  "deadline_time": "23:59",
+  "deadline_source": "https://www.usajobs.gov/job/890983000",
+  "deadline_verified": true,
+  "early_closure_conditions": [],
+  "rolling_cutoff": null,
+  "location": "Naval Base, Norfolk, VA",
+  "remote_restrictions": "Offered DMV work location; verify telework/attendance and screening conditions in announcement.",
+  "salary": "Starting at $90,838 Per year (GS 12)",
+  "retrieved_at": "2026-11-02T23:14:54.501767+00:00",
+  "control_number": "890983000",
+  "fit": "Financial forecasting, capital/ROE, quantitative risk and engineering leadership overlap; federal budget/accounting/policy specialties remain attention items.",
+  "gaps": "Hiring-path eligibility unverified: Internal to an agency, Career transition (CTAP, ICTAP, RPL), Land and base management, Veterans, Military spouses, Individuals with disabilities, Special authorities. Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.",
+  "requirements_confirmed_unmet": [],
+  "requirements_unverified": [
+    "Hiring-path eligibility unverified: Internal to an agency, Career transition (CTAP, ICTAP, RPL), Land and base management, Veterans, Military spouses, Individuals with disabilities, Special authorities. Confirm qualifying status before application; absence from baseline is not proof of ineligibility.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "preferred_requirements_note": "See official qualifications/education sections; missing evidence does not establish an unmet requirement.",
+  "hiring_paths": [
+    "Internal to an agency",
+    "Career transition (CTAP, ICTAP, RPL)",
+    "Land and base management",
+    "Veterans",
+    "Military spouses",
+    "Individuals with disabilities",
+    "Special authorities"
+  ],
+  "open_evidence": "Official announcement downloaded successfully; validThrough and native open-status evidence retained.",
+  "discovery_window": [
+    "2026-09-02",
+    "2026-11-02"
+  ],
+  "employer": "United States Fleet Forces Command",
+  "status": "needs_verification",
+  "aliases": [],
+  "id": "9a55088713f12ed3",
+  "application_directory": "applications/2026-11-02__united-states-fleet-forces-command__financial-management-analyst__9a55088713f12ed3",
+  "step": 1,
+  "selected": false,
+  "submitted": false,
+  "artifacts": {
+    "resume_markdown": {
+      "path": "applications/2026-11-02__united-states-fleet-forces-command__financial-management-analyst__9a55088713f12ed3/resume-xuewu-cai__united-states-fleet-forces-command__financial-management-analyst__890983000.md",
+      "sha256": "ca0cea3418d8e826158be093829ff12d3e561cef1ce09bcc5a03df9c294d4ff1"
+    },
+    "resume_pdf": {
+      "path": "applications/2026-11-02__united-states-fleet-forces-command__financial-management-analyst__9a55088713f12ed3/resume-xuewu-cai__united-states-fleet-forces-command__financial-management-analyst__890983000.pdf",
+      "sha256": "7c5ac92555b88cf5995f2b3d75e4dac311d018ed7d2db7a790b1830b1d1839b7"
+    }
+  },
+  "artifact_versions": [
+    {
+      "revision_id": "2026-11-02T23:14:54.501767+00:00",
+      "artifacts": {
+        "resume_markdown": {
+          "path": "applications/2026-11-02__united-states-fleet-forces-command__financial-management-analyst__9a55088713f12ed3/resume-xuewu-cai__united-states-fleet-forces-command__financial-management-analyst__890983000.md",
+          "sha256": "ca0cea3418d8e826158be093829ff12d3e561cef1ce09bcc5a03df9c294d4ff1"
+        },
+        "resume_pdf": {
+          "path": "applications/2026-11-02__united-states-fleet-forces-command__financial-management-analyst__9a55088713f12ed3/resume-xuewu-cai__united-states-fleet-forces-command__financial-management-analyst__890983000.pdf",
+          "sha256": "7c5ac92555b88cf5995f2b3d75e4dac311d018ed7d2db7a790b1830b1d1839b7"
+        }
+      },
+      "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a"
+    }
+  ],
+  "resume_status": "prepared_with_attention",
+  "resume_review": "Text and hashes verified; all 20 baseline experience bullets preserved with updated title. Two pages rendered in PDFKit; all 113 distinct page images visually reviewed across 10 boards (238 rendered pages total). No clipping, overlap or blank pages. Neutral metadata and no AI-editing/targeting labels. Candidate facts/qualifications marked as attention items; no submission.",
+  "required_answers_pending": [
+    "Hiring-path eligibility unverified: Internal to an agency, Career transition (CTAP, ICTAP, RPL), Land and base management, Veterans, Military spouses, Individuals with disabilities, Special authorities. Confirm qualifying status before application; absence from baseline is not proof of ineligibility.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "confirmed_unmet_requirements": [],
+  "qualifications_verified": false,
+  "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a",
+  "resume_format": "restored_two_page",
+  "current_resume_naming": "unversioned",
+  "clearance_requirement": "Secret",
+  "public_hiring_route_evidence": false
+}

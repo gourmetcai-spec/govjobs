@@ -5,29 +5,83 @@
   "posted_date": "2026-10-28",
   "close_date": "2026-11-04",
   "location": "Quantico, VA",
-  "salary": "$102,415–$133,142 per year; GS-12",
-  "fit": "Java web applications and system integrations overlap.",
-  "gaps": "Mandatory SharePoint applications/enhancements and DoD security compliance are not documented; confirm before eligibility. Clearance, health screening and vaccination conditions remain unanswered.",
+  "salary": "Starting at $102,415 Per year (GS 12)",
+  "fit": "Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.",
+  "gaps": "Verify SharePoint application/administration experience against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.",
   "canonical_url": "https://www.usajobs.gov/job/890572600",
   "application_url": "https://www.usajobs.gov/job/890572600",
-  "posted_date_evidence": "Mirror October 28–November 4; official announcement accepting applications.",
-  "retrieved_at": "2026-11-02T01:18:48.041747+00:00",
+  "posted_date_evidence": "Official announcement JobPosting.datePosted; corroborated by native search PositionStartDate where listed.",
+  "retrieved_at": "2026-11-02T23:14:54.501767+00:00",
   "status": "needs_verification",
   "aliases": [],
   "discovery_window": [
-    "2026-09-01",
-    "2026-11-01"
+    "2026-09-02",
+    "2026-11-02"
   ],
-  "remote_restrictions": "Not remote; DMV duty station offered. Confirm telework policy in official job description.",
-  "open_evidence": "Refreshed official USAJOBS page reports Accepting applications; scope and prior mandatory gaps retained. Evidence: tracking/runs/2026-11-01-federal-step1-redo/refresh-web.txt and existing0/1-web.txt.",
+  "remote_restrictions": "Offered DMV work location; verify telework/attendance and screening conditions in announcement.",
+  "open_evidence": "Official announcement downloaded successfully; validThrough and native open-status evidence retained.",
   "hiring_path": "Open to the public",
   "control_number": "890572600",
   "id": "e1953172ea90c8a7",
   "step": 1,
   "selected": false,
   "submitted": false,
-  "artifacts": {},
-  "resume_status": "not_generated_verification_required",
-  "resume_review": "Not generated; unresolved mandatory requirements.",
-  "last_step1_refresh": "2026-11-01-federal-step1-redo"
+  "artifacts": {
+    "resume_markdown": {
+      "path": "applications/2026-11-01__military-treatment-facilities-under-defense-health-agency__it-specialist-appsw-inet__e1953172ea90c8a7/resume-xuewu-cai__military-treatment-facilities-under-defe__it-specialist-appsw-inet__890572600.md",
+      "sha256": "0c30d6f921dc156bce50ddf4c43959c022ccf54b2b0a9725a62a5a2163712653"
+    },
+    "resume_pdf": {
+      "path": "applications/2026-11-01__military-treatment-facilities-under-defense-health-agency__it-specialist-appsw-inet__e1953172ea90c8a7/resume-xuewu-cai__military-treatment-facilities-under-defe__it-specialist-appsw-inet__890572600.pdf",
+      "sha256": "28a0864338881c8decdd4355ea73788e2b325f955b3c0277e4502fc790653df2"
+    }
+  },
+  "resume_status": "prepared_with_attention",
+  "resume_review": "Text and hashes verified; all 20 baseline experience bullets preserved with updated title. Two pages rendered in PDFKit; all 113 distinct page images visually reviewed across 10 boards (238 rendered pages total). No clipping, overlap or blank pages. Neutral metadata and no AI-editing/targeting labels. Candidate facts/qualifications marked as attention items; no submission.",
+  "last_step1_refresh": "2026-11-01-federal-step1-redo",
+  "created_at": "2026-11-02T00:53:13.176106+00:00",
+  "updated_at": "2026-11-02T01:18:48.402712+00:00",
+  "application_directory": "applications/2026-11-01__military-treatment-facilities-under-defense-health-agency__it-specialist-appsw-inet__e1953172ea90c8a7",
+  "deadline_timezone": "America/New_York",
+  "deadline_time": "23:59",
+  "deadline_source": "https://www.usajobs.gov/job/890572600",
+  "deadline_verified": true,
+  "early_closure_conditions": [],
+  "rolling_cutoff": null,
+  "requirements_confirmed_unmet": [],
+  "requirements_unverified": [
+    "Verify SharePoint application/administration experience against the exact qualification clause; not established by the baseline alone.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "preferred_requirements_note": "See official qualifications/education sections; missing evidence does not establish an unmet requirement.",
+  "hiring_paths": [
+    "Open to the public"
+  ],
+  "artifact_versions": [
+    {
+      "revision_id": "2026-11-02T23:14:54.501767+00:00",
+      "artifacts": {
+        "resume_markdown": {
+          "path": "applications/2026-11-01__military-treatment-facilities-under-defense-health-agency__it-specialist-appsw-inet__e1953172ea90c8a7/resume-xuewu-cai__military-treatment-facilities-under-defe__it-specialist-appsw-inet__890572600.md",
+          "sha256": "0c30d6f921dc156bce50ddf4c43959c022ccf54b2b0a9725a62a5a2163712653"
+        },
+        "resume_pdf": {
+          "path": "applications/2026-11-01__military-treatment-facilities-under-defense-health-agency__it-specialist-appsw-inet__e1953172ea90c8a7/resume-xuewu-cai__military-treatment-facilities-under-defe__it-specialist-appsw-inet__890572600.pdf",
+          "sha256": "28a0864338881c8decdd4355ea73788e2b325f955b3c0277e4502fc790653df2"
+        }
+      },
+      "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a"
+    }
+  ],
+  "required_answers_pending": [
+    "Verify SharePoint application/administration experience against the exact qualification clause; not established by the baseline alone.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "confirmed_unmet_requirements": [],
+  "qualifications_verified": false,
+  "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a",
+  "resume_format": "restored_two_page",
+  "current_resume_naming": "unversioned",
+  "clearance_requirement": "Secret",
+  "public_hiring_route_evidence": true
 }

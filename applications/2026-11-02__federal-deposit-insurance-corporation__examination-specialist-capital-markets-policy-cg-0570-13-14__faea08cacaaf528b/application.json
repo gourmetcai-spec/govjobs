@@ -1,0 +1,85 @@
+{
+  "title": "Examination Specialist (Capital Markets Policy), CG-0570-13/14",
+  "requisition_id": "2026-RMS-B0358",
+  "canonical_url": "https://www.usajobs.gov/job/890793300",
+  "application_url": "https://www.usajobs.gov/job/890793300",
+  "posted_date": "2026-10-29",
+  "posted_date_evidence": "Official announcement JobPosting.datePosted; corroborated by native search PositionStartDate where listed.",
+  "close_date": "2026-11-04",
+  "deadline_timezone": "America/New_York",
+  "deadline_time": "23:59",
+  "deadline_source": "https://www.usajobs.gov/job/890793300",
+  "deadline_verified": true,
+  "early_closure_conditions": [],
+  "rolling_cutoff": null,
+  "location": "Washington, DC",
+  "remote_restrictions": "Offered DMV work location; verify telework/attendance and screening conditions in announcement.",
+  "salary": "Starting at $133,964 Per year (CG 13-14)",
+  "retrieved_at": "2026-11-02T23:14:54.501767+00:00",
+  "control_number": "890793300",
+  "fit": "Financial forecasting, capital/ROE, quantitative risk and engineering leadership overlap; federal budget/accounting/policy specialties remain attention items.",
+  "gaps": "Hiring-path eligibility unverified: Internal to an agency. Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Verify examiner commission eligibility against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.",
+  "requirements_confirmed_unmet": [],
+  "requirements_unverified": [
+    "Hiring-path eligibility unverified: Internal to an agency. Confirm qualifying status before application; absence from baseline is not proof of ineligibility.",
+    "Verify examiner commission eligibility against the exact qualification clause; not established by the baseline alone.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "preferred_requirements_note": "See official qualifications/education sections; missing evidence does not establish an unmet requirement.",
+  "hiring_paths": [
+    "Internal to an agency"
+  ],
+  "open_evidence": "Official announcement downloaded successfully; validThrough and native open-status evidence retained.",
+  "discovery_window": [
+    "2026-09-02",
+    "2026-11-02"
+  ],
+  "employer": "Federal Deposit Insurance Corporation",
+  "status": "needs_verification",
+  "aliases": [],
+  "id": "faea08cacaaf528b",
+  "application_directory": "applications/2026-11-02__federal-deposit-insurance-corporation__examination-specialist-capital-markets-policy-cg-0570-13-14__faea08cacaaf528b",
+  "step": 1,
+  "selected": false,
+  "submitted": false,
+  "artifacts": {
+    "resume_markdown": {
+      "path": "applications/2026-11-02__federal-deposit-insurance-corporation__examination-specialist-capital-markets-policy-cg-0570-13-14__faea08cacaaf528b/resume-xuewu-cai__federal-deposit-insurance-corporation__examination-specialist-capital-markets-policy-cg-0570-13-14__890793300.md",
+      "sha256": "c56df12d4b3657f27370981deb64c2c75d9e202917775a049e6c9d09b48fb8bc"
+    },
+    "resume_pdf": {
+      "path": "applications/2026-11-02__federal-deposit-insurance-corporation__examination-specialist-capital-markets-policy-cg-0570-13-14__faea08cacaaf528b/resume-xuewu-cai__federal-deposit-insurance-corporation__examination-specialist-capital-markets-policy-cg-0570-13-14__890793300.pdf",
+      "sha256": "4a765c0d86f5f6978c02049120477d027fa5d8142c2b94658b3743ec70e8e338"
+    }
+  },
+  "artifact_versions": [
+    {
+      "revision_id": "2026-11-02T23:14:54.501767+00:00",
+      "artifacts": {
+        "resume_markdown": {
+          "path": "applications/2026-11-02__federal-deposit-insurance-corporation__examination-specialist-capital-markets-policy-cg-0570-13-14__faea08cacaaf528b/resume-xuewu-cai__federal-deposit-insurance-corporation__examination-specialist-capital-markets-policy-cg-0570-13-14__890793300.md",
+          "sha256": "c56df12d4b3657f27370981deb64c2c75d9e202917775a049e6c9d09b48fb8bc"
+        },
+        "resume_pdf": {
+          "path": "applications/2026-11-02__federal-deposit-insurance-corporation__examination-specialist-capital-markets-policy-cg-0570-13-14__faea08cacaaf528b/resume-xuewu-cai__federal-deposit-insurance-corporation__examination-specialist-capital-markets-policy-cg-0570-13-14__890793300.pdf",
+          "sha256": "4a765c0d86f5f6978c02049120477d027fa5d8142c2b94658b3743ec70e8e338"
+        }
+      },
+      "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a"
+    }
+  ],
+  "resume_status": "prepared_with_attention",
+  "resume_review": "Text and hashes verified; all 20 baseline experience bullets preserved with updated title. Two pages rendered in PDFKit; all 113 distinct page images visually reviewed across 10 boards (238 rendered pages total). No clipping, overlap or blank pages. Neutral metadata and no AI-editing/targeting labels. Candidate facts/qualifications marked as attention items; no submission.",
+  "required_answers_pending": [
+    "Hiring-path eligibility unverified: Internal to an agency. Confirm qualifying status before application; absence from baseline is not proof of ineligibility.",
+    "Verify examiner commission eligibility against the exact qualification clause; not established by the baseline alone.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "confirmed_unmet_requirements": [],
+  "qualifications_verified": false,
+  "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a",
+  "resume_format": "restored_two_page",
+  "current_resume_naming": "unversioned",
+  "clearance_requirement": "Other",
+  "public_hiring_route_evidence": false
+}

@@ -1,0 +1,32 @@
+{
+  "@context": "http://www.schema.org",
+  "@type": "JobPosting",
+  "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": {
+      "@type": "QuantitativeValue",
+      "value": 75788.0,
+      "unitText": "YEAR"
+    }
+  },
+  "datePosted": "11/02/2026",
+  "description": "<strong>About the Position: </strong>This position is located at Naval Medical Center Portsmouth, Virginia under the Directorate for Resource Management, Financial Management Department (Accounting Division). <br>\n<br>\nThis is a Direct Hire Solicitation",
+  "educationRequirements": "<strong>FOREIGN EDUCATION: </strong>If you are using education completed in foreign colleges or universities to meet the qualification requirements, you must show the education credentials have been evaluated by a private organization that specializes in interpretation of foreign education programs and such education has been deemed equivalent to that gained in an accredited U.S. education program; or full credit has been given for the courses at a U.S. accredited college or university. For further information, visit: <a aria-label=\"Link https://sites.ed.gov/international/recognition-of-foreign-qualifications/\" href=\"https://sites.ed.gov/international/recognition-of-foreign-qualifications/\" id=\"menur978\" rel=\"noreferrer noopener\" target=\"_blank\" title=\"https://sites.ed.gov/international/recognition-of-foreign-qualifications/\">https://sites.ed.gov/international/recognition-of-foreign-qualifications/</a>.",
+  "employmentType": "OTHER",
+  "hiringOrganization": "JT-DD83DY ATLANTIC DHN - PORTSMOUTH",
+  "jobLocation": [
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Naval Medical Center, Portsmouth",
+        "addressRegion": "VA "
+      }
+    }
+  ],
+  "responsibilities": "",
+  "qualifications": "<strong>Who May Apply: US Citizens</strong><br>\n<br>\nIn order to qualify, you must meet the education and/or experience requirements described below. Experience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., Peace Corps, AmeriCorps) and other organizations (e.g., professional; philanthropic; religious; spiritual; community; student; social). You will receive credit for all qualifying experience, including volunteer experience. Your resume must clearly describe your relevant experience; if qualifying based on education, your transcripts will be required as part of your application. Additional information about transcripts is <a href=\"https://portal.chra.army.mil/hr_public?id=kb_article&sysparm_article=KB0016283\">in this document</a>.<br>\n<br>\n<strong>Specialized Experience: </strong>One year of specialized experience which includes: review budget requests; report obligations and expenditures; provide advice on effective and efficient methods for the acquisition and use of funds to support the organization's programs and activities. This definition of specialized experience is typical of work performed at the second lower grade/level position in the federal service (GS-09).<br>\n<br>\nOR<br>\n<br>\n<strong>Education: </strong>Ph.D or equivalent doctoral degree or 3 full years of progressively higher level graduate education leading to such a degree in a field which demonstrates the knowledge, skills, and abilities necessary to do the work of the position, such as: Finance or Accounting.<br>\n<br>\nOR<br>\n<br>\n<strong>Combination of Education and Experience: </strong>A combination of education and experience may be used to qualify for this position as long as the computed percentage of the requirements is at least 100%. To compute the percentage of the requirements, divide your total months of experience by 12. Then divide the total number of completed graduate semester hours (or equivalent) beyond the second year (total graduate semester hours minus 36) by 18. Add the two percentages.<br>\n<br>",
+  "title": "Financial Management Analyst",
+  "validThrough": "2026-11-06"
+}

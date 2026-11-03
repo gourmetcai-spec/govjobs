@@ -20,10 +20,11 @@ Technology: Java, Python, MATLAB, C/C++, AWS, IBM Symphony, Docker, IntexCalc, D
 FIX, Oracle, SQL Server, Snowflake, MongoDB, Spring Boot, PyTorch, JSON, VS Code, Amazon Q, Copilot, and
 harness engineering.
 PROFESSIONAL EXPERIENCE
-Freddie Mac | Director, Financial Engineering
+Freddie Mac | Director, Financial Engineering/Inv&Capital Market
 May 2014 – Present | McLean, VA
  • Lead financial engineering projects supporting STACR bond issuance and ACIS reinsurance within Freddie
- Mac’s CRT program, which protects more than $1.6 trillion in mortgage loans against credit losses.
+ Mac’s CRT (Credit Risk Transfer) program, which protects more than $1.6 trillion in mortgage loans against
+credit losses.
 • Direct development of modeling tools that combine prepayment and default models, large-scale computing
  on AWS and IBM Symphony, and Intex valuation analytics to assess bond performance and transaction
 economics, including return on committed capital.

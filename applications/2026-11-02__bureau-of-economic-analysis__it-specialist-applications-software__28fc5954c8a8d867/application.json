@@ -1,0 +1,89 @@
+{
+  "title": "IT Specialist (Applications Software)",
+  "requisition_id": "27-BEA-13098558-DE-LS",
+  "canonical_url": "https://www.usajobs.gov/job/890069100",
+  "application_url": "https://www.usajobs.gov/job/890069100",
+  "posted_date": "2026-10-23",
+  "posted_date_evidence": "Official announcement JobPosting.datePosted; corroborated by native search PositionStartDate where listed.",
+  "close_date": "2026-11-06",
+  "deadline_timezone": "America/New_York",
+  "deadline_time": "23:59",
+  "deadline_source": "https://www.usajobs.gov/job/890069100",
+  "deadline_verified": true,
+  "early_closure_conditions": [],
+  "rolling_cutoff": null,
+  "location": "Suitland, MD",
+  "remote_restrictions": "Offered DMV work location; verify telework/attendance and screening conditions in announcement.",
+  "salary": "Starting at $85,447 Per year (ZP 3)",
+  "retrieved_at": "2026-11-02T23:14:54.501767+00:00",
+  "control_number": "890069100",
+  "fit": "Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.",
+  "gaps": "Verify ETL/data-workflow experience against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them. Possible companion hiring-route announcement(s): e3a379c1106e14dd. Reconcile before submission; do not submit twice to the same vacancy.",
+  "requirements_confirmed_unmet": [],
+  "requirements_unverified": [
+    "Verify ETL/data-workflow experience against the exact qualification clause; not established by the baseline alone.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.",
+    "Possible companion hiring-route announcement(s): e3a379c1106e14dd. Reconcile before submission; do not submit twice to the same vacancy."
+  ],
+  "preferred_requirements_note": "See official qualifications/education sections; missing evidence does not establish an unmet requirement.",
+  "hiring_paths": [
+    "Open to the public",
+    "Career transition (CTAP, ICTAP, RPL)"
+  ],
+  "open_evidence": "Official announcement downloaded successfully; validThrough and native open-status evidence retained.",
+  "discovery_window": [
+    "2026-09-02",
+    "2026-11-02"
+  ],
+  "employer": "Bureau of Economic Analysis",
+  "status": "needs_verification",
+  "aliases": [],
+  "id": "28fc5954c8a8d867",
+  "application_directory": "applications/2026-11-02__bureau-of-economic-analysis__it-specialist-applications-software__28fc5954c8a8d867",
+  "step": 1,
+  "selected": false,
+  "submitted": false,
+  "artifacts": {
+    "resume_markdown": {
+      "path": "applications/2026-11-02__bureau-of-economic-analysis__it-specialist-applications-software__28fc5954c8a8d867/resume-xuewu-cai__bureau-of-economic-analysis__it-specialist-applications-software__890069100.md",
+      "sha256": "9c0c28d8a338df27e012a77a8ec8129b4356a84c2047d7929cd74aa1fc956c59"
+    },
+    "resume_pdf": {
+      "path": "applications/2026-11-02__bureau-of-economic-analysis__it-specialist-applications-software__28fc5954c8a8d867/resume-xuewu-cai__bureau-of-economic-analysis__it-specialist-applications-software__890069100.pdf",
+      "sha256": "0406c0739aa366127dc5696a3d565d8c5246e0af1a55cfdd234786e285a67136"
+    }
+  },
+  "artifact_versions": [
+    {
+      "revision_id": "2026-11-02T23:14:54.501767+00:00",
+      "artifacts": {
+        "resume_markdown": {
+          "path": "applications/2026-11-02__bureau-of-economic-analysis__it-specialist-applications-software__28fc5954c8a8d867/resume-xuewu-cai__bureau-of-economic-analysis__it-specialist-applications-software__890069100.md",
+          "sha256": "9c0c28d8a338df27e012a77a8ec8129b4356a84c2047d7929cd74aa1fc956c59"
+        },
+        "resume_pdf": {
+          "path": "applications/2026-11-02__bureau-of-economic-analysis__it-specialist-applications-software__28fc5954c8a8d867/resume-xuewu-cai__bureau-of-economic-analysis__it-specialist-applications-software__890069100.pdf",
+          "sha256": "0406c0739aa366127dc5696a3d565d8c5246e0af1a55cfdd234786e285a67136"
+        }
+      },
+      "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a"
+    }
+  ],
+  "resume_status": "prepared_with_attention",
+  "resume_review": "Text and hashes verified; all 20 baseline experience bullets preserved with updated title. Two pages rendered in PDFKit; all 113 distinct page images visually reviewed across 10 boards (238 rendered pages total). No clipping, overlap or blank pages. Neutral metadata and no AI-editing/targeting labels. Candidate facts/qualifications marked as attention items; no submission.",
+  "required_answers_pending": [
+    "Verify ETL/data-workflow experience against the exact qualification clause; not established by the baseline alone.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.",
+    "Possible companion hiring-route announcement(s): e3a379c1106e14dd. Reconcile before submission; do not submit twice to the same vacancy."
+  ],
+  "confirmed_unmet_requirements": [],
+  "qualifications_verified": false,
+  "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a",
+  "resume_format": "restored_two_page",
+  "current_resume_naming": "unversioned",
+  "possible_companion_job_ids": [
+    "e3a379c1106e14dd"
+  ],
+  "clearance_requirement": "Other",
+  "public_hiring_route_evidence": true
+}

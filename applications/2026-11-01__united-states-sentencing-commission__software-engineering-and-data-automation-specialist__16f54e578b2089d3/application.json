@@ -1,31 +1,92 @@
 {
   "employer": "United States Sentencing Commission",
-  "title": "Software Engineering and Data Automation Specialist",
+  "title": "Software Engineer and Data Automation Specialist",
   "requisition_id": "27-01",
   "location": "Washington, DC",
-  "salary": "$102,415–$187,093 per year; JS-12–14",
+  "salary": "Starting at $102,415 Per year (JS 12-14)",
   "hiring_path": "Open to the public",
-  "fit": "Java/Python, relational databases, integration, analytical platforms and data-intensive engineering overlap.",
-  "gaps": "Official posting dates unknown. Production Python applications with secure development, document/PDF parsing or OCR, ETL/ELT, automated testing/logging/monitoring/recovery and precise specialized-experience scope require evidence. Baseline Python skill listing and Java platform delivery do not establish every mandatory requirement.",
+  "fit": "Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.",
+  "gaps": "Verify document extraction/OCR experience against the exact qualification clause; not established by the baseline alone. Verify ETL/data-workflow experience against the exact qualification clause; not established by the baseline alone. Verify production ML/AI scope against the exact qualification clause; not established by the baseline alone. Verify PL/SQL experience against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.",
   "canonical_url": "https://www.usajobs.gov/job/888547100",
   "application_url": "https://www.usajobs.gov/job/888547100",
-  "posted_date": null,
-  "posted_date_evidence": "No verified official opening date in retrieved text; not treated as eligible.",
-  "retrieved_at": "2026-11-02T01:18:48.041747+00:00",
-  "remote_restrictions": "Not remote; listed DMV duty station. Telework subject to agency policy.",
+  "posted_date": "2026-10-13",
+  "posted_date_evidence": "Official announcement JobPosting.datePosted; corroborated by native search PositionStartDate where listed.",
+  "retrieved_at": "2026-11-02T23:14:54.501767+00:00",
+  "remote_restrictions": "Offered DMV work location; verify telework/attendance and screening conditions in announcement.",
   "control_number": "888547100",
   "status": "needs_verification",
   "aliases": [],
   "discovery_window": [
-    "2026-09-01",
-    "2026-11-01"
+    "2026-09-02",
+    "2026-11-02"
   ],
-  "open_evidence": "Official announcement reports Accepting applications; saved in tracking/runs/2026-11-01-federal-step1-redo/ussc-web.txt",
+  "open_evidence": "Official announcement downloaded successfully; validThrough and native open-status evidence retained.",
   "id": "16f54e578b2089d3",
   "step": 1,
   "selected": false,
   "submitted": false,
-  "artifacts": {},
-  "resume_status": "not_generated_verification_required",
-  "resume_review": "Not generated; mandatory gaps/date or hiring-path blocker."
+  "artifacts": {
+    "resume_markdown": {
+      "path": "applications/2026-11-01__united-states-sentencing-commission__software-engineering-and-data-automation-specialist__16f54e578b2089d3/resume-xuewu-cai__united-states-sentencing-commission__software-engineer-and-data-automation-specialist__888547100.md",
+      "sha256": "47d76e51b216a1f95e4d75d2af53b46eeefc891954657502e7be4c84da4d5f8d"
+    },
+    "resume_pdf": {
+      "path": "applications/2026-11-01__united-states-sentencing-commission__software-engineering-and-data-automation-specialist__16f54e578b2089d3/resume-xuewu-cai__united-states-sentencing-commission__software-engineer-and-data-automation-specialist__888547100.pdf",
+      "sha256": "51613f5965f752fbc954e237d2263ebae4d1ba3c727934bcdfde1c0c38560707"
+    }
+  },
+  "resume_status": "prepared_with_attention",
+  "resume_review": "Text and hashes verified; all 20 baseline experience bullets preserved with updated title. Two pages rendered in PDFKit; all 113 distinct page images visually reviewed across 10 boards (238 rendered pages total). No clipping, overlap or blank pages. Neutral metadata and no AI-editing/targeting labels. Candidate facts/qualifications marked as attention items; no submission.",
+  "created_at": "2026-11-02T01:18:48.573134+00:00",
+  "updated_at": "2026-11-02T01:18:48.607800+00:00",
+  "application_directory": "applications/2026-11-01__united-states-sentencing-commission__software-engineering-and-data-automation-specialist__16f54e578b2089d3",
+  "close_date": "2026-11-13",
+  "deadline_timezone": null,
+  "deadline_time": null,
+  "deadline_source": "https://www.usajobs.gov/job/888547100",
+  "deadline_verified": true,
+  "early_closure_conditions": [],
+  "rolling_cutoff": null,
+  "requirements_confirmed_unmet": [],
+  "requirements_unverified": [
+    "Verify document extraction/OCR experience against the exact qualification clause; not established by the baseline alone.",
+    "Verify ETL/data-workflow experience against the exact qualification clause; not established by the baseline alone.",
+    "Verify production ML/AI scope against the exact qualification clause; not established by the baseline alone.",
+    "Verify PL/SQL experience against the exact qualification clause; not established by the baseline alone.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "preferred_requirements_note": "See official qualifications/education sections; missing evidence does not establish an unmet requirement.",
+  "hiring_paths": [
+    "Open to the public"
+  ],
+  "artifact_versions": [
+    {
+      "revision_id": "2026-11-02T23:14:54.501767+00:00",
+      "artifacts": {
+        "resume_markdown": {
+          "path": "applications/2026-11-01__united-states-sentencing-commission__software-engineering-and-data-automation-specialist__16f54e578b2089d3/resume-xuewu-cai__united-states-sentencing-commission__software-engineer-and-data-automation-specialist__888547100.md",
+          "sha256": "47d76e51b216a1f95e4d75d2af53b46eeefc891954657502e7be4c84da4d5f8d"
+        },
+        "resume_pdf": {
+          "path": "applications/2026-11-01__united-states-sentencing-commission__software-engineering-and-data-automation-specialist__16f54e578b2089d3/resume-xuewu-cai__united-states-sentencing-commission__software-engineer-and-data-automation-specialist__888547100.pdf",
+          "sha256": "51613f5965f752fbc954e237d2263ebae4d1ba3c727934bcdfde1c0c38560707"
+        }
+      },
+      "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a"
+    }
+  ],
+  "required_answers_pending": [
+    "Verify document extraction/OCR experience against the exact qualification clause; not established by the baseline alone.",
+    "Verify ETL/data-workflow experience against the exact qualification clause; not established by the baseline alone.",
+    "Verify production ML/AI scope against the exact qualification clause; not established by the baseline alone.",
+    "Verify PL/SQL experience against the exact qualification clause; not established by the baseline alone.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "confirmed_unmet_requirements": [],
+  "qualifications_verified": false,
+  "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a",
+  "resume_format": "restored_two_page",
+  "current_resume_naming": "unversioned",
+  "clearance_requirement": "Other",
+  "public_hiring_route_evidence": true
 }

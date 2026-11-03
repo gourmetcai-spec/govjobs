@@ -5,29 +5,83 @@
   "posted_date": "2026-10-19",
   "close_date": "2026-11-05",
   "location": "Washington, DC",
-  "salary": "$85,447–$158,322 per year; GS-11–13",
-  "fit": "Financial analysis and enterprise forecasting overlap; federal appropriations/budget execution experience not established.",
-  "gaps": "GS-11 needs 3 of 4 specialized areas; GS-12 needs 4 of 5 and GS-13 5 of 6. Federal budget law interpretation, expenditure reviews/compliance and spend plans are not supported by baseline. Verify actual qualifying scope; do not equate financial forecasting with federal budget execution.",
+  "salary": "Starting at $85,447 Per year (GS 11-13)",
+  "fit": "Financial forecasting, capital/ROE, quantitative risk and engineering leadership overlap; federal budget/accounting/policy specialties remain attention items.",
+  "gaps": "Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.",
   "canonical_url": "https://www.usajobs.gov/job/889349900",
   "application_url": "https://www.usajobs.gov/job/889349900",
-  "posted_date_evidence": "Mirror October 19–November 5; official current announcement accepting applications.",
-  "retrieved_at": "2026-11-02T01:18:48.041747+00:00",
+  "posted_date_evidence": "Official announcement JobPosting.datePosted; corroborated by native search PositionStartDate where listed.",
+  "retrieved_at": "2026-11-02T23:14:54.501767+00:00",
   "status": "needs_verification",
   "aliases": [],
   "discovery_window": [
-    "2026-09-01",
-    "2026-11-01"
+    "2026-09-02",
+    "2026-11-02"
   ],
-  "remote_restrictions": "Not remote; DMV duty station offered. Confirm telework policy in official job description.",
-  "open_evidence": "Refreshed official USAJOBS page reports Accepting applications; scope and prior mandatory gaps retained. Evidence: tracking/runs/2026-11-01-federal-step1-redo/refresh-web.txt and existing0/1-web.txt.",
+  "remote_restrictions": "Offered DMV work location; verify telework/attendance and screening conditions in announcement.",
+  "open_evidence": "Official announcement downloaded successfully; validThrough and native open-status evidence retained.",
   "hiring_path": "Open to the public",
   "control_number": "889349900",
   "id": "412d3b1f8d050ddc",
   "step": 1,
   "selected": false,
   "submitted": false,
-  "artifacts": {},
-  "resume_status": "not_generated_verification_required",
-  "resume_review": "Not generated; unresolved mandatory requirements.",
-  "last_step1_refresh": "2026-11-01-federal-step1-redo"
+  "artifacts": {
+    "resume_markdown": {
+      "path": "applications/2026-11-01__architect-of-the-capitol__business-financial-analyst__412d3b1f8d050ddc/resume-xuewu-cai__architect-of-the-capitol__business-financial-analyst__889349900.md",
+      "sha256": "8ec3db1be9a16a4a609de11aed75851f0f34214fe36697f68e964bbe7c2cae47"
+    },
+    "resume_pdf": {
+      "path": "applications/2026-11-01__architect-of-the-capitol__business-financial-analyst__412d3b1f8d050ddc/resume-xuewu-cai__architect-of-the-capitol__business-financial-analyst__889349900.pdf",
+      "sha256": "7d80893c525b22dbc3a3006a15b370c47580f6e8fe4f2f075b21e57bec537677"
+    }
+  },
+  "resume_status": "prepared_with_attention",
+  "resume_review": "Text and hashes verified; all 20 baseline experience bullets preserved with updated title. Two pages rendered in PDFKit; all 113 distinct page images visually reviewed across 10 boards (238 rendered pages total). No clipping, overlap or blank pages. Neutral metadata and no AI-editing/targeting labels. Candidate facts/qualifications marked as attention items; no submission.",
+  "last_step1_refresh": "2026-11-01-federal-step1-redo",
+  "created_at": "2026-11-02T00:53:12.899217+00:00",
+  "updated_at": "2026-11-02T01:18:48.197871+00:00",
+  "application_directory": "applications/2026-11-01__architect-of-the-capitol__business-financial-analyst__412d3b1f8d050ddc",
+  "deadline_timezone": null,
+  "deadline_time": null,
+  "deadline_source": "https://www.usajobs.gov/job/889349900",
+  "deadline_verified": true,
+  "early_closure_conditions": [],
+  "rolling_cutoff": null,
+  "requirements_confirmed_unmet": [],
+  "requirements_unverified": [
+    "Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "preferred_requirements_note": "See official qualifications/education sections; missing evidence does not establish an unmet requirement.",
+  "hiring_paths": [
+    "Open to the public"
+  ],
+  "artifact_versions": [
+    {
+      "revision_id": "2026-11-02T23:14:54.501767+00:00",
+      "artifacts": {
+        "resume_markdown": {
+          "path": "applications/2026-11-01__architect-of-the-capitol__business-financial-analyst__412d3b1f8d050ddc/resume-xuewu-cai__architect-of-the-capitol__business-financial-analyst__889349900.md",
+          "sha256": "8ec3db1be9a16a4a609de11aed75851f0f34214fe36697f68e964bbe7c2cae47"
+        },
+        "resume_pdf": {
+          "path": "applications/2026-11-01__architect-of-the-capitol__business-financial-analyst__412d3b1f8d050ddc/resume-xuewu-cai__architect-of-the-capitol__business-financial-analyst__889349900.pdf",
+          "sha256": "7d80893c525b22dbc3a3006a15b370c47580f6e8fe4f2f075b21e57bec537677"
+        }
+      },
+      "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a"
+    }
+  ],
+  "required_answers_pending": [
+    "Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "confirmed_unmet_requirements": [],
+  "qualifications_verified": false,
+  "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a",
+  "resume_format": "restored_two_page",
+  "current_resume_naming": "unversioned",
+  "clearance_requirement": "Not Required",
+  "public_hiring_route_evidence": true
 }

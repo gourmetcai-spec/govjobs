@@ -3,29 +3,93 @@
   "title": "Systems Risk Analyst",
   "requisition_id": "CFTC-DMO-2027-0003",
   "location": "Washington, DC",
-  "salary": "$152,377–$223,819 per year; CT-13",
+  "salary": "Starting at $152,377 Per year (CT 13)",
   "hiring_path": "Agency clarification: applications accepted from all U.S. citizens",
-  "fit": "Trading architecture, FIX, market data, risk analytics and SEC/CFTC/OPERA reporting overlap.",
-  "gaps": "Official opening and closing dates remain unverified. Mandatory system safeguard/security-control reviews, electronic-trading compliance oversight and evaluation of emergency/backup/disaster-recovery plans are not established by the baseline. The user-designated CFTC PDF is a format reference and does not establish those additional claims.",
+  "fit": "Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.",
+  "gaps": "Verify stated security certification requirements against the exact qualification clause; not established by the baseline alone. Verify disaster-recovery evaluation experience against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.",
   "canonical_url": "https://www.usajobs.gov/job/889991400",
   "application_url": "https://www.usajobs.gov/job/889991400",
-  "posted_date": null,
-  "posted_date_evidence": "No verified official opening date in retrieved text; not treated as eligible.",
-  "retrieved_at": "2026-11-02T01:18:48.041747+00:00",
-  "remote_restrictions": "Not remote; listed DMV duty station. Telework subject to agency policy.",
+  "posted_date": "2026-10-23",
+  "posted_date_evidence": "Official announcement JobPosting.datePosted; corroborated by native search PositionStartDate where listed.",
+  "retrieved_at": "2026-11-02T23:14:54.501767+00:00",
+  "remote_restrictions": "Offered DMV work location; verify telework/attendance and screening conditions in announcement.",
   "control_number": "889991400",
   "status": "needs_verification",
   "aliases": [],
   "discovery_window": [
-    "2026-09-01",
-    "2026-11-01"
+    "2026-09-02",
+    "2026-11-02"
   ],
-  "open_evidence": "Official announcement reports Accepting applications; saved in tracking/runs/2026-11-01-federal-step1-redo/cftc-web.txt",
+  "open_evidence": "Official announcement downloaded successfully; validThrough and native open-status evidence retained.",
   "id": "f720af72449c48a0",
   "step": 1,
   "selected": false,
   "submitted": false,
-  "artifacts": {},
-  "resume_status": "not_generated_verification_required",
-  "resume_review": "Not generated; mandatory gaps/date or hiring-path blocker."
+  "artifacts": {
+    "resume_markdown": {
+      "path": "applications/2026-11-01__commodity-futures-trading-commission__systems-risk-analyst__f720af72449c48a0/resume-xuewu-cai__commodity-futures-trading-commission__systems-risk-analyst__889991400.md",
+      "sha256": "c5960e6015e3c7e8e06b1a54adb7e7b23e93e0018718f5e38b003e149bc46f1e"
+    },
+    "resume_pdf": {
+      "path": "applications/2026-11-01__commodity-futures-trading-commission__systems-risk-analyst__f720af72449c48a0/resume-xuewu-cai__commodity-futures-trading-commission__systems-risk-analyst__889991400.pdf",
+      "sha256": "db247d1f3bb93299febae52822f36bfd2cdbaaabff7165d74075ad0b0d695421"
+    }
+  },
+  "resume_status": "prepared_with_attention",
+  "resume_review": "Text and hashes verified; all 20 baseline experience bullets preserved with updated title. Two pages rendered in PDFKit; all 113 distinct page images visually reviewed across 10 boards (238 rendered pages total). No clipping, overlap or blank pages. Neutral metadata and no AI-editing/targeting labels. Candidate facts/qualifications marked as attention items; no submission.",
+  "created_at": "2026-11-02T01:18:48.505205+00:00",
+  "updated_at": "2026-11-02T01:18:48.539406+00:00",
+  "application_directory": "applications/2026-11-01__commodity-futures-trading-commission__systems-risk-analyst__f720af72449c48a0",
+  "close_date": "2026-12-21",
+  "deadline_timezone": "America/New_York",
+  "deadline_time": "23:59",
+  "deadline_source": "https://www.usajobs.gov/job/889991400",
+  "deadline_verified": true,
+  "early_closure_conditions": [],
+  "rolling_cutoff": null,
+  "requirements_confirmed_unmet": [],
+  "requirements_unverified": [
+    "Verify stated security certification requirements against the exact qualification clause; not established by the baseline alone.",
+    "Verify disaster-recovery evaluation experience against the exact qualification clause; not established by the baseline alone.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "preferred_requirements_note": "See official qualifications/education sections; missing evidence does not establish an unmet requirement.",
+  "hiring_paths": [
+    "Competitive service",
+    "Career transition (CTAP, ICTAP, RPL)",
+    "Land and base management",
+    "Veterans",
+    "Military spouses",
+    "Individuals with disabilities",
+    "Peace Corps & AmeriCorps Vista",
+    "Special authorities"
+  ],
+  "artifact_versions": [
+    {
+      "revision_id": "2026-11-02T23:14:54.501767+00:00",
+      "artifacts": {
+        "resume_markdown": {
+          "path": "applications/2026-11-01__commodity-futures-trading-commission__systems-risk-analyst__f720af72449c48a0/resume-xuewu-cai__commodity-futures-trading-commission__systems-risk-analyst__889991400.md",
+          "sha256": "c5960e6015e3c7e8e06b1a54adb7e7b23e93e0018718f5e38b003e149bc46f1e"
+        },
+        "resume_pdf": {
+          "path": "applications/2026-11-01__commodity-futures-trading-commission__systems-risk-analyst__f720af72449c48a0/resume-xuewu-cai__commodity-futures-trading-commission__systems-risk-analyst__889991400.pdf",
+          "sha256": "db247d1f3bb93299febae52822f36bfd2cdbaaabff7165d74075ad0b0d695421"
+        }
+      },
+      "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a"
+    }
+  ],
+  "required_answers_pending": [
+    "Verify stated security certification requirements against the exact qualification clause; not established by the baseline alone.",
+    "Verify disaster-recovery evaluation experience against the exact qualification clause; not established by the baseline alone.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "confirmed_unmet_requirements": [],
+  "qualifications_verified": false,
+  "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a",
+  "resume_format": "restored_two_page",
+  "current_resume_naming": "unversioned",
+  "clearance_requirement": "Not Required",
+  "public_hiring_route_evidence": true
 }

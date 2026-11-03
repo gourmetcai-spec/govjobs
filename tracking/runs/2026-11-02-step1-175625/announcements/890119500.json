@@ -1,0 +1,32 @@
+{
+  "@context": "http://www.schema.org",
+  "@type": "JobPosting",
+  "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": {
+      "@type": "QuantitativeValue",
+      "value": 85447.0,
+      "unitText": "YEAR"
+    }
+  },
+  "datePosted": "10/27/2026",
+  "description": "You will serve as a FINANCIAL MANAGEMENT ANALYST in the PEO & HQ PROJECT SUPPORT DIV, BUSINESS & FINANCIAL OPERATIONS DEPT of NAVAIRWARCENAC DIV.",
+  "educationRequirements": "In lieu of specialized experience, you may qualify with the following education or combination of both education and experience:\n<p>Ph.D. or equivalent doctoral degree</p>\n\n<p><em>or</em></p>\n3 full years of progressively higher level graduate education leading to such a degree\n\n<p><em>or</em></p>\nLL.M., if related<br>\n<br>\nA transcript must be submitted with your application if qualifying using education. See Required Documents for additional information.",
+  "employmentType": "OTHER",
+  "hiringOrganization": "NAVAIRWARCENAC DIV",
+  "jobLocation": [
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Patuxent River",
+        "addressRegion": "MD "
+      }
+    }
+  ],
+  "responsibilities": "",
+  "qualifications": "Your resume must demonstrate at least one year of specialized experience at or equivalent to the DA-03 pay band in the Federal service or equivalent experience in the private or public sector.  Specialized experience must demonstrate duties related to the following: 1) Utilizing enterprise resource planning (ERP) financial management systems to extract data, resolve system discrepancies, and safeguard data integrity; 2) Managing, allocating, and monitoring financial resources in compliance with governance standards, established policies, and internal control frameworks; 3) Applying regulatory standards, fiscal guidelines, and standard accounting principles to complex financial management operations; 4) Analyzing budget and program financial data using enterprise reporting systems, cost-benefit analyses, and key performance metrics to formulate actionable recommendations; and 5) Preparing, reviewing, and reconciling comprehensive financial statements and management reports to satisfy governance requirements and guide strategic leadership decisions.<br>\n<br>\nAdditional qualification information can be found from the following Office of Personnel Management web site: <a href=\"https://www.opm.gov/policy-data-oversight/classification-qualifications/general-schedule-qualification-standards/#url=List-by-Occupational-Series\">https://www.opm.gov/policy-data-oversight/classification-qualifications/general-schedule-qualification-standards/#url=List-by-Occupational-Series</a><br>\n<br>\nExperience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., professional, philanthropic, religious, spiritual, community, student, social). Volunteer work helps build critical competencies, knowledge, and skills and can provide valuable training and experience that translates directly to paid employment.",
+  "title": "FINANCIAL MANAGEMENT ANALYST",
+  "validThrough": "2026-11-02"
+}

@@ -1,0 +1,1023 @@
+# FINANCIAL MANAGEMENT ANALYST
+
+{
+  "title": "FINANCIAL MANAGEMENT ANALYST",
+  "requisition_id": "DHA-13100271-26-SF",
+  "canonical_url": "https://www.usajobs.gov/job/891088400",
+  "application_url": "https://www.usajobs.gov/job/891088400",
+  "posted_date": "2026-11-02",
+  "posted_date_evidence": "Official announcement JobPosting.datePosted; corroborated by native search PositionStartDate where listed.",
+  "close_date": "2026-11-06",
+  "deadline_timezone": "America/New_York",
+  "deadline_time": "23:59",
+  "deadline_source": "https://www.usajobs.gov/job/891088400",
+  "deadline_verified": true,
+  "early_closure_conditions": [
+    "This job will close when we have received 100 applications which may be sooner than the closing date. Learn more"
+  ],
+  "rolling_cutoff": null,
+  "location": "Alexandria, VA",
+  "remote_restrictions": "Offered DMV work location; verify telework/attendance and screening conditions in announcement.",
+  "salary": "Starting at $57,736 Per year (GS 7-11)",
+  "retrieved_at": "2026-11-02T23:14:54.501767+00:00",
+  "control_number": "891088400",
+  "fit": "Financial forecasting, capital/ROE, quantitative risk and engineering leadership overlap; federal budget/accounting/policy specialties remain attention items.",
+  "gaps": "Verify OMB/federal budget procedures against the exact qualification clause; not established by the baseline alone. Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.",
+  "requirements_confirmed_unmet": [],
+  "requirements_unverified": [
+    "Verify OMB/federal budget procedures against the exact qualification clause; not established by the baseline alone.",
+    "Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "preferred_requirements_note": "See official qualifications/education sections; missing evidence does not establish an unmet requirement.",
+  "hiring_paths": [
+    "Open to the public"
+  ],
+  "open_evidence": "Official announcement downloaded successfully; validThrough and native open-status evidence retained.",
+  "discovery_window": [
+    "2026-09-02",
+    "2026-11-02"
+  ]
+}
+
+## Summary
+
+This position is located in the Washington Headquarters Services (WHS), Financial Management Directorate, Accounting Division. This division is responsible for providing financial reporting for allocations.. The Accounting Division performs field level accounting; financial management and reporting to Support CFO financial statements; and managerial accounting and reporting.
+
+## Duties
+
+This is a Direct Hire Public Notice, under this recruitment, applications will be accepted for each location and/or installation identified in this Public Notice and selections are made for vacancies as they occur. There may or may not be actual/projected vacancies at the time you submit your application.
+This Public Notice is to gather applications which may or may not result in a referral or selection.
+This position is being filled under Direct Hire Authority (DHA) in accordance with Section 5 U.S.C. 9905, as amended by P.L. 116-92, SEC 1109, further amended by P.L. 116-283, SEC 1117 and further amended by P.L.118-31, SEC 1104 and SEC 1250B.
+Please read this Public Notice in its entirety prior to submitting your application for consideration.
+Please read this Public Notice in its entirety prior to submitting your application for consideration.
+Incumbents typical work assignments may include the following:
+Analyzes and evaluates financial data and reports.
+Resolves complex financial management issues for WHS and WHS supported organizations.
+Analyzes and reconciles all accounts maintained for OSD, WHS, and other DoW agencies, identifying problem areas.
+Makes appropriate entries in the accounting systems and other financial systems to resolve issues.
+Serves as a point of contact for WHS used financial systems, which involves coordination with DFAS, DLA, and other organizations as needed.
+Provides full range of financial functions for accounting data for prior and current fiscal years.
+Train customers, responds to data calls and requests from customers, and works to identify accounting or system errors.
+Contacts reporting components as needed to obtain explanation of unusual deviations and variations in reporting data, particularly expenditures which must be reconciled to the Fund Balance with Treasury at the transaction level.
+
+## Qualifications
+
+In order to qualify for this position, you must meet the requirements described below.
+You may qualify at the GS-07 level, if you fulfill the following qualification requirement:
+One year of specialized experience equivalent to the GS-05 grade level in the Federal service (experience may have been gained in the private sector) that demonstrates your ability to: 1) Analyzing discrepancies between financial systems and funding authorities, commitments, obligations and disbursements; 2) Providing advice, assistance and analysis related to accounting and financial management; and 3) Applying financial, budgetary, and procurement procedures related to acquisition or finance programs.
+OR
+One full year of graduate level education or Superior Academic Achievement
+(Note: You must attach a copy of your transcripts for verification).
+OR
+Combination of education and experience
+You may qualify at the GS-09 level, if you fulfill the following qualification requirement:
+One year of specialized experience equivalent to the GS-07 grade level in the Federal service (experience may have been gained in the private sector) that demonstrates your ability to:1.) Providing advice, assistance and analysis related to accounting and financial management; 2) Applying financial budgetary, and procurement procedures related to acquisition or finance programs; and 3) Analyzing accounting transaction histories using automated financial systems to identify erroneous or questionable accounting entries.
+OR
+Master's or equivalent graduate degree or 2 years of progressively higher-level graduate education leading to a master's degree or LL.B. or J.D.
+(Note: You must attach a copy of your transcripts for verification).
+OR
+Combination of education and experience
+You may qualify at the GS-11 level, if you fulfill the following qualification requirement:
+One year of specialized experience equivalent to the GS-11 grade level in the Federal service (experience may have been gained in the private sector) that demonstrates your ability to: 1) Analyzing discrepancies between financial systems and funding authorities, commitments, obligations and disbursements; 2) Providing advice, assistance and analysis related to accounting and financial management and 3) Applying financial, budgetary and procurement procedures related tl financial programs.
+OR
+Ph.D. or equivalent doctoral degree or 3 full years of progressively higher-level graduate education leading to such a degree or LL.M, if related
+(Note: You must attach a copy of your transcripts for verification).
+OR
+Combination of education and experience
+FM Certification Requirement: In accordance with Department of Defense (DoD) Instruction 1300.26, "Operation of the DoD Financial Management Certification Program (DFMCP)," this position requires a Level 2 Certification under the DoD Financial Management (FM) Certification Program. If the incumbent is not already assigned this certification at this level, the incumbent of this position must obtain this certification within two (2) years of entry on duty into this FM position. Once certified, the incumbent must meet the continuing education training requirement as outlined in DoDI 1300.26. FM workforce members may also present and maintain one of the following five professional certifications to meet any of the three DFMCP certification levels: (1) Certified Defense Financial Manager (CDFM) (Continuing education required: 80 hours every 2 years); (2) Certified Government Financial Manager (CGFM) Continuing education required: 80 hours every 2 years; (3) Certified Information Systems Auditor (CISA) Continuing education required: 120 hours every 3 years; (4) Certified Management Accountant (CMA) Continuing education required: 30 hours every year; (5) Certified Public Accountant (CPA) Continuing education required: 120 hours every 3 years. To satisfy the DFMCP certification requirement using one of the five professional certifications listed above, FM workforce members must be in an active and current status.
+Experience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., Peace Corps, AmeriCorps) and other organizations (e.g., professional; philanthropic; religious; spiritual; community, student, social). You will receive credit for all qualifying experience, including volunteer experience.
+All qualifications and education requirements must be met by the closing date of this announcement and clearly documented in your resume.
+Your resume may not exceed two (2) pages. For qualifications determinations, it is recommended that applicants include their months and hours worked per week for each employment listed on their resume. If a determination is not able to be made about the duration of your creditable experience for qualification requirements, you will be removed from consideration.
+Read more about what should I include in my federal resume at https://help.usajobs.gov/faq/application/documents/resume/what-to-include
+ACTIVE DUTY SERVICE MEMBERS: Federal agencies treat active duty service member as veterans, disabled veterans, and preference eligible, when they submit, as part of their application package, a "certification" of active service in lieu of a DD-214, indicating the service member is otherwise eligible and will be discharged or released within 120 days from the date of submission.. A "certification" letter should be on letterhead of the appropriate military branch of the service and contain (1) the military service dates including the expected discharge or release date; and (2) the character of service. This "certification" must include your rank, dates of active duty service, type of discharge and character of service (i.e. honorable), and date any terminal leave will begin. It must be signed by, or by direction of, the adjutant, personnel officer, or commander of your unit or higher headquarters. Active duty members that fail to provide a valid "certification" of service with their initial application will be found "not eligible". Members may be appointed before the effective date of their military retirement/separation if they are on terminal leave.
+
+## Education
+
+Qualifying Based on Education:
+GS-07: One full year of graduate level education or Superior Academic Achievement (Grade point average of 3.0 or higher on a 4.0 scale or class standing in the upper third of the graduating class or major subdivision) or membership in a national scholastic honor society may be substituted to meet the specialized experience requirement. (NOTE: You must submit a copy of your transcript.)
+GS-09: Master's or equivalent graduate degree or 2 years of progressively higher-level graduate education leading to a master's degree or LL.B. or J.D. which demonstrates the knowledge, skills, and abilities necessary to do the work of the position. (NOTE: You must submit a copy of your transcript.)
+GS-11: Have a Ph.D. or equivalent doctoral degree; OR 3 years of progressively higher-level graduate education leading to such a degree in a which demonstrates the knowledge, skills, and abilities necessary to do the work of the position. (NOTE: You must submit a copy of your transcript.)
+ARE YOU QUALIFYING BASED ON EDUCATION or A COMBINATION OF EDUCATION AND EXPERIENCE?
+You must provide sufficient documentation of your education in your resume. You MUST provide a copy of official or unofficial transcripts or degrees in your application package. It may also be acceptable to document your applicable course listing in your resume (course number, credits earned, etc.). Education must be accredited by an accrediting institution recognized by the U.S. Department of Education in order for it to be credited towards qualifications. Therefore, provide only the attendance and/or degrees from schools accredited by accrediting institutions recognized by the U.S. Department of Education. Applicants can verify accreditation at the following website: http://www.ed.gov/admins/finaid/accred/index.html. All education claimed by applicants will be verified by the appointing agency. If selected, an official/sealed transcript will be required prior to appointment.
+PASS/FAIL COURSES: If more than 10 percent of your undergraduate course work (credit hours) were taken on a pass/fail basis, your claim of superior academic achievement must be based upon class standing or membership in an honor society.
+GRADUATE EDUCATION: One academic year of graduate education is considered to be the number of credits hours your graduate school has determined to represent one academic year of full-time study. Such study may have been performed on a full-time or part-time basis. If you cannot obtain your graduate school's definition of one year of graduate study, 18 semester hours (or 27 quarter hours) should be considered as satisfying the requirement for one year of full-time graduate study
+FOREIGN EDUCATION: If you are using education completed in foreign colleges or universities to meet the qualification requirements, you must show the education credentials have been evaluated by a private organization that specializes in interpretation of foreign education programs and such education has been deemed equivalent to that gained in an accredited U.S. education program; or full credit has been given for the courses at a U.S. accredited college or university. For further information, visit: https://www2.ed.gov/about/offices/list/ous/international/usnei/us/edlite-visitus-forrecog.html
+
+## Full rendered official announcement
+
+USAJOBS - Job Announcement
+
+ Skip to main content
+
+ An official website of the United States government
+
+Official websites use .gov
+
+A .gov website belongs to an official government organization in the United States.
+
+Secure .gov websites use HTTPS
+ A lock ( LockA locked padlock ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.
+
+ MENU
+
+ Sign in
+
+ My jobs
+
+ Profile
+
+ Resumes & documents
+
+ Notifications
+
+ Talent networks
+
+ Sign out
+
+ My jobs
+
+ Profile
+
+ Resumes & documents
+
+ Notifications
+
+ Talent networks
+
+ Sign out
+
+ Events
+
+ Help Center
+
+ Search
+
+ Back to results
+
+ Apply
+
+ FINANCIAL MANAGEMENT ANALYST
+
+Department of Defense
+
+Washington Headquarters Services
+
+Apply
+
+ Print
+
+ Share
+
+ Save
+
+ Summary
+
+ This job is open to
+
+ Duties
+
+ Requirements
+
+ How you will be evaluated
+
+ Required documents
+
+ How to apply
+
+Summary
+
+This position is located in the Washington Headquarters Services (WHS), Financial Management Directorate, Accounting Division. This division is responsible for providing financial reporting for allocations.. The Accounting Division performs field level accounting; financial management and reporting to Support CFO financial statements; and managerial accounting and reporting.
+
+ Learn more about this agency
+
+Summary
+
+This position is located in the Washington Headquarters Services (WHS), Financial Management Directorate, Accounting Division. This division is responsible for providing financial reporting for allocations.. The Accounting Division performs field level accounting; financial management and reporting to Support CFO financial statements; and managerial accounting and reporting.
+
+ Learn more about this agency
+
+Overview
+
+ Help
+
+Accepting applications
+
+This job will close when we have received 100 applications which may be sooner than the closing date. Learn more
+
+Location
+
+1 vacancy in the following location:
+
+ Alexandria, VA
+
+ No matching locations found.
+
+Work site options
+
+Telework eligible
+
+Yes—as determined by the agency policy.
+
+Remote job
+
+No
+
+Relocation expenses reimbursed
+
+ No
+
+Salary
+
+ $57,736 - $75,059 per year
+
+Pay scale & grade
+
+GS 7 - 11
+
+Promotion potential
+
+11
+
+ Learn more about pay scale and grade
+
+ Pay scale and grade determines the salary of the job.
+
+Work schedule
+
+Full-time
+
+Travel Required
+
+Occasional travel - You may be expected to travel for this position.
+
+Appointment type
+
+Permanent
+
+Occupations and job series
+
+ 0501 Financial Administration And Program
+
+Supervisory status
+
+No
+
+Federal service type
+
+This job is in the Competitive Service
+
+Represented by a union
+
+No
+
+Drug test
+
+Yes
+
+Security clearance
+
+Secret
+
+Position sensitivity and risk
+
+Noncritical-Sensitive (NCS)/Moderate Risk
+
+ Jobs require a
+ background check and some require a
+ security clearance. The type depends on the job.
+
+Background check type
+
+ Suitability/Fitness
+
+ National security
+
+Financial disclosure required
+
+No
+
+ Some jobs require
+ financial disclosure to identify conflicts of interests.
+
+Announcement number
+
+DHA-13100271-26-SF
+
+Control number
+
+891088400
+
+This job is open to
+
+ Help
+
+The public
+
+ U.S. Citizens, Nationals or those who owe allegiance to the U.S.
+
+Clarification from the agency
+
+Direct Hire Authority
+
+Duties
+
+ Help
+
+ This is a Direct Hire Public Notice, under this recruitment, applications will be accepted for each location and/or installation identified in this Public Notice and selections are made for vacancies as they occur. There may or may not be actual/projected vacancies at the time you submit your application.
+
+This Public Notice is to gather applications which may or may not result in a referral or selection.
+
+This position is being filled under Direct Hire Authority (DHA) in accordance with Section 5 U.S.C. 9905, as amended by P.L. 116-92, SEC 1109, further amended by P.L. 116-283, SEC 1117 and further amended by P.L.118-31, SEC 1104 and SEC 1250B.
+
+Please read this Public Notice in its entirety prior to submitting your application for consideration.
+
+Please read this Public Notice in its entirety prior to submitting your application for consideration.
+
+Incumbents typical work assignments may include the following:
+
+Analyzes and evaluates financial data and reports.
+
+Resolves complex financial management issues for WHS and WHS supported organizations.
+
+Analyzes and reconciles all accounts maintained for OSD, WHS, and other DoW agencies, identifying problem areas.
+
+Makes appropriate entries in the accounting systems and other financial systems to resolve issues.
+
+Serves as a point of contact for WHS used financial systems, which involves coordination with DFAS, DLA, and other organizations as needed.
+
+Provides full range of financial functions for accounting data for prior and current fiscal years.
+
+Train customers, responds to data calls and requests from customers, and works to identify accounting or system errors.
+
+Contacts reporting components as needed to obtain explanation of unusual deviations and variations in reporting data, particularly expenditures which must be reconciled to the Fund Balance with Treasury at the transaction level.
+
+Requirements
+
+ Help
+
+Conditions of employment
+
+U.S. Citizenship is required
+
+Males born after 12-31-59 must be registered or exempt from Selective Service (see https://www.sss.gov/Home/Registration)
+
+Total salary varies depending on location of position
+
+May be required to successfully complete a probationary/trial period
+
+Must be determined suitable for federal employment
+
+Required to participate in the direct deposit program
+
+This position is subject to pre-employment and random drug testing
+
+This position is designated as a Testing Designated Position (TDP) under the civilian drug-testing program.
+
+The employee must be able to obtain and maintain appropriate Secret security clearance.
+
+The employee may be required to work other than normal duty hours, which may include evenings, weekends, and or holidays and/or overtime.
+
+Work may require occasional travel up to 10% away from the normal duty station on military or commercial aircraft.
+
+This position requires a Level 2 Certification under the DoW Financial Management (FM) Certification Program.
+
+Qualifications
+
+ In order to qualify for this position, you must meet the requirements described below.
+
+You may qualify at the GS-07 level, if you fulfill the following qualification requirement:
+
+One year of specialized experience equivalent to the GS-05 grade level in the Federal service (experience may have been gained in the private sector) that demonstrates your ability to: 1) Analyzing discrepancies between financial systems and funding authorities, commitments, obligations and disbursements; 2) Providing advice, assistance and analysis related to accounting and financial management; and 3) Applying financial, budgetary, and procurement procedures related to acquisition or finance programs.
+
+OR
+
+One full year of graduate level education or Superior Academic Achievement
+
+(Note: You must attach a copy of your transcripts for verification).
+
+OR
+
+Combination of education and experience
+
+You may qualify at the GS-09 level, if you fulfill the following qualification requirement:
+
+One year of specialized experience equivalent to the GS-07 grade level in the Federal service (experience may have been gained in the private sector) that demonstrates your ability to:1.) Providing advice, assistance and analysis related to accounting and financial management; 2) Applying financial budgetary, and procurement procedures related to acquisition or finance programs; and 3) Analyzing accounting transaction histories using automated financial systems to identify erroneous or questionable accounting entries.
+
+OR
+
+Master's or equivalent graduate degree or 2 years of progressively higher-level graduate education leading to a master's degree or LL.B. or J.D.
+
+(Note: You must attach a copy of your transcripts for verification).
+
+OR
+
+Combination of education and experience
+
+You may qualify at the GS-11 level, if you fulfill the following qualification requirement:
+
+One year of specialized experience equivalent to the GS-11 grade level in the Federal service (experience may have been gained in the private sector) that demonstrates your ability to: 1) Analyzing discrepancies between financial systems and funding authorities, commitments, obligations and disbursements; 2) Providing advice, assistance and analysis related to accounting and financial management and 3) Applying financial, budgetary and procurement procedures related tl financial programs.
+
+OR
+
+Ph.D. or equivalent doctoral degree or 3 full years of progressively higher-level graduate education leading to such a degree or LL.M, if related
+
+(Note: You must attach a copy of your transcripts for verification).
+
+OR
+
+Combination of education and experience
+
+FM Certification Requirement: In accordance with Department of Defense (DoD) Instruction 1300.26, "Operation of the DoD Financial Management Certification Program (DFMCP)," this position requires a Level 2 Certification under the DoD Financial Management (FM) Certification Program. If the incumbent is not already assigned this certification at this level, the incumbent of this position must obtain this certification within two (2) years of entry on duty into this FM position. Once certified, the incumbent must meet the continuing education training requirement as outlined in DoDI 1300.26. FM workforce members may also present and maintain one of the following five professional certifications to meet any of the three DFMCP certification levels: (1) Certified Defense Financial Manager (CDFM) (Continuing education required: 80 hours every 2 years); (2) Certified Government Financial Manager (CGFM) Continuing education required: 80 hours every 2 years; (3) Certified Information Systems Auditor (CISA) Continuing education required: 120 hours every 3 years; (4) Certified Management Accountant (CMA) Continuing education required: 30 hours every year; (5) Certified Public Accountant (CPA) Continuing education required: 120 hours every 3 years. To satisfy the DFMCP certification requirement using one of the five professional certifications listed above, FM workforce members must be in an active and current status.
+
+Experience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., Peace Corps, AmeriCorps) and other organizations (e.g., professional; philanthropic; religious; spiritual; community, student, social). You will receive credit for all qualifying experience, including volunteer experience.
+
+All qualifications and education requirements must be met by the closing date of this announcement and clearly documented in your resume.
+
+Your resume may not exceed two (2) pages. For qualifications determinations, it is recommended that applicants include their months and hours worked per week for each employment listed on their resume. If a determination is not able to be made about the duration of your creditable experience for qualification requirements, you will be removed from consideration.
+
+Read more about what should I include in my federal resume at https://help.usajobs.gov/faq/application/documents/resume/what-to-include
+
+ACTIVE DUTY SERVICE MEMBERS: Federal agencies treat active duty service member as veterans, disabled veterans, and preference eligible, when they submit, as part of their application package, a "certification" of active service in lieu of a DD-214, indicating the service member is otherwise eligible and will be discharged or released within 120 days from the date of submission.. A "certification" letter should be on letterhead of the appropriate military branch of the service and contain (1) the military service dates including the expected discharge or release date; and (2) the character of service. This "certification" must include your rank, dates of active duty service, type of discharge and character of service (i.e. honorable), and date any terminal leave will begin. It must be signed by, or by direction of, the adjutant, personnel officer, or commander of your unit or higher headquarters. Active duty members that fail to provide a valid "certification" of service with their initial application will be found "not eligible". Members may be appointed before the effective date of their military retirement/separation if they are on terminal leave.
+
+Education
+
+ Qualifying Based on Education:
+
+GS-07: One full year of graduate level education or Superior Academic Achievement (Grade point average of 3.0 or higher on a 4.0 scale or class standing in the upper third of the graduating class or major subdivision) or membership in a national scholastic honor society may be substituted to meet the specialized experience requirement. (NOTE: You must submit a copy of your transcript.)
+
+GS-09: Master's or equivalent graduate degree or 2 years of progressively higher-level graduate education leading to a master's degree or LL.B. or J.D. which demonstrates the knowledge, skills, and abilities necessary to do the work of the position. (NOTE: You must submit a copy of your transcript.)
+
+GS-11: Have a Ph.D. or equivalent doctoral degree; OR 3 years of progressively higher-level graduate education leading to such a degree in a which demonstrates the knowledge, skills, and abilities necessary to do the work of the position. (NOTE: You must submit a copy of your transcript.)
+
+ARE YOU QUALIFYING BASED ON EDUCATION or A COMBINATION OF EDUCATION AND EXPERIENCE?
+
+You must provide sufficient documentation of your education in your resume. You MUST provide a copy of official or unofficial transcripts or degrees in your application package. It may also be acceptable to document your applicable course listing in your resume (course number, credits earned, etc.). Education must be accredited by an accrediting institution recognized by the U.S. Department of Education in order for it to be credited towards qualifications. Therefore, provide only the attendance and/or degrees from schools accredited by accrediting institutions recognized by the U.S. Department of Education. Applicants can verify accreditation at the following website: http://www.ed.gov/admins/finaid/accred/index.html. All education claimed by applicants will be verified by the appointing agency. If selected, an official/sealed transcript will be required prior to appointment.
+
+PASS/FAIL COURSES: If more than 10 percent of your undergraduate course work (credit hours) were taken on a pass/fail basis, your claim of superior academic achievement must be based upon class standing or membership in an honor society.
+
+GRADUATE EDUCATION: One academic year of graduate education is considered to be the number of credits hours your graduate school has determined to represent one academic year of full-time study. Such study may have been performed on a full-time or part-time basis. If you cannot obtain your graduate school's definition of one year of graduate study, 18 semester hours (or 27 quarter hours) should be considered as satisfying the requirement for one year of full-time graduate study
+
+FOREIGN EDUCATION: If you are using education completed in foreign colleges or universities to meet the qualification requirements, you must show the education credentials have been evaluated by a private organization that specializes in interpretation of foreign education programs and such education has been deemed equivalent to that gained in an accredited U.S. education program; or full credit has been given for the courses at a U.S. accredited college or university. For further information, visit: https://www2.ed.gov/about/offices/list/ous/international/usnei/us/edlite-visitus-forrecog.html
+
+Additional information
+
+Probationary Periods: As a condition of employment for accepting this position, you will be required to serve a 1-year probationary period during which we will evaluate your fitness and whether your continued employment advances the public interest. In determining if your employment advances the public interest, we may consider:
+
+- your performance and conduct;
+
+- the needs and interests of the agency;
+
+- whether your continued employment would advance organizational goals of the agency or the Government; and
+
+- whether your continued employment would advance the efficiency of the Federal service.
+
+Upon completion of your probationary period your employment will be terminated unless you receive certification, in writing, that your continued employment advances the public interest.
+
+Reasonable Accommodation (RA) Requests: If you believe you have a disability (i.e., physical or mental), covered by the Rehabilitation Act of 1973 as amended that would interfere with completing an online application, you may request an alternative application. Please send an email to the following address for information on how to obtain an alternative application: whs.job.application.assistance@mail.mil
+
+Reemployed Annuitants: Applicants in receipt of an annuity based on civilian employment in the Federal Service are subject to the DoD Policy on The Employment of Annuitants. /www.esd.whs.mil/DD/DoD-Issuances/140025/
+
+Current or Former Political Appointees: Agencies must seek prior approval from OPM before they can appoint a current or recent political appointee to a competitive or non-political excepted service position at any level. If you are currently or have been within the last 5 years, a political Schedule A, Schedule C, or Non-career SES employee in the executive branch, you MUST disclose that to the Human Resources Office.
+
+Nepotism: Under the provisions of 5 USC 3110, an individual may not be appointed into a position if the position is under the supervisory chain of command of a relative.
+
+Additional vacancies may be filled by this announcement.
+
+ Expand Hide  additional information
+
+Candidates should be committed to improving the efficiency of the Federal government, passionate about the ideals of our American republic, and committed to upholding the rule of law and the United States Constitution.
+
+Benefits
+
+ Help
+
+ A career with the U.S. government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding. Opens in a new windowLearn more about federal benefits.
+
+ Review our benefits
+
+Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time or intermittent. Contact the hiring agency for more information on the specific benefits offered.
+
+How you will be evaluated
+
+You will be evaluated for this job based on how well you meet the qualifications above.
+
+ Note: Under this DHA, veteran's preference does not apply.
+
+Your application (resumes and supporting documentation) will be evaluated to determine if you meet the minimum qualifications required as listed in this announcement. Qualified candidates should demonstrate the following competencies (knowledge, skills, abilities, and other characteristics) in their resume:
+
+DOD PPP candidates using Application-Based Procedures:
+
+Military Spouse Preference (MSP) Eligible: Military Spouse Preference applicants, must be selected and placed at the highest grade level for which they have applied and been determined best qualified. You must include a completed copy of the Military Spouse PPP Self-Certification Checklist (DD-3145-4) dated within 30 days along with the documents identified on the checklist to verify your eligibility for Military Spouse Preference.
+
+Military Reserve (MR) and National Guard (NG) Technicians PPP Eligible: MR and NG technicians PPP applicants must be selected and placed at the full performance level if determined well qualified. You must include a completed copy of the Military Reserve and National Guard Technician PPP Self-Certification Checklist (DD-3145-3) to verify your eligibility for Military Reserve and National Guard Technician preference.
+
+Military Reserve (MR) and National Guard (NG) Technicians Receiving Disability Retirement PPP Eligible: MR and NG technicians receiving disability retirement PPP applicants must be selected and placed at the full performance level if determined well qualified. You must include a completed copy of the Military Reserve and National Guard Technician Disability PPP Self-Certification Checklist (DD-3145-2) to verify your eligibility for Military Reserve and National Guard Technician Disability preference.
+
+Retained Grade PPP Eligible: Retained Grade PPP applicants, must be selected and placed at the full performance level if determined well qualified. You must include a completed copy of the Retained Grade PPP Self-Certification Checklist (DD-3145-1) to verify your eligibility for Retained Grade preference.
+
+Benefits
+
+ Help
+
+ A career with the U.S. government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding. Opens in a new windowLearn more about federal benefits.
+
+ Review our benefits
+
+Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time or intermittent. Contact the hiring agency for more information on the specific benefits offered.
+
+Required documents
+
+Required Documents
+
+ Help
+
+ YOU ARE REQUIRED TO DOCUMENT IN YOUR APPLICATION PACKAGE EVIDENCE THAT SUPPORTS YOUR ELIGIBILITY AND QUALIFICATION CLAIMS. You MUST upload the applicable documents with your application package. If you fail to provide these documents, you will be marked as having an incomplete application package and you will not be considered any further.
+
+1. All applicants are required to submit a resume limited to two (2) pages showing all relevant experience. Your resume must address your technical qualifications for the position, hours worked per week and the dates of employment for each position (hours per week and month/year to month/year to present) and it may not exceed two (2) pages. Your 2-page (or less) resume must be in PDF format, with no smaller than a 0.5" margin and no smaller than a 10-point font. If you submit a resume that exceeds the two-page limit and/or does not meet the margin or font limitations stated herein, you will immediately be deemed ineligible for this position and will receive no further consideration.
+
+If you submit more than one copy of your resume, only the most recent version will be reviewed. The latest timestamp will be used to determine which version of your resume is "most recent."
+
+If your resume includes a photograph or other inappropriate material or content, it will not be used to make eligibility and qualification determinations, and you will not be considered for this vacancy.
+
+2. Other supporting documents:
+
+Cover Letter, optional
+
+Most recent SF-50 "Notification of Personnel Action" showing you are/were in the competitive service and the highest grade held. It is recommended you provide a SF-50 within the last 52 weeks before the closing date of this JOA for current federal employees. We will use the employment date and grade on your resume in conjunction with the provided SF-50 to help determine initial eligibility, but may require additional information to confirm at the job offer stage if needed.
+
+College Transcript(s), if qualifying based on education. Official or unofficial transcripts are acceptable.
+
+DD-214, SF-15 Form and VA letter, or certification of expected discharge or release from active duty from Veterans for consideration under Veteran hiring authorities
+
+DoD Priority Placement Program applicant supporting documentation - See the "How You Will Be Evaluated" section of this announcement
+
+Interagency Career Transition Assistance Program documentation, if applicable (e.g., Certification of Expected Separation, Reduction-In-Force Separation Notice, or Notice of Proposed Removal; SF-50 that documents the RIF separation action; and most recent performance appraisal.)
+
+Other Noncompetitive appointment authority documentation, if applicable
+
+DOES THIS POSITION REQUIRE A LICENSE OR CERTIFICATE?
+
+You are strongly encouraged to provide a copy of your license or certificate in your application package. It is also acceptable to document your license number and the name of the licensing authority in your resume.
+
+ARE YOU A VETERAN CLAIMING SOLE SURVIVORSHIP PREFERENCE OR 5-POINT VETERANS' PREFERENCE?
+
+1. You must provide legible copy/copies of the following: DD-214, "Certificate of Release or Discharge from Active Duty," showing all dates of service, as well as type of discharge and character of service (Honorable, General, etc.) or Statement of Service/Proof of Service (in lieu of a DD-214) from your command or local Personnel Support Detachment (PSD). The Statement of Service/Proof of Service must provide all dates of service, the expected date of discharge and anticipated character of service (Honorable, General, etc.). Veterans should upload their DD-214 once they receive it upon separation.
+
+2. You should also document your complete military service information in the Veterans Preference and Military Service Section of the assessment questionnaire (type of preference, dates of service, date of VA letter, character of service, disability claim and rank and date of retirement if retired).
+
+ARE YOU A DISABLED VETERAN or CLAIMING 10-POINT VETERANS' PREFERENCE?
+
+1. Disabled veterans, veterans, widows, spouses or the mother of a veteran, who are eligible for 10-point veterans' preference, you must provide legible copies of the following: Applicable supporting documents as noted on Standard Form-15 (SF-15). To obtain a copy of SF-15, go to: https://help.usajobs.gov/working-in-government/unique-hiring-paths/veterans?
+
+ARE YOU A CURRENT OR FORMER POLITICAL SCHEDULE A, SCHEDULE C, NON-CAREER SES OR PRESIDENTIAL APPOINTEE EMPLOYEE?
+
+Submit a copy of your applicable SF-50, along with a statement that provides the following information regarding your most recent political appointment:
+
+. Position title;
+
+. Type of appointment (Schedule A, Schedule C, Non-career SES, or Presidential Appointee);
+
+. Agency; and,
+
+. Beginning and ending dates of appointment.
+
+ If you are relying on your education to meet qualification requirements:
+
+ Education must be accredited by an accrediting institution recognized by the U.S. Department of Education in order for it to be credited towards qualifications. Therefore, provide only the attendance and/or degrees from
+ schools accredited by accrediting institutions recognized by the U.S. Department of Education.
+
+ Failure to provide all of the required information as stated in this vacancy announcement may result in an ineligible rating or may affect the overall rating.
+
+How to Apply
+
+ Help
+
+To apply for this position, you must complete the online application and submit the documentation specified in the Required Documents section above.
+
+The complete application package must be submitted by 11:59 PM (EST) on the closing date of the announcement to receive consideration.
+
+To begin, click Apply to access the online application. You will need to be logged into your USAJOBS account to apply. If you do not have a USAJOBS account, you will need to create one before beginning the application.
+
+Follow the prompts to select your resume and/or other supporting documents to be included with your application package. Your resume cannot exceed two pages. See the Required Documents section above for more information.
+
+You will have the opportunity to upload additional documents to include in your application before it is submitted. Your uploaded documents may take several hours to clear the virus scan process, and it is your responsibility to ensure that they do so successfully.
+
+After acknowledging you have reviewed your application package, complete the Include Personal Information section as you deem appropriate and click to continue with the application process.
+
+You will be taken to the online application which you must complete in order to apply for the position. Complete the online application, verify the required documentation is included with your application package, and submit the application.
+
+Read the Eligibility questions carefully. Your responses will affect your consideration for the position. You may qualify for more than one eligibility, so please choose carefully. You will only be considered under the options you have selected. If you respond that you do not meet any of the eligibility questions, you will not be considered for this position.
+
+To view the assessment questionnaire, click here: https://apply.usastaffing.gov/ViewQuestionnaire/13100271
+
+Failure to submit a complete application package will result in an ineligible rating and loss of consideration.
+
+Do not email or send hard copy resumes/applications to the Contact Information or Agency Information listed in this vacancy announcement. All resumes/applications received at the addresses listed in the Contact Information or Agency Information will be destroyed and will not be considered for this vacancy announcement.
+
+It is the applicant's responsibility to verify that all information in their resume and documents are legible and accurate. HR will not modify answers/documents submitted by an applicant.
+
+Agency contact information
+
+ Washington HQ Services
+
+Email
+
+ whs.job.application.assistance@mail.mil
+
+Address
+
+ WHS Financial Management Directorate
+
+ Human Resources Directorate
+
+4800 Mark Center Drive
+
+ Alexandria, VA 22350
+
+ US
+
+Next steps
+
+Once your online application is submitted you will receive a confirmation notification by email. Your application will be evaluated by the Human Resources Office to determine your eligibility for the position. After the evaluation is complete, you will receive another notification regarding the status of your application. If you are determined to be ineligible or not qualified, your application will receive no further consideration.
+
+A tentative offer of employment will be rescinded if the selectee fails to meet the pre-employment requirements:
+
+including failure to report to any of the scheduled appointments.
+
+HR will initiate the drug test no later than 2 business days after the Tentative Job Offer is accepted.The selectee must sign a "Drug Test Statement of Understanding."
+
+A negative drug test result must be received by HR no later than 30 calendar days after the EOD. Failure to pass the test or provide results in time may lead to the job offer being withdrawn or removal from Federal service.
+
+Washington Headquarters Services uses E-Verify to confirm the employment eligibility of all newly hired employees. To learn more about E-Verify, including your rights and responsibilities, visit: http://www.dhs.gov/E-Verify
+
+Stay informed of changes to your application status by signing up for automatic email alerts at: https://www.usajobs.gov/Applicant/Application/ListApplications?
+
+Washington Headquarters Services is an Equal Employment Opportunity employer.
+
+Fair and transparent
+
+The Federal hiring process is set up to be fair and transparent. Please read the following guidance.
+
+ Criminal history inquiries
+
+ Equal Employment Opportunity (EEO) Policy
+
+ Financial suitability
+
+ New employee probationary period
+
+ Privacy Act
+
+ Reasonable accommodation policy
+
+ Selective Service
+
+ Signature and false statements
+
+ Social security number request
+
+Required Documents
+
+ Help
+
+ YOU ARE REQUIRED TO DOCUMENT IN YOUR APPLICATION PACKAGE EVIDENCE THAT SUPPORTS YOUR ELIGIBILITY AND QUALIFICATION CLAIMS. You MUST upload the applicable documents with your application package. If you fail to provide these documents, you will be marked as having an incomplete application package and you will not be considered any further.
+
+1. All applicants are required to submit a resume limited to two (2) pages showing all relevant experience. Your resume must address your technical qualifications for the position, hours worked per week and the dates of employment for each position (hours per week and month/year to month/year to present) and it may not exceed two (2) pages. Your 2-page (or less) resume must be in PDF format, with no smaller than a 0.5" margin and no smaller than a 10-point font. If you submit a resume that exceeds the two-page limit and/or does not meet the margin or font limitations stated herein, you will immediately be deemed ineligible for this position and will receive no further consideration.
+
+If you submit more than one copy of your resume, only the most recent version will be reviewed. The latest timestamp will be used to determine which version of your resume is "most recent."
+
+If your resume includes a photograph or other inappropriate material or content, it will not be used to make eligibility and qualification determinations, and you will not be considered for this vacancy.
+
+2. Other supporting documents:
+
+Cover Letter, optional
+
+Most recent SF-50 "Notification of Personnel Action" showing you are/were in the competitive service and the highest grade held. It is recommended you provide a SF-50 within the last 52 weeks before the closing date of this JOA for current federal employees. We will use the employment date and grade on your resume in conjunction with the provided SF-50 to help determine initial eligibility, but may require additional information to confirm at the job offer stage if needed.
+
+College Transcript(s), if qualifying based on education. Official or unofficial transcripts are acceptable.
+
+DD-214, SF-15 Form and VA letter, or certification of expected discharge or release from active duty from Veterans for consideration under Veteran hiring authorities
+
+DoD Priority Placement Program applicant supporting documentation - See the "How You Will Be Evaluated" section of this announcement
+
+Interagency Career Transition Assistance Program documentation, if applicable (e.g., Certification of Expected Separation, Reduction-In-Force Separation Notice, or Notice of Proposed Removal; SF-50 that documents the RIF separation action; and most recent performance appraisal.)
+
+Other Noncompetitive appointment authority documentation, if applicable
+
+DOES THIS POSITION REQUIRE A LICENSE OR CERTIFICATE?
+
+You are strongly encouraged to provide a copy of your license or certificate in your application package. It is also acceptable to document your license number and the name of the licensing authority in your resume.
+
+ARE YOU A VETERAN CLAIMING SOLE SURVIVORSHIP PREFERENCE OR 5-POINT VETERANS' PREFERENCE?
+
+1. You must provide legible copy/copies of the following: DD-214, "Certificate of Release or Discharge from Active Duty," showing all dates of service, as well as type of discharge and character of service (Honorable, General, etc.) or Statement of Service/Proof of Service (in lieu of a DD-214) from your command or local Personnel Support Detachment (PSD). The Statement of Service/Proof of Service must provide all dates of service, the expected date of discharge and anticipated character of service (Honorable, General, etc.). Veterans should upload their DD-214 once they receive it upon separation.
+
+2. You should also document your complete military service information in the Veterans Preference and Military Service Section of the assessment questionnaire (type of preference, dates of service, date of VA letter, character of service, disability claim and rank and date of retirement if retired).
+
+ARE YOU A DISABLED VETERAN or CLAIMING 10-POINT VETERANS' PREFERENCE?
+
+1. Disabled veterans, veterans, widows, spouses or the mother of a veteran, who are eligible for 10-point veterans' preference, you must provide legible copies of the following: Applicable supporting documents as noted on Standard Form-15 (SF-15). To obtain a copy of SF-15, go to: https://help.usajobs.gov/working-in-government/unique-hiring-paths/veterans?
+
+ARE YOU A CURRENT OR FORMER POLITICAL SCHEDULE A, SCHEDULE C, NON-CAREER SES OR PRESIDENTIAL APPOINTEE EMPLOYEE?
+
+Submit a copy of your applicable SF-50, along with a statement that provides the following information regarding your most recent political appointment:
+
+. Position title;
+
+. Type of appointment (Schedule A, Schedule C, Non-career SES, or Presidential Appointee);
+
+. Agency; and,
+
+. Beginning and ending dates of appointment.
+
+ If you are relying on your education to meet qualification requirements:
+
+ Education must be accredited by an accrediting institution recognized by the U.S. Department of Education in order for it to be credited towards qualifications. Therefore, provide only the attendance and/or degrees from
+ schools accredited by accrediting institutions recognized by the U.S. Department of Education.
+
+ Failure to provide all of the required information as stated in this vacancy announcement may result in an ineligible rating or may affect the overall rating.
+
+How to Apply
+
+ Help
+
+To apply for this position, you must complete the online application and submit the documentation specified in the Required Documents section above.
+
+The complete application package must be submitted by 11:59 PM (EST) on the closing date of the announcement to receive consideration.
+
+To begin, click Apply to access the online application. You will need to be logged into your USAJOBS account to apply. If you do not have a USAJOBS account, you will need to create one before beginning the application.
+
+Follow the prompts to select your resume and/or other supporting documents to be included with your application package. Your resume cannot exceed two pages. See the Required Documents section above for more information.
+
+You will have the opportunity to upload additional documents to include in your application before it is submitted. Your uploaded documents may take several hours to clear the virus scan process, and it is your responsibility to ensure that they do so successfully.
+
+After acknowledging you have reviewed your application package, complete the Include Personal Information section as you deem appropriate and click to continue with the application process.
+
+You will be taken to the online application which you must complete in order to apply for the position. Complete the online application, verify the required documentation is included with your application package, and submit the application.
+
+Read the Eligibility questions carefully. Your responses will affect your consideration for the position. You may qualify for more than one eligibility, so please choose carefully. You will only be considered under the options you have selected. If you respond that you do not meet any of the eligibility questions, you will not be considered for this position.
+
+To view the assessment questionnaire, click here: https://apply.usastaffing.gov/ViewQuestionnaire/13100271
+
+Failure to submit a complete application package will result in an ineligible rating and loss of consideration.
+
+Do not email or send hard copy resumes/applications to the Contact Information or Agency Information listed in this vacancy announcement. All resumes/applications received at the addresses listed in the Contact Information or Agency Information will be destroyed and will not be considered for this vacancy announcement.
+
+It is the applicant's responsibility to verify that all information in their resume and documents are legible and accurate. HR will not modify answers/documents submitted by an applicant.
+
+ Expand Hide  how to apply
+
+Agency contact information
+
+ Washington HQ Services
+
+Email
+
+ whs.job.application.assistance@mail.mil
+
+Address
+
+ WHS Financial Management Directorate
+
+ Human Resources Directorate
+
+4800 Mark Center Drive
+
+ Alexandria, VA 22350
+
+ US
+
+Next steps
+
+Once your online application is submitted you will receive a confirmation notification by email. Your application will be evaluated by the Human Resources Office to determine your eligibility for the position. After the evaluation is complete, you will receive another notification regarding the status of your application. If you are determined to be ineligible or not qualified, your application will receive no further consideration.
+
+A tentative offer of employment will be rescinded if the selectee fails to meet the pre-employment requirements:
+
+including failure to report to any of the scheduled appointments.
+
+HR will initiate the drug test no later than 2 business days after the Tentative Job Offer is accepted.The selectee must sign a "Drug Test Statement of Understanding."
+
+A negative drug test result must be received by HR no later than 30 calendar days after the EOD. Failure to pass the test or provide results in time may lead to the job offer being withdrawn or removal from Federal service.
+
+Washington Headquarters Services uses E-Verify to confirm the employment eligibility of all newly hired employees. To learn more about E-Verify, including your rights and responsibilities, visit: http://www.dhs.gov/E-Verify
+
+Stay informed of changes to your application status by signing up for automatic email alerts at: https://www.usajobs.gov/Applicant/Application/ListApplications?
+
+Washington Headquarters Services is an Equal Employment Opportunity employer.
+
+ Expand Hide  next steps
+
+Fair and transparent
+
+The Federal hiring process is set up to be fair and transparent. Please read the following guidance.
+
+ Criminal history inquiries
+
+ Equal Employment Opportunity (EEO) Policy
+
+ Financial suitability
+
+ New employee probationary period
+
+ Privacy Act
+
+ Reasonable accommodation policy
+
+ Selective Service
+
+ Signature and false statements
+
+ Social security number request
+
+ Washington Headquarters Services
+
+ The Washington Headquarters Services (WHS) is a world-class service organization, with a dynamic workforce and unwavering commitment to service excellence. WHS is the essential services provider for the Office of the Secretary of Defense (OSD), Department of War (DoW) agencies, and offices in the National Capital Region.
+
+The Financial Management Directorate (FMD) provides a full range of resource management services to the WHS customer enterprise. These services include, but are not limited to, budget formulation and execution, disbursing and finance, audit support and compliance assessment, financial reporting, travel management, Official Representation Funds (ORF) oversight, manpower management, and systems support.
+
+Agency contact information
+
+ Washington HQ Services
+
+Email
+
+ whs.job.application.assistance@mail.mil
+
+Address
+
+ WHS Financial Management Directorate
+
+ Human Resources Directorate
+
+4800 Mark Center Drive
+
+ Alexandria, VA 22350
+
+ US
+
+Summary
+
+This position is located in the Washington Headquarters Services (WHS), Financial Management Directorate, Accounting Division. This division is responsible for providing financial reporting for allocations.. The Accounting Division performs field level accounting; financial management and reporting to Support CFO financial statements; and managerial accounting and reporting.
+
+ Learn more about this agency
+
+Overview
+
+ Help
+
+Accepting applications
+
+This job will close when we have received 100 applications which may be sooner than the closing date. Learn more
+
+Location
+
+1 vacancy in the following location:
+
+ Alexandria, VA
+
+ No matching locations found.
+
+Work site options
+
+Telework eligible
+
+Yes—as determined by the agency policy.
+
+Remote job
+
+No
+
+Relocation expenses reimbursed
+
+ No
+
+Salary
+
+ $57,736 - $75,059 per year
+
+Pay scale & grade
+
+GS 7 - 11
+
+Promotion potential
+
+11
+
+ Learn more about pay scale and grade
+
+ Pay scale and grade determines the salary of the job.
+
+Work schedule
+
+Full-time
+
+Travel Required
+
+Occasional travel - You may be expected to travel for this position.
+
+Appointment type
+
+Permanent
+
+Occupations and job series
+
+ 0501 Financial Administration And Program
+
+Supervisory status
+
+No
+
+Federal service type
+
+This job is in the Competitive Service
+
+Represented by a union
+
+No
+
+Drug test
+
+Yes
+
+Security clearance
+
+Secret
+
+Position sensitivity and risk
+
+Noncritical-Sensitive (NCS)/Moderate Risk
+
+ Jobs require a
+ background check and some require a
+ security clearance. The type depends on the job.
+
+Background check type
+
+ Suitability/Fitness
+
+ National security
+
+Financial disclosure required
+
+No
+
+ Some jobs require
+ financial disclosure to identify conflicts of interests.
+
+Announcement number
+
+DHA-13100271-26-SF
+
+Control number
+
+891088400
+
+ Previous result
+
+Next result
+
+Your session is about to expire!
+
+ Your USAJOBS session will expire due to inactivity in 8 minutes.
+ Any unsaved data will be lost if you allow the session to expire.
+ Click the button below to continue your session.
+
+ Sign out
+ Stay signed in
+
+ Return to top
+
+USAJOBS is a Opens in a new windowUnited States Office of Personnel Management website.
+
+ (Opens in a new window) OPM on LinkedIn
+
+ (Opens in a new window) OPM YouTube channel
+
+ (Opens in a new window) OPM on X
+
+Opens in a new windowEEO Policy Statement
+
+Opens in a new windowReasonable Accommodation Policy Statement
+
+Veterans Information
+
+Opens in a new windowLegal and Regulatory Guidance
+
+About USAJOBS
+
+Opens in a new windowAccessibility
+
+Opens in a new windowFOIA
+
+Opens in a new windowInspector general
+
+Opens in a new windowNo Fear Act Data
+
+Opens in a new windowPrivacy policy
+
+Opens in a new windowReports and publications
+
+Opens in a new windowTerms and conditions
+
+Opens in a new windowUSA.gov

@@ -1,0 +1,85 @@
+{
+  "title": "FINANCIAL MANAGEMENT ANALYST",
+  "requisition_id": "ST-13105343-27-ELP",
+  "canonical_url": "https://www.usajobs.gov/job/891022200",
+  "application_url": "https://www.usajobs.gov/job/891022200",
+  "posted_date": "2026-10-30",
+  "posted_date_evidence": "Official announcement JobPosting.datePosted; corroborated by native search PositionStartDate where listed.",
+  "close_date": "2026-11-05",
+  "deadline_timezone": null,
+  "deadline_time": null,
+  "deadline_source": "https://www.usajobs.gov/job/891022200",
+  "deadline_verified": true,
+  "early_closure_conditions": [],
+  "rolling_cutoff": null,
+  "location": "Fort Meade, MD",
+  "remote_restrictions": "Offered DMV work location; verify telework/attendance and screening conditions in announcement.",
+  "salary": "Starting at $121,785 Per year (GG 13)",
+  "retrieved_at": "2026-11-02T23:14:54.501767+00:00",
+  "control_number": "891022200",
+  "fit": "Financial forecasting, capital/ROE, quantitative risk and engineering leadership overlap; federal budget/accounting/policy specialties remain attention items.",
+  "gaps": "Hiring-path eligibility unverified: Internal to an agency. Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.",
+  "requirements_confirmed_unmet": [],
+  "requirements_unverified": [
+    "Hiring-path eligibility unverified: Internal to an agency. Confirm qualifying status before application; absence from baseline is not proof of ineligibility.",
+    "Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "preferred_requirements_note": "See official qualifications/education sections; missing evidence does not establish an unmet requirement.",
+  "hiring_paths": [
+    "Internal to an agency"
+  ],
+  "open_evidence": "Official announcement downloaded successfully; validThrough and native open-status evidence retained.",
+  "discovery_window": [
+    "2026-09-02",
+    "2026-11-02"
+  ],
+  "employer": "United States Fleet Forces Command",
+  "status": "needs_verification",
+  "aliases": [],
+  "id": "436289cfa1d82e7e",
+  "application_directory": "applications/2026-11-02__united-states-fleet-forces-command__financial-management-analyst__436289cfa1d82e7e",
+  "step": 1,
+  "selected": false,
+  "submitted": false,
+  "artifacts": {
+    "resume_markdown": {
+      "path": "applications/2026-11-02__united-states-fleet-forces-command__financial-management-analyst__436289cfa1d82e7e/resume-xuewu-cai__united-states-fleet-forces-command__financial-management-analyst__891022200.md",
+      "sha256": "e37d691ad2832c0269660fa25df437a5a4e4281ae223cea320e326c9211875d8"
+    },
+    "resume_pdf": {
+      "path": "applications/2026-11-02__united-states-fleet-forces-command__financial-management-analyst__436289cfa1d82e7e/resume-xuewu-cai__united-states-fleet-forces-command__financial-management-analyst__891022200.pdf",
+      "sha256": "8648aa1440a7163766217b520709d817472508a8b0dedde6150ff885335404ef"
+    }
+  },
+  "artifact_versions": [
+    {
+      "revision_id": "2026-11-02T23:14:54.501767+00:00",
+      "artifacts": {
+        "resume_markdown": {
+          "path": "applications/2026-11-02__united-states-fleet-forces-command__financial-management-analyst__436289cfa1d82e7e/resume-xuewu-cai__united-states-fleet-forces-command__financial-management-analyst__891022200.md",
+          "sha256": "e37d691ad2832c0269660fa25df437a5a4e4281ae223cea320e326c9211875d8"
+        },
+        "resume_pdf": {
+          "path": "applications/2026-11-02__united-states-fleet-forces-command__financial-management-analyst__436289cfa1d82e7e/resume-xuewu-cai__united-states-fleet-forces-command__financial-management-analyst__891022200.pdf",
+          "sha256": "8648aa1440a7163766217b520709d817472508a8b0dedde6150ff885335404ef"
+        }
+      },
+      "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a"
+    }
+  ],
+  "resume_status": "prepared_with_attention",
+  "resume_review": "Text and hashes verified; all 20 baseline experience bullets preserved with updated title. Two pages rendered in PDFKit; all 113 distinct page images visually reviewed across 10 boards (238 rendered pages total). No clipping, overlap or blank pages. Neutral metadata and no AI-editing/targeting labels. Candidate facts/qualifications marked as attention items; no submission.",
+  "required_answers_pending": [
+    "Hiring-path eligibility unverified: Internal to an agency. Confirm qualifying status before application; absence from baseline is not proof of ineligibility.",
+    "Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "confirmed_unmet_requirements": [],
+  "qualifications_verified": false,
+  "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a",
+  "resume_format": "restored_two_page",
+  "current_resume_naming": "unversioned",
+  "clearance_requirement": "Sensitive Compartmented Information",
+  "public_hiring_route_evidence": false
+}

@@ -1,0 +1,32 @@
+{
+  "@context": "http://www.schema.org",
+  "@type": "JobPosting",
+  "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": {
+      "@type": "QuantitativeValue",
+      "value": 169279.0,
+      "unitText": "YEAR"
+    }
+  },
+  "datePosted": "10/27/2026",
+  "description": "<p>This position is located at Departmental Offices,Domestic Finance - Financial Stability Oversight Council. As a Senior Financial Stability Policy Advisor, you will be supporting the statutory missions of the Council and serves as a Senior Financial Stability Policy Advisor in analyzing the economic, financial, and policy implications of matters before the Council.<br>\n<br>\n </p>",
+  "educationRequirements": "<br>\n<br>\n<br>\n<br>",
+  "employmentType": "OTHER",
+  "hiringOrganization": "Domestic Finance - Financial Stability Oversight Council",
+  "jobLocation": [
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Washington",
+        "addressRegion": "DC "
+      }
+    }
+  ],
+  "responsibilities": "As a Senior Financial Stability Policy Advisor, you will:\n<ul>\n\t<li>Formulate, conduct, evaluate, and carry out a wide range of economic and financial analysis. This analysis typically involves highly sensitive issues and often presents problems of considerable difficulty that require thoughtful and sometimes innovative methods to resolve. The findings from this analysis are presented through written products and oral briefings to senior policymakers at Treasury in their role as supporting Chairperson of the Council and at member agencies of the Council.</li>\n\t<li>Develop, produce, and prepare policy statements, briefing materials, Congressional testimonies, Congressional reports, official correspondence, and other official documents for the Secretary, and other senior officials at Treasury in their role as supporting the Chairperson of the Council and at member agencies of the Council.</li>\n\t<li>Participate in, and often coordinate interagency committees and working groups of the Council member agencies, developing research and analytical materials on matters of interest to the Council.</li>\n\t<li>Advise the Deputy Assistant Secretary of the Office of The Financial Stability Oversight Council of emerging issues and problems involving financial institutions, financial markets or macro trends that could impact financial stability or other matters before the Council.</li>\n</ul>",
+  "qualifications": "You must meet the following requirements within 30 days of the closing date of this announcement.<br>\n<br>\n<u><b>SPECIALIZED EXPERIENCE:</b></u>For the GS-15 grade level, you must have one year (52 full weeks) of specialized experience at a level of difficulty and responsibility equivalent to the GS-14 grade level in the Federal service<strong>.</strong><br>\n<br>\n<strong>Specialized Experience for this position includes: </strong><br>\n<br>\n<strong>A) Experience independently researching, analyzing data, or providing advice to firms or regulators in at least <u>ONE </u>of the following markets or sectors:</strong><br>\n1. Banking sector<br>\n2. Insurance sector, investment funds, or other segments of the nonbank financial sector<br>\n3. U.S. Treasury markets<br>\n4. Equity markets<br>\n5. Credit markets<br>\n6. Mortgage markets or other segments of the household finance sector<br>\n7. Derivatives markets<br>\n<br>\n<u><strong>AND</strong></u><br>\n<br>\n<strong>B) Experience in at least <u>TWO</u> of the following three activities:</strong><br>\n1. Developing written analyses or summaries (such as memoranda, reports, briefs, or articles) regarding risks to U.S. or international financial stability<br>\n2. Analyzing research, information, or data related to U.S. or international financial stability<br>\n3. Analyzing, advising on, or otherwise using laws and regulations relating to the U.S. financial system, financial institutions, or financial markets<br>\n<br>\nThe experience may have been gained in either the public, private sector or <a href=\"https://help.usajobs.gov/how-to/account/documents/resume/build/experience\">volunteer service</a>. One year of experience refers to full-time work; part-time work is considered on a prorated basis. To ensure full credit for your work experience, please indicate dates of employment by month/day/year, and indicate number of hours worked per week on your resum\u00e9.\n<p>TIME-IN-GRADE: In addition to the above requirements, you must meet the following time-in-grade requirement, if applicable: For the GS-15, you must have been at the GS-14 level for 52 weeks.</p>",
+  "title": "Senior Financial Stability Policy Advisor",
+  "validThrough": "2026-11-02"
+}

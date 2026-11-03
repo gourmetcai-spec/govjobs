@@ -1,0 +1,897 @@
+# IT SPECIALIST (SYSANALYSIS)
+
+{
+  "title": "IT SPECIALIST (SYSANALYSIS)",
+  "requisition_id": "CMS-CCIIO-27-13097446-IMP",
+  "canonical_url": "https://www.usajobs.gov/job/890139900",
+  "application_url": "https://www.usajobs.gov/job/890139900",
+  "posted_date": "2026-10-26",
+  "posted_date_evidence": "Official announcement JobPosting.datePosted; corroborated by native search PositionStartDate where listed.",
+  "close_date": "2026-11-02",
+  "deadline_timezone": "America/New_York",
+  "deadline_time": "23:59",
+  "deadline_source": "https://www.usajobs.gov/job/890139900",
+  "deadline_verified": true,
+  "early_closure_conditions": [],
+  "rolling_cutoff": null,
+  "location": "Woodlawn, MD",
+  "remote_restrictions": "Offered DMV work location; verify telework/attendance and screening conditions in announcement.",
+  "salary": "Starting at $121,785 Per year (GS 13)",
+  "retrieved_at": "2026-11-02T23:14:54.501767+00:00",
+  "control_number": "890139900",
+  "fit": "Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.",
+  "gaps": "Hiring-path eligibility unverified: Internal to an agency, Career transition (CTAP, ICTAP, RPL). Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Verify NIST/security-control experience against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.",
+  "requirements_confirmed_unmet": [],
+  "requirements_unverified": [
+    "Hiring-path eligibility unverified: Internal to an agency, Career transition (CTAP, ICTAP, RPL). Confirm qualifying status before application; absence from baseline is not proof of ineligibility.",
+    "Verify NIST/security-control experience against the exact qualification clause; not established by the baseline alone.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "preferred_requirements_note": "See official qualifications/education sections; missing evidence does not establish an unmet requirement.",
+  "hiring_paths": [
+    "Internal to an agency",
+    "Career transition (CTAP, ICTAP, RPL)"
+  ],
+  "open_evidence": "Official announcement downloaded successfully; validThrough and native open-status evidence retained.",
+  "discovery_window": [
+    "2026-09-02",
+    "2026-11-02"
+  ]
+}
+
+## Summary
+
+This position is located in the Department of Health & Human Services (HHS), Centers for Medicare & Medicaid Services (CMS), Center for Consumer Information and Insurance Oversight (CCIIO), Division of Marketplace IT Operations, Marketplace Information Technology Group (MITG).
+As a IT SPECIALIST (SYSANALYSIS), GS-2210-13, you will Coordinate implementation and analysis for IT projects, work with IT Staff and contractors, and provide overall technical expertise and guidance.
+
+## Duties
+
+
+
+## Qualifications
+
+ALL QUALIFICATION REQUIREMENTS MUST BE MET WITHIN 30 DAYS OF THE CLOSING DATE OF THIS ANNOUNCEMENT.
+Your resume (limited to no more than 2 pages) must include detailed information as it relates to the responsibilities and specialized experience for this position. Evidence of copying and pasting directly from the vacancy announcement without clearly documenting supplemental information to describe your experience will result in an ineligible rating. This will prevent you from being considered further.
+There is a BASIC REQUIREMENT AND MINIMUM QUALIFICATION REQUIREMENT for this position. You must meet both requirements.
+BASIC REQUIREMENT: You must have IT-related experience demonstrating each of the four competencies listed:
+1. Attention to Detail - Is thorough when performing work and conscientious about attending to detail.
+2. Customer Service - Works with clients and customers (that is, any individuals who use or receive the services or products that your work unit produces, including the general public, individuals who work in the agency, other agencies, or organizations outside the Government) to assess their needs, provide information or assistance, resolve their problems, or satisfy their expectations; knows about available products and services; is committed to providing quality products and services.
+3. Oral Communication - Expresses information (for example, ideas or facts) to individuals or groups effectively, taking into account the audience and nature of the information (for example, technical, sensitive, controversial); makes clear and convincing oral presentations; listens to others, attends to nonverbal cues, and responds appropriately.
+4. Problem-Solving - Identifies problems; determines accuracy and relevance of information; uses sound judgment to generate and evaluate alternatives, and to make recommendations.
+AND In order to qualify for the GS-13, you must meet the following: You must demonstrate in your resume at least one year (52 weeks) of qualifying specialized experience equivalent to the GS-12 grade level in the Federal government, obtained in either the private or public sector, to include:
+1. Planning, coordinating, or evaluating the testing of information systems; AND;
+2. Analyzing IT systems to determine if they meet agency requirements, AND;
+3. Providing technical guidance to stakeholders on IT security architecture requirements, AND;
+4. Supporting IT acquisitions as a Contract Officer's Representative (COR), including statements of work and contract administration.
+AND
+Must possess and maintain a FAC-COR Level II or III at the time of application.
+Experience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., Peace Corps, AmeriCorps) and other organizations (e.g., professional, philanthropic, religious, spiritual, community, student, social). Volunteer work helps build critical competencies, knowledge, and skills, and can provide valuable training and experience that translates directly to paid employment. You will receive credit for all qualifying experience, including volunteer experience.
+Time-in-Grade: To be eligible, current or former Federal employees and current or former Federal employees applying under the VEOA eligibility who hold or have held a permanent General Schedule position in the previous year must have served at least 52 weeks (one year) at the next lower grade level from the position/grade level(s) to which they are applying.
+Click the following link to view the occupational questionnaire: https://apply.usastaffing.gov/ViewQuestionnaire/13097446
+
+## Education
+
+This job does not have an education qualification requirement.
+
+## Full rendered official announcement
+
+USAJOBS - Job Announcement
+
+ Skip to main content
+
+ An official website of the United States government
+
+Official websites use .gov
+
+A .gov website belongs to an official government organization in the United States.
+
+Secure .gov websites use HTTPS
+ A lock ( LockA locked padlock ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.
+
+ MENU
+
+ Sign in
+
+ My jobs
+
+ Profile
+
+ Resumes & documents
+
+ Notifications
+
+ Talent networks
+
+ Sign out
+
+ My jobs
+
+ Profile
+
+ Resumes & documents
+
+ Notifications
+
+ Talent networks
+
+ Sign out
+
+ Events
+
+ Help Center
+
+ Search
+
+ Back to results
+
+ Apply
+
+ IT SPECIALIST (SYSANALYSIS)
+
+Department of Health and Human Services
+
+Centers for Medicare & Medicaid Services
+
+Center for Consumer Information and Insurance Oversight (CCIIO)
+
+Apply
+
+ Print
+
+ Share
+
+ Save
+
+ Summary
+
+ This job is open to
+
+ Duties
+
+ Requirements
+
+ How you will be evaluated
+
+ Required documents
+
+ How to apply
+
+Summary
+
+This position is located in the Department of Health & Human Services (HHS), Centers for Medicare & Medicaid Services (CMS), Center for Consumer Information and Insurance Oversight (CCIIO), Division of Marketplace IT Operations, Marketplace Information Technology Group (MITG).
+
+As a IT SPECIALIST (SYSANALYSIS), GS-2210-13, you will Coordinate implementation and analysis for IT projects, work with IT Staff and contractors, and provide overall technical expertise and guidance.
+
+ Learn more about this agency
+
+Summary
+
+This position is located in the Department of Health & Human Services (HHS), Centers for Medicare & Medicaid Services (CMS), Center for Consumer Information and Insurance Oversight (CCIIO), Division of Marketplace IT Operations, Marketplace Information Technology Group (MITG).
+
+As a IT SPECIALIST (SYSANALYSIS), GS-2210-13, you will Coordinate implementation and analysis for IT projects, work with IT Staff and contractors, and provide overall technical expertise and guidance.
+
+ Learn more about this agency
+
+Overview
+
+ Help
+
+Accepting applications
+
+Location
+
+1 vacancy in the following location:
+
+ Woodlawn, MD
+
+ No matching locations found.
+
+Work site options
+
+Telework eligible
+
+Yes—as determined by the agency policy.
+
+Remote job
+
+No
+
+Relocation expenses reimbursed
+
+ No
+
+Salary
+
+ $121,785 - $158,322 per year
+
+Pay scale & grade
+
+GS 13
+
+Promotion potential
+
+13
+
+ Learn more about pay scale and grade
+
+ Pay scale and grade determines the salary of the job.
+
+Work schedule
+
+Full-time
+
+Travel Required
+
+Occasional travel - You may be expected to travel up to 5% for this position.
+
+Appointment type
+
+Permanent
+
+Occupations and job series
+
+ 2210 Information Technology Management
+
+Supervisory status
+
+No
+
+Federal service type
+
+This job is in the Competitive Service
+
+Represented by a union
+
+Yes
+
+Drug test
+
+No
+
+Security clearance
+
+Not Required
+
+Position sensitivity and risk
+
+Moderate Risk (MR)
+
+ Jobs require a
+ background check and some require a
+ security clearance. The type depends on the job.
+
+Background check type
+
+ Credentialing
+
+ Suitability/Fitness
+
+Financial disclosure required
+
+No
+
+ Some jobs require
+ financial disclosure to identify conflicts of interests.
+
+Announcement number
+
+CMS-CCIIO-27-13097446-IMP
+
+Control number
+
+890139900
+
+This job is open to
+
+ Help
+
+Internal to an agency
+
+ Current federal employees of the hiring agency that posted the job announcement.
+
+Career transition (CTAP, ICTAP, RPL)
+
+ Federal employees whose job, agency or department was eliminated and are eligible for priority over other applicants.
+
+Clarification from the agency
+
+Career Transition Assistance Plan Eligibles; OR Current Permanent Career and Career-Conditional Employees in CMS.
+
+Videos
+
+Duties
+
+ Help
+
+Assess IT needs and operations as they relate to the program IT requirements, formulating recommendations, and implementing selected investments.
+
+Coordinate implementation and analysis for IT projects, work with IT Staff and contractors, and provide overall technical expertise and guidance on related issues.
+
+Provide technical consultation and assistance to CMS components and other government and non-government entities on matters within the scope of areas related to IT
+
+Serve as a Contracting Officers Representative (COR) and provide guidance and support for the entire contract and acquisition management lifecycle activities.
+
+Requirements
+
+ Help
+
+Conditions of employment
+
+You must be a U.S. Citizen or National to apply for this position.
+
+You will be subject to a background and suitability investigation.
+
+Time-in-Grade restrictions apply.
+
+Selective Service: Males born after December 31, 1959, must be registered or exempt from Selective Service-http//www.sss.gov
+
+One-year probationary period may be required.
+
+If you are selected for this position, the documentation that you present for purposes of completing the Department of Homeland Security (DHS) form I-9 will be verified through the DHS "E-Verify" System
+
+All Federal employees are required to have Federal salary payments made by direct deposit to a financial institution of their choice.
+
+Candidates must possess and maintain a FAC-COR Level II or III at the time of application
+
+Qualifications
+
+ ALL QUALIFICATION REQUIREMENTS MUST BE MET WITHIN 30 DAYS OF THE CLOSING DATE OF THIS ANNOUNCEMENT.
+
+Your resume (limited to no more than 2 pages) must include detailed information as it relates to the responsibilities and specialized experience for this position. Evidence of copying and pasting directly from the vacancy announcement without clearly documenting supplemental information to describe your experience will result in an ineligible rating. This will prevent you from being considered further.
+
+There is a BASIC REQUIREMENT AND MINIMUM QUALIFICATION REQUIREMENT for this position. You must meet both requirements.
+
+BASIC REQUIREMENT: You must have IT-related experience demonstrating each of the four competencies listed:
+
+1. Attention to Detail - Is thorough when performing work and conscientious about attending to detail.
+
+2. Customer Service - Works with clients and customers (that is, any individuals who use or receive the services or products that your work unit produces, including the general public, individuals who work in the agency, other agencies, or organizations outside the Government) to assess their needs, provide information or assistance, resolve their problems, or satisfy their expectations; knows about available products and services; is committed to providing quality products and services.
+
+3. Oral Communication - Expresses information (for example, ideas or facts) to individuals or groups effectively, taking into account the audience and nature of the information (for example, technical, sensitive, controversial); makes clear and convincing oral presentations; listens to others, attends to nonverbal cues, and responds appropriately.
+
+4. Problem-Solving - Identifies problems; determines accuracy and relevance of information; uses sound judgment to generate and evaluate alternatives, and to make recommendations.
+
+AND In order to qualify for the GS-13, you must meet the following: You must demonstrate in your resume at least one year (52 weeks) of qualifying specialized experience equivalent to the GS-12 grade level in the Federal government, obtained in either the private or public sector, to include:
+
+1. Planning, coordinating, or evaluating the testing of information systems; AND;
+
+2. Analyzing IT systems to determine if they meet agency requirements, AND;
+
+3. Providing technical guidance to stakeholders on IT security architecture requirements, AND;
+
+4. Supporting IT acquisitions as a Contract Officer's Representative (COR), including statements of work and contract administration.
+
+AND
+
+Must possess and maintain a FAC-COR Level II or III at the time of application.
+
+Experience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., Peace Corps, AmeriCorps) and other organizations (e.g., professional, philanthropic, religious, spiritual, community, student, social). Volunteer work helps build critical competencies, knowledge, and skills, and can provide valuable training and experience that translates directly to paid employment. You will receive credit for all qualifying experience, including volunteer experience.
+
+Time-in-Grade: To be eligible, current or former Federal employees and current or former Federal employees applying under the VEOA eligibility who hold or have held a permanent General Schedule position in the previous year must have served at least 52 weeks (one year) at the next lower grade level from the position/grade level(s) to which they are applying.
+
+Click the following link to view the occupational questionnaire: https://apply.usastaffing.gov/ViewQuestionnaire/13097446
+
+Education
+
+ This job does not have an education qualification requirement.
+
+Additional information
+
+Bargaining Unit Position: Yes-American Federation of Government Employees, Local 1923
+
+Tour of Duty: Flexible
+
+Recruitment Incentive: Not Authorized
+
+Relocation Incentive: Not Authorized
+
+Financial Disclosure: Not required
+
+Workplace Flexibility at CMS: This position has a regular and recurring reporting requirement to the CMS office listed in this announcement. CMS offers flexible working arrangements and allows employees the opportunity to participate in alternative work schedules at the manager's discretion.
+
+The Interagency Career Transition Assistance Plan (ICTAP) and Career Transition Assistance Plan (CTAP) provide eligible displaced federal employees with selection priority over other candidates for competitive service vacancies. To be qualified you must submit the required documentation and be rated well-qualified for this vacancy. Click here for a detailed description of the required supporting documents. A well-qualified applicant is one whose knowledge, skills and abilities clearly exceed the minimum qualification requirements of the position. Additional information about ICTAP and CTAP eligibility is on OPM's Career Transition Resources website at www.opm.gov/rif/employee_guides/career_transition.asp.
+
+ Expand Hide  additional information
+
+Candidates should be committed to improving the efficiency of the Federal government, passionate about the ideals of our American republic, and committed to upholding the rule of law and the United States Constitution.
+
+Benefits
+
+ Help
+
+ A career with the U.S. government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding. Opens in a new windowLearn more about federal benefits.
+
+ Review our benefits
+
+Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time or intermittent. Contact the hiring agency for more information on the specific benefits offered.
+
+How you will be evaluated
+
+You will be evaluated for this job based on how well you meet the qualifications above.
+
+ You will be evaluated based on how well you meet the qualifications listed in this vacancy announcement. Your qualifications will be evaluated based on your application materials (e.g., resume, supporting documents), the responses you provide on the application questionnaire, and the results of the online assessments required for this position. A Subject Matter Expert may assist in the resume review process to help determine whether you meet the minimum job qualifications. Please follow all instructions carefully. Errors or omissions may affect your rating.
+
+You will be assessed on the following competencies (knowledge, skills, abilities, and other characteristics):
+
+Accountability
+Attention to Detail
+Customer Service
+Decision Making
+Flexibility
+Influencing/Negotiating
+Integrity/Honesty
+Interpersonal Skills
+Learning
+Reading Comprehension
+Reasoning
+Self-Management
+Stress Tolerance
+Teamwork
+
+Accountability
+
+Customer Service
+
+Decisiveness
+
+Flexibility
+
+Interpersonal Skills
+
+Problem Solving
+
+Resilience
+
+RPL Applicants
+
+RPL applicants who are verified as registered for the same series, grade, and location as this vacancy announcement will be placed in one of the following categories based on category rating procedures:
+
+Best Qualified - significantly exceeds the evaluation criteria
+
+Well Qualified - excels in the evaluation criteria
+
+Qualified - meets the minimum qualification requirements
+
+If you are found to be among the top-qualified candidates, you will be referred to the selecting official for employment consideration. The category rating process does not add veterans' preference points but protects the rights of veterans by placing them ahead of non-preference eligibles within each category. Veterans' preference eligibles who meet the minimum qualification requirements and who have a compensable service-connected disability of at least 10 percent will be listed in the highest quality category (except in the case of professional or scientific positions at the GS-09 level or higher).
+
+In order to be considered for this position, you must complete all required steps in the process. In addition to the application and application questionnaire, this position requires an online assessment. The online assessment measures critical general competencies required to perform the job.
+
+The assessment includes a cut score based on the minimum level of required proficiency in these critical general competencies. You must meet or exceed the cut score to be considered. You will not be considered for the position if you score below the cut score or fail to complete the assessment.
+
+Overstating your qualifications and/or experience in your application materials or application questionnaire may result in your removal from consideration. Cheating on the online assessment may also result in your removal from consideration.
+
+Benefits
+
+ Help
+
+ A career with the U.S. government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding. Opens in a new windowLearn more about federal benefits.
+
+ Review our benefits
+
+Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time or intermittent. Contact the hiring agency for more information on the specific benefits offered.
+
+Required documents
+
+Required Documents
+
+ Help
+
+To apply for this position, you must submit a complete Application Package which includes:
+
+1. Resume showing relevant experience; cover letter optional. NOTE: As of September 27, 2025, federal agencies will only accept resumes that are two pages or less in length.Your resume must indicate your citizenship and whether you are registered with the Selective Service if you are a male born after December 31, 1959. Your resume must also list your work experience and education (if applicable), including the start and end dates (mm/yyyy) of each employment, along with the number of hours worked per week. For work in the Federal service, you must include the series and grade level for the position(s). For resume and application tips, visit: https://www.cms.gov/files/document/2026-required-documents.pdf
+
+IN DESCRIBING YOUR WORK EXPERIENCE AND/OR EDUCATION, PLEASE BE CLEAR AND SPECIFIC REGARDING YOUR EXPERIENCE OR EDUCATION. We strongly encourage applicants to utilize the USAJOBS resume builder in the creation of resumes. Determining length of general or specialized experience is dependent on the below information and failure to provide ALL information WILL result in a finding of ineligible.
+
+Official Position Title (include series and grade if Federal job)
+
+Duties (be specific in describing your duties)
+
+Employer's name and address
+
+Supervisor name and phone number
+
+Start and end dates in the month and year format (e.g. June 2007 to April 2008)
+
+Full-time or part-time status (include hours worked per week)
+
+Salary
+
+2. CMS Required Documents (e.g., SF-50, DD-214, SF-15, etc.). Required documents may be necessary to be considered for this vacancy announcement. Failure to provide the required documentation WILL result in an ineligible rating OR non-consideration.
+
+3. FAC COR Level II or FAC COR Level III Certification.
+
+4. Reasonable Accommodation (RA) Requests: If you believe you have a disability (i.e., physical or mental), covered by the Rehabilitation Act of 1973 as amended, that would interfere with completing the USA Hire Competency Based Assessments, you will be granted the opportunity to request a RA in your online application. Requests for RA for the USA Hire Competency-Based Assessments and appropriate supporting documentation for RA must be received prior to commencing the USA Hire Competency-Based Assessments. Decisions on requests for RA are made on a case-by-case basis. If you meet the minimum qualifications of the position, after notification of the adjudication of your request, you will receive an email invitation to complete the USA Hire Competency-Based Assessments, based on your adjudication decision. You must complete all assessments within 48 hours of receiving the URL to access the USA Hire Competency-Based Assessments if you received the link after the close of the announcement. To determine if you need a RA, please click here to review the Procedures for Requesting a Reasonable Accommodation for Online Assessments.
+
+5. RPL Eligibility Required Documents: The following documents are required to verify your RPL eligibility:1) Your most recent SF-50 (Notification of Personnel Action), or equivalent, as stated in the job announcement that shows position occupied (block #34 of your SF-50), tenure, grade and step, salary, and full performance level; 2) Your SF-50 showing Separation - RIF. If that is not available yet, then official documentation of your Reduction in Force (RIF) separation notice or a proposed removal/separation notice; AND 3) Your latest performance rating and rating of record (if separate documents) showing your rating score as at least fully successful or equivalent
+
+PLEASE NOTE: A complete application package includes the online application, resume, and CMS required documents. Please carefully review the full job announcement, which includes the "Required Documents" and "How to Apply" sections. Failure to submit the online application, resume, and CMS required documents will result in your not being considered for employment.
+
+How to Apply
+
+ Help
+
+Please read the entire announcement and all the instructions before you begin an application. To apply and be considered for this position, you must complete all required questionnaires, assessments and submit all required documentation as specified in the How to Apply and Required Documents sections. The complete application package must be submitted by 11:59 PM (ET) on 11/02/2026. The application process is as follows:
+
+Click the Apply button.
+
+Answer the questions presented in the application and attach all necessary supporting documentation.
+
+Click the Submit Application button prior to 11:59 PM (ET) on 11/02/2026.
+
+If you are required to complete any USA Hire Assessments, you will be notified after submitting your application. The notification will be provided in your application submission screen and via email. The notification will include your unique assessment access link to the USA Hire system and the completion deadline. Additionally, in USAJOBS you can click "Track this application" to return to your assessment completion notice.
+
+Access USA Hire using your unique assessment link. Access is granted through your USAJOBS login credentials.
+
+Review all instructions prior to beginning your assessments. You will have the opportunity to request a testing accommodation before beginning the assessments should you have a disability covered under the Rehabilitation Act of 1973 as amended.
+
+Set aside at least 3 hours to take the USA Hire Assessments; however, most applicants complete the assessments in less time. If you need to stop the assessments and continue later, you can re-use your unique assessment link.
+
+Your responses to the USA Hire Assessments will be reused for one year (in most cases) from the date you complete an assessment. If future applications you submit require completion of the same assessments, your responses will be automatically reused.
+
+Visit the USA Hire Applicant Resource Center for practice assessments and assessment preparation resources at https://support-usahire.opm.gov/hc/en-us.
+
+To update your application, including supporting documentation: During the announcement open period, return to your USAJOBS account, find your application record, and click Edit my application. This option will no longer be available once the announcement has closed.
+
+To view the announcement status or your application status: Visit https://help.usajobs.gov/how-to/application/status. Your application status page is where you can view your application status, USA Hire assessment completion status, and review your notifications sent by the hiring agency regarding your application.
+
+Commissioned Corps Officers (including Commissioned Corps professionally boarded applicants) who are interested in applying to this position must send their 1-page cover letter and 2-page ONLY professional resume (not PHS Curriculum Vitae) to CMSCorpsJobs@cms.hhs.gov in lieu of applying through this announcement. The resume should specifically explain how you are qualified for this position and draw specific attention to your skills and experiences that demonstrate these qualifications. Also, send any transcripts, licenses, or certifications as requested in this announcement. Please send all documents in 1 PDF file. In the subject line of your e-mail, include only the Job Announcement Number. In the body of your e-mail, include your current rank name and serial number. Failure to provide this information may impact your consideration for this position.
+
+Additional selections may be made for similar positions across the Department of Health and Human Services (HHS) within the local commuting area(s) of the location identified in this announcement. By applying, you agree to have your application shared with interested selecting official(s) at HHS. Clearance of CTAP/ICTAP will be applied for similar positions across HHS.
+
+Agency contact information
+
+ CMS HR Inquiries
+
+Email
+
+ hrinquiries@cms.hhs.gov
+
+Address
+
+ Center for Consumer Information and Insurance Oversight
+
+ 7500 Security Blvd
+
+ Woodlawn, MD 21244
+
+ US
+
+Next steps
+
+Based on your application and your responses to the application questionnaire, you may be presented with instructions on how to access the USA Hire system to complete the online assessments. The online assessments must be completed within 48 hours following the close of this announcement. You will have the opportunity to request a testing accommodation for the assessment should you have a disability covered under the Americans with Disabilities Act (ADA).Your assessment results will be kept on record for one year and used toward future positions for which you might apply that require the same assessments.
+
+To be considered for the position, you must meet all qualifications, including meeting or exceeding the cut score on the required assessments.
+
+Within 30 business days of the closing date, 11/02/2026, you may check your status online by logging into your USAJOBS account (https://login.usajobs.gov/Account/). We will update your status after each key stage in the application process has been completed.
+
+Fair and transparent
+
+The Federal hiring process is set up to be fair and transparent. Please read the following guidance.
+
+ Criminal history inquiries
+
+ Equal Employment Opportunity (EEO) Policy
+
+ Financial suitability
+
+ New employee probationary period
+
+ Privacy Act
+
+ Reasonable accommodation policy
+
+ Selective Service
+
+ Signature and false statements
+
+ Social security number request
+
+Required Documents
+
+ Help
+
+To apply for this position, you must submit a complete Application Package which includes:
+
+1. Resume showing relevant experience; cover letter optional. NOTE: As of September 27, 2025, federal agencies will only accept resumes that are two pages or less in length.Your resume must indicate your citizenship and whether you are registered with the Selective Service if you are a male born after December 31, 1959. Your resume must also list your work experience and education (if applicable), including the start and end dates (mm/yyyy) of each employment, along with the number of hours worked per week. For work in the Federal service, you must include the series and grade level for the position(s). For resume and application tips, visit: https://www.cms.gov/files/document/2026-required-documents.pdf
+
+IN DESCRIBING YOUR WORK EXPERIENCE AND/OR EDUCATION, PLEASE BE CLEAR AND SPECIFIC REGARDING YOUR EXPERIENCE OR EDUCATION. We strongly encourage applicants to utilize the USAJOBS resume builder in the creation of resumes. Determining length of general or specialized experience is dependent on the below information and failure to provide ALL information WILL result in a finding of ineligible.
+
+Official Position Title (include series and grade if Federal job)
+
+Duties (be specific in describing your duties)
+
+Employer's name and address
+
+Supervisor name and phone number
+
+Start and end dates in the month and year format (e.g. June 2007 to April 2008)
+
+Full-time or part-time status (include hours worked per week)
+
+Salary
+
+2. CMS Required Documents (e.g., SF-50, DD-214, SF-15, etc.). Required documents may be necessary to be considered for this vacancy announcement. Failure to provide the required documentation WILL result in an ineligible rating OR non-consideration.
+
+3. FAC COR Level II or FAC COR Level III Certification.
+
+4. Reasonable Accommodation (RA) Requests: If you believe you have a disability (i.e., physical or mental), covered by the Rehabilitation Act of 1973 as amended, that would interfere with completing the USA Hire Competency Based Assessments, you will be granted the opportunity to request a RA in your online application. Requests for RA for the USA Hire Competency-Based Assessments and appropriate supporting documentation for RA must be received prior to commencing the USA Hire Competency-Based Assessments. Decisions on requests for RA are made on a case-by-case basis. If you meet the minimum qualifications of the position, after notification of the adjudication of your request, you will receive an email invitation to complete the USA Hire Competency-Based Assessments, based on your adjudication decision. You must complete all assessments within 48 hours of receiving the URL to access the USA Hire Competency-Based Assessments if you received the link after the close of the announcement. To determine if you need a RA, please click here to review the Procedures for Requesting a Reasonable Accommodation for Online Assessments.
+
+5. RPL Eligibility Required Documents: The following documents are required to verify your RPL eligibility:1) Your most recent SF-50 (Notification of Personnel Action), or equivalent, as stated in the job announcement that shows position occupied (block #34 of your SF-50), tenure, grade and step, salary, and full performance level; 2) Your SF-50 showing Separation - RIF. If that is not available yet, then official documentation of your Reduction in Force (RIF) separation notice or a proposed removal/separation notice; AND 3) Your latest performance rating and rating of record (if separate documents) showing your rating score as at least fully successful or equivalent
+
+PLEASE NOTE: A complete application package includes the online application, resume, and CMS required documents. Please carefully review the full job announcement, which includes the "Required Documents" and "How to Apply" sections. Failure to submit the online application, resume, and CMS required documents will result in your not being considered for employment.
+
+How to Apply
+
+ Help
+
+Please read the entire announcement and all the instructions before you begin an application. To apply and be considered for this position, you must complete all required questionnaires, assessments and submit all required documentation as specified in the How to Apply and Required Documents sections. The complete application package must be submitted by 11:59 PM (ET) on 11/02/2026. The application process is as follows:
+
+Click the Apply button.
+
+Answer the questions presented in the application and attach all necessary supporting documentation.
+
+Click the Submit Application button prior to 11:59 PM (ET) on 11/02/2026.
+
+If you are required to complete any USA Hire Assessments, you will be notified after submitting your application. The notification will be provided in your application submission screen and via email. The notification will include your unique assessment access link to the USA Hire system and the completion deadline. Additionally, in USAJOBS you can click "Track this application" to return to your assessment completion notice.
+
+Access USA Hire using your unique assessment link. Access is granted through your USAJOBS login credentials.
+
+Review all instructions prior to beginning your assessments. You will have the opportunity to request a testing accommodation before beginning the assessments should you have a disability covered under the Rehabilitation Act of 1973 as amended.
+
+Set aside at least 3 hours to take the USA Hire Assessments; however, most applicants complete the assessments in less time. If you need to stop the assessments and continue later, you can re-use your unique assessment link.
+
+Your responses to the USA Hire Assessments will be reused for one year (in most cases) from the date you complete an assessment. If future applications you submit require completion of the same assessments, your responses will be automatically reused.
+
+Visit the USA Hire Applicant Resource Center for practice assessments and assessment preparation resources at https://support-usahire.opm.gov/hc/en-us.
+
+To update your application, including supporting documentation: During the announcement open period, return to your USAJOBS account, find your application record, and click Edit my application. This option will no longer be available once the announcement has closed.
+
+To view the announcement status or your application status: Visit https://help.usajobs.gov/how-to/application/status. Your application status page is where you can view your application status, USA Hire assessment completion status, and review your notifications sent by the hiring agency regarding your application.
+
+Commissioned Corps Officers (including Commissioned Corps professionally boarded applicants) who are interested in applying to this position must send their 1-page cover letter and 2-page ONLY professional resume (not PHS Curriculum Vitae) to CMSCorpsJobs@cms.hhs.gov in lieu of applying through this announcement. The resume should specifically explain how you are qualified for this position and draw specific attention to your skills and experiences that demonstrate these qualifications. Also, send any transcripts, licenses, or certifications as requested in this announcement. Please send all documents in 1 PDF file. In the subject line of your e-mail, include only the Job Announcement Number. In the body of your e-mail, include your current rank name and serial number. Failure to provide this information may impact your consideration for this position.
+
+Additional selections may be made for similar positions across the Department of Health and Human Services (HHS) within the local commuting area(s) of the location identified in this announcement. By applying, you agree to have your application shared with interested selecting official(s) at HHS. Clearance of CTAP/ICTAP will be applied for similar positions across HHS.
+
+ Expand Hide  how to apply
+
+Agency contact information
+
+ CMS HR Inquiries
+
+Email
+
+ hrinquiries@cms.hhs.gov
+
+Address
+
+ Center for Consumer Information and Insurance Oversight
+
+ 7500 Security Blvd
+
+ Woodlawn, MD 21244
+
+ US
+
+Next steps
+
+Based on your application and your responses to the application questionnaire, you may be presented with instructions on how to access the USA Hire system to complete the online assessments. The online assessments must be completed within 48 hours following the close of this announcement. You will have the opportunity to request a testing accommodation for the assessment should you have a disability covered under the Americans with Disabilities Act (ADA).Your assessment results will be kept on record for one year and used toward future positions for which you might apply that require the same assessments.
+
+To be considered for the position, you must meet all qualifications, including meeting or exceeding the cut score on the required assessments.
+
+Within 30 business days of the closing date, 11/02/2026, you may check your status online by logging into your USAJOBS account (https://login.usajobs.gov/Account/). We will update your status after each key stage in the application process has been completed.
+
+ Expand Hide  next steps
+
+Fair and transparent
+
+The Federal hiring process is set up to be fair and transparent. Please read the following guidance.
+
+ Criminal history inquiries
+
+ Equal Employment Opportunity (EEO) Policy
+
+ Financial suitability
+
+ New employee probationary period
+
+ Privacy Act
+
+ Reasonable accommodation policy
+
+ Selective Service
+
+ Signature and false statements
+
+ Social security number request
+
+ Centers for Medicare & Medicaid Services
+
+ The Department of Health & Human Services (HHS), Centers for Medicare & Medicaid Services (CMS) works in partnership with the entire health care community to improve quality and efficiency in an evolving health care system and provides leadership in the broader health care marketplace.
+
+CMS' effectiveness depends on the capabilities of a dedicated, professional staff that is committed to supporting these objectives. A career with CMS offers the opportunity to get involved in important national health care issues and be part of a dynamic, fast-paced, and highly visible organization. For more information on CMS, please visit: http://www.cms.gov/.
+
+HHS has a critical preparedness and response mission: HHS protects the American people from health threats, researches emerging diseases, and mobilizes public health programs with domestic and international partners. In support of this mission, HHS offers its employees the opportunity to contribute their unique skills through voluntary temporary assignments to humanitarian emergencies or Departmental priorities countering new and emerging health, safety, and security threats.
+
+Agency contact information
+
+ CMS HR Inquiries
+
+Email
+
+ hrinquiries@cms.hhs.gov
+
+Address
+
+ Center for Consumer Information and Insurance Oversight
+
+ 7500 Security Blvd
+
+ Woodlawn, MD 21244
+
+ US
+
+Summary
+
+This position is located in the Department of Health & Human Services (HHS), Centers for Medicare & Medicaid Services (CMS), Center for Consumer Information and Insurance Oversight (CCIIO), Division of Marketplace IT Operations, Marketplace Information Technology Group (MITG).
+
+As a IT SPECIALIST (SYSANALYSIS), GS-2210-13, you will Coordinate implementation and analysis for IT projects, work with IT Staff and contractors, and provide overall technical expertise and guidance.
+
+ Learn more about this agency
+
+Overview
+
+ Help
+
+Accepting applications
+
+Location
+
+1 vacancy in the following location:
+
+ Woodlawn, MD
+
+ No matching locations found.
+
+Work site options
+
+Telework eligible
+
+Yes—as determined by the agency policy.
+
+Remote job
+
+No
+
+Relocation expenses reimbursed
+
+ No
+
+Salary
+
+ $121,785 - $158,322 per year
+
+Pay scale & grade
+
+GS 13
+
+Promotion potential
+
+13
+
+ Learn more about pay scale and grade
+
+ Pay scale and grade determines the salary of the job.
+
+Work schedule
+
+Full-time
+
+Travel Required
+
+Occasional travel - You may be expected to travel up to 5% for this position.
+
+Appointment type
+
+Permanent
+
+Occupations and job series
+
+ 2210 Information Technology Management
+
+Supervisory status
+
+No
+
+Federal service type
+
+This job is in the Competitive Service
+
+Represented by a union
+
+Yes
+
+Drug test
+
+No
+
+Security clearance
+
+Not Required
+
+Position sensitivity and risk
+
+Moderate Risk (MR)
+
+ Jobs require a
+ background check and some require a
+ security clearance. The type depends on the job.
+
+Background check type
+
+ Credentialing
+
+ Suitability/Fitness
+
+Financial disclosure required
+
+No
+
+ Some jobs require
+ financial disclosure to identify conflicts of interests.
+
+Announcement number
+
+CMS-CCIIO-27-13097446-IMP
+
+Control number
+
+890139900
+
+ Previous result
+
+Next result
+
+Your session is about to expire!
+
+ Your USAJOBS session will expire due to inactivity in 8 minutes.
+ Any unsaved data will be lost if you allow the session to expire.
+ Click the button below to continue your session.
+
+ Sign out
+ Stay signed in
+
+ Return to top
+
+USAJOBS is a Opens in a new windowUnited States Office of Personnel Management website.
+
+ (Opens in a new window) OPM on LinkedIn
+
+ (Opens in a new window) OPM YouTube channel
+
+ (Opens in a new window) OPM on X
+
+Opens in a new windowEEO Policy Statement
+
+Opens in a new windowReasonable Accommodation Policy Statement
+
+Veterans Information
+
+Opens in a new windowLegal and Regulatory Guidance
+
+About USAJOBS
+
+Opens in a new windowAccessibility
+
+Opens in a new windowFOIA
+
+Opens in a new windowInspector general
+
+Opens in a new windowNo Fear Act Data
+
+Opens in a new windowPrivacy policy
+
+Opens in a new windowReports and publications
+
+Opens in a new windowTerms and conditions
+
+Opens in a new windowUSA.gov

@@ -1,0 +1,32 @@
+{
+  "@context": "http://www.schema.org",
+  "@type": "JobPosting",
+  "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": {
+      "@type": "QuantitativeValue",
+      "value": 51210.0,
+      "unitText": "YEAR"
+    }
+  },
+  "datePosted": "10/29/2026",
+  "description": "You will serve as a in the CUSTOMER SERVICE DIVISION (N01RM5) within the RESOURCE MANAGEMENT DEPARTMENT (N01RM) of NAVAL INFORMATION FORCES.",
+  "educationRequirements": "In lieu of specialized experience, you may qualify with the following education or combination of both education and experience:<br>\n<br>\n<b><u>GS-09:</u></b><br>\nSuccessful completion of a master's or equivalent graduate degree<br>\nOR<br>\nSuccessful completion of two full years of progressively higher-level graduate education leading to a master's degree<br>\nOR<br>\nPossession of an LL.B. or J.D. that is related to this position being filled. <a href=\"https://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/students/federal-occupations-by-college-major/\">https://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/students/federal-occupations-by-college-major/</a><br>\n<br>\n<b><u>GS-07:</u></b><br>\nOne full year of graduate level education<br>\nOr<br>\nEarned a bachelor's degree with superior academic achievement<br>\nOR<br>\nA combination of experience and graduate education as described above that equates to one year of experience.<br>\n<br>\nA transcript must be submitted with your application if qualifying using education. See Required Documents for additional information.",
+  "employmentType": "OTHER",
+  "hiringOrganization": "NAVAL INFORMATION FORCES",
+  "jobLocation": [
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Suffolk",
+        "addressRegion": "VA "
+      }
+    }
+  ],
+  "responsibilities": "",
+  "qualifications": "<b><u>GS-09:</u></b><br>\nYour resume must demonstrate at least one year of specialized experience at or equivalent to the <strong>(GS-07)</strong> grade level or pay band in the Federal service or equivalent experience in the private or public sector. Specialized experience must demonstrate the following:\n<ul>\n\t<li>Financial Analysis & Budgeting: Performing budget analysis, tracking financial plans, and executing fund controls under general supervision.</li>\n\t<li>System Operations: Utilizing integrated financial software (e.g., Navy ERP or equivalent accounting system software packages) to extract, analyze, and process financial data.</li>\n\t<li>Policy Compliance: Applying Federal Appropriations Law, Joint Travel Regulations (JTR), and DoD financial regulations.</li>\n\t<li>Error Correction: Auditing and validating transactions, identifying financial anomalies, and tracking \"cradle-to-grave\" funding to resolve execution bottlenecks.</li>\n\t<li>Researching and resolving high-level employee pay and leave claims requiring historical audits of electronic timecards and master pay files; coordinating retro-pay corrections.</li>\n</ul>\n<b><u>GS-07:</u></b><br>\nYour resume must demonstrate at least one year of specialized experience at or equivalent to the <strong>(GS-05)</strong> grade level or pay band in the Federal service or equivalent experience in the private or public sector. Specialized experience must demonstrate the following:\n\n<ul>\n\t<li>Collecting and analyzing basic financial, accounting, or budget data.</li>\n\t<li>Monitoring and tracing funds execution, identifying discrepancies, or reviewing financial reports. Processing invoices, reviewing transactions, or applying financial principles and procedural concepts.</li>\n\t<li>Communicating basic financial data and policies to team members.</li>\n\t<li>Serving as Time and Attendance Customer Service Representative (CSR), assisting employees and supervisors with electronic timecard navigation, pay calculations, and leave balance inquiries.</li>\n</ul>\nAdditional qualification information can be found from the following Office of Personnel Management web site: <a href=\"https://www.opm.gov/policy-data-oversight/classification-qualifications/general-schedule-qualification-standards/#url=List-by-Occupational-Series\">https://www.opm.gov/policy-data-oversight/classification-qualifications/general-schedule-qualification-standards/#url=List-by-Occupational-Series</a><br>\n<br>\nExperience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., professional, philanthropic, religious, spiritual, community, student, social). Volunteer work helps build critical competencies, knowledge, and skills and can provide valuable training and experience that translates directly to paid employment.",
+  "title": "FINANCIAL MANAGEMENT ANALYST",
+  "validThrough": "2026-11-03"
+}

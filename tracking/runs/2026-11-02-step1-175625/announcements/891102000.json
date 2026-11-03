@@ -1,0 +1,32 @@
+{
+  "@context": "http://www.schema.org",
+  "@type": "JobPosting",
+  "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": {
+      "@type": "QuantitativeValue",
+      "value": 111183.0,
+      "unitText": "YEAR"
+    }
+  },
+  "datePosted": "10/30/2026",
+  "description": "Serves as the Financial Analyst (Internal Controls) in a Defense Commissary Agency (DeCA) HQ location. The primary purpose of this position is to provide analytical and executive administration support to the Internal Control over Financial Reporting program.<br>\n<br>\n<strong>Read the entire announcement before starting the application process.</strong>",
+  "educationRequirements": "You may not use education to qualify for this position.<br>\n<br>",
+  "employmentType": "OTHER",
+  "hiringOrganization": "DECA HQ",
+  "jobLocation": [
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Fort Lee",
+        "addressRegion": "VA "
+      }
+    }
+  ],
+  "responsibilities": "As the Financial Analyst (Internal Controls) you will be responsible for the following duties:\n<ul>\n\t<li>Manage and oversee the agency's internal control program for financial reporting.</li>\n\t<li>Evaluate, test, and report on financial reporting controls and corrective actions.</li>\n\t<li>Provide guidance and support to leaders and process owners on financial control requirements.</li>\n\t<li>Develop policies, procedures, training, and documentation related to internal controls.</li>\n\t<li>Validate financial data, review system and process improvements, and ensure accuracy and compliance.</li>\n</ul>\n<br>\nRead the entire job announcement. Focus on the following sections to understand whether or not you qualify for the position. This critical information is found under:\n<ul>\n\t<li>Duties and Qualifications</li>\n\t<li>How to Apply (including a preview of the assessment questionnaire, if applicable)</li>\n\t<li>How You Will be Evaluated</li>\n</ul>\nYour resume must thoroughly describe how your skills and experiences align to the criteria defined in the Qualifications section of this announcement and it must support your responses to the assessment questionnaire. We do not assume you have the necessary experience to successfully perform in this job regardless of your employment history or academic career.<br>\n<br>\n<strong>Read the entire announcement before starting the application process.</strong>",
+  "qualifications": "To qualify for <strong>Financial Analyst (Internal Controls)</strong> your resume and supporting documentation must support:<br>\n<br>\nA. Creditable specialized experience includes<br>\nGS-13:\n<ul>\n\t<li>Applying advanced financial reporting knowledge to assess, document, and improve internal control processes required by federal law and government-wide guidance.</li>\n\t<li>Conducting internal control testing using qualitative and quantitative analysis to determine whether financial reporting processes are effective or need corrective action.</li>\n\t<li>Developing process narratives, flowcharts, and control analyses for complex financial reporting workflows to ensure compliance with required internal control standards.</li>\n\t<li>Analyzing financial and operational data to identify control deficiencies, recommend corrective actions, and prepare required submissions for senior leadership and oversight bodies.</li>\n</ul>\n<br>\n<br>\n<strong>Time-in-grade</strong> applies to the promotion of current and former federal employees who hold or have held a permanent GS position in either the competitive or excepted service in the previous 52 weeks, including current employees applying under VEOA. Your application package must contain proof you meet this requirement. See Required Documents for more information.\n\n<ul>\n\t<li>For GS-13: You must have 52 weeks of Federal service at or equivalent to GS-12.</li>\n</ul>\n<br>\n<strong>Time after competitive appointment.</strong> Current federal civilian employees must have completed at least 90 days of federal civilian service since being selected for a non-temporary appointment from a competitive examination register of eligibles (an announcement opened to the public) or under a direct hire authority.<br>\n<br>\n<br>\nAs part of the online application process, you will respond to a series of questions designed to evaluate your level of experience in these competencies:<br>\n<br>\n<ul><li>Financial Concepts, Policies, and Principles</li><li>Financial Management Analysis</li><li>Financial Management Systems</li><li>Financial Reporting</li><li>Financial Stewardship</li></ul><br>\n<br>\n<br>\n<strong>Overtime</strong>: Occasional<br>\n<strong>Fair Labor Standards Act (FLSA)</strong>: Exempt.<br>\n<strong>Bargaining Unit Status</strong>: Not Covered<br>\n<b>Those retired under CSRS or FERS considered</b>: No. <a href=\"https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/140025/1400.25-V300.pdf\">DoD criteria</a> not met.<br>\n<strong>Telework eligible</strong>: Yes, as determined by agency policy.<br>\n<strong>Remote work eligible</strong>: No.<br>\n<br>\n<br>\n<strong>Appointment of Department of Defense Spouses (NonComp Civ Sp): </strong>In order to use this eligibility, you must be the spouse of a current Department of Defense, Department of State, or intelligence community employee who is being transferred in the interest of the Government from one official station within the Department to another within the Department for permanent duty. You are required to submit proof of marriage AND permanent change of station (PCS) orders: spouse's PCS orders (showing you as a dependent) and/or copy of marriage certificate. If you are a current or previous Federal employee, please include your most recent SF-50.",
+  "title": "FINANCIAL ANALYST (INTERNAL CONTROLS)",
+  "validThrough": "2026-11-09"
+}

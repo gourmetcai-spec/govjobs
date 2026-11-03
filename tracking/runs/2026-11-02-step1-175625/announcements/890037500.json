@@ -1,0 +1,32 @@
+{
+  "@context": "http://www.schema.org",
+  "@type": "JobPosting",
+  "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": {
+      "@type": "QuantitativeValue",
+      "value": 121785.0,
+      "unitText": "YEAR"
+    }
+  },
+  "datePosted": "10/23/2026",
+  "description": "This position is located in the DEA, Office of Diversion Control Operations, Drug and Chemical Evaluation Section, Data Analysis Unit (DOED)<br>\n<br>\nThis position(s) primary purpose is to devise methodologies, data structures, and coding techniques that efficiently organize raw data into usable information that can be analyzed using statistical or other mathematical concepts.",
+  "educationRequirements": "<h5>See the qualification section of this vacancy announcement for education requirements.</h5>\n<br>\nEducation completed in foreign colleges or universities may be used to meet the education requirements if you can show that the foreign education is comparable to that received in an accredited educational institution in the United States. It is your responsibility to provide such evidence when applying. For a list of accredited organizations recognized as specializing in interpretation of foreign education credentials, visit: <a href=\"http://www.naces.org/members.php\">www.naces.org/members</a>.<br>\n<br>\nIf you are claiming education as any part of your qualifications for this position, you must submit an official transcript, unofficial transcript, or a list including courses, grades earned, completion dates, and quarter and semester hours earned.",
+  "employmentType": "OTHER",
+  "hiringOrganization": "Drug Enforcement Administration",
+  "jobLocation": [
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Arlington County",
+        "addressRegion": "VA "
+      }
+    }
+  ],
+  "responsibilities": "<strong>The closing date of the announcement was modified to extend the closing date to 11/13/2026.</strong><br>\n<br>\nAs a Data Scientist your typical work assignments may include:\n<ul>\n\t<li>Compiling and organizing structured and unstructured program data into tangible and usable information that aids in criminal investigations and analysis of operations for agency personnel<b>.</b></li>\n\t<li>Managing the hardware and software components used to gather, organize, store, and retrieve data ensuring that they are updated in accordance with established policies and procedures and operational requirements.</li>\n\t<li>Developing machine learning tools, algorithms, and queries that are used to analyze diverse, open source, commercial, and proprietary data both structured and unstructured, to identify connections and associations that are not easily observable.</li>\n\t<li>Devising informational resources, guides, and other reporting material using consistent formats, structure, and messaging to convey complex topics and subjects in easily digestible charts, diagrams, and graphs.</li>\n\t<li>Authoring formal analysis reports and assessments or findings under strict timelines used to facilitate decisions made at the leadership and executive level within the organization.</li>\n</ul>",
+  "qualifications": "For more information on eligibility requirements see: <a href=\"https://www.dea.gov/how-to-apply/employment-eligibility\">DEA Employment Eligibility</a><br>\n<br>\n<strong>Applicants must meet the required qualification requirements described below by the closing date of the announcement. If you are qualifying based on education or if there are mandatory education requirements listed below, you MUST submit a copy of your college transcripts with your application.<br>\n<br>\nBasic Qualification Requirements: </strong>: The basic requirement for this position requires a degree in mathematics, statistics, computer science, data science or field directly related to the position. The degree must be in a major field of study (at least at the baccalaureate level) that is appropriate for the position.<br>\n<br>\n<strong>-OR-</strong><br>\n<br>\nA combination of education and experience: Courses equivalent to a major field of study (30 semester hours) as shown above, plus additional education or appropriate experience.<br>\n<br>\nIn addition to meeting the basic requirement, applicants must possess at least one year of specialized experience equivalent to at least the next lower grade level.<br>\n<br>\nApplicants applying for the <strong>GS-13</strong> must meet the following requirements:<br>\n<br>\nHave at least one full year of specialized experience that is at least equivalent to work performed at the <strong>GS-12 </strong>grade level. <em>Specialized experience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., Peace Corps, AmeriCorps) and other organizations (e.g., professional; philanthropic; religious; spiritual; community, student, social). Volunteer work helps build critical competencies, knowledge, and skills and can provide valuable training and experience that translates directly to paid employment. You will receive credit for all qualifying experience, including volunteer experience.</em><br>\n<br>\nQualifying experience must demonstrate the following:<br>\n<br>\n<b>GS-13</b>: Must have one (1) year of specialized experience equivalent to at least the <b>GS-12</b> level or pay band in the Federal service that includes performing the following duties: <b>1)</b> <b>utilizing data management systems to organize data into tangible and usable information to aid in analysis; 2) authoring formal analysis reports, assessments or findings used to facilitate decision making; 3) developing queries for data extraction; and 4) conducting studies to determine the validity of data, methodologies used, or results of information/analysis.</b><br>\n<br>\nAdditional information on the position qualification requirements are located in the Office of Personnel Management's (OPM) <a href=\"https://www.opm.gov/policy-data-oversight/classification-qualifications/general-schedule-qualification-standards/\">Qualifications Standards Handbook</a>.<br>\n<br>\n<strong>Time-In-Grade Requirement</strong>: Applicants must meet time-in-grade and time after competitive appointment requirements by the closing date of this announcement.",
+  "title": "Data Scientist",
+  "validThrough": "2026-11-13"
+}

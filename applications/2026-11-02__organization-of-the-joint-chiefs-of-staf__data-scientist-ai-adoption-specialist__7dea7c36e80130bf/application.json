@@ -1,0 +1,90 @@
+{
+  "title": "Data Scientist (AI Adoption Specialist)",
+  "requisition_id": "JCS-27-13100086-DH",
+  "canonical_url": "https://www.usajobs.gov/job/890768400",
+  "application_url": "https://www.usajobs.gov/job/890768400",
+  "posted_date": "2026-10-29",
+  "posted_date_evidence": "Official announcement JobPosting.datePosted; corroborated by native search PositionStartDate where listed.",
+  "close_date": "2026-11-08",
+  "deadline_timezone": "America/New_York",
+  "deadline_time": "23:59",
+  "deadline_source": "https://www.usajobs.gov/job/890768400",
+  "deadline_verified": true,
+  "early_closure_conditions": [
+    "This job will close when we have received 75 applications which may be sooner than the closing date. Learn more"
+  ],
+  "rolling_cutoff": null,
+  "location": "Pentagon, Arlington, VA",
+  "remote_restrictions": "Offered DMV work location; verify telework/attendance and screening conditions in announcement.",
+  "salary": "Starting at $121,785 Per year (GS 13)",
+  "retrieved_at": "2026-11-02T23:14:54.501767+00:00",
+  "control_number": "890768400",
+  "fit": "Mathematics/CS education, Monte Carlo/statistical research, forecasting and decision-support modeling overlap; specialized domain/AI requirements need confirmation.",
+  "gaps": "Confirm the announcement-specific specialized experience, grade-equivalent scope and mandatory conditions against your actual work history. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.",
+  "requirements_confirmed_unmet": [],
+  "requirements_unverified": [
+    "Confirm the announcement-specific specialized experience, grade-equivalent scope and mandatory conditions against your actual work history.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "preferred_requirements_note": "See official qualifications/education sections; missing evidence does not establish an unmet requirement.",
+  "hiring_paths": [
+    "Competitive service",
+    "Career transition (CTAP, ICTAP, RPL)",
+    "Veterans",
+    "Military spouses",
+    "Individuals with disabilities",
+    "Special authorities"
+  ],
+  "open_evidence": "Official announcement downloaded successfully; validThrough and native open-status evidence retained.",
+  "discovery_window": [
+    "2026-09-02",
+    "2026-11-02"
+  ],
+  "employer": "Organization of the Joint Chiefs of Staff",
+  "status": "needs_verification",
+  "aliases": [],
+  "id": "7dea7c36e80130bf",
+  "application_directory": "applications/2026-11-02__organization-of-the-joint-chiefs-of-staf__data-scientist-ai-adoption-specialist__7dea7c36e80130bf",
+  "step": 1,
+  "selected": false,
+  "submitted": false,
+  "artifacts": {
+    "resume_markdown": {
+      "path": "applications/2026-11-02__organization-of-the-joint-chiefs-of-staf__data-scientist-ai-adoption-specialist__7dea7c36e80130bf/resume-xuewu-cai__organization-of-the-joint-chiefs-of-staf__data-scientist-ai-adoption-specialist__890768400.md",
+      "sha256": "2d24e502ff7e0a98e4a260ef99d04102b8939c42f263c667cee61b191210e89e"
+    },
+    "resume_pdf": {
+      "path": "applications/2026-11-02__organization-of-the-joint-chiefs-of-staf__data-scientist-ai-adoption-specialist__7dea7c36e80130bf/resume-xuewu-cai__organization-of-the-joint-chiefs-of-staf__data-scientist-ai-adoption-specialist__890768400.pdf",
+      "sha256": "5ba145a9a1e53e33c3b018c5c54f5b6c24543790ab0acf971f07a6f5d7b7195a"
+    }
+  },
+  "artifact_versions": [
+    {
+      "revision_id": "2026-11-02T23:14:54.501767+00:00",
+      "artifacts": {
+        "resume_markdown": {
+          "path": "applications/2026-11-02__organization-of-the-joint-chiefs-of-staf__data-scientist-ai-adoption-specialist__7dea7c36e80130bf/resume-xuewu-cai__organization-of-the-joint-chiefs-of-staf__data-scientist-ai-adoption-specialist__890768400.md",
+          "sha256": "2d24e502ff7e0a98e4a260ef99d04102b8939c42f263c667cee61b191210e89e"
+        },
+        "resume_pdf": {
+          "path": "applications/2026-11-02__organization-of-the-joint-chiefs-of-staf__data-scientist-ai-adoption-specialist__7dea7c36e80130bf/resume-xuewu-cai__organization-of-the-joint-chiefs-of-staf__data-scientist-ai-adoption-specialist__890768400.pdf",
+          "sha256": "5ba145a9a1e53e33c3b018c5c54f5b6c24543790ab0acf971f07a6f5d7b7195a"
+        }
+      },
+      "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a"
+    }
+  ],
+  "resume_status": "prepared_with_attention",
+  "resume_review": "Text and hashes verified; all 20 baseline experience bullets preserved with updated title. Two pages rendered in PDFKit; all 113 distinct page images visually reviewed across 10 boards (238 rendered pages total). No clipping, overlap or blank pages. Neutral metadata and no AI-editing/targeting labels. Candidate facts/qualifications marked as attention items; no submission.",
+  "required_answers_pending": [
+    "Confirm the announcement-specific specialized experience, grade-equivalent scope and mandatory conditions against your actual work history.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "confirmed_unmet_requirements": [],
+  "qualifications_verified": false,
+  "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a",
+  "resume_format": "restored_two_page",
+  "current_resume_naming": "unversioned",
+  "clearance_requirement": "Top Secret",
+  "public_hiring_route_evidence": true
+}

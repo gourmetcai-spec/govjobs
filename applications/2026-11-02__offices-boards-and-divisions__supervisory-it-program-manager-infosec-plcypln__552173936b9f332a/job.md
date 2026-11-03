@@ -1,0 +1,916 @@
+# Supervisory IT Program Manager (INFOSEC/PLCYPLN)
+
+{
+  "title": "Supervisory IT Program Manager (INFOSEC/PLCYPLN)",
+  "requisition_id": "JMD-CIO-27-13104523-DHA",
+  "canonical_url": "https://www.usajobs.gov/job/890885000",
+  "application_url": "https://www.usajobs.gov/job/890885000",
+  "posted_date": "2026-10-30",
+  "posted_date_evidence": "Official announcement JobPosting.datePosted; corroborated by native search PositionStartDate where listed.",
+  "close_date": "2026-11-05",
+  "deadline_timezone": "America/New_York",
+  "deadline_time": "23:59",
+  "deadline_source": "https://www.usajobs.gov/job/890885000",
+  "deadline_verified": true,
+  "early_closure_conditions": [],
+  "rolling_cutoff": null,
+  "location": "Washington, DC",
+  "remote_restrictions": "Offered DMV work location; verify telework/attendance and screening conditions in announcement.",
+  "salary": "Starting at $169,279 Per year (GS 15)",
+  "retrieved_at": "2026-11-02T23:14:54.501767+00:00",
+  "control_number": "890885000",
+  "fit": "Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.",
+  "gaps": "Confirm the announcement-specific specialized experience, grade-equivalent scope and mandatory conditions against your actual work history. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them. Any own-words/no-AI essay certification must be answered personally; no such essays drafted.",
+  "requirements_confirmed_unmet": [],
+  "requirements_unverified": [
+    "Confirm the announcement-specific specialized experience, grade-equivalent scope and mandatory conditions against your actual work history.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.",
+    "Any own-words/no-AI essay certification must be answered personally; no such essays drafted."
+  ],
+  "preferred_requirements_note": "See official qualifications/education sections; missing evidence does not establish an unmet requirement.",
+  "hiring_paths": [
+    "Open to the public",
+    "Career transition (CTAP, ICTAP, RPL)"
+  ],
+  "open_evidence": "Official announcement downloaded successfully; validThrough and native open-status evidence retained.",
+  "discovery_window": [
+    "2026-09-02",
+    "2026-11-02"
+  ]
+}
+
+## Summary
+
+This position serves as a Supervisory IT Program Manager (INFOSEC/PLCYPLN) located in the Department of Justice, Chief Information Officer, Cybersecurity Services Staff, Administration, Shared Services & Internal Controls Directorate in Washington, DC. The primary purpose of this position is to provide directorate for information security, project management, advisory services, Continuity of Operations, Contracting Officers Representative functions and supervisory authority of the branch.
+
+## Duties
+
+The duties and responsibilities for a Supervisory IT Program Manager (INFOSEC/PLCYPLN), GS-2210-15 generally include, but are not limited to, the following:
+Leads enterprise level oversight of national IT shared services programs to ensure governance integration and alignment with national security priorities.
+Prepares and justify IT budget requirements and ensure auditing and oversight controls.
+Monitors contractor performance, cost controls, and deliverables for compliance with FAR, FITARA, and DOJ OCIO requirements.
+Develops long range IT strategic plans aligned with national security, agency priorities, and federal mandates.
+Identifies vulnerabilities, security gaps, and recommend corrective actions to prevent mission impact.
+
+## Qualifications
+
+To qualify for the position of Supervisory IT Program Manager (INFOSEC/PLCYPLN), at GS-2210-15, you must meet the basic qualification requirements listed below.
+Basic Qualifications (2210 series): Please refer to the OPM IT Management Series 2210 Qualification Standard for the specific experience requirements for the GS-12 and above positions.
+AND
+Specialized Experience: To qualify for the GS-15 grade level, you must have one (1) year of specialized experience equivalent to at least the GS-14 grade level in the Federal service, or comparable non-Federal experience. Specialized experience is defined as experience performing the following duties:
+Leads the development and enhancement of information security programs to include areas such as guidance, procedures, and/or tools.
+Manages IT program execution and resource management across multiple organizations that demonstrate accountability, financial management, cost-benefit analysis, and/or decision-making.
+You MUST meet all qualification requirements by the 11/05/2026 of this announcement.
+Your resume must support your responses to the application questionnaire and the qualification requirements. Failure to do so may result in an ineligible rating.See the Required Documents section for important notes about what must be included in your resume.
+After you submit your application, you will receive notification indicated whether or not the USA Hire assessment is required. You will have 48 hours from the closing date of this announcement11/05/2026 to complete the assessment which is part of your application.
+
+## Education
+
+Some federal jobs allow you to substitute your education for the required experience in order to qualify. For the GS-15 level, you must meet the qualification requirement using experience alone. No substitution of education for experience is permitted.
+
+## Full rendered official announcement
+
+USAJOBS - Job Announcement
+
+ Skip to main content
+
+ An official website of the United States government
+
+Official websites use .gov
+
+A .gov website belongs to an official government organization in the United States.
+
+Secure .gov websites use HTTPS
+ A lock ( LockA locked padlock ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.
+
+ MENU
+
+ Sign in
+
+ My jobs
+
+ Profile
+
+ Resumes & documents
+
+ Notifications
+
+ Talent networks
+
+ Sign out
+
+ My jobs
+
+ Profile
+
+ Resumes & documents
+
+ Notifications
+
+ Talent networks
+
+ Sign out
+
+ Events
+
+ Help Center
+
+ Search
+
+ Back to results
+
+ Apply
+
+ Supervisory IT Program Manager (INFOSEC/PLCYPLN)
+
+Department of Justice
+
+Offices, Boards and Divisions
+
+Justice Management Division, The Office of the Chief Information Officer
+
+Apply
+
+ Print
+
+ Share
+
+ Save
+
+ Summary
+
+ This job is open to
+
+ Duties
+
+ Requirements
+
+ How you will be evaluated
+
+ Required documents
+
+ How to apply
+
+Summary
+
+This position serves as a Supervisory IT Program Manager (INFOSEC/PLCYPLN) located in the Department of Justice, Chief Information Officer, Cybersecurity Services Staff, Administration, Shared Services & Internal Controls Directorate in Washington, DC. The primary purpose of this position is to provide directorate for information security, project management, advisory services, Continuity of Operations, Contracting Officers Representative functions and supervisory authority of the branch.
+
+ Learn more about this agency
+
+Summary
+
+This position serves as a Supervisory IT Program Manager (INFOSEC/PLCYPLN) located in the Department of Justice, Chief Information Officer, Cybersecurity Services Staff, Administration, Shared Services & Internal Controls Directorate in Washington, DC. The primary purpose of this position is to provide directorate for information security, project management, advisory services, Continuity of Operations, Contracting Officers Representative functions and supervisory authority of the branch.
+
+ Learn more about this agency
+
+Overview
+
+ Help
+
+Accepting applications
+
+Location
+
+1 vacancy in the following location:
+
+ Washington, DC
+
+ No matching locations found.
+
+Work site options
+
+Telework eligible
+
+Yes—as determined by the agency policy.
+
+Remote job
+
+No
+
+Relocation expenses reimbursed
+
+ No
+
+Salary
+
+ $169,279 - $197,200 per year
+
+Pay scale & grade
+
+GS 15
+
+Promotion potential
+
+15
+
+ Learn more about pay scale and grade
+
+ Pay scale and grade determines the salary of the job.
+
+Work schedule
+
+Full-time
+
+Travel Required
+
+25% or less - You may be expected to travel for this position.
+
+Appointment type
+
+Permanent
+
+Occupations and job series
+
+ 2210 Information Technology Management
+
+Supervisory status
+
+Yes
+
+Federal service type
+
+This job is in the Competitive Service
+
+Represented by a union
+
+No
+
+Drug test
+
+Yes
+
+Security clearance
+
+Sensitive Compartmented Information
+
+Position sensitivity and risk
+
+Special-Sensitive (SS)/High Risk
+
+ Jobs require a
+ background check and some require a
+ security clearance. The type depends on the job.
+
+Background check type
+
+ Credentialing
+
+ Suitability/Fitness
+
+ National security
+
+Financial disclosure required
+
+Yes
+
+ Some jobs require
+ financial disclosure to identify conflicts of interests.
+
+Announcement number
+
+JMD-CIO-27-13104523-DHA
+
+Control number
+
+890885000
+
+This job is open to
+
+ Help
+
+The public
+
+ U.S. Citizens, Nationals or those who owe allegiance to the U.S.
+
+Career transition (CTAP, ICTAP, RPL)
+
+ Federal employees whose job, agency or department was eliminated and are eligible for priority over other applicants.
+
+Clarification from the agency
+
+This position is being filled using Direct-Hire Authority.
+
+Duties
+
+ Help
+
+ The duties and responsibilities for a Supervisory IT Program Manager (INFOSEC/PLCYPLN), GS-2210-15 generally include, but are not limited to, the following:
+
+Leads enterprise level oversight of national IT shared services programs to ensure governance integration and alignment with national security priorities.
+
+Prepares and justify IT budget requirements and ensure auditing and oversight controls.
+
+Monitors contractor performance, cost controls, and deliverables for compliance with FAR, FITARA, and DOJ OCIO requirements.
+
+Develops long range IT strategic plans aligned with national security, agency priorities, and federal mandates.
+
+Identifies vulnerabilities, security gaps, and recommend corrective actions to prevent mission impact.
+
+Requirements
+
+ Help
+
+Conditions of employment
+
+You must be a United States Citizen or National.
+
+You must successfully pass a security/background investigation and a drug screening.
+
+Selective Service registration is required, see the "Additional Information" section for full details.
+
+Financial Disclosure: If selected, you may be required to disclose financial information in accordance with DOJ and Federal ethics guidelines.
+
+You may be required to complete a one-year probationary period. See “Additional Information” section for specific details.
+
+A USA Hire assessment is required. An email will be sent with additional information after you submit your application. You will have 48 hours from the closing date of this announcement to complete the assessment.
+
+This position requires the candidate to be able to hold a security clearance at the Top Secret / SCI security level.
+
+This position requires the incumbent to obtain and maintain certification in FAC-COR level III and/or FAC-PM certification.
+
+This position requires temporary duty (TDY) business travel approximately 25% of the time.
+
+This position is designated as Mission Critical/Mission Essential (See Announcement Questionnaire for detailed description)
+
+You may be required to complete a one-year supervisory probationary period.
+
+Qualifications
+
+ To qualify for the position of Supervisory IT Program Manager (INFOSEC/PLCYPLN), at GS-2210-15, you must meet the basic qualification requirements listed below.
+
+Basic Qualifications (2210 series): Please refer to the OPM IT Management Series 2210 Qualification Standard for the specific experience requirements for the GS-12 and above positions.
+
+AND
+
+Specialized Experience: To qualify for the GS-15 grade level, you must have one (1) year of specialized experience equivalent to at least the GS-14 grade level in the Federal service, or comparable non-Federal experience. Specialized experience is defined as experience performing the following duties:
+
+Leads the development and enhancement of information security programs to include areas such as guidance, procedures, and/or tools.
+
+Manages IT program execution and resource management across multiple organizations that demonstrate accountability, financial management, cost-benefit analysis, and/or decision-making.
+
+You MUST meet all qualification requirements by the 11/05/2026 of this announcement.
+
+Your resume must support your responses to the application questionnaire and the qualification requirements. Failure to do so may result in an ineligible rating.See the Required Documents section for important notes about what must be included in your resume.
+
+After you submit your application, you will receive notification indicated whether or not the USA Hire assessment is required. You will have 48 hours from the closing date of this announcement11/05/2026 to complete the assessment which is part of your application.
+
+Education
+
+ Some federal jobs allow you to substitute your education for the required experience in order to qualify. For the GS-15 level, you must meet the qualification requirement using experience alone. No substitution of education for experience is permitted.
+
+Additional information
+
+Additional selections may be made from this announcement.
+
+This announcement is being advertised under an agency specific OR a government-wide Direct-Hire Authority approved by OPM for filling vacancies when a severe shortage or critical hiring need exists. Veterans Preference and other Category Rating procedures do not apply to this announcement. Applicants must meet all qualification requirements of the position. The hiring office may interview and select any qualified candidate of their choosing from the qualified pool. See OPM, Direct Hire Authority for more information.
+
+Career Transition Programs (CTAP or ICTAP): These programs apply to Federal and/or DOJ employees who meet the definition of surplus or displaced from a position in the competitive service. To receive selection priority for this position, you must:
+
+Be rated well-qualified for the position based on the competencies listed above; and
+
+submit the appropriate documentation to support your CTAP or ICTAP eligibility. Well-qualified is defined as having knowledge, skills, abilities, and/or competencies clearly exceeding the minimum qualification requirements for the vacancy.
+
+Probationary Period: As a condition of employment for accepting this position, you may be required to serve a 1-year probationary period during which we will evaluate your fitness and whether your continued employment advances the public interest. In determining if your employment advances the public interest, we may consider:
+
+1) your performance and conduct;
+
+2) the needs and interests of the agency;
+
+3) whether your continued employment would advance organizational goals of the agency or the Government; and
+
+4) whether your continued employment would advance the efficiency of the Federal service.
+
+Upon completion of your probationary period, your employment will be terminated unless you receive certification, in writing, that your continued employment advances the public interest.
+
+EEO Statement/Policy: The United States government does not discriminate in employment on the basis of race, color, religion, sex, pregnancy, national origin, political affiliation, sexual orientation, marital status, disability, genetic information, age, membership in an employee organization, retaliation, parental status, military service or other non-merit factor. More information can be found here: https://www.justice.gov/jmd/media/1425556/dl?inline.
+
+DOJ Reasonable Accommodation Statement: Federal agencies must provide reasonable accommodation to applicants with disabilities where appropriate. Applicants requiring reasonable accommodation for any part of the application and hiring process should contact the hiring agency directly. Determinations on requests for reasonable accommodation will be made on a case-by-case basis. The DOJ Reasonable Accommodation policy can be found here: https://www.justice.gov/jmd/reasonable-accommodation#policy
+
+*Continued under Benefits
+
+ Expand Hide  additional information
+
+Candidates should be committed to improving the efficiency of the Federal government, passionate about the ideals of our American republic, and committed to upholding the rule of law and the United States Constitution.
+
+Benefits
+
+ Help
+
+ A career with the U.S. government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding. Opens in a new windowLearn more about federal benefits.
+
+*Continued from Additional Information:
+
+DOJ Reasonable Accommodation Statement: Federal agencies must provide reasonable accommodation to applicants with disabilities where appropriate. Applicants requiring reasonable accommodation for any part of the application and hiring process should contact the hiring agency directly. Determinations on requests for reasonable accommodation will be made on a case-by-case basis. The DOJ Reasonable Accommodation policy can be found here: https://www.justice.gov/jmd/reasonable-accommodation#policy
+
+Selective Service: If you were born male, on or after December 31, 1959, you must certify that you have registered with the Selective Service System, or are exempt from having to do so under the Selective Service Law. Additional information is found at: www.sss.gov.
+
+Fair Chance to Compete for Jobs: The Fair Chance Act prohibits Federal agencies from requesting an applicant's criminal history information before the agency makes a conditional offer of employment. If you believe a DOJ employee or Federal contractor acting on its behalf has violated your rights under this Act, you may submit a written complaint within 30 days of the date of the alleged non-compliance directly to Ebony Stephenson at Ebony.Stephenson2@usdoj.gov.
+
+Note: In accordance with 5 U.S. Code § 9202(c) and 5 C.F.R § 920.201(b) certain positions are exempt from the provisions of the Fair Chance Act.
+
+This position is excluded from the bargaining unit.
+
+ Review our benefits
+
+Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time or intermittent. Contact the hiring agency for more information on the specific benefits offered.
+
+How you will be evaluated
+
+You will be evaluated for this job based on how well you meet the qualifications above.
+
+ Once the job opportunity announcement closes (at 11:59 pm ET on 11/05/2026, your qualifications will be evaluated based on your application materials (e.g., resume, supporting documents) along with the results of the applied assessment.
+
+You will be assessed on the following competencies (knowledge, skills, abilities, and other characteristics):
+
+Accountability
+Attention to Detail
+Customer Service
+Decisiveness
+Enterprise Architecture
+Flexibility
+Information Technology Program Management
+Interpersonal Skills
+Problem Solving
+Resilience
+Strategic Thinking
+Vulnerabilities Assessment
+
+When addressing the specialized experience statement, applicants must present evidence of the experience in their resume. If the specialized experience statement is repeated, in the applicant's resume, Human Resources will deem the applicant as ineligible.
+
+This position requires an online assessment. The online assessment measures critical general competencies required to perform the job.
+
+The assessment includes a cut score based on the minimum level of required proficiency in these critical general competencies. You must meet or exceed the cut score to be considered. You will not be considered for the position if you score below the cut score or fail to complete the assessment.
+
+Your USAHIRE assessment results will be kept on record for one year and used toward future positions for which you might apply that require the same assessments.
+
+Qualified applicants who pass the minimum level of required proficiency through the USAHire assessment will be referred to the selecting official for consideration.
+
+The Hiring Official may select any qualified candidate. Veterans' preference is not applicable.
+
+If you would like to preview the application questionnaire, please see: https://apply.usastaffing.gov/ViewQuestionnaire/13104523.
+
+Benefits
+
+ Help
+
+ A career with the U.S. government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding. Opens in a new windowLearn more about federal benefits.
+
+*Continued from Additional Information:
+
+DOJ Reasonable Accommodation Statement: Federal agencies must provide reasonable accommodation to applicants with disabilities where appropriate. Applicants requiring reasonable accommodation for any part of the application and hiring process should contact the hiring agency directly. Determinations on requests for reasonable accommodation will be made on a case-by-case basis. The DOJ Reasonable Accommodation policy can be found here: https://www.justice.gov/jmd/reasonable-accommodation#policy
+
+Selective Service: If you were born male, on or after December 31, 1959, you must certify that you have registered with the Selective Service System, or are exempt from having to do so under the Selective Service Law. Additional information is found at: www.sss.gov.
+
+Fair Chance to Compete for Jobs: The Fair Chance Act prohibits Federal agencies from requesting an applicant's criminal history information before the agency makes a conditional offer of employment. If you believe a DOJ employee or Federal contractor acting on its behalf has violated your rights under this Act, you may submit a written complaint within 30 days of the date of the alleged non-compliance directly to Ebony Stephenson at Ebony.Stephenson2@usdoj.gov.
+
+Note: In accordance with 5 U.S. Code § 9202(c) and 5 C.F.R § 920.201(b) certain positions are exempt from the provisions of the Fair Chance Act.
+
+This position is excluded from the bargaining unit.
+
+ Review our benefits
+
+Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time or intermittent. Contact the hiring agency for more information on the specific benefits offered.
+
+Required documents
+
+Required Documents
+
+ Help
+
+ It is your responsibility to carefully review the list of required documents below and submit the necessary documentation based on your eligibility. Resume
+
+Resume - All Applicants: You must submit a resume (a two page or less resume is required) containing the following pieces of information for each job entry listed in your employment history:
+
+Official position title,
+
+Employer name and contact information,
+
+Start and end dates (including month and year),
+
+Indicate full-time or number of hours worked per week if part-time,
+
+A list of duties performed and accomplishments.
+
+CTAP/ICTAP eligibility documentation - If you are a displaced Federal employee claiming eligibility under CTAP or ICTAP, you must submit:
+
+A copy of the agency notice (i.e., letter of intent to separate, separation notice, or agency RIF letter),
+
+Your most recent performance appraisal, and
+
+Most recent SF-50 showing current/former position, grade, promotion potential, and duty location.
+
+How to Apply
+
+ Help
+
+To apply for this position, you must complete the online application questionnaire and submit your supporting documentation. Your complete application package must be submitted by 11:59 PM (EST) on 11/05/2026 to receive consideration.
+
+The application process is as follows:
+
+To begin the application process, click the Apply Online button.
+
+Answer the questions presented in the application and attach all necessary supporting documentation.
+
+Click the Submit Application button prior to 11:59PM (ET) on 11/05/2026.
+
+After submitting an online application, you will be notified whether or not you are required to take additional online assessments through the USA Hire Competency Based Assessment system. This message will be delivered to you via email notification. The email may be routed to your "Spam" or "Junk" folder.
+
+If you are asked to take the USA Hire Competency Based Assessments, you will be presented with a unique URL to access the USA Hire system. Access to USA Hire is granted through your USAJOBS login credentials. Be sure to review all instructions prior to beginning your USA Hire Assessments. Click here for Computer System Requirements (https://help.usastaffing.gov/Apply/index.php?title=USA_Hire_System_Requirements). Note, set aside at least 3 hours to take these assessments; however, most applicants complete the assessments in less time. If you need to stop the assessments and continue at a later time, you can re-use the URL sent to you via email and also found on the Additional Application Information page that can be located in the application record in your USAJOBS account.
+
+Essay Questions: The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question (see the application questionnaire). You will be asked to certify that you are using your own words and did not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot.
+
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+
+In this role, you will be expected to professionally and efficiently implement executive direction. Provide an example where you implemented leadership direction on a strategy or policy decision that differed from your own recommendation.
+
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+
+NEED HELP?
+
+If you need help with USAJOBs or the application process, please see the USAJOBS Help or Application Manager Online Help websites which includes information on managing your account, creating an application, uploading documents, etc.
+
+Reasonable Accommodation: To request reasonable accommodation for any part of the application and hiring process, please contact Ebony Stephenson at Ebony.Stephenson2@usdoj.gov for assistance.
+
+Agency contact information
+
+ Ebony Stephenson
+
+Email
+
+ ebony.stephenson2@usdoj.gov
+
+Address
+
+ Deputy Assistant Attorney General, Chief Information Officer
+
+ 2 Constitution Square
+
+145 N Street NE
+
+Room 9W.300
+
+ Washington, DC 20530
+
+ US
+
+Next steps
+
+You will receive e-mail notifications as your application status is updated by DOJ. However, you can also see your application status any time by logging in to your USAJOBS account and looking on the "Applications" page. Click the position title to expand the display for each application in the list.
+
+Based on your application and your responses to the application questionnaire, you may be presented with instructions on how to access the USA Hire system to complete the online assessments. The online assessments must be completed within 48 hours following the close of this announcement. You will have the opportunity to request a testing accommodation for the assessment should you have a disability covered under the Americans with Disabilities Act (ADA).
+
+We strive to extend a final offer of employment within 90 days from the close of this announcement. Additional selections may be made from this announcement within 90 days.
+
+Fair and transparent
+
+The Federal hiring process is set up to be fair and transparent. Please read the following guidance.
+
+ Criminal history inquiries
+
+ Equal Employment Opportunity (EEO) Policy
+
+ Financial suitability
+
+ New employee probationary period
+
+ Privacy Act
+
+ Reasonable accommodation policy
+
+ Selective Service
+
+ Signature and false statements
+
+ Social security number request
+
+Required Documents
+
+ Help
+
+ It is your responsibility to carefully review the list of required documents below and submit the necessary documentation based on your eligibility. Resume
+
+Resume - All Applicants: You must submit a resume (a two page or less resume is required) containing the following pieces of information for each job entry listed in your employment history:
+
+Official position title,
+
+Employer name and contact information,
+
+Start and end dates (including month and year),
+
+Indicate full-time or number of hours worked per week if part-time,
+
+A list of duties performed and accomplishments.
+
+CTAP/ICTAP eligibility documentation - If you are a displaced Federal employee claiming eligibility under CTAP or ICTAP, you must submit:
+
+A copy of the agency notice (i.e., letter of intent to separate, separation notice, or agency RIF letter),
+
+Your most recent performance appraisal, and
+
+Most recent SF-50 showing current/former position, grade, promotion potential, and duty location.
+
+How to Apply
+
+ Help
+
+To apply for this position, you must complete the online application questionnaire and submit your supporting documentation. Your complete application package must be submitted by 11:59 PM (EST) on 11/05/2026 to receive consideration.
+
+The application process is as follows:
+
+To begin the application process, click the Apply Online button.
+
+Answer the questions presented in the application and attach all necessary supporting documentation.
+
+Click the Submit Application button prior to 11:59PM (ET) on 11/05/2026.
+
+After submitting an online application, you will be notified whether or not you are required to take additional online assessments through the USA Hire Competency Based Assessment system. This message will be delivered to you via email notification. The email may be routed to your "Spam" or "Junk" folder.
+
+If you are asked to take the USA Hire Competency Based Assessments, you will be presented with a unique URL to access the USA Hire system. Access to USA Hire is granted through your USAJOBS login credentials. Be sure to review all instructions prior to beginning your USA Hire Assessments. Click here for Computer System Requirements (https://help.usastaffing.gov/Apply/index.php?title=USA_Hire_System_Requirements). Note, set aside at least 3 hours to take these assessments; however, most applicants complete the assessments in less time. If you need to stop the assessments and continue at a later time, you can re-use the URL sent to you via email and also found on the Additional Application Information page that can be located in the application record in your USAJOBS account.
+
+Essay Questions: The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question (see the application questionnaire). You will be asked to certify that you are using your own words and did not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot.
+
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+
+In this role, you will be expected to professionally and efficiently implement executive direction. Provide an example where you implemented leadership direction on a strategy or policy decision that differed from your own recommendation.
+
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+
+NEED HELP?
+
+If you need help with USAJOBs or the application process, please see the USAJOBS Help or Application Manager Online Help websites which includes information on managing your account, creating an application, uploading documents, etc.
+
+Reasonable Accommodation: To request reasonable accommodation for any part of the application and hiring process, please contact Ebony Stephenson at Ebony.Stephenson2@usdoj.gov for assistance.
+
+ Expand Hide  how to apply
+
+Agency contact information
+
+ Ebony Stephenson
+
+Email
+
+ ebony.stephenson2@usdoj.gov
+
+Address
+
+ Deputy Assistant Attorney General, Chief Information Officer
+
+ 2 Constitution Square
+
+145 N Street NE
+
+Room 9W.300
+
+ Washington, DC 20530
+
+ US
+
+Next steps
+
+You will receive e-mail notifications as your application status is updated by DOJ. However, you can also see your application status any time by logging in to your USAJOBS account and looking on the "Applications" page. Click the position title to expand the display for each application in the list.
+
+Based on your application and your responses to the application questionnaire, you may be presented with instructions on how to access the USA Hire system to complete the online assessments. The online assessments must be completed within 48 hours following the close of this announcement. You will have the opportunity to request a testing accommodation for the assessment should you have a disability covered under the Americans with Disabilities Act (ADA).
+
+We strive to extend a final offer of employment within 90 days from the close of this announcement. Additional selections may be made from this announcement within 90 days.
+
+ Expand Hide  next steps
+
+Fair and transparent
+
+The Federal hiring process is set up to be fair and transparent. Please read the following guidance.
+
+ Criminal history inquiries
+
+ Equal Employment Opportunity (EEO) Policy
+
+ Financial suitability
+
+ New employee probationary period
+
+ Privacy Act
+
+ Reasonable accommodation policy
+
+ Selective Service
+
+ Signature and false statements
+
+ Social security number request
+
+ Offices, Boards and Divisions
+
+ Are you interested in a rewarding and challenging career? Join the U.S. Department of Justice!
+
+The Department of Justice (DOJ) leads the nation in safeguarding Americans while upholding constitutional freedoms. As part of our team, you'll contribute to a vital mission while advancing your career.
+
+Mission:
+
+DOJ is to uphold the rule of law, to keep our country safe, and to protect civil rights.
+
+Core Values:
+
+Independence and Impartiality. DOJ works each day to earn the public's trust by following the facts and the law wherever they may lead, without prejudice or improper influence.
+
+Honesty and Integrity. DOJ's employees adhere to the highest standards of ethical behavior, mindful that, as public servants, we must work to earn the trust of, and inspire confidence in, the public we serve.
+
+Respect. DOJ's employees value differences in people and in ideas and treat everyone with fairness, dignity, and compassion.
+
+Excellence. DOJ works every day to provide the highest levels of service to the American people and to be a responsible steward of the taxpayers' dollars.
+
+Agency contact information
+
+ Ebony Stephenson
+
+Email
+
+ ebony.stephenson2@usdoj.gov
+
+Address
+
+ Deputy Assistant Attorney General, Chief Information Officer
+
+ 2 Constitution Square
+
+145 N Street NE
+
+Room 9W.300
+
+ Washington, DC 20530
+
+ US
+
+Visit our careers page
+
+ Learn more about what it's like to work at Offices, Boards and Divisions, what the agency does, and about the types of careers this agency offers.
+
+ https://www.justice.gov/about
+
+Summary
+
+This position serves as a Supervisory IT Program Manager (INFOSEC/PLCYPLN) located in the Department of Justice, Chief Information Officer, Cybersecurity Services Staff, Administration, Shared Services & Internal Controls Directorate in Washington, DC. The primary purpose of this position is to provide directorate for information security, project management, advisory services, Continuity of Operations, Contracting Officers Representative functions and supervisory authority of the branch.
+
+ Learn more about this agency
+
+Overview
+
+ Help
+
+Accepting applications
+
+Location
+
+1 vacancy in the following location:
+
+ Washington, DC
+
+ No matching locations found.
+
+Work site options
+
+Telework eligible
+
+Yes—as determined by the agency policy.
+
+Remote job
+
+No
+
+Relocation expenses reimbursed
+
+ No
+
+Salary
+
+ $169,279 - $197,200 per year
+
+Pay scale & grade
+
+GS 15
+
+Promotion potential
+
+15
+
+ Learn more about pay scale and grade
+
+ Pay scale and grade determines the salary of the job.
+
+Work schedule
+
+Full-time
+
+Travel Required
+
+25% or less - You may be expected to travel for this position.
+
+Appointment type
+
+Permanent
+
+Occupations and job series
+
+ 2210 Information Technology Management
+
+Supervisory status
+
+Yes
+
+Federal service type
+
+This job is in the Competitive Service
+
+Represented by a union
+
+No
+
+Drug test
+
+Yes
+
+Security clearance
+
+Sensitive Compartmented Information
+
+Position sensitivity and risk
+
+Special-Sensitive (SS)/High Risk
+
+ Jobs require a
+ background check and some require a
+ security clearance. The type depends on the job.
+
+Background check type
+
+ Credentialing
+
+ Suitability/Fitness
+
+ National security
+
+Financial disclosure required
+
+Yes
+
+ Some jobs require
+ financial disclosure to identify conflicts of interests.
+
+Announcement number
+
+JMD-CIO-27-13104523-DHA
+
+Control number
+
+890885000
+
+ Previous result
+
+Next result
+
+Your session is about to expire!
+
+ Your USAJOBS session will expire due to inactivity in 8 minutes.
+ Any unsaved data will be lost if you allow the session to expire.
+ Click the button below to continue your session.
+
+ Sign out
+ Stay signed in
+
+ Return to top
+
+USAJOBS is a Opens in a new windowUnited States Office of Personnel Management website.
+
+ (Opens in a new window) OPM on LinkedIn
+
+ (Opens in a new window) OPM YouTube channel
+
+ (Opens in a new window) OPM on X
+
+Opens in a new windowEEO Policy Statement
+
+Opens in a new windowReasonable Accommodation Policy Statement
+
+Veterans Information
+
+Opens in a new windowLegal and Regulatory Guidance
+
+About USAJOBS
+
+Opens in a new windowAccessibility
+
+Opens in a new windowFOIA
+
+Opens in a new windowInspector general
+
+Opens in a new windowNo Fear Act Data
+
+Opens in a new windowPrivacy policy
+
+Opens in a new windowReports and publications
+
+Opens in a new windowTerms and conditions
+
+Opens in a new windowUSA.gov

@@ -1,0 +1,86 @@
+{
+  "title": "Supervisory IT Program Manager (INFOSEC/PLCYPLN)",
+  "requisition_id": "JMD-CIO-27-13104523-DHA",
+  "canonical_url": "https://www.usajobs.gov/job/890885000",
+  "application_url": "https://www.usajobs.gov/job/890885000",
+  "posted_date": "2026-10-30",
+  "posted_date_evidence": "Official announcement JobPosting.datePosted; corroborated by native search PositionStartDate where listed.",
+  "close_date": "2026-11-05",
+  "deadline_timezone": "America/New_York",
+  "deadline_time": "23:59",
+  "deadline_source": "https://www.usajobs.gov/job/890885000",
+  "deadline_verified": true,
+  "early_closure_conditions": [],
+  "rolling_cutoff": null,
+  "location": "Washington, DC",
+  "remote_restrictions": "Offered DMV work location; verify telework/attendance and screening conditions in announcement.",
+  "salary": "Starting at $169,279 Per year (GS 15)",
+  "retrieved_at": "2026-11-02T23:14:54.501767+00:00",
+  "control_number": "890885000",
+  "fit": "Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.",
+  "gaps": "Confirm the announcement-specific specialized experience, grade-equivalent scope and mandatory conditions against your actual work history. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them. Any own-words/no-AI essay certification must be answered personally; no such essays drafted.",
+  "requirements_confirmed_unmet": [],
+  "requirements_unverified": [
+    "Confirm the announcement-specific specialized experience, grade-equivalent scope and mandatory conditions against your actual work history.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.",
+    "Any own-words/no-AI essay certification must be answered personally; no such essays drafted."
+  ],
+  "preferred_requirements_note": "See official qualifications/education sections; missing evidence does not establish an unmet requirement.",
+  "hiring_paths": [
+    "Open to the public",
+    "Career transition (CTAP, ICTAP, RPL)"
+  ],
+  "open_evidence": "Official announcement downloaded successfully; validThrough and native open-status evidence retained.",
+  "discovery_window": [
+    "2026-09-02",
+    "2026-11-02"
+  ],
+  "employer": "Offices, Boards and Divisions",
+  "status": "needs_verification",
+  "aliases": [],
+  "id": "552173936b9f332a",
+  "application_directory": "applications/2026-11-02__offices-boards-and-divisions__supervisory-it-program-manager-infosec-plcypln__552173936b9f332a",
+  "step": 1,
+  "selected": false,
+  "submitted": false,
+  "artifacts": {
+    "resume_markdown": {
+      "path": "applications/2026-11-02__offices-boards-and-divisions__supervisory-it-program-manager-infosec-plcypln__552173936b9f332a/resume-xuewu-cai__offices-boards-and-divisions__supervisory-it-program-manager-infosec-plcypln__890885000.md",
+      "sha256": "d90d1226b63c5ffc93edb980a2b1b9e4714fee4ffc2bccd4621aa91c8083c782"
+    },
+    "resume_pdf": {
+      "path": "applications/2026-11-02__offices-boards-and-divisions__supervisory-it-program-manager-infosec-plcypln__552173936b9f332a/resume-xuewu-cai__offices-boards-and-divisions__supervisory-it-program-manager-infosec-plcypln__890885000.pdf",
+      "sha256": "bc4dd9a031a1ee364803c48ae867bf8d3f2d04d1b9ed062b21d073114947a50e"
+    }
+  },
+  "artifact_versions": [
+    {
+      "revision_id": "2026-11-02T23:14:54.501767+00:00",
+      "artifacts": {
+        "resume_markdown": {
+          "path": "applications/2026-11-02__offices-boards-and-divisions__supervisory-it-program-manager-infosec-plcypln__552173936b9f332a/resume-xuewu-cai__offices-boards-and-divisions__supervisory-it-program-manager-infosec-plcypln__890885000.md",
+          "sha256": "d90d1226b63c5ffc93edb980a2b1b9e4714fee4ffc2bccd4621aa91c8083c782"
+        },
+        "resume_pdf": {
+          "path": "applications/2026-11-02__offices-boards-and-divisions__supervisory-it-program-manager-infosec-plcypln__552173936b9f332a/resume-xuewu-cai__offices-boards-and-divisions__supervisory-it-program-manager-infosec-plcypln__890885000.pdf",
+          "sha256": "bc4dd9a031a1ee364803c48ae867bf8d3f2d04d1b9ed062b21d073114947a50e"
+        }
+      },
+      "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a"
+    }
+  ],
+  "resume_status": "prepared_with_attention",
+  "resume_review": "Text and hashes verified; all 20 baseline experience bullets preserved with updated title. Two pages rendered in PDFKit; all 113 distinct page images visually reviewed across 10 boards (238 rendered pages total). No clipping, overlap or blank pages. Neutral metadata and no AI-editing/targeting labels. Candidate facts/qualifications marked as attention items; no submission.",
+  "required_answers_pending": [
+    "Confirm the announcement-specific specialized experience, grade-equivalent scope and mandatory conditions against your actual work history.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.",
+    "Any own-words/no-AI essay certification must be answered personally; no such essays drafted."
+  ],
+  "confirmed_unmet_requirements": [],
+  "qualifications_verified": false,
+  "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a",
+  "resume_format": "restored_two_page",
+  "current_resume_naming": "unversioned",
+  "clearance_requirement": "Sensitive Compartmented Information",
+  "public_hiring_route_evidence": true
+}

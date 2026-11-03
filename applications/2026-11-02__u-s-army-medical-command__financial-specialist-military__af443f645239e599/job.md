@@ -1,0 +1,789 @@
+# Financial Specialist (Military)
+
+{
+  "title": "Financial Specialist (Military)",
+  "requisition_id": "HSM1-26-13103370-DHA",
+  "canonical_url": "https://www.usajobs.gov/job/890811100",
+  "application_url": "https://www.usajobs.gov/job/890811100",
+  "posted_date": "2026-10-31",
+  "posted_date_evidence": "Official announcement JobPosting.datePosted; corroborated by native search PositionStartDate where listed.",
+  "close_date": "2026-11-10",
+  "deadline_timezone": "America/New_York",
+  "deadline_time": "23:59",
+  "deadline_source": "https://www.usajobs.gov/job/890811100",
+  "deadline_verified": true,
+  "early_closure_conditions": [],
+  "rolling_cutoff": null,
+  "location": "Bethesda, MD",
+  "remote_restrictions": "Offered DMV work location; verify telework/attendance and screening conditions in announcement.",
+  "salary": "Starting at $70,623 Per year (GS 9)",
+  "retrieved_at": "2026-11-02T23:14:54.501767+00:00",
+  "control_number": "890811100",
+  "fit": "Financial forecasting, capital/ROE, quantitative risk and engineering leadership overlap; federal budget/accounting/policy specialties remain attention items.",
+  "gaps": "Verify OMB/federal budget procedures against the exact qualification clause; not established by the baseline alone. Verify NIST/security-control experience against the exact qualification clause; not established by the baseline alone. Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.",
+  "requirements_confirmed_unmet": [],
+  "requirements_unverified": [
+    "Verify OMB/federal budget procedures against the exact qualification clause; not established by the baseline alone.",
+    "Verify NIST/security-control experience against the exact qualification clause; not established by the baseline alone.",
+    "Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "preferred_requirements_note": "See official qualifications/education sections; missing evidence does not establish an unmet requirement.",
+  "hiring_paths": [
+    "Open to the public"
+  ],
+  "open_evidence": "Official announcement downloaded successfully; validThrough and native open-status evidence retained.",
+  "discovery_window": [
+    "2026-09-02",
+    "2026-11-02"
+  ]
+}
+
+## Summary
+
+This is a Direct Hire Authority (DHA) solicitation utilizing the DHA for Certain Personnel of the DoD Workforce to recruit and appoint qualified candidates to positions in the competitive service.
+About the Position: Serves as Financial Management Specialist in the Soldier Recovery Unit (SRU) under the general supervision and direction of the Human Resources (HR) Specialist/Adjutant.
+
+## Duties
+
+
+
+## Qualifications
+
+Who May Apply: US Citizens
+In order to qualify, you must meet the education and/or experience requirements described below. Experience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., Peace Corps, AmeriCorps) and other organizations (e.g., professional; philanthropic; religious; spiritual; community; student; social). You will receive credit for all qualifying experience, including volunteer experience. Your resume must clearly describe your relevant experience; if qualifying based on education, your transcripts will be required as part of your application. Additional information about transcripts is in this document.
+Specialized Experience: One year of specialized experience which includes provide financial entitlement and Military pay assistance; resolve financial problems; provide technical and fiscal advice; use automated financial management systems to prepare and analyze statistical reports. This definition of specialized experience is typical of work performed at the second lower grade/level position in the federal service (GS-07).
+OR
+Education: Master's or equivalent graduate degree or 2 full years of progressively higher-level graduate education leading to such a degree in a field which demonstrates the knowledge, skills, and abilities necessary to do the work of the position, such as: Accounting or Business Administration.
+OR
+Combination of Education and Experience: A combination of education and experience may be used to qualify for this position as long as the computed percentage of the requirements is at least 100%. To compute the percentage of the requirements, divide your total months of experience by 12. Then divide the total number of completed graduate semester hours (or equivalent) beyond the first year (total graduate semester hours minus 18) by 18. Add the two percentages.
+
+## Education
+
+FOREIGN EDUCATION: If you are using education completed in foreign colleges or universities to meet the qualification requirements, you must show the education credentials have been evaluated by a private organization that specializes in interpretation of foreign education programs and such education has been deemed equivalent to that gained in an accredited U.S. education program; or full credit has been given for the courses at a U.S. accredited college or university. For further information, visit: https://sites.ed.gov/international/recognition-of-foreign-qualifications/
+
+## Full rendered official announcement
+
+USAJOBS - Job Announcement
+
+ Skip to main content
+
+ An official website of the United States government
+
+Official websites use .gov
+
+A .gov website belongs to an official government organization in the United States.
+
+Secure .gov websites use HTTPS
+ A lock ( LockA locked padlock ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.
+
+ MENU
+
+ Sign in
+
+ My jobs
+
+ Profile
+
+ Resumes & documents
+
+ Notifications
+
+ Talent networks
+
+ Sign out
+
+ My jobs
+
+ Profile
+
+ Resumes & documents
+
+ Notifications
+
+ Talent networks
+
+ Sign out
+
+ Events
+
+ Help Center
+
+ Search
+
+ Back to results
+
+ Apply
+
+ Financial Specialist (Military)
+
+Department of the Army
+
+U.S. Army Medical Command
+
+Soldier Recovery Brigade
+
+Apply
+
+ Print
+
+ Share
+
+ Save
+
+ Summary
+
+ This job is open to
+
+ Duties
+
+ Requirements
+
+ How you will be evaluated
+
+ Required documents
+
+ How to apply
+
+Summary
+
+This is a Direct Hire Authority (DHA) solicitation utilizing the DHA for Certain Personnel of the DoD Workforce to recruit and appoint qualified candidates to positions in the competitive service.
+
+About the Position: Serves as Financial Management Specialist in the Soldier Recovery Unit (SRU) under the general supervision and direction of the Human Resources (HR) Specialist/Adjutant.
+
+ Learn more about this agency
+
+Summary
+
+This is a Direct Hire Authority (DHA) solicitation utilizing the DHA for Certain Personnel of the DoD Workforce to recruit and appoint qualified candidates to positions in the competitive service.
+
+About the Position: Serves as Financial Management Specialist in the Soldier Recovery Unit (SRU) under the general supervision and direction of the Human Resources (HR) Specialist/Adjutant.
+
+ Learn more about this agency
+
+Overview
+
+ Help
+
+Accepting applications
+
+Location
+
+1 vacancy in the following location:
+
+ Bethesda, MD
+
+ No matching locations found.
+
+Work site options
+
+Telework eligible
+
+No
+
+Remote job
+
+No
+
+Relocation expenses reimbursed
+
+ No
+
+Salary
+
+ $70,623 - $91,815 per year
+
+Pay scale & grade
+
+GS 9
+
+Promotion potential
+
+None
+
+ Learn more about pay scale and grade
+
+ Pay scale and grade determines the salary of the job.
+
+Work schedule
+
+Full-time
+
+Travel Required
+
+25% or less - You may be expected to travel for this position.
+
+Appointment type
+
+Permanent
+
+Occupations and job series
+
+ 0501 Financial Administration And Program
+
+Supervisory status
+
+No
+
+Federal service type
+
+This job is in the Competitive Service
+
+Represented by a union
+
+No
+
+Drug test
+
+No
+
+Security clearance
+
+Secret
+
+Position sensitivity and risk
+
+Noncritical-Sensitive (NCS)/Moderate Risk
+
+ Jobs require a
+ background check and some require a
+ security clearance. The type depends on the job.
+
+Background check type
+
+ Suitability/Fitness
+
+ National security
+
+Financial disclosure required
+
+Yes
+
+ Some jobs require
+ financial disclosure to identify conflicts of interests.
+
+Announcement number
+
+HSM1-26-13103370-DHA
+
+Control number
+
+890811100
+
+This job is open to
+
+ Help
+
+The public
+
+ U.S. Citizens, Nationals or those who owe allegiance to the U.S.
+
+Duties
+
+ Help
+
+Responsible for providing a full range of direct financial resources functional support to Soldiers within the Army Recovery Care Program (ARCP).
+
+Provides information to and assists patient personnel and/or their families in a variety of financial matters.
+
+Establishes and maintains liaison and coordination with operating officials at all serviced activities to determine their needs for Financial Management data.
+
+Prepares Soldiers in Transition (SIT) finance and entitlements checklist for both service member and family members.
+
+Requirements
+
+ Help
+
+Conditions of employment
+
+Appointment may be subject to a suitability or fitness determination, as determined by a completed background investigation.
+
+Appointment to this position is subject to a one year probationary period unless the appointee has previously met the requirements as described in 5 CFR Part 315. While probationary the incumbent can be terminated with limited appeal rights.
+
+This position requires the incumbent be able to obtain and maintain a determination of eligibility for a Secret security clearance or access for the duration of employment. A background investigation and credit check are required.
+
+This is a Financial Management Level 2 Certification position. Failure to obtain this certification within the required time may subject the incumbent to adverse action.
+
+Financial Disclosure Statement OGE Form 450 is used to assist agencies and employees to avoid conflicts between duties and financial interest.
+
+This position is subject to annual seasonal influenza vaccinations. Applicants tentatively selected for this position will be required to sign a statement consenting to seasonal influenza vaccinations or must provide a recognized exemption.
+
+This position has a Temporary Duty (TDY) or business travel requirement of 25% of the time.
+
+Qualifications
+
+ Who May Apply: US Citizens
+
+In order to qualify, you must meet the education and/or experience requirements described below. Experience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., Peace Corps, AmeriCorps) and other organizations (e.g., professional; philanthropic; religious; spiritual; community; student; social). You will receive credit for all qualifying experience, including volunteer experience. Your resume must clearly describe your relevant experience; if qualifying based on education, your transcripts will be required as part of your application. Additional information about transcripts is in this document.
+
+Specialized Experience: One year of specialized experience which includes provide financial entitlement and Military pay assistance; resolve financial problems; provide technical and fiscal advice; use automated financial management systems to prepare and analyze statistical reports. This definition of specialized experience is typical of work performed at the second lower grade/level position in the federal service (GS-07).
+
+OR
+
+Education: Master's or equivalent graduate degree or 2 full years of progressively higher-level graduate education leading to such a degree in a field which demonstrates the knowledge, skills, and abilities necessary to do the work of the position, such as: Accounting or Business Administration.
+
+OR
+
+Combination of Education and Experience: A combination of education and experience may be used to qualify for this position as long as the computed percentage of the requirements is at least 100%. To compute the percentage of the requirements, divide your total months of experience by 12. Then divide the total number of completed graduate semester hours (or equivalent) beyond the first year (total graduate semester hours minus 18) by 18. Add the two percentages.
+
+Education
+
+ FOREIGN EDUCATION: If you are using education completed in foreign colleges or universities to meet the qualification requirements, you must show the education credentials have been evaluated by a private organization that specializes in interpretation of foreign education programs and such education has been deemed equivalent to that gained in an accredited U.S. education program; or full credit has been given for the courses at a U.S. accredited college or university. For further information, visit: https://sites.ed.gov/international/recognition-of-foreign-qualifications/
+
+Additional information
+
+Male applicants born after December 31, 1959, must complete a Pre-Employment Certification Statement for Selective Service Registration.
+
+You will be required to provide proof of U.S. Citizenship.
+
+This position requires a 1 year probationary period during which the agency evaluates your fitness and whether your continued employment advances the public interest. In making this determination, the agency may consider your performance and conduct; agency needs and interests; whether your continued employment supports organizational or Government goals; and whether it promotes the efficiency of the Federal service. Continued employment requires written certification that it advances the public interest.
+
+Direct Deposit of Pay is required.
+
+This position requires you to submit a Public Financial Disclosure Report (OGE 278) or a Confidential Financial Disclosure Report (OGE450) upon entry, and annually thereafter.
+
+Selection is subject to restrictions resulting from Department of Defense referral system for displaced employees.
+
+If you have retired from federal service and you are interested in employment as a reemployed annuitant, see the information in the Reemployed Annuitant information sheet.
+
+This is a Comptroller Career Program position aligned under the Human Capital & Resource Management Career Management Directorate.
+
+Salary includes applicable locality pay or Local Market Supplement.
+
+Payment of Permanent Change of Station (PCS) costs is not authorized, based on a determination that a PCS move is not in the Government interest.
+
+Certification Level 2: THIS IS A FINANCIAL MANAGEMENT Level 2 Certified position designated as such in accordance with the National Defense Authorization Act (NDAA) 2012, Public Law 112-81, Subtitle F-Financial Management, section 1051, amending 10 United States Code, section 1599d.Incumbent of this position is required to comply with all Department of Defense and Department of the Army requirements of this certification program. This certification requirement is a condition of employment for this position. Failure to obtain this certification within the required time may subject the incumbent to adverse action.
+
+ Expand Hide  additional information
+
+Candidates should be committed to improving the efficiency of the Federal government, passionate about the ideals of our American republic, and committed to upholding the rule of law and the United States Constitution.
+
+Benefits
+
+ Help
+
+ A career with the U.S. government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding. Opens in a new windowLearn more about federal benefits.
+
+ Review our benefits
+
+Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time or intermittent. Contact the hiring agency for more information on the specific benefits offered.
+
+How you will be evaluated
+
+You will be evaluated for this job based on how well you meet the qualifications above.
+
+ Once the announcement has closed, a review of your application package (resume, supporting documents, and responses to the questionnaire) will be used to determine whether you meet the qualification requirements listed on this announcement. Please follow all instructions carefully when applying, errors or omissions may affect your eligibility.
+
+If, after reviewing your resume and/or supporting documentation, a determination is made that you have inflated your qualifications and/or experience, you may lose consideration for this position.
+
+Veterans and Military Spouses will be considered along with all other candidates.
+
+Benefits
+
+ Help
+
+ A career with the U.S. government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding. Opens in a new windowLearn more about federal benefits.
+
+ Review our benefits
+
+Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time or intermittent. Contact the hiring agency for more information on the specific benefits offered.
+
+Required documents
+
+Required Documents
+
+ Help
+
+ The documents you are required to submit vary based on whether or not you are eligible for preference in federal employment. A complete description of preference categories and the associated required documents is in the Applicant Checklist for Public Announcements.
+
+As described above, your complete application includes your resume, your responses to the online questionnaire, and documents which prove your eligibility to apply. If you fail to provide these documents, you will be marked as having an incomplete application package and you will not be considered any further.
+
+1. Your resume:
+
+Your resume must be two pages or less and must support the specialized experience described in this announcement. Resumes exceeding two pages will be removed from consideration.
+
+For each relevant work experience, make sure you include the employer's name, job title, start and end dates (include month and year), for qualifications purposes, the number of hours worked per week, and a brief description that show you can perform the tasks at the required level listed in the job announcement. If your resume does not contain this information, your application may be marked as incomplete, and you may not receive consideration for this position.
+
+Use plain language. Avoid using acronyms and terms that are not easily understood. The hiring agency will not make assumptions about what's in your resume.
+
+If your resume includes a photograph or other inappropriate material or content, it will not be used to make eligibility and qualification determinations, and you may not be considered for this vacancy.
+
+For additional information, to include formatting tips, see: What to include in your resume.
+
+2. Other supporting documents:
+
+Cover Letter, optional
+
+Most recent Performance Appraisal, if applicable
+
+This position has an individual occupational requirement and/or allows for substitution of education for experience. If you meet this requirement based on education you MUST submit a copy of your transcript with your application package or you will be rated ineligible. See: Transcripts and Licenses
+
+NOTE: Documents submitted as part of the application package, to include supplemental documents, may be shared beyond the Human Resources Office. Some supplemental documents such as military orders and marriage certificates may contain personal information for someone other than you. You may sanitize these documents to remove another person's personal information before you submit your application. You may be asked to provide an un-sanitized version of the documents if you are selected to confirm your eligibility.
+
+ If you are relying on your education to meet qualification requirements:
+
+ Education must be accredited by an accrediting institution recognized by the U.S. Department of Education in order for it to be credited towards qualifications. Therefore, provide only the attendance and/or degrees from
+ schools accredited by accrediting institutions recognized by the U.S. Department of Education.
+
+ Failure to provide all of the required information as stated in this vacancy announcement may result in an ineligible rating or may affect the overall rating.
+
+How to Apply
+
+ Help
+
+To apply for this position, you must complete the online questionnaire and submit the documentation specified in the Required Documents section above.
+
+The complete application package must be submitted by 11:59 PM (EST) on 11/10/2026 to receive consideration
+
+Follow the prompts to select your resume and/or other supporting documents to be included with your application package. As a reminder, your resume must be two pages or less and must support the specialized experience described in this announcement. Resumes exceeding two pages will be removed from consideration. For additional information, refer to the 'Required Documents' section.
+
+You will have the opportunity to upload additional documents to include in your application before it is submitted. Your uploaded documents may take several hours to clear the virus scan process.
+
+After acknowledging you have reviewed your application package, complete the Include Personal Information section as you deem appropriate and click to continue with the application process.
+
+You will be taken to the online application which you must complete in order to apply for the position. Complete the online application, verify the required documentation is included with your application package, and submit the application. Your resume selected in USAJOBS will be included, but you must re-select other documents from your USAJOBS account or your application may be incomplete.
+
+It is your responsibility to verify that your application package (resume, supporting documents, and responses to the questionnaire) is complete, accurate, and submitted by the closing date. Uploaded documents may take up to one hour to clear the virus scan.
+
+Additional information on how to complete the online application process and submit your online application may be found on the USA Staffing Applicant Resource Center.
+
+To verify the status of your application, log into your USAJOBS account (https://www.usajobs.gov/applicant/profile/dashboard/), all of your applications will appear on the Welcome screen. The Application Status will appear along with the date your application was last updated. For information on what each Application Status means, visit: https://help.usajobs.gov/how-to/application/status.
+
+Agency contact information
+
+ Army Applicant Help Desk
+
+Website
+
+ https://portal.chra.army.mil/hr_public?id=app_inq
+
+Address
+
+ M1-W6RBAA US ARMY WARRIOR TRANSITION UNIT
+
+ DO NOT MAIL
+
+ Fort Belvoir, VA 22060
+
+ US
+
+Next steps
+
+If you provided an email address, you will receive an email message acknowledging receipt of your application. Your application package will be used to determine your eligibility, qualifications, and quality ranking (as applicable) for this position. If you are determined to be ineligible or not qualified, your application will receive no further consideration.
+
+Fair and transparent
+
+The Federal hiring process is set up to be fair and transparent. Please read the following guidance.
+
+ Criminal history inquiries
+
+ Equal Employment Opportunity (EEO) Policy
+
+ Financial suitability
+
+ New employee probationary period
+
+ Privacy Act
+
+ Reasonable accommodation policy
+
+ Selective Service
+
+ Signature and false statements
+
+ Social security number request
+
+Required Documents
+
+ Help
+
+ The documents you are required to submit vary based on whether or not you are eligible for preference in federal employment. A complete description of preference categories and the associated required documents is in the Applicant Checklist for Public Announcements.
+
+As described above, your complete application includes your resume, your responses to the online questionnaire, and documents which prove your eligibility to apply. If you fail to provide these documents, you will be marked as having an incomplete application package and you will not be considered any further.
+
+1. Your resume:
+
+Your resume must be two pages or less and must support the specialized experience described in this announcement. Resumes exceeding two pages will be removed from consideration.
+
+For each relevant work experience, make sure you include the employer's name, job title, start and end dates (include month and year), for qualifications purposes, the number of hours worked per week, and a brief description that show you can perform the tasks at the required level listed in the job announcement. If your resume does not contain this information, your application may be marked as incomplete, and you may not receive consideration for this position.
+
+Use plain language. Avoid using acronyms and terms that are not easily understood. The hiring agency will not make assumptions about what's in your resume.
+
+If your resume includes a photograph or other inappropriate material or content, it will not be used to make eligibility and qualification determinations, and you may not be considered for this vacancy.
+
+For additional information, to include formatting tips, see: What to include in your resume.
+
+2. Other supporting documents:
+
+Cover Letter, optional
+
+Most recent Performance Appraisal, if applicable
+
+This position has an individual occupational requirement and/or allows for substitution of education for experience. If you meet this requirement based on education you MUST submit a copy of your transcript with your application package or you will be rated ineligible. See: Transcripts and Licenses
+
+NOTE: Documents submitted as part of the application package, to include supplemental documents, may be shared beyond the Human Resources Office. Some supplemental documents such as military orders and marriage certificates may contain personal information for someone other than you. You may sanitize these documents to remove another person's personal information before you submit your application. You may be asked to provide an un-sanitized version of the documents if you are selected to confirm your eligibility.
+
+ If you are relying on your education to meet qualification requirements:
+
+ Education must be accredited by an accrediting institution recognized by the U.S. Department of Education in order for it to be credited towards qualifications. Therefore, provide only the attendance and/or degrees from
+ schools accredited by accrediting institutions recognized by the U.S. Department of Education.
+
+ Failure to provide all of the required information as stated in this vacancy announcement may result in an ineligible rating or may affect the overall rating.
+
+How to Apply
+
+ Help
+
+To apply for this position, you must complete the online questionnaire and submit the documentation specified in the Required Documents section above.
+
+The complete application package must be submitted by 11:59 PM (EST) on 11/10/2026 to receive consideration
+
+Follow the prompts to select your resume and/or other supporting documents to be included with your application package. As a reminder, your resume must be two pages or less and must support the specialized experience described in this announcement. Resumes exceeding two pages will be removed from consideration. For additional information, refer to the 'Required Documents' section.
+
+You will have the opportunity to upload additional documents to include in your application before it is submitted. Your uploaded documents may take several hours to clear the virus scan process.
+
+After acknowledging you have reviewed your application package, complete the Include Personal Information section as you deem appropriate and click to continue with the application process.
+
+You will be taken to the online application which you must complete in order to apply for the position. Complete the online application, verify the required documentation is included with your application package, and submit the application. Your resume selected in USAJOBS will be included, but you must re-select other documents from your USAJOBS account or your application may be incomplete.
+
+It is your responsibility to verify that your application package (resume, supporting documents, and responses to the questionnaire) is complete, accurate, and submitted by the closing date. Uploaded documents may take up to one hour to clear the virus scan.
+
+Additional information on how to complete the online application process and submit your online application may be found on the USA Staffing Applicant Resource Center.
+
+To verify the status of your application, log into your USAJOBS account (https://www.usajobs.gov/applicant/profile/dashboard/), all of your applications will appear on the Welcome screen. The Application Status will appear along with the date your application was last updated. For information on what each Application Status means, visit: https://help.usajobs.gov/how-to/application/status.
+
+ Expand Hide  how to apply
+
+Agency contact information
+
+ Army Applicant Help Desk
+
+Website
+
+ https://portal.chra.army.mil/hr_public?id=app_inq
+
+Address
+
+ M1-W6RBAA US ARMY WARRIOR TRANSITION UNIT
+
+ DO NOT MAIL
+
+ Fort Belvoir, VA 22060
+
+ US
+
+Next steps
+
+If you provided an email address, you will receive an email message acknowledging receipt of your application. Your application package will be used to determine your eligibility, qualifications, and quality ranking (as applicable) for this position. If you are determined to be ineligible or not qualified, your application will receive no further consideration.
+
+ Expand Hide  next steps
+
+Fair and transparent
+
+The Federal hiring process is set up to be fair and transparent. Please read the following guidance.
+
+ Criminal history inquiries
+
+ Equal Employment Opportunity (EEO) Policy
+
+ Financial suitability
+
+ New employee probationary period
+
+ Privacy Act
+
+ Reasonable accommodation policy
+
+ Selective Service
+
+ Signature and false statements
+
+ Social security number request
+
+ U.S. Army Medical Command
+
+ Civilian employees serve a vital role in supporting the Army mission. They provide the skills that are not readily available in the military, but crucial to support military operations. The Army integrates the talents and skills of its military and civilian members to form a Total Army.
+
+Agency contact information
+
+ Army Applicant Help Desk
+
+Website
+
+ https://portal.chra.army.mil/hr_public?id=app_inq
+
+Address
+
+ M1-W6RBAA US ARMY WARRIOR TRANSITION UNIT
+
+ DO NOT MAIL
+
+ Fort Belvoir, VA 22060
+
+ US
+
+Summary
+
+This is a Direct Hire Authority (DHA) solicitation utilizing the DHA for Certain Personnel of the DoD Workforce to recruit and appoint qualified candidates to positions in the competitive service.
+
+About the Position: Serves as Financial Management Specialist in the Soldier Recovery Unit (SRU) under the general supervision and direction of the Human Resources (HR) Specialist/Adjutant.
+
+ Learn more about this agency
+
+Overview
+
+ Help
+
+Accepting applications
+
+Location
+
+1 vacancy in the following location:
+
+ Bethesda, MD
+
+ No matching locations found.
+
+Work site options
+
+Telework eligible
+
+No
+
+Remote job
+
+No
+
+Relocation expenses reimbursed
+
+ No
+
+Salary
+
+ $70,623 - $91,815 per year
+
+Pay scale & grade
+
+GS 9
+
+Promotion potential
+
+None
+
+ Learn more about pay scale and grade
+
+ Pay scale and grade determines the salary of the job.
+
+Work schedule
+
+Full-time
+
+Travel Required
+
+25% or less - You may be expected to travel for this position.
+
+Appointment type
+
+Permanent
+
+Occupations and job series
+
+ 0501 Financial Administration And Program
+
+Supervisory status
+
+No
+
+Federal service type
+
+This job is in the Competitive Service
+
+Represented by a union
+
+No
+
+Drug test
+
+No
+
+Security clearance
+
+Secret
+
+Position sensitivity and risk
+
+Noncritical-Sensitive (NCS)/Moderate Risk
+
+ Jobs require a
+ background check and some require a
+ security clearance. The type depends on the job.
+
+Background check type
+
+ Suitability/Fitness
+
+ National security
+
+Financial disclosure required
+
+Yes
+
+ Some jobs require
+ financial disclosure to identify conflicts of interests.
+
+Announcement number
+
+HSM1-26-13103370-DHA
+
+Control number
+
+890811100
+
+ Previous result
+
+Next result
+
+Your session is about to expire!
+
+ Your USAJOBS session will expire due to inactivity in 8 minutes.
+ Any unsaved data will be lost if you allow the session to expire.
+ Click the button below to continue your session.
+
+ Sign out
+ Stay signed in
+
+ Return to top
+
+USAJOBS is a Opens in a new windowUnited States Office of Personnel Management website.
+
+ (Opens in a new window) OPM on LinkedIn
+
+ (Opens in a new window) OPM YouTube channel
+
+ (Opens in a new window) OPM on X
+
+Opens in a new windowEEO Policy Statement
+
+Opens in a new windowReasonable Accommodation Policy Statement
+
+Veterans Information
+
+Opens in a new windowLegal and Regulatory Guidance
+
+About USAJOBS
+
+Opens in a new windowAccessibility
+
+Opens in a new windowFOIA
+
+Opens in a new windowInspector general
+
+Opens in a new windowNo Fear Act Data
+
+Opens in a new windowPrivacy policy
+
+Opens in a new windowReports and publications
+
+Opens in a new windowTerms and conditions
+
+Opens in a new windowUSA.gov

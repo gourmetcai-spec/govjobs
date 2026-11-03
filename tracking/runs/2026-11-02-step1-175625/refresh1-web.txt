@@ -1,0 +1,584 @@
+USAJOBS - Job Announcement (https://www.usajobs.gov/job/890584000)
+citeturn43view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.usajobs.gov/job/890584000","lineno":null}); Total lines: 561
+L0: 【0†Skip to main content】
+L1:
+L2: 【1†Image: U.S. flag】
+L3:
+L4: [Button: An official website of the United States government ]
+L5:
+L6: [Button: MENU ]
+L7:
+L8: 【2†Back to results】
+L9:
+L10:
+L11:
+L12: 【3†Apply】
+L13:
+L14: Print
+L15:
+L16: Share
+L17:
+L18: Save
+L19:
+L20:   * 【4†Summary】
+L21:   * 【5†This job is open to】
+L22:   * 【6†Duties】
+L23:   * 【7†Requirements】
+L24:   * 【8†How you will be evaluated】
+L25:   * 【9†Required documents】
+L26:   * 【10†How to apply】
+L27: ## Summary
+L28:
+L29: This position is located in the Resilience Federal Insurance Directorate Insurance Acquisition & Technology Division. Ideal candidate for this position will be a automation specialist with experience researching emerging technologies and prototyping low-code tools, AI workflows, dashboards, and scripts to improve NFIP operations and services.
+L30:
+L31: [Button: Learn more about this agency ]
+L32: ## Summary
+L33:
+L34: This position is located in the Resilience Federal Insurance Directorate Insurance Acquisition & Technology Division. Ideal candidate for this position will be a automation specialist with experience researching emerging technologies and prototyping low-code tools, AI workflows, dashboards, and scripts to improve NFIP operations and services.
+L35:
+L36: [Button: Learn more about this agency ]
+L37: ## Overview
+L38:
+L39: 【11†Help†usajobshelp.opm.gov】
+L40:
+L41: Accepting applications
+L42:
+L43: This job will close when we have received 110 applications which may be sooner than the closing date. 【12†Learn more†usajobshelp.opm.gov】
+L44:
+L45: Location
+L46:
+L47: 2 vacancies in the following location:
+L48:
+L49: Washington, DC
+L50:
+L51: Work site options
+L52:
+L53: Telework eligible
+L54:     Yes—as determined by the agency policy.
+L55:
+L56: Remote job
+L57:     No
+L58:
+L59: Relocation expenses reimbursed
+L60:     No
+L61:
+L62: Salary
+L63:     $121,785 - $158,322 per year
+L64:
+L65: Pay scale & grade
+L66:
+L67:
+L68: GS 13
+L69: Promotion potential
+L70:     13
+L71:
+L72: 【13†Learn more about pay scale and grade†usajobshelp.opm.gov】
+L73:
+L74: Pay scale and grade determines the salary of the job.
+L75:
+L76: Work schedule
+L77:     Full-time
+L78:
+L79: Travel Required
+L80:     25% or less - You may be expected to travel for this position.
+L81:
+L82: Appointment type
+L83:     Permanent
+L84:
+L85: Occupations and job series
+L86:
+L87:   * 【14†2210 Information Technology Management】
+L88:
+L89: Supervisory status
+L90:     No
+L91:
+L92: Federal service type
+L93:     This job is in the Competitive Service
+L94:
+L95: Represented by a union
+L96:     No
+L97:
+L98: Drug test
+L99:     No
+L100: Security clearance
+L101:     Not Required
+L102:
+L103: Position sensitivity and risk
+L104:     【15†High Risk (HR)†usajobshelp.opm.gov】
+L105:
+L106: Jobs require a 【15†background check†usajobshelp.opm.gov】 and some require a 【15†security clearance†usajobshelp.opm.gov】. The type depends on the job.
+L107:
+L108: Background check type
+L109:
+L110:   * 【15†Suitability/Fitness†usajobshelp.opm.gov】
+L111:
+L112: Financial disclosure required
+L113:     No
+L114:
+L115:
+L116: Some jobs require 【16†financial disclosure†usajobshelp.opm.gov】 to identify conflicts of interests.
+L117: Announcement number
+L118:     FEMA-KB-13101601-DE
+L119:
+L120: Control number
+L121:     890584000
+L122: ## This job is open to
+L123:
+L124: 【17†Help†usajobshelp.opm.gov】
+L125:
+L126: 【18†The public U.S. Citizens, Nationals or those who owe allegiance to the U.S.】
+L127:
+L128: 【19†Career transition (CTAP, ICTAP, RPL) Federal employees whose job, agency or department was eliminated and are eligible for priority over other applicants.】
+L129:
+L130: ### Clarification from the agency
+L131:
+L132: Status candidates may also apply under FEMA- KB-13101602-MP. This Job is open to: U.S. citizens
+L133: ## Duties
+L134:
+L135: 【20†Help†usajobshelp.opm.gov】
+L136:
+L137: What will I do in this position if hired?
+L138:
+L139: In this position, you will be an IT Specialist. Typical assignments include:
+L140:   * Supporting the identification and analysis of opportunities for automation and AI enabled workflow improvement across NFIP
+L141: business operations, customer facing services, map modernization support, underwriting, and other program areas in
+L142: coordination with business SMEs, analysts, UX, engineering, and data stakeholders.
+L143:   * Assisting in configuring, prototyping, and testing low code/no code solutions, AI agents, workflow automations, dashboards, forms,
+L144: lightweight applications, and scripts (for example Python) or utilities to query, transform, create, or validate data and workflow
+L145: outputs using approved enterprise platforms such as Power Platform, GCP enabled tools, DHSChat, Python libraries, or similar
+L146: technologies.
+L147:   * Helping convert approved business and user requirements into working technical implementations by supporting workflow logic
+L148: development, automation and AI agent configuration, data input and output definition, integration analysis, prototype
+L149: documentation, and technical hand off materials for engineering, security, and operational teams.
+L150:   * Conducting market, technology, and policy research on emerging automation, artificial intelligence, digital service, geospatial,
+L151: insurance technology, and AI governance trends to help the Innovation Branch remain current and identify practical
+L152: modernization opportunities.
+L153:   * Supporting evaluation of prototypes and AI enabled workflows for feasibility, usability, accuracy, operational fit, and governance
+L154: alignment through functional testing, user feedback, AI output review, exception testing, human in the loop validation,
+L155: responsible AI practices, and coordination with engineering, cybersecurity, data, UX, geospatial, and business teams.
+L156: What else do I need to know?
+L157: At FEMA, our mission is to help people before, during and after disasters, and every employee at FEMA has a role in emergency management. Every FEMA employee has regular and recurring emergency management responsibilities, though not every position requires routine deployment to disaster sites.
+L158: All positions are subject to recall around the clock for emergency management operations, which may require irregular work hours, work at locations other than the official duty station, and may include duties other than those specified in the employee's official position description.
+L159: Travel requirements in support of emergency operations may be extensive in nature (weeks to months), with little advance notice, and may require employees to relocate to emergency sites with physically austere and operationally challenging conditions.
+L160: ## Requirements
+L161:
+L162: 【21†Help†usajobshelp.opm.gov】
+L163: ### Conditions of employment
+L164: To ensure the accomplishment of our mission, DHS requires every employee to be reliable and trustworthy. To meet those standards, all selected applicants must undergo, successfully pass, and maintain a background investigation for High riskas a condition of placement into this position.
+L165: This may include a credit check after initial job qualifications are determined, a review of financial issues, such as delinquency in the payment of debts, child support and/or tax obligations, as well as certain criminal offenses and illegal use or possession of drugs (please visit: 【22†Mythbuster on Federal Hiring Policies†chcoc.gov】 for additional information). For more information on background investigations for Federal jobs please visit 【23†OPM Investigations†www.opm.gov】.
+L166: The Office of Personnel Management (OPM) must authorize employment offers made to current or former political appointees. If you are currently, or have been within the last 5 years, a political Schedule A, Schedule C, Non-career SES or Presidential Appointee employee in the Executive Branch, you must disclose this information to the Human Resources Office.
+L167: Please ensure you meet the qualification requirements described below.
+L168:
+L169: Key Requirements:
+L170:   1. You must be a U.S. citizen to apply for this position.
+L171:   2. You must successfully pass a background investigation.
+L172:   3. Selective Service registration required.
+L173:   4. Current federal employees must meet time-in-grade requirements.
+L174:   5. You must be able to obtain and maintain a Government credit card.
+L175:   6. You must be able to deploy with little or no advance notice to anywhere in the United States and its territories for an extended period of time.
+L176:   7. Please review the Additional Information section for additional key requirements.
+L177: ### Qualifications
+L178: In addition to the minimum qualifications described below, you must meet the following requirement(s) to be considered qualified for the position:
+L179: IOR - Experience
+L180: Experience must be IT-related; the experience may be demonstrated by paid or unpaid experience and/or completion of specific, intensive training (for example, IT certification), as appropriate.
+L181: Attention to Detail - Is thorough when performing work and conscientious about attending to detail.
+L182: Customer Service - Works with clients and customers to assess their needs, provide information or assistance, resolve their problems, or satisfy their expectations; knows about available products and services; is committed to providing quality products and services.
+--------------------------------------------------------------------------------
+USAJOBS - Job Announcement (https://www.usajobs.gov/job/890572600)
+citeturn43view1 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.usajobs.gov/job/890572600","lineno":null}); Total lines: 472
+L0: 【0†Skip to main content】
+L1:
+L2: 【1†Image: U.S. flag】
+L3:
+L4: [Button: An official website of the United States government ]
+L5:
+L6: [Button: MENU ]
+L7:
+L8: 【2†Back to results】
+L9:
+L10:
+L11:
+L12: 【3†Apply】
+L13:
+L14: Print
+L15:
+L16: Share
+L17:
+L18: Save
+L19:
+L20:   * 【4†Summary】
+L21:   * 【5†This job is open to】
+L22:   * 【6†Duties】
+L23:   * 【7†Requirements】
+L24:   * 【8†How you will be evaluated】
+L25:   * 【9†Required documents】
+L26:   * 【10†How to apply】
+L27: ## Summary
+L28:
+L29: About the Position: The IT Specialist (APPSW/INET) provides support to Naval Health Clinic Quantico in Washington, DC, helping ensure consistent, high-quality patient care and facility operations.
+L30: This is a Direct Hire Solicitation
+L31:
+L32: [Button: Learn more about this agency ]
+L33: ## Summary
+L34:
+L35: About the Position: The IT Specialist (APPSW/INET) provides support to Naval Health Clinic Quantico in Washington, DC, helping ensure consistent, high-quality patient care and facility operations.
+L36: This is a Direct Hire Solicitation
+L37:
+L38: [Button: Learn more about this agency ]
+L39: ## Overview
+L40:
+L41: 【11†Help†usajobshelp.opm.gov】
+L42:
+L43: Accepting applications
+L44:
+L45: Location
+L46:
+L47: 1 vacancy in the following location:
+L48:
+L49: Quantico, VA
+L50:
+L51: Work site options
+L52:
+L53: Telework eligible
+L54:     Yes—as determined by the agency policy.
+L55:
+L56: Remote job
+L57:     No
+L58:
+L59: Relocation expenses reimbursed
+L60:     No
+L61:
+L62: Salary
+L63:     $102,415 - $133,142 per year
+L64:
+L65: Pay scale & grade
+L66:
+L67:
+L68: GS 12
+L69:
+L70: Promotion potential
+L71:     None
+L72:
+L73: 【12†Learn more about pay scale and grade†usajobshelp.opm.gov】
+L74:
+L75: Pay scale and grade determines the salary of the job.
+L76: Work schedule
+L77:     Full-time
+L78:
+L79: Travel Required
+L80:     Not required
+L81:
+L82: Appointment type
+L83:     Permanent
+L84:
+L85: Occupations and job series
+L86:
+L87:   * 【13†2210 Information Technology Management】
+L88:
+L89: Supervisory status
+L90:     No
+L91:
+L92: Federal service type
+L93:     This job is in the Competitive Service
+L94:
+L95: Represented by a union
+L96:     No
+L97:
+L98: Drug test
+L99:     Yes
+L100:
+L101: Security clearance
+L102:     Secret
+L103:
+L104: Position sensitivity and risk
+L105:     【14†Noncritical-Sensitive (NCS)/Moderate Risk†usajobshelp.opm.gov】
+L106: Jobs require a 【14†background check†usajobshelp.opm.gov】 and some require a 【14†security clearance†usajobshelp.opm.gov】. The type depends on the job.
+L107:
+L108: Background check type
+L109:
+L110:   * 【14†Suitability/Fitness†usajobshelp.opm.gov】
+L111:
+L112: Financial disclosure required
+L113:     No
+L114:
+L115:
+L116: Some jobs require 【15†financial disclosure†usajobshelp.opm.gov】 to identify conflicts of interests.
+L117:
+L118: Announcement number
+L119:     HSJT-27-13090193
+L120:
+L121: Control number
+L122:     890572600
+L123: ## This job is open to
+L124:
+L125: 【16†Help†usajobshelp.opm.gov】
+L126:
+L127: 【17†The public U.S. Citizens, Nationals or those who owe allegiance to the U.S.】
+L128: ## Duties
+L129:
+L130: 【18†Help†usajobshelp.opm.gov】
+L131:   * Serve as an Information Technology (IT) Subject matter expert with duties to provide direct customer service integration support for the Information Systems Engineering (ISEC) SharePoint Portal design.
+L132:   * Develop the strategy for optimal system integration with other collaborative tools within the organization.
+L133:   * Advise management concerning state-of-the-art techniques, software, and hardware.
+L134:   * Develop web application programs, assures optimum equipment utilization, achieves functional goals, and enhances program maintenance.
+L135:   * Work with Information Assurance staff to provide information and documentation required for network system accreditations.
+L136:   * Maintain web applications to ensure that updates are performed to the latest requirements to meet application programming and Information Assurance requirements.
+L137:   * Review, interpret, and execute DOD, HQDA, and command policies and guidelines for data and system security including DISA Security Technical Implementation Guides (STIG).
+L138: ## Requirements
+L139:
+L140: 【19†Help†usajobshelp.opm.gov】
+L141: ### Conditions of employment
+L142:   * Appointment may be subject to a suitability or fitness determination, as determined by a completed background investigation.
+L143:   * This position requires the incumbent be able to obtain and maintain a determination of eligibility for a Secret security clearance or access for the duration of employment. A background investigation and credit check are required.
+L144:   * Immunization screening is required. Hepatitis B immunization is required for all positions with direct patient contact. Applicants may be required to show proof of other immunizations depending on the type of position.
+L145:   * This position has mandatory seasonal Influenza vaccination requirements and is subject to annual seasonal Influenza vaccinations unless otherwise exempted for medical or religious reasons (documentation of exemption must be provided upon hire).
+L146:   * This position requires the incumbent to have Tuberculosis testing.
+L147:   * This position is subject to a pre-employment screening, and random drug testing, to include testing based on reasonable suspicion and testing due to direct involvement with an on-duty accident.
+L148:   * One year trial/probationary period may be required.
+L149: ### Qualifications
+L150: Who May Apply: US Citizens
+L151: In order to qualify, you must meet the education and/or experience requirements described below. Experience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., Peace Corps, AmeriCorps) and other organizations (e.g., professional; philanthropic; religious; spiritual; community; student; social). You will receive credit for all qualifying experience, including volunteer experience.
+L152: Your resume must clearly describe your relevant experience; if qualifying based on education, your transcripts will be required as part of your application. Additional information about transcripts is 【20†in this document†portal.chra.army.mil】.
+L153: Basic Requirement for IT Specialist (APPSW/INET):
+L154: Specialized and Other Experience: One year of specialized experience which includes developing Sharepoint applications and system integrations; analyzing complex application and system issues; and implementing Sharepoint enhancement and DoD security compliance. This definition of specialized experience is typical of work performed at the next lower grade/level position in the federal service (GS-11).
+L155: The specialized experience must include, or be supplemented by, information technology related experience (paid or unpaid experience and/or completion of specific, intensive training, as appropriate) which demonstrates each of the four competencies, as defined:
+L156: (1) Attention to Detail - Is thorough when performing work and conscientious about attending to detail. Examples of IT-related experience demonstrating this competency include: completing thorough and accurate work independently, even in the most difficult or stressful situations; occasionally reviewing work completed by others.
+L157: (2) Customer Service - Works with clients and customers (that is, any individuals who use or receive the services or products that your work unit produces, including the general public, individuals who work in the agency, other agencies, or organizations outside the Government) to assess their needs, provide information or assistance, resolve their problems, or satisfy their expectations; knows about available products and services; is committed to providing quality products and services.
+L158: Examples of IT-related experience demonstrating this competency include: resolving routine and non-routine problems, questions, or complaints; developing and maintaining strong, mutually supportive working relationships with customers; conducting evaluation of support to determine quality of services and customer satisfaction, and recommending procedural changes based on customer need or changes in policy and/or regulation.
+L159: (3) Oral Communication - Expresses information (for example, ideas or facts) to individuals or groups effectively, taking into account the audience and nature of the information (for example, technical, sensitive, controversial); makes clear and convincing oral presentations; listens to others, attends to nonverbal cues, and responds appropriately.
+L160: Examples of IT-related experience demonstrating this competency include: convincingly conveying complex information to customers; presenting thoughts that are well-organized and demonstrating confidence in the facts and ideas; adjusting style when working with individuals with different levels of understanding; using various methods to explain and convey information.
+L161: (4) Problem Solving - Identifies problems; determines accuracy and relevance of information; uses sound judgment to generate and evaluate alternatives, and to make recommendations.
+L162: Examples of IT-related experience demonstrating this competency include: solving complex or sensitive problems by developing and proposing strategic alternatives; identifying possible conflicts and shared benefits; helping team anticipate problems and identifying and evaluating potential sources of information; providing feedback and coaching to others to help solve problems; engaging appropriate stakeholders when developing solutions in order to understand and incorporate multiple perspectives and needs; evaluating the effectiveness of decisions and adjusting future decisions as appropriate.
+--------------------------------------------------------------------------------
+USAJOBS - Job Announcement (https://www.usajobs.gov/job/891011700)
+citeturn43view2 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.usajobs.gov/job/891011700","lineno":null}); Total lines: 525
+L0: 【0†Skip to main content】
+L1:
+L2: 【1†Image: U.S. flag】
+L3:
+L4: [Button: An official website of the United States government ]
+L5:
+L6: [Button: MENU ]
+L7:
+L8: 【2†Back to results】
+L9:
+L10:
+L11:
+L12: 【3†Apply】
+L13:
+L14: Print
+L15:
+L16: Share
+L17:
+L18: Save
+L19:
+L20:   * 【4†Summary】
+L21:   * 【5†This job is open to】
+L22:   * 【6†Duties】
+L23:   * 【7†Requirements】
+L24:   * 【8†How you will be evaluated】
+L25:   * 【9†Required documents】
+L26:   * 【10†How to apply】
+L27: ## Summary
+L28:
+L29: This position is located in Office of Chief Financial Officer in the Washington, DC area. The ideal candidate for this position will be a seasoned financial policy professional with strong written and oral communication skills, proven team management and leadership experience, and expertise in independently researching policies, regulations, and legislation to interpret requirements and draft new policies, standards, and guidance aligned to agency priorities.
+L30: [Button: Learn more about this agency ]
+L31: ## Summary
+L32:
+L33: This position is located in Office of Chief Financial Officer in the Washington, DC area. The ideal candidate for this position will be a seasoned financial policy professional with strong written and oral communication skills, proven team management and leadership experience, and expertise in independently researching policies, regulations, and legislation to interpret requirements and draft new policies, standards, and guidance aligned to agency priorities.
+L34: [Button: Learn more about this agency ]
+L35: ## Overview
+L36:
+L37: 【11†Help†usajobshelp.opm.gov】
+L38:
+L39: Accepting applications
+L40:
+L41: This job will close when we have received 100 applications which may be sooner than the closing date. 【12†Learn more†usajobshelp.opm.gov】
+L42:
+L43: Location
+L44:
+L45: 1 vacancy in the following locations:
+L46:
+L47: Washington, DC
+L48:
+L49: Winchester, VA
+L50:
+L51: Work site options
+L52:
+L53: Telework eligible
+L54:     No
+L55:
+L56: Remote job
+L57:     No
+L58:
+L59: Relocation expenses reimbursed
+L60:     No
+L61:
+L62: Salary
+L63:     $169,279 - $197,200 per year
+L64:
+L65: Pay scale & grade
+L66:
+L67:
+L68: GS 15
+L69:
+L70: Promotion potential
+L71:     15
+L72: 【13†Learn more about pay scale and grade†usajobshelp.opm.gov】
+L73:
+L74: Pay scale and grade determines the salary of the job.
+L75:
+L76: Work schedule
+L77:     Full-time
+L78:
+L79: Travel Required
+L80:     Occasional travel - You may be expected to travel for this position.
+L81:
+L82: Appointment type
+L83:     Permanent
+L84:
+L85: Occupations and job series
+L86:
+L87:   * 【14†0501 Financial Administration And Program】
+L88:
+L89: Supervisory status
+L90:     Yes
+L91:
+L92: Federal service type
+L93:     This job is in the Competitive Service
+L94:
+L95: Represented by a union
+L96:     No
+L97:
+L98: Drug test
+L99:     No
+L100: Security clearance
+L101:     Not Required
+L102:
+L103: Position sensitivity and risk
+L104:     【15†High Risk (HR)†usajobshelp.opm.gov】
+L105:
+L106: Jobs require a 【15†background check†usajobshelp.opm.gov】 and some require a 【15†security clearance†usajobshelp.opm.gov】. The type depends on the job.
+L107:
+L108: Background check type
+L109:
+L110:   * 【15†Suitability/Fitness†usajobshelp.opm.gov】
+L111:
+L112: Financial disclosure required
+L113:     Yes
+L114:
+L115:
+L116: Some jobs require 【16†financial disclosure†usajobshelp.opm.gov】 to identify conflicts of interests.
+L117: Announcement number
+L118:     FEMA-JB-13100736-DE
+L119:
+L120: Control number
+L121:     891011700
+L122: ## This job is open to
+L123:
+L124: 【17†Help†usajobshelp.opm.gov】
+L125:
+L126: 【18†The public U.S. Citizens, Nationals or those who owe allegiance to the U.S.】
+L127:
+L128: 【19†Career transition (CTAP, ICTAP, RPL) Federal employees whose job, agency or department was eliminated and are eligible for priority over other applicants.】
+L129:
+L130: ### Clarification from the agency
+L131:
+L132: This job is open to: U.S. Citizens
+L133: ## Duties
+L134:
+L135: 【20†Help†usajobshelp.opm.gov】
+L136: The Department of Homeland Security (DHS) is calling on those who want to help protect American interests and secure our Nation. DHS Components work collectively to prevent terrorism; secure borders and our transportation systems; protect the President and other dignitaries; enforce and administer immigration laws; safeguard cyberspace; and ensure resilience to disasters. We achieve these vital missions through a workforce spanning hundreds of occupations. Make an impact; join DHS.
+L137: When disaster strikes, America looks to the Federal Emergency Management Agency (FEMA). Now FEMA looks to you. Join our team and use your talent to support Americans in their times of greatest need. FEMA prepares the nation for all hazards and manages Federal response and recovery efforts following any national incident. We foster innovation, reward performance and creativity, and provide challenges on a routine basis with a well-skilled, knowledgeable, high performance workforce.
+L138: Please visit 【21†www.fema.gov†www.fema.gov】 for additional information.
+L139: EXCEPTED SERVICE: This is a Schedule Policy/Career position in the excepted service.
+L140: EMERGENCY ASSIGNMENT: Every FEMA employee has regular and recurring emergency management responsibilities, though not every position requires routine deployment to disaster sites. All positions are subject to recall around the clock for emergency management operations, which may require irregular work hours, work at locations other than the official duty station, and may include duties other than those specified in the employee's official position description.
+L141: Travel requirements in support of emergency operations may be extensive in nature (weeks to months), with little advance notice, and may require employees to relocate to emergency sites with physically austere and operationally challenging conditions.
+L142: In this position, you will serve as Chief, Financial Policy Branch within the Financial Management Division in FEMA's Office of the Chief Financial Officer. You will provide leadership, technical guidance and expertise on a wide range of financial and travel policies. . Typical assignments include:
+L143:   * Directing staff to develop a mixture of routine and challenging financial and travel policy guidance based on organizational goals and objectives.
+L144:   * Directing and overseeing daily work assignments, setting priorities, and determining resource requirements.
+L145:   * Determining short- or long-term goals and strategies to achieve them; coordinating with other organizations to accomplish goals and objectives.
+L146: ## Requirements
+L147:
+L148: 【22†Help†usajobshelp.opm.gov】
+L149: ### Conditions of employment
+L150: To ensure the accomplishment of our mission, DHS requires every employee to be reliable and trustworthy. To meet those standards, all selected applicants must undergo, successfully pass, and maintain a background investigation for Public Trust High-Risk as a condition of placement into this position.
+L151: This may include a credit check after initial job qualifications are determined, a review of financial issues, such as delinquency in the payment of debts, child support and/or tax obligations, as well as certain criminal offenses and illegal use or possession of drugs (please visit: 【23†Mythbuster on Federal Hiring Policies for additional information†chcoc.gov】). For more information on background investigations for Federal jobs please visit 【24†OPM Investigations†www.opm.gov】.
+L152: As a condition of employment for accepting this position, you will be serving in a position in Schedule Policy/Career of the Excepted service. You will obtain competitive status after two years of service in this position [if applicable]. Your employment in this position will be at-will.
+L153: Merit Systems Protection Board (MSPB) appeals of adverse actions concerning performance, discipline, and other matters arising under chapters 23, 43, and 75 of title 5, United States Code will not be available to an individual serving in this position. The DHS Office of General Counsel will enforce prohibitions on prohibited personnel practices and not the Office of Special Counsel.
+L154: The Office of Personnel Management (OPM) must authorize employment offers made to current or former political appointees. If you are currently, or have been within the last 5 years, a political Schedule A, Schedule C, Non-career SES or Presidential Appointee employee in the Executive Branch, you must disclose this information to the Human Resources Office.
+L155: Please ensure you meet the qualification requirements described below.
+L156: Key Requirements:
+L157:   1. You must be a U.S. citizen to apply for this position.
+L158:   2. You must successfully pass a background investigation.
+L159:   3. Selective Service registration required.
+L160:   4. Current federal employees must meet time-in-grade requirements.
+L161:   5. You must be able to obtain and maintain a Government credit card.
+L162:   6. You must be able to deploy with little or no advance notice to anywhere in the United States and its territories for an extended period of time.
+L163:   7. Please review the Additional Information section for additional key requirements.
+L164: ### Qualifications
+L165: Current Federal employees must have served 52 weeks at the next lower grade or equivalent grade band in the Federal service. The qualification requirements listed below must be met by the closing date of this announcement.
+--------------------------------------------------------------------------------
+Career Opportunities | FHFA (https://www.fhfa.gov/about/careers)
+citeturn43view3 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.fhfa.gov/about/careers","lineno":null}); Total lines: 57
+L0: 【0†iframe†www.googletagmanager.com】 【1†Skip to main content】
+L1: # Career Opportunities
+L2:
+L3: FHFA is a key player in the current and future U.S. housing market as the safety and soundness regulator of the Federal Home Loan Bank System and regulator and conservator of Fannie Mae and Freddie Mac.
+L4: At FHFA every employee plays a vital role in meeting our mission and we depend on them to aspire to excel in every aspect of their work; have the highest ethical and professional standards; respect each other, information and resources; and promote respect in our employment and business practices.
+L5: Our team primarily consists of examiners, accountants, economists, financial analysts, information technology specialists, and attorneys.  We also recruit for a variety of other positions such as policy experts, budget and procurement specialists, human resources specialists, facilities and space management professionals and student interns.
+L6: FHFA is committed to Equal Employment Opportunity (EEO) and the guidelines of the EEO Commission. FHFA offers a wide variety of EEO services. To learn more, please visit the 【2†EEO page.】 FHFA is an Equal Opportunity Employer. U.S. citizenship is required.​
+L7: ## Current Openings
+L8:
+L9: No job listings are currently available.
+L10:
+L11: ## ​​Open to Students
+L12:
+L13: ​​Visit the 【3†Student & Recent Graduates Employment Opportunities​】 page for employment opportunities​​​ open to current students, recent graduates, and entry-level employees with advanced degrees.
+L14: ## Federal Employee Viewpoint Survey
+L15:
+L16: ​The Federal Employee Viewpoint Survey (FEVS) is a tool that allows employees to share their experience in critical work areas. The survey results provide agency leadership with insight into areas of success, as well as areas where improvements are needed.
+L17:
+L18: 【4†​Previous Survey Results】
+L19:
+L20: ## Additional Information
+L21:
+L22:   * 【5†Image: woman meditating at desk】
+L23: ## Benefits
+L24:
+L25: We cultivate a workplace that is respectful and fair. Our comprehensive benefits are generous - helping you to reach your individual goals by supporting your professional growth, health, well-being, and your personal needs.
+L26:
+L27: 【6†Read More】
+L28:
+L29:   * 【7†Image: woman sitting in wheelchair smiling looking at laptop】
+L30: ## Reasonable Accommodations and Personal Assistance Services
+L31:
+L32: FHFA provides reasonable accommodations to qualified employees and job applicants with disabilities. FHFA also provides personal assistance services to qualified employees with disabilities where appropriate. Employees and job applicants requiring reasonable accommodations or personal assistance services should contact ReasonableAccommodations@fhfa.gov.
+L33:
+L34: 【8†Read More】
+L35:
+L36:   * 【9†Image: Graduates throwing cap in air】
+L37: ## Students & Recent Graduates
+L38:
+L39: FHFA seeks energetic, highly motivated students to apply to our student and recent graduate positions. Selected students will join a team that helps stabilize the nation's housing market and makes significant contributions to FHFA's mission. Students will receive on-the-job training, exposure to a fast-paced environment, and gain valuable experience.
+L40:
+L41: 【3†Read More】
+L42:
+L43: Sign up for email updates
+L44:
+L45: [Input: example@website.com]
+L46:
+L47: [Input]
+L48:
+L49: [Input] [Input]
+L50: Leave this field blank [Input]
+L51:
+L52: 【10†U.S. FEDERAL HOUSING】
+L53:
+L54: * * *
+L55:
+L56: Back to top
+--------------------------------------------------------------------------------
+Internal Error ()
+citeturn43view4 [wordlim: 200] Source: open({"ref_id":"https://www.fdic.gov/about/careers","lineno":null});
+Failed to fetch https://www.fdic.gov/about/careers: (403) Forbidden

@@ -1,0 +1,32 @@
+{
+  "@context": "http://www.schema.org",
+  "@type": "JobPosting",
+  "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": {
+      "@type": "QuantitativeValue",
+      "value": 90838.0,
+      "unitText": "YEAR"
+    }
+  },
+  "datePosted": "11/02/2026",
+  "description": "You will serve as a FINANCIAL MANAGEMENT ANALYST in the COMPTROLLER Division of COMNAVSURFLANT.",
+  "educationRequirements": "There is no education substitution for this series/grade combination.",
+  "employmentType": "OTHER",
+  "hiringOrganization": "COMNAVSURFLANT",
+  "jobLocation": [
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Naval Base, Norfolk",
+        "addressRegion": "VA "
+      }
+    }
+  ],
+  "responsibilities": "",
+  "qualifications": "To qualify for a GS-12, your resume must demonstrate at least one year of specialized experience at or equivalent to the<strong> GS-11</strong> grade level or pay band in the Federal service or equivalent experience in the private or public sector. Specialized experience must demonstrate the following:\n<ul>\n\t<li>Experience formulating budgets and estimates to support plans, programs, and activities including presenting and including budget estimates before authorities.</li>\n\t<li>Experience analyzing and recommending costs and benefits of alternative methods financial management of the organization's programs and administrative operations.</li>\n\t<li>Experience implementing legal and regulatory controls over approved budgets.</li>\n\t<li>Experience developing, determining, and interpreting budgetary policies and practices.</li>\n\t<li>Experience providing advice in effective and efficient methods for the acquisition and use of funds to support the organization's programs and activities.</li>\n\t<li>Experience assisting in budget formulation, execution, financial planning, and extracting and analyzing financial data using integrated financial management systems (such as Navy ERP).</li>\n\t<li>Experience applying financial regulations, policies, or procedures to evaluate funding requests. Independently performing complex budget analysis, formulating financial plans, and executing fund controls.</li>\n\t<li>Experience interpreting and applying Federal Appropriations Law, DoD/DoN financial management regulations, and financial policies.</li>\n\t<li>Experience conducting detailed financial tracking, identifying discrepancies, and formulating corrective actions (e.g., labor corrections, contract charge reconciliations).</li>\n</ul>\nAdditional qualification information can be found from the following Office of Personnel Management web site: <a href=\"https://www.opm.gov/policy-data-oversight/classification-qualifications/general-schedule-qualification-standards/#url=List-by-Occupational-Series\">https://www.opm.gov/policy-data-oversight/classification-qualifications/general-schedule-qualification-standards/#url=List-by-Occupational-Series</a><br>\n<br>\nExperience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., professional, philanthropic, religious, spiritual, community, student, social). Volunteer work helps build critical competencies, knowledge, and skills and can provide valuable training and experience that translates directly to paid employment.",
+  "title": "FINANCIAL MANAGEMENT ANALYST",
+  "validThrough": "2026-11-06"
+}

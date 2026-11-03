@@ -1,0 +1,83 @@
+{
+  "title": "OPERATIONS RESEARCH ANALYST",
+  "requisition_id": "DAKB-26-13095261-CES",
+  "canonical_url": "https://www.usajobs.gov/job/889978900",
+  "application_url": "https://www.usajobs.gov/job/889978900",
+  "posted_date": "2026-10-27",
+  "posted_date_evidence": "Official announcement JobPosting.datePosted; corroborated by native search PositionStartDate where listed.",
+  "close_date": "2026-11-10",
+  "deadline_timezone": "America/New_York",
+  "deadline_time": "23:59",
+  "deadline_source": "https://www.usajobs.gov/job/889978900",
+  "deadline_verified": true,
+  "early_closure_conditions": [],
+  "rolling_cutoff": null,
+  "location": "Fort Meade, MD",
+  "remote_restrictions": "Offered DMV work location; verify telework/attendance and screening conditions in announcement.",
+  "salary": "Starting at $121,785 Per year (GG 13)",
+  "retrieved_at": "2026-11-02T23:14:54.501767+00:00",
+  "control_number": "889978900",
+  "fit": "Mathematics/CS education, Monte Carlo/statistical research, forecasting and decision-support modeling overlap; specialized domain/AI requirements need confirmation.",
+  "gaps": "Verify qualifying coursework and calculus credits against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.",
+  "requirements_confirmed_unmet": [],
+  "requirements_unverified": [
+    "Verify qualifying coursework and calculus credits against the exact qualification clause; not established by the baseline alone.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "preferred_requirements_note": "See official qualifications/education sections; missing evidence does not establish an unmet requirement.",
+  "hiring_paths": [
+    "Open to the public"
+  ],
+  "open_evidence": "Official announcement downloaded successfully; validThrough and native open-status evidence retained.",
+  "discovery_window": [
+    "2026-09-02",
+    "2026-11-02"
+  ],
+  "employer": "Joint Activities",
+  "status": "needs_verification",
+  "aliases": [],
+  "id": "dc6a76103ddb491c",
+  "application_directory": "applications/2026-11-02__joint-activities__operations-research-analyst__dc6a76103ddb491c",
+  "step": 1,
+  "selected": false,
+  "submitted": false,
+  "artifacts": {
+    "resume_markdown": {
+      "path": "applications/2026-11-02__joint-activities__operations-research-analyst__dc6a76103ddb491c/resume-xuewu-cai__joint-activities__operations-research-analyst__889978900.md",
+      "sha256": "700ca3441302304708c80a3b9bf3ce69ea10044c2eb2cc8f20102afd4fa249f4"
+    },
+    "resume_pdf": {
+      "path": "applications/2026-11-02__joint-activities__operations-research-analyst__dc6a76103ddb491c/resume-xuewu-cai__joint-activities__operations-research-analyst__889978900.pdf",
+      "sha256": "a60251d3025d6263f667c158e61f3c0fa544e400a15c02f5609e0cc6bfa638a8"
+    }
+  },
+  "artifact_versions": [
+    {
+      "revision_id": "2026-11-02T23:14:54.501767+00:00",
+      "artifacts": {
+        "resume_markdown": {
+          "path": "applications/2026-11-02__joint-activities__operations-research-analyst__dc6a76103ddb491c/resume-xuewu-cai__joint-activities__operations-research-analyst__889978900.md",
+          "sha256": "700ca3441302304708c80a3b9bf3ce69ea10044c2eb2cc8f20102afd4fa249f4"
+        },
+        "resume_pdf": {
+          "path": "applications/2026-11-02__joint-activities__operations-research-analyst__dc6a76103ddb491c/resume-xuewu-cai__joint-activities__operations-research-analyst__889978900.pdf",
+          "sha256": "a60251d3025d6263f667c158e61f3c0fa544e400a15c02f5609e0cc6bfa638a8"
+        }
+      },
+      "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a"
+    }
+  ],
+  "resume_status": "prepared_with_attention",
+  "resume_review": "Text and hashes verified; all 20 baseline experience bullets preserved with updated title. Two pages rendered in PDFKit; all 113 distinct page images visually reviewed across 10 boards (238 rendered pages total). No clipping, overlap or blank pages. Neutral metadata and no AI-editing/targeting labels. Candidate facts/qualifications marked as attention items; no submission.",
+  "required_answers_pending": [
+    "Verify qualifying coursework and calculus credits against the exact qualification clause; not established by the baseline alone.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "confirmed_unmet_requirements": [],
+  "qualifications_verified": false,
+  "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a",
+  "resume_format": "restored_two_page",
+  "current_resume_naming": "unversioned",
+  "clearance_requirement": "Top Secret",
+  "public_hiring_route_evidence": true
+}

@@ -1,0 +1,32 @@
+{
+  "@context": "http://www.schema.org",
+  "@type": "JobPosting",
+  "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": {
+      "@type": "QuantitativeValue",
+      "value": 121785.0,
+      "unitText": "YEAR"
+    }
+  },
+  "datePosted": "10/29/2026",
+  "description": "<strong>This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. </strong><br>\n<br>\nIt is in the Professional Work Category at the Senior Work Level within the CES Occupational Structure. It is located in the DISA J6/C4 Enterprise Directorate.",
+  "educationRequirements": "<strong>There is no substitution of education for the</strong> <strong>qualifying experienceat the GG-13 grade level.</strong>",
+  "employmentType": "OTHER",
+  "hiringOrganization": "DISA - FE/Global Service Desk Division",
+  "jobLocation": [
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Fort Meade",
+        "addressRegion": "MD "
+      }
+    }
+  ],
+  "responsibilities": "",
+  "qualifications": "In order to qualify for this position, you must meet the requirements described below.<br>\n<br>\n<strong><u>Basic Requirements:</u></strong><br>\n<br>\nIndividuals must have IT-related experience demonstrating each of the four competencies listed below. The employing agency is responsible for identifying the specific level of proficiency required for each competency at each grade level based on the requirements of the position being filled.\n<ol>\n\t<li><strong>Attention to Detail</strong> - Is thorough when performing work and conscientious about attending to detail.</li>\n\t<li><strong>Customer Service</strong> - Works with clients and customers (that is, any individuals who use or receive the services or products that your work unit produces, including the general public, individuals who work in the agency, other agencies, or organizations outside the Government) to assess their needs, provide information or assistance, resolve their problems, or satisfy their expectations; knows about available products and services; is committed to providing quality products and services.</li>\n\t<li><strong>Oral Communication</strong> - Expresses information (for example, ideas or facts) to individuals or groups effectively, taking into account the audience and nature of the information (for example, technical, sensitive, controversial); makes clear and convincing oral presentations; listens to others, attends to nonverbal cues, and responds appropriately.</li>\n\t<li><strong>Problem Solving</strong> - Identifies problems; determines accuracy and relevance of information; uses sound judgment to generate and evaluate alternatives, and to make recommendations.</li>\n</ol>\nand at least 1 year of qualifying experience.<br>\n<br>\n<u><strong>Qualifying Experience: </strong></u><br>\n<br>\nTo qualify at the GG-13, your resume must describe at least one year of experience that demonstrates the competencies necessary for immediate success in the position. Experience refers to any paid or unpaid experience, including volunteer work and Military service, that would be considered equivalent to work normally performed at the next lower grade level in the federal service. For this position, qualifying experience is defined as:  .\n\n<ul>\n\t<li><strong>Experience in the design, development, modification, testing, implementation, and support of new or existing application software; proficiency in writing, debugging, and maintaining code, as well as creating and maintaining program documentation; or experience utilizing object-oriented design principles and state-of-the-art software engineering tools.</strong></li>\n</ul>\nCandidates must describe how they meet the qualifying experience and/or selective placement factor(s) within the body of their resume. All qualifications must be met within 30 days after the closing date of this announcement.",
+  "title": "IT CYBERSECURITY SPECIALIST (APPSW/INFOSEC)",
+  "validThrough": "2026-11-06"
+}

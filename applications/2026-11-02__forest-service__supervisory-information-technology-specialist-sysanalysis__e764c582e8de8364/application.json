@@ -1,0 +1,85 @@
+{
+  "title": "Supervisory Information Technology Specialist (SYSANALYSIS)",
+  "requisition_id": "27-CIO-2210-13097893FS-MG",
+  "canonical_url": "https://www.usajobs.gov/job/889730400",
+  "application_url": "https://www.usajobs.gov/job/889730400",
+  "posted_date": "2026-10-26",
+  "posted_date_evidence": "Official announcement JobPosting.datePosted; corroborated by native search PositionStartDate where listed.",
+  "close_date": "2026-11-04",
+  "deadline_timezone": "America/New_York",
+  "deadline_time": "23:59",
+  "deadline_source": "https://www.usajobs.gov/job/889730400",
+  "deadline_verified": true,
+  "early_closure_conditions": [],
+  "rolling_cutoff": null,
+  "location": "Location Negotiable After Selection (20 locations)",
+  "remote_restrictions": "Offered DMV work location; verify telework/attendance and screening conditions in announcement.",
+  "salary": "Starting at $147,945 Per year (GS 15)",
+  "retrieved_at": "2026-11-02T23:14:54.501767+00:00",
+  "control_number": "889730400",
+  "fit": "Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.",
+  "gaps": "Hiring-path eligibility unverified: Internal to an agency, Career transition (CTAP, ICTAP, RPL), Land and base management. Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.",
+  "requirements_confirmed_unmet": [],
+  "requirements_unverified": [
+    "Hiring-path eligibility unverified: Internal to an agency, Career transition (CTAP, ICTAP, RPL), Land and base management. Confirm qualifying status before application; absence from baseline is not proof of ineligibility.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "preferred_requirements_note": "See official qualifications/education sections; missing evidence does not establish an unmet requirement.",
+  "hiring_paths": [
+    "Internal to an agency",
+    "Career transition (CTAP, ICTAP, RPL)",
+    "Land and base management"
+  ],
+  "open_evidence": "Official announcement downloaded successfully; validThrough and native open-status evidence retained.",
+  "discovery_window": [
+    "2026-09-02",
+    "2026-11-02"
+  ],
+  "employer": "Forest Service",
+  "status": "needs_verification",
+  "aliases": [],
+  "id": "e764c582e8de8364",
+  "application_directory": "applications/2026-11-02__forest-service__supervisory-information-technology-specialist-sysanalysis__e764c582e8de8364",
+  "step": 1,
+  "selected": false,
+  "submitted": false,
+  "artifacts": {
+    "resume_markdown": {
+      "path": "applications/2026-11-02__forest-service__supervisory-information-technology-specialist-sysanalysis__e764c582e8de8364/resume-xuewu-cai__forest-service__supervisory-information-technology-specialist-sysanalysis__889730400.md",
+      "sha256": "6eba9c6b6d383e9f007b9be37d75cb7fafb4a5de75d9507ad34cf84d59c19d39"
+    },
+    "resume_pdf": {
+      "path": "applications/2026-11-02__forest-service__supervisory-information-technology-specialist-sysanalysis__e764c582e8de8364/resume-xuewu-cai__forest-service__supervisory-information-technology-specialist-sysanalysis__889730400.pdf",
+      "sha256": "12e1caf4926ae900202f465cafddb6001d9b302d7048c9beb4beae21c300bb1a"
+    }
+  },
+  "artifact_versions": [
+    {
+      "revision_id": "2026-11-02T23:14:54.501767+00:00",
+      "artifacts": {
+        "resume_markdown": {
+          "path": "applications/2026-11-02__forest-service__supervisory-information-technology-specialist-sysanalysis__e764c582e8de8364/resume-xuewu-cai__forest-service__supervisory-information-technology-specialist-sysanalysis__889730400.md",
+          "sha256": "6eba9c6b6d383e9f007b9be37d75cb7fafb4a5de75d9507ad34cf84d59c19d39"
+        },
+        "resume_pdf": {
+          "path": "applications/2026-11-02__forest-service__supervisory-information-technology-specialist-sysanalysis__e764c582e8de8364/resume-xuewu-cai__forest-service__supervisory-information-technology-specialist-sysanalysis__889730400.pdf",
+          "sha256": "12e1caf4926ae900202f465cafddb6001d9b302d7048c9beb4beae21c300bb1a"
+        }
+      },
+      "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a"
+    }
+  ],
+  "resume_status": "prepared_with_attention",
+  "resume_review": "Text and hashes verified; all 20 baseline experience bullets preserved with updated title. Two pages rendered in PDFKit; all 113 distinct page images visually reviewed across 10 boards (238 rendered pages total). No clipping, overlap or blank pages. Neutral metadata and no AI-editing/targeting labels. Candidate facts/qualifications marked as attention items; no submission.",
+  "required_answers_pending": [
+    "Hiring-path eligibility unverified: Internal to an agency, Career transition (CTAP, ICTAP, RPL), Land and base management. Confirm qualifying status before application; absence from baseline is not proof of ineligibility.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "confirmed_unmet_requirements": [],
+  "qualifications_verified": false,
+  "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a",
+  "resume_format": "restored_two_page",
+  "current_resume_naming": "unversioned",
+  "clearance_requirement": "Not Required",
+  "public_hiring_route_evidence": false
+}

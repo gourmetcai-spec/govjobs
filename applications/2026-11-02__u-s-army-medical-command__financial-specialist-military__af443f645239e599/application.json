@@ -1,0 +1,83 @@
+{
+  "title": "Financial Specialist (Military)",
+  "requisition_id": "HSM1-26-13103370-DHA",
+  "canonical_url": "https://www.usajobs.gov/job/890811100",
+  "application_url": "https://www.usajobs.gov/job/890811100",
+  "posted_date": "2026-10-31",
+  "posted_date_evidence": "Official announcement JobPosting.datePosted; corroborated by native search PositionStartDate where listed.",
+  "close_date": "2026-11-10",
+  "deadline_timezone": "America/New_York",
+  "deadline_time": "23:59",
+  "deadline_source": "https://www.usajobs.gov/job/890811100",
+  "deadline_verified": true,
+  "early_closure_conditions": [],
+  "rolling_cutoff": null,
+  "location": "Bethesda, MD",
+  "remote_restrictions": "Offered DMV work location; verify telework/attendance and screening conditions in announcement.",
+  "salary": "Starting at $70,623 Per year (GS 9)",
+  "retrieved_at": "2026-11-02T23:14:54.501767+00:00",
+  "control_number": "890811100",
+  "fit": "Financial forecasting, capital/ROE, quantitative risk and engineering leadership overlap; federal budget/accounting/policy specialties remain attention items.",
+  "gaps": "Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.",
+  "requirements_confirmed_unmet": [],
+  "requirements_unverified": [
+    "Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "preferred_requirements_note": "See official qualifications/education sections; missing evidence does not establish an unmet requirement.",
+  "hiring_paths": [
+    "Open to the public"
+  ],
+  "open_evidence": "Official announcement downloaded successfully; validThrough and native open-status evidence retained.",
+  "discovery_window": [
+    "2026-09-02",
+    "2026-11-02"
+  ],
+  "employer": "U.S. Army Medical Command",
+  "status": "needs_verification",
+  "aliases": [],
+  "id": "af443f645239e599",
+  "application_directory": "applications/2026-11-02__u-s-army-medical-command__financial-specialist-military__af443f645239e599",
+  "step": 1,
+  "selected": false,
+  "submitted": false,
+  "artifacts": {
+    "resume_markdown": {
+      "path": "applications/2026-11-02__u-s-army-medical-command__financial-specialist-military__af443f645239e599/resume-xuewu-cai__u-s-army-medical-command__financial-specialist-military__890811100.md",
+      "sha256": "6abb666d65838bb0c178ead79ba7c5730e50a233f56d9696f446c05378327e3a"
+    },
+    "resume_pdf": {
+      "path": "applications/2026-11-02__u-s-army-medical-command__financial-specialist-military__af443f645239e599/resume-xuewu-cai__u-s-army-medical-command__financial-specialist-military__890811100.pdf",
+      "sha256": "22e4dbacd328bfb55eb4b9ffdbf1ca1ea0917ea6b7735249e73b3a5edf1bed05"
+    }
+  },
+  "artifact_versions": [
+    {
+      "revision_id": "2026-11-02T23:14:54.501767+00:00",
+      "artifacts": {
+        "resume_markdown": {
+          "path": "applications/2026-11-02__u-s-army-medical-command__financial-specialist-military__af443f645239e599/resume-xuewu-cai__u-s-army-medical-command__financial-specialist-military__890811100.md",
+          "sha256": "6abb666d65838bb0c178ead79ba7c5730e50a233f56d9696f446c05378327e3a"
+        },
+        "resume_pdf": {
+          "path": "applications/2026-11-02__u-s-army-medical-command__financial-specialist-military__af443f645239e599/resume-xuewu-cai__u-s-army-medical-command__financial-specialist-military__890811100.pdf",
+          "sha256": "22e4dbacd328bfb55eb4b9ffdbf1ca1ea0917ea6b7735249e73b3a5edf1bed05"
+        }
+      },
+      "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a"
+    }
+  ],
+  "resume_status": "prepared_with_attention",
+  "resume_review": "Text and hashes verified; all 20 baseline experience bullets preserved with updated title. Two pages rendered in PDFKit; all 113 distinct page images visually reviewed across 10 boards (238 rendered pages total). No clipping, overlap or blank pages. Neutral metadata and no AI-editing/targeting labels. Candidate facts/qualifications marked as attention items; no submission.",
+  "required_answers_pending": [
+    "Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "confirmed_unmet_requirements": [],
+  "qualifications_verified": false,
+  "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a",
+  "resume_format": "restored_two_page",
+  "current_resume_naming": "unversioned",
+  "clearance_requirement": "Secret",
+  "public_hiring_route_evidence": true
+}

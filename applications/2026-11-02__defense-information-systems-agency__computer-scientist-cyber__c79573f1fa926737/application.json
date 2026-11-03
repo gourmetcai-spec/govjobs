@@ -1,0 +1,83 @@
+{
+  "title": "COMPUTER SCIENTIST (CYBER)",
+  "requisition_id": "CES-DISA-13097501-26TB",
+  "canonical_url": "https://www.usajobs.gov/job/890052900",
+  "application_url": "https://www.usajobs.gov/job/890052900",
+  "posted_date": "2026-10-27",
+  "posted_date_evidence": "Official announcement JobPosting.datePosted; corroborated by native search PositionStartDate where listed.",
+  "close_date": "2026-11-03",
+  "deadline_timezone": "America/New_York",
+  "deadline_time": "23:59",
+  "deadline_source": "https://www.usajobs.gov/job/890052900",
+  "deadline_verified": true,
+  "early_closure_conditions": [],
+  "rolling_cutoff": null,
+  "location": "Fort Meade, MD",
+  "remote_restrictions": "Offered DMV work location; verify telework/attendance and screening conditions in announcement.",
+  "salary": "Starting at $143,913 Per year (GG 14)",
+  "retrieved_at": "2026-11-02T23:14:54.501767+00:00",
+  "control_number": "890052900",
+  "fit": "Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.",
+  "gaps": "Confirm the announcement-specific specialized experience, grade-equivalent scope and mandatory conditions against your actual work history. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.",
+  "requirements_confirmed_unmet": [],
+  "requirements_unverified": [
+    "Confirm the announcement-specific specialized experience, grade-equivalent scope and mandatory conditions against your actual work history.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "preferred_requirements_note": "See official qualifications/education sections; missing evidence does not establish an unmet requirement.",
+  "hiring_paths": [
+    "Open to the public"
+  ],
+  "open_evidence": "Official announcement downloaded successfully; validThrough and native open-status evidence retained.",
+  "discovery_window": [
+    "2026-09-02",
+    "2026-11-02"
+  ],
+  "employer": "Defense Information Systems Agency",
+  "status": "needs_verification",
+  "aliases": [],
+  "id": "c79573f1fa926737",
+  "application_directory": "applications/2026-11-02__defense-information-systems-agency__computer-scientist-cyber__c79573f1fa926737",
+  "step": 1,
+  "selected": false,
+  "submitted": false,
+  "artifacts": {
+    "resume_markdown": {
+      "path": "applications/2026-11-02__defense-information-systems-agency__computer-scientist-cyber__c79573f1fa926737/resume-xuewu-cai__defense-information-systems-agency__computer-scientist-cyber__890052900.md",
+      "sha256": "4b11b0f8a74883827bf39b320da733e6e7c44c7ae9c635869f5aa967e3ca2d31"
+    },
+    "resume_pdf": {
+      "path": "applications/2026-11-02__defense-information-systems-agency__computer-scientist-cyber__c79573f1fa926737/resume-xuewu-cai__defense-information-systems-agency__computer-scientist-cyber__890052900.pdf",
+      "sha256": "03a8c6f56e66c949546ca2ca3e0cc154d4f65021fa60a2d069e4d1d40a15db0b"
+    }
+  },
+  "artifact_versions": [
+    {
+      "revision_id": "2026-11-02T23:14:54.501767+00:00",
+      "artifacts": {
+        "resume_markdown": {
+          "path": "applications/2026-11-02__defense-information-systems-agency__computer-scientist-cyber__c79573f1fa926737/resume-xuewu-cai__defense-information-systems-agency__computer-scientist-cyber__890052900.md",
+          "sha256": "4b11b0f8a74883827bf39b320da733e6e7c44c7ae9c635869f5aa967e3ca2d31"
+        },
+        "resume_pdf": {
+          "path": "applications/2026-11-02__defense-information-systems-agency__computer-scientist-cyber__c79573f1fa926737/resume-xuewu-cai__defense-information-systems-agency__computer-scientist-cyber__890052900.pdf",
+          "sha256": "03a8c6f56e66c949546ca2ca3e0cc154d4f65021fa60a2d069e4d1d40a15db0b"
+        }
+      },
+      "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a"
+    }
+  ],
+  "resume_status": "prepared_with_attention",
+  "resume_review": "Text and hashes verified; all 20 baseline experience bullets preserved with updated title. Two pages rendered in PDFKit; all 113 distinct page images visually reviewed across 10 boards (238 rendered pages total). No clipping, overlap or blank pages. Neutral metadata and no AI-editing/targeting labels. Candidate facts/qualifications marked as attention items; no submission.",
+  "required_answers_pending": [
+    "Confirm the announcement-specific specialized experience, grade-equivalent scope and mandatory conditions against your actual work history.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "confirmed_unmet_requirements": [],
+  "qualifications_verified": false,
+  "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a",
+  "resume_format": "restored_two_page",
+  "current_resume_naming": "unversioned",
+  "clearance_requirement": "Secret",
+  "public_hiring_route_evidence": true
+}

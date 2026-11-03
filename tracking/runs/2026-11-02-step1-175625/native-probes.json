@@ -1,0 +1,35 @@
+[
+  {
+    "name": "probe-locationname-list",
+    "payload": {
+      "Keyword": "software",
+      "LocationName": [
+        "Maryland"
+      ]
+    },
+    "probe": true
+  },
+  {
+    "name": "probe-locationcodes",
+    "payload": {
+      "Keyword": "software",
+      "LocationCodes": [
+        "24"
+      ]
+    },
+    "probe": true
+  },
+  {
+    "name": "probe-location-state",
+    "payload": {
+      "Keyword": "software",
+      "LocationName": [
+        "Maryland",
+        "Virginia",
+        "District of Columbia"
+      ],
+      "Radius": 0
+    },
+    "probe": true
+  }
+]

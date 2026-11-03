@@ -1,0 +1,91 @@
+{
+  "title": "OPERATIONS RESEARCH ANALYST",
+  "requisition_id": "ST-13100679-27-JMA",
+  "canonical_url": "https://www.usajobs.gov/job/890231100",
+  "application_url": "https://www.usajobs.gov/job/890231100",
+  "posted_date": "2026-10-27",
+  "posted_date_evidence": "Official announcement JobPosting.datePosted; corroborated by native search PositionStartDate where listed.",
+  "close_date": "2026-11-05",
+  "deadline_timezone": "America/New_York",
+  "deadline_time": "23:59",
+  "deadline_source": "https://www.usajobs.gov/job/890231100",
+  "deadline_verified": true,
+  "early_closure_conditions": [],
+  "rolling_cutoff": null,
+  "location": "Pentagon, Arlington, VA",
+  "remote_restrictions": "Offered DMV work location; verify telework/attendance and screening conditions in announcement.",
+  "salary": "Starting at $121,785 Per year (GS 13)",
+  "retrieved_at": "2026-11-02T23:14:54.501767+00:00",
+  "control_number": "890231100",
+  "fit": "Mathematics/CS education, Monte Carlo/statistical research, forecasting and decision-support modeling overlap; specialized domain/AI requirements need confirmation.",
+  "gaps": "Hiring-path eligibility unverified: Internal to an agency, Career transition (CTAP, ICTAP, RPL), Land and base management, Veterans, Military spouses, Individuals with disabilities, Special authorities. Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Verify qualifying coursework and calculus credits against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.",
+  "requirements_confirmed_unmet": [],
+  "requirements_unverified": [
+    "Hiring-path eligibility unverified: Internal to an agency, Career transition (CTAP, ICTAP, RPL), Land and base management, Veterans, Military spouses, Individuals with disabilities, Special authorities. Confirm qualifying status before application; absence from baseline is not proof of ineligibility.",
+    "Verify qualifying coursework and calculus credits against the exact qualification clause; not established by the baseline alone.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "preferred_requirements_note": "See official qualifications/education sections; missing evidence does not establish an unmet requirement.",
+  "hiring_paths": [
+    "Internal to an agency",
+    "Career transition (CTAP, ICTAP, RPL)",
+    "Land and base management",
+    "Veterans",
+    "Military spouses",
+    "Individuals with disabilities",
+    "Special authorities"
+  ],
+  "open_evidence": "Official announcement downloaded successfully; validThrough and native open-status evidence retained.",
+  "discovery_window": [
+    "2026-09-02",
+    "2026-11-02"
+  ],
+  "employer": "Immediate Office of the Chief of Naval Operations",
+  "status": "needs_verification",
+  "aliases": [],
+  "id": "366e6614c88da155",
+  "application_directory": "applications/2026-11-02__immediate-office-of-the-chief-of-naval-o__operations-research-analyst__366e6614c88da155",
+  "step": 1,
+  "selected": false,
+  "submitted": false,
+  "artifacts": {
+    "resume_markdown": {
+      "path": "applications/2026-11-02__immediate-office-of-the-chief-of-naval-o__operations-research-analyst__366e6614c88da155/resume-xuewu-cai__immediate-office-of-the-chief-of-naval-o__operations-research-analyst__890231100.md",
+      "sha256": "ff766360941bd04c18399e62e3bfc700af98bfb0864affc0e3d08ad426ae46f8"
+    },
+    "resume_pdf": {
+      "path": "applications/2026-11-02__immediate-office-of-the-chief-of-naval-o__operations-research-analyst__366e6614c88da155/resume-xuewu-cai__immediate-office-of-the-chief-of-naval-o__operations-research-analyst__890231100.pdf",
+      "sha256": "ee07d5338061a024e9c785f8088226ad3d57a6a1fafaeba9ad11e4a4b183d1df"
+    }
+  },
+  "artifact_versions": [
+    {
+      "revision_id": "2026-11-02T23:14:54.501767+00:00",
+      "artifacts": {
+        "resume_markdown": {
+          "path": "applications/2026-11-02__immediate-office-of-the-chief-of-naval-o__operations-research-analyst__366e6614c88da155/resume-xuewu-cai__immediate-office-of-the-chief-of-naval-o__operations-research-analyst__890231100.md",
+          "sha256": "ff766360941bd04c18399e62e3bfc700af98bfb0864affc0e3d08ad426ae46f8"
+        },
+        "resume_pdf": {
+          "path": "applications/2026-11-02__immediate-office-of-the-chief-of-naval-o__operations-research-analyst__366e6614c88da155/resume-xuewu-cai__immediate-office-of-the-chief-of-naval-o__operations-research-analyst__890231100.pdf",
+          "sha256": "ee07d5338061a024e9c785f8088226ad3d57a6a1fafaeba9ad11e4a4b183d1df"
+        }
+      },
+      "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a"
+    }
+  ],
+  "resume_status": "prepared_with_attention",
+  "resume_review": "Text and hashes verified; all 20 baseline experience bullets preserved with updated title. Two pages rendered in PDFKit; all 113 distinct page images visually reviewed across 10 boards (238 rendered pages total). No clipping, overlap or blank pages. Neutral metadata and no AI-editing/targeting labels. Candidate facts/qualifications marked as attention items; no submission.",
+  "required_answers_pending": [
+    "Hiring-path eligibility unverified: Internal to an agency, Career transition (CTAP, ICTAP, RPL), Land and base management, Veterans, Military spouses, Individuals with disabilities, Special authorities. Confirm qualifying status before application; absence from baseline is not proof of ineligibility.",
+    "Verify qualifying coursework and calculus credits against the exact qualification clause; not established by the baseline alone.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "confirmed_unmet_requirements": [],
+  "qualifications_verified": false,
+  "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a",
+  "resume_format": "restored_two_page",
+  "current_resume_naming": "unversioned",
+  "clearance_requirement": "Sensitive Compartmented Information",
+  "public_hiring_route_evidence": false
+}

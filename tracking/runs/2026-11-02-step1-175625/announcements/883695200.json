@@ -1,0 +1,88 @@
+{
+  "@context": "http://www.schema.org",
+  "@type": "JobPosting",
+  "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": {
+      "@type": "QuantitativeValue",
+      "value": 163023,
+      "unitText": "YEAR"
+    }
+  },
+  "datePosted": "09/04/2026",
+  "description": "<p>As a<strong> Principal Al Software Engineer</strong> you will devise technical strategies and enterprise architectures to drive secure, ethical AI integration across federal agencies, while meeting cybersecurity and operational standards.</p>\n<p>This position is with the Office of Technology Transformation Services (TTS), Federal Acquisition Service (FAS), General Services Administration (GSA).<br><br>We are currently filling multiple vacancies, but additional vacancies may be filled as needed.</p>",
+  "educationRequirements": "This job does not have an education qualification requirement.",
+  "employmentType": "OTHER",
+  "hiringOrganization": "GSA, Technology Transformation Service",
+  "jobLocation": [
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "San Francisco",
+        "addressRegion": "CA "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Lakewood",
+        "addressRegion": "CO "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Washington",
+        "addressRegion": "DC "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Chicago",
+        "addressRegion": "IL "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Boston",
+        "addressRegion": "MA "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "New York",
+        "addressRegion": "NY "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Philadelphia",
+        "addressRegion": "PA "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Tacoma",
+        "addressRegion": "WA "
+      }
+    }
+  ],
+  "responsibilities": "<ul>\n<li><strong>Serves as a technical expert contributing to high level, enterprise-wide engineering<br>strategies for Al-enabled systems, computer hardware/software integration, and cloud-native architectures and platforms, delivering impactful solutions for the American people.</strong></li>\n<li><strong>Serves as a principal expert and formulates and directs high level, enterprise-wide Al engineering strategies for Al-enabled systems, computer hardware/software integration, and cloud-native architectures, ensuring compliance with federal mandates, executive orders, and/or other guidelines.</strong></li>\n<li><strong>&nbsp;Designs, develops, and evaluates advanced computer engineering solutions for secure Al system deployment, incorporating cybersecurity-by-design and other state-of-the-art technological advances. </strong></li>\n<li><strong>Leads and coordinates cross-agency Al engineering projects involving large-scale digital transformation, data platforms, and secure computing infrastructures. </strong></li>\n<li><strong>Oversees the integration of Al systems into platforms, ensuring interoperability, data integrity, and performance across cloud and legacy infrastructures.</strong></li>\n<li><strong>Formulates IT policies, procedures, and technical and programmatic guidance and documentation necessary for the implementation of agency IT systems.</strong></li>\n</ul>\n<p><strong>The Technology Transformation Services (TTS) is responsible for providing scalable software products and services to federal agencies.</strong></p>\n\n<p><strong><strong><strong><strong></strong></strong></strong></strong></p>",
+  "qualifications": "<p dir=\"ltr\"><strong>To evaluate your qualifications, your resume must clearly demonstrate how you meet the specialized experience described below.</strong> Your resume must not exceed two pages. To ensure your qualifications can be fully evaluated, we recommend including the following information:&nbsp;</p>\n<ul>\n<li dir=\"ltr\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\">Name, address, telephone number, email address;</p>\n</li>\n<li dir=\"ltr\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\">Job Title (if Federal Service, provide series and grade; if not in GS plan, provide GS equivalent grade);</p>\n</li>\n<li dir=\"ltr\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\">Relevant work experience&mdash;should include employer name, job title, start and end dates (month/year), the number of hours worked per week and descriptions that explain how you meet the required qualifications in the job announcement.</p>\n</li>\n<li dir=\"ltr\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\">Education, certifications or licensures&mdash;If the job announcement requires any education, certifications or licensures, make sure to include the required information and any required documents like transcripts.</p>\n</li>\n</ul>\n<p dir=\"ltr\">Your resume should contain enough information to make a valid determination that you fully meet experience requirements for each grade level you are applying to.&nbsp;If you do not provide enough information for us to determine your qualifications, you may be rated ineligible</p>\n<p>If you have volunteered your service through a National Service program (e.g., Peace Corps, Americorps), we encourage you to apply and include this experience on your resume.<br><br>The <strong>GS-15 </strong>salary range starts at <strong>$163,023</strong>&nbsp;per year.<br><br>If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade for which you are selected.&nbsp;&nbsp;<br><br>To qualify, you must have at least one year of specialized experience equivalent to the <strong>GS- 14 </strong>level or higher in the Federal service.&nbsp;</p>\n<p dir=\"ltr\">Applicants applying for the GS-15 grade level must meet the following requirements: Have IT-related experience demonstrating <strong>EACH</strong> of the nine competencies <strong>AND</strong> one year of specialized experience equivalent to the GS-14 level in the Federal service as described below:&nbsp;</p>\n<ul>\n<li dir=\"ltr\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\">Attention to Detail - Is thorough when performing work and conscientious about attending to detail.</p>\n</li>\n<li dir=\"ltr\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\">Customer Service - Works with clients and customers (that is, any individuals who use or receive the services or products that your work unit produces, including the general public, individuals who work in the agency, other agencies, or organizations outside the Government) to assess their needs, provide information or assistance, resolve their problems, or satisfy their expectations; knows about available products and services; is committed to providing quality products and services.</p>\n</li>\n<li dir=\"ltr\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\">Decision Making - Makes sound, well-informed, and objective decisions; perceives the impact and implications of decisions; commits to action, even in uncertain situations, to accomplish organizational goals; causes change.</p>\n</li>\n<li dir=\"ltr\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\">Information Management - Identifies a need for and knows where or how to gather information; organizes and maintains information or information management systems.</p>\n</li>\n<li dir=\"ltr\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\">Interpersonal Skills - Shows understanding, friendliness, courtesy, tact, empathy, concern, and politeness to others; develops and maintains effective relationships with others; may include effectively dealing with individuals who are difficult, hostile, or distressed; relates well to people from varied backgrounds and different situations.</p>\n</li>\n<li dir=\"ltr\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\">Oral Communication - This skill is generally demonstrated by assignments where the applicant persuades others to take a particular course of action or to accept findings, recommendations, changes, or alternative viewpoints.</p>\n</li>\n<li dir=\"ltr\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\">Problem Solving - This skill is generally demonstrated by assignments where the applicant identifies and accommodates technology and resource constraints.</p>\n</li>\n<li dir=\"ltr\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\">Teamwork - Encourages and facilitates cooperation, pride, trust, and group identity; fosters commitment and team spirit; works with others to achieve goals.</p>\n</li>\n<li dir=\"ltr\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\">Technical Competence &ndash; Uses knowledge that is acquired through formal training or on-the-job experience to perform one's job; works with, understands, and evaluates technical information related to the job; advises others on technical issues.</p>\n</li>\n</ul>\n<p dir=\"ltr\"><strong>To qualify, you must have (1) year of specialized experience. Specialized experience is defined as:&nbsp;</strong></p>\n<ul>\n<li dir=\"ltr\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\">Leading and executing the end-to-end design, development, management, and direction of multiple highly complex digital products, systems, and solutions, including large-scale, public-facing applications serving a large number of users. This includes developing production grade AI-enabled digital products using server-side programming, relational and/or non-relational databases, test-driven development, and modern frameworks or languages such as Python, Go, JavaScript, TypeScript, Node.js, React, Ruby on Rails, Terraform, Next.js, HTML/CSS, or Rust.</p>\n</li>\n<li dir=\"ltr\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\">Spearheading interagency initiatives focused on digital modernization and serving as a principal technical liaison to internal and external stakeholders, including executive leadership and customer agencies to communicate highly technical information, develop cooperative relationships, resolve conflicting priorities, and provide authoritative guidance on AI, software engineering, security, and IT program strategy.</p>\n</li>\n<li dir=\"ltr\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\">Integrating security and privacy best practices throughout the digital product development lifecycle, performing technical risk assessments, resolving complex cybersecurity or compliance issues, and advising leadership and stakeholders on security strategy, identity and access management, and regulatory compliance.</p>\n</li>\n<li dir=\"ltr\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\">Leading and mentoring cross-functional teams at scale in highly complex, dynamic and agile environments to include planning, developing, and executing large-scale critical enterprise IT modernization projects, aligning team priorities with organizational objectives, and integrating emergent technologies and industry best practices.&nbsp;</p>\n</li>\n</ul>",
+  "title": "Principal Al Software Engineer ",
+  "validThrough": "2026-12-31"
+}

@@ -1,0 +1,974 @@
+# Supervisory Computer Scientist
+
+{
+  "title": "Supervisory Computer Scientist",
+  "requisition_id": "HHS-CDC-DE-27-13025882",
+  "canonical_url": "https://www.usajobs.gov/job/891098700",
+  "application_url": "https://www.usajobs.gov/job/891098700",
+  "posted_date": "2026-11-02",
+  "posted_date_evidence": "Official announcement JobPosting.datePosted; corroborated by native search PositionStartDate where listed.",
+  "close_date": "2026-11-12",
+  "deadline_timezone": "America/New_York",
+  "deadline_time": "23:59",
+  "deadline_source": "https://www.usajobs.gov/job/891098700",
+  "deadline_verified": true,
+  "early_closure_conditions": [
+    "This job will close when we have received 50 applications which may be sooner than the closing date. Learn more"
+  ],
+  "rolling_cutoff": null,
+  "location": "Hyattsville, MD",
+  "remote_restrictions": "Offered DMV work location; verify telework/attendance and screening conditions in announcement.",
+  "salary": "Starting at $169,279 Per year (GS 15)",
+  "retrieved_at": "2026-11-02T23:14:54.501767+00:00",
+  "control_number": "891098700",
+  "fit": "Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.",
+  "gaps": "Verify OMB/federal budget procedures against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.",
+  "requirements_confirmed_unmet": [],
+  "requirements_unverified": [
+    "Verify OMB/federal budget procedures against the exact qualification clause; not established by the baseline alone.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "preferred_requirements_note": "See official qualifications/education sections; missing evidence does not establish an unmet requirement.",
+  "hiring_paths": [
+    "Open to the public",
+    "Career transition (CTAP, ICTAP, RPL)"
+  ],
+  "open_evidence": "Official announcement downloaded successfully; validThrough and native open-status evidence retained.",
+  "discovery_window": [
+    "2026-09-02",
+    "2026-11-02"
+  ]
+}
+
+## Summary
+
+This position is located in the Department of Health & Human Services (HHS), Centers for Disease Control and Prevention (CDC), National Center for Health Statistics (NCHS) located in Hyattsville, Maryland.
+This announcement will close at 11:59 PM, on the day that 50 applications have been received or on the closing date, whichever is first.
+
+## Duties
+
+As a Supervisory Computer Scientist, you will:
+Provide leadership and direction to the development, implementation, and maintenance of integrated Information Technology hardware and software systems.
+Direct activities in the development and implementation of information processing systems supporting large, complex health surveys.
+Serve as spokesperson for the division on all issues relating to data processing and publication.
+
+## Qualifications
+
+WHAT WE ARE LOOKING FOR
+Basic Qualifications:
+Bachelor's degree in computer science or bachelor's degree with 30 semester hours in a combination of mathematics, statistics, and computer science. At least 15 of the 30 semester hours must have included any combination of statistics and mathematics that included differential and integral calculus. All academic degrees and course work must be from accredited or pre-accredited institutions.
+In addition to meeting the basic requirement above, to qualify for this position you must also meet the qualification requirements listed below:
+Minimum Qualifications: You must have one year specialized experience to perform successfully the duties of the position. To be creditable, specialized experience must have been equivalent to at least the GS-14 grade level in the Federal service performing ALL of the following:
+Planning, coordinating, and overseeing information technology hardware and software systems that support the collection, processing, and management of large-scale national survey or health-related data.
+Leading the deployment, integration, and maintenance of IT infrastructure and software applications used to collect, validate, transmit, and process national survey and Electronic Health Record (EHR) data.
+Planning, directing, and overseeing complex information technology projects and multidisciplinary teams supporting national survey and EHR data collection initiatives.
+Documenting experience: IN DESCRIBING YOUR EXPERIENCE, PLEASE BE CLEAR AND SPECIFIC. WE WILL NOT MAKE ASSUMPTIONS REGARDING YOUR EXPERIENCE. Qualifications are based on breadth/level of experience. In addition to describing duties performed, applicants must provide the exact dates of each period of employment (from MM/YY to MM/YY) and the number of hours worked per week if part time. As qualification determinations cannot be made when resumes do not include the required information, failure to provide this information may result in disqualification. Applicants are encouraged to use the USAJOBS Resume Builder to develop their federal resume.
+Do not copy and paste the duties, specialized experience, or occupational application questionnaire from this announcement into your resume as that will not be considered a demonstration of your qualifications for this position.
+In accordance with Office of Personnel Management policy, federal employees are assumed to have gained experience by performing duties and responsibilities appropriate for their official series and grade level as described in their position description. Experience that would not normally be part of the employee's position is creditable, however, when documented by satisfactory evidence, such as a signed memorandum from the employee's supervisor or an SF-50 or SF-52 documenting an official detail or other official assignment. The documentation must indicate whether the duties were performed full time or, if part time, the "percentage of times" the other duties were performed. It is expected that this documentation is included in the employee's official personnel record. In order to receive credit for experience in your resume that is not within the official series and grade level of your official position, you must provide a copy of the appropriate documentation of such experience as indicated above.
+Experience refers to paid and unpaid experience, including volunteer work done through national Service programs (e.g., Peace Corps, AmeriCorps) and other organizations (e.g., professional; philanthropic; religious; community; student; social). Volunteer work helps build critical competencies, knowledge, and skills and can provide valuable training and experience that translates directly to gain employment. You will receive credit for all qualifying experience, including volunteer experience. If such experience is on a part-time basis, you must provide the average number of hours worked per week as well as the beginning and ending dates of the experience so it can be fully credited.
+OPM Qualification General Policies Website
+
+## Education
+
+Foreign Education:  If you are using education completed in foreign colleges or universities to meet the qualification requirements, you must show that the education credentials have been evaluated by a private organization that specializes in interpretation of foreign education programs and such education has been deemed equivalent to that gained in an accredited U.S. education program; or full credit has been given for the courses at a U.S. accredited college or university. For further information, visit: http://www.ed.gov.
+Note: Applications can be accepted from students who expect to complete qualifying education within 9 months from the date of application. Education was completed successfully before the applicant can be appointed.
+
+## Full rendered official announcement
+
+USAJOBS - Job Announcement
+
+ Skip to main content
+
+ An official website of the United States government
+
+Official websites use .gov
+
+A .gov website belongs to an official government organization in the United States.
+
+Secure .gov websites use HTTPS
+ A lock ( LockA locked padlock ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.
+
+ MENU
+
+ Sign in
+
+ My jobs
+
+ Profile
+
+ Resumes & documents
+
+ Notifications
+
+ Talent networks
+
+ Sign out
+
+ My jobs
+
+ Profile
+
+ Resumes & documents
+
+ Notifications
+
+ Talent networks
+
+ Sign out
+
+ Events
+
+ Help Center
+
+ Search
+
+ Back to results
+
+ Apply
+
+ Supervisory Computer Scientist
+
+Department of Health and Human Services
+
+Centers for Disease Control and Prevention
+
+National Center for Health Statistics
+
+Apply
+
+ Print
+
+ Share
+
+ Save
+
+ Summary
+
+ This job is open to
+
+ Duties
+
+ Requirements
+
+ How you will be evaluated
+
+ Required documents
+
+ How to apply
+
+Summary
+
+This position is located in the Department of Health & Human Services (HHS), Centers for Disease Control and Prevention (CDC), National Center for Health Statistics (NCHS) located in Hyattsville, Maryland.
+
+This announcement will close at 11:59 PM, on the day that 50 applications have been received or on the closing date, whichever is first.
+
+ Learn more about this agency
+
+Summary
+
+This position is located in the Department of Health & Human Services (HHS), Centers for Disease Control and Prevention (CDC), National Center for Health Statistics (NCHS) located in Hyattsville, Maryland.
+
+This announcement will close at 11:59 PM, on the day that 50 applications have been received or on the closing date, whichever is first.
+
+ Learn more about this agency
+
+Overview
+
+ Help
+
+Accepting applications
+
+This job will close when we have received 50 applications which may be sooner than the closing date. Learn more
+
+Location
+
+FEW vacancies in the following location:
+
+ Hyattsville, MD
+
+ No matching locations found.
+
+Work site options
+
+Telework eligible
+
+Yes—as determined by the agency policy.
+
+Remote job
+
+No
+
+Relocation expenses reimbursed
+
+ No
+
+Salary
+
+ $169,279 - $197,200 per year
+
+Pay scale & grade
+
+GS 15
+
+Promotion potential
+
+None
+
+ Learn more about pay scale and grade
+
+ Pay scale and grade determines the salary of the job.
+
+Work schedule
+
+Full-time
+
+Travel Required
+
+25% or less - You may be expected to travel for this position.
+
+Appointment type
+
+Permanent
+
+Occupations and job series
+
+ 1550 Computer Science
+
+Supervisory status
+
+Yes
+
+Federal service type
+
+This job is in the Competitive Service
+
+Represented by a union
+
+No
+
+Drug test
+
+No
+
+Security clearance
+
+Other
+
+Position sensitivity and risk
+
+Moderate Risk (MR)
+
+ Jobs require a
+ background check and some require a
+ security clearance. The type depends on the job.
+
+Background check type
+
+ Suitability/Fitness
+
+Financial disclosure required
+
+Yes
+
+ Some jobs require
+ financial disclosure to identify conflicts of interests.
+
+Announcement number
+
+HHS-CDC-DE-27-13025882
+
+Control number
+
+891098700
+
+This job is open to
+
+ Help
+
+The public
+
+ U.S. Citizens, Nationals or those who owe allegiance to the U.S.
+
+Career transition (CTAP, ICTAP, RPL)
+
+ Federal employees whose job, agency or department was eliminated and are eligible for priority over other applicants.
+
+Clarification from the agency
+
+Open to all U.S. Citizens
+
+Duties
+
+ Help
+
+ As a Supervisory Computer Scientist, you will:
+
+Provide leadership and direction to the development, implementation, and maintenance of integrated Information Technology hardware and software systems.
+
+Direct activities in the development and implementation of information processing systems supporting large, complex health surveys.
+
+Serve as spokesperson for the division on all issues relating to data processing and publication.
+
+Requirements
+
+ Help
+
+Conditions of employment
+
+U.S. Citizenship required
+
+Males born after December 31, 1959 must be registered or exempt from Selective Service - http://www.sss.gov
+
+Suitable for federal employment
+
+Meet time in grade restrictions by the closing date of the announcement
+
+Appointment will be subject to the applicant's successful completion of a background security investigation and favorable adjudication. All information concerning qualifications is subject to investigation.
+
+Documentation that you present for purposes of completing the Department of Homeland Security (DHS) Form I-9 will be verified through the DHS "E-Verify" System.
+
+All Federal employees are required to have Federal salary payments made by direct deposit to a financial institution of their choice.
+
+All qualification requirements must be met by the closing date.
+
+Financial disclosure statement may be required.
+
+Probationary (or trial) period may be required.
+
+Qualifications
+
+ WHAT WE ARE LOOKING FOR
+
+Basic Qualifications:
+
+Bachelor's degree in computer science or bachelor's degree with 30 semester hours in a combination of mathematics, statistics, and computer science. At least 15 of the 30 semester hours must have included any combination of statistics and mathematics that included differential and integral calculus. All academic degrees and course work must be from accredited or pre-accredited institutions.
+
+In addition to meeting the basic requirement above, to qualify for this position you must also meet the qualification requirements listed below:
+
+Minimum Qualifications: You must have one year specialized experience to perform successfully the duties of the position. To be creditable, specialized experience must have been equivalent to at least the GS-14 grade level in the Federal service performing ALL of the following:
+
+Planning, coordinating, and overseeing information technology hardware and software systems that support the collection, processing, and management of large-scale national survey or health-related data.
+
+Leading the deployment, integration, and maintenance of IT infrastructure and software applications used to collect, validate, transmit, and process national survey and Electronic Health Record (EHR) data.
+
+Planning, directing, and overseeing complex information technology projects and multidisciplinary teams supporting national survey and EHR data collection initiatives.
+
+Documenting experience: IN DESCRIBING YOUR EXPERIENCE, PLEASE BE CLEAR AND SPECIFIC. WE WILL NOT MAKE ASSUMPTIONS REGARDING YOUR EXPERIENCE. Qualifications are based on breadth/level of experience. In addition to describing duties performed, applicants must provide the exact dates of each period of employment (from MM/YY to MM/YY) and the number of hours worked per week if part time. As qualification determinations cannot be made when resumes do not include the required information, failure to provide this information may result in disqualification. Applicants are encouraged to use the USAJOBS Resume Builder to develop their federal resume.
+
+Do not copy and paste the duties, specialized experience, or occupational application questionnaire from this announcement into your resume as that will not be considered a demonstration of your qualifications for this position.
+
+In accordance with Office of Personnel Management policy, federal employees are assumed to have gained experience by performing duties and responsibilities appropriate for their official series and grade level as described in their position description. Experience that would not normally be part of the employee's position is creditable, however, when documented by satisfactory evidence, such as a signed memorandum from the employee's supervisor or an SF-50 or SF-52 documenting an official detail or other official assignment. The documentation must indicate whether the duties were performed full time or, if part time, the "percentage of times" the other duties were performed. It is expected that this documentation is included in the employee's official personnel record. In order to receive credit for experience in your resume that is not within the official series and grade level of your official position, you must provide a copy of the appropriate documentation of such experience as indicated above.
+
+Experience refers to paid and unpaid experience, including volunteer work done through national Service programs (e.g., Peace Corps, AmeriCorps) and other organizations (e.g., professional; philanthropic; religious; community; student; social). Volunteer work helps build critical competencies, knowledge, and skills and can provide valuable training and experience that translates directly to gain employment. You will receive credit for all qualifying experience, including volunteer experience. If such experience is on a part-time basis, you must provide the average number of hours worked per week as well as the beginning and ending dates of the experience so it can be fully credited.
+
+OPM Qualification General Policies Website
+
+Education
+
+ Foreign Education: If you are using education completed in foreign colleges or universities to meet the qualification requirements, you must show that the education credentials have been evaluated by a private organization that specializes in interpretation of foreign education programs and such education has been deemed equivalent to that gained in an accredited U.S. education program; or full credit has been given for the courses at a U.S. accredited college or university. For further information, visit: http://www.ed.gov.
+
+Note: Applications can be accepted from students who expect to complete qualifying education within 9 months from the date of application. Education was completed successfully before the applicant can be appointed.
+
+Additional information
+
+THINGS YOU NEED TO KNOW
+
+This vacancy is also being announced concurrently with vacancy announcement HHS-CDC-MP-27-13025883 under merit promotion procedures. Please review this announcement to see if you are eligible for consideration under merit promotion procedures.
+
+Incentives may be authorized; however, this is contingent upon multiple factors, including funds availability. If authorized, certain incentives may require you to sign a service agreement to remain in the Federal government for a period of up to 3 years. Note: This statement does not imply nor guarantee an incentive will be offered and paid. Incentives may include the following: moving expenses, recruitment or relocation incentive; student loan repayment, superior qualifications appointment, creditable service for annual leave for prior non-federal work experience or prior uniformed military service, etc.
+
+Bargaining Unit Position: No
+
+Research position: No
+
+Drug Screening Required: No
+
+Applicants selected for this position will be subject to reasonable suspicion and post-accident drug testing upon hiring.
+
+Special Hiring Authorities for Veterans - https://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/veterans/
+
+Special Hiring Authorities for Military Spouses - https://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/military-spouses/
+
+People With Disabilities (Schedule A) - https://help.usajobs.gov/index.php/Individuals_with_Disabilities
+
+Career Transition Assistance Program/Interagency Career Transition Assistance Program (CTAP/ICTAP): For information on how to apply as an CTAP/ICTAP eligible see http://opm.gov/rif/employee_guides/career_transition.asp#ictap. To be well-qualified and exercise selection priority for this vacancy, displaced Federal employees must be rated at 85.0 or above on the rating criteria for this position.
+
+Reemployment Priority List (RPL): To receive selection priority for this position, individuals on the RPL must meet the qualification requirements, complete all required assessments and be rated as qualified. RPL candidates are ranked using Category Rating procedures.
+
+Beginning January 1, 2010, agencies must seek prior approval from OPM before they can appoint a current or recent political appointee to a competitive or non-political excepted service position at any level under the provisions of title 5, United States Code. If you are currently, or have been within the last 5 years, a political Schedule A, Schedule C, or Non-career SES employee in the executive branch, you MUST disclose that to the Human Resources Office.
+
+For Résumé Tips visit: https://www.youtube.com/watch?v=8YX7o1PBoFk
+
+For Application Tips visit: https://www.youtube.com/watch?v=bqYkibnuiJU
+
+For additional information about USAJOBS visit the Help Center: https://www.usajobs.gov/Help/
+
+ Expand Hide  additional information
+
+Candidates should be committed to improving the efficiency of the Federal government, passionate about the ideals of our American republic, and committed to upholding the rule of law and the United States Constitution.
+
+Benefits
+
+ Help
+
+ A career with the U.S. government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding. Opens in a new windowLearn more about federal benefits.
+
+ Review our benefits
+
+Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time or intermittent. Contact the hiring agency for more information on the specific benefits offered.
+
+How you will be evaluated
+
+You will be evaluated for this job based on how well you meet the qualifications above.
+
+You will be evaluated based on how well you meet the qualifications listed in this announcement. Evaluation will be based on your application materials (such as your resume and supporting documents), your responses to the application questionnaire, and the results of all required assessments.
+
+Resume Requirement
+
+Your resume must not exceed two (2) pages in length.
+
+Basic Qualification Question
+
+As part of the application process, you must answer a question addressing whether you meet the Basic Requirement for this position, as described in this announcement.
+
+Minimum Qualification Question
+
+As part of the application process, you must answer a minimum qualification question addressing whether you meet the Specialized Experience required for this position, as described in this announcement.
+
+Your response must be supported by the experience documented in your resume. If your resume does not demonstrate the required Specialized Experience, you may be found not qualified.
+
+Assessment Process
+
+SME Resume Review
+
+Subject Matter Experts (SMEs) will review your resume to determine whether you meet the required Specialized Experience.
+
+SME Structured Interview
+
+You may be invited to participate in a structured interview with one or more Subject Matter Experts (SMEs) to assess the required competencies for the position.
+
+Applicants who successfully pass all of the assessment(s) may be referred to the Hiring Manager for consideration.
+
+In accordance with Executive Order 12564 of September 14, 1986, The Department of Health and Human Services (HHS) is A Drug-Free Federal Workplace. The use of illegal drugs, on or off duty, by Federal employees is inconsistent not only with the law-abiding behavior expected of all citizens, but also with the special trust placed in such employees as servants of the public.
+
+Category rating procedures will be used to rate and rank candidates. The category assignment is a measure of the degree in which your background matches the competencies required for this position. Qualified candidates will be ranked into one of three categories:
+
+- Best Qualified - Applicants who have experience that is almost identical to those required by the position.
+
+- Well Qualified - Applicants who have experience that is very similar to those required by the position.
+
+- Qualified - Applicants who meet minimum qualification requirements, but do not identify any additional qualifying experience or skill.
+
+Candidates in the highest category will be referred to the hiring agency.
+
+The Category Rating Process does not add veterans' preference points but protects the rights of veterans by placing them ahead of non-preference eligibles within each category. Preference eligibles who meet the minimum qualification requirements and who have a compensable service-connected disability of at least 10 percent must be listed in the highest quality category (except in the case of scientific or professional positions at the GS-9 level or higher).
+
+You will be assessed on the following competencies (knowledge, skills, abilities, and other characteristics):
+
+Advising and Consulting (1)
+Data and Information Management
+Software Knowledge
+
+To preview the application questionnaire, click the following link: https://apply.usastaffing.gov/ViewQuestionnaire/13025882
+
+Benefits
+
+ Help
+
+ A career with the U.S. government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding. Opens in a new windowLearn more about federal benefits.
+
+ Review our benefits
+
+Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time or intermittent. Contact the hiring agency for more information on the specific benefits offered.
+
+Required documents
+
+Required Documents
+
+ Help
+
+Submission of a resume alone IS NOT a complete application. You must provide a complete online Application Package which includes:
+
+Resume must not exceed two (2) pages and must support responses to the online application. Failure to submit a resume and all required documentation identified in this announcement may result in removal from further consideration. Use of the USAJOBS Resume Builder is encouraged to ensure all required information is included. Resumes must include duties, accomplishments, related skills, and start and end dates (month/day/year) for each position. Full-time employment will be assumed unless otherwise indicated; part-time experience will be prorated. Incomplete information may affect eligibility or rating.
+
+A complete online application (https://apply.usastaffing.gov/ViewQuestionnaire/13025882)
+
+SF-50 (Notification of Personnel Action) - documentation supporting eligibility. If submitting a copy of your SF-50, or equivalent, submit one that shows the effective date of current position, the full performance level, career or career conditional tenure and status in the competitive service.
+
+Other Supporting Documents, as applicable:
+
+College transcripts, if qualifying all or in part based on education
+
+RPL Documentation: Candidates must submit all documents required to demonstrate that they meet the qualifications of the position
+
+If separated due to Reduction in Force (RIF):
+
+Most recent SF-50, or equivalent, that shows position occupied; tenure; grade and step; salary; and full performance level
+
+SF-50 showing Separation - RIF. If not available, submit official documentation of Reduction in Force (RIF) separation notice or a proposed removal/separation notice
+
+Latest performance rating showing rating score
+
+If separated due to Compensable Injury:
+
+Most recent SF-50, or equivalent, that shows position occupied; tenure; grade and step; salary; and full performance level
+
+SF-50, which shows separation, or SF-50 showing acceptance of position at a lower grade or pay level in lieu of separation
+
+Notification from the Office of Workers' Compensation Programs, Department of Labor, that injury compensation benefits have ceased or will cease
+
+Latest performance rating and rating of record (if separate documents) showing rating score
+
+CTAP/ICTAP
+
+RIF separation notice, notice of proposed removal for failure to relocate, notice of disability annuity termination, or certification from the National Guard Bureau or Military Department that you are eligible for disability retirement
+
+SF-50, showing positions, grade level, and duty location, and/or Agency certification of inability to be placed through RPL, etc
+
+Latest performance appraisal including rating
+
+Documentation from your agency showing current promotion potential
+
+Military Spouse Documentation Overseas Military Spouse: Copy of Military sponsor's PCS orders and a valid marriage certificate or other documentation verifying marriage. If applicable, a copy of most recent SF-50
+
+Certain Military Spouse: For all categories below, a valid marriage certificate or other documentation verifying marriage. Additional supporting documentation requirements differ for each category
+
+Spouse of a service member on active duty, you are required to submit a copy of the service member's current orders or a Statement of Service letter. The Statement of Service must be signed by the adjutant, personnel officer, or commander of the service member's unit or higher headquarters, AND the Statement of Service letter must include dates of active-duty service. For current federal employees, submit a copy of the most recent SF-50
+
+Spouse of a service member who incurred a 100% disability because of the service member's active duty service, you are required to submit a copy of your spouse's DD-214 and a copy of documentation from the Department of Veteran's Affairs or the Department of Defense indicating the service member has a disability rating of 100% due to a service connected disability
+
+Spouse of a service member who was killed while on active duty, submit a copy of the spouse's DD-1300 documenting the service member was killed while on active duty and a statement certifying that you have not remarried
+
+PHS Commissioned Corps Personnel: You must provide a copy of your current personnel orders and/or other supporting documentation to be referred as CC.
+
+Veterans Employment Opportunities Act (VEOA) documentation, if applicable. For more information, please go to https://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/veterans/
+
+Documentation supporting eligibility for non-competitive appointment, (severely disabled, eligible veterans, certain military spouses, etc.)
+
+Official documents are not required at this time; copies are sufficient; may be requested upon selection.
+
+ If you are relying on your education to meet qualification requirements:
+
+ Education must be accredited by an accrediting institution recognized by the U.S. Department of Education in order for it to be credited towards qualifications. Therefore, provide only the attendance and/or degrees from
+ schools accredited by accrediting institutions recognized by the U.S. Department of Education.
+
+ Failure to provide all of the required information as stated in this vacancy announcement may result in an ineligible rating or may affect the overall rating.
+
+How to Apply
+
+ Help
+
+To apply for this position, you must complete the occupational questionnaire and submit the documentation specified in the Required Documents section below.
+
+Resumes must not exceed two (2) pages in length. Application requirements are clearly stated in this Job Opportunity Announcement. Failure to submit a resume and any other required documentation identified in this announcement will result in removal from further consideration.
+
+*To begin, click Apply Online to create a USAJOBS account or log in to your existing account. Follow the prompts to select your USAJOBS resume and/or other supporting documents and complete the occupational questionnaire.
+
+*Click the Submit My Answers button to submit your application package.
+
+*It is your responsibility to ensure your responses and appropriate documentation is submitted prior to the closing date.
+
+To verify your application is complete, log into your USAJOBS account at https://my.usajobs.gov/Account/Login, select the Application Status link, and then select the more information link for this position. The Details page will display the status of your application, the documentation received and processed, and any correspondence the agency has sent related to this application. Your uploaded documents may take several hours to clear the virus scan process.
+
+To return to an incomplete application, log into your USAJOBS account at https://my.usajobs.gov/Account/Login and click Update Application in the vacancy announcement. You must re-select your resume and/or other documents from your USAJOBS account or your application will be incomplete.
+
+The complete Application Package must be submitted by 11:59 PM (EST) on 11/12/2026.
+
+Agency contact information
+
+ HHS HELPDESK
+
+Email
+
+ ASKOHR@hhs.gov
+
+Address
+
+ National Center for Health Statistics
+
+ 1600 Clifton Rd NE
+
+ Atlanta, GA 30333
+
+ US
+
+Next steps
+
+Additional selections may be made for similar positions across the Department of Health and Human Services (HHS) within the local commuting area(s) of the location identified in this announcement. Clearance of CTAP/ICTAP will be applied for similar positions across HHS.
+
+Once the online questionnaire is received you will receive an acknowledgement email that your submission was successful. The best qualified candidates will be referred to the hiring manager for further consideration and possible interview. We expect to make a selection within 45 days of the closing date of this announcement.
+
+You will receive notice via email or by mail, if no email address was provided by you during the application process, once this process is completed (generally 4-6 weeks).
+
+You will be required to submit official documentation prior to appointment. The agency will then verify the information provided on your application (i.e., degree, veterans' preference, disability, etc.).
+
+HHS has a Critical Preparedness and Response Mission: we protect the American people from health threats, research emerging diseases, and mobilize public health programs with domestic and international partners. HHS' 24/7 Secretary's Operations Center (SOC) unites highly trained experts, well established processes, and state-of-the-art technology to coordinate resources and information as HHS responds to emergencies worldwide.
+
+Every HHS employee has a role in supporting public health emergency management, whether through voluntary temporary assignments to emergency responses or sustaining other HHS programs and activities while colleagues respond.
+
+In addition to their everyday work, HHS offers employees the opportunity to contribute their unique skills through voluntary temporary assignments to humanitarian emergencies or Departmental priorities countering new and emerging health, safety, and security threats.
+
+Fair and transparent
+
+The Federal hiring process is set up to be fair and transparent. Please read the following guidance.
+
+ Criminal history inquiries
+
+ Equal Employment Opportunity (EEO) Policy
+
+ Financial suitability
+
+ New employee probationary period
+
+ Privacy Act
+
+ Reasonable accommodation policy
+
+ Selective Service
+
+ Signature and false statements
+
+ Social security number request
+
+Required Documents
+
+ Help
+
+Submission of a resume alone IS NOT a complete application. You must provide a complete online Application Package which includes:
+
+Resume must not exceed two (2) pages and must support responses to the online application. Failure to submit a resume and all required documentation identified in this announcement may result in removal from further consideration. Use of the USAJOBS Resume Builder is encouraged to ensure all required information is included. Resumes must include duties, accomplishments, related skills, and start and end dates (month/day/year) for each position. Full-time employment will be assumed unless otherwise indicated; part-time experience will be prorated. Incomplete information may affect eligibility or rating.
+
+A complete online application (https://apply.usastaffing.gov/ViewQuestionnaire/13025882)
+
+SF-50 (Notification of Personnel Action) - documentation supporting eligibility. If submitting a copy of your SF-50, or equivalent, submit one that shows the effective date of current position, the full performance level, career or career conditional tenure and status in the competitive service.
+
+Other Supporting Documents, as applicable:
+
+College transcripts, if qualifying all or in part based on education
+
+RPL Documentation: Candidates must submit all documents required to demonstrate that they meet the qualifications of the position
+
+If separated due to Reduction in Force (RIF):
+
+Most recent SF-50, or equivalent, that shows position occupied; tenure; grade and step; salary; and full performance level
+
+SF-50 showing Separation - RIF. If not available, submit official documentation of Reduction in Force (RIF) separation notice or a proposed removal/separation notice
+
+Latest performance rating showing rating score
+
+If separated due to Compensable Injury:
+
+Most recent SF-50, or equivalent, that shows position occupied; tenure; grade and step; salary; and full performance level
+
+SF-50, which shows separation, or SF-50 showing acceptance of position at a lower grade or pay level in lieu of separation
+
+Notification from the Office of Workers' Compensation Programs, Department of Labor, that injury compensation benefits have ceased or will cease
+
+Latest performance rating and rating of record (if separate documents) showing rating score
+
+CTAP/ICTAP
+
+RIF separation notice, notice of proposed removal for failure to relocate, notice of disability annuity termination, or certification from the National Guard Bureau or Military Department that you are eligible for disability retirement
+
+SF-50, showing positions, grade level, and duty location, and/or Agency certification of inability to be placed through RPL, etc
+
+Latest performance appraisal including rating
+
+Documentation from your agency showing current promotion potential
+
+Military Spouse Documentation Overseas Military Spouse: Copy of Military sponsor's PCS orders and a valid marriage certificate or other documentation verifying marriage. If applicable, a copy of most recent SF-50
+
+Certain Military Spouse: For all categories below, a valid marriage certificate or other documentation verifying marriage. Additional supporting documentation requirements differ for each category
+
+Spouse of a service member on active duty, you are required to submit a copy of the service member's current orders or a Statement of Service letter. The Statement of Service must be signed by the adjutant, personnel officer, or commander of the service member's unit or higher headquarters, AND the Statement of Service letter must include dates of active-duty service. For current federal employees, submit a copy of the most recent SF-50
+
+Spouse of a service member who incurred a 100% disability because of the service member's active duty service, you are required to submit a copy of your spouse's DD-214 and a copy of documentation from the Department of Veteran's Affairs or the Department of Defense indicating the service member has a disability rating of 100% due to a service connected disability
+
+Spouse of a service member who was killed while on active duty, submit a copy of the spouse's DD-1300 documenting the service member was killed while on active duty and a statement certifying that you have not remarried
+
+PHS Commissioned Corps Personnel: You must provide a copy of your current personnel orders and/or other supporting documentation to be referred as CC.
+
+Veterans Employment Opportunities Act (VEOA) documentation, if applicable. For more information, please go to https://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/veterans/
+
+Documentation supporting eligibility for non-competitive appointment, (severely disabled, eligible veterans, certain military spouses, etc.)
+
+Official documents are not required at this time; copies are sufficient; may be requested upon selection.
+
+ If you are relying on your education to meet qualification requirements:
+
+ Education must be accredited by an accrediting institution recognized by the U.S. Department of Education in order for it to be credited towards qualifications. Therefore, provide only the attendance and/or degrees from
+ schools accredited by accrediting institutions recognized by the U.S. Department of Education.
+
+ Failure to provide all of the required information as stated in this vacancy announcement may result in an ineligible rating or may affect the overall rating.
+
+How to Apply
+
+ Help
+
+To apply for this position, you must complete the occupational questionnaire and submit the documentation specified in the Required Documents section below.
+
+Resumes must not exceed two (2) pages in length. Application requirements are clearly stated in this Job Opportunity Announcement. Failure to submit a resume and any other required documentation identified in this announcement will result in removal from further consideration.
+
+*To begin, click Apply Online to create a USAJOBS account or log in to your existing account. Follow the prompts to select your USAJOBS resume and/or other supporting documents and complete the occupational questionnaire.
+
+*Click the Submit My Answers button to submit your application package.
+
+*It is your responsibility to ensure your responses and appropriate documentation is submitted prior to the closing date.
+
+To verify your application is complete, log into your USAJOBS account at https://my.usajobs.gov/Account/Login, select the Application Status link, and then select the more information link for this position. The Details page will display the status of your application, the documentation received and processed, and any correspondence the agency has sent related to this application. Your uploaded documents may take several hours to clear the virus scan process.
+
+To return to an incomplete application, log into your USAJOBS account at https://my.usajobs.gov/Account/Login and click Update Application in the vacancy announcement. You must re-select your resume and/or other documents from your USAJOBS account or your application will be incomplete.
+
+The complete Application Package must be submitted by 11:59 PM (EST) on 11/12/2026.
+
+ Expand Hide  how to apply
+
+Agency contact information
+
+ HHS HELPDESK
+
+Email
+
+ ASKOHR@hhs.gov
+
+Address
+
+ National Center for Health Statistics
+
+ 1600 Clifton Rd NE
+
+ Atlanta, GA 30333
+
+ US
+
+Next steps
+
+Additional selections may be made for similar positions across the Department of Health and Human Services (HHS) within the local commuting area(s) of the location identified in this announcement. Clearance of CTAP/ICTAP will be applied for similar positions across HHS.
+
+Once the online questionnaire is received you will receive an acknowledgement email that your submission was successful. The best qualified candidates will be referred to the hiring manager for further consideration and possible interview. We expect to make a selection within 45 days of the closing date of this announcement.
+
+You will receive notice via email or by mail, if no email address was provided by you during the application process, once this process is completed (generally 4-6 weeks).
+
+You will be required to submit official documentation prior to appointment. The agency will then verify the information provided on your application (i.e., degree, veterans' preference, disability, etc.).
+
+HHS has a Critical Preparedness and Response Mission: we protect the American people from health threats, research emerging diseases, and mobilize public health programs with domestic and international partners. HHS' 24/7 Secretary's Operations Center (SOC) unites highly trained experts, well established processes, and state-of-the-art technology to coordinate resources and information as HHS responds to emergencies worldwide.
+
+Every HHS employee has a role in supporting public health emergency management, whether through voluntary temporary assignments to emergency responses or sustaining other HHS programs and activities while colleagues respond.
+
+In addition to their everyday work, HHS offers employees the opportunity to contribute their unique skills through voluntary temporary assignments to humanitarian emergencies or Departmental priorities countering new and emerging health, safety, and security threats.
+
+ Expand Hide  next steps
+
+Fair and transparent
+
+The Federal hiring process is set up to be fair and transparent. Please read the following guidance.
+
+ Criminal history inquiries
+
+ Equal Employment Opportunity (EEO) Policy
+
+ Financial suitability
+
+ New employee probationary period
+
+ Privacy Act
+
+ Reasonable accommodation policy
+
+ Selective Service
+
+ Signature and false statements
+
+ Social security number request
+
+ Centers for Disease Control and Prevention
+
+ The Centers for Disease Control and Prevention (CDC), a major operating component of the Department of Health and Human Services, is the nation's leading science-based, data-driven, service organization that protects the public's health. For more than 75 years, we have put science into action to help children stay healthy so they can grow and learn; to help families, businesses, and communities fight disease and stay strong; and to protect the public's health.
+
+In addition, CDC also has a critical preparedness and response mission: we protect the American people from health threats, research emerging diseases, and mobilize public health programs with domestic and international partners. CDC's 24/7 Emergency Operations Center (EOC) unites highly trained experts, well established processes, and state-of-the-art technology to coordinate resources and information as CDC responds to emergencies worldwide.
+
+Every CDC employee has a role in supporting public health emergency management, whether through temporary assignments to emergency responses or sustaining other CDC programs and activities while colleagues respond. CDC offers exciting and dynamic opportunities in Public Health with global impact. Examine how you can use your talent, training, and passion to help CDC continue as the world's premier public health organization. Please visit www.cdc.gov for more information.
+
+Agency contact information
+
+ HHS HELPDESK
+
+Email
+
+ ASKOHR@hhs.gov
+
+Address
+
+ National Center for Health Statistics
+
+ 1600 Clifton Rd NE
+
+ Atlanta, GA 30333
+
+ US
+
+Summary
+
+This position is located in the Department of Health & Human Services (HHS), Centers for Disease Control and Prevention (CDC), National Center for Health Statistics (NCHS) located in Hyattsville, Maryland.
+
+This announcement will close at 11:59 PM, on the day that 50 applications have been received or on the closing date, whichever is first.
+
+ Learn more about this agency
+
+Overview
+
+ Help
+
+Accepting applications
+
+This job will close when we have received 50 applications which may be sooner than the closing date. Learn more
+
+Location
+
+FEW vacancies in the following location:
+
+ Hyattsville, MD
+
+ No matching locations found.
+
+Work site options
+
+Telework eligible
+
+Yes—as determined by the agency policy.
+
+Remote job
+
+No
+
+Relocation expenses reimbursed
+
+ No
+
+Salary
+
+ $169,279 - $197,200 per year
+
+Pay scale & grade
+
+GS 15
+
+Promotion potential
+
+None
+
+ Learn more about pay scale and grade
+
+ Pay scale and grade determines the salary of the job.
+
+Work schedule
+
+Full-time
+
+Travel Required
+
+25% or less - You may be expected to travel for this position.
+
+Appointment type
+
+Permanent
+
+Occupations and job series
+
+ 1550 Computer Science
+
+Supervisory status
+
+Yes
+
+Federal service type
+
+This job is in the Competitive Service
+
+Represented by a union
+
+No
+
+Drug test
+
+No
+
+Security clearance
+
+Other
+
+Position sensitivity and risk
+
+Moderate Risk (MR)
+
+ Jobs require a
+ background check and some require a
+ security clearance. The type depends on the job.
+
+Background check type
+
+ Suitability/Fitness
+
+Financial disclosure required
+
+Yes
+
+ Some jobs require
+ financial disclosure to identify conflicts of interests.
+
+Announcement number
+
+HHS-CDC-DE-27-13025882
+
+Control number
+
+891098700
+
+ Previous result
+
+Next result
+
+Your session is about to expire!
+
+ Your USAJOBS session will expire due to inactivity in 8 minutes.
+ Any unsaved data will be lost if you allow the session to expire.
+ Click the button below to continue your session.
+
+ Sign out
+ Stay signed in
+
+ Return to top
+
+USAJOBS is a Opens in a new windowUnited States Office of Personnel Management website.
+
+ (Opens in a new window) OPM on LinkedIn
+
+ (Opens in a new window) OPM YouTube channel
+
+ (Opens in a new window) OPM on X
+
+Opens in a new windowEEO Policy Statement
+
+Opens in a new windowReasonable Accommodation Policy Statement
+
+Veterans Information
+
+Opens in a new windowLegal and Regulatory Guidance
+
+About USAJOBS
+
+Opens in a new windowAccessibility
+
+Opens in a new windowFOIA
+
+Opens in a new windowInspector general
+
+Opens in a new windowNo Fear Act Data
+
+Opens in a new windowPrivacy policy
+
+Opens in a new windowReports and publications
+
+Opens in a new windowTerms and conditions
+
+Opens in a new windowUSA.gov

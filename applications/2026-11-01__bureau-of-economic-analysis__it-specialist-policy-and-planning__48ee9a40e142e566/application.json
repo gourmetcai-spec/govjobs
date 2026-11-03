@@ -3,29 +3,94 @@
   "title": "IT Specialist (Policy and Planning)",
   "requisition_id": "27-BEA-OCIO-13094248-DE-SB",
   "location": "Suitland, MD",
-  "salary": "$85,447–$133,142 per year; ZP-3",
+  "salary": "Starting at $85,447 Per year (ZP 3)",
   "hiring_path": "Open to the public",
-  "fit": "IT delivery, enterprise forecasting and financial analytics adjacency.",
-  "gaps": "Official opening date unverified. Mandatory federal budgeting/CPIC, Technology Business Management, Integrated Project Teams and SharePoint administration not established. Do not substitute financial forecasting for federal IT budget execution. Merit-promotion companion 889753100 is separately screened as restricted; public route retained.",
+  "fit": "Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.",
+  "gaps": "Verify Federal capital planning/CPIC experience against the exact qualification clause; not established by the baseline alone. Verify SharePoint application/administration experience against the exact qualification clause; not established by the baseline alone. Verify Technology Business Management experience against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them. Possible companion hiring-route announcement(s): 22ab925bc92f98d2. Reconcile before submission; do not submit twice to the same vacancy.",
   "canonical_url": "https://www.usajobs.gov/job/889752600",
   "application_url": "https://www.usajobs.gov/job/889752600",
-  "posted_date": null,
-  "posted_date_evidence": "No verified official opening date in retrieved text; not treated as eligible.",
-  "retrieved_at": "2026-11-02T01:18:48.041747+00:00",
-  "remote_restrictions": "Not remote; listed DMV duty station. Telework subject to agency policy.",
+  "posted_date": "2026-10-21",
+  "posted_date_evidence": "Official announcement JobPosting.datePosted; corroborated by native search PositionStartDate where listed.",
+  "retrieved_at": "2026-11-02T23:14:54.501767+00:00",
+  "remote_restrictions": "Offered DMV work location; verify telework/attendance and screening conditions in announcement.",
   "control_number": "889752600",
   "status": "needs_verification",
   "aliases": [],
   "discovery_window": [
-    "2026-09-01",
-    "2026-11-01"
+    "2026-09-02",
+    "2026-11-02"
   ],
-  "open_evidence": "Official announcement reports Accepting applications; saved in tracking/runs/2026-11-01-federal-step1-redo/leads-web.txt",
+  "open_evidence": "Official announcement downloaded successfully; validThrough and native open-status evidence retained.",
   "id": "48ee9a40e142e566",
   "step": 1,
   "selected": false,
   "submitted": false,
-  "artifacts": {},
-  "resume_status": "not_generated_verification_required",
-  "resume_review": "Not generated; mandatory gaps/date or hiring-path blocker."
+  "artifacts": {
+    "resume_markdown": {
+      "path": "applications/2026-11-01__bureau-of-economic-analysis__it-specialist-policy-and-planning__48ee9a40e142e566/resume-xuewu-cai__bureau-of-economic-analysis__it-specialist-policy-and-planning__889752600.md",
+      "sha256": "8a374208f5ddb27bd509dc343e145bbacb646e5946decdcaac98de19ea9893e3"
+    },
+    "resume_pdf": {
+      "path": "applications/2026-11-01__bureau-of-economic-analysis__it-specialist-policy-and-planning__48ee9a40e142e566/resume-xuewu-cai__bureau-of-economic-analysis__it-specialist-policy-and-planning__889752600.pdf",
+      "sha256": "988765bbd71c8f0cc3bd10a6f3c10afa5767c8a6a3f92b74a930f202f37d8801"
+    }
+  },
+  "resume_status": "prepared_with_attention",
+  "resume_review": "Text and hashes verified; all 20 baseline experience bullets preserved with updated title. Two pages rendered in PDFKit; all 113 distinct page images visually reviewed across 10 boards (238 rendered pages total). No clipping, overlap or blank pages. Neutral metadata and no AI-editing/targeting labels. Candidate facts/qualifications marked as attention items; no submission.",
+  "created_at": "2026-11-02T01:18:48.642297+00:00",
+  "updated_at": "2026-11-02T01:18:48.677588+00:00",
+  "application_directory": "applications/2026-11-01__bureau-of-economic-analysis__it-specialist-policy-and-planning__48ee9a40e142e566",
+  "close_date": "2026-11-05",
+  "deadline_timezone": "America/New_York",
+  "deadline_time": "23:59",
+  "deadline_source": "https://www.usajobs.gov/job/889752600",
+  "deadline_verified": true,
+  "early_closure_conditions": [],
+  "rolling_cutoff": null,
+  "requirements_confirmed_unmet": [],
+  "requirements_unverified": [
+    "Verify Federal capital planning/CPIC experience against the exact qualification clause; not established by the baseline alone.",
+    "Verify SharePoint application/administration experience against the exact qualification clause; not established by the baseline alone.",
+    "Verify Technology Business Management experience against the exact qualification clause; not established by the baseline alone.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.",
+    "Possible companion hiring-route announcement(s): 22ab925bc92f98d2. Reconcile before submission; do not submit twice to the same vacancy."
+  ],
+  "preferred_requirements_note": "See official qualifications/education sections; missing evidence does not establish an unmet requirement.",
+  "hiring_paths": [
+    "Open to the public",
+    "Career transition (CTAP, ICTAP, RPL)"
+  ],
+  "artifact_versions": [
+    {
+      "revision_id": "2026-11-02T23:14:54.501767+00:00",
+      "artifacts": {
+        "resume_markdown": {
+          "path": "applications/2026-11-01__bureau-of-economic-analysis__it-specialist-policy-and-planning__48ee9a40e142e566/resume-xuewu-cai__bureau-of-economic-analysis__it-specialist-policy-and-planning__889752600.md",
+          "sha256": "8a374208f5ddb27bd509dc343e145bbacb646e5946decdcaac98de19ea9893e3"
+        },
+        "resume_pdf": {
+          "path": "applications/2026-11-01__bureau-of-economic-analysis__it-specialist-policy-and-planning__48ee9a40e142e566/resume-xuewu-cai__bureau-of-economic-analysis__it-specialist-policy-and-planning__889752600.pdf",
+          "sha256": "988765bbd71c8f0cc3bd10a6f3c10afa5767c8a6a3f92b74a930f202f37d8801"
+        }
+      },
+      "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a"
+    }
+  ],
+  "required_answers_pending": [
+    "Verify Federal capital planning/CPIC experience against the exact qualification clause; not established by the baseline alone.",
+    "Verify SharePoint application/administration experience against the exact qualification clause; not established by the baseline alone.",
+    "Verify Technology Business Management experience against the exact qualification clause; not established by the baseline alone.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.",
+    "Possible companion hiring-route announcement(s): 22ab925bc92f98d2. Reconcile before submission; do not submit twice to the same vacancy."
+  ],
+  "confirmed_unmet_requirements": [],
+  "qualifications_verified": false,
+  "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a",
+  "resume_format": "restored_two_page",
+  "current_resume_naming": "unversioned",
+  "possible_companion_job_ids": [
+    "22ab925bc92f98d2"
+  ],
+  "clearance_requirement": "Other",
+  "public_hiring_route_evidence": true
 }

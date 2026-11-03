@@ -1,0 +1,84 @@
+{
+  "title": "Deputy Chief Financial Officer and Chief Budget Officer",
+  "requisition_id": "FHWA.SES-2026-0008",
+  "canonical_url": "https://www.usajobs.gov/job/886417700",
+  "application_url": "https://www.usajobs.gov/job/886417700",
+  "posted_date": "2026-10-07",
+  "posted_date_evidence": "Official announcement JobPosting.datePosted; corroborated by native search PositionStartDate where listed.",
+  "close_date": "2026-11-06",
+  "deadline_timezone": "America/New_York",
+  "deadline_time": "23:59",
+  "deadline_source": "https://www.usajobs.gov/job/886417700",
+  "deadline_verified": true,
+  "early_closure_conditions": [],
+  "rolling_cutoff": null,
+  "location": "Washington, DC",
+  "remote_restrictions": "Offered DMV work location; verify telework/attendance and screening conditions in announcement.",
+  "salary": "Starting at $151,661 Per year (ES 00)",
+  "retrieved_at": "2026-11-02T23:14:54.501767+00:00",
+  "control_number": "886417700",
+  "fit": "Financial forecasting, capital/ROE, quantitative risk and engineering leadership overlap; federal budget/accounting/policy specialties remain attention items.",
+  "gaps": "Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.",
+  "requirements_confirmed_unmet": [],
+  "requirements_unverified": [
+    "Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "preferred_requirements_note": "See official qualifications/education sections; missing evidence does not establish an unmet requirement.",
+  "hiring_paths": [
+    "Open to the public",
+    "Senior executives"
+  ],
+  "open_evidence": "Official announcement downloaded successfully; validThrough and native open-status evidence retained.",
+  "discovery_window": [
+    "2026-09-02",
+    "2026-11-02"
+  ],
+  "employer": "Federal Highway Administration",
+  "status": "needs_verification",
+  "aliases": [],
+  "id": "afc3c3429cb67332",
+  "application_directory": "applications/2026-11-02__federal-highway-administration__deputy-chief-financial-officer-and-chief-budget-officer__afc3c3429cb67332",
+  "step": 1,
+  "selected": false,
+  "submitted": false,
+  "artifacts": {
+    "resume_markdown": {
+      "path": "applications/2026-11-02__federal-highway-administration__deputy-chief-financial-officer-and-chief-budget-officer__afc3c3429cb67332/resume-xuewu-cai__federal-highway-administration__deputy-chief-financial-officer-and-chief-budget-officer__886417700.md",
+      "sha256": "f374670c106020b193fb24da3b582c21e56e81eda9f608cd08d1c13745383704"
+    },
+    "resume_pdf": {
+      "path": "applications/2026-11-02__federal-highway-administration__deputy-chief-financial-officer-and-chief-budget-officer__afc3c3429cb67332/resume-xuewu-cai__federal-highway-administration__deputy-chief-financial-officer-and-chief-budget-officer__886417700.pdf",
+      "sha256": "aa9a138589eefa7fcb3311fe62a4456224b215a038e817f8f1eb079756ce200f"
+    }
+  },
+  "artifact_versions": [
+    {
+      "revision_id": "2026-11-02T23:14:54.501767+00:00",
+      "artifacts": {
+        "resume_markdown": {
+          "path": "applications/2026-11-02__federal-highway-administration__deputy-chief-financial-officer-and-chief-budget-officer__afc3c3429cb67332/resume-xuewu-cai__federal-highway-administration__deputy-chief-financial-officer-and-chief-budget-officer__886417700.md",
+          "sha256": "f374670c106020b193fb24da3b582c21e56e81eda9f608cd08d1c13745383704"
+        },
+        "resume_pdf": {
+          "path": "applications/2026-11-02__federal-highway-administration__deputy-chief-financial-officer-and-chief-budget-officer__afc3c3429cb67332/resume-xuewu-cai__federal-highway-administration__deputy-chief-financial-officer-and-chief-budget-officer__886417700.pdf",
+          "sha256": "aa9a138589eefa7fcb3311fe62a4456224b215a038e817f8f1eb079756ce200f"
+        }
+      },
+      "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a"
+    }
+  ],
+  "resume_status": "prepared_with_attention",
+  "resume_review": "Text and hashes verified; all 20 baseline experience bullets preserved with updated title. Two pages rendered in PDFKit; all 113 distinct page images visually reviewed across 10 boards (238 rendered pages total). No clipping, overlap or blank pages. Neutral metadata and no AI-editing/targeting labels. Candidate facts/qualifications marked as attention items; no submission.",
+  "required_answers_pending": [
+    "Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "confirmed_unmet_requirements": [],
+  "qualifications_verified": false,
+  "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a",
+  "resume_format": "restored_two_page",
+  "current_resume_naming": "unversioned",
+  "clearance_requirement": "Confidential",
+  "public_hiring_route_evidence": true
+}

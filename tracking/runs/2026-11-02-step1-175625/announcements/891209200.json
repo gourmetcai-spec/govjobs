@@ -1,0 +1,32 @@
+{
+  "@context": "http://www.schema.org",
+  "@type": "JobPosting",
+  "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": {
+      "@type": "QuantitativeValue",
+      "value": 121785.0,
+      "unitText": "YEAR"
+    }
+  },
+  "datePosted": "11/02/2026",
+  "description": "The National Counterterrorism Center (NCTC) leads the nation's effort to protect the United States from terrorism by integrating, analyzing and sharing information to drive whole-of-government action and achieve our national CT objectives.",
+  "educationRequirements": "Bachelor's degree. Do NOT submit transcripts.",
+  "employmentType": "OTHER",
+  "hiringOrganization": "EXECUTIVE DIRECTOR",
+  "jobLocation": [
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "McLean",
+        "addressRegion": "VA "
+      }
+    }
+  ],
+  "responsibilities": "Prepare, analyze, and forecast budgetary and financial information to evaluate continual change in program plans and funding and their effect on financial and budget program milestones.<br>\n<br>\nAnalyze financial and budgetary relationships to develop recommendations for financial and/or budgetary actions under uncertain conditions or due to short and rapidly changing deadlines, guidance, or objectives.<br>\n<br>\nConduct budgetary and financial data analyses and the assessment of financial conditions by applying financial principles, policies, standards, methods, techniques, controls, and systems to solve a variety of financial management problems.<br>\n<br>\nCollect, research, and analyze comprehensive and substantive financial information that includes any area of budgeting, accounting, auditing, financial planning, and financial reporting.<br>\n<br>\nLead and review Unliquidated Obligations / Undelivered Orders.<br>\n<br>\nDevelop specific objectives and devise new methods, techniques, and criteria pertaining to such matters as identifying trends and patterns, acquiring information and analyzing data, developing solutions and presenting findings, and examining requirements for which there are no precedents.<br>\n<br>\nApply broad financial management policies and guidelines and establish performance metrics against priorities, policies, and objectives for frequently changing program objectives, plans, and funding requirements.<br>\n<br>\nApply IC-wide and ODNI regulations and standardize financial management processes and procedures to improve the quality of financial reporting.<br>\n<br>\nEngage in financial management programs, practices, processes, and activities by applying principles that incorporate the vision, mission, and strategic objectives which may include audit plans and examinations, accounting operations or evaluations, or risk assessments of operations.<br>\n<br>\nOther budget/financial duties, as assigned.",
+  "qualifications": "Working knowledge of budget formulation, programming, and budget execution processes for IC programs, a defense agency, or a military service.<br>\n<br>\nThorough organizational and interpersonal skills, specifically, the ability to plan strategically and manage competing priorities, the ability to negotiate, build consensus, and work effectively in a collaborative environment, and the ability to establish and maintain professional networks across all levels of management both internal and external to the ODNI. <br>\n<br>\nThorough knowledge of departmental or agency financial management policy, regulations, and financial systems and ability to apply sound and independent judgment in order to resolve financial problems.<br>\n<br>\nAbility to provide advice to customers (sometimes external to the organization), in context of operational requirements and based on financial analysis; recommends possible courses of action. <br>\n<br>\nAbility to conduct accounting and financial reporting of information through a thorough knowledge of financial principles, policies, methods, techniques, and systems. <br>\n<br>\nThorough knowledge of departmental or agency financial management policy, regulations, and financial systems and ability to apply sound and independent judgment in order to resolve financial problems. <br>\n<br>\nRepresentational, oral, and written communication skills, including the ability to produce clear, logical, and concise products. <br>\n<br>\nOrganizational and interpersonal skills, ability to negotiate, build consensus, and work effectively and independently in a team or collaborative environment. <br>\n<br>\nAbility to develop consensus recommendations and to solicit input from colleagues and peers; ability to remain open-minded and change opinions on the basis of new information and requirements.",
+  "title": "Financial Manager",
+  "validThrough": "2026-11-17"
+}

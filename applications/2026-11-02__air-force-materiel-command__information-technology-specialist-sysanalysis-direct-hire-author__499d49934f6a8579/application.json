@@ -1,0 +1,85 @@
+{
+  "title": "Information Technology Specialist (SysAnalysis) Direct Hire Authority",
+  "requisition_id": "AFMC-221003-13056870-JCN",
+  "canonical_url": "https://www.usajobs.gov/job/883599800",
+  "application_url": "https://www.usajobs.gov/job/883599800",
+  "posted_date": "2026-09-04",
+  "posted_date_evidence": "Official announcement JobPosting.datePosted; corroborated by native search PositionStartDate where listed.",
+  "close_date": "2027-01-06",
+  "deadline_timezone": "America/New_York",
+  "deadline_time": "23:59",
+  "deadline_source": "https://www.usajobs.gov/job/883599800",
+  "deadline_verified": true,
+  "early_closure_conditions": [
+    "may close at any time - apply now!"
+  ],
+  "rolling_cutoff": null,
+  "location": "Reston, VA",
+  "remote_restrictions": "Offered DMV work location; verify telework/attendance and screening conditions in announcement.",
+  "salary": "Starting at $76,463 Per year (NH 3)",
+  "retrieved_at": "2026-11-02T23:14:54.501767+00:00",
+  "control_number": "883599800",
+  "fit": "Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.",
+  "gaps": "Verify stated security certification requirements against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.",
+  "requirements_confirmed_unmet": [],
+  "requirements_unverified": [
+    "Verify stated security certification requirements against the exact qualification clause; not established by the baseline alone.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "preferred_requirements_note": "See official qualifications/education sections; missing evidence does not establish an unmet requirement.",
+  "hiring_paths": [
+    "Open to the public"
+  ],
+  "open_evidence": "Official announcement downloaded successfully; validThrough and native open-status evidence retained.",
+  "discovery_window": [
+    "2026-09-02",
+    "2026-11-02"
+  ],
+  "employer": "Air Force Materiel Command",
+  "status": "needs_verification",
+  "aliases": [],
+  "id": "499d49934f6a8579",
+  "application_directory": "applications/2026-11-02__air-force-materiel-command__information-technology-specialist-sysanalysis-direct-hire-author__499d49934f6a8579",
+  "step": 1,
+  "selected": false,
+  "submitted": false,
+  "artifacts": {
+    "resume_markdown": {
+      "path": "applications/2026-11-02__air-force-materiel-command__information-technology-specialist-sysanalysis-direct-hire-author__499d49934f6a8579/resume-xuewu-cai__air-force-materiel-command__information-technology-specialist-sysanalysis-direct-hire-author__883599800.md",
+      "sha256": "c4e9f03c0d76a16c2e5327ee63cf72c8d658a1851bec0dd9564cd93d4965229b"
+    },
+    "resume_pdf": {
+      "path": "applications/2026-11-02__air-force-materiel-command__information-technology-specialist-sysanalysis-direct-hire-author__499d49934f6a8579/resume-xuewu-cai__air-force-materiel-command__information-technology-specialist-sysanalysis-direct-hire-author__883599800.pdf",
+      "sha256": "155f781492359b1244d28ba22d95c10dbda49a7ddb358737d5ea3b88f18b645d"
+    }
+  },
+  "artifact_versions": [
+    {
+      "revision_id": "2026-11-02T23:14:54.501767+00:00",
+      "artifacts": {
+        "resume_markdown": {
+          "path": "applications/2026-11-02__air-force-materiel-command__information-technology-specialist-sysanalysis-direct-hire-author__499d49934f6a8579/resume-xuewu-cai__air-force-materiel-command__information-technology-specialist-sysanalysis-direct-hire-author__883599800.md",
+          "sha256": "c4e9f03c0d76a16c2e5327ee63cf72c8d658a1851bec0dd9564cd93d4965229b"
+        },
+        "resume_pdf": {
+          "path": "applications/2026-11-02__air-force-materiel-command__information-technology-specialist-sysanalysis-direct-hire-author__499d49934f6a8579/resume-xuewu-cai__air-force-materiel-command__information-technology-specialist-sysanalysis-direct-hire-author__883599800.pdf",
+          "sha256": "155f781492359b1244d28ba22d95c10dbda49a7ddb358737d5ea3b88f18b645d"
+        }
+      },
+      "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a"
+    }
+  ],
+  "resume_status": "prepared_with_attention",
+  "resume_review": "Text and hashes verified; all 20 baseline experience bullets preserved with updated title. Two pages rendered in PDFKit; all 113 distinct page images visually reviewed across 10 boards (238 rendered pages total). No clipping, overlap or blank pages. Neutral metadata and no AI-editing/targeting labels. Candidate facts/qualifications marked as attention items; no submission.",
+  "required_answers_pending": [
+    "Verify stated security certification requirements against the exact qualification clause; not established by the baseline alone.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "confirmed_unmet_requirements": [],
+  "qualifications_verified": false,
+  "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a",
+  "resume_format": "restored_two_page",
+  "current_resume_naming": "unversioned",
+  "clearance_requirement": "Other",
+  "public_hiring_route_evidence": true
+}

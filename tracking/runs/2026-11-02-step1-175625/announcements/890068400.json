@@ -1,0 +1,32 @@
+{
+  "@context": "http://www.schema.org",
+  "@type": "JobPosting",
+  "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": {
+      "@type": "QuantitativeValue",
+      "value": 85447.0,
+      "unitText": "YEAR"
+    }
+  },
+  "datePosted": "10/23/2026",
+  "description": "This vacancy is for a/an IT Specialist (Applications Software) position in the located at the Bureau of Economic Analysis.<br>\n<br>\nThis Job Opportunity Announcement may be used to fill other IT Specialist (Applications Software), ZP-2210-3 positions within the Bureau of Economic Analysis in the same geographical location with the same qualifications and specialized experience.",
+  "educationRequirements": "",
+  "employmentType": "OTHER",
+  "hiringOrganization": "Bureau of Economic Analysis",
+  "jobLocation": [
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Suitland",
+        "addressRegion": "MD "
+      }
+    }
+  ],
+  "responsibilities": "",
+  "qualifications": "<p><strong>EXPERIENCE</strong></p>\n\n<p>Experience must be IT-related; the experience may be demonstrated by paid or unpaid experience and/or completion of specific, intensive training (for example, IT certification), as appropriate.</p>\n\n<p>For all positions individuals must have IT-related experience demonstrating each of the four competencies listed below.</p>\n\n<ol>\n\t<li><strong>Attention to Detail</strong> - Is thorough when performing work and conscientious about attending to detail.</li>\n\t<li><strong>Customer Service</strong> - Works with clients and customers (that is, any individuals who use or receive the services or products that your work unit produces, including the general public, individuals who work in the agency, other agencies, or organizations outside the Government) to assess their needs, provide information or assistance, resolve their problems, or satisfy their expectations; knows about available products and services; is committed to providing quality products and services.</li>\n\t<li><strong>Oral Communication</strong> - Expresses information (for example, ideas or facts) to individuals or groups effectively, taking into account the audience and nature of the information (for example, technical, sensitive, controversial); makes clear and convincing oral presentations; listens to others, attends to nonverbal cues, and responds appropriately.</li>\n\t<li><strong>Problem Solving</strong> - Identifies problems; determines accuracy and relevance of information; uses sound judgment to generate and evaluate alternatives, and to make recommendations.</li>\n</ol>\n\n<p><br>\nAND<br>\n<br>\n<strong>Specialized Experience:</strong> For the <strong>Band 3</strong> (<strong>GS-11</strong>) you must have one year of experience at a level of difficulty and responsibility equivalent to the <strong>Band 2 (GS-9)</strong> in the Federal service. Experience for this position includes: working with Microsoft SQL Server Database Management System; building and maintaining database objects such as tables, views, schemas, synonyms, stored procedures, user defined functions using the Transact Structured Query Language (T-SQL) programming language; executing database normalization activities; experience with SQL graph data structures; working with data pipelines to support batch data processing and Extract, Transform, and Load (ETL) activities; working with agile software development and Development, Security, and Operations (DevSecOps) methodologies; using software tools such as SQL Server Management Studio, ERWIN Data Modeler, and Visual Studio Code; experience with software version control systems Git; experience with data formats such as JSON, XML, and CSV.<br>\n<br>\nOR<br>\n<br>\n<strong>Education:</strong> 3 years of progressively higher-level graduate education leading to a Ph.D. degree <em>or</em> Ph.D. or equivalent doctoral degree.<br>\n<br>\nExperience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., Peace Corps, AmeriCorps) and other organizations (e.g., professional; philanthropic; religious; spiritual; community, student, social). Volunteer work helps build critical competencies, knowledge, and skills and can provide valuable training and experience that translates directly to paid employment. You will receive credit for all qualifying experience, including volunteer.<br>\n<br>\nAfter you submit this application, you will receive an e-mail informing you that a USA Hire assessment is required. You will have 48 hours from the closing date of this announcement, 11/06/2026, to complete the assessment as this assessment is part of your application.</p>",
+  "title": "IT Specialist (Applications Software)",
+  "validThrough": "2026-11-06"
+}

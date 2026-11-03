@@ -1,0 +1,9 @@
+# Step 1 coverage — 2026-11-02
+
+Run 2026-11-02-step1-175625: 15 native DMV-filtered search terms, 30/30 pages and 2,042 returned records, deduplicated to 1,333 controls. Queries/payloads/cursors/counts are in native-audit.jsonl; failed/ignored location probes are labeled separately and are not counted. Posting window September 2–November 2 inclusive. Primary official detail evidence: 122 announcements with full job metadata/requirements; 119 current unversioned Markdown/PDF packets prepared. 104 new ledger announcements, 15 existing refreshed, 3 selected leads screened out. Every native control has a screening-dispositions.json entry.
+
+All 119 PDFs have two selectable-text pages; all 20 baseline experience bullets are retained, with the user-updated Freddie Mac title. All 238 pages rendered with PDFKit; 113 unique pixel images visually reviewed across 10 contact boards. Text/page bounds, neutral metadata, prohibited-label scan, hashes, preserved earlier artifacts, baseline hash, and SQLite integrity passed. No new v2 files or alternate compact layouts generated. 119 current PDFs are in resumes/; prior historical versions remain labeled.
+
+Native pagination completed for all stated queries. Agency-channel coverage remains partial (FDIC careers 403; additional official recruiting channels may not be represented). Unknown experience, degree credits, GPA, federal employment/special hiring status and screening are attention items rather than assumed disqualifications. Three previously skipped jobs were restored to needs_verification and prepared because previous absence-based exclusions were not affirmative proof of ineligibility. Six companion-route pairs flagged for reconciliation before any submission. No portal preparation, uploads, selections, confirmations or submissions.
+
+See the dated daily report and continuation.json for deadlines, evidence and remaining candidate questions.

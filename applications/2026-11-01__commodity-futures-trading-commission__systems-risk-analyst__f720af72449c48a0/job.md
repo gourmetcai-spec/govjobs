@@ -1,459 +1,926 @@
 # Systems Risk Analyst
 
 {
-  "employer": "Commodity Futures Trading Commission",
   "title": "Systems Risk Analyst",
   "requisition_id": "CFTC-DMO-2027-0003",
-  "location": "Washington, DC",
-  "salary": "$152,377–$223,819 per year; CT-13",
-  "hiring_path": "Agency clarification: applications accepted from all U.S. citizens",
-  "fit": "Trading architecture, FIX, market data, risk analytics and SEC/CFTC/OPERA reporting overlap.",
-  "gaps": "Official opening and closing dates remain unverified. Mandatory system safeguard/security-control reviews, electronic-trading compliance oversight and evaluation of emergency/backup/disaster-recovery plans are not established by the baseline. The user-designated CFTC PDF is a format reference and does not establish those additional claims.",
   "canonical_url": "https://www.usajobs.gov/job/889991400",
   "application_url": "https://www.usajobs.gov/job/889991400",
-  "posted_date": null,
-  "posted_date_evidence": "No verified official opening date in retrieved text; not treated as eligible.",
-  "retrieved_at": "2026-11-02T01:18:48.041747+00:00",
-  "remote_restrictions": "Not remote; listed DMV duty station. Telework subject to agency policy.",
+  "posted_date": "2026-10-23",
+  "posted_date_evidence": "Official announcement JobPosting.datePosted; corroborated by native search PositionStartDate where listed.",
+  "close_date": "2026-12-21",
+  "deadline_timezone": "America/New_York",
+  "deadline_time": "23:59",
+  "deadline_source": "https://www.usajobs.gov/job/889991400",
+  "deadline_verified": true,
+  "early_closure_conditions": [],
+  "rolling_cutoff": null,
+  "location": "Washington, DC",
+  "remote_restrictions": "Offered DMV work location; verify telework/attendance and screening conditions in announcement.",
+  "salary": "Starting at $152,377 Per year (CT 13)",
+  "retrieved_at": "2026-11-02T23:14:54.501767+00:00",
   "control_number": "889991400",
-  "status": "discovered",
-  "aliases": [],
-  "discovery_window": [
-    "2026-09-01",
-    "2026-11-01"
+  "fit": "Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.",
+  "gaps": "Hiring-path eligibility unverified: Competitive service, Career transition (CTAP, ICTAP, RPL), Land and base management, Veterans, Military spouses, Individuals with disabilities, Peace Corps & AmeriCorps Vista, Special authorities. Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Verify stated security certification requirements against the exact qualification clause; not established by the baseline alone. Verify disaster-recovery evaluation experience against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.",
+  "requirements_confirmed_unmet": [],
+  "requirements_unverified": [
+    "Hiring-path eligibility unverified: Competitive service, Career transition (CTAP, ICTAP, RPL), Land and base management, Veterans, Military spouses, Individuals with disabilities, Peace Corps & AmeriCorps Vista, Special authorities. Confirm qualifying status before application; absence from baseline is not proof of ineligibility.",
+    "Verify stated security certification requirements against the exact qualification clause; not established by the baseline alone.",
+    "Verify disaster-recovery evaluation experience against the exact qualification clause; not established by the baseline alone.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
   ],
-  "open_evidence": "Official announcement reports Accepting applications; saved in tracking/runs/2026-11-01-federal-step1-redo/cftc-web.txt"
+  "preferred_requirements_note": "See official qualifications/education sections; missing evidence does not establish an unmet requirement.",
+  "hiring_paths": [
+    "Competitive service",
+    "Career transition (CTAP, ICTAP, RPL)",
+    "Land and base management",
+    "Veterans",
+    "Military spouses",
+    "Individuals with disabilities",
+    "Peace Corps & AmeriCorps Vista",
+    "Special authorities"
+  ],
+  "open_evidence": "Official announcement downloaded successfully; validThrough and native open-status evidence retained.",
+  "discovery_window": [
+    "2026-09-02",
+    "2026-11-02"
+  ]
 }
 
-## Retrieved official source evidence
+## Summary
 
-USAJOBS - Job Announcement (https://www.usajobs.gov/job/889991400)
-citeturn33view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.usajobs.gov/job/889991400","lineno":170}); Total lines: 553
-L0: 【0†Skip to main content】
-L1:
-L2: 【1†Image: U.S. flag】
-L3:
-L4: [Button: An official website of the United States government ]
-L5:
-L6: [Button: MENU ]
-L7:
-L8: 【2†Back to results】
-L9:
-L10:
-L11:
-L12: 【3†Apply】
-L13:
-L14: Print
-L15:
-L16: Share
-L17:
-L18: Save
-L19:
-L20:   * 【4†Summary】
-L21:   * 【5†This job is open to】
-L22:   * 【6†Duties】
-L23:   * 【7†Requirements】
-L24:   * 【8†How you will be evaluated】
-L25:   * 【9†Required documents】
-L26:   * 【10†How to apply】
-L27: ## Summary
-L28:
-L29: This position is located in the Compliance Branch of the Division of Market Oversight (DMO). DMO's mission is to be transparent, fair, competitive, and secure markets through clear rules and effective oversight of derivatives markets and market participants. DMO seeks to be the world’s foremost authority on the rapidly evolving derivatives markets.
-L30:
-L31: [Button: Learn more about this agency ]
-L32: ## Summary
-L33:
-L34: This position is located in the Compliance Branch of the Division of Market Oversight (DMO). DMO's mission is to be transparent, fair, competitive, and secure markets through clear rules and effective oversight of derivatives markets and market participants. DMO seeks to be the world’s foremost authority on the rapidly evolving derivatives markets.
-L35:
-L36: [Button: Learn more about this agency ]
-L37: ## Overview
-L38:
-L39: 【11†Help†usajobshelp.opm.gov】
-L40:
-L41: Accepting applications
-L42:
-L43: Location
-L44:
-L45: Few vacancies in the following location:
-L46:
-L47: Washington, DC
-L48:
-L49: Work site options
-L50:
-L51: Telework eligible
-L52:     Yes—Position is eligible for telework in accordance with agency policy.
-L53:
-L54: Remote job
-L55:     No
-L56:
-L57: Relocation expenses reimbursed
-L58:     No
-L59:
-L60: Salary
-L61:     $152,377 - $223,819 per year
-L62:
-L63: Pay scale & grade
-L64:
-L65:
-L66: CT 13
-L67:
-L68: Promotion potential
-L69:     14
-L70:
-L71: 【12†Learn more about pay scale and grade†usajobshelp.opm.gov】
-L72: Pay scale and grade determines the salary of the job.
-L73:
-L74: Work schedule
-L75:     Full-time
-L76:
-L77: Travel Required
-L78:     Occasional travel - Occasional travel might be required.
-L79:
-L80: Appointment type
-L81:     Permanent
-L82:
-L83: Occupations and job series
-L84:
-L85:   * 【13†1101 General Business And Industry】
-L86:
-L87: Supervisory status
-L88:     No
-L89:
-L90: Federal service type
-L91:     This job is in the Competitive Service
-L92:
-L93: Represented by a union
-L94:     Yes
-L95:
-L96: Drug test
-L97:     No
-L98:
-L99: Security clearance
-L100:     Not Required
-L101: Position sensitivity and risk
-L102:     【14†Moderate Risk (MR)†usajobshelp.opm.gov】
-L103:
-L104: Jobs require a 【14†background check†usajobshelp.opm.gov】 and some require a 【14†security clearance†usajobshelp.opm.gov】. The type depends on the job.
-L105:
-L106: Background check type
-L107:
-L108:   * 【14†Suitability/Fitness†usajobshelp.opm.gov】
-L109:
-L110: Financial disclosure required
-L111:     No
-L112:
-L113:
-L114: Some jobs require 【15†financial disclosure†usajobshelp.opm.gov】 to identify conflicts of interests.
-L115:
-L116: Announcement number
-L117:     CFTC-DMO-2027-0003
-L118: Control number
-L119:     889991400
-L120: ## This job is open to
-L121:
-L122: 【16†Help†usajobshelp.opm.gov】
-L123:
-L124: 【17†Federal employees - Competitive service Current federal employees whose agencies follow the U.S. Office of Personnel Management's hiring rules and pay scales.】
-L125:
-L126: 【17†Career transition (CTAP, ICTAP, RPL) Federal employees whose job, agency or department was eliminated and are eligible for priority over other applicants.】
-L127:
-L128: 【18†Land and base management Current or former employees of a base management agency.】
-L129: 【19†Veterans Veterans of the U.S. Armed Forces or a spouse, widow, widower or parent of a veteran, who may be eligible for derived preference】
-L130:
-L131: 【20†Military spouses Military spouses of active duty service members or whose spouse is 100 percent disabled or died on active duty.】
-L132:
-L133: 【21†Individuals with disabilities Individuals who are eligible under Schedule A.】
-L134:
-L135: 【22†Peace Corps & AmeriCorps Vista Individuals who have served at least 2 years with the Peace Corps or 1 year with AmeriCorps VISTA.】
-L136: 【23†Special authorities Individuals eligible under a special authority not listed in another hiring path.】
-L137: ### Clarification from the agency
-L138:
-L139: Applications will be accepted from all US Citizens.
-L140:
-L141: ## Videos
-L142:
-L143: 【24†iframe†embedr.flickr.com】
-L144: ## Duties
-L145:
-L146: 【25†Help†usajobshelp.opm.gov】
-L147: At the full performance level, you will serve as a Systems Risk Analyst in the Compliance Branch (Branch) of the Division of Market Oversight (DMO), as senior staff of the Branch's Market Continuity Program (MCP).
-L148: Using advanced knowledge of information technology (IT) concepts and of standards, guidelines, and best practices regarding system safeguards and security control reviews, you will conduct the CFTC's oversight of compliance by Designated Contract Markets (DCMs), Swap Data Repositories (SDRs), and Swap Execution Facilities (SEFs) with the system safeguards requirements of the Commodity Exchange Act (Act) and CFTC regulations. Additionally, you will;
-L149: Plan and conduct System Safeguards Examinations (SSEs) and Targeted Maturity Assessments (TMAs) of all DCMs, SDRs, and SEFs, to evaluate the reliability, cyber and physical security, adequate scalable capacity, internal oversight, and testing of their automated trading and data reporting systems, and the compliance of their programs of system safeguards risk analysis and oversight with the requirements of the Act and CFTC regulations.
-L150: Serve as one of DMO's senior IT and system safeguards experts for performance of system safeguards oversight that is complex, sensitive, and of high importance to the mission of the CFTC.
-L151: Serve as an expert on teams conducting system safeguards examinations (SSEs) of DCMs, SEFs, and SDRs to assess their compliance with the system safeguards requirements of the Act and Commission regulations.
-L152: SSEs address DCM, SEF,  and SDR compliance with core principles requiring the regulatee to: establish and maintain   a program of risk oversight to identify and minimize sources of operational risk through development of appropriate controls and procedures and development of automated systems that are reliable, secure, and have adequate scalable capacity; establish and maintain emergency procedures, backup facilities, and a plan for disaster recovery that allow for the timely recovery and resumption of operations and the fulfillment of the duties and obligations of the regulatee; and periodically conduct tests to verify that backup resources are sufficient.
-L153: SSEs focus on seven risk oversight program areas, including:
-L154:
-L155:   1. Enterprise risk management and governance;
-L156:   2. Information security;
-L157:   3. Business continuity and disaster recovery, including pandemic planning;
-L158:   4. Capacity and performance planning;
-L159:   5. Systems operations;
-L160:   6. Systems development and quality assurance; and
-L161:   7. Physical security and environmental
-L162:
-L163: In leading or participating on an SSE or TMA team, the incumbent will:
-L164:   * organize and conduct review of documents provided by the DCM, SDR, or SEF examined;
-L165:   * conduct extended on-site interviews, as a senior expert on the interview team, with regulatee senior management and technical staff;
-L166:   * apply extensive, expert knowledge of risk oversight, IT principles, appropriate controls and procedures, and best practices for automated systems to the analysis of information developed in the course of the SSE or TMA, and play a significant participatory role at an expert level in MCP staff determination of appropriate findings and recommendations;
-L167:   * draft a detailed report of MCP findings and recommendations;
-L168:   * participate as a senior-level expert in communicating findings and recommendations to senior management and technical staff of the DCM, SDR, or SEF examined; and
-L169:   * assess the efficacy and timeliness of corrective action taken by the DCM, SDR, or SEF
-L170: The incumbent represents the MCP on DMO teams reviewing applications from entities seeking designation as a DCM or registration as an SDR or SEF.  The incumbent serves as an expert in technical reviews by MCP staff of the applicant's compliance with system safeguards requirements for entities seeking the designation or registration in question.  The incumbent also expertly communicates with applicants during the registration or designation process and participates as a senior-level expert in MCP staff evaluation of applicant sufficiency in light of applicable system safeguards requirements, and drafts system safeguards-related portions of related reports and registration or designation orders.
-L171: The incumbent may be required to independently conduct such technical reviews, including on-site registered entity and data center visits.
-L172: ## Requirements
-L173:
-L174: 【26†Help†usajobshelp.opm.gov】
-L175: ### Conditions of employment
-L176:
-L177:   * U.S. Citizenship
-L178:   * Background/Security Investigation
-L179:   * May be required to serve a one-year probationary period
-L180:   * Selective Service Registration is required for males born after 12/31/1959
-L181:
-L182: You will be evaluated on the basis of your level of competency (knowledge, skills and abilities) in the following areas:
-L183: Information Technology Architecture - Knowledge of architectural methodologies used in the design and development of information systems, including the physical structure of a system's internal operations and interactions with other systems.
-L184:
-L185: Technical Competence - Uses knowledge that is acquired through formal training or extensive on-the-job experience to perform one's job; works with, understands, and evaluates technical information related to the job; advises others on technical issues.
-L186: Risk Management -  Knowledge of the principles, methods, and tools used for risk assessment and mitigation, including assessment of failures and their consequences.
-L187: Communication (Oral/Written) - Makes clear and convincing oral presentations. Listens effectively; clarifies information as needed.Recognizes or uses correct English grammar, punctuation, and spelling; communicates information (for example, facts, ideas, or messages) in a succinct and organized manner; produces written information, which may include technical material, that is appropriate for the intended audience.
-L188: ### Qualifications
-L189:
-L190: CT-13 Level: To qualify for the CT-13 level, you must have at least one year of specialized experience equivalent to the next lower grade level (CT/GS-12) in the Federal service, or comparable experience not gained through federal service.
-L191:
-L192: Specialized experience is defined as:
-L193:   * Experience applying knowledge of IT concepts, standards, guidelines, and techniques regarding system safeguards and security control reviews;
-L194:   * Experience in overseeing compliance of systems as it relates to the electronic trading environment; cyber and physical security, scalable capacity, internal oversight, and testing of automated trading and data reporting systems; and
-L195:   * Experience in evaluating emergency procedures, backup facilities, and disaster recovery plans electronic trading systems.
-L196: One or more professional certifications in the following system safeguards and in the Information Technology industry are highly desired:
-L197:   * Certified Information Systems Security Professional (CISSP);
-L198:   * Certified Information Systems Auditor (CISA);
-L199:   * Certified Business Continuity Professional (CBCP);
-L200:   * Certified Data Center Professional (CDCP);
-L201:   * Certified in the Governance of Enterprise IT (COEIT);
-L202:   * Systems Security Certified Practitioner (SSCP);
-L203:   * Certified Authorization Professional (CAP);
-L204:   * Certified Security Software Lifecycle Professional (CSSLP);
-L205:   * Certified Internal Auditor (CIA);
-L206:   * Certified Information Security Manager (CISM);
-L207:   * Certified in Risk and Information Systems Control (CRISC);
-L208:   * Certified Functional Continuity Professional (CFCP);
-L209:   * Master Business Continuity Professional (MBCP);
-L210:   * Business Continuity Certified Planner (BCCP);
-L211:   * Business Continuity Certified Lead Auditor (BCCLA);
-L212:   * Disaster Recovery Certified Specialist (DRCS).
-L213: ### Education
-L214:
-L215: Please refer to the OPM 【27†General Business and Industry Series 1101†www.opm.gov】 for the specific qualification requirements for this position.
-L216: ### Additional information
-L217:
-L218: This is a Bargaining Unit Position located in the National Treasury Employee Union (NTEU) Chapter 337.
-L219:
-L220: Relocation: Relocation expenses will not be paid.
-L221:
-L222: Probationary/Trial Period:
-L223: As a condition of employment for accepting this position, you may be required to serve a 1-year probationary or a 2-year trial period during which we will evaluate your fitness and whether your continued employment advances the public interest. In determining if your employment advances the public interest, we may consider:
-L224:   * Your performance and conduct;
-L225:   * The needs and interests of the agency;
-L226:   * Whether your continued employment would advance organizational goals of the agency or the Government; and
-L227:   * Whether your continued employment would advance the efficiency of the Federal service. Upon completion of your probationary/trial period your employment will be terminated unless you receive certification, in writing, that your continued employment advances the public interest.
-L228: Time-in-Grade: You must meet time-in-grade requirements within 30 days of the closing date of this announcement, if applicable.
-L229:
-L230: More than the number of positions listed may be filled through this vacancy announcement.
-L231: The overall salary range is provided for informational purposes as it represents the full range that is applicable to current employees in this occupation/grade.  A new hire's direct and overall experience are critical factors in determining a salary offer, therefore, it is important that your resume fully reflects all of your work experience.
-L232: Note that the upper end of each range is typically applicable only to candidates with significant years of work experience and qualifications Please review the 【28†CFTC Compensation Program†www.cftc.gov】 website for additional information.
-L233: The law prohibits public officials from appointing, promoting, or recommending their relatives. The law prohibits requesting, making, transmitting, accepting, or considering political recommendations for employment or other personnel actions for non-political positions. This includes recommendations from Members of Congress, Congressional employees, elected state or local officials, and political party officials and any recommendation based on party affiliation.
-L234:
-L235: Expand Hide  additional information
-L236: Candidates should be committed to improving the efficiency of the Federal government, passionate about the ideals of our American republic, and committed to upholding the rule of law and the United States Constitution.
-L237: # Benefits
-L238:
-L239: 【29†Help†usajobshelp.opm.gov】
-L240:
-L241: A career with the U.S. government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding. 【30†Opens in a new window Learn more about federal benefits†usajobshelp.opm.gov】.
-L242:
-L243: 【31†Review our benefits†www.cftc.gov】
-L244: Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time or intermittent. Contact the hiring agency for more information on the specific benefits offered.
-L245: ## How you will be evaluated
-L246:
-L247: You will be evaluated for this job based on how well you meet the qualifications above.
-L248:
-L249: This recruitment will utilize the following assessment tools: Structured Evaluative Review
-L250: Subject Matter Experts (SME) will independently review your resume and other supporting document to assess how well your experience demonstrates the required competencies for this position listed in the "Requirements" section of the this announcement. The SME will assign scores based on the strength, relevance, and clarity of the information provided in your resume. These individual evaluations will determine your final score.
-L251:  When the application process is complete, we will review your resume and other supporting documentation, to ensure you meet the hiring eligibility and qualification requirements listed in this announcement.
-L252:
-L253: You may 【32†preview questions†jobs.applygovt.net】 for this vacancy.
-L254: # Benefits
-L255:
-L256: 【29†Help†usajobshelp.opm.gov】
-L257:
-L258: A career with the U.S. government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding. 【30†Opens in a new window Learn more about federal benefits†usajobshelp.opm.gov】.
-L259:
-L260: 【31†Review our benefits†www.cftc.gov】
-L261: Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time or intermittent. Contact the hiring agency for more information on the specific benefits offered.
-L262: # Required documents
-L263: ## Required Documents
-L264:
-L265: 【26†Help†usajobshelp.opm.gov】
-L266:
-L267: You must provide a complete Application Package, which includes:
-L268:
-L269:   * Resume showing related experience (required) (two-pages max);
-L270:   * Cover Letter (optional);
-L271:   * Performance appraisal (optional);
-L272:   * Transcripts (optional)
-L273: Veterans Preference: If you are entitled to veteran preference, you should indicate the type of veteran preference you are claiming on your resume.
-L274: In order to verify your veteran preference entitlement, please submit a copy of your veteran's documentation including a DD-214 (member 4 copy preferred, however, the documentation provided must contain dates and character of service); official statement of service from your command if you are currently on active duty; or other official documentation (e.g., documentation of receipt of a campaign badge or expeditionary medal) that shows your military service was performed under honorable conditions.  In addition, if you are a disabled veteran, a Purple Heart recipient, or widow/widower of a veteran, the spouse of a disabled veteran or the natural mother of a disabled or deceased veteran, you must submit a Standard Form (SF) 15, “Application for 10-Point Veteran Preference,” and the other required documentation identified on the reverse side of the SF-15 to support your preference claim.
-L275: Although veteran preference points are not assigned under the category rating procedures described under “How You Will Be Evaluated,” veteran preference eligibles are listed ahead of non-veterans within each category for which they are qualified.
-L276: Interagency Career Transition Assistance Program (ICTAP): The ICTAP provides eligible displaced federal competitive service employees with selection priority over other candidates for competitive service vacancies.
-L277: If your agency has notified you in writing that you are a displaced employee eligible for ICTAP consideration, you may receive selection priority if: 1) this vacancy is within your ICTAP eligibility, 2) you apply under the instructions in this announcement, and 3) you are found well-qualified for this vacancy.  To be well qualified, you must score 85 or better on established ranking criteria. You must provide proof of eligibility with your application to receive selection priority.
-L278: Additional information about ICTAP eligibility is at:
-L279: http://www.opm.gov/ctap/index.asp.ICTAP
-L280: Candidates MUST submit:
-L281: 1. A copy of their agency reduction-in-force notice;
-L282: 2. A copy of your most recent Performance Rating;
-L283: 3. A copy of your most recent SF-50 noting current or last position held, the grade level, and the duty location; and
-L284: 4. A copy of your notice of proposed removal for declining a directed reassignment or transfer of function outside the local
-L285: commuting area or documentation showing you were separated as a result of RIF or declining a directed reassignment or
-L286: transfer of function outside the local commuting area.
-L287: Career Transition Assistance Program (CTAP): Provides eligible surplus and displaced competitive service employees in the CFTC with selection priority over other candidates for competitive service vacancies.
-L288: If CFTC has notified you in writing that you are a surplus or displaced employee eligible for CTAP consideration, you may receive selection priority if: 1) this vacancy is within your CTAP eligibility, 2) you apply under the instructions in this announcement, and 3) you are found well-qualified for this vacancy. To be well qualified, you must rate equivalent to the Well Qualified or better category using established rating criteria.
-L289: You must provide a copy of your written notification of CTAP eligibility with your application. Additional information about CTAP eligibility is at: http://www.opm.gov/ctap/index.asp.
-L290: ### If you are relying on your education to meet qualification requirements:
-L291:
-L292: Education must be accredited by an accrediting institution recognized by the U.S. Department of Education in order for it to be credited towards qualifications. Therefore, provide only the attendance and/or degrees from 【33†schools accredited by accrediting institutions recognized by the U.S. Department of Education†www.ed.gov】.
-L293: Failure to provide all of the required information as stated in this vacancy announcement may result in an ineligible rating or may affect the overall rating.
-L294: # How to Apply
-L295:
-L296: 【34†Help†usajobshelp.opm.gov】
-L297:
-L298: RESUME REQUIREMENT: Your resume may NOT exceed two pages, and the font size should not be smaller than 10 pts. Please ensure your resume clearly demonstrates how you meet the qualifications for the position within the two-page limit.
-L299: YOU MUST APPLY ONLINE:  Your complete application, including required documents, must be received by 11:59 p.m. Eastern Time (EST) on the closing date of this announcement. You must complete and submit an application by accessing the USAJOBS website at USAJOBS.GOV.  To begin, click the Apply Online button within the vacancy announcement and follow the prompts to create an account using LOGIN.GOV, if you have not done so already.
-L300: LOGIN.GOV will walk you through each step of the account set-up and will automatically link your USAJOBS profile to LOGIN.GOV.  Once you have established an account using LOGIN.GOV, you will then go back to USAJOBS.GOV using your LOGIN.GOV username and password to answer the questions and submit all required documents. If you already have established an LOGIN.GOV account or want to return to your saved application, go to USAJOBS.GOV using your LOGIN.GOV username and password to apply or view your profile.
-L301: If you have problems completing your on-line application, including problems submitting your supporting documents, please contact the Help Desk by e-mail at mgshelp@monster.com or phone at 1-866.656.6831. The help desk is available Monday-Friday, 7:00 a.m. to 7:00 p.m. EST.
-L302: To verify the status of your application, log into your USAJOBS account (【35†https://my.usajobs.gov/Account/Login†my.usajobs.gov】), all of your applications will appear on the welcome screen. The Application Status will appear along with the date your application was last updated. For information on what each Application Status means, visit: 【36†https://www.usajobs.gov/Help/how-to/application/status/】.
-L303: ### Agency contact information
-L304:
-L305: Tiffany Williford
-L306:
-L307: Phone
-L308:     202-418-5804
-L309: Fax
-L310:     202-501-0018
-L311: Email
-L312:     twilliford@cftc.gov
-L313:
-L314: Address
-L315:     Commodity Futures Trading Commission
-L316: Three Lafayette Centre
-L317: 1155 21st Street, NW
-L318: Washington, District of Columbia 20581
-L319: United States
-L320: ### Next steps
-L321:
-L322: For information on what each Application Status means, visit: 【36†https://www.usajobs.gov/Help/how-to/application/status/】.
-L323: Please notify us if your contact information changes after the closing date of the announcement. Also, note that if you provide an email address that is inaccurate or if your mailbox is full or blocked (e.g., spam-blocker), you may not receive important communication that could affect your consideration for this position.
-L324: # Fair and transparent
-L325:
-L326: The Federal hiring process is set up to be fair and transparent. Please read the following guidance.
-L327:
-L328: 【37†Criminal history inquiries†usajobshelp.opm.gov】 【38†Equal Employment Opportunity (EEO) Policy†usajobshelp.opm.gov】
-L329:
-L330: 【39†Financial suitability†usajobshelp.opm.gov】 【40†New employee probationary period†usajobshelp.opm.gov】
-L331:
-L332: 【41†Privacy Act†usajobshelp.opm.gov】 【42†Reasonable accommodation policy†usajobshelp.opm.gov】
-L333: 【43†Selective Service†usajobshelp.opm.gov】 【44†Signature and false statements†usajobshelp.opm.gov】
-L334:
-L335: 【45†Social security number request†usajobshelp.opm.gov】
-L336: ## Required Documents
-L337:
-L338: 【26†Help†usajobshelp.opm.gov】
-L339:
-L340: You must provide a complete Application Package, which includes:
-L341:
-L342:   * Resume showing related experience (required) (two-pages max);
-L343:   * Cover Letter (optional);
-L344:   * Performance appraisal (optional);
-L345:   * Transcripts (optional)
-L346: Veterans Preference: If you are entitled to veteran preference, you should indicate the type of veteran preference you are claiming on your resume.
-L347: In order to verify your veteran preference entitlement, please submit a copy of your veteran's documentation including a DD-214 (member 4 copy preferred, however, the documentation provided must contain dates and character of service); official statement of service from your command if you are currently on active duty; or other official documentation (e.g., documentation of receipt of a campaign badge or expeditionary medal) that shows your military service was performed under honorable conditions.  In addition, if you are a disabled veteran, a Purple Heart recipient, or widow/widower of a veteran, the spouse of a disabled veteran or the natural mother of a disabled or deceased veteran, you must submit a Standard Form (SF) 15, “Application for 10-Point Veteran Preference,” and the other required documentation identified on the reverse side of the SF-15 to support your preference claim.
-L348: Although veteran preference points are not assigned under the category rating procedures described under “How You Will Be Evaluated,” veteran preference eligibles are listed ahead of non-veterans within each category for which they are qualified.
-L349: Interagency Career Transition Assistance Program (ICTAP): The ICTAP provides eligible displaced federal competitive service employees with selection priority over other candidates for competitive service vacancies.
-L350: If your agency has notified you in writing that you are a displaced employee eligible for ICTAP consideration, you may receive selection priority if: 1) this vacancy is within your ICTAP eligibility, 2) you apply under the instructions in this announcement, and 3) you are found well-qualified for this vacancy.  To be well qualified, you must score 85 or better on established ranking criteria. You must provide proof of eligibility with your application to receive selection priority.
-L351: Additional information about ICTAP eligibility is at:
-L352: http://www.opm.gov/ctap/index.asp.ICTAP
-L353: Candidates MUST submit:
-L354: 1. A copy of their agency reduction-in-force notice;
-L355: 2. A copy of your most recent Performance Rating;
-L356: 3. A copy of your most recent SF-50 noting current or last position held, the grade level, and the duty location; and
-L357: 4. A copy of your notice of proposed removal for declining a directed reassignment or transfer of function outside the local
-L358: commuting area or documentation showing you were separated as a result of RIF or declining a directed reassignment or
-L359: transfer of function outside the local commuting area.
-L360: Career Transition Assistance Program (CTAP): Provides eligible surplus and displaced competitive service employees in the CFTC with selection priority over other candidates for competitive service vacancies.
-L361: If CFTC has notified you in writing that you are a surplus or displaced employee eligible for CTAP consideration, you may receive selection priority if: 1) this vacancy is within your CTAP eligibility, 2) you apply under the instructions in this announcement, and 3) you are found well-qualified for this vacancy. To be well qualified, you must rate equivalent to the Well Qualified or better category using established rating criteria.
-L362: You must provide a copy of your written notification of CTAP eligibility with your application. Additional information about CTAP eligibility is at: http://www.opm.gov/ctap/index.asp.
-L363: ### If you are relying on your education to meet qualification requirements:
-L364:
-L365: Education must be accredited by an accrediting institution recognized by the U.S. Department of Education in order for it to be credited towards qualifications. Therefore, provide only the attendance and/or degrees from 【33†schools accredited by accrediting institutions recognized by the U.S. Department of Education†www.ed.gov】.
-L366: Failure to provide all of the required information as stated in this vacancy announcement may result in an ineligible rating or may affect the overall rating.
-L367: ## How to Apply
-L368:
-L369: 【34†Help†usajobshelp.opm.gov】
-L370:
-L371: RESUME REQUIREMENT: Your resume may NOT exceed two pages, and the font size should not be smaller than 10 pts. Please ensure your resume clearly demonstrates how you meet the qualifications for the position within the two-page limit.
-L372: YOU MUST APPLY ONLINE:  Your complete application, including required documents, must be received by 11:59 p.m. Eastern Time (EST) on the closing date of this announcement. You must complete and submit an application by accessing the USAJOBS website at USAJOBS.GOV.  To begin, click the Apply Online button within the vacancy announcement and follow the prompts to create an account using LOGIN.GOV, if you have not done so already.
-L373: LOGIN.GOV will walk you through each step of the account set-up and will automatically link your USAJOBS profile to LOGIN.GOV.  Once you have established an account using LOGIN.GOV, you will then go back to USAJOBS.GOV using your LOGIN.GOV username and password to answer the questions and submit all required documents. If you already have established an LOGIN.GOV account or want to return to your saved application, go to USAJOBS.GOV using your LOGIN.GOV username and password to apply or view your profile.
-L374: If you have problems completing your on-line application, including problems submitting your supporting documents, please contact the Help Desk by e-mail at mgshelp@monster.com or phone at 1-866.656.6831. The help desk is available Monday-Friday, 7:00 a.m. to 7:00 p.m. EST.
-L375: To verify the status of your application, log into your USAJOBS account (【35†https://my.usajobs.gov/Account/Login†my.usajobs.gov】), all of your applications will appear on the welcome screen. The Application Status will appear along with the date your application was last updated. For information on what each Application Status means, visit: 【36†https://www.usajobs.gov/Help/how-to/application/status/】.
-L376:
-L377: Expand Hide  how to apply
-L378: ### Agency contact information
-L379:
-L380: Tiffany Williford
-L381:
-L382: Phone
-L383:     202-418-5804
-L384: Fax
-L385:     202-501-0018
-L386: Email
-L387:     twilliford@cftc.gov
-L388:
-L389: Address
-L390:     Commodity Futures Trading Commission
-L391: Three Lafayette Centre
-L392: 1155 21st Street, NW
-L393: Washington, District of Columbia 20581
-L394: United States
-L395: ### Next steps
-L396:
-L397: For information on what each Application Status means, visit: 【36†https://www.usajobs.gov/Help/how-to/application/status/】.
-L398: Please notify us if your contact information changes after the closing date of the announcement. Also, note that if you provide an email address that is inaccurate or if your mailbox is full or blocked (e.g., spam-blocker), you may not receive important communication that could affect your consideration for this position.
-L399:
-L400: Expand Hide  next steps
-L401: ## Fair and transparent
-L402:
-L403: The Federal hiring process is set up to be fair and transparent. Please read the following guidance.
-L404:
-L405: 【37†Criminal history inquiries†usajobshelp.opm.gov】 【38†Equal Employment Opportunity (EEO) Policy†usajobshelp.opm.gov】
-L406:
-L407: 【39†Financial suitability†usajobshelp.opm.gov】 【40†New employee probationary period†usajobshelp.opm.gov】
-L408:
-L409: 【41†Privacy Act†usajobshelp.opm.gov】 【42†Reasonable accommodation policy†usajobshelp.opm.gov】
-L410: 【43†Selective Service†usajobshelp.opm.gov】 【44†Signature and false statements†usajobshelp.opm.gov】
-L411:
-L412: 【45†Social security number request†usajobshelp.opm.gov】
-L413: ## Commodity Futures Trading Commission
-L414:
-L415: Apply now for an exciting opportunity at the Commodity Futures Trading Commission (CFTC). With an expanded mission and authority to include oversight of the swap markets, the CFTC continues to protect the American public by promoting market integrity, transparency and preventing and prosecuting fraud, manipulation and other abuse in the futures and options markets. Please visit 【46†www.cftc.gov†www.cftc.gov】 to learn more about the CFTC.
-L416: ### Agency contact information
-L417:
-L418: Tiffany Williford
-L419:
-L420: Phone
-L421:     202-418-5804
-L422: Fax
-L423:     202-501-0018
-L424: Email
-L425:     twilliford@cftc.gov
-L426:
-L427: Address
+This position is located in the Compliance Branch of the Division of Market Oversight (DMO). DMO's mission is to be transparent, fair, competitive, and secure markets through clear rules and effective oversight of derivatives markets and market participants. DMO seeks to be the world’s foremost authority on the rapidly evolving derivatives markets.
+
+## Duties
+
+At the full performance level, you will serve as a Systems Risk Analyst in the Compliance Branch (Branch) of the Division of Market Oversight (DMO), as senior staff of the Branch's Market Continuity Program (MCP). Using advanced knowledge of information technology (IT) concepts and of standards, guidelines, and best practices regarding system safeguards and security control reviews, you will conduct the CFTC's oversight of compliance by Designated Contract Markets (DCMs), Swap Data Repositories (SDRs), and Swap Execution Facilities (SEFs) with the system safeguards requirements of the Commodity Exchange Act (Act) and CFTC regulations. Additionally, you will;
+Plan and conduct System Safeguards Examinations (SSEs) and Targeted Maturity Assessments (TMAs) of all DCMs, SDRs, and SEFs, to evaluate the reliability, cyber and physical security, adequate scalable capacity, internal oversight, and testing of their automated trading and data reporting systems, and the compliance of their programs of system safeguards risk analysis and oversight with the requirements of the Act and CFTC regulations.
+Serve as one of DMO's senior IT and system safeguards experts for performance of system safeguards oversight that is complex, sensitive, and of high importance to the mission of the CFTC.
+Serve as an expert on teams conducting system safeguards examinations (SSEs) of DCMs, SEFs, and SDRs to assess their compliance with the system safeguards requirements of the Act and Commission regulations. SSEs address DCM, SEF,  and SDR compliance with core principles requiring the regulatee to: establish and maintain   a program of risk oversight to identify and minimize sources of operational risk through development of appropriate controls and procedures and development of automated systems that are reliable, secure, and have adequate scalable capacity; establish and maintain emergency procedures, backup facilities, and a plan for disaster recovery that allow for the timely recovery and resumption of operations and the fulfillment of the duties and obligations of the regulatee; and periodically conduct tests to verify that backup resources are sufficient.
+SSEs focus on seven risk oversight program areas, including:
+Enterprise risk management and governance;
+Information security;
+Business continuity and disaster recovery, including pandemic planning;
+Capacity and performance planning;
+Systems operations;
+Systems development and quality assurance; and
+Physical security and environmental
+In leading or participating on an SSE or TMA team, the incumbent will:
+organize and conduct review of documents provided by the DCM, SDR, or SEF examined;
+conduct extended on-site interviews, as a senior expert on the interview team, with regulatee senior management and technical staff;
+apply extensive, expert knowledge of risk oversight, IT principles, appropriate controls and procedures, and best practices for automated systems to the analysis of information developed in the course of the SSE or TMA, and play a significant participatory role at an expert level in MCP staff determination of appropriate findings and recommendations;
+draft a detailed report of MCP findings and recommendations;
+participate as a senior-level expert in communicating findings and recommendations to senior management and technical staff of the DCM, SDR, or SEF examined; and
+assess the efficacy and timeliness of corrective action taken by the DCM, SDR, or SEF
+The incumbent represents the MCP on DMO teams reviewing applications from entities seeking designation as a DCM or registration as an SDR or SEF.  The incumbent serves as an expert in technical reviews by MCP staff of the applicant's compliance with system safeguards requirements for entities seeking the designation or registration in question.  The incumbent also expertly communicates with applicants during the registration or designation process and participates as a senior-level expert in MCP staff evaluation of applicant sufficiency in light of applicable system safeguards requirements, and drafts system safeguards-related portions of related reports and registration or designation orders. The incumbent may be required to independently conduct such technical reviews, including on-site registered entity and data center visits.
+
+## Qualifications
+
+CT-13 Level: To qualify for the CT-13 level, you must have at least one year of specialized experience equivalent to the next lower grade level (CT/GS-12) in the Federal service, or comparable experience not gained through federal service.
+Specialized experience is defined as:
+Experience applying knowledge of IT concepts, standards, guidelines, and techniques regarding system safeguards and security control reviews;
+Experience in overseeing compliance of systems as it relates to the electronic trading environment; cyber and physical security, scalable capacity, internal oversight, and testing of automated trading and data reporting systems; and
+Experience in evaluating emergency procedures, backup facilities, and disaster recovery plans electronic trading systems.
+One or more professional certifications in the following system safeguards and in the Information Technology industry are highly desired:
+Certified Information Systems Security Professional (CISSP);
+Certified Information Systems Auditor (CISA);
+Certified Business Continuity Professional (CBCP);
+Certified Data Center Professional (CDCP);
+Certified in the Governance of Enterprise IT (COEIT);
+Systems Security Certified Practitioner (SSCP);
+Certified Authorization Professional (CAP);
+Certified Security Software Lifecycle Professional (CSSLP);
+Certified Internal Auditor (CIA);
+Certified Information Security Manager (CISM);
+Certified in Risk and Information Systems Control (CRISC);
+Certified Functional Continuity Professional (CFCP);
+Master Business Continuity Professional (MBCP);
+Business Continuity Certified Planner (BCCP);
+Business Continuity Certified Lead Auditor (BCCLA);
+Disaster Recovery Certified Specialist (DRCS).
+
+## Education
+
+Please refer to the OPM General Business and Industry Series 1101 for the specific qualification requirements for this position.
+
+## Full rendered official announcement
+
+USAJOBS - Job Announcement
+
+ Skip to main content
+
+ An official website of the United States government
+
+Official websites use .gov
+
+A .gov website belongs to an official government organization in the United States.
+
+Secure .gov websites use HTTPS
+ A lock ( LockA locked padlock ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.
+
+ MENU
+
+ Sign in
+
+ My jobs
+
+ Profile
+
+ Resumes & documents
+
+ Notifications
+
+ Talent networks
+
+ Sign out
+
+ My jobs
+
+ Profile
+
+ Resumes & documents
+
+ Notifications
+
+ Talent networks
+
+ Sign out
+
+ Events
+
+ Help Center
+
+ Search
+
+ Back to results
+
+ Apply
+
+ Systems Risk Analyst
+
+Commodity Futures Trading Commission
+
+Apply
+
+ Print
+
+ Share
+
+ Save
+
+ Summary
+
+ This job is open to
+
+ Duties
+
+ Requirements
+
+ How you will be evaluated
+
+ Required documents
+
+ How to apply
+
+Summary
+
+This position is located in the Compliance Branch of the Division of Market Oversight (DMO). DMO's mission is to be transparent, fair, competitive, and secure markets through clear rules and effective oversight of derivatives markets and market participants. DMO seeks to be the world’s foremost authority on the rapidly evolving derivatives markets.
+
+ Learn more about this agency
+
+Summary
+
+This position is located in the Compliance Branch of the Division of Market Oversight (DMO). DMO's mission is to be transparent, fair, competitive, and secure markets through clear rules and effective oversight of derivatives markets and market participants. DMO seeks to be the world’s foremost authority on the rapidly evolving derivatives markets.
+
+ Learn more about this agency
+
+Overview
+
+ Help
+
+Accepting applications
+
+Location
+
+Few vacancies in the following location:
+
+ Washington, DC
+
+ No matching locations found.
+
+Work site options
+
+Telework eligible
+
+Yes—Position is eligible for telework in accordance with agency policy.
+
+Remote job
+
+No
+
+Relocation expenses reimbursed
+
+ No
+
+Salary
+
+ $152,377 - $223,819 per year
+
+Pay scale & grade
+
+CT 13
+
+Promotion potential
+
+14
+
+ Learn more about pay scale and grade
+
+ Pay scale and grade determines the salary of the job.
+
+Work schedule
+
+Full-time
+
+Travel Required
+
+Occasional travel - Occasional travel might be required.
+
+Appointment type
+
+Permanent
+
+Occupations and job series
+
+ 1101 General Business And Industry
+
+Supervisory status
+
+No
+
+Federal service type
+
+This job is in the Competitive Service
+
+Represented by a union
+
+Yes
+
+Drug test
+
+No
+
+Security clearance
+
+Not Required
+
+Position sensitivity and risk
+
+Moderate Risk (MR)
+
+ Jobs require a
+ background check and some require a
+ security clearance. The type depends on the job.
+
+Background check type
+
+ Suitability/Fitness
+
+Financial disclosure required
+
+No
+
+ Some jobs require
+ financial disclosure to identify conflicts of interests.
+
+Announcement number
+
+CFTC-DMO-2027-0003
+
+Control number
+
+889991400
+
+This job is open to
+
+ Help
+
+Federal employees - Competitive service
+
+ Current federal employees whose agencies follow the U.S. Office of Personnel Management's hiring rules and pay scales.
+
+Career transition (CTAP, ICTAP, RPL)
+
+ Federal employees whose job, agency or department was eliminated and are eligible for priority over other applicants.
+
+Land and base management
+
+ Current or former employees of a base management agency.
+
+Veterans
+
+ Veterans of the U.S. Armed Forces or a spouse, widow, widower or parent of a veteran, who may be eligible for derived preference
+
+Military spouses
+
+ Military spouses of active duty service members or whose spouse is 100 percent disabled or died on active duty.
+
+Individuals with disabilities
+
+ Individuals who are eligible under Schedule A.
+
+Peace Corps & AmeriCorps Vista
+
+ Individuals who have served at least 2 years with the Peace Corps or 1 year with AmeriCorps VISTA.
+
+Special authorities
+
+ Individuals eligible under a special authority not listed in another hiring path.
+
+Clarification from the agency
+
+Applications will be accepted from all US Citizens.
+
+Videos
+
+Duties
+
+ Help
+
+At the full performance level, you will serve as a Systems Risk Analyst in the Compliance Branch (Branch) of the Division of Market Oversight (DMO), as senior staff of the Branch's Market Continuity Program (MCP). Using advanced knowledge of information technology (IT) concepts and of standards, guidelines, and best practices regarding system safeguards and security control reviews, you will conduct the CFTC's oversight of compliance by Designated Contract Markets (DCMs), Swap Data Repositories (SDRs), and Swap Execution Facilities (SEFs) with the system safeguards requirements of the Commodity Exchange Act (Act) and CFTC regulations. Additionally, you will;
+
+Plan and conduct System Safeguards Examinations (SSEs) and Targeted Maturity Assessments (TMAs) of all DCMs, SDRs, and SEFs, to evaluate the reliability, cyber and physical security, adequate scalable capacity, internal oversight, and testing of their automated trading and data reporting systems, and the compliance of their programs of system safeguards risk analysis and oversight with the requirements of the Act and CFTC regulations.
+
+Serve as one of DMO's senior IT and system safeguards experts for performance of system safeguards oversight that is complex, sensitive, and of high importance to the mission of the CFTC.
+
+Serve as an expert on teams conducting system safeguards examinations (SSEs) of DCMs, SEFs, and SDRs to assess their compliance with the system safeguards requirements of the Act and Commission regulations. SSEs address DCM, SEF,  and SDR compliance with core principles requiring the regulatee to: establish and maintain   a program of risk oversight to identify and minimize sources of operational risk through development of appropriate controls and procedures and development of automated systems that are reliable, secure, and have adequate scalable capacity; establish and maintain emergency procedures, backup facilities, and a plan for disaster recovery that allow for the timely recovery and resumption of operations and the fulfillment of the duties and obligations of the regulatee; and periodically conduct tests to verify that backup resources are sufficient.
+
+SSEs focus on seven risk oversight program areas, including:
+
+Enterprise risk management and governance;
+
+Information security;
+
+Business continuity and disaster recovery, including pandemic planning;
+
+Capacity and performance planning;
+
+Systems operations;
+
+Systems development and quality assurance; and
+
+Physical security and environmental
+
+In leading or participating on an SSE or TMA team, the incumbent will:
+
+organize and conduct review of documents provided by the DCM, SDR, or SEF examined;
+
+conduct extended on-site interviews, as a senior expert on the interview team, with regulatee senior management and technical staff;
+
+apply extensive, expert knowledge of risk oversight, IT principles, appropriate controls and procedures, and best practices for automated systems to the analysis of information developed in the course of the SSE or TMA, and play a significant participatory role at an expert level in MCP staff determination of appropriate findings and recommendations;
+
+draft a detailed report of MCP findings and recommendations;
+
+participate as a senior-level expert in communicating findings and recommendations to senior management and technical staff of the DCM, SDR, or SEF examined; and
+
+assess the efficacy and timeliness of corrective action taken by the DCM, SDR, or SEF
+
+The incumbent represents the MCP on DMO teams reviewing applications from entities seeking designation as a DCM or registration as an SDR or SEF.  The incumbent serves as an expert in technical reviews by MCP staff of the applicant's compliance with system safeguards requirements for entities seeking the designation or registration in question.  The incumbent also expertly communicates with applicants during the registration or designation process and participates as a senior-level expert in MCP staff evaluation of applicant sufficiency in light of applicable system safeguards requirements, and drafts system safeguards-related portions of related reports and registration or designation orders. The incumbent may be required to independently conduct such technical reviews, including on-site registered entity and data center visits.
+
+Requirements
+
+ Help
+
+Conditions of employment
+
+U.S. Citizenship
+
+Background/Security Investigation
+
+May be required to serve a one-year probationary period
+
+Selective Service Registration is required for males born after 12/31/1959
+
+You will be evaluated on the basis of your level of competency (knowledge, skills and abilities) in the following areas:
+
+Information Technology Architecture - Knowledge of architectural methodologies used in the design and development of information systems, including the physical structure of a system's internal operations and interactions with other systems.
+
+Technical Competence - Uses knowledge that is acquired through formal training or extensive on-the-job experience to perform one's job; works with, understands, and evaluates technical information related to the job; advises others on technical issues.
+
+Risk Management -  Knowledge of the principles, methods, and tools used for risk assessment and mitigation, including assessment of failures and their consequences.
+
+Communication (Oral/Written) - Makes clear and convincing oral presentations. Listens effectively; clarifies information as needed.Recognizes or uses correct English grammar, punctuation, and spelling; communicates information (for example, facts, ideas, or messages) in a succinct and organized manner; produces written information, which may include technical material, that is appropriate for the intended audience.
+
+Qualifications
+
+CT-13 Level: To qualify for the CT-13 level, you must have at least one year of specialized experience equivalent to the next lower grade level (CT/GS-12) in the Federal service, or comparable experience not gained through federal service.
+
+Specialized experience is defined as:
+
+Experience applying knowledge of IT concepts, standards, guidelines, and techniques regarding system safeguards and security control reviews;
+
+Experience in overseeing compliance of systems as it relates to the electronic trading environment; cyber and physical security, scalable capacity, internal oversight, and testing of automated trading and data reporting systems; and
+
+Experience in evaluating emergency procedures, backup facilities, and disaster recovery plans electronic trading systems.
+
+One or more professional certifications in the following system safeguards and in the Information Technology industry are highly desired:
+
+Certified Information Systems Security Professional (CISSP);
+
+Certified Information Systems Auditor (CISA);
+
+Certified Business Continuity Professional (CBCP);
+
+Certified Data Center Professional (CDCP);
+
+Certified in the Governance of Enterprise IT (COEIT);
+
+Systems Security Certified Practitioner (SSCP);
+
+Certified Authorization Professional (CAP);
+
+Certified Security Software Lifecycle Professional (CSSLP);
+
+Certified Internal Auditor (CIA);
+
+Certified Information Security Manager (CISM);
+
+Certified in Risk and Information Systems Control (CRISC);
+
+Certified Functional Continuity Professional (CFCP);
+
+Master Business Continuity Professional (MBCP);
+
+Business Continuity Certified Planner (BCCP);
+
+Business Continuity Certified Lead Auditor (BCCLA);
+
+Disaster Recovery Certified Specialist (DRCS).
+
+Education
+
+Please refer to the OPM General Business and Industry Series 1101 for the specific qualification requirements for this position.
+
+Additional information
+
+This is a Bargaining Unit Position located in the National Treasury Employee Union (NTEU) Chapter 337.
+
+Relocation: Relocation expenses will not be paid.
+
+Probationary/Trial Period:
+
+As a condition of employment for accepting this position, you may be required to serve a 1-year probationary or a 2-year trial period during which we will evaluate your fitness and whether your continued employment advances the public interest. In determining if your employment advances the public interest, we may consider:
+
+Your performance and conduct;
+
+The needs and interests of the agency;
+
+Whether your continued employment would advance organizational goals of the agency or the Government; and
+
+Whether your continued employment would advance the efficiency of the Federal service. Upon completion of your probationary/trial period your employment will be terminated unless you receive certification, in writing, that your continued employment advances the public interest.
+
+Time-in-Grade: You must meet time-in-grade requirements within 30 days of the closing date of this announcement, if applicable.
+
+More than the number of positions listed may be filled through this vacancy announcement.
+
+The overall salary range is provided for informational purposes as it represents the full range that is applicable to current employees in this occupation/grade.  A new hire's direct and overall experience are critical factors in determining a salary offer, therefore, it is important that your resume fully reflects all of your work experience. Note that the upper end of each range is typically applicable only to candidates with significant years of work experience and qualifications Please review the CFTC Compensation Program website for additional information.
+
+The law prohibits public officials from appointing, promoting, or recommending their relatives. The law prohibits requesting, making, transmitting, accepting, or considering political recommendations for employment or other personnel actions for non-political positions. This includes recommendations from Members of Congress, Congressional employees, elected state or local officials, and political party officials and any recommendation based on party affiliation.
+
+ Expand Hide  additional information
+
+Candidates should be committed to improving the efficiency of the Federal government, passionate about the ideals of our American republic, and committed to upholding the rule of law and the United States Constitution.
+
+Benefits
+
+ Help
+
+ A career with the U.S. government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding. Opens in a new windowLearn more about federal benefits.
+
+ Review our benefits
+
+Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time or intermittent. Contact the hiring agency for more information on the specific benefits offered.
+
+How you will be evaluated
+
+You will be evaluated for this job based on how well you meet the qualifications above.
+
+This recruitment will utilize the following assessment tools: Structured Evaluative Review
+
+Subject Matter Experts (SME) will independently review your resume and other supporting document to assess how well your experience demonstrates the required competencies for this position listed in the "Requirements" section of the this announcement. The SME will assign scores based on the strength, relevance, and clarity of the information provided in your resume. These individual evaluations will determine your final score.
+
+ When the application process is complete, we will review your resume and other supporting documentation, to ensure you meet the hiring eligibility and qualification requirements listed in this announcement.
+You may preview questions for this vacancy.
+
+Benefits
+
+ Help
+
+ A career with the U.S. government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding. Opens in a new windowLearn more about federal benefits.
+
+ Review our benefits
+
+Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time or intermittent. Contact the hiring agency for more information on the specific benefits offered.
+
+Required documents
+
+Required Documents
+
+ Help
+
+You must provide a complete Application Package, which includes:
+
+Resume showing related experience (required) (two-pages max);
+
+Cover Letter (optional);
+
+Performance appraisal (optional);
+
+Transcripts (optional)
+
+Veterans Preference: If you are entitled to veteran preference, you should indicate the type of veteran preference you are claiming on your resume. In order to verify your veteran preference entitlement, please submit a copy of your veteran's documentation including a DD-214 (member 4 copy preferred, however, the documentation provided must contain dates and character of service); official statement of service from your command if you are currently on active duty; or other official documentation (e.g., documentation of receipt of a campaign badge or expeditionary medal) that shows your military service was performed under honorable conditions.  In addition, if you are a disabled veteran, a Purple Heart recipient, or widow/widower of a veteran, the spouse of a disabled veteran or the natural mother of a disabled or deceased veteran, you must submit a Standard Form (SF) 15, “Application for 10-Point Veteran Preference,” and the other required documentation identified on the reverse side of the SF-15 to support your preference claim. Although veteran preference points are not assigned under the category rating procedures described under “How You Will Be Evaluated,” veteran preference eligibles are listed ahead of non-veterans within each category for which they are qualified.
+
+Interagency Career Transition Assistance Program (ICTAP): The ICTAP provides eligible displaced federal competitive service employees with selection priority over other candidates for competitive service vacancies. If your agency has notified you in writing that you are a displaced employee eligible for ICTAP consideration, you may receive selection priority if: 1) this vacancy is within your ICTAP eligibility, 2) you apply under the instructions in this announcement, and 3) you are found well-qualified for this vacancy.  To be well qualified, you must score 85 or better on established ranking criteria. You must provide proof of eligibility with your application to receive selection priority. Additional information about ICTAP eligibility is at:
+http://www.opm.gov/ctap/index.asp.ICTAP
+
+Candidates MUST submit:
+1. A copy of their agency reduction-in-force notice;
+2. A copy of your most recent Performance Rating;
+3. A copy of your most recent SF-50 noting current or last position held, the grade level, and the duty location; and
+4. A copy of your notice of proposed removal for declining a directed reassignment or transfer of function outside the local
+commuting area or documentation showing you were separated as a result of RIF or declining a directed reassignment or
+transfer of function outside the local commuting area.
+
+Career Transition Assistance Program (CTAP): Provides eligible surplus and displaced competitive service employees in the CFTC with selection priority over other candidates for competitive service vacancies. If CFTC has notified you in writing that you are a surplus or displaced employee eligible for CTAP consideration, you may receive selection priority if: 1) this vacancy is within your CTAP eligibility, 2) you apply under the instructions in this announcement, and 3) you are found well-qualified for this vacancy. To be well qualified, you must rate equivalent to the Well Qualified or better category using established rating criteria. You must provide a copy of your written notification of CTAP eligibility with your application. Additional information about CTAP eligibility is at: http://www.opm.gov/ctap/index.asp.
+
+ If you are relying on your education to meet qualification requirements:
+
+ Education must be accredited by an accrediting institution recognized by the U.S. Department of Education in order for it to be credited towards qualifications. Therefore, provide only the attendance and/or degrees from
+ schools accredited by accrediting institutions recognized by the U.S. Department of Education.
+
+ Failure to provide all of the required information as stated in this vacancy announcement may result in an ineligible rating or may affect the overall rating.
+
+How to Apply
+
+ Help
+
+RESUME REQUIREMENT: Your resume may NOT exceed two pages, and the font size should not be smaller than 10 pts. Please ensure your resume clearly demonstrates how you meet the qualifications for the position within the two-page limit.
+
+YOU MUST APPLY ONLINE:  Your complete application, including required documents, must be received by 11:59 p.m. Eastern Time (EST) on the closing date of this announcement. You must complete and submit an application by accessing the USAJOBS website at USAJOBS.GOV.  To begin, click the Apply Online button within the vacancy announcement and follow the prompts to create an account using LOGIN.GOV, if you have not done so already. LOGIN.GOV will walk you through each step of the account set-up and will automatically link your USAJOBS profile to LOGIN.GOV.  Once you have established an account using LOGIN.GOV, you will then go back to USAJOBS.GOV using your LOGIN.GOV username and password to answer the questions and submit all required documents. If you already have established an LOGIN.GOV account or want to return to your saved application, go to USAJOBS.GOV using your LOGIN.GOV username and password to apply or view your profile. If you have problems completing your on-line application, including problems submitting your supporting documents, please contact the Help Desk by e-mail at mgshelp@monster.com or phone at 1-866.656.6831. The help desk is available Monday-Friday, 7:00 a.m. to 7:00 p.m. EST.
+
+To verify the status of your application, log into your USAJOBS account (https://my.usajobs.gov/Account/Login), all of your applications will appear on the welcome screen. The Application Status will appear along with the date your application was last updated. For information on what each Application Status means, visit: https://www.usajobs.gov/Help/how-to/application/status/.
+
+Agency contact information
+
+ Tiffany Williford
+
+Phone
+
+ 202-418-5804
+
+Fax
+
+202-501-0018
+
+Email
+
+ twilliford@cftc.gov
+
+Address
+
+ Commodity Futures Trading Commission
+
+ Three Lafayette Centre
+
+1155 21st Street, NW
+
+ Washington, District of Columbia 20581
+
+ United States
+
+Next steps
+
+For information on what each Application Status means, visit: https://www.usajobs.gov/Help/how-to/application/status/.
+
+Please notify us if your contact information changes after the closing date of the announcement. Also, note that if you provide an email address that is inaccurate or if your mailbox is full or blocked (e.g., spam-blocker), you may not receive important communication that could affect your consideration for this position.
+
+Fair and transparent
+
+The Federal hiring process is set up to be fair and transparent. Please read the following guidance.
+
+ Criminal history inquiries
+
+ Equal Employment Opportunity (EEO) Policy
+
+ Financial suitability
+
+ New employee probationary period
+
+ Privacy Act
+
+ Reasonable accommodation policy
+
+ Selective Service
+
+ Signature and false statements
+
+ Social security number request
+
+Required Documents
+
+ Help
+
+You must provide a complete Application Package, which includes:
+
+Resume showing related experience (required) (two-pages max);
+
+Cover Letter (optional);
+
+Performance appraisal (optional);
+
+Transcripts (optional)
+
+Veterans Preference: If you are entitled to veteran preference, you should indicate the type of veteran preference you are claiming on your resume. In order to verify your veteran preference entitlement, please submit a copy of your veteran's documentation including a DD-214 (member 4 copy preferred, however, the documentation provided must contain dates and character of service); official statement of service from your command if you are currently on active duty; or other official documentation (e.g., documentation of receipt of a campaign badge or expeditionary medal) that shows your military service was performed under honorable conditions.  In addition, if you are a disabled veteran, a Purple Heart recipient, or widow/widower of a veteran, the spouse of a disabled veteran or the natural mother of a disabled or deceased veteran, you must submit a Standard Form (SF) 15, “Application for 10-Point Veteran Preference,” and the other required documentation identified on the reverse side of the SF-15 to support your preference claim. Although veteran preference points are not assigned under the category rating procedures described under “How You Will Be Evaluated,” veteran preference eligibles are listed ahead of non-veterans within each category for which they are qualified.
+
+Interagency Career Transition Assistance Program (ICTAP): The ICTAP provides eligible displaced federal competitive service employees with selection priority over other candidates for competitive service vacancies. If your agency has notified you in writing that you are a displaced employee eligible for ICTAP consideration, you may receive selection priority if: 1) this vacancy is within your ICTAP eligibility, 2) you apply under the instructions in this announcement, and 3) you are found well-qualified for this vacancy.  To be well qualified, you must score 85 or better on established ranking criteria. You must provide proof of eligibility with your application to receive selection priority. Additional information about ICTAP eligibility is at:
+http://www.opm.gov/ctap/index.asp.ICTAP
+
+Candidates MUST submit:
+1. A copy of their agency reduction-in-force notice;
+2. A copy of your most recent Performance Rating;
+3. A copy of your most recent SF-50 noting current or last position held, the grade level, and the duty location; and
+4. A copy of your notice of proposed removal for declining a directed reassignment or transfer of function outside the local
+commuting area or documentation showing you were separated as a result of RIF or declining a directed reassignment or
+transfer of function outside the local commuting area.
+
+Career Transition Assistance Program (CTAP): Provides eligible surplus and displaced competitive service employees in the CFTC with selection priority over other candidates for competitive service vacancies. If CFTC has notified you in writing that you are a surplus or displaced employee eligible for CTAP consideration, you may receive selection priority if: 1) this vacancy is within your CTAP eligibility, 2) you apply under the instructions in this announcement, and 3) you are found well-qualified for this vacancy. To be well qualified, you must rate equivalent to the Well Qualified or better category using established rating criteria. You must provide a copy of your written notification of CTAP eligibility with your application. Additional information about CTAP eligibility is at: http://www.opm.gov/ctap/index.asp.
+
+ If you are relying on your education to meet qualification requirements:
+
+ Education must be accredited by an accrediting institution recognized by the U.S. Department of Education in order for it to be credited towards qualifications. Therefore, provide only the attendance and/or degrees from
+ schools accredited by accrediting institutions recognized by the U.S. Department of Education.
+
+ Failure to provide all of the required information as stated in this vacancy announcement may result in an ineligible rating or may affect the overall rating.
+
+How to Apply
+
+ Help
+
+RESUME REQUIREMENT: Your resume may NOT exceed two pages, and the font size should not be smaller than 10 pts. Please ensure your resume clearly demonstrates how you meet the qualifications for the position within the two-page limit.
+
+YOU MUST APPLY ONLINE:  Your complete application, including required documents, must be received by 11:59 p.m. Eastern Time (EST) on the closing date of this announcement. You must complete and submit an application by accessing the USAJOBS website at USAJOBS.GOV.  To begin, click the Apply Online button within the vacancy announcement and follow the prompts to create an account using LOGIN.GOV, if you have not done so already. LOGIN.GOV will walk you through each step of the account set-up and will automatically link your USAJOBS profile to LOGIN.GOV.  Once you have established an account using LOGIN.GOV, you will then go back to USAJOBS.GOV using your LOGIN.GOV username and password to answer the questions and submit all required documents. If you already have established an LOGIN.GOV account or want to return to your saved application, go to USAJOBS.GOV using your LOGIN.GOV username and password to apply or view your profile. If you have problems completing your on-line application, including problems submitting your supporting documents, please contact the Help Desk by e-mail at mgshelp@monster.com or phone at 1-866.656.6831. The help desk is available Monday-Friday, 7:00 a.m. to 7:00 p.m. EST.
+
+To verify the status of your application, log into your USAJOBS account (https://my.usajobs.gov/Account/Login), all of your applications will appear on the welcome screen. The Application Status will appear along with the date your application was last updated. For information on what each Application Status means, visit: https://www.usajobs.gov/Help/how-to/application/status/.
+
+ Expand Hide  how to apply
+
+Agency contact information
+
+ Tiffany Williford
+
+Phone
+
+ 202-418-5804
+
+Fax
+
+202-501-0018
+
+Email
+
+ twilliford@cftc.gov
+
+Address
+
+ Commodity Futures Trading Commission
+
+ Three Lafayette Centre
+
+1155 21st Street, NW
+
+ Washington, District of Columbia 20581
+
+ United States
+
+Next steps
+
+For information on what each Application Status means, visit: https://www.usajobs.gov/Help/how-to/application/status/.
+
+Please notify us if your contact information changes after the closing date of the announcement. Also, note that if you provide an email address that is inaccurate or if your mailbox is full or blocked (e.g., spam-blocker), you may not receive important communication that could affect your consideration for this position.
+
+ Expand Hide  next steps
+
+Fair and transparent
+
+The Federal hiring process is set up to be fair and transparent. Please read the following guidance.
+
+ Criminal history inquiries
+
+ Equal Employment Opportunity (EEO) Policy
+
+ Financial suitability
+
+ New employee probationary period
+
+ Privacy Act
+
+ Reasonable accommodation policy
+
+ Selective Service
+
+ Signature and false statements
+
+ Social security number request
+
+ Commodity Futures Trading Commission
+
+Apply now for an exciting opportunity at the Commodity Futures Trading Commission (CFTC). With an expanded mission and authority to include oversight of the swap markets, the CFTC continues to protect the American public by promoting market integrity, transparency and preventing and prosecuting fraud, manipulation and other abuse in the futures and options markets. Please visit www.cftc.gov to learn more about the CFTC.
+
+Agency contact information
+
+ Tiffany Williford
+
+Phone
+
+ 202-418-5804
+
+Fax
+
+202-501-0018
+
+Email
+
+ twilliford@cftc.gov
+
+Address
+
+ Commodity Futures Trading Commission
+
+ Three Lafayette Centre
+
+1155 21st Street, NW
+
+ Washington, District of Columbia 20581
+
+ United States
+
+Summary
+
+This position is located in the Compliance Branch of the Division of Market Oversight (DMO). DMO's mission is to be transparent, fair, competitive, and secure markets through clear rules and effective oversight of derivatives markets and market participants. DMO seeks to be the world’s foremost authority on the rapidly evolving derivatives markets.
+
+ Learn more about this agency
+
+Overview
+
+ Help
+
+Accepting applications
+
+Location
+
+Few vacancies in the following location:
+
+ Washington, DC
+
+ No matching locations found.
+
+Work site options
+
+Telework eligible
+
+Yes—Position is eligible for telework in accordance with agency policy.
+
+Remote job
+
+No
+
+Relocation expenses reimbursed
+
+ No
+
+Salary
+
+ $152,377 - $223,819 per year
+
+Pay scale & grade
+
+CT 13
+
+Promotion potential
+
+14
+
+ Learn more about pay scale and grade
+
+ Pay scale and grade determines the salary of the job.
+
+Work schedule
+
+Full-time
+
+Travel Required
+
+Occasional travel - Occasional travel might be required.
+
+Appointment type
+
+Permanent
+
+Occupations and job series
+
+ 1101 General Business And Industry
+
+Supervisory status
+
+No
+
+Federal service type
+
+This job is in the Competitive Service
+
+Represented by a union
+
+Yes
+
+Drug test
+
+No
+
+Security clearance
+
+Not Required
+
+Position sensitivity and risk
+
+Moderate Risk (MR)
+
+ Jobs require a
+ background check and some require a
+ security clearance. The type depends on the job.
+
+Background check type
+
+ Suitability/Fitness
+
+Financial disclosure required
+
+No
+
+ Some jobs require
+ financial disclosure to identify conflicts of interests.
+
+Announcement number
+
+CFTC-DMO-2027-0003
+
+Control number
+
+889991400
+
+ Previous result
+
+Next result
+
+Your session is about to expire!
+
+ Your USAJOBS session will expire due to inactivity in 8 minutes.
+ Any unsaved data will be lost if you allow the session to expire.
+ Click the button below to continue your session.
+
+ Sign out
+ Stay signed in
+
+ Return to top
+
+USAJOBS is a Opens in a new windowUnited States Office of Personnel Management website.
+
+ (Opens in a new window) OPM on LinkedIn
+
+ (Opens in a new window) OPM YouTube channel
+
+ (Opens in a new window) OPM on X
+
+Opens in a new windowEEO Policy Statement
+
+Opens in a new windowReasonable Accommodation Policy Statement
+
+Veterans Information
+
+Opens in a new windowLegal and Regulatory Guidance
+
+About USAJOBS
+
+Opens in a new windowAccessibility
+
+Opens in a new windowFOIA
+
+Opens in a new windowInspector general
+
+Opens in a new windowNo Fear Act Data
+
+Opens in a new windowPrivacy policy
+
+Opens in a new windowReports and publications
+
+Opens in a new windowTerms and conditions
+
+Opens in a new windowUSA.gov

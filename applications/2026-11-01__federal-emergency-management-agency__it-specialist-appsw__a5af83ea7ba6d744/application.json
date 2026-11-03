@@ -5,21 +5,21 @@
   "posted_date": "2026-10-28",
   "close_date": "2026-11-06",
   "location": "Washington, DC",
-  "salary": "$121,785–$158,322 per year; GS-13",
-  "fit": "Strong supported enterprise software, scripting, financial workflow and technical delivery overlap; public hiring path.",
-  "gaps": "Confirm one full year at the announcement’s stated GS-13-equivalent scope; dates with exact days and hours/week are absent from baseline. Low-code Power Platform, GCP and NFIP domain experience are not documented. No production AI/agent delivery claimed; scripts are an alternative in the specialized-experience requirement.",
+  "salary": "Starting at $121,785 Per year (GS 13)",
+  "fit": "Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.",
+  "gaps": "Confirm the announcement-specific specialized experience, grade-equivalent scope and mandatory conditions against your actual work history. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them. Any own-words/no-AI essay certification must be answered personally; no such essays drafted. Possible companion hiring-route announcement(s): 65a1e28802735a77. Reconcile before submission; do not submit twice to the same vacancy.",
   "canonical_url": "https://www.usajobs.gov/job/890584000",
   "application_url": "https://www.usajobs.gov/job/890584000",
-  "posted_date_evidence": "Official USAJOBS FEMA index displays October 28–November 6; federalgovernmentjobs mirror and jobboardhq agree.",
-  "retrieved_at": "2026-11-02T01:18:48.041747+00:00",
+  "posted_date_evidence": "Official announcement JobPosting.datePosted; corroborated by native search PositionStartDate where listed.",
+  "retrieved_at": "2026-11-02T23:14:54.501767+00:00",
   "status": "eligible",
   "aliases": [],
   "discovery_window": [
-    "2026-09-01",
-    "2026-11-01"
+    "2026-09-02",
+    "2026-11-02"
   ],
-  "remote_restrictions": "Not remote; DMV duty station offered. Confirm telework policy in official job description.",
-  "open_evidence": "Refreshed official USAJOBS page reports Accepting applications; scope and prior mandatory gaps retained. Evidence: tracking/runs/2026-11-01-federal-step1-redo/refresh-web.txt and existing0/1-web.txt.",
+  "remote_restrictions": "Offered DMV work location; verify telework/attendance and screening conditions in announcement.",
+  "open_evidence": "Official announcement downloaded successfully; validThrough and native open-status evidence retained.",
   "hiring_path": "Open to the public",
   "control_number": "890584000",
   "id": "a5af83ea7ba6d744",
@@ -28,16 +28,16 @@
   "submitted": false,
   "artifacts": {
     "resume_markdown": {
-      "path": "applications/2026-11-01__federal-emergency-management-agency__it-specialist-appsw__a5af83ea7ba6d744/resume-xuewu-cai__federal-emergency-management-agency__it-specialist-appsw__890584000__v2.md",
-      "sha256": "1c9be9986034ef41f9aed0d5d601812d9a3e3895c51d46f58c8f67086198e868"
+      "path": "applications/2026-11-01__federal-emergency-management-agency__it-specialist-appsw__a5af83ea7ba6d744/resume-xuewu-cai__federal-emergency-management-agency__it-specialist-appsw__890584000.md",
+      "sha256": "154856e3ae2031003aeb6928b1441c760c797a87f564db92157d721bd539f09a"
     },
     "resume_pdf": {
-      "path": "applications/2026-11-01__federal-emergency-management-agency__it-specialist-appsw__a5af83ea7ba6d744/resume-xuewu-cai__federal-emergency-management-agency__it-specialist-appsw__890584000__v2.pdf",
-      "sha256": "396be592af7f588d34f90f2fbc77a976a5d5edfc44885fa866f5f873d7acfc42"
+      "path": "applications/2026-11-01__federal-emergency-management-agency__it-specialist-appsw__a5af83ea7ba6d744/resume-xuewu-cai__federal-emergency-management-agency__it-specialist-appsw__890584000.pdf",
+      "sha256": "72045b5929e4a34514ac5da08ecee5f105035e71aa8fbbaeffeacee76c558d23"
     }
   },
-  "resume_status": "draft_missing_required_facts",
-  "resume_review": "One selectable-text page; all pages rendered with PDFKit and visually compared with the CFTC template. No clipping, overlap or blank pages; original v1 files and hashes preserved. Draft pending required candidate facts and applicable eligibility evidence.",
+  "resume_status": "prepared_with_attention",
+  "resume_review": "Text and hashes verified; all 20 baseline experience bullets preserved with updated title. Two pages rendered in PDFKit; all 113 distinct page images visually reviewed across 10 boards (238 rendered pages total). No clipping, overlap or blank pages. Neutral metadata and no AI-editing/targeting labels. Candidate facts/qualifications marked as attention items; no submission.",
   "artifact_versions": [
     {
       "version": 1,
@@ -72,15 +72,60 @@
         "usage": "Layout and concision reference only; resume-xuewu.cai.pdf remains the factual baseline",
         "layout": "Compact one-page layout when requirements fit: short summary, grouped competencies, selected relevant bullets, employer/title with right-aligned dates, compact education/languages. Use a second page only when necessary for mandatory evidence; obey announcement limits."
       }
+    },
+    {
+      "revision_id": "2026-11-02T23:14:54.501767+00:00",
+      "artifacts": {
+        "resume_markdown": {
+          "path": "applications/2026-11-01__federal-emergency-management-agency__it-specialist-appsw__a5af83ea7ba6d744/resume-xuewu-cai__federal-emergency-management-agency__it-specialist-appsw__890584000.md",
+          "sha256": "154856e3ae2031003aeb6928b1441c760c797a87f564db92157d721bd539f09a"
+        },
+        "resume_pdf": {
+          "path": "applications/2026-11-01__federal-emergency-management-agency__it-specialist-appsw__a5af83ea7ba6d744/resume-xuewu-cai__federal-emergency-management-agency__it-specialist-appsw__890584000.pdf",
+          "sha256": "72045b5929e4a34514ac5da08ecee5f105035e71aa8fbbaeffeacee76c558d23"
+        }
+      },
+      "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a"
     }
   ],
-  "resume_version": 2,
-  "format_reference": {
-    "path": "Xuewu-Cai-Resume-CFTC-Systems-Risk-Analyst-889991400.pdf",
-    "sha256": "f8578722dc05958941002529af5e850ca68da321fd7b69544f705b8826c7484d",
-    "source": "User instruction on 2026-11-01: redo Step 1 using this more concise resume format",
-    "usage": "Layout and concision reference only; resume-xuewu.cai.pdf remains the factual baseline",
-    "layout": "Compact one-page layout when requirements fit: short summary, grouped competencies, selected relevant bullets, employer/title with right-aligned dates, compact education/languages. Use a second page only when necessary for mandatory evidence; obey announcement limits."
-  },
-  "last_step1_refresh": "2026-11-01-federal-step1-redo"
+  "last_step1_refresh": "2026-11-01-federal-step1-redo",
+  "created_at": "2026-11-02T00:53:12.655377+00:00",
+  "updated_at": "2026-11-02T01:19:53.027692+00:00",
+  "application_directory": "applications/2026-11-01__federal-emergency-management-agency__it-specialist-appsw__a5af83ea7ba6d744",
+  "deadline_timezone": "America/New_York",
+  "deadline_time": "23:59",
+  "deadline_source": "https://www.usajobs.gov/job/890584000",
+  "deadline_verified": true,
+  "early_closure_conditions": [
+    "This job will close when we have received 110 applications which may be sooner than the closing date. Learn more"
+  ],
+  "rolling_cutoff": null,
+  "requirements_confirmed_unmet": [],
+  "requirements_unverified": [
+    "Confirm the announcement-specific specialized experience, grade-equivalent scope and mandatory conditions against your actual work history.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.",
+    "Any own-words/no-AI essay certification must be answered personally; no such essays drafted.",
+    "Possible companion hiring-route announcement(s): 65a1e28802735a77. Reconcile before submission; do not submit twice to the same vacancy."
+  ],
+  "preferred_requirements_note": "See official qualifications/education sections; missing evidence does not establish an unmet requirement.",
+  "hiring_paths": [
+    "Open to the public",
+    "Career transition (CTAP, ICTAP, RPL)"
+  ],
+  "required_answers_pending": [
+    "Confirm the announcement-specific specialized experience, grade-equivalent scope and mandatory conditions against your actual work history.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.",
+    "Any own-words/no-AI essay certification must be answered personally; no such essays drafted.",
+    "Possible companion hiring-route announcement(s): 65a1e28802735a77. Reconcile before submission; do not submit twice to the same vacancy."
+  ],
+  "confirmed_unmet_requirements": [],
+  "qualifications_verified": false,
+  "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a",
+  "resume_format": "restored_two_page",
+  "current_resume_naming": "unversioned",
+  "possible_companion_job_ids": [
+    "65a1e28802735a77"
+  ],
+  "clearance_requirement": "Not Required",
+  "public_hiring_route_evidence": true
 }

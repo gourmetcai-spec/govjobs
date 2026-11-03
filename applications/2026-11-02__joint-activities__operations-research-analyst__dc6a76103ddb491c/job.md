@@ -1,0 +1,821 @@
+# OPERATIONS RESEARCH ANALYST
+
+{
+  "title": "OPERATIONS RESEARCH ANALYST",
+  "requisition_id": "DAKB-26-13095261-CES",
+  "canonical_url": "https://www.usajobs.gov/job/889978900",
+  "application_url": "https://www.usajobs.gov/job/889978900",
+  "posted_date": "2026-10-27",
+  "posted_date_evidence": "Official announcement JobPosting.datePosted; corroborated by native search PositionStartDate where listed.",
+  "close_date": "2026-11-10",
+  "deadline_timezone": "America/New_York",
+  "deadline_time": "23:59",
+  "deadline_source": "https://www.usajobs.gov/job/889978900",
+  "deadline_verified": true,
+  "early_closure_conditions": [],
+  "rolling_cutoff": null,
+  "location": "Fort Meade, MD",
+  "remote_restrictions": "Offered DMV work location; verify telework/attendance and screening conditions in announcement.",
+  "salary": "Starting at $121,785 Per year (GG 13)",
+  "retrieved_at": "2026-11-02T23:14:54.501767+00:00",
+  "control_number": "889978900",
+  "fit": "Mathematics/CS education, Monte Carlo/statistical research, forecasting and decision-support modeling overlap; specialized domain/AI requirements need confirmation.",
+  "gaps": "Verify OMB/federal budget procedures against the exact qualification clause; not established by the baseline alone. Verify qualifying coursework and calculus credits against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.",
+  "requirements_confirmed_unmet": [],
+  "requirements_unverified": [
+    "Verify OMB/federal budget procedures against the exact qualification clause; not established by the baseline alone.",
+    "Verify qualifying coursework and calculus credits against the exact qualification clause; not established by the baseline alone.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "preferred_requirements_note": "See official qualifications/education sections; missing evidence does not establish an unmet requirement.",
+  "hiring_paths": [
+    "Open to the public"
+  ],
+  "open_evidence": "Official announcement downloaded successfully; validThrough and native open-status evidence retained.",
+  "discovery_window": [
+    "2026-09-02",
+    "2026-11-02"
+  ]
+}
+
+## Summary
+
+About the Position: This position is a DOD Cyber Excepted Service (CES) personnel system position in the Excepted Service under 10 USC 1599f. Employees occupying CES positions are in the Excepted Service and must adhere to U.S. Code, Title 10, as well as Department of Defense Instruction 1400.25. This position is located at the U.S. Cyber Command J5 at Fort Meade, Maryland.
+
+## Duties
+
+
+
+## Qualifications
+
+CYBER EXCEPTED SERVICE POSITIONS ARE NOT SUBJECT TO THE TWO-PAGE RESUME LIMIT. YOUR FULL RESUME WILL NEED TO BE UPLOADED TO YOUR USAJOBS PROFILE USING THE DOCUMENT TYPE "OTHER DOCUMENTS".
+Who May Apply:
+Only applicants who meet one of the employment authority categories below are eligible to apply for this job. You will be asked to identify which category or categories you meet, and to provide documents which prove you meet the category or categories you selected. See Proof of Eligibility for an extensive list of document requirements for all employment authorities.
+This position is in the Professional Work Category at the Senior Work Level within the CES Occupational Structure.
+Army CES positions apply Veteran's Preference to preference eligible candidates, as defined by Section 2108 of Title 5 U.S.C., in accordance with the procedures provided in DoD Instruction 1400.25, Volume 3005, "CES Employment and Placement". If you are a veteran claiming veterans' preference, as defined by Section 2108 of Title 5 U.S.C., you must submit documents verifying your eligibility with your application package.
+In order to qualify, you must meet the education and experience requirements described below. Experience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., Peace Corps, AmeriCorps) and other organizations (e.g., professional; philanthropic; religious; spiritual; community; student; social). You will receive credit for all qualifying experience, including volunteer experience. Your resume must clearly describe your relevant experience; if qualifying based on education, your transcripts will be required as part of your application. Additional information about transcripts is in this document.
+Applicants must have directly applicable experience that demonstrates the possession of knowledge, skills, abilities, and competencies necessary for immediate success in the position. Qualifying experience may have been acquired in any public or private sector job, but will clearly demonstrate past experience in the application of the particular competencies or knowledge, skills, and abilities necessary to successfully perform the duties of the position. Such experience is typically in or directly related to the work of the position to be filled. Qualifying experience would be demonstrated by applying operations research principles, quantitative analysis, or structured analytical methodologies to evaluate emerging technologies or operational capabilities; developing operational concepts, capability requirements, or Concepts of Operations (CONOPS) to address strategic or technological challenges; and tracking technical milestones, project schedules, or capability transition plans in collaboration with research laboratories, academic institutions, or external developers.
+AND Meet Basic Education Requirement:
+Degree: in operations research; or at least 24 semester hours in a combination of operations research, mathematics, probability, statistics, mathematical logic, science, or subject-matter courses requiring substantial competence in college-level mathematics or statistics. At least 3 of the 24 semester hours must have been in calculus.
+
+## Education
+
+FOREIGN EDUCATION: If you are using education completed in foreign colleges or universities to meet the qualification requirements, you must show the education credentials have been evaluated by a private organization that specializes in interpretation of foreign education programs and such education has been deemed equivalent to that gained in an accredited U.S. education program; or full credit has been given for the courses at a U.S. accredited college or university. For further information, visit: https://sites.ed.gov/international/recognition-of-foreign-qualifications.
+
+## Full rendered official announcement
+
+USAJOBS - Job Announcement
+
+ Skip to main content
+
+ An official website of the United States government
+
+Official websites use .gov
+
+A .gov website belongs to an official government organization in the United States.
+
+Secure .gov websites use HTTPS
+ A lock ( LockA locked padlock ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.
+
+ MENU
+
+ Sign in
+
+ My jobs
+
+ Profile
+
+ Resumes & documents
+
+ Notifications
+
+ Talent networks
+
+ Sign out
+
+ My jobs
+
+ Profile
+
+ Resumes & documents
+
+ Notifications
+
+ Talent networks
+
+ Sign out
+
+ Events
+
+ Help Center
+
+ Search
+
+ Back to results
+
+ Apply
+
+ OPERATIONS RESEARCH ANALYST
+
+Department of the Army
+
+Joint Activities
+
+U.S. Cyber Command - J5
+
+Apply
+
+ Print
+
+ Share
+
+ Save
+
+ Summary
+
+ This job is open to
+
+ Duties
+
+ Requirements
+
+ How you will be evaluated
+
+ Required documents
+
+ How to apply
+
+Summary
+
+About the Position: This position is a DOD Cyber Excepted Service (CES) personnel system position in the Excepted Service under 10 USC 1599f. Employees occupying CES positions are in the Excepted Service and must adhere to U.S. Code, Title 10, as well as Department of Defense Instruction 1400.25. This position is located at the U.S. Cyber Command J5 at Fort Meade, Maryland.
+
+ Learn more about this agency
+
+Summary
+
+About the Position: This position is a DOD Cyber Excepted Service (CES) personnel system position in the Excepted Service under 10 USC 1599f. Employees occupying CES positions are in the Excepted Service and must adhere to U.S. Code, Title 10, as well as Department of Defense Instruction 1400.25. This position is located at the U.S. Cyber Command J5 at Fort Meade, Maryland.
+
+ Learn more about this agency
+
+Overview
+
+ Help
+
+Accepting applications
+
+Location
+
+2 vacancies in the following location:
+
+ Fort Meade, MD
+
+ No matching locations found.
+
+Work site options
+
+Telework eligible
+
+No
+
+Remote job
+
+No
+
+Relocation expenses reimbursed
+
+ Yes—You may qualify for reimbursement of relocation expenses in accordance with agency policy.
+
+Salary
+
+ $121,785 - $166,440 per year
+
+Pay scale & grade
+
+GG 13
+
+Promotion potential
+
+None
+
+ Learn more about pay scale and grade
+
+ Pay scale and grade determines the salary of the job.
+
+Work schedule
+
+Full-time
+
+Travel Required
+
+Occasional travel - You may be expected to travel for this position up to 10% of the time.
+
+Appointment type
+
+Term - 4 Years
+
+Occupations and job series
+
+ 1515 Operations Research
+
+Supervisory status
+
+No
+
+Federal service type
+
+This job is in the Excepted Service
+
+Represented by a union
+
+No
+
+Drug test
+
+Yes
+
+Security clearance
+
+Top Secret
+
+Position sensitivity and risk
+
+Special-Sensitive (SS)/High Risk
+
+ Jobs require a
+ background check and some require a
+ security clearance. The type depends on the job.
+
+Background check type
+
+ National security
+
+Financial disclosure required
+
+No
+
+ Some jobs require
+ financial disclosure to identify conflicts of interests.
+
+Announcement number
+
+DAKB-26-13095261-CES
+
+Control number
+
+889978900
+
+This job is open to
+
+ Help
+
+The public
+
+ U.S. Citizens, Nationals or those who owe allegiance to the U.S.
+
+Clarification from the agency
+
+See "Who May Apply" in the "Qualifications" section for more information on who is eligible to apply for this position.
+
+Duties
+
+ Help
+
+Analyzes and forecasts advanced technologies to identify strategic opportunities and vulnerabilities for cyberspace operations.
+
+Authors long-range capability forecasts, threat assessments, and technological roadmaps for USCYBERCOM and homeland defense.
+
+Collaborates with internal directorates to translate technology forecasts into concrete capability development and acquisition plans.
+
+Manages technology development budgets, oversees complex research portfolios, and drafts detailed Statements of Work.
+
+Serves as the technical point of contact on contracts and agreements, monitoring external developers to ensure successful technology transition.
+
+Partners with the J9 Directorate to transition mature technology concepts into formal acquisition pipelines and fielded systems.
+
+Requirements
+
+ Help
+
+Conditions of employment
+
+Appointment may be subject to a suitability or fitness determination, as determined by a completed background investigation.
+
+Three year trial/probationary period may be required.
+
+This is a DoD Cyber Excepted Service (CES) personnel system position in the Excepted Service under 10 USC 1599f. Appointment to this position does not confer competitive status.
+
+The employee must be able to obtain and maintain a TOP SECRET SCI clearance as a condition of employment and must complete a counterintelligence scope polygraph exam.
+
+The incumbent must meet NSA personnel security requirements outlined in NSA/CSS Policy5-1.
+
+This is a Drug Testing Designated Position. This position is covered by the Alcohol and Drug Abuse Prevention and Control Program.
+
+Work may occasionally require travel away from the normal duty station up to 10% of the time and travel may be on military and/or commercial aircraft.
+
+Employee may be recalled to duty, required to work other than normal duty hours, which may include evenings, weekends, and/or holidays, and may be required to work overtime. Call back and emergency duty are regular requirements of this position.
+
+Qualifications
+
+CYBER EXCEPTED SERVICE POSITIONS ARE NOT SUBJECT TO THE TWO-PAGE RESUME LIMIT. YOUR FULL RESUME WILL NEED TO BE UPLOADED TO YOUR USAJOBS PROFILE USING THE DOCUMENT TYPE "OTHER DOCUMENTS".
+
+Who May Apply:
+
+Only applicants who meet one of the employment authority categories below are eligible to apply for this job. You will be asked to identify which category or categories you meet, and to provide documents which prove you meet the category or categories you selected. See Proof of Eligibility for an extensive list of document requirements for all employment authorities.
+
+This position is in the Professional Work Category at the Senior Work Level within the CES Occupational Structure.
+
+Army CES positions apply Veteran's Preference to preference eligible candidates, as defined by Section 2108 of Title 5 U.S.C., in accordance with the procedures provided in DoD Instruction 1400.25, Volume 3005, "CES Employment and Placement". If you are a veteran claiming veterans' preference, as defined by Section 2108 of Title 5 U.S.C., you must submit documents verifying your eligibility with your application package.
+
+In order to qualify, you must meet the education and experience requirements described below. Experience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., Peace Corps, AmeriCorps) and other organizations (e.g., professional; philanthropic; religious; spiritual; community; student; social). You will receive credit for all qualifying experience, including volunteer experience. Your resume must clearly describe your relevant experience; if qualifying based on education, your transcripts will be required as part of your application. Additional information about transcripts is in this document.
+
+Applicants must have directly applicable experience that demonstrates the possession of knowledge, skills, abilities, and competencies necessary for immediate success in the position. Qualifying experience may have been acquired in any public or private sector job, but will clearly demonstrate past experience in the application of the particular competencies or knowledge, skills, and abilities necessary to successfully perform the duties of the position. Such experience is typically in or directly related to the work of the position to be filled. Qualifying experience would be demonstrated by applying operations research principles, quantitative analysis, or structured analytical methodologies to evaluate emerging technologies or operational capabilities; developing operational concepts, capability requirements, or Concepts of Operations (CONOPS) to address strategic or technological challenges; and tracking technical milestones, project schedules, or capability transition plans in collaboration with research laboratories, academic institutions, or external developers.
+
+AND Meet Basic Education Requirement:
+
+Degree: in operations research; or at least 24 semester hours in a combination of operations research, mathematics, probability, statistics, mathematical logic, science, or subject-matter courses requiring substantial competence in college-level mathematics or statistics. At least 3 of the 24 semester hours must have been in calculus.
+
+Education
+
+ FOREIGN EDUCATION: If you are using education completed in foreign colleges or universities to meet the qualification requirements, you must show the education credentials have been evaluated by a private organization that specializes in interpretation of foreign education programs and such education has been deemed equivalent to that gained in an accredited U.S. education program; or full credit has been given for the courses at a U.S. accredited college or university. For further information, visit: https://sites.ed.gov/international/recognition-of-foreign-qualifications.
+
+Additional information
+
+If you are a current federal career/career-conditional employee, you will be placed on an excepted appointment.
+
+This is an Analysis, Modeling, and Simulation (M&S) Career Program position aligned under the Construction, Analysis, Science, Infrastructure & Engineers (CASIE) Career Management Directorate.
+
+Male applicants born after December 31, 1959, must complete a Pre-Employment Certification Statement for Selective Service Registration.
+
+You will be required to provide proof of U.S. Citizenship.
+
+???????This position requires a 3 year probationary period during which the agency evaluates your fitness and whether your continued employment advances the public interest. In making this determination, the agency may consider your performance and conduct; agency needs and interests; whether your continued employment supports organizational or Government goals; and whether it promotes the efficiency of the Federal service. Continued employment requires written certification that it advances the public interest.
+
+Direct Deposit of Pay is required.
+
+Must be able to obtain and maintain a Top Secret security clearance.
+
+Selection is subject to restrictions resulting from Department of Defense referral system for displaced employees.
+
+If you have retired from federal service and you are interested in employment as a reemployed annuitant, see the information in the Reemployed Annuitant information sheet.
+
+This is a(n) Analysis, Modeling, and Simulation (M&S) Career Program position.
+
+Multiple positions may be filled from this announcement.
+
+Salary includes applicable locality pay or Local Market Supplement.
+
+When you perform a Civilian Permanent Change of Station (PCS) with the government, the Internal Revenue Service (IRS) considers the majority of your entitlements to be taxable. Visit https://www.dfas.mil/civilianemployees/civrelo/Civilian-Moving-Expenses-Tax-Deduction/ for more information.
+
+Permanent Change of Station (PCS) allowances may be authorized, subject to the provisions of the Joint Travel Regulations and an agency determination that a PCS move is in the Government Interest.
+
+Recruitment, Retention, and/or Relocation incentives may be authorized if it is determined to be in the best interest of the Government.
+
+Advanced leave Accrual, Advance In-Hire may be authorized.
+
+TERM: This announcement is for a Cyber Term position. Permanent employees who apply, are selected for, and ultimately accept this position will be converted to a Cyber Term appointment. Term positions in CES may be extended up to a maximum of five years. This position may be converted to permanent without further competition after completion of three years of continuous service in this position.
+
+Term employment is subject to a one year trial period. Employees serving a trial period can be removed with limited appeal rights.
+
+ Expand Hide  additional information
+
+Candidates should be committed to improving the efficiency of the Federal government, passionate about the ideals of our American republic, and committed to upholding the rule of law and the United States Constitution.
+
+Benefits
+
+ Help
+
+ A career with the U.S. government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding. Opens in a new windowLearn more about federal benefits.
+
+ Review our benefits
+
+Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time or intermittent. Contact the hiring agency for more information on the specific benefits offered.
+
+How you will be evaluated
+
+You will be evaluated for this job based on how well you meet the qualifications above.
+
+ Once the announcement has closed, a review of your application package (resume, supporting documents, and responses to the questionnaire) will be used to determine whether you meet the qualification requirements listed on this announcement. Please follow all instructions carefully when applying, errors or omissions may affect your eligibility.
+
+If, after reviewing your resume and/or supporting documentation, a determination is made that you have inflated your qualifications and/or experience, you may lose consideration for this position.
+
+Benefits
+
+ Help
+
+ A career with the U.S. government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding. Opens in a new windowLearn more about federal benefits.
+
+ Review our benefits
+
+Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time or intermittent. Contact the hiring agency for more information on the specific benefits offered.
+
+Required documents
+
+Required Documents
+
+ Help
+
+ WARNING: DO NOT INCLUDE CLASSIFIED INFORMATION IN YOUR APPLICATION PACKET! Application packages that contain Classified information WILL NOT receive consideration for this position. Should you submit a resume or any other document as part of your application package and it is confirmed that any of the information is Classified, in addition to being found ineligible for consideration for this position, your Security Office will be notified to determine if any further action is warranted.
+
+The documents you are required to submit vary based on the authority you are using to apply (i.e., applying as a veteran, applying as a current permanent Federal employee, applying as a reinstatement, etc). Please review the following links to see which documents you need to provide to prove your eligibility to apply: Applicant Checklist for Internal/Merit Promotion Announcements.
+
+As described above, your complete application includes your resume, your responses to the online questionnaire, and documents which prove your eligibility to apply. If you fail to provide these documents, you will be marked as having an incomplete application package and you will not be considered any further.
+
+1. Your resume:
+
+Cyber Excepted Service positions are not subject to the two-page resume limit. Your full resume will need to be uploaded to your USAJOBS profile using the document type 'Other Documents'.
+
+Your resume may be submitted in any format and must support the specialized experience described in this announcement.
+
+For each relevant work experience, make sure you include the employer's name, job title, start and end dates (include month and year), for qualifications purposes, the number of hours worked per week, and a brief description that show you can perform the tasks at the required level listed in the job announcement. If your resume does not contain this information, your application may be marked as incomplete, and you may not receive consideration for this position.
+
+Use plain language. Avoid using acronyms and terms that are not easily understood. The hiring agency will not make assumptions about what's in your resume.
+
+If your resume includes a photograph or other inappropriate material or content, it will not be used to make eligibility and qualification determinations, and you may not be considered for this vacancy.
+
+For additional information, to include formatting tips, see: What to include in your resume.
+
+2. Other supporting documents:
+
+Cover Letter, optional
+
+Most recent Performance Appraisal, if applicable
+
+Proof of Eligibility to Apply: Your application must include the documents which prove you are eligible to apply for the vacancy. The Proof of Eligibility document describes authorities commonly used in merit promotion recruitment and what document(s) are required to prove you meet the requirements of the authority. You must meet the requirements of at least one of the authorities listed in the Who May Apply section above to receive further consideration.
+
+This position has an individual occupational requirement and/or allows for substitution of education for experience. If you meet this requirement based on education you MUST submit a copy of your transcript with your application package or you will be rated ineligible. See: Transcripts and Licenses
+
+NOTE: Documents submitted as part of the application package, to include supplemental documents, may be shared beyond the Human Resources Office. Some supplemental documents such as military orders and marriage certificates may contain personal information for someone other than you. You may sanitize these documents to remove another person's personal information before you submit your application. You may be asked to provide an un-sanitized version of the documents if you are selected to confirm your eligibility.
+
+ If you are relying on your education to meet qualification requirements:
+
+ Education must be accredited by an accrediting institution recognized by the U.S. Department of Education in order for it to be credited towards qualifications. Therefore, provide only the attendance and/or degrees from
+ schools accredited by accrediting institutions recognized by the U.S. Department of Education.
+
+ Failure to provide all of the required information as stated in this vacancy announcement may result in an ineligible rating or may affect the overall rating.
+
+How to Apply
+
+ Help
+
+To apply for this position, you must complete the online questionnaire and submit the documentation specified in the Required Documents section above.
+
+The complete application package must be submitted by 11:59 PM (EST) on 11/10/2026 to receive consideration.
+
+To begin, click Apply to access the online application. You will need to be logged into your USAJOBS account to apply. If you do not have a USAJOBS account, you will need to create one before beginning the application (https://apply.usastaffing.gov/ViewQuestionnaire/13095261).
+
+Follow the prompts to select your resume and/or other supporting documents to be included with your application package. For additional information, refer to the 'Required Documents' section.
+
+You will have the opportunity to upload additional documents to include in your application before it is submitted. Your uploaded documents may take several hours to clear the virus scan process.
+
+After acknowledging you have reviewed your application package, complete the Include Personal Information section as you deem appropriate and click to continue with the application process.
+
+You will be taken to the online application which you must complete in order to apply for the position. Complete the online application, verify the required documentation is included with your application package, and submit the application. Your resume selected in USAJOBS will be included, but you must re-select other documents from your USAJOBS account or your application may be incomplete.
+
+It is your responsibility to verify that your application package (resume, supporting documents, and responses to the questionnaire) is complete, accurate, and submitted by the closing date. Uploaded documents may take up to one hour to clear the virus scan.
+
+Additional information on how to complete the online application process and submit your online application may be found on the USA Staffing Applicant Resource Center.
+
+To verify the status of your application, log into your USAJOBS account (https://www.usajobs.gov/applicant/profile/dashboard/), all of your applications will appear on the Welcome screen. The Application Status will appear along with the date your application was last updated. For information on what each Application Status means, visit: https://help.usajobs.gov/how-to/application/status.
+
+Agency contact information
+
+ Army Applicant Help Desk
+
+Website
+
+ https://portal.chra.army.mil/hr_public?id=app_inq
+
+Address
+
+ KB-W6HWAA US CYBER COMMAND
+
+ DO NOT MAIL
+
+ Fort Meade, MD 20755
+
+ US
+
+Next steps
+
+If you provided an email address, you will receive an email message acknowledging receipt of your application. Your application package will be used to determine your eligibility, qualifications, and quality ranking for this position. If you are determined to be ineligible or not qualified, your application will receive no further consideration.
+
+Fair and transparent
+
+The Federal hiring process is set up to be fair and transparent. Please read the following guidance.
+
+ Criminal history inquiries
+
+ Equal Employment Opportunity (EEO) Policy
+
+ Financial suitability
+
+ New employee probationary period
+
+ Privacy Act
+
+ Reasonable accommodation policy
+
+ Selective Service
+
+ Signature and false statements
+
+ Social security number request
+
+Required Documents
+
+ Help
+
+ WARNING: DO NOT INCLUDE CLASSIFIED INFORMATION IN YOUR APPLICATION PACKET! Application packages that contain Classified information WILL NOT receive consideration for this position. Should you submit a resume or any other document as part of your application package and it is confirmed that any of the information is Classified, in addition to being found ineligible for consideration for this position, your Security Office will be notified to determine if any further action is warranted.
+
+The documents you are required to submit vary based on the authority you are using to apply (i.e., applying as a veteran, applying as a current permanent Federal employee, applying as a reinstatement, etc). Please review the following links to see which documents you need to provide to prove your eligibility to apply: Applicant Checklist for Internal/Merit Promotion Announcements.
+
+As described above, your complete application includes your resume, your responses to the online questionnaire, and documents which prove your eligibility to apply. If you fail to provide these documents, you will be marked as having an incomplete application package and you will not be considered any further.
+
+1. Your resume:
+
+Cyber Excepted Service positions are not subject to the two-page resume limit. Your full resume will need to be uploaded to your USAJOBS profile using the document type 'Other Documents'.
+
+Your resume may be submitted in any format and must support the specialized experience described in this announcement.
+
+For each relevant work experience, make sure you include the employer's name, job title, start and end dates (include month and year), for qualifications purposes, the number of hours worked per week, and a brief description that show you can perform the tasks at the required level listed in the job announcement. If your resume does not contain this information, your application may be marked as incomplete, and you may not receive consideration for this position.
+
+Use plain language. Avoid using acronyms and terms that are not easily understood. The hiring agency will not make assumptions about what's in your resume.
+
+If your resume includes a photograph or other inappropriate material or content, it will not be used to make eligibility and qualification determinations, and you may not be considered for this vacancy.
+
+For additional information, to include formatting tips, see: What to include in your resume.
+
+2. Other supporting documents:
+
+Cover Letter, optional
+
+Most recent Performance Appraisal, if applicable
+
+Proof of Eligibility to Apply: Your application must include the documents which prove you are eligible to apply for the vacancy. The Proof of Eligibility document describes authorities commonly used in merit promotion recruitment and what document(s) are required to prove you meet the requirements of the authority. You must meet the requirements of at least one of the authorities listed in the Who May Apply section above to receive further consideration.
+
+This position has an individual occupational requirement and/or allows for substitution of education for experience. If you meet this requirement based on education you MUST submit a copy of your transcript with your application package or you will be rated ineligible. See: Transcripts and Licenses
+
+NOTE: Documents submitted as part of the application package, to include supplemental documents, may be shared beyond the Human Resources Office. Some supplemental documents such as military orders and marriage certificates may contain personal information for someone other than you. You may sanitize these documents to remove another person's personal information before you submit your application. You may be asked to provide an un-sanitized version of the documents if you are selected to confirm your eligibility.
+
+ If you are relying on your education to meet qualification requirements:
+
+ Education must be accredited by an accrediting institution recognized by the U.S. Department of Education in order for it to be credited towards qualifications. Therefore, provide only the attendance and/or degrees from
+ schools accredited by accrediting institutions recognized by the U.S. Department of Education.
+
+ Failure to provide all of the required information as stated in this vacancy announcement may result in an ineligible rating or may affect the overall rating.
+
+How to Apply
+
+ Help
+
+To apply for this position, you must complete the online questionnaire and submit the documentation specified in the Required Documents section above.
+
+The complete application package must be submitted by 11:59 PM (EST) on 11/10/2026 to receive consideration.
+
+To begin, click Apply to access the online application. You will need to be logged into your USAJOBS account to apply. If you do not have a USAJOBS account, you will need to create one before beginning the application (https://apply.usastaffing.gov/ViewQuestionnaire/13095261).
+
+Follow the prompts to select your resume and/or other supporting documents to be included with your application package. For additional information, refer to the 'Required Documents' section.
+
+You will have the opportunity to upload additional documents to include in your application before it is submitted. Your uploaded documents may take several hours to clear the virus scan process.
+
+After acknowledging you have reviewed your application package, complete the Include Personal Information section as you deem appropriate and click to continue with the application process.
+
+You will be taken to the online application which you must complete in order to apply for the position. Complete the online application, verify the required documentation is included with your application package, and submit the application. Your resume selected in USAJOBS will be included, but you must re-select other documents from your USAJOBS account or your application may be incomplete.
+
+It is your responsibility to verify that your application package (resume, supporting documents, and responses to the questionnaire) is complete, accurate, and submitted by the closing date. Uploaded documents may take up to one hour to clear the virus scan.
+
+Additional information on how to complete the online application process and submit your online application may be found on the USA Staffing Applicant Resource Center.
+
+To verify the status of your application, log into your USAJOBS account (https://www.usajobs.gov/applicant/profile/dashboard/), all of your applications will appear on the Welcome screen. The Application Status will appear along with the date your application was last updated. For information on what each Application Status means, visit: https://help.usajobs.gov/how-to/application/status.
+
+ Expand Hide  how to apply
+
+Agency contact information
+
+ Army Applicant Help Desk
+
+Website
+
+ https://portal.chra.army.mil/hr_public?id=app_inq
+
+Address
+
+ KB-W6HWAA US CYBER COMMAND
+
+ DO NOT MAIL
+
+ Fort Meade, MD 20755
+
+ US
+
+Next steps
+
+If you provided an email address, you will receive an email message acknowledging receipt of your application. Your application package will be used to determine your eligibility, qualifications, and quality ranking for this position. If you are determined to be ineligible or not qualified, your application will receive no further consideration.
+
+ Expand Hide  next steps
+
+Fair and transparent
+
+The Federal hiring process is set up to be fair and transparent. Please read the following guidance.
+
+ Criminal history inquiries
+
+ Equal Employment Opportunity (EEO) Policy
+
+ Financial suitability
+
+ New employee probationary period
+
+ Privacy Act
+
+ Reasonable accommodation policy
+
+ Selective Service
+
+ Signature and false statements
+
+ Social security number request
+
+ Joint Activities
+
+ Civilian employees serve a vital role in supporting the Army mission. They provide the skills that are not readily available in the military, but crucial to support military operations. The Army integrates the talents and skills of its military and civilian members to form a Total Army.
+
+Agency contact information
+
+ Army Applicant Help Desk
+
+Website
+
+ https://portal.chra.army.mil/hr_public?id=app_inq
+
+Address
+
+ KB-W6HWAA US CYBER COMMAND
+
+ DO NOT MAIL
+
+ Fort Meade, MD 20755
+
+ US
+
+Summary
+
+About the Position: This position is a DOD Cyber Excepted Service (CES) personnel system position in the Excepted Service under 10 USC 1599f. Employees occupying CES positions are in the Excepted Service and must adhere to U.S. Code, Title 10, as well as Department of Defense Instruction 1400.25. This position is located at the U.S. Cyber Command J5 at Fort Meade, Maryland.
+
+ Learn more about this agency
+
+Overview
+
+ Help
+
+Accepting applications
+
+Location
+
+2 vacancies in the following location:
+
+ Fort Meade, MD
+
+ No matching locations found.
+
+Work site options
+
+Telework eligible
+
+No
+
+Remote job
+
+No
+
+Relocation expenses reimbursed
+
+ Yes—You may qualify for reimbursement of relocation expenses in accordance with agency policy.
+
+Salary
+
+ $121,785 - $166,440 per year
+
+Pay scale & grade
+
+GG 13
+
+Promotion potential
+
+None
+
+ Learn more about pay scale and grade
+
+ Pay scale and grade determines the salary of the job.
+
+Work schedule
+
+Full-time
+
+Travel Required
+
+Occasional travel - You may be expected to travel for this position up to 10% of the time.
+
+Appointment type
+
+Term - 4 Years
+
+Occupations and job series
+
+ 1515 Operations Research
+
+Supervisory status
+
+No
+
+Federal service type
+
+This job is in the Excepted Service
+
+Represented by a union
+
+No
+
+Drug test
+
+Yes
+
+Security clearance
+
+Top Secret
+
+Position sensitivity and risk
+
+Special-Sensitive (SS)/High Risk
+
+ Jobs require a
+ background check and some require a
+ security clearance. The type depends on the job.
+
+Background check type
+
+ National security
+
+Financial disclosure required
+
+No
+
+ Some jobs require
+ financial disclosure to identify conflicts of interests.
+
+Announcement number
+
+DAKB-26-13095261-CES
+
+Control number
+
+889978900
+
+ Previous result
+
+Next result
+
+Your session is about to expire!
+
+ Your USAJOBS session will expire due to inactivity in 8 minutes.
+ Any unsaved data will be lost if you allow the session to expire.
+ Click the button below to continue your session.
+
+ Sign out
+ Stay signed in
+
+ Return to top
+
+USAJOBS is a Opens in a new windowUnited States Office of Personnel Management website.
+
+ (Opens in a new window) OPM on LinkedIn
+
+ (Opens in a new window) OPM YouTube channel
+
+ (Opens in a new window) OPM on X
+
+Opens in a new windowEEO Policy Statement
+
+Opens in a new windowReasonable Accommodation Policy Statement
+
+Veterans Information
+
+Opens in a new windowLegal and Regulatory Guidance
+
+About USAJOBS
+
+Opens in a new windowAccessibility
+
+Opens in a new windowFOIA
+
+Opens in a new windowInspector general
+
+Opens in a new windowNo Fear Act Data
+
+Opens in a new windowPrivacy policy
+
+Opens in a new windowReports and publications
+
+Opens in a new windowTerms and conditions
+
+Opens in a new windowUSA.gov

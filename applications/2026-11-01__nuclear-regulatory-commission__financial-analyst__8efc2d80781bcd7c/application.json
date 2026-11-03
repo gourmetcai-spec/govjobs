@@ -2,32 +2,90 @@
   "employer": "Nuclear Regulatory Commission",
   "title": "Financial Analyst",
   "requisition_id": "IMP-13095310-27-EM",
-  "posted_date": null,
-  "close_date": null,
+  "posted_date": "2026-10-23",
+  "close_date": "2026-11-04",
   "location": "Rockville, MD",
-  "salary": "$70,623–$158,322 per year; GG-9–13",
-  "fit": "IT investment and financial analytics adjacency.",
-  "gaps": "Restricted to current permanent or competitive-term NRC employees only. Baseline employment is Freddie Mac, not NRC; no qualifying NRC status evidenced.",
+  "salary": "Starting at $70,623 Per year (GG 9-13)",
+  "fit": "Financial forecasting, capital/ROE, quantitative risk and engineering leadership overlap; federal budget/accounting/policy specialties remain attention items.",
+  "gaps": "Hiring-path eligibility unverified: Internal to an agency. Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Verify Federal capital planning/CPIC experience against the exact qualification clause; not established by the baseline alone. Verify OMB/federal budget procedures against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.",
   "canonical_url": "https://www.usajobs.gov/job/889960700",
   "application_url": "https://www.usajobs.gov/job/889960700",
-  "posted_date_evidence": "Official announcement accepting applications; dates not verified because hiring path already excludes this candidate on available evidence.",
-  "retrieved_at": "2026-11-02T01:18:48.041747+00:00",
-  "status": "skipped",
+  "posted_date_evidence": "Official announcement JobPosting.datePosted; corroborated by native search PositionStartDate where listed.",
+  "retrieved_at": "2026-11-02T23:14:54.501767+00:00",
+  "status": "needs_verification",
   "aliases": [],
   "discovery_window": [
-    "2026-09-01",
-    "2026-11-01"
+    "2026-09-02",
+    "2026-11-02"
   ],
-  "remote_restrictions": "Not remote; DMV duty station offered. Confirm telework policy in official job description.",
-  "open_evidence": "Refreshed official USAJOBS page reports Accepting applications; scope and prior mandatory gaps retained. Evidence: tracking/runs/2026-11-01-federal-step1-redo/refresh-web.txt and existing0/1-web.txt.",
+  "remote_restrictions": "Offered DMV work location; verify telework/attendance and screening conditions in announcement.",
+  "open_evidence": "Official announcement downloaded successfully; validThrough and native open-status evidence retained.",
   "hiring_path": "Restricted agency hiring path",
   "control_number": "889960700",
   "id": "8efc2d80781bcd7c",
   "step": 1,
   "selected": false,
   "submitted": false,
-  "artifacts": {},
-  "resume_status": "not_generated_verification_required",
-  "resume_review": "Not generated; unresolved mandatory requirements.",
-  "last_step1_refresh": "2026-11-01-federal-step1-redo"
+  "artifacts": {
+    "resume_markdown": {
+      "path": "applications/2026-11-01__nuclear-regulatory-commission__financial-analyst__8efc2d80781bcd7c/resume-xuewu-cai__nuclear-regulatory-commission__financial-analyst__889960700.md",
+      "sha256": "0afc3723795fb14af47b370472673a5a3ac481e825db743de3fcc68aa613bdea"
+    },
+    "resume_pdf": {
+      "path": "applications/2026-11-01__nuclear-regulatory-commission__financial-analyst__8efc2d80781bcd7c/resume-xuewu-cai__nuclear-regulatory-commission__financial-analyst__889960700.pdf",
+      "sha256": "28d36f3f49b8754d6a9929db9ed6f4115cd0428897bf5a5bbf4c2940fd6ccca7"
+    }
+  },
+  "resume_status": "prepared_with_attention",
+  "resume_review": "Text and hashes verified; all 20 baseline experience bullets preserved with updated title. Two pages rendered in PDFKit; all 113 distinct page images visually reviewed across 10 boards (238 rendered pages total). No clipping, overlap or blank pages. Neutral metadata and no AI-editing/targeting labels. Candidate facts/qualifications marked as attention items; no submission.",
+  "last_step1_refresh": "2026-11-01-federal-step1-redo",
+  "created_at": "2026-11-02T00:53:13.314014+00:00",
+  "updated_at": "2026-11-02T01:18:48.266005+00:00",
+  "application_directory": "applications/2026-11-01__nuclear-regulatory-commission__financial-analyst__8efc2d80781bcd7c",
+  "deadline_timezone": "America/New_York",
+  "deadline_time": "23:59",
+  "deadline_source": "https://www.usajobs.gov/job/889960700",
+  "deadline_verified": true,
+  "early_closure_conditions": [],
+  "rolling_cutoff": null,
+  "requirements_confirmed_unmet": [],
+  "requirements_unverified": [
+    "Hiring-path eligibility unverified: Internal to an agency. Confirm qualifying status before application; absence from baseline is not proof of ineligibility.",
+    "Verify Federal capital planning/CPIC experience against the exact qualification clause; not established by the baseline alone.",
+    "Verify OMB/federal budget procedures against the exact qualification clause; not established by the baseline alone.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "preferred_requirements_note": "See official qualifications/education sections; missing evidence does not establish an unmet requirement.",
+  "hiring_paths": [
+    "Internal to an agency"
+  ],
+  "artifact_versions": [
+    {
+      "revision_id": "2026-11-02T23:14:54.501767+00:00",
+      "artifacts": {
+        "resume_markdown": {
+          "path": "applications/2026-11-01__nuclear-regulatory-commission__financial-analyst__8efc2d80781bcd7c/resume-xuewu-cai__nuclear-regulatory-commission__financial-analyst__889960700.md",
+          "sha256": "0afc3723795fb14af47b370472673a5a3ac481e825db743de3fcc68aa613bdea"
+        },
+        "resume_pdf": {
+          "path": "applications/2026-11-01__nuclear-regulatory-commission__financial-analyst__8efc2d80781bcd7c/resume-xuewu-cai__nuclear-regulatory-commission__financial-analyst__889960700.pdf",
+          "sha256": "28d36f3f49b8754d6a9929db9ed6f4115cd0428897bf5a5bbf4c2940fd6ccca7"
+        }
+      },
+      "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a"
+    }
+  ],
+  "required_answers_pending": [
+    "Hiring-path eligibility unverified: Internal to an agency. Confirm qualifying status before application; absence from baseline is not proof of ineligibility.",
+    "Verify Federal capital planning/CPIC experience against the exact qualification clause; not established by the baseline alone.",
+    "Verify OMB/federal budget procedures against the exact qualification clause; not established by the baseline alone.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "confirmed_unmet_requirements": [],
+  "qualifications_verified": false,
+  "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a",
+  "resume_format": "restored_two_page",
+  "current_resume_naming": "unversioned",
+  "clearance_requirement": "L Access Authorization",
+  "public_hiring_route_evidence": false
 }

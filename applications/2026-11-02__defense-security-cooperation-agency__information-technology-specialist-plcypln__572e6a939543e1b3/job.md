@@ -1,0 +1,866 @@
+# INFORMATION TECHNOLOGY SPECIALIST (PLCYPLN)
+
+{
+  "title": "INFORMATION TECHNOLOGY SPECIALIST (PLCYPLN)",
+  "requisition_id": "DSCA-27-13102491-DH",
+  "canonical_url": "https://www.usajobs.gov/job/891023400",
+  "application_url": "https://www.usajobs.gov/job/891023400",
+  "posted_date": "2026-10-30",
+  "posted_date_evidence": "Official announcement JobPosting.datePosted; corroborated by native search PositionStartDate where listed.",
+  "close_date": "2026-11-04",
+  "deadline_timezone": "America/New_York",
+  "deadline_time": "23:59",
+  "deadline_source": "https://www.usajobs.gov/job/891023400",
+  "deadline_verified": true,
+  "early_closure_conditions": [],
+  "rolling_cutoff": null,
+  "location": "Arlington, VA",
+  "remote_restrictions": "Offered DMV work location; verify telework/attendance and screening conditions in announcement.",
+  "salary": "Starting at $121,785 Per year (GS 13)",
+  "retrieved_at": "2026-11-02T23:14:54.501767+00:00",
+  "control_number": "891023400",
+  "fit": "Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.",
+  "gaps": "Confirm the announcement-specific specialized experience, grade-equivalent scope and mandatory conditions against your actual work history. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.",
+  "requirements_confirmed_unmet": [],
+  "requirements_unverified": [
+    "Confirm the announcement-specific specialized experience, grade-equivalent scope and mandatory conditions against your actual work history.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "preferred_requirements_note": "See official qualifications/education sections; missing evidence does not establish an unmet requirement.",
+  "hiring_paths": [
+    "Open to the public"
+  ],
+  "open_evidence": "Official announcement downloaded successfully; validThrough and native open-status evidence retained.",
+  "discovery_window": [
+    "2026-09-02",
+    "2026-11-02"
+  ]
+}
+
+## Summary
+
+This position is part of the Defense Security Cooperation Agency, Defense Security Cooperation Agency. The incumbent will be responsible for conducting analysis of IT investments to include alignment to mission, acquisition methodology used, compliance to policies and guidance, and return on investment.
+
+## Duties
+
+This position is being filled under the memorandum from the Under Secretary of Defense for Personnel and Readiness (USD(P&R)) "Expansion of Direct Hire Authority for Certain Personnel of the Department of Defense," dated June 23, 2023.
+As a INFORMATION TECHNOLOGY SPECIALIST (PLCYPLN) at the GS-2210-13 some of your typical work assignments may include:
+Leads the enterprise IT Request Intake Program, defining submission policies, quality benchmarks, and standard operating procedures (SOPs) while providing technical direction to operational staff executing intake actions.
+Drives continuous process improvement across the intake lifecycle by analyzing operational metrics, eliminating workflow bottlenecks, and improving submission cycle times and data integrity.
+Conducts comprehensive IT portfolio analysis and performance monitoring, evaluating aggregate investment trends, tracking project health indicators, and identifying capability redundancies or portfolio risks.
+Develops executive dashboards, status summaries, and data-driven reports to support leadership in strategic planning, modernization roadmaps, and Capital Planning and Investment Control (CPIC) inputs.
+Supports the coordination and facilitation of IT governance boards and working groups, preparing comprehensive decision packages, synthesizing technical requirements, and tracking post-board action items.
+Verifies that incoming IT requests and proposed initiatives comply with organizational policies, cybersecurity standards, and federal/DoD IT regulations before they move forward for executive review and approval.
+
+## Qualifications
+
+You may qualify at the GS-13, if you fulfill the following qualifications:
+A. One year of specialized experience equivalent to the GS-12 grade level in the Federal service as listed below:
+Serving as the operational Product Owner; OR
+Primary operational POC representing business requirements to technical developer teams; including translating business processes into user stories, defining acceptance criteria, and coordinating User Acceptance Testing (UAT) for enterprise workflow tools; OR
+Coordinating and supporting IT governance bodies and review boards, including preparing meeting agendas, compiling technical packages, and documenting decision outcomes for Executive level stakeholders; OR
+Compiling, analyzing, and synthesizing program metrics from various systems to draft standard operating procedures, reports, and informational briefings for Executive level Stakeholders
+Experience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., Peace Corps, AmeriCorps) and other organizations (e.g., professional; philanthropic; religious; spiritual; community, student, social). Volunteer work helps build critical competencies, knowledge, and skills and can provide valuable training and experience that translates directly to paid employment. You will receive credit for all qualifying experience, including volunteer experience.
+
+## Education
+
+Substitution of education may not be used in lieu of specialized experience for this grade level.
+
+## Full rendered official announcement
+
+USAJOBS - Job Announcement
+
+ Skip to main content
+
+ An official website of the United States government
+
+Official websites use .gov
+
+A .gov website belongs to an official government organization in the United States.
+
+Secure .gov websites use HTTPS
+ A lock ( LockA locked padlock ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.
+
+ MENU
+
+ Sign in
+
+ My jobs
+
+ Profile
+
+ Resumes & documents
+
+ Notifications
+
+ Talent networks
+
+ Sign out
+
+ My jobs
+
+ Profile
+
+ Resumes & documents
+
+ Notifications
+
+ Talent networks
+
+ Sign out
+
+ Events
+
+ Help Center
+
+ Search
+
+ Back to results
+
+ Apply
+
+ INFORMATION TECHNOLOGY SPECIALIST (PLCYPLN)
+
+Department of Defense
+
+Defense Security Cooperation Agency
+
+Apply
+
+ Print
+
+ Share
+
+ Save
+
+ Summary
+
+ This job is open to
+
+ Duties
+
+ Requirements
+
+ How you will be evaluated
+
+ Required documents
+
+ How to apply
+
+Summary
+
+This position is part of the Defense Security Cooperation Agency, Defense Security Cooperation Agency. The incumbent will be responsible for conducting analysis of IT investments to include alignment to mission, acquisition methodology used, compliance to policies and guidance, and return on investment.
+
+ Learn more about this agency
+
+Summary
+
+This position is part of the Defense Security Cooperation Agency, Defense Security Cooperation Agency. The incumbent will be responsible for conducting analysis of IT investments to include alignment to mission, acquisition methodology used, compliance to policies and guidance, and return on investment.
+
+ Learn more about this agency
+
+Overview
+
+ Help
+
+Accepting applications
+
+Location
+
+1 vacancy in the following location:
+
+ Arlington, VA
+
+1 vacancy
+
+ No matching locations found.
+
+Work site options
+
+Telework eligible
+
+Yes—as determined by the agency policy.
+
+Remote job
+
+No
+
+Relocation expenses reimbursed
+
+ No
+
+Salary
+
+ $121,785 - $158,322 per year
+
+Pay scale & grade
+
+GS 13
+
+Promotion potential
+
+13
+
+ Learn more about pay scale and grade
+
+ Pay scale and grade determines the salary of the job.
+
+Work schedule
+
+Full-time
+
+Travel Required
+
+Occasional travel - You may be expected to travel for this position.
+
+Appointment type
+
+Permanent
+
+Occupations and job series
+
+ 2210 Information Technology Management
+
+Supervisory status
+
+No
+
+Federal service type
+
+This job is in the Competitive Service
+
+Represented by a union
+
+No
+
+Drug test
+
+Yes
+
+Security clearance
+
+Secret
+
+Position sensitivity and risk
+
+Noncritical-Sensitive (NCS)/Moderate Risk
+
+ Jobs require a
+ background check and some require a
+ security clearance. The type depends on the job.
+
+Background check type
+
+ National security
+
+Financial disclosure required
+
+No
+
+ Some jobs require
+ financial disclosure to identify conflicts of interests.
+
+Announcement number
+
+DSCA-27-13102491-DH
+
+Control number
+
+891023400
+
+This job is open to
+
+ Help
+
+The public
+
+ U.S. Citizens, Nationals or those who owe allegiance to the U.S.
+
+Clarification from the agency
+
+All U.S. Citizens
+
+Duties
+
+ Help
+
+ This position is being filled under the memorandum from the Under Secretary of Defense for Personnel and Readiness (USD(P&R)) "Expansion of Direct Hire Authority for Certain Personnel of the Department of Defense," dated June 23, 2023.
+
+As a INFORMATION TECHNOLOGY SPECIALIST (PLCYPLN) at the GS-2210-13 some of your typical work assignments may include:
+
+Leads the enterprise IT Request Intake Program, defining submission policies, quality benchmarks, and standard operating procedures (SOPs) while providing technical direction to operational staff executing intake actions.
+
+Drives continuous process improvement across the intake lifecycle by analyzing operational metrics, eliminating workflow bottlenecks, and improving submission cycle times and data integrity.
+
+Conducts comprehensive IT portfolio analysis and performance monitoring, evaluating aggregate investment trends, tracking project health indicators, and identifying capability redundancies or portfolio risks.
+
+Develops executive dashboards, status summaries, and data-driven reports to support leadership in strategic planning, modernization roadmaps, and Capital Planning and Investment Control (CPIC) inputs.
+
+Supports the coordination and facilitation of IT governance boards and working groups, preparing comprehensive decision packages, synthesizing technical requirements, and tracking post-board action items.
+
+Verifies that incoming IT requests and proposed initiatives comply with organizational policies, cybersecurity standards, and federal/DoD IT regulations before they move forward for executive review and approval.
+
+Requirements
+
+ Help
+
+Conditions of employment
+
+Must be a U.S. citizen
+
+Males born after 12-31-59 must be registered for Selective Service http://www.sss.gov
+
+Resume and supporting documents (See How To Apply)
+
+Suitable for Federal employment, determined by a background investigation
+
+May be required to successfully complete a probationary period
+
+Work Schedule: Fulltime
+
+Overtime: Occasionally
+
+Tour of Duty: Flexible
+
+Recruitment and Relocation Incentives: May be Authorized
+
+Fair Labor Standards Act (FLSA): Exempt
+
+Financial Disclosure: Not Required
+
+Telework Eligibility: This position is situational telework eligible
+
+Qualifications
+
+ You may qualify at the GS-13, if you fulfill the following qualifications:
+
+A. One year of specialized experience equivalent to the GS-12 grade level in the Federal service as listed below:
+
+Serving as the operational Product Owner; OR
+
+Primary operational POC representing business requirements to technical developer teams; including translating business processes into user stories, defining acceptance criteria, and coordinating User Acceptance Testing (UAT) for enterprise workflow tools; OR
+
+Coordinating and supporting IT governance bodies and review boards, including preparing meeting agendas, compiling technical packages, and documenting decision outcomes for Executive level stakeholders; OR
+
+Compiling, analyzing, and synthesizing program metrics from various systems to draft standard operating procedures, reports, and informational briefings for Executive level Stakeholders
+
+Experience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., Peace Corps, AmeriCorps) and other organizations (e.g., professional; philanthropic; religious; spiritual; community, student, social). Volunteer work helps build critical competencies, knowledge, and skills and can provide valuable training and experience that translates directly to paid employment. You will receive credit for all qualifying experience, including volunteer experience.
+
+Education
+
+ Substitution of education may not be used in lieu of specialized experience for this grade level.
+
+Additional information
+
+Other Notes:
+
+Re-employed Annuitant: This position does not meet criteria for re-employed annuitant. The DoD criteria for hiring Reemployed Annuitants can be found at: https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/140025/140025_vol300.PDF?ver=LQ7feWw-8-5DI2tceUpmgA%3d%3d
+
+This position is subject to an initial drug screening, and random testing thereafter. A negative drug test result must be received by HR within 30 calendar days after the EOD (i.e., start date). The selectee's inability successfully pass; or refusal to conduct the test may result in: 1) the tentative or FJO being withdrawn during the recruitment process; or 2) subsequently being removed from Federal service for failure to meet a condition of employment.
+
+You may be required to sign a "Drug Test Statement of Understanding" if you are selected for this position.
+
+All applicants must meet qualifications and eligibility criteria by the closing date of the announcement.
+
+Interagency Career Transition Assistance Programs (ICTAP eligibility): This program applies to employees who have been involuntarily separated from a Federal service position within the competitive service or Federal service employees whose positions have been deemed surplus or no longer needed. To receive selection priority for this position, you must: 1) meet ICTAP eligibility criteria; 2) be rated well-qualified for the position; Well qualified is defined as possessing the type and quality of experience that exceeds the positions minimum qualifications. and 3) submit the appropriate documentation to support your ICTAP eligibility. For more information:
+
+https://www.opm.gov/policy-data-oversight/workforce-restructuring/employee-guide-to-career-transition/
+
+Military Spouse Preference: If you are entitled to military spouse preference, in order to receive this preference you must choose the spousal eligibility in your application package referencing MSP Military Spouse Preference. Your preference entitlement will be verified by the employing agency. If you are claiming military spouse preference and qualified for the position, your name will be placed below preference eligible veteran candidates and above non-preference candidates on a list sent to the hiring manager for employment consideration. To claim Military Spouse Preference (MSP) please complete the Military Spouse PPP Self-Certification Checklist, save the document and attach it to your application package.
+
+Priority Placement Program (PPP) DoD Retained Grade Preference (RGP): In order to receive this preference, you must choose to apply using the "Priority Placement Program, DoD Retained Grade Preference (RGP)" eligibility. If you are claiming RGP and are determined to be Well Qualified (score of 85 or above) for the position, you will be referred to the hiring manager as a priority applicant. Information and required documentation for claiming MSP may be found at the General Applicant Information and Definitions link below. To be eligible as a RGP, you must submit the following supporting documents with your application package: a signed Retained Grade PPP Self-Certification Checklist (DD3145-1 (whs.mil)); a copy of your Notification of Personnel Action (SF-50) effecting the placement in retained grade status; or a copy of the notification letter you received regarding the RIF or classification downgrade.
+
+ Expand Hide  additional information
+
+Candidates should be committed to improving the efficiency of the Federal government, passionate about the ideals of our American republic, and committed to upholding the rule of law and the United States Constitution.
+
+Benefits
+
+ Help
+
+ A career with the U.S. government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding. Opens in a new windowLearn more about federal benefits.
+
+A career with the U.S. government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding.
+
+ Review our benefits
+
+Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time or intermittent. Contact the hiring agency for more information on the specific benefits offered.
+
+How you will be evaluated
+
+You will be evaluated for this job based on how well you meet the qualifications above.
+
+ We will review your resume and supporting documents, to ensure you meet the basic qualification requirements. We will evaluate each applicant who meets the basic qualifications on the information provided and evaluate your relevant work experiences as it relates to fundamental competencies, identified below, required for this position.
+
+Competencies:
+
+Accountability
+Attention to Detail
+Customer Service
+Decision Making
+Flexibility
+Influencing/Negotiating
+Integrity/Honesty
+Interpersonal Skills
+Learning
+Reading Comprehension
+Reasoning
+Self-Management
+Stress Tolerance
+Teamwork
+
+Based on the results of this evaluation, you will be placed in one of the following quality categories:
+
+Best Qualified: This highest category will be used for those candidates who possess the type and quality of experience that substantially exceeds the minimum qualifications of the position, including any selective placement factors and/or appropriate quality ranking factor(s), as determined by the job analysis.
+
+Highly Qualified: This higher category will be used for those candidates who possess the type and quality of experience that exceed the minimum qualifications of the position, including any selective placement factors and/or appropriate quality ranking factor(s) as determined by the job analysis.
+
+Qualified: This lowest category will be used for those candidates that meet the minimum qualifications of the position, including all selective placement factors and appropriate quality ranking factor(s) and are proficient in some, but not all, of the requirements of the position. Candidates may require extensive training and/or orientation in order to satisfactorily perform the duties of the position. https://www.opm.gov/policy-data-oversight/hiring-information/competitive-hiring/#url=Category-Rating
+
+Names of the candidates in the Best Qualified category will be sent first to the hiring manager for employment consideration. Applicants in other categories will be referred in accordance with category rating procedures.
+
+Veterans Preference: If you are entitled to veterans preference, you should indicate the type of veterans' preference you are claiming on your resume. Your veterans' preference entitlement will be verified by the employing agency. If you are entitled to veterans' preference and qualified for the position, your name will be placed above non-preference candidates on a list sent to the hiring manager for employment consideration. Qualified veterans' preference eligible with a service-connected disability of 10% or more will be listed at the top of the highest quality category depending on the position and grade level of the job.
+
+For information on entitlement seeFeds Hire Vets - Job Seekers - Veterans.
+
+Benefits
+
+ Help
+
+ A career with the U.S. government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding. Opens in a new windowLearn more about federal benefits.
+
+A career with the U.S. government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding.
+
+ Review our benefits
+
+Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time or intermittent. Contact the hiring agency for more information on the specific benefits offered.
+
+Required documents
+
+Required Documents
+
+ Help
+
+ The documents you are required to submit vary based on the authority you are using to apply (i.e., applying as a veteran, applying as a current permanent Federal employee, applying as a reinstatement, etc.). Your complete application includes your COMPLETE resume, your responses to the online questionnaire, and documents which prove your eligibility to apply. If you fail to provide these documents, you will be marked as having an incomplete application package and you will not be considered any further.
+
+The following documents are REQUIRED
+
+1. Your resume:
+
+IMPORTANT UPDATE: Your resume must not exceed two (2) pages. If your resume exceeds the two-page limit, you will be removed from consideration for this announcement. The resume and required supporting documentation should provide the minimum qualifications and relevant experience for the announced position. Must include the work schedule, hours worked per week, dates of employment, and duties performed. If multiple resumes are submitted by an applicant, only the last resume submitted will be reviewed for qualifications and referred for selection consideration, if eligible. The resume must not be more than 5MB and should be saved and uploaded as a PDF to maintain formatting and number of pages. We also accept GIF, JPG, JPEG, PNG, RTF, TXT, PDF, ODT or Word (DOC or DOCX). We do not accept PDF portfolio files. Page margins should be 0.5 inches, and font styles must be legible. Consider using 14-point size font for titles and 10-point for the main text. We recommend using a font like Lato, if available. Other widely available options are Calibri, Helvetica, Arial, Verdana, Open San Source Sans Pro, Roboto or Noro Sans.
+
+Additional guidance on writing a federal resume can be found at: USAJOBS Help Center - How do I write a resume for a federal job? The resume builder can help you create a resume using these recommendations and uses the information in your USAJOBS profile to help you get started.
+
+2. SF50
+
+All current and former civilian Federal employees must submit a copy of your MOST RECENT SF50 (Notification of Personnel Action) showing your tenure, grade and step, salary, and type of position occupied (i.e., Excepted or Competitive); or similar Notification of Personnel Action documentation, i.e., Transcript of Service, Form 1150, etc. This is also a requirement to verify your Time in Grade (TIG).
+
+3. Veteran's Documents:
+
+If applying using veteran's preference or under a Veteran's hiring authority you must submit the following documents: DD214 showing character of service, SF-15 Form and VA letter showing final percentage, or certification of expected discharge or release from active duty.
+
+PLEASE REVIEW THE BELOW LINK FOR OTHER SUPPORTING DOCUMENTS needed for proof of eligibility:
+
+https://www.dla.mil/Portals/104/Documents/Careers/downloads/DODCustomersRequiredSupportingDocumentation.pdf
+
+ If you are relying on your education to meet qualification requirements:
+
+ Education must be accredited by an accrediting institution recognized by the U.S. Department of Education in order for it to be credited towards qualifications. Therefore, provide only the attendance and/or degrees from
+ schools accredited by accrediting institutions recognized by the U.S. Department of Education.
+
+ Failure to provide all of the required information as stated in this vacancy announcement may result in an ineligible rating or may affect the overall rating.
+
+How to Apply
+
+ Help
+
+To apply for this position, you must complete the online application and submit the documentation specified in the Required Documents section below.
+
+The complete application package must be submitted by 11:59 PM (EST) on the closing date to receive consideration.
+
+To begin, click Apply Online to access an online application. Follow the prompts to select your USAJOBS resume and/or other supporting documents. You will need to be logged into your USAJOBS account or you may need to create a new account.
+
+You will be taken to an online application. Complete the online application, verify the required documentation, and submit the application. NOTE: Resumes up to a total of two pages will be accepted. Resumes exceeding two pages will be removed from consideration.
+
+You will receive an email notification when your application has been received for the announcement.
+
+To verify the status of your application, log into your USAJOBS account, https://www.usajobs.gov, select the Application Status link and then select the More Information link for this position. The Application Status page will display the status of your application, the documentation received and processed, and your responses submitted to the online application. Your uploaded documents may take several hours to clear the virus scan process.
+
+To preview the questionnaire, please go to https://apply.usastaffing.gov/ViewQuestionnaire/13102491.
+
+Please review the General Application Information and Definitions at:
+
+https://www.dla.mil/Portals/104/Documents/Careers/downloads/DoDGenAppInfo%2012-1-2020.pdf?ver=ECNbdsHtGilTd3OENN4A0Q%3d%3d
+
+As required by 5 C.F.R. § 302.106., DLA will provide Section 508 conformant ICT to employees with disabilities. All ICT interfaces with the public related to vacancy announcements and career transition opportunities must conform to the applicable requirements in the current ICT Standards and Guidelines (36 C.F.R. § 1194).
+
+Agency contact information
+
+ DSCA Servicing Team
+
+Phone
+
+ 614 692-0252
+
+Email
+
+ DHRS-D-DSCA@DLA.MIL
+
+Address
+
+ Defense Security Cooperation Agency
+
+ 1851 S. Bell
+
+Room 501
+
+ Arlington, VA 22240
+
+ US
+
+Next steps
+
+Once you successfully complete the application process, you will receive a notification of receipt. Your application package will be reviewed to ensure you meet the basic eligibility and qualifications requirements, and you will receive a notification. A review will be made of your online questionnaire and the documentation you submitted to support your responses. A list of qualified applicants will be created and sent to the selecting official. All applicants reviewed and/or referred will receive a notification letter.
+
+A list of qualified applicants will be created and sent to the selecting official. All applicants reviewed and/or referred will receive a notification letter.
+
+The selecting official may choose to conduct interviews, and once the selection is made, you will receive a notification of the decision.
+
+This announcement may be used to fill additional vacancies.
+
+Fair and transparent
+
+The Federal hiring process is set up to be fair and transparent. Please read the following guidance.
+
+ Criminal history inquiries
+
+ Equal Employment Opportunity (EEO) Policy
+
+ Financial suitability
+
+ New employee probationary period
+
+ Privacy Act
+
+ Reasonable accommodation policy
+
+ Selective Service
+
+ Signature and false statements
+
+ Social security number request
+
+Required Documents
+
+ Help
+
+ The documents you are required to submit vary based on the authority you are using to apply (i.e., applying as a veteran, applying as a current permanent Federal employee, applying as a reinstatement, etc.). Your complete application includes your COMPLETE resume, your responses to the online questionnaire, and documents which prove your eligibility to apply. If you fail to provide these documents, you will be marked as having an incomplete application package and you will not be considered any further.
+
+The following documents are REQUIRED
+
+1. Your resume:
+
+IMPORTANT UPDATE: Your resume must not exceed two (2) pages. If your resume exceeds the two-page limit, you will be removed from consideration for this announcement. The resume and required supporting documentation should provide the minimum qualifications and relevant experience for the announced position. Must include the work schedule, hours worked per week, dates of employment, and duties performed. If multiple resumes are submitted by an applicant, only the last resume submitted will be reviewed for qualifications and referred for selection consideration, if eligible. The resume must not be more than 5MB and should be saved and uploaded as a PDF to maintain formatting and number of pages. We also accept GIF, JPG, JPEG, PNG, RTF, TXT, PDF, ODT or Word (DOC or DOCX). We do not accept PDF portfolio files. Page margins should be 0.5 inches, and font styles must be legible. Consider using 14-point size font for titles and 10-point for the main text. We recommend using a font like Lato, if available. Other widely available options are Calibri, Helvetica, Arial, Verdana, Open San Source Sans Pro, Roboto or Noro Sans.
+
+Additional guidance on writing a federal resume can be found at: USAJOBS Help Center - How do I write a resume for a federal job? The resume builder can help you create a resume using these recommendations and uses the information in your USAJOBS profile to help you get started.
+
+2. SF50
+
+All current and former civilian Federal employees must submit a copy of your MOST RECENT SF50 (Notification of Personnel Action) showing your tenure, grade and step, salary, and type of position occupied (i.e., Excepted or Competitive); or similar Notification of Personnel Action documentation, i.e., Transcript of Service, Form 1150, etc. This is also a requirement to verify your Time in Grade (TIG).
+
+3. Veteran's Documents:
+
+If applying using veteran's preference or under a Veteran's hiring authority you must submit the following documents: DD214 showing character of service, SF-15 Form and VA letter showing final percentage, or certification of expected discharge or release from active duty.
+
+PLEASE REVIEW THE BELOW LINK FOR OTHER SUPPORTING DOCUMENTS needed for proof of eligibility:
+
+https://www.dla.mil/Portals/104/Documents/Careers/downloads/DODCustomersRequiredSupportingDocumentation.pdf
+
+ If you are relying on your education to meet qualification requirements:
+
+ Education must be accredited by an accrediting institution recognized by the U.S. Department of Education in order for it to be credited towards qualifications. Therefore, provide only the attendance and/or degrees from
+ schools accredited by accrediting institutions recognized by the U.S. Department of Education.
+
+ Failure to provide all of the required information as stated in this vacancy announcement may result in an ineligible rating or may affect the overall rating.
+
+How to Apply
+
+ Help
+
+To apply for this position, you must complete the online application and submit the documentation specified in the Required Documents section below.
+
+The complete application package must be submitted by 11:59 PM (EST) on the closing date to receive consideration.
+
+To begin, click Apply Online to access an online application. Follow the prompts to select your USAJOBS resume and/or other supporting documents. You will need to be logged into your USAJOBS account or you may need to create a new account.
+
+You will be taken to an online application. Complete the online application, verify the required documentation, and submit the application. NOTE: Resumes up to a total of two pages will be accepted. Resumes exceeding two pages will be removed from consideration.
+
+You will receive an email notification when your application has been received for the announcement.
+
+To verify the status of your application, log into your USAJOBS account, https://www.usajobs.gov, select the Application Status link and then select the More Information link for this position. The Application Status page will display the status of your application, the documentation received and processed, and your responses submitted to the online application. Your uploaded documents may take several hours to clear the virus scan process.
+
+To preview the questionnaire, please go to https://apply.usastaffing.gov/ViewQuestionnaire/13102491.
+
+Please review the General Application Information and Definitions at:
+
+https://www.dla.mil/Portals/104/Documents/Careers/downloads/DoDGenAppInfo%2012-1-2020.pdf?ver=ECNbdsHtGilTd3OENN4A0Q%3d%3d
+
+As required by 5 C.F.R. § 302.106., DLA will provide Section 508 conformant ICT to employees with disabilities. All ICT interfaces with the public related to vacancy announcements and career transition opportunities must conform to the applicable requirements in the current ICT Standards and Guidelines (36 C.F.R. § 1194).
+
+ Expand Hide  how to apply
+
+Agency contact information
+
+ DSCA Servicing Team
+
+Phone
+
+ 614 692-0252
+
+Email
+
+ DHRS-D-DSCA@DLA.MIL
+
+Address
+
+ Defense Security Cooperation Agency
+
+ 1851 S. Bell
+
+Room 501
+
+ Arlington, VA 22240
+
+ US
+
+Next steps
+
+Once you successfully complete the application process, you will receive a notification of receipt. Your application package will be reviewed to ensure you meet the basic eligibility and qualifications requirements, and you will receive a notification. A review will be made of your online questionnaire and the documentation you submitted to support your responses. A list of qualified applicants will be created and sent to the selecting official. All applicants reviewed and/or referred will receive a notification letter.
+
+A list of qualified applicants will be created and sent to the selecting official. All applicants reviewed and/or referred will receive a notification letter.
+
+The selecting official may choose to conduct interviews, and once the selection is made, you will receive a notification of the decision.
+
+This announcement may be used to fill additional vacancies.
+
+ Expand Hide  next steps
+
+Fair and transparent
+
+The Federal hiring process is set up to be fair and transparent. Please read the following guidance.
+
+ Criminal history inquiries
+
+ Equal Employment Opportunity (EEO) Policy
+
+ Financial suitability
+
+ New employee probationary period
+
+ Privacy Act
+
+ Reasonable accommodation policy
+
+ Selective Service
+
+ Signature and false statements
+
+ Social security number request
+
+ Defense Security Cooperation Agency
+
+This position is part of the Defense Security Cooperation Agency. DSCA's mission is to advance U.S. national security and foreign policy interests by building the capacity of foreign security forces to respond to shared challenges. DSCA leads the broader U.S. security cooperation enterprise in its efforts to train, educate, advise, and equip foreign partners. DSCA administers security cooperation programs that support U.S. policy interests and objectives.
+
+Agency contact information
+
+ DSCA Servicing Team
+
+Phone
+
+ 614 692-0252
+
+Email
+
+ DHRS-D-DSCA@DLA.MIL
+
+Address
+
+ Defense Security Cooperation Agency
+
+ 1851 S. Bell
+
+Room 501
+
+ Arlington, VA 22240
+
+ US
+
+Visit our careers page
+
+ Learn more about what it's like to work at Defense Security Cooperation Agency, what the agency does, and about the types of careers this agency offers.
+
+ https://www.dsca.mil/
+
+Summary
+
+This position is part of the Defense Security Cooperation Agency, Defense Security Cooperation Agency. The incumbent will be responsible for conducting analysis of IT investments to include alignment to mission, acquisition methodology used, compliance to policies and guidance, and return on investment.
+
+ Learn more about this agency
+
+Overview
+
+ Help
+
+Accepting applications
+
+Location
+
+1 vacancy in the following location:
+
+ Arlington, VA
+
+1 vacancy
+
+ No matching locations found.
+
+Work site options
+
+Telework eligible
+
+Yes—as determined by the agency policy.
+
+Remote job
+
+No
+
+Relocation expenses reimbursed
+
+ No
+
+Salary
+
+ $121,785 - $158,322 per year
+
+Pay scale & grade
+
+GS 13
+
+Promotion potential
+
+13
+
+ Learn more about pay scale and grade
+
+ Pay scale and grade determines the salary of the job.
+
+Work schedule
+
+Full-time
+
+Travel Required
+
+Occasional travel - You may be expected to travel for this position.
+
+Appointment type
+
+Permanent
+
+Occupations and job series
+
+ 2210 Information Technology Management
+
+Supervisory status
+
+No
+
+Federal service type
+
+This job is in the Competitive Service
+
+Represented by a union
+
+No
+
+Drug test
+
+Yes
+
+Security clearance
+
+Secret
+
+Position sensitivity and risk
+
+Noncritical-Sensitive (NCS)/Moderate Risk
+
+ Jobs require a
+ background check and some require a
+ security clearance. The type depends on the job.
+
+Background check type
+
+ National security
+
+Financial disclosure required
+
+No
+
+ Some jobs require
+ financial disclosure to identify conflicts of interests.
+
+Announcement number
+
+DSCA-27-13102491-DH
+
+Control number
+
+891023400
+
+ Previous result
+
+Next result
+
+Your session is about to expire!
+
+ Your USAJOBS session will expire due to inactivity in 8 minutes.
+ Any unsaved data will be lost if you allow the session to expire.
+ Click the button below to continue your session.
+
+ Sign out
+ Stay signed in
+
+ Return to top
+
+USAJOBS is a Opens in a new windowUnited States Office of Personnel Management website.
+
+ (Opens in a new window) OPM on LinkedIn
+
+ (Opens in a new window) OPM YouTube channel
+
+ (Opens in a new window) OPM on X
+
+Opens in a new windowEEO Policy Statement
+
+Opens in a new windowReasonable Accommodation Policy Statement
+
+Veterans Information
+
+Opens in a new windowLegal and Regulatory Guidance
+
+About USAJOBS
+
+Opens in a new windowAccessibility
+
+Opens in a new windowFOIA
+
+Opens in a new windowInspector general
+
+Opens in a new windowNo Fear Act Data
+
+Opens in a new windowPrivacy policy
+
+Opens in a new windowReports and publications
+
+Opens in a new windowTerms and conditions
+
+Opens in a new windowUSA.gov

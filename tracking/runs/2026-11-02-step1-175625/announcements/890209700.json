@@ -1,0 +1,32 @@
+{
+  "@context": "http://www.schema.org",
+  "@type": "JobPosting",
+  "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": {
+      "@type": "QuantitativeValue",
+      "value": 90838.0,
+      "unitText": "YEAR"
+    }
+  },
+  "datePosted": "10/27/2026",
+  "description": "You will serve as a FINANCIAL MANAGEMENT ANALYST in the EXECUTIVE DIRECTOR/COS of COMMANDER US FLEET FORCES COMMAND.",
+  "educationRequirements": "There is no education substitution for this series/grade combination.",
+  "employmentType": "OTHER",
+  "hiringOrganization": "COMMANDER US FLEET FORCES COMMAND",
+  "jobLocation": [
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Norfolk",
+        "addressRegion": "VA "
+      }
+    }
+  ],
+  "responsibilities": "",
+  "qualifications": "<strong>GS-13:</strong><br>\nYour resume must demonstrate at least one year of specialized experience at or equivalent to the <strong>GS-12</strong> grade level or pay band in the Federal service or equivalent experience in the private or public sector. Specialized experience must demonstrate the following:\n<ul>\n\t<li>Experience conducting financial data analysis and preparing reports for decision support.</li>\n\t<li>Experience in budget execution, accounting principles, and transactional processes.</li>\n\t<li>Experience in testing financial data accuracy to validate reports and applications.</li>\n\t<li>Experience in project management involving multiple stakeholders, milestones, and deliverables.</li>\n\t<li>Experience in the innovative application of automation and visual reporting tools.</li>\n</ul>\n\n<div><strong>GS-12:</strong><br>\nYour resume must demonstrate at least one year of specialized experience at or equivalent to the <strong>GS-11</strong> grade level or pay band in the Federal service or equivalent experience in the private or public sector. Specialized experience must demonstrate the following:\n\n<ul>\n\t<li>Experience formulating and executing financial budgets to support maritime operations.</li>\n\t<li>Experience analyzing financial reports to identify funding shortfalls and operational risks.</li>\n\t<li>Experience conducting financial audits to ensure compliance with federal funding regulations.</li>\n\t<li>Experience utilizing online financial databases to track obligations and expenditures for command programs.</li>\n\t<li>Experience directing personnel on the reconciliation of financial accounts and transaction records.</li>\n</ul>\n</div>\nAdditional qualification information can be found from the following Office of Personnel Management web site: <a href=\"https://www.opm.gov/policy-data-oversight/classification-qualifications/general-schedule-qualification-standards/#url=List-by-Occupational-Series\">https://www.opm.gov/policy-data-oversight/classification-qualifications/general-schedule-qualification-standards/#url=List-by-Occupational-Series</a><br>\n<br>\nExperience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., professional, philanthropic, religious, spiritual, community, student, social). Volunteer work helps build critical competencies, knowledge, and skills and can provide valuable training and experience that translates directly to paid employment.",
+  "title": "FINANCIAL MANAGEMENT ANALYST",
+  "validThrough": "2026-11-02"
+}

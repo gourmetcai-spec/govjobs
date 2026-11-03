@@ -1,0 +1,32 @@
+{
+  "@context": "http://www.schema.org",
+  "@type": "JobPosting",
+  "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": {
+      "@type": "QuantitativeValue",
+      "value": 121785.0,
+      "unitText": "YEAR"
+    }
+  },
+  "datePosted": "10/27/2026",
+  "description": "<b>About the Position: </b>This position is a DOD Cyber Excepted Service (CES) personnel system position in the Excepted Service under 10 USC 1599f. Employees occupying CES positions are in the Excepted Service and must adhere to U.S. Code, Title 10, as well as <a href=\"https://www.esd.whs.mil/DD/DoD-Issuances/140025/\">Department of Defense Instruction 1400.25</a>. This position is located at the U.S. Cyber Command J5 at Fort Meade, Maryland.<br>",
+  "educationRequirements": "<strong>FOREIGN EDUCATION</strong>: If you are using education completed in foreign colleges or universities to meet the qualification requirements, you must show the education credentials have been evaluated by a private organization that specializes in interpretation of foreign education programs and such education has been deemed equivalent to that gained in an accredited U.S. education program; or full credit has been given for the courses at a U.S. accredited college or university. For further information, visit: <a aria-label=\"Link https://sites.ed.gov/international/recognition-of-foreign-qualifications\" href=\"https://sites.ed.gov/international/recognition-of-foreign-qualifications/\" id=\"menur2g1\" rel=\"noreferrer noopener\" target=\"_blank\" title=\"https://sites.ed.gov/international/recognition-of-foreign-qualifications/\">https://sites.ed.gov/international/recognition-of-foreign-qualifications</a>.",
+  "employmentType": "OTHER",
+  "hiringOrganization": "KB-W6HWAA US CYBER COMMAND",
+  "jobLocation": [
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Fort Meade",
+        "addressRegion": "MD "
+      }
+    }
+  ],
+  "responsibilities": "",
+  "qualifications": "<p><strong>CYBER EXCEPTED SERVICE POSITIONS ARE NOT SUBJECT TO THE TWO-PAGE RESUME LIMIT. YOUR FULL RESUME WILL NEED TO BE UPLOADED TO YOUR USAJOBS PROFILE USING THE DOCUMENT TYPE \"OTHER DOCUMENTS\".</strong></p>\n\n\n\n<p><b>Who May Apply:</b><br>\nOnly applicants who meet one of the employment authority categories below are eligible to apply for this job. You will be asked to identify which category or categories you meet, and to provide documents which prove you meet the category or categories you selected. See <a href=\"https://portal.chra.army.mil/hr_public?id=kb_article&sysparm_article=KB0016281\">Proof of Eligibility</a> for an extensive list of document requirements for all employment authorities.<br>\n<br>\n<strong>This position is in the Professional Work Category at the Senior Work Level within the CES Occupational Structure.</strong><br>\n<br>\n<br>\n<br>\nArmy CES positions apply Veteran's Preference to preference eligible candidates, as defined by Section 2108 of Title 5 U.S.C., in accordance with the procedures provided in DoD Instruction 1400.25, Volume 3005, \"CES Employment and Placement\". If you are a veteran claiming veterans' preference, as defined by Section 2108 of Title 5 U.S.C., you must submit documents verifying your eligibility with your application package.<br>\n<br>\nIn order to qualify, you must meet the education <strong>and</strong> experience requirements described below. Experience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., Peace Corps, AmeriCorps) and other organizations (e.g., professional; philanthropic; religious; spiritual; community; student; social). You will receive credit for all qualifying experience, including volunteer experience. Your resume must clearly describe your relevant experience; if qualifying based on education, your transcripts will be required as part of your application. Additional information about transcripts is <a href=\"https://portal.chra.army.mil/hr_public?id=kb_article&sysparm_article=KB0016283\">in this document</a>.<br>\n<br>\nApplicants must have directly applicable experience that demonstrates the possession of knowledge, skills, abilities, and competencies necessary for immediate success in the position. Qualifying experience may have been acquired in any public or private sector job, but will clearly demonstrate past experience in the application of the particular competencies or knowledge, skills, and abilities necessary to successfully perform the duties of the position. Such experience is typically in or directly related to the work of the position to be filled. <strong>Qualifying experience would be demonstrated by</strong> applying operations research principles, quantitative analysis, or structured analytical methodologies to evaluate emerging technologies or operational capabilities; developing operational concepts, capability requirements, or Concepts of Operations (CONOPS) to address strategic or technological challenges; and tracking technical milestones, project schedules, or capability transition plans in collaboration with research laboratories, academic institutions, or external developers.<br>\n<br>\n<strong>AND Meet Basic Education Requirement</strong>:</p>\n\n<p><strong>Degree</strong>: in operations research; or at least 24 semester hours in a combination of operations research, mathematics, probability, statistics, mathematical logic, science, or subject-matter courses requiring substantial competence in college-level mathematics or statistics. At least 3 of the 24 semester hours must have been in calculus.</p>\n\n",
+  "title": "OPERATIONS RESEARCH ANALYST",
+  "validThrough": "2026-11-10"
+}

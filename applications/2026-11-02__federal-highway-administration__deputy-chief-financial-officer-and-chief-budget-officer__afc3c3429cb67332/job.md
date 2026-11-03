@@ -1,0 +1,891 @@
+# Deputy Chief Financial Officer and Chief Budget Officer
+
+{
+  "title": "Deputy Chief Financial Officer and Chief Budget Officer",
+  "requisition_id": "FHWA.SES-2026-0008",
+  "canonical_url": "https://www.usajobs.gov/job/886417700",
+  "application_url": "https://www.usajobs.gov/job/886417700",
+  "posted_date": "2026-10-07",
+  "posted_date_evidence": "Official announcement JobPosting.datePosted; corroborated by native search PositionStartDate where listed.",
+  "close_date": "2026-11-06",
+  "deadline_timezone": "America/New_York",
+  "deadline_time": "23:59",
+  "deadline_source": "https://www.usajobs.gov/job/886417700",
+  "deadline_verified": true,
+  "early_closure_conditions": [],
+  "rolling_cutoff": null,
+  "location": "Washington, DC",
+  "remote_restrictions": "Offered DMV work location; verify telework/attendance and screening conditions in announcement.",
+  "salary": "Starting at $151,661 Per year (ES 00)",
+  "retrieved_at": "2026-11-02T23:14:54.501767+00:00",
+  "control_number": "886417700",
+  "fit": "Financial forecasting, capital/ROE, quantitative risk and engineering leadership overlap; federal budget/accounting/policy specialties remain attention items.",
+  "gaps": "Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.",
+  "requirements_confirmed_unmet": [],
+  "requirements_unverified": [
+    "Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "preferred_requirements_note": "See official qualifications/education sections; missing evidence does not establish an unmet requirement.",
+  "hiring_paths": [
+    "Open to the public",
+    "Senior executives"
+  ],
+  "open_evidence": "Official announcement downloaded successfully; validThrough and native open-status evidence retained.",
+  "discovery_window": [
+    "2026-09-02",
+    "2026-11-02"
+  ]
+}
+
+## Summary
+
+The Deputy Chief Financial Officer and Chief Budget Officer (DCFO/CBO) serves the Chief Financial Officer (CFO) as the deputy manager, integrator, consultant and advisor on all FHWA financial management and budgetary matters. The position’s portfolio includes the availability of appropriations, allocation of Federal-aid and other highway program funds, audit issues, financial management initiatives, and any matter that could affect FHWA’s financial resources.
+
+## Duties
+
+The DCFO/CBO:
+Assists the CFO as manager and integrator for all levels of FHWA leadership on budget and financial matters.
+Facilitates all aspects of FHWA program planning related to the budget process; which includes developing and applying applies financial management policies and procedures in budgetary development, formulation, presentation, and execution.
+Serves as the FHWA gateway and point of contact for all financial audit issues and findings.
+Provides executive leadership, direction and management in the development and administration of a system of accounting for the resources and programs of FHWA.
+Provides executive leadership and guidance in the cooperative development and improvement of Division and State financial management.
+Directs, coordinates, and provides all levels of FHWA management with up-to-date information on the status of apportioned and allocated highway program funds.
+Oversees and manages the FHWA's financial management systems, the proper stewardship and reporting of resources, and leads the financial management community on data governance ensuring financial data is well integrated across all programs.
+Provides managerial influence over the planning, implementing, and directing of equal opportunity in furtherance of agency plans and objectives.
+
+## Qualifications
+
+Candidates should be committed to improving the efficiency of the Federal government, passionate about the ideals of our American republic, and committed to upholding the rule of law and the United States Constitution. Candidates will not be hired based on their race, sex, color, religion, or national origin.
+To meet the minimum qualification requirements for this position, you must show that you possess the Executive Core Qualifications (ECQ) and Technical Qualifications (TQ) related to this position within your resume - NOT TO EXCEED 2 PAGES. Resumes over the 2-page limit, will not be reviewed beyond page 2 or may be disqualified. Your resume should include examples of experience, education, and accomplishments applicable to the qualification(s). If your resume does not reflect demonstrated evidence of these qualifications, you may not receive consideration for the position.
+TECHNICAL QUALIFICATIONS (TQs): Your resume should demonstrate accomplishments that would satisfy the technical qualifications.
+TQ 1. Demonstrated executive-level knowledge of, and experience with budget, financial, and accounting responsibilities, including managing multiple fund types and resolving complex budget issues.
+TQ 2. Demonstrated executive-level experience leading a high-performing financial management organization and building trusted partnerships across organizational boundaries to resolve complex, enterprise-wide budget and financial management challenges, strengthen accountability, and deliver effective customer service and measurable organizational results.
+EXECUTIVE CORE QUALIFICATIONS (ECQs): In addition to the Technical Qualification Requirements listed above, all new entrants into the Senior Executive Service (SES) under a career appointment will be assessed for executive competency against the following five mandatory ECQs. If your 2-page resume does not reflect demonstrated evidence of the ECQs and TQs, you may not receive further consideration for the position.
+There are five ECQs:
+ECQ 1: Commitment to the Rule of Law and the Principles of the American Founding – This core qualification requires a demonstrated knowledge of the American system of government, commitment to uphold the Constitution and the rule of law, and commitment to serve the American people.
+ECQ 2: Driving Efficiency -This core qualification involves the demonstrated ability to strategically and efficiently manage resources, budget effectively, cut wasteful spending, and pursue efficiency through process and technological upgrades.
+ECQ 3: Merit and Competence - This core qualification involves the demonstrated knowledge, ability and technical competence to effectively and reliably produce work that is of exceptional quality.
+ECQ 4: Leading People - This core qualification involves the demonstrated ability to lead and inspire a group toward meeting the organization’s vision, mission, and goals, and to drive a high-performance, high-accountability culture. This includes, when necessary, the ability to lead people through change and to hold individuals accountable.
+ECQ 5: Achieving Results - This core qualification involves the demonstrated ability to achieve both individual and organizational results, and to align results to stated goals from superiors.
+Note: If you are a member of the SES or have been certified through successful participation in an OPM approved SES Candidate Development Program (SESCDP), or have SES reinstatement eligibility, you do not need to respond to the ECQs. Instead, you should attach proof (e.g., SF-50, Certification by OPM’s SES Qualifications Review Board (QRB)) of your eligibility for noncompetitive appointment to the SES.
+There are three key documents that contain important information about your rights and obligations. Please read and retain these documents:
+Noncriminal Justice Applicant's Privacy Rights, for those who undergo an FBI fingerprint-based criminal history record check for personnel vetting, which includes Rap Back,
+FD-258 Privacy Act Statement - FBI (this is the same statement used when your fingerprints are submitted as part of your background investigation), and
+SEAD-3-Reporting-U.pdf (dni.gov), (applicable to those who hold a sensitive position or have eligibility for access to classified information)"
+
+## Education
+
+If you are qualifying for this position by substituting education or training for experience, submit a copy of your transcripts or equivalent. An official transcript will be required if you are selected.
+A college or university degree generally must be from an accredited (or pre-accredited) college or university recognized by the U.S. Department of Education. For a list of schools which meet these criteria, please refer to Department of Education Accreditation page.
+Foreign Education: If you are using education completed in foreign colleges or universities to meet the qualification requirements, you must show the education credentials have been evaluated by a private organization that specializes in interpretation of foreign education programs and such education has been deemed equivalent to that gained in an accredited U.S. education program; or full credit has been given for the courses at a U.S. accredited college or university. If you are qualifying based on foreign education, you must submit proof of creditability of education as evaluated by a credentialing agency. For further information, visit: Recognition of Foreign Qualifications | International Affairs Office (ed.gov)
+
+## Full rendered official announcement
+
+USAJOBS - Job Announcement
+
+ Skip to main content
+
+ An official website of the United States government
+
+Official websites use .gov
+
+A .gov website belongs to an official government organization in the United States.
+
+Secure .gov websites use HTTPS
+ A lock ( LockA locked padlock ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.
+
+ MENU
+
+ Sign in
+
+ My jobs
+
+ Profile
+
+ Resumes & documents
+
+ Notifications
+
+ Talent networks
+
+ Sign out
+
+ My jobs
+
+ Profile
+
+ Resumes & documents
+
+ Notifications
+
+ Talent networks
+
+ Sign out
+
+ Events
+
+ Help Center
+
+ Search
+
+ Back to results
+
+ Apply
+
+ Deputy Chief Financial Officer and Chief Budget Officer
+
+Department of Transportation
+
+Federal Highway Administration
+
+Apply
+
+ Print
+
+ Share
+
+ Save
+
+ Summary
+
+ This job is open to
+
+ Duties
+
+ Requirements
+
+ How you will be evaluated
+
+ Required documents
+
+ How to apply
+
+Summary
+
+The Deputy Chief Financial Officer and Chief Budget Officer (DCFO/CBO) serves the Chief Financial Officer (CFO) as the deputy manager, integrator, consultant and advisor on all FHWA financial management and budgetary matters. The position’s portfolio includes the availability of appropriations, allocation of Federal-aid and other highway program funds, audit issues, financial management initiatives, and any matter that could affect FHWA’s financial resources.
+
+ Learn more about this agency
+
+Summary
+
+The Deputy Chief Financial Officer and Chief Budget Officer (DCFO/CBO) serves the Chief Financial Officer (CFO) as the deputy manager, integrator, consultant and advisor on all FHWA financial management and budgetary matters. The position’s portfolio includes the availability of appropriations, allocation of Federal-aid and other highway program funds, audit issues, financial management initiatives, and any matter that could affect FHWA’s financial resources.
+
+ Learn more about this agency
+
+Overview
+
+ Help
+
+Accepting applications
+
+Location
+
+1 vacancy in the following location:
+
+ Washington, DC
+
+ No matching locations found.
+
+Work site options
+
+Telework eligible
+
+Yes—This position may be eligible for situational telework. Telework approval will be determined by your immediate supervisor or manager following the agency’s telework policy and guidance. If participating in the telework program, you will be required to sign a telework agreement detailing agency telework policy requirements, working conditions, and expectations for the position.
+
+Remote job
+
+No
+
+Relocation expenses reimbursed
+
+ Yes—Relocation funds may be authorized for this position, depending on budget approval.
+
+Salary
+
+ $151,661 - $218,800 per year
+
+Pay scale & grade
+
+ES 00
+
+Promotion potential
+
+00
+
+ Learn more about pay scale and grade
+
+ Pay scale and grade determines the salary of the job.
+
+Work schedule
+
+Full-time - Permanent
+
+Travel Required
+
+Occasional travel - Occasional travel is required.
+
+Appointment type
+
+Permanent - Career
+
+Occupations and job series
+
+ 0340 Program Management
+
+Supervisory status
+
+Yes
+
+Federal service type
+
+This job is in the Senior Executive Service
+
+Represented by a union
+
+No
+
+Drug test
+
+No
+
+Security clearance
+
+Confidential
+
+Position sensitivity and risk
+
+High Risk (HR)
+
+ Jobs require a
+ background check and some require a
+ security clearance. The type depends on the job.
+
+Background check type
+
+ Credentialing
+
+Financial disclosure required
+
+Yes - You must file a Confidential Financial Disclosure Report OGE-278e within 30 days of appointment and annually from then on.
+
+ Some jobs require
+ financial disclosure to identify conflicts of interests.
+
+Announcement number
+
+FHWA.SES-2026-0008
+
+Control number
+
+886417700
+
+This job is open to
+
+ Help
+
+The public
+
+ U.S. Citizens, Nationals or those who owe allegiance to the U.S.
+
+Senior executives
+
+ Individuals looking for an executive-level job and who meet the five Executive Core Qualifications (ECQs).
+
+Clarification from the agency
+
+Open to U.S. Citizens.
+
+Duties
+
+ Help
+
+The DCFO/CBO:
+
+Assists the CFO as manager and integrator for all levels of FHWA leadership on budget and financial matters.
+
+Facilitates all aspects of FHWA program planning related to the budget process; which includes developing and applying applies financial management policies and procedures in budgetary development, formulation, presentation, and execution.
+
+Serves as the FHWA gateway and point of contact for all financial audit issues and findings.
+
+Provides executive leadership, direction and management in the development and administration of a system of accounting for the resources and programs of FHWA.
+
+Provides executive leadership and guidance in the cooperative development and improvement of Division and State financial management.
+
+Directs, coordinates, and provides all levels of FHWA management with up-to-date information on the status of apportioned and allocated highway program funds.
+
+Oversees and manages the FHWA's financial management systems, the proper stewardship and reporting of resources, and leads the financial management community on data governance ensuring financial data is well integrated across all programs.
+
+Provides managerial influence over the planning, implementing, and directing of equal opportunity in furtherance of agency plans and objectives.
+
+Requirements
+
+ Help
+
+Conditions of employment
+
+You must be a U.S. Citizen or National.
+
+Submit application and resume online by 11:59 PM EST on the closing date.
+
+Provide all required documents by closing date.
+
+A Secret clearance is required.
+
+CONDITIONS OF EMPLOYMENT:
+
+As a condition of employment for accepting this position, you may be required to serve a 1-year probationary period during which we will evaluate your fitness and whether your continued employment advances the public interest. In determining if your employment advances the public interest, we may consider:
+
+your performance and conduct;
+
+the needs and interests of the agency;
+
+whether your continued employment would advance the organizational goals of the agency or the Government; and
+
+whether your continued employment would advance the efficiency of the Federal service.
+
+Upon completion of your probationary period, your employment will be terminated unless you receive certification, in writing, that your continued employment advances the public interest.
+
+PROBATIONARY PERIOD: Complete a one-year SES probationary period (unless already completed).
+
+Complete a Declaration for Federal Employment to determine your suitability for Federal employment, at the time requested by the agency.
+
+If you are a male applicant born after December 31, 1959, certify that you have registered with the Selective Service System or are exempt from having to do so. (see https://www.sss.gov/RegVer/wfRegistration.aspx)
+
+SECURITY CLEARANCE: You may be required to obtain and maintain an interim and/or final security clearance prior to entrance on duty. Failure to obtain and maintain the required level of clearance may result in the withdrawal of a job offer or removal.
+
+WRITING SAMPLE: A writing sample may be required.
+
+PRESENTATION: Applicants may be asked to prepare and present a presentation, provide a presentation on a scenario-based situation or a similar activity as a part of the applicant evaluation process.
+
+Qualifications
+
+Candidates should be committed to improving the efficiency of the Federal government, passionate about the ideals of our American republic, and committed to upholding the rule of law and the United States Constitution. Candidates will not be hired based on their race, sex, color, religion, or national origin.
+
+To meet the minimum qualification requirements for this position, you must show that you possess the Executive Core Qualifications (ECQ) and Technical Qualifications (TQ) related to this position within your resume - NOT TO EXCEED 2 PAGES. Resumes over the 2-page limit, will not be reviewed beyond page 2 or may be disqualified. Your resume should include examples of experience, education, and accomplishments applicable to the qualification(s). If your resume does not reflect demonstrated evidence of these qualifications, you may not receive consideration for the position.
+
+TECHNICAL QUALIFICATIONS (TQs): Your resume should demonstrate accomplishments that would satisfy the technical qualifications.
+
+TQ 1. Demonstrated executive-level knowledge of, and experience with budget, financial, and accounting responsibilities, including managing multiple fund types and resolving complex budget issues.
+
+TQ 2. Demonstrated executive-level experience leading a high-performing financial management organization and building trusted partnerships across organizational boundaries to resolve complex, enterprise-wide budget and financial management challenges, strengthen accountability, and deliver effective customer service and measurable organizational results.
+
+EXECUTIVE CORE QUALIFICATIONS (ECQs): In addition to the Technical Qualification Requirements listed above, all new entrants into the Senior Executive Service (SES) under a career appointment will be assessed for executive competency against the following five mandatory ECQs. If your 2-page resume does not reflect demonstrated evidence of the ECQs and TQs, you may not receive further consideration for the position.
+
+There are five ECQs:
+
+ECQ 1: Commitment to the Rule of Law and the Principles of the American Founding – This core qualification requires a demonstrated knowledge of the American system of government, commitment to uphold the Constitution and the rule of law, and commitment to serve the American people.
+
+ECQ 2: Driving Efficiency -This core qualification involves the demonstrated ability to strategically and efficiently manage resources, budget effectively, cut wasteful spending, and pursue efficiency through process and technological upgrades.
+
+ECQ 3: Merit and Competence - This core qualification involves the demonstrated knowledge, ability and technical competence to effectively and reliably produce work that is of exceptional quality.
+
+ECQ 4: Leading People - This core qualification involves the demonstrated ability to lead and inspire a group toward meeting the organization’s vision, mission, and goals, and to drive a high-performance, high-accountability culture. This includes, when necessary, the ability to lead people through change and to hold individuals accountable.
+
+ECQ 5: Achieving Results - This core qualification involves the demonstrated ability to achieve both individual and organizational results, and to align results to stated goals from superiors.
+
+Note: If you are a member of the SES or have been certified through successful participation in an OPM approved SES Candidate Development Program (SESCDP), or have SES reinstatement eligibility, you do not need to respond to the ECQs. Instead, you should attach proof (e.g., SF-50, Certification by OPM’s SES Qualifications Review Board (QRB)) of your eligibility for noncompetitive appointment to the SES.
+
+There are three key documents that contain important information about your rights and obligations. Please read and retain these documents:
+
+Noncriminal Justice Applicant's Privacy Rights, for those who undergo an FBI fingerprint-based criminal history record check for personnel vetting, which includes Rap Back,
+
+FD-258 Privacy Act Statement - FBI (this is the same statement used when your fingerprints are submitted as part of your background investigation), and
+
+SEAD-3-Reporting-U.pdf (dni.gov), (applicable to those who hold a sensitive position or have eligibility for access to classified information)"
+
+Education
+
+If you are qualifying for this position by substituting education or training for experience, submit a copy of your transcripts or equivalent. An official transcript will be required if you are selected.
+
+A college or university degree generally must be from an accredited (or pre-accredited) college or university recognized by the U.S. Department of Education. For a list of schools which meet these criteria, please refer to Department of Education Accreditation page.
+
+Foreign Education: If you are using education completed in foreign colleges or universities to meet the qualification requirements, you must show the education credentials have been evaluated by a private organization that specializes in interpretation of foreign education programs and such education has been deemed equivalent to that gained in an accredited U.S. education program; or full credit has been given for the courses at a U.S. accredited college or university. If you are qualifying based on foreign education, you must submit proof of creditability of education as evaluated by a credentialing agency. For further information, visit: Recognition of Foreign Qualifications | International Affairs Office (ed.gov)
+
+Additional information
+
+Veterans Preference: Veterans’ preference is not applicable to the SES.
+
+Mobility: Organizational and geographical mobility is essential in developing and managing SES leaders. Individuals selected for SES positions members may be subject to reassignment across geographical, organizational, and functional lines, and may be required to sign a Reassignment Rights and Obligation Agreement.
+
+Tiering: The Department/Agency structures its SES positions into categories (i.e. tiers) to determine the pay range for each position. The categories are based on the position scope, breadth, functions, and placement within the structure of organizational levels across the Department/Agency.
+
+Equal Employment Opportunity (EEO) Policy Statement: http://www.eeoc.gov/federal/index.cfm
+
+Employment Information Resources - Resource Center: https://help.usajobs.gov/how-to
+
+Retirement/Pension Plan - You will be covered by a defined benefit, contributory Federal retirement system that provides benefits for both normal retirement (with as few as 5 years of civilian service) and for circumstances that might occur earlier, such involuntary retirement because of disability.
+
+Thrift Savings Plan (TSP) - You may participate in a retirement savings investment plan that offers before-tax savings and tax-deferred investment earnings. For more details, please visit the TSP website
+
+Employee Assistance - Employees and their immediate families can take advantage of free confidential counseling with health professionals as part of the Federal Employees Assistance Program.
+
+Transit Benefits - We subsidize up to $315 of mass transit commuting costs each month.
+
+Information related to performance, suitability, and security will be verified. If you make a false statement in any part of your application, you may not be hired; you may be fired after you begin work; or you may be subject to fine imprisonment, or other disciplinary action.
+
+The Fair Chance to Compete for Jobs Act prohibits the Department of Transportation and its Operating Administrations from requesting an applicant's criminal history record before that individual receives a conditional offer of employment.
+
+To learn more, please visit our page at: The Fair Chance to Compete Act | US Department of Transportation
+
+ Expand Hide  additional information
+
+Candidates should be committed to improving the efficiency of the Federal government, passionate about the ideals of our American republic, and committed to upholding the rule of law and the United States Constitution.
+
+Benefits
+
+ Help
+
+ A career with the U.S. government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding. Opens in a new windowLearn more about federal benefits.
+
+Our benefits package offers:
+Annual Leave (paid vacation), Sick Leave, and Holidays - You will earn 26 days of annual leave and 13 days of sick leave per year. In addition, the Federal Government observes 11 regular paid holidays each year.
+Health Benefits - Employees and family members are eligible for health benefits at reasonable rates with no required medical examinations or restrictions because of age or physical condition. Flexible Spending Account (FSA) - You may choose to participate in the FSA Program. This program allows you to set aside money, on a pre-tax basis, for certain kinds of out of pocket medical expenses or dependent care costs of a child or parent
+Federal Long Term Care Insurance Program - You may elect to participate in the Federal Long Term Care Insurance Program.
+Life Insurance - You may participate in the Federal Employees' Group Life Insurance program. The program offers employees an opportunity to acquire life insurance protection at group rates with a government contribution toward the cost of basic insurance.
+
+For more details on the various health and life insurance benefits offered to most Federal Employees click here
+
+Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time or intermittent. Contact the hiring agency for more information on the specific benefits offered.
+
+How you will be evaluated
+
+You will be evaluated for this job based on how well you meet the qualifications above.
+
+Once the application process is complete, a review of your resume and supporting documentation will be conducted. If you meet minimum qualifications, your Application Package will be further reviewed to determine if you possess the Executive Core Qualifications (ECQ) and Technical Qualifications (MTQ) listed above. ECQs and TQs must be thoroughly addressed within your two (2) page resume. Separate narratives will not be accepted or reviewed. Highly Qualified applicants may undergo one or more interviews and may be referred to the selecting official for further consideration.
+
+Upon selection, if not already a member of the SES serving under a career appointment, the individual selected must have his/her executive qualifications certified by the U.S. Office of Personnel Management’s SES Qualifications Review Board (QRB) before appointment to this position. The selected individual’s application will be forwarded to the OPM for review and certification by the QRB, unless the selectee provides evidence of their noncompetitive status (i.e., a current SES, OPM QRB certified SESCDP graduate, or SES reinstatement eligible). Upon QRB certification, the selected individual will be required to serve a one-year probationary period. For more information regarding the SES, go to https://www.opm.gov/policy-data-oversight/senior-executive-service/.
+
+OPM must authorize any employment offers made to current or former (within the last 5 years) political Schedule A, Schedule C, or Non-career SES employees in the executive branch.  If you are currently, or have been within the last 5 years, a political Schedule A, Schedule C, or Noncareer SES employee in the executive branch, you must disclose that to the Human Resources Office.
+
+You may preview questions for this vacancy.
+
+Benefits
+
+ Help
+
+ A career with the U.S. government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding. Opens in a new windowLearn more about federal benefits.
+
+Our benefits package offers:
+Annual Leave (paid vacation), Sick Leave, and Holidays - You will earn 26 days of annual leave and 13 days of sick leave per year. In addition, the Federal Government observes 11 regular paid holidays each year.
+Health Benefits - Employees and family members are eligible for health benefits at reasonable rates with no required medical examinations or restrictions because of age or physical condition. Flexible Spending Account (FSA) - You may choose to participate in the FSA Program. This program allows you to set aside money, on a pre-tax basis, for certain kinds of out of pocket medical expenses or dependent care costs of a child or parent
+Federal Long Term Care Insurance Program - You may elect to participate in the Federal Long Term Care Insurance Program.
+Life Insurance - You may participate in the Federal Employees' Group Life Insurance program. The program offers employees an opportunity to acquire life insurance protection at group rates with a government contribution toward the cost of basic insurance.
+
+For more details on the various health and life insurance benefits offered to most Federal Employees click here
+
+Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time or intermittent. Contact the hiring agency for more information on the specific benefits offered.
+
+Required documents
+
+Required Documents
+
+ Help
+
+A complete application includes items described below. Please note that if you do not provide all required information, as specified in this announcement, you may not be considered for this position (or may not receive the special consideration for which you may be eligible).
+
+Please carefully review the following list to determine what documentation you need to submit. Some documents may not apply to all applicants.
+
+ RESUME: All applicants are required to submit a resume limited to two (2) pages (i.e., 1 page that is double-sided or 2 pages that are one-sided each) showing all relevant experience. Applicants seeking initial career appointment to the Senior Executive Service (SES) must include evidence of the ECQs and TQs. PLEASE DO NOT USE USAJOBS RESUME BUILDER.
+
+VACANCY QUESTION/ASSESSMENT QUESTIONNAIRE RESPONSES: Responses are automatically submitted through USA Jobs when you apply to this vacancy.
+
+ADDITIONAL REQUIRED DOCUMENTS: Applicants are required to submit the following supporting documentation if applicable:
+
+CURRENT OR FORMER SES MEMBERS: Must provide your SES appointment SF-50 (Notification of Personnel Action), and an SF-50 showing current career SES status or career SES reinstatement eligibility.
+
+SES CANDIDATE DEVELOPMENT PROGRAM (SESCDP) GRADUATES: Verification of successful completion of an OPM-approved SESCDP and OPM SES QRB certification.
+
+CURRENT FEDERAL CIVIL SERVICE EMPLOYEE: Must provide a copy of your Notification of Personnel Action, Standard Form 50 (SF-50) or equivalent personnel action form reflecting you are a current Federal Civil Service employee.
+
+STRONGLY RECOMMENDED: Most recent performance evaluation.
+
+ If you are relying on your education to meet qualification requirements:
+
+ Education must be accredited by an accrediting institution recognized by the U.S. Department of Education in order for it to be credited towards qualifications. Therefore, provide only the attendance and/or degrees from
+ schools accredited by accrediting institutions recognized by the U.S. Department of Education.
+
+ Failure to provide all of the required information as stated in this vacancy announcement may result in an ineligible rating or may affect the overall rating.
+
+How to Apply
+
+ Help
+
+To apply for this position, you must complete this application and submit any required documents specified in the Required Documents section and submit by 11:59 PM (EST) on the closing date of the announcement to receive consideration.
+
+To begin, click Apply to access the online application. You will need to be logged into your USAJOBS account to apply. If you do not have a USAJOBS account, you will need to create one before beginning the application.
+
+Follow the prompts to select and upload your resume and/or other required documents to be included with your application package. You will have the opportunity to upload additional documents to include in your application before it is submitted. Your uploaded documents may take several hours to clear the virus scan process.
+
+After acknowledging you have reviewed your application package, complete the “Include Personal Information” section as you deem appropriate and click to continue with the application process.
+
+You will be taken to the online application which you must complete in order to apply for the position. Complete the online application, verify the required documentation is included with your application package, and submit the application.
+
+It is applicant's responsibility to verify that information entered and uploaded, (i.e., resume and other required documents) is complete, accurate, and submitted by the closing date. Human Resources will not modify or change any part of your application.
+
+Application packages will NOT be accepted via mail. Due to security processes, mail delivery takes approximately 2-3 weeks to process at which time the vacancy announcement will be closed, and no further consideration will be given to additional application packages.
+
+If you are having difficulty applying online, please contact the DOT Automated Staffing Office during regular business hours, 8:00 a.m. to 4:00 p.m. ET, at Transjobs@dot.gov.
+
+Agency contact information
+
+ Automated Staffing Office
+
+Phone
+
+ 000-000-0000
+
+Fax
+
+000-000-0000
+
+Email
+
+ TRANSJOBS@dot.gov
+
+Address
+
+ DOT, FEDERAL HIGHWAY ADMINISTRATION
+
+ Submit Application and Documents Online
+
+1200 New Jersey Ave SE / HAHR - 50
+
+ Washington, District of Columbia 20590
+
+ United States
+
+Next steps
+
+To verify the status of your application, sign in to your USAJOBS account (https://www.usajobs.gov/), all of your applications will appear on the Welcome screen. The Application Status will appear along with the date your application was last updated. For information on what each Application Status means, visit: https://help.usajobs.gov/how-to.
+
+Once your online application is submitted you will receive a confirmation notification by email. Your application will be evaluated by the Human Resources Office to determine your eligibility for the position. After the evaluation is complete, you will receive another notification regarding the status of your application.
+
+Fair and transparent
+
+The Federal hiring process is set up to be fair and transparent. Please read the following guidance.
+
+ Criminal history inquiries
+
+ Equal Employment Opportunity (EEO) Policy
+
+ Financial suitability
+
+ New employee probationary period
+
+ Privacy Act
+
+ Reasonable accommodation policy
+
+ Selective Service
+
+ Signature and false statements
+
+ Social security number request
+
+Required Documents
+
+ Help
+
+A complete application includes items described below. Please note that if you do not provide all required information, as specified in this announcement, you may not be considered for this position (or may not receive the special consideration for which you may be eligible).
+
+Please carefully review the following list to determine what documentation you need to submit. Some documents may not apply to all applicants.
+
+ RESUME: All applicants are required to submit a resume limited to two (2) pages (i.e., 1 page that is double-sided or 2 pages that are one-sided each) showing all relevant experience. Applicants seeking initial career appointment to the Senior Executive Service (SES) must include evidence of the ECQs and TQs. PLEASE DO NOT USE USAJOBS RESUME BUILDER.
+
+VACANCY QUESTION/ASSESSMENT QUESTIONNAIRE RESPONSES: Responses are automatically submitted through USA Jobs when you apply to this vacancy.
+
+ADDITIONAL REQUIRED DOCUMENTS: Applicants are required to submit the following supporting documentation if applicable:
+
+CURRENT OR FORMER SES MEMBERS: Must provide your SES appointment SF-50 (Notification of Personnel Action), and an SF-50 showing current career SES status or career SES reinstatement eligibility.
+
+SES CANDIDATE DEVELOPMENT PROGRAM (SESCDP) GRADUATES: Verification of successful completion of an OPM-approved SESCDP and OPM SES QRB certification.
+
+CURRENT FEDERAL CIVIL SERVICE EMPLOYEE: Must provide a copy of your Notification of Personnel Action, Standard Form 50 (SF-50) or equivalent personnel action form reflecting you are a current Federal Civil Service employee.
+
+STRONGLY RECOMMENDED: Most recent performance evaluation.
+
+ If you are relying on your education to meet qualification requirements:
+
+ Education must be accredited by an accrediting institution recognized by the U.S. Department of Education in order for it to be credited towards qualifications. Therefore, provide only the attendance and/or degrees from
+ schools accredited by accrediting institutions recognized by the U.S. Department of Education.
+
+ Failure to provide all of the required information as stated in this vacancy announcement may result in an ineligible rating or may affect the overall rating.
+
+How to Apply
+
+ Help
+
+To apply for this position, you must complete this application and submit any required documents specified in the Required Documents section and submit by 11:59 PM (EST) on the closing date of the announcement to receive consideration.
+
+To begin, click Apply to access the online application. You will need to be logged into your USAJOBS account to apply. If you do not have a USAJOBS account, you will need to create one before beginning the application.
+
+Follow the prompts to select and upload your resume and/or other required documents to be included with your application package. You will have the opportunity to upload additional documents to include in your application before it is submitted. Your uploaded documents may take several hours to clear the virus scan process.
+
+After acknowledging you have reviewed your application package, complete the “Include Personal Information” section as you deem appropriate and click to continue with the application process.
+
+You will be taken to the online application which you must complete in order to apply for the position. Complete the online application, verify the required documentation is included with your application package, and submit the application.
+
+It is applicant's responsibility to verify that information entered and uploaded, (i.e., resume and other required documents) is complete, accurate, and submitted by the closing date. Human Resources will not modify or change any part of your application.
+
+Application packages will NOT be accepted via mail. Due to security processes, mail delivery takes approximately 2-3 weeks to process at which time the vacancy announcement will be closed, and no further consideration will be given to additional application packages.
+
+If you are having difficulty applying online, please contact the DOT Automated Staffing Office during regular business hours, 8:00 a.m. to 4:00 p.m. ET, at Transjobs@dot.gov.
+
+ Expand Hide  how to apply
+
+Agency contact information
+
+ Automated Staffing Office
+
+Phone
+
+ 000-000-0000
+
+Fax
+
+000-000-0000
+
+Email
+
+ TRANSJOBS@dot.gov
+
+Address
+
+ DOT, FEDERAL HIGHWAY ADMINISTRATION
+
+ Submit Application and Documents Online
+
+1200 New Jersey Ave SE / HAHR - 50
+
+ Washington, District of Columbia 20590
+
+ United States
+
+Next steps
+
+To verify the status of your application, sign in to your USAJOBS account (https://www.usajobs.gov/), all of your applications will appear on the Welcome screen. The Application Status will appear along with the date your application was last updated. For information on what each Application Status means, visit: https://help.usajobs.gov/how-to.
+
+Once your online application is submitted you will receive a confirmation notification by email. Your application will be evaluated by the Human Resources Office to determine your eligibility for the position. After the evaluation is complete, you will receive another notification regarding the status of your application.
+
+ Expand Hide  next steps
+
+Fair and transparent
+
+The Federal hiring process is set up to be fair and transparent. Please read the following guidance.
+
+ Criminal history inquiries
+
+ Equal Employment Opportunity (EEO) Policy
+
+ Financial suitability
+
+ New employee probationary period
+
+ Privacy Act
+
+ Reasonable accommodation policy
+
+ Selective Service
+
+ Signature and false statements
+
+ Social security number request
+
+ Federal Highway Administration
+
+The U.S. Department of Transportation (DOT) is focused on what matters most: prioritizing the safety of our transportation systems, modernizing our aging infrastructure, unleashing American innovation, and maximizing efficiency by removing bureaucratic red tape. We are looking for mission-driven professionals ready to deliver real results with discipline, urgency, and accountability to support American families, workers, and businesses.
+
+As we usher in a Golden Age of Transportation, DOT values a results-oriented, high-performing workforce dedicated to continuous improvement, operational excellence, and a safe, collaborative environment. If you want to build big, beautiful infrastructure, scale transformative technologies, and achieve results that will serve our nation for generations to come, please consider joining the DOT family.
+
+Did You Know? The Department of Transportation is consistently ranked as one of the Best Places to Work in the Federal Government!
+
+Agency contact information
+
+ Automated Staffing Office
+
+Phone
+
+ 000-000-0000
+
+Fax
+
+000-000-0000
+
+Email
+
+ TRANSJOBS@dot.gov
+
+Address
+
+ DOT, FEDERAL HIGHWAY ADMINISTRATION
+
+ Submit Application and Documents Online
+
+1200 New Jersey Ave SE / HAHR - 50
+
+ Washington, District of Columbia 20590
+
+ United States
+
+Summary
+
+The Deputy Chief Financial Officer and Chief Budget Officer (DCFO/CBO) serves the Chief Financial Officer (CFO) as the deputy manager, integrator, consultant and advisor on all FHWA financial management and budgetary matters. The position’s portfolio includes the availability of appropriations, allocation of Federal-aid and other highway program funds, audit issues, financial management initiatives, and any matter that could affect FHWA’s financial resources.
+
+ Learn more about this agency
+
+Overview
+
+ Help
+
+Accepting applications
+
+Location
+
+1 vacancy in the following location:
+
+ Washington, DC
+
+ No matching locations found.
+
+Work site options
+
+Telework eligible
+
+Yes—This position may be eligible for situational telework. Telework approval will be determined by your immediate supervisor or manager following the agency’s telework policy and guidance. If participating in the telework program, you will be required to sign a telework agreement detailing agency telework policy requirements, working conditions, and expectations for the position.
+
+Remote job
+
+No
+
+Relocation expenses reimbursed
+
+ Yes—Relocation funds may be authorized for this position, depending on budget approval.
+
+Salary
+
+ $151,661 - $218,800 per year
+
+Pay scale & grade
+
+ES 00
+
+Promotion potential
+
+00
+
+ Learn more about pay scale and grade
+
+ Pay scale and grade determines the salary of the job.
+
+Work schedule
+
+Full-time - Permanent
+
+Travel Required
+
+Occasional travel - Occasional travel is required.
+
+Appointment type
+
+Permanent - Career
+
+Occupations and job series
+
+ 0340 Program Management
+
+Supervisory status
+
+Yes
+
+Federal service type
+
+This job is in the Senior Executive Service
+
+Represented by a union
+
+No
+
+Drug test
+
+No
+
+Security clearance
+
+Confidential
+
+Position sensitivity and risk
+
+High Risk (HR)
+
+ Jobs require a
+ background check and some require a
+ security clearance. The type depends on the job.
+
+Background check type
+
+ Credentialing
+
+Financial disclosure required
+
+Yes - You must file a Confidential Financial Disclosure Report OGE-278e within 30 days of appointment and annually from then on.
+
+ Some jobs require
+ financial disclosure to identify conflicts of interests.
+
+Announcement number
+
+FHWA.SES-2026-0008
+
+Control number
+
+886417700
+
+ Previous result
+
+Next result
+
+Your session is about to expire!
+
+ Your USAJOBS session will expire due to inactivity in 8 minutes.
+ Any unsaved data will be lost if you allow the session to expire.
+ Click the button below to continue your session.
+
+ Sign out
+ Stay signed in
+
+ Return to top
+
+USAJOBS is a Opens in a new windowUnited States Office of Personnel Management website.
+
+ (Opens in a new window) OPM on LinkedIn
+
+ (Opens in a new window) OPM YouTube channel
+
+ (Opens in a new window) OPM on X
+
+Opens in a new windowEEO Policy Statement
+
+Opens in a new windowReasonable Accommodation Policy Statement
+
+Veterans Information
+
+Opens in a new windowLegal and Regulatory Guidance
+
+About USAJOBS
+
+Opens in a new windowAccessibility
+
+Opens in a new windowFOIA
+
+Opens in a new windowInspector general
+
+Opens in a new windowNo Fear Act Data
+
+Opens in a new windowPrivacy policy
+
+Opens in a new windowReports and publications
+
+Opens in a new windowTerms and conditions
+
+Opens in a new windowUSA.gov

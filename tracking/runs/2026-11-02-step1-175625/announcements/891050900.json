@@ -1,0 +1,32 @@
+{
+  "@context": "http://www.schema.org",
+  "@type": "JobPosting",
+  "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": {
+      "@type": "QuantitativeValue",
+      "value": 57736.0,
+      "unitText": "YEAR"
+    }
+  },
+  "datePosted": "11/02/2026",
+  "description": "<strong>This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. </strong><br>\n<br>\nIt is in the Professional Work Category at the Entry/Developmental Work Level within the CES Occupational Structure. It is located in the DISA- EII/JT INTEROPERABILITY TEST CMD.",
+  "educationRequirements": "<strong>GG-07 Substitution of Education for Experience</strong>: One full year of graduate level education or Superior Academic Achievement may be substituted to meet the qualifying experience requirement. <strong>If you are using education to substitute for the qualifying experience, you must submit transcripts at the time you apply.</strong><br>\n<br>\nTo be creditable, education must have been obtained in an accredited college or university. You must report only attendance and/or degrees from schools accredited by accrediting institutions that are recognized by the <a href=\"http://www2.ed.gov/admins/finaid/accred/index.html\">U.S. Department of Education</a> .<br>\n<br>\n<b>Foreign Education</b>: If you are using education completed in foreign colleges or universities to meet the qualification requirements, you must show that the education credentials have been evaluated by the National Association of Credential Evaluation Services at the time of application. <a href=\"https://www.naces.org/index\">National Association of Credential Evaluation Services</a> .<br>",
+  "employmentType": "OTHER",
+  "hiringOrganization": "DISA - EII/JT INTEROPERABILITY TEST CMD",
+  "jobLocation": [
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Fort Meade",
+        "addressRegion": "MD "
+      }
+    }
+  ],
+  "responsibilities": "",
+  "qualifications": "In order to qualify for this position, you must meet the requirements described below.<br>\n<br>\n<strong><u>Basic Requirements:</u></strong><br>\n<br>\nApplicants must demonstrate on their resume that they have IT-related experience demonstrating each of the competencies listed below:\n<ul>\n\t<li>Communication</li>\n\t<li>Attention to Detail</li>\n\t<li>Information Technology Policy and Planning</li>\n\t<li>Decision Support </li>\n\t<li>Teamwork</li>\n</ul>\n<br>\n<br>\n<u><strong>Qualifying Experience: </strong></u><br>\nTo qualify at the GG-07, your resume must describe at least one year of experience that demonstrates the competencies necessary for immediate success in the position. Experience refers to any paid or unpaid experience, including volunteer work and Military service, that would be considered equivalent to work normally performed at the next lower grade level in the federal service. For this position, qualifying experience is defined as <strong>conducting feasibility studies and in-depth analysis to design, program, and implement complex automated database systems in alignment with agency standards.</strong><br>\n<br>\n<br>\nCandidates must describe how they meet the qualifying experience and/or selective placement factor(s) within the body of their resume. All qualifications must be met within 30 days after the closing date of this announcement.",
+  "title": "IT SPECIALIST (SYSANALYSIS)",
+  "validThrough": "2026-11-09"
+}

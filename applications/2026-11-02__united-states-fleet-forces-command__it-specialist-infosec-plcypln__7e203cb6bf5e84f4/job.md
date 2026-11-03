@@ -1,0 +1,859 @@
+# IT Specialist (INFOSEC/PLCYPLN)
+
+{
+  "title": "IT Specialist (INFOSEC/PLCYPLN)",
+  "requisition_id": "ST-13101188-27-LE",
+  "canonical_url": "https://www.usajobs.gov/job/890647200",
+  "application_url": "https://www.usajobs.gov/job/890647200",
+  "posted_date": "2026-10-29",
+  "posted_date_evidence": "Official announcement JobPosting.datePosted; corroborated by native search PositionStartDate where listed.",
+  "close_date": "2026-11-04",
+  "deadline_timezone": "America/New_York",
+  "deadline_time": "23:59",
+  "deadline_source": "https://www.usajobs.gov/job/890647200",
+  "deadline_verified": true,
+  "early_closure_conditions": [],
+  "rolling_cutoff": null,
+  "location": "Fort Meade Naval Facilities, MD",
+  "remote_restrictions": "Offered DMV work location; verify telework/attendance and screening conditions in announcement.",
+  "salary": "Starting at $121,785 Per year (GG 13)",
+  "retrieved_at": "2026-11-02T23:14:54.501767+00:00",
+  "control_number": "890647200",
+  "fit": "Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.",
+  "gaps": "Hiring-path eligibility unverified: Internal to an agency. Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.",
+  "requirements_confirmed_unmet": [],
+  "requirements_unverified": [
+    "Hiring-path eligibility unverified: Internal to an agency. Confirm qualifying status before application; absence from baseline is not proof of ineligibility.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "preferred_requirements_note": "See official qualifications/education sections; missing evidence does not establish an unmet requirement.",
+  "hiring_paths": [
+    "Internal to an agency"
+  ],
+  "open_evidence": "Official announcement downloaded successfully; validThrough and native open-status evidence retained.",
+  "discovery_window": [
+    "2026-09-02",
+    "2026-11-02"
+  ]
+}
+
+## Summary
+
+You will serve as an IT Specialist (INFOSEC/PLCYPLN) at the GG-13 grade level responsible for providing specialized IT services to plan and carries out difficult and complex assignments utilizing IT systems and services.
+
+## Duties
+
+
+
+## Qualifications
+
+Qualified candidates must demonstrate the possession of at least one year of information technology related experience in the federal service or private or public sector demonstrating the following four competencies, as defined:
+1) Attention to Detail - Is thorough when performing work and conscientious about attending to detail;
+2) Customer Service - Works with clients and customers (that is, any individuals who use or receive the services or products that your work unit produces, including the general public, individuals who work in the agency, other agencies, or organizations outside the Government) to assess their needs, provide information or assistance, resolve their problems, or satisfy their expectations; knows about available products and services; is committed to providing quality products and services;
+3) Oral Communication - Expresses information (for example, ideas or facts) to individuals or groups effectively, taking into account the audience and nature of the information (for example, technical, sensitive, controversial); makes clear and convincing oral presentations; listens to others, attends to nonverbal cues, and responds appropriately;
+4) Problem Solving - Identifies problems; determines accuracy and relevance of information; uses sound judgment to generate and evaluate alternatives, and to make recommendations.
+In addition to the Basic Requirements for this position, your resume must also demonstrate at least one year of specialized experience at or equivalent to the GG/GS-13 grade level or pay band in the Federal service or equivalent experience in the private or public sector. Specialized experience must demonstrate the following duties such as:
+1) Develop and promulgate Information Technology strategy, policy, guidance, and plans.2) Develop and maintain technical and operational documentation to support hardware/software lifecycle (installation, operation, change and removal).3) Plan, develop and/or manage processes across the information systems/services life cycle to ensure Information Technology capabilities meet current and future organizational and enterprise missions.4) Develops networks and builds alliances; collaborates across boundaries to build strategic relationships and achieve common goals.
+Additional qualification information can be found from the following Office of Personnel Management website:
+https://www.opm.gov/policy-data-oversight/classification-qualifications/general-schedule-qualification-standards/#url=List-by-Occupational-Series
+Additional qualification information can be found from the following DON DCIPS policy website:
+https://www.secnav.navy.mil/doni/Naval%20Intelligence%20Activity/Chapter%205%20-%20Employment%20and%20Placement.pdf
+
+## Education
+
+This job does not have an education qualification requirement.
+
+## Full rendered official announcement
+
+USAJOBS - Job Announcement
+
+ Skip to main content
+
+ An official website of the United States government
+
+Official websites use .gov
+
+A .gov website belongs to an official government organization in the United States.
+
+Secure .gov websites use HTTPS
+ A lock ( LockA locked padlock ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.
+
+ MENU
+
+ Sign in
+
+ My jobs
+
+ Profile
+
+ Resumes & documents
+
+ Notifications
+
+ Talent networks
+
+ Sign out
+
+ My jobs
+
+ Profile
+
+ Resumes & documents
+
+ Notifications
+
+ Talent networks
+
+ Sign out
+
+ Events
+
+ Help Center
+
+ Search
+
+ Back to results
+
+ Apply
+
+ IT Specialist (INFOSEC/PLCYPLN)
+
+Department of the Navy
+
+United States Fleet Forces Command
+
+Fleet Cyber Command (FCC), N61
+
+Apply
+
+ Print
+
+ Share
+
+ Save
+
+ Summary
+
+ This job is open to
+
+ Duties
+
+ Requirements
+
+ How you will be evaluated
+
+ Required documents
+
+ How to apply
+
+Summary
+
+You will serve as an IT Specialist (INFOSEC/PLCYPLN) at the GG-13 grade level responsible for providing specialized IT services to plan and carries out difficult and complex assignments utilizing IT systems and services.
+
+ Learn more about this agency
+
+Summary
+
+You will serve as an IT Specialist (INFOSEC/PLCYPLN) at the GG-13 grade level responsible for providing specialized IT services to plan and carries out difficult and complex assignments utilizing IT systems and services.
+
+ Learn more about this agency
+
+Overview
+
+ Help
+
+Accepting applications
+
+Location
+
+1 vacancy in the following location:
+
+ Fort Meade Naval Facilities, MD
+
+ No matching locations found.
+
+Work site options
+
+Telework eligible
+
+Yes—as determined by the agency policy.
+
+Remote job
+
+No
+
+Relocation expenses reimbursed
+
+ Yes—Relocation expenses (i.e. PCS) or relocation incentives as described in 5 USC 5753 may be authorized in accordance with applicable travel regulations.
+
+Salary
+
+ $121,785 - $158,322 per year
+
+Pay scale & grade
+
+GG 13
+
+Promotion potential
+
+None
+
+ Learn more about pay scale and grade
+
+ Pay scale and grade determines the salary of the job.
+
+Work schedule
+
+Full-time
+
+Travel Required
+
+Occasional travel - You may be expected to travel for this position.
+
+Appointment type
+
+Permanent
+
+Occupations and job series
+
+ 2210 Information Technology Management
+
+Supervisory status
+
+No
+
+Federal service type
+
+This job is in the Excepted Service
+
+Represented by a union
+
+No
+
+Drug test
+
+Yes
+
+Security clearance
+
+Sensitive Compartmented Information
+
+Financial disclosure required
+
+No
+
+ Some jobs require
+ financial disclosure to identify conflicts of interests.
+
+Announcement number
+
+ST-13101188-27-LE
+
+Control number
+
+890647200
+
+This job is open to
+
+ Help
+
+Internal to an agency
+
+ Current federal employees of the hiring agency that posted the job announcement.
+
+Clarification from the agency
+
+Current permanent employees of DON
+
+Duties
+
+ Help
+
+You will provide input and support for the planning, design, development, implementation, management and execution of systems and networks to meet secure operational requirements.
+
+You will assist in the development, validation and coordination of information assurance security strategies and services and participates in assessment of IT systems.
+
+You will contribute to ensure the confidentiality, integrity and availability of systems, networks and data by supporting the implementation and maintenance of information systems security programs, policies procedures and tools.
+
+You will provide guidance to resolve processing problems.
+
+You will collaborate and integrate information system security.
+
+Requirements
+
+ Help
+
+Conditions of employment
+
+Must be a US Citizen.
+
+Must be determined suitable for federal employment.
+
+Must participate in the direct deposit pay program.
+
+New employees to the Department of the Navy will be required to successfully pass the E-Verify employment verification check. To learn more about E-Verify, including your rights and responsibilities, visit e-verify.gov
+
+You must obtain and maintain a Top Secret security clearance and access to Sensitive Compartmented Information (SCI). Failure to do so may result in the withdrawal of an offer or removal. Indicate the level and date of your clearance in your resume.
+
+Successful completion of a pre-employment drug test (including marijuana) is required. A tentative offer of employment will be rescinded if you fail to report to the drug test appointment or pass the test. You will be subject to random testing.
+
+You must acknowledge in writing that you are accepting an appointment in the DCIPS (excepted service) which does not confer competitive status, prior to appointment.
+
+Within the Department of Defense (DoD), the appointment of retired military members within 180 days immediately following retirement date to a civilian position is subject to the provisions of 5 United States Code 3326.
+
+Males born after 12-31-59 must be registered for Selective Service.
+
+This position may require travel from normal duty station to CONUS and OCONUS and may include remote or isolated sites. You must be able to travel on military and commercial aircraft for extended periods of time.
+
+This position may require a 2-year DCIPS trial period requirement.
+
+This position may be subject to polygraph examination.
+
+Qualifications
+
+ Qualified candidates must demonstrate the possession of at least one year of information technology related experience in the federal service or private or public sector demonstrating the following four competencies, as defined:
+
+1) Attention to Detail - Is thorough when performing work and conscientious about attending to detail;
+
+2) Customer Service - Works with clients and customers (that is, any individuals who use or receive the services or products that your work unit produces, including the general public, individuals who work in the agency, other agencies, or organizations outside the Government) to assess their needs, provide information or assistance, resolve their problems, or satisfy their expectations; knows about available products and services; is committed to providing quality products and services;
+
+3) Oral Communication - Expresses information (for example, ideas or facts) to individuals or groups effectively, taking into account the audience and nature of the information (for example, technical, sensitive, controversial); makes clear and convincing oral presentations; listens to others, attends to nonverbal cues, and responds appropriately;
+
+4) Problem Solving - Identifies problems; determines accuracy and relevance of information; uses sound judgment to generate and evaluate alternatives, and to make recommendations.
+
+In addition to the Basic Requirements for this position, your resume must also demonstrate at least one year of specialized experience at or equivalent to the GG/GS-13 grade level or pay band in the Federal service or equivalent experience in the private or public sector. Specialized experience must demonstrate the following duties such as:
+
+1) Develop and promulgate Information Technology strategy, policy, guidance, and plans.2) Develop and maintain technical and operational documentation to support hardware/software lifecycle (installation, operation, change and removal).3) Plan, develop and/or manage processes across the information systems/services life cycle to ensure Information Technology capabilities meet current and future organizational and enterprise missions.4) Develops networks and builds alliances; collaborates across boundaries to build strategic relationships and achieve common goals.
+
+Additional qualification information can be found from the following Office of Personnel Management website:
+
+https://www.opm.gov/policy-data-oversight/classification-qualifications/general-schedule-qualification-standards/#url=List-by-Occupational-Series
+
+Additional qualification information can be found from the following DON DCIPS policy website:
+
+https://www.secnav.navy.mil/doni/Naval%20Intelligence%20Activity/Chapter%205%20-%20Employment%20and%20Placement.pdf
+
+Education
+
+ This job does not have an education qualification requirement.
+
+Additional information
+
+This position is designated as a Cyber Workforce position in the DoD Cyber Workforce Framework(DCWF) primary work role of (46) and, as a condition of employment, the incumbent of the position is required to maintain qualifications in accordance with DON Cyber Workforce Program requirements of SECNAV M-5239.2. This designation requires:
+
+- The incumbent participate in continuous learning (CL) program as described in SECNAVINST 5239.20A and SECNAV M-5239.2. An annual 20 hour minimum of Cyber Workforce related continuous learning must be documented in a current individual development plan signed by both the employee and supervisor.
+
+- The incumbent must obtain the required credentials within 12 months of appointment and maintain credentials as described in SECNAV M-5239.2 for DCWF role of (722) proficiency level (Advanced). For more information, review SECNAV M-5239.2 Chapter 3, paragraph b (1) (g) 1. *Failure to meet a condition of employment may result in disciplinary and/or adverse action up to removal from Federal service.
+
+This position is covered by the Department of Defense Priority Placement Program.
+
+Additional vacancies may be filled by this announcement.
+
+A tentative offer of employment will be rescinded if the selectee fails to meet the pre-employment requirements, including failure to report to any of the scheduled appointments.
+
+Federal annuitant information: The selection of an annuitant is subject to the Department of Defense and Department of the Navy policy on the employment of annuitants. Policy information may be found at: http://www.secnav.navy.mil/donhr/Documents/CivilianJobs/FedCivAnnuitants.pdf
+
+During the application process you will have the ability to opt-in to make your resume available to hiring managers in the agency who have similar positions in the local commuting area. Depending on the hiring organization and the position being filled, job requirements (e.g., security clearance, travel, drug testing, financial disclosure filing, bargaining unit status, etc.) may vary. Other hiring managers filling similar positions may offer relocation expense reimbursement and/or may offer recruitment incentives for new employees, depending on funding availability and in accordance with policy. If you opt-in and are referred on a certificate, your resume will be available to other hiring managers for 180-days from the date the job announcement closes. Opting in does not impact your application for this announcement, nor does it guarantee further consideration for additional positions.
+
+Interagency Career Transition Assistance Plan (ICTAP) does not apply to Excepted Service positions.
+
+PPP applicants will be placed at the FPL, if determined Well Qualified (WQ). To receive priority consideration, the FPL must be the same grade level or equivalent of the retained grade or the grade held immediately prior to separation.
+
+All Defense Intelligence positions under the Defense Civilian Intelligence Personnel System (DCIPS) are in the excepted service by specific statue, 10 U.S.C. 1601. This position is in the excepted service and does not confer competitive status.
+
+For more information on the DCIPS occupational structure click here.
+
+For more information about career advancement in DCIPS click here.
+
+ Expand Hide  additional information
+
+Candidates should be committed to improving the efficiency of the Federal government, passionate about the ideals of our American republic, and committed to upholding the rule of law and the United States Constitution.
+
+Benefits
+
+ Help
+
+ A career with the U.S. government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding. Opens in a new windowLearn more about federal benefits.
+
+ Review our benefits
+
+Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time or intermittent. Contact the hiring agency for more information on the specific benefits offered.
+
+How you will be evaluated
+
+You will be evaluated for this job based on how well you meet the qualifications above.
+
+ In order to qualify for this position, your resume must provide sufficient experience and/or education, knowledge, skills, and abilities to perform the duties of the specific position for which you are being considered. Your resume is the key means we have for evaluating your skills, knowledge, and abilities as they relate to this position. Therefore, we encourage you to be clear and specific when describing your experience.
+
+When the application process is complete, we will review your resume to ensure you meet the hiring eligibility and qualification requirements listed in this announcement. You will be rated based on the information provided in your resume and application package, along with your supporting documentation to determine your ability to demonstrate the following competencies:
+
+Accountability
+Attention to Detail
+Customer Service
+Decision Making
+Flexibility
+Influencing/Negotiating
+Integrity/Honesty
+Interpersonal Skills
+Learning
+Reading Comprehension
+Reasoning
+Self-Management
+Stress Tolerance
+Teamwork
+
+WRITTEN COMMUNICATION
+
+PROBLEM SOLVING
+
+INFORMATION TECHNOLOGY FORENSICS OPERATIONS
+
+INFORMATION TECHNOLOGY HARDWARE MANAGEMENT
+
+INFORMATION TECHNOLOGY OPERATIONAL PERFORMANCE MEASUREMENT AND MANAGEMENT
+
+INFORMATION TECHOLOGY TEST AND EVALUATION
+
+This recruitment will utilize the following technical assessment tools: USA Hire and Structured Interview.
+
+The USA Hire Assessments includes a cut score based on the minimum level of required proficiency in these critical general competencies. You must meet or exceed the cut score to be considered. You will not be considered for the position if you score below the cut score or fail to complete the assessment.
+
+You should list any relevant performance appraisals and incentive awards in your resume as that information may be taken into consideration during the selection process. If selected, you may be required to provide supporting documentation.
+
+Please follow all instructions carefully. Errors or omissions may affect your rating or consideration for employment.
+
+All eligibility, qualifications, and time-in-grade requirements must be met by the closing date of this announcement..
+
+Experience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., professional, philanthropic, religious, spiritual, community, student, social). Volunteer work helps build critical competencies, knowledge, and skills and can provide valuable training and experience that translates directly to paid employment.
+
+Benefits
+
+ Help
+
+ A career with the U.S. government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding. Opens in a new windowLearn more about federal benefits.
+
+ Review our benefits
+
+Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time or intermittent. Contact the hiring agency for more information on the specific benefits offered.
+
+Required documents
+
+Required Documents
+
+ Help
+
+ You are required to provide documentation that supports the eligibility and qualification claims made in your resume. You must submit the applicable documents listed here and those listed with the eligibilities you select in the announcement questionnaire with your application package. Applicants who do not provide supporting documentation that fully support their claims will not be referred to the hiring manager. Cover letter is optional.
+
+A complete resume is required. Resumes are restricted to no more than 2 pages. Illegible/unreadable resumes will not be considered. Your resume must show relevant experience, job title, duties and accomplishments. Your resume must show complete information for each job entry to support minimum qualifications. The following information should be provided in your resume: employer's name, starting and end dates (Mo/Yr), hours per week if experience was less than full time (35-40 hours per week), and pay plan, series and grade level (e.g. GS-0201-09) for relevant federal experience. TIP: A good way to ensure you include all essential information is to use the Resume Builder in USAJOBS to create your resume.
+
+Are you claiming membership in any professional organizations, or possession of a license, certificate or credentials? Check the Conditions of Employment section above to see if any are required. If you claim membership, license, certification, or credentials, you must submit a copy of said document in your application package.
+
+DoD Components with DCIPS positions apply Veterans' Preference to preference eligible candidates as defined by Section 2108 of Title 5 USC, in accordance with the procedures provided in DoD Instruction 1400.25, Volume 2005, DCIPS Employment and Placement. If you are a veteran claiming veterans' preference, as defined by section 2108 of Title 5 U.S.C., you must submit:
+
+A copy of your latest DD-214 Certificate of Release or Discharge from Active Duty (any copy that shows all dates of service, as well as character of service [Honorable, General, etc.] is acceptable) OR a VA letter that shows dates of service or service connected disability AND character of service. If you have more than one DD-214 for multiple periods of active duty service, submit a copy for each period of service. If you were issued a DD-215 to amend aforementioned information on the DD-214 you must submit that too. If you are not sure of your preference eligibility, visit the Department of Labor's website: Veterans' Preference Advisor
+
+You must also provide the applicable supporting documentation of your disability (e.g. disability letter from the VA) as described on Standard Form-15 (SF-15). http://www.opm.gov/forms/pdf_fill/SF15.pdf.
+
+Are you an active duty service member? Active Duty Service Members are required to submit a statement of service printed on command letterhead and signed by the command. The statement of service must provide the branch of service, rate/rank, all dates of service, the expected date of discharge and anticipated character of service (Honorable, General, etc.).
+
+Application documents, including supplemental ones, may be shared outside the Human Resources Office. Supplemental documents may contain your SSN, DOB, or personal information of others (e.g., on military orders, marriage certificates). You may redact this information before submitting; however, if selected, you must provide unredacted originals.
+
+How to Apply
+
+ Help
+
+Please read the entire announcement and all the instructions before you begin an application. To apply and be considered for this position, you must complete all required questionnaires, assessments, and required documentation as specified in the How to Apply and Required Documents section. Resumes are restricted to no more than 2 pages. Illegible/unreadable resumes will not be considered. The complete application package must be submitted by 11:59 PM (ET) on the closing date of the announcement to receive consideration. The application process is as follows:
+
+1. Click the Apply Online button.
+
+2. Answer the questions presented in the application and attach all necessary supporting documentation.
+
+3. Click the Submit Application button prior to 11:59 PM (ET) on the announcement closing date.
+
+4. If you are required to complete any USA Hire Assessments, you will be notified after submitting your application. The notification will be provided in your application submission screen and via email. The notification will include your unique assessment access link to the USA Hire system and the completion deadline. Additionally, in USAJOBS you can click "Track this application" to return to your assessment completion notice.
+
+5. Access USA Hire using your unique assessment link. Access is granted through your USAJOBS login credentials.
+
+6. Review all instructions prior to beginning your assessments. You will have the opportunity to request a testing accommodation before beginning the assessments should you have a disability covered under the Rehabilitation Act of 1973 as amended.
+
+7. Set aside at least 2 hours to take the USA Hire assessments; however, most applicants complete the assessments in less time. If you need to stop the assessments and continue later, you can re-use your unique assessment link.
+
+8. Your responses to the USA Hire Assessments will be reused for one year (in most cases) from the date you complete an assessment. If future applications you submit require completion of the same assessments, your responses will be automatically reused.
+
+Reasonable Accommodation (RA) Requests: If you believe you have a disability (i.e., physical or mental), covered by the Rehabilitation Act of 1973 as amended, that would interfere with completing the USA Hire Competency Based Assessments, you will be granted the opportunity to request a RA in your online application. Requests for RA for the USA Hire Competency Based Assessments and appropriate supporting documentation for RA must be received prior to starting the USA Hire Competency Based Assessments. Decisions on requests for RA are made on a case-by-case basis. If you meet the minimum qualifications of the position, after notification of the adjudication of your request, you will receive an email invitation to complete the USA Hire Competency Based Assessments. You must complete all assessments within 48 hours of receiving the URL to access the USA Hire Competency Based Assessments if you received the link after the close of the announcement. To determine if you need a RA, please review the Procedures for Requesting a Reasonable Accommodation for Online Assessments here: https://appsupport.usastaffing.gov/hc/en-us/sections/28980686389652-Reasonable-Accommodation-Information
+
+For more general information, system requirements, and to request assistance regarding the USA Hire Assessments, review the following resources: https://support-usahire.opm.gov/hc/en-us
+
+To update your application, including supporting documentation: During the announcement open period, return to your USAJOBS account, find your application record, and click Edit my application. This option will no longer be available once the announcement has closed.
+
+To view the announcement status or your application status: Click on this: https://help.usajobs.gov/how-to/application/status. Your application status page is where you can view your application status, USA Hire assessment completion status, and review your notifications sent by the hiring agency regarding your application.
+
+For additional information on viewing your application status, click https://help.usajobs.gov/how-to/application/status.
+
+You are encouraged to apply online. Applying online will allow you to review and track the status of your application.
+
+Do not email or send hard copy resumes/applications to the Contact Information or Agency Information listed in this vacancy announcement. All resumes/applications received at the addresses listed in the Contact Information or Agency Information will be destroyed and will not be considered for this vacancy announcement.
+
+It is the applicant's responsibility to verify that all information in their resume and documents are legible and accurate. HR will not modify answers/documents submitted by an applicant.
+
+Agency contact information
+
+ Department of Navy Employment Information Center
+
+Email
+
+ doneic@us.navy.mil
+
+Address
+
+ US FLEET CYBER COMMAND
+
+ 9800 Savage Road
+
+ Fort George Meade, MD 20755
+
+ US
+
+Next steps
+
+When the application process is complete, your complete application will be reviewed to determine if you meet the hiring eligibility and qualification requirements for which you requested consideration. You will be rated based on the information provided in your resume and responses to the questionnaire and USA Hire Assessment, along with your supporting documentation to determine your level of knowledge, skill, and ability related to the job requirements.
+
+If you meet the minimum qualifications of this position, you may be presented with instructions on how to access the USA Hire Competency Based Assessments system. These additional online assessments must be completed within 48 hours following the close of this announcement unless you have requested Reasonable Accommodation for the USA Hire Competency Based Assessments.
+
+Generally, only best qualified candidates will be referred to the hiring manager. Sometimes well qualified and minimally qualified candidates are referred. Occasionally, candidates eligible for priority consideration are referred, and no other candidates are referred.
+
+The hiring manager may choose to conduct interviews.
+
+You will be notified of our rating and referral decision. If you are referred, you will be notified when a hiring decision is made.
+
+NOTE: If you have any questions or need assistance, please email the DON Employment Information Center at DONEIC@us.navy.mil
+
+The hiring manager may choose to conduct interviews.
+
+You will be notified of our rating and referral decision. If you are referred, you will be notified when a hiring decision is made.
+
+NOTE: If you have any questions or need assistance, please contact the DON Employment Information Center at doneic@us.navy.mil
+
+Fair and transparent
+
+The Federal hiring process is set up to be fair and transparent. Please read the following guidance.
+
+ Criminal history inquiries
+
+ Equal Employment Opportunity (EEO) Policy
+
+ Financial suitability
+
+ New employee probationary period
+
+ Privacy Act
+
+ Reasonable accommodation policy
+
+ Selective Service
+
+ Signature and false statements
+
+ Social security number request
+
+Required Documents
+
+ Help
+
+ You are required to provide documentation that supports the eligibility and qualification claims made in your resume. You must submit the applicable documents listed here and those listed with the eligibilities you select in the announcement questionnaire with your application package. Applicants who do not provide supporting documentation that fully support their claims will not be referred to the hiring manager. Cover letter is optional.
+
+A complete resume is required. Resumes are restricted to no more than 2 pages. Illegible/unreadable resumes will not be considered. Your resume must show relevant experience, job title, duties and accomplishments. Your resume must show complete information for each job entry to support minimum qualifications. The following information should be provided in your resume: employer's name, starting and end dates (Mo/Yr), hours per week if experience was less than full time (35-40 hours per week), and pay plan, series and grade level (e.g. GS-0201-09) for relevant federal experience. TIP: A good way to ensure you include all essential information is to use the Resume Builder in USAJOBS to create your resume.
+
+Are you claiming membership in any professional organizations, or possession of a license, certificate or credentials? Check the Conditions of Employment section above to see if any are required. If you claim membership, license, certification, or credentials, you must submit a copy of said document in your application package.
+
+DoD Components with DCIPS positions apply Veterans' Preference to preference eligible candidates as defined by Section 2108 of Title 5 USC, in accordance with the procedures provided in DoD Instruction 1400.25, Volume 2005, DCIPS Employment and Placement. If you are a veteran claiming veterans' preference, as defined by section 2108 of Title 5 U.S.C., you must submit:
+
+A copy of your latest DD-214 Certificate of Release or Discharge from Active Duty (any copy that shows all dates of service, as well as character of service [Honorable, General, etc.] is acceptable) OR a VA letter that shows dates of service or service connected disability AND character of service. If you have more than one DD-214 for multiple periods of active duty service, submit a copy for each period of service. If you were issued a DD-215 to amend aforementioned information on the DD-214 you must submit that too. If you are not sure of your preference eligibility, visit the Department of Labor's website: Veterans' Preference Advisor
+
+You must also provide the applicable supporting documentation of your disability (e.g. disability letter from the VA) as described on Standard Form-15 (SF-15). http://www.opm.gov/forms/pdf_fill/SF15.pdf.
+
+Are you an active duty service member? Active Duty Service Members are required to submit a statement of service printed on command letterhead and signed by the command. The statement of service must provide the branch of service, rate/rank, all dates of service, the expected date of discharge and anticipated character of service (Honorable, General, etc.).
+
+Application documents, including supplemental ones, may be shared outside the Human Resources Office. Supplemental documents may contain your SSN, DOB, or personal information of others (e.g., on military orders, marriage certificates). You may redact this information before submitting; however, if selected, you must provide unredacted originals.
+
+How to Apply
+
+ Help
+
+Please read the entire announcement and all the instructions before you begin an application. To apply and be considered for this position, you must complete all required questionnaires, assessments, and required documentation as specified in the How to Apply and Required Documents section. Resumes are restricted to no more than 2 pages. Illegible/unreadable resumes will not be considered. The complete application package must be submitted by 11:59 PM (ET) on the closing date of the announcement to receive consideration. The application process is as follows:
+
+1. Click the Apply Online button.
+
+2. Answer the questions presented in the application and attach all necessary supporting documentation.
+
+3. Click the Submit Application button prior to 11:59 PM (ET) on the announcement closing date.
+
+4. If you are required to complete any USA Hire Assessments, you will be notified after submitting your application. The notification will be provided in your application submission screen and via email. The notification will include your unique assessment access link to the USA Hire system and the completion deadline. Additionally, in USAJOBS you can click "Track this application" to return to your assessment completion notice.
+
+5. Access USA Hire using your unique assessment link. Access is granted through your USAJOBS login credentials.
+
+6. Review all instructions prior to beginning your assessments. You will have the opportunity to request a testing accommodation before beginning the assessments should you have a disability covered under the Rehabilitation Act of 1973 as amended.
+
+7. Set aside at least 2 hours to take the USA Hire assessments; however, most applicants complete the assessments in less time. If you need to stop the assessments and continue later, you can re-use your unique assessment link.
+
+8. Your responses to the USA Hire Assessments will be reused for one year (in most cases) from the date you complete an assessment. If future applications you submit require completion of the same assessments, your responses will be automatically reused.
+
+Reasonable Accommodation (RA) Requests: If you believe you have a disability (i.e., physical or mental), covered by the Rehabilitation Act of 1973 as amended, that would interfere with completing the USA Hire Competency Based Assessments, you will be granted the opportunity to request a RA in your online application. Requests for RA for the USA Hire Competency Based Assessments and appropriate supporting documentation for RA must be received prior to starting the USA Hire Competency Based Assessments. Decisions on requests for RA are made on a case-by-case basis. If you meet the minimum qualifications of the position, after notification of the adjudication of your request, you will receive an email invitation to complete the USA Hire Competency Based Assessments. You must complete all assessments within 48 hours of receiving the URL to access the USA Hire Competency Based Assessments if you received the link after the close of the announcement. To determine if you need a RA, please review the Procedures for Requesting a Reasonable Accommodation for Online Assessments here: https://appsupport.usastaffing.gov/hc/en-us/sections/28980686389652-Reasonable-Accommodation-Information
+
+For more general information, system requirements, and to request assistance regarding the USA Hire Assessments, review the following resources: https://support-usahire.opm.gov/hc/en-us
+
+To update your application, including supporting documentation: During the announcement open period, return to your USAJOBS account, find your application record, and click Edit my application. This option will no longer be available once the announcement has closed.
+
+To view the announcement status or your application status: Click on this: https://help.usajobs.gov/how-to/application/status. Your application status page is where you can view your application status, USA Hire assessment completion status, and review your notifications sent by the hiring agency regarding your application.
+
+For additional information on viewing your application status, click https://help.usajobs.gov/how-to/application/status.
+
+You are encouraged to apply online. Applying online will allow you to review and track the status of your application.
+
+Do not email or send hard copy resumes/applications to the Contact Information or Agency Information listed in this vacancy announcement. All resumes/applications received at the addresses listed in the Contact Information or Agency Information will be destroyed and will not be considered for this vacancy announcement.
+
+It is the applicant's responsibility to verify that all information in their resume and documents are legible and accurate. HR will not modify answers/documents submitted by an applicant.
+
+ Expand Hide  how to apply
+
+Agency contact information
+
+ Department of Navy Employment Information Center
+
+Email
+
+ doneic@us.navy.mil
+
+Address
+
+ US FLEET CYBER COMMAND
+
+ 9800 Savage Road
+
+ Fort George Meade, MD 20755
+
+ US
+
+Next steps
+
+When the application process is complete, your complete application will be reviewed to determine if you meet the hiring eligibility and qualification requirements for which you requested consideration. You will be rated based on the information provided in your resume and responses to the questionnaire and USA Hire Assessment, along with your supporting documentation to determine your level of knowledge, skill, and ability related to the job requirements.
+
+If you meet the minimum qualifications of this position, you may be presented with instructions on how to access the USA Hire Competency Based Assessments system. These additional online assessments must be completed within 48 hours following the close of this announcement unless you have requested Reasonable Accommodation for the USA Hire Competency Based Assessments.
+
+Generally, only best qualified candidates will be referred to the hiring manager. Sometimes well qualified and minimally qualified candidates are referred. Occasionally, candidates eligible for priority consideration are referred, and no other candidates are referred.
+
+The hiring manager may choose to conduct interviews.
+
+You will be notified of our rating and referral decision. If you are referred, you will be notified when a hiring decision is made.
+
+NOTE: If you have any questions or need assistance, please email the DON Employment Information Center at DONEIC@us.navy.mil
+
+The hiring manager may choose to conduct interviews.
+
+You will be notified of our rating and referral decision. If you are referred, you will be notified when a hiring decision is made.
+
+NOTE: If you have any questions or need assistance, please contact the DON Employment Information Center at doneic@us.navy.mil
+
+ Expand Hide  next steps
+
+Fair and transparent
+
+The Federal hiring process is set up to be fair and transparent. Please read the following guidance.
+
+ Criminal history inquiries
+
+ Equal Employment Opportunity (EEO) Policy
+
+ Financial suitability
+
+ New employee probationary period
+
+ Privacy Act
+
+ Reasonable accommodation policy
+
+ Selective Service
+
+ Signature and false statements
+
+ Social security number request
+
+ United States Fleet Forces Command
+
+ The Navy and Marine Corps team offers innovative, exciting and meaningful work linking military and civilian talents to achieve our mission and safeguard our freedoms. Department of the Navy provides competitive salaries, comprehensive benefits, and extensive professional development and training. From pipefitters to accountants, scientists to engineers, doctors to nurses-the careers and opportunities to make a difference are endless.
+
+Civilian careers-where purpose and patriotism unite!
+
+Agency contact information
+
+ Department of Navy Employment Information Center
+
+Email
+
+ doneic@us.navy.mil
+
+Address
+
+ US FLEET CYBER COMMAND
+
+ 9800 Savage Road
+
+ Fort George Meade, MD 20755
+
+ US
+
+Visit our careers page
+
+ Learn more about what it's like to work at United States Fleet Forces Command, what the agency does, and about the types of careers this agency offers.
+
+ http://www.secnav.navy.mil/donhr/Pages/Default.aspx
+
+Summary
+
+You will serve as an IT Specialist (INFOSEC/PLCYPLN) at the GG-13 grade level responsible for providing specialized IT services to plan and carries out difficult and complex assignments utilizing IT systems and services.
+
+ Learn more about this agency
+
+Overview
+
+ Help
+
+Accepting applications
+
+Location
+
+1 vacancy in the following location:
+
+ Fort Meade Naval Facilities, MD
+
+ No matching locations found.
+
+Work site options
+
+Telework eligible
+
+Yes—as determined by the agency policy.
+
+Remote job
+
+No
+
+Relocation expenses reimbursed
+
+ Yes—Relocation expenses (i.e. PCS) or relocation incentives as described in 5 USC 5753 may be authorized in accordance with applicable travel regulations.
+
+Salary
+
+ $121,785 - $158,322 per year
+
+Pay scale & grade
+
+GG 13
+
+Promotion potential
+
+None
+
+ Learn more about pay scale and grade
+
+ Pay scale and grade determines the salary of the job.
+
+Work schedule
+
+Full-time
+
+Travel Required
+
+Occasional travel - You may be expected to travel for this position.
+
+Appointment type
+
+Permanent
+
+Occupations and job series
+
+ 2210 Information Technology Management
+
+Supervisory status
+
+No
+
+Federal service type
+
+This job is in the Excepted Service
+
+Represented by a union
+
+No
+
+Drug test
+
+Yes
+
+Security clearance
+
+Sensitive Compartmented Information
+
+Financial disclosure required
+
+No
+
+ Some jobs require
+ financial disclosure to identify conflicts of interests.
+
+Announcement number
+
+ST-13101188-27-LE
+
+Control number
+
+890647200
+
+ Previous result
+
+Next result
+
+Your session is about to expire!
+
+ Your USAJOBS session will expire due to inactivity in 8 minutes.
+ Any unsaved data will be lost if you allow the session to expire.
+ Click the button below to continue your session.
+
+ Sign out
+ Stay signed in
+
+ Return to top
+
+USAJOBS is a Opens in a new windowUnited States Office of Personnel Management website.
+
+ (Opens in a new window) OPM on LinkedIn
+
+ (Opens in a new window) OPM YouTube channel
+
+ (Opens in a new window) OPM on X
+
+Opens in a new windowEEO Policy Statement
+
+Opens in a new windowReasonable Accommodation Policy Statement
+
+Veterans Information
+
+Opens in a new windowLegal and Regulatory Guidance
+
+About USAJOBS
+
+Opens in a new windowAccessibility
+
+Opens in a new windowFOIA
+
+Opens in a new windowInspector general
+
+Opens in a new windowNo Fear Act Data
+
+Opens in a new windowPrivacy policy
+
+Opens in a new windowReports and publications
+
+Opens in a new windowTerms and conditions
+
+Opens in a new windowUSA.gov

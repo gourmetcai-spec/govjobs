@@ -1,503 +1,843 @@
 # Financial Economist - Crypto Assets and Novel Products
 
 {
-  "employer": "Securities and Exchange Commission",
   "title": "Financial Economist - Crypto Assets and Novel Products",
   "requisition_id": "USAJOBS-890676500",
-  "posted_date": null,
-  "close_date": null,
-  "location": "Washington, DC",
-  "salary": "$174,859–$292,300 per year; SK-16",
-  "fit": "Trading systems and market research adjacency.",
-  "gaps": "Restricted to current SEC employees/status candidates or displaced SEC CTAP candidates; no such status evidenced. Economics education and crypto market policy experience also unverified; control number used as fallback identity.",
   "canonical_url": "https://www.usajobs.gov/job/890676500",
   "application_url": "https://www.usajobs.gov/job/890676500",
-  "posted_date_evidence": "Official announcement accepting applications; dates not verified because hiring path is restricted.",
-  "retrieved_at": "2026-11-02T00:53:12.615092+00:00",
-  "status": "discovered",
-  "aliases": [],
-  "discovery_window": [
-    "2026-09-01",
-    "2026-11-01"
+  "posted_date": "2026-10-29",
+  "posted_date_evidence": "Official announcement JobPosting.datePosted; corroborated by native search PositionStartDate where listed.",
+  "close_date": "2026-11-13",
+  "deadline_timezone": "America/New_York",
+  "deadline_time": "23:59",
+  "deadline_source": "https://www.usajobs.gov/job/890676500",
+  "deadline_verified": true,
+  "early_closure_conditions": [],
+  "rolling_cutoff": null,
+  "location": "Washington, DC",
+  "remote_restrictions": "Offered DMV work location; verify telework/attendance and screening conditions in announcement.",
+  "salary": "Starting at $174,859 Per year (SK 16)",
+  "retrieved_at": "2026-11-02T23:14:54.501767+00:00",
+  "control_number": "890676500",
+  "fit": "Financial forecasting, capital/ROE, quantitative risk and engineering leadership overlap; federal budget/accounting/policy specialties remain attention items.",
+  "gaps": "Hiring-path eligibility unverified: Internal to an agency. Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Verify OMB/federal budget procedures against the exact qualification clause; not established by the baseline alone. Verify economics coursework/credit requirements against the exact qualification clause; not established by the baseline alone. Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.",
+  "requirements_confirmed_unmet": [],
+  "requirements_unverified": [
+    "Hiring-path eligibility unverified: Internal to an agency. Confirm qualifying status before application; absence from baseline is not proof of ineligibility.",
+    "Verify OMB/federal budget procedures against the exact qualification clause; not established by the baseline alone.",
+    "Verify economics coursework/credit requirements against the exact qualification clause; not established by the baseline alone.",
+    "Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
   ],
-  "remote_restrictions": "Not remote; DMV duty station offered. Confirm telework policy in official job description.",
-  "open_evidence": "Official USAJOBS announcement retrieved through web tool and reports Accepting applications; recheck at Step 2.",
-  "hiring_path": "Restricted agency hiring path",
-  "control_number": "890676500"
+  "preferred_requirements_note": "See official qualifications/education sections; missing evidence does not establish an unmet requirement.",
+  "hiring_paths": [
+    "Internal to an agency"
+  ],
+  "open_evidence": "Official announcement downloaded successfully; validThrough and native open-status evidence retained.",
+  "discovery_window": [
+    "2026-09-02",
+    "2026-11-02"
+  ]
 }
 
-## Retrieved official announcement text
+## Summary
 
-USAJOBS - Job Announcement (https://www.usajobs.gov/job/890676500)
-citeturn27view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.usajobs.gov/job/890676500","lineno":150}); Total lines: 483
-L0: 【0†Skip to main content】
-L1:
-L2: 【1†Image: U.S. flag】
-L3:
-L4: [Button: An official website of the United States government ]
-L5:
-L6: [Button: MENU ]
-L7:
-L8: 【2†Back to results】
-L9:
-L10:
-L11:
-L12: 【3†Apply】
-L13:
-L14: Print
-L15:
-L16: Share
-L17:
-L18: Save
-L19:
-L20:   * 【4†Summary】
-L21:   * 【5†This job is open to】
-L22:   * 【6†Duties】
-L23:   * 【7†Requirements】
-L24:   * 【8†How you will be evaluated】
-L25:   * 【9†Required documents】
-L26:   * 【10†How to apply】
-L27: ## Summary
-L28:
-L29: The Division of Trading and Markets (TM) is seeking a Financial Economist - Crypto Assets and Novel Products. As a Financial Economist - Crypto Assets and Novel Products, you will work with colleagues in other offices within TM and other Divisions and Offices at the SEC on initiatives related to the development or modification of market rules and regulations and the review of rules proposed by self-regulatory organizations related to the structure and operation of securities markets.
-L30: [Button: Learn more about this agency ]
-L31: ## Summary
-L32:
-L33: The Division of Trading and Markets (TM) is seeking a Financial Economist - Crypto Assets and Novel Products. As a Financial Economist - Crypto Assets and Novel Products, you will work with colleagues in other offices within TM and other Divisions and Offices at the SEC on initiatives related to the development or modification of market rules and regulations and the review of rules proposed by self-regulatory organizations related to the structure and operation of securities markets.
-L34: [Button: Learn more about this agency ]
-L35: ## Overview
-L36:
-L37: 【11†Help†usajobshelp.opm.gov】
-L38:
-L39: Accepting applications
-L40:
-L41: Location
-L42:
-L43: 1 vacancy in the following location:
-L44:
-L45: Washington, DC
-L46:
-L47: Work site options
-L48:
-L49: Telework eligible
-L50:     No
-L51:
-L52: Remote job
-L53:     No
-L54:
-L55: Relocation expenses reimbursed
-L56:     No
-L57:
-L58: Salary
-L59:     $174,859 - $292,300 per year
-L60:
-L61: Pay scale & grade
-L62:
-L63:
-L64: SK 16
-L65:
-L66: Promotion potential
-L67:     16
-L68:
-L69: 【12†Learn more about pay scale and grade†usajobshelp.opm.gov】
-L70:
-L71: Pay scale and grade determines the salary of the job.
-L72:
-L73: Work schedule
-L74:     Full-time
-L75: Travel Required
-L76:     Occasional travel - You may be expected to travel for this position.
-L77:
-L78: Appointment type
-L79:     Permanent
-L80:
-L81: Occupations and job series
-L82:
-L83:   * 【13†0110 Economist】
-L84:
-L85: Supervisory status
-L86:     No
-L87:
-L88: Federal service type
-L89:     This job is in the Competitive Service
-L90:
-L91: Represented by a union
-L92:     Yes
-L93:
-L94: Drug test
-L95:     No
-L96:
-L97: Security clearance
-L98:     Other
-L99:
-L100: Position sensitivity and risk
-L101:     【14†High Risk (HR)†usajobshelp.opm.gov】
-L102: Jobs require a 【14†background check†usajobshelp.opm.gov】 and some require a 【14†security clearance†usajobshelp.opm.gov】. The type depends on the job.
-L103:
-L104: Background check type
-L105:
-L106:   * 【14†Suitability/Fitness†usajobshelp.opm.gov】
-L107:
-L108: Financial disclosure required
-L109:     Yes
-L110:
-L111:
-L112: Some jobs require 【15†financial disclosure†usajobshelp.opm.gov】 to identify conflicts of interests.
-L113:
-L114: Announcement number
-L115:     27-IN-13103411-LS
-L116:
-L117: Control number
-L118:     890676500
-L119: ## This job is open to
-L120:
-L121: 【16†Help†usajobshelp.opm.gov】
-L122:
-L123: 【17†Internal to an agency Current federal employees of the hiring agency that posted the job announcement.】
-L124:
-L125: ### Clarification from the agency
-L126:
-L127: Well-qualified surplus/displaced SEC employees ((i.e. CTAP) in the local area and current SEC employees in permanent competitive service positions (i.e. status candidates)
-L128: ## Duties
-L129:
-L130: 【18†Help†usajobshelp.opm.gov】
-L131:
-L132: In this role as a Financial Economist - Crypto Assets and Novel Products, you will be responsible for:
-L133:   * Advising OAR, Division, and Commission leadership on developments in securities market structure, drawing on research and/or experience working in markets.
-L134:   * Serving as a principal investigator or subject matter expert on data-intensive research efforts on matters related to the operations and structure of financial markets using large, complex data sets.
-L135:   * Developing, or leading the development of, tools and applications, including visualizations and dashboards, that provide SEC staff and leadership with insights into the state and functioning of markets.
-L136:   * Developing and presenting analytical products that are clear and easily understood by staff who may not have extensive technical or quantitative backgrounds, to inform SEC policy choices or identify emerging issues, trends, and risks that may merit SEC action.
-L137:   * Advising others on best practices for effective communication of complex, quantitative analysis to policy-makers.
-L138:   * Advising OAR leadership on matters related to data, technology, and quantitative methods, including potential new data sets to acquire, selection and development of technology for querying and analyzing data, and best practices for the conduct of quantitative analysis.
-L139:   * Engaging with staff throughout the Commission, market participants, and other regulators to maintain up-to-date knowledge of market practices and dynamics, and advise staff in other TM offices with respect to market practices, developments in market structure, and market data bearing on policy initiatives.
-L140:   * OAR staff research contributes to the clarification of issues and contributes an analytical and transparent basis for policy choices. OAR staff may collaborate on examinations and in enforcement matters as subject-matter experts. Staff in OAR also conduct research and analysis to identify emerging issues, trends, and risks that may affect the fair, orderly, and efficient operation of markets.
-L141: Work in support of this area of focus ranges from the development of market monitoring tools to the conduct of original market structure research. OAR staff typically has frequent discussions with a wide variety of market participants and external experts as part of gathering details on given topics and initiatives
-L142: ## Requirements
-L143:
-L144: 【19†Help†usajobshelp.opm.gov】
-L145: ### Conditions of employment
-L146:   * CITZENSHIP: You must be a US Citizen.
-L147:   * SELECTIVE SERVICE: Males born after 12/31/59 must be registered or exempt from Selective Service (see https://www.sss.gov/).
-L148:   * DRUG TESTING: This position may be subjected to drug testing requirements.
-L149:   * PERMANENT CHANGE OF STATION (PCS): Moving/Relocation expenses are not authorized.
-L150:   * DIRECT DEPOSIT: All Federal employees are required to have Federal salary payments made by direct deposit to a financial institution of their choosing.
-L151:   * The selectee is required to report to the duty station(s) listed.
-L152: ### Qualifications
-L153: Time-in-grade for this announcement is one year at the GS/SK-14 level.
-L154: Applicants are responsible for confirming all required materials are submitted by the closing date of the announcement. Please check the How You Will Be Evaluated and Required Documents sections carefully, as missing documents will render the application incomplete and ineligible for review.
-L155: Qualifying experience may be obtained in the private or public sector. Experience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., Peace Corps, AmeriCorps) and other organizations (e.g., professional; philanthropic; religious; spiritual; community, student, social). Volunteer work helps build critical competencies, knowledge, and skills and can provide valuable training and experience that translates directly to paid employment.
-L156: You will receive credit for all qualifying experience, including volunteer experience. All qualification requirements must be met by the closing date of this announcement.
-L157: BASIC REQUIREMENT:
-L158: A. Applicants must show successful completion of a full four-year course of study in an accredited college or university leading to a bachelor's or higher degree in economics that included at least 21 semester hours in economics and 3 semester hours in statistics, accounting, or calculus.
-L159: --OR--
-L160: B. An appropriate combination of education and experience----courses equivalent to a major in economics, as shown in A above, plus appropriate experience or additional education.
-L161: Examples of qualifying experience include economic research assignments requiring planning, information assembly, analysis and evaluation, conclusions and report preparation; supervisory or project coordination assignments involving a staff of professional economists, and requiring the evaluation and interpretation of economic information; or teaching assignments in a college or university in economic subjects in combination with one of the following: personal research that produced evidence of results, direction of graduate theses in economics, or service as a consultant or advisor on technical economics problems.
-L162: MINIMUM QUALIFICATION REQUIREMENT: In addition to meeting the basic requirement, applicants must also meet the minimum qualification requirement
-L163: SK-16: Applicant must have at least one year of specialized experience equivalent to the GS/SK-14 level:
-L164:   1. Contributing to rulemaking, policy, and/or oversight of the secondary markets for digital assets and/or related markets (such as prediction markets or perpetual contracts) or related infrastructure; AND
-L165:   2. Analyzing or interpreting market data and economic information about digital assets and/or related markets (such as perpetual contracts or prediction markets) to communicate with stakeholders; AND
-L166:   3. Planning, directing, or conducting research projects, with an emphasis on the market structure for and economic information about digital assets and related emerging asset classes, to develop recommendations to senior management.
-L167: ACCOMPLISHMENT RECORD COMPETENCIES: Your Accomplishment Record narratives should address the following competencies. See the How You Will Be Evaluated section below for more information:
-L168: Competency 1: Economic Modeling - Applies economic theory to make predictions and develop hypotheses.
-L169: Competency 2: Economic Research Expertise - Interprets and advises on economic policy to inform SEC positions and the public.
-L170: Competency 3: Statistical Expertise - Performs and interprets data analysis.
-L171: Competency 4: Teamwork and Collaboration - Interacts with internal and external stakeholders in a manner that advances SEC goals and objectives.
-L172: ### Education
-L173: You MUST provide transcripts or other documentation to support your educational claims. Unless otherwise stated: (1) official or unofficial transcripts are acceptable, or (2) you may submit a list with all your courses, grades, semester, year, and credit for the course. If you are qualifying for this position by substituting education or training for experience, you must submit a copy of your unofficial transcripts or equivalent by the closing date of the announcement.
-L174: Qualifying education must have been obtained from an accredited college or university recognized by the U.S. Department of Education. Internal Applicants: OHR will verify education qualifications for internal applicants using documents in the Electronic Official Personnel Folder (eOPF). If required transcripts or certificates are not present in your eOPF, you will be required to provide them to OHR. If selected, a start date will not be established until official transcripts are received.
-L175: FOREIGN EDUCATION: If you are using education completed in foreign colleges or universities to meet the qualification requirements, you must show the education credentials have been evaluated by a private organization that specializes in interpretation of foreign education programs. For more information, click 【20†here.†www.ed.gov】
-L176: Applicants may also find the following helpful:
-L177: 【21†National Association of Credential Evaluation Services (NACES)†www.naces.org】 is an association of 19 credential evaluation services with admission standards and an enforced code of good practice.
-L178: 【22†Association of International Credentials Evaluators (AICE)†aice-eval.org】 is an association of 10 credential evaluation services with a board of advisors and an enforced code of ethics.
-L179: ### Additional information
-L180: Supplementary vacancies may be filled in addition to the number stated in this announcement and may be filled from any division or office within the agency.
-L181: SEC COMPENSATION PROGRAM: Total salary (base pay + locality) is dependent upon duty location. The overall salary range listed above is provided for informational purposes. The pay for current SEC employees will be determined according to the procedures specified in the agency's policy. If your selection results in a change in grade from an SK-15 to an SK-16, you will maintain your current salary.
-L182: IMPORTANT INFORMATION FOR SURPLUS OR DISPLACED FEDERAL EMPLOYEES: If you have never worked for the federal government, you are not I/CTAP eligible. To receive selection priority for this position, you must: (1) meet CTAP or ICTAP eligibility criteria; the questionnaire asks you to identify your ICTAP/CTAP eligibility (2) be rated well-qualified; and, (3) submit the appropriate documentation to support your CTAP or ICTAP eligibility.
-L183: View information about 【23†I/CTAP eligibility†www.opm.gov】 on OPM's Career Transition Resources website.
-L184: Disability Employment: For information on disability appointments, click 【24†here†www.opm.gov】.
-L185: Reasonable Accommodation: If you are an applicant who needs a reasonable accommodation to participate in the SEC application process due to a medical disability, please contact reasonableaccommodation@sec.gov. For religious-based accommodations, please contact religiousaccommodation@sec.gov . Please be sure to submit your request at least 5 business days in advance of the date you need the requested accommodation.
-L186: Equal Employment Opportunity (EEO) Information for SEC Job Applicants: For more information, please click 【25†here†www.sec.gov】.
-L187: The Fair Chance Act prohibits specific inquiries concerning an applicant's criminal or credit background unless the hiring agency has made a conditional offer of employment to the applicant. An applicant may submit a complaint, or any other information, to the agency within 30 calendar days of the date of alleged non-compliance by contacting the Legal and Policy Office in the Office of Human Resources at 【26†ElliottT@sec.gov】.
-L188:
-L189: Expand Hide  additional information
-L190: Candidates should be committed to improving the efficiency of the Federal government, passionate about the ideals of our American republic, and committed to upholding the rule of law and the United States Constitution.
-L191: # Benefits
-L192:
-L193: 【27†Help†usajobshelp.opm.gov】
-L194:
-L195: A career with the U.S. government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding. 【28†Opens in a new window Learn more about federal benefits†usajobshelp.opm.gov】.
-L196:
-L197: 【29†Review our benefits†www.sec.gov】
-L198: Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time or intermittent. Contact the hiring agency for more information on the specific benefits offered.
-L199: ## How you will be evaluated
-L200:
-L201: You will be evaluated for this job based on how well you meet the qualifications above.
-L202: Your resume and application package will first be reviewed to determine whether you meet the minimum qualification requirements outlined in the announcement. Please do not submit an Accomplishment Record at this time.
-L203: If you are found minimally qualified, the Office of Human Resources will contact you to request an Accomplishment Record. You will have 3 business days from the date of the request to submit it. Failure to submit the Accomplishment Record on time will remove you from further consideration. A response is required even if an Accomplishment Record was submitted at time of application. Because of the short turnaround time, you are strongly encouraged to begin preparing your Accomplishment Record in advance.
-L204: Once your Accomplishment Record is received, a rating panel will review both your resume and your narrative responses. Your Accomplishment Record must clearly demonstrate your proficiency in the competencies listed in the Qualifications section. Click 【30†here†www.sec.gov】 for guidance on writing your Accomplishment Record.
-L205: Your resume must provide evidence that supports the claims in your Accomplishment Record. Each narrative must describe one specific, relevant example from your experience or training. Responses are limited to 300 words per competency; any text beyond this limit will not be reviewed.
-L206: Accomplishment Record Format:
-L207: Competency Title
-L208:   * Position title and dates from your resume that this experience was obtained
-L209:   * Describe the situation (i.e., the challenged faced, the problem solved)
-L210:   * Describe the specific actions you took
-L211:   * State the outcome, results, or long-term impact of your accomplishment
-L212:   * Name and email address of someone who can verify this information
-L213: Reference checks may be conducted as part of the final selection process, and you will be notified before any contacts are made.
-L214: Basis for Rating: The rating panel will evaluate applicants' accomplishment records and resume, then place them into one of the following categories:
-L215:   * Highly Qualified - Meets the minimum qualification requirements and has extensive skills and experience in most of the job related competencies.
-L216:   * Well Qualified - Meets the minimum qualification requirements and has a moderate amount of skills and experience in most of the job related competencies.
-L217:   * Qualified - Meets the minimum qualification requirements, but may have a limited amount of experience in several of the job related competencies.
-L218: Top ranked applicants will be referred to the hiring office for further review and consideration. The hiring office may directly contact recommended candidates for interview(s).
-L219: To preview the Questionnaire, click 【31†https://apply.usastaffing.gov/ViewQuestionnaire/13103411†apply.usastaffing.gov】
-L220: # Benefits
-L221:
-L222: 【27†Help†usajobshelp.opm.gov】
-L223:
-L224: A career with the U.S. government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding. 【28†Opens in a new window Learn more about federal benefits†usajobshelp.opm.gov】.
-L225:
-L226: 【29†Review our benefits†www.sec.gov】
-L227: Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time or intermittent. Contact the hiring agency for more information on the specific benefits offered.
-L228: # Required documents
-L229: ## Required Documents
-L230:
-L231: 【19†Help†usajobshelp.opm.gov】
-L232:
-L233: You must provide a complete Application Package, which includes:
-L234:   * Required: Your responses to the Questionnaire.
-L235:   * Required: Resume - Resumes should include relevant work experience, with specific employment dates, that demonstrates qualifications for the specialized experience and competencies as outlined above. If your resume does not reflect demonstrated evidence of these qualifications, you may not receive consideration for the position. Resumes that exceed two pages will be deemed ineligible and receive no further consideration.
-L236: For resume writing tips, visit 【32†USAJOBS†help.usajobs.gov】 and the SEC 【30†careers†www.sec.gov】 page.
-L237:   * Required, if applicable: CTAP documentation (a copy of a separation notice or other proof of eligibility for priority selection; a copy of an SF-50, Notification of Personnel Action, showing current position, grade, promotion potential, and duty location; AND a copy of your most recent performance appraisal.)
-L238: SEC EMPLOYEES: OHR will verify your competitive service eligibility via the SEC's personnel database.
-L239: ### If you are relying on your education to meet qualification requirements:
-L240:
-L241: Education must be accredited by an accrediting institution recognized by the U.S. Department of Education in order for it to be credited towards qualifications. Therefore, provide only the attendance and/or degrees from 【33†schools accredited by accrediting institutions recognized by the U.S. Department of Education†www.ed.gov】.
-L242: Failure to provide all of the required information as stated in this vacancy announcement may result in an ineligible rating or may affect the overall rating.
-L243: # How to Apply
-L244:
-L245: 【34†Help†usajobshelp.opm.gov】
-L246:
-L247: To apply for this position, you must complete the online application and submit the documentation specified in the Required Documents.
-L248: A complete application package must be submitted by 11:59 PM (EST) on the closing date of the announcement to receive consideration. No additional documentation will be accepted after the closing date of the announcement.
-L249:   * To begin, click Apply to access the online application. You will need to be logged into your USAJOBS account to apply. If you do not have a USAJOBS account, you will need to create one before beginning the application.
-L250:   * Follow the prompts to select your resume and/or other supporting documents to be included with your application package. You will have the opportunity to upload additional documents to include in your application before it is submitted. Your uploaded documents may take several hours to clear the virus scan process.
-L251:   * After acknowledging you have reviewed your application package, complete the Include Personal Information section as you deem appropriate and click to continue with the application process.
-L252:   * You will be taken to the online application which you must complete in order to apply for the position. Complete the online application, verify the required documentation is included with your application package, and submit the application.
-L253: To verify the status of your application, log into your USAJOBS account (【35†https://my.usajobs.gov/Account/Login†my.usajobs.gov】), all of your applications will appear on the Welcome screen. The Application Status will appear along with the date your application was last updated. For information on what each Application Status means, visit: 【36†https://www.usajobs.gov/Help/how-to/application/status/】.
-L254: ### Agency contact information
-L255:
-L256: ask HR
-L257:
-L258: Email
-L259:     askHR@sec.gov
-L260:
-L261: Address
-L262:     Division of Trading and Markets
-L263: 100 F Street NE
-L264: Washington, DC 20549
-L265: US
-L266: ### Next steps
-L267: You will be notified of your application status through USAJOBS at four points during the hiring process, as applicable. You can check the status of your application by accessing the USAJOBS website at 【37†http://usajobs.gov/†usajobs.gov】 and clicking on "Track Your Online Application."
-L268: By submitting your application, you are certifying the accuracy of the information contained in your application. If you make a false statement in any part of your application, you may not be hired, you may be terminated after you begin work, or you may be fined or jailed. After making a tentative job offer, we will conduct a suitability/security background investigation. You will be required to submit official documentation before appointment.
-L269: The agency will then verify the information provided on your application (i.e., degree, Veterans' Preference, certification of disability, etc.).
-L270: # Fair and transparent
-L271:
-L272: The Federal hiring process is set up to be fair and transparent. Please read the following guidance.
-L273:
-L274: 【38†Criminal history inquiries†usajobshelp.opm.gov】 【39†Equal Employment Opportunity (EEO) Policy†usajobshelp.opm.gov】
-L275:
-L276: 【40†Financial suitability†usajobshelp.opm.gov】 【41†New employee probationary period†usajobshelp.opm.gov】
-L277:
-L278: 【42†Privacy Act†usajobshelp.opm.gov】 【43†Reasonable accommodation policy†usajobshelp.opm.gov】
-L279: 【44†Selective Service†usajobshelp.opm.gov】 【45†Signature and false statements†usajobshelp.opm.gov】
-L280:
-L281: 【46†Social security number request†usajobshelp.opm.gov】
-L282: ## Required Documents
-L283:
-L284: 【19†Help†usajobshelp.opm.gov】
-L285:
-L286: You must provide a complete Application Package, which includes:
-L287:   * Required: Your responses to the Questionnaire.
-L288:   * Required: Resume - Resumes should include relevant work experience, with specific employment dates, that demonstrates qualifications for the specialized experience and competencies as outlined above. If your resume does not reflect demonstrated evidence of these qualifications, you may not receive consideration for the position. Resumes that exceed two pages will be deemed ineligible and receive no further consideration.
-L289: For resume writing tips, visit 【32†USAJOBS†help.usajobs.gov】 and the SEC 【30†careers†www.sec.gov】 page.
-L290:   * Required, if applicable: CTAP documentation (a copy of a separation notice or other proof of eligibility for priority selection; a copy of an SF-50, Notification of Personnel Action, showing current position, grade, promotion potential, and duty location; AND a copy of your most recent performance appraisal.)
-L291: SEC EMPLOYEES: OHR will verify your competitive service eligibility via the SEC's personnel database.
-L292: ### If you are relying on your education to meet qualification requirements:
-L293:
-L294: Education must be accredited by an accrediting institution recognized by the U.S. Department of Education in order for it to be credited towards qualifications. Therefore, provide only the attendance and/or degrees from 【33†schools accredited by accrediting institutions recognized by the U.S. Department of Education†www.ed.gov】.
-L295: Failure to provide all of the required information as stated in this vacancy announcement may result in an ineligible rating or may affect the overall rating.
-L296: ## How to Apply
-L297:
-L298: 【34†Help†usajobshelp.opm.gov】
-L299:
-L300: To apply for this position, you must complete the online application and submit the documentation specified in the Required Documents.
-L301: A complete application package must be submitted by 11:59 PM (EST) on the closing date of the announcement to receive consideration. No additional documentation will be accepted after the closing date of the announcement.
-L302:   * To begin, click Apply to access the online application. You will need to be logged into your USAJOBS account to apply. If you do not have a USAJOBS account, you will need to create one before beginning the application.
-L303:   * Follow the prompts to select your resume and/or other supporting documents to be included with your application package. You will have the opportunity to upload additional documents to include in your application before it is submitted. Your uploaded documents may take several hours to clear the virus scan process.
-L304:   * After acknowledging you have reviewed your application package, complete the Include Personal Information section as you deem appropriate and click to continue with the application process.
-L305:   * You will be taken to the online application which you must complete in order to apply for the position. Complete the online application, verify the required documentation is included with your application package, and submit the application.
-L306: To verify the status of your application, log into your USAJOBS account (【35†https://my.usajobs.gov/Account/Login†my.usajobs.gov】), all of your applications will appear on the Welcome screen. The Application Status will appear along with the date your application was last updated. For information on what each Application Status means, visit: 【36†https://www.usajobs.gov/Help/how-to/application/status/】.
-L307: Expand Hide  how to apply
-L308: ### Agency contact information
-L309:
-L310: ask HR
-L311:
-L312: Email
-L313:     askHR@sec.gov
-L314:
-L315: Address
-L316:     Division of Trading and Markets
-L317: 100 F Street NE
-L318: Washington, DC 20549
-L319: US
-L320: ### Next steps
-L321: You will be notified of your application status through USAJOBS at four points during the hiring process, as applicable. You can check the status of your application by accessing the USAJOBS website at 【37†http://usajobs.gov/†usajobs.gov】 and clicking on "Track Your Online Application."
-L322: By submitting your application, you are certifying the accuracy of the information contained in your application. If you make a false statement in any part of your application, you may not be hired, you may be terminated after you begin work, or you may be fined or jailed. After making a tentative job offer, we will conduct a suitability/security background investigation. You will be required to submit official documentation before appointment.
-L323: The agency will then verify the information provided on your application (i.e., degree, Veterans' Preference, certification of disability, etc.).
-L324: Expand Hide  next steps
-L325: ## Fair and transparent
-L326:
-L327: The Federal hiring process is set up to be fair and transparent. Please read the following guidance.
-L328:
-L329: 【38†Criminal history inquiries†usajobshelp.opm.gov】 【39†Equal Employment Opportunity (EEO) Policy†usajobshelp.opm.gov】
-L330:
-L331: 【40†Financial suitability†usajobshelp.opm.gov】 【41†New employee probationary period†usajobshelp.opm.gov】
-L332:
-L333: 【42†Privacy Act†usajobshelp.opm.gov】 【43†Reasonable accommodation policy†usajobshelp.opm.gov】
-L334: 【44†Selective Service†usajobshelp.opm.gov】 【45†Signature and false statements†usajobshelp.opm.gov】
-L335:
-L336: 【46†Social security number request†usajobshelp.opm.gov】
-L337: ## Securities and Exchange Commission
-L338: Our mission includes advocating for investors who seek to secure a future for their family, providing guidance and regulations for the nation's securities industry in an increasingly global market, and taking action with an eye toward promoting the capital formation necessary to sustain economic growth.
-L339: A career with the Securities and Exchange Commission (SEC) offers work that is exciting, challenging and rewarding. You can contribute to securities regulation and enforcement while making a positive difference for the American investing public. The SEC provides:
-L340:   * Careers that broaden and deepen your already accomplished knowledge, skills and abilities;
-L341:   * An environment that allows you to work and learn with the nation's experts;
-L342:   * Benefits, compensation and career expansion opportunities; and
-L343:   * A balance between your professional and family life.
-L344: The SEC offers a number of enhanced pay and benefits plus the standard Federal benefits. Please be sure to visit the SEC's 【47†compensation†www.sec.gov】 and 【48†benefits program†www.sec.gov】 pages.
-L345: ### Agency contact information
-L346:
-L347: ask HR
-L348:
-L349: Email
-L350:     askHR@sec.gov
-L351:
-L352: Address
-L353:     Division of Trading and Markets
-L354: 100 F Street NE
-L355: Washington, DC 20549
-L356: US
-L357:
-L358: ### Visit our careers page
-L359:
-L360: Learn more about what it's like to work at Securities and Exchange Commission, what the agency does, and about the types of careers this agency offers.
-L361:
-L362: 【49†https://www.sec.gov.†www.sec.gov.】
-L363:
-L364: [Input]
-L365: ## Summary
-L366:
-L367: The Division of Trading and Markets (TM) is seeking a Financial Economist - Crypto Assets and Novel Products. As a Financial Economist - Crypto Assets and Novel Products, you will work with colleagues in other offices within TM and other Divisions and Offices at the SEC on initiatives related to the development or modification of market rules and regulations and the review of rules proposed by self-regulatory organizations related to the structure and operation of securities markets.
-L368: [Button: Learn more about this agency ]
-L369: ## Overview
-L370:
-L371: 【11†Help†usajobshelp.opm.gov】
-L372:
-L373: Accepting applications
-L374:
-L375: Location
-L376:
-L377: 1 vacancy in the following location:
-L378:
-L379: Washington, DC
-L380:
-L381: Work site options
-L382:
-L383: Telework eligible
-L384:     No
-L385:
-L386: Remote job
-L387:     No
-L388:
-L389: Relocation expenses reimbursed
-L390:     No
-L391:
-L392: Salary
-L393:     $174,859 - $292,300 per year
-L394:
-L395: Pay scale & grade
-L396:
-L397:
-L398: SK 16
-L399:
-L400: Promotion potential
-L401:     16
-L402:
-L403: 【12†Learn more about pay scale and grade†usajobshelp.opm.gov】
-L404:
-L405: Pay scale and grade determines the salary of the job.
-L406:
-L407: Work schedule
-L408:     Full-time
-L409: Travel Required
-L410:     Occasional travel - You may be expected to travel for this position.
-L411:
-L412: Appointment type
-L413:     Permanent
-L414:
-L415: Occupations and job series
-L416:
-L417:   * 【13†0110 Economist】
-L418:
-L419: Supervisory status
-L420:     No
-L421:
-L422: Federal service type
-L423:     This job is in the Competitive Service
-L424:
-L425: Represented by a union
-L426:     Yes
-L427:
-L428: Drug test
-L429:     No
-L430:
-L431: Security clearance
-L432:     Other
-L433:
-L434: Position sensitivity and risk
-L435:     【14†High Risk (HR)†usajobshelp.opm.gov】
-L436: Jobs require a 【14†background check†usajobshelp.opm.gov】 and some require a 【14†security clearance†usajobshelp.opm.gov】. The type depends on the job.
-L437:
-L438: Background check type
-L439:
-L440:   * 【14†Suitability/Fitness†usajobshelp.opm.gov】
-L441:
-L442: Financial disclosure required
-L443:     Yes
-L444:
-L445:
-L446: Some jobs require 【15†financial disclosure†usajobshelp.opm.gov】 to identify conflicts of interests.
-L447:
-L448: Announcement number
-L449:     27-IN-13103411-LS
-L450:
-L451: Control number
-L452:     890676500
-L453:
-L454: 【2†Previous result】
-L455:
-L456: 【2†Next result】
-L457: ## Your session is about to expire!
-L458:
-L459: Your USAJOBS session will expire due to inactivity in 8 minutes. Any unsaved data will be lost if you allow the session to expire. Click the button below to continue your session.
-L460:
-L461: [Button: Sign out] [Button: Stay signed in]
-L462:
-L463: [Button: Return to top]
-L464:
-L465: 【50†Image: USAJOBS footer logo】
-L466:
+The Division of Trading and Markets (TM) is seeking a Financial Economist - Crypto Assets and Novel Products. As a Financial Economist - Crypto Assets and Novel Products, you will work with colleagues in other offices within TM and other Divisions and Offices at the SEC on initiatives related to the development or modification of market rules and regulations and the review of rules proposed by self-regulatory organizations related to the structure and operation of securities markets.
 
+## Duties
 
+In this role as a Financial Economist - Crypto Assets and Novel Products, you will be responsible for:
+Advising OAR, Division, and Commission leadership on developments in securities market structure, drawing on research and/or experience working in markets.
+Serving as a principal investigator or subject matter expert on data-intensive research efforts on matters related to the operations and structure of financial markets using large, complex data sets.
+Developing, or leading the development of, tools and applications, including visualizations and dashboards, that provide SEC staff and leadership with insights into the state and functioning of markets.
+Developing and presenting analytical products that are clear and easily understood by staff who may not have extensive technical or quantitative backgrounds, to inform SEC policy choices or identify emerging issues, trends, and risks that may merit SEC action.
+Advising others on best practices for effective communication of complex, quantitative analysis to policy-makers.
+Advising OAR leadership on matters related to data, technology, and quantitative methods, including potential new data sets to acquire, selection and development of technology for querying and analyzing data, and best practices for the conduct of quantitative analysis.
+Engaging with staff throughout the Commission, market participants, and other regulators to maintain up-to-date knowledge of market practices and dynamics, and advise staff in other TM offices with respect to market practices, developments in market structure, and market data bearing on policy initiatives.
+OAR staff research contributes to the clarification of issues and contributes an analytical and transparent basis for policy choices. OAR staff may collaborate on examinations and in enforcement matters as subject-matter experts. Staff in OAR also conduct research and analysis to identify emerging issues, trends, and risks that may affect the fair, orderly, and efficient operation of markets. Work in support of this area of focus ranges from the development of market monitoring tools to the conduct of original market structure research. OAR staff typically has frequent discussions with a wide variety of market participants and external experts as part of gathering details on given topics and initiatives
 
-Source is the web tool rendered announcement, including its line references; HTML downloads were blocked with HTTP 403. Date evidence is distinguished from retrieval time above.
+## Qualifications
+
+Time-in-grade for this announcement is one year at the GS/SK-14 level.
+Applicants are responsible for confirming all required materials are submitted by the closing date of the announcement. Please check the How You Will Be Evaluated and Required Documents sections carefully, as missing documents will render the application incomplete and ineligible for review.
+Qualifying experience may be obtained in the private or public sector. Experience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., Peace Corps, AmeriCorps) and other organizations (e.g., professional; philanthropic; religious; spiritual; community, student, social). Volunteer work helps build critical competencies, knowledge, and skills and can provide valuable training and experience that translates directly to paid employment. You will receive credit for all qualifying experience, including volunteer experience. All qualification requirements must be met by the closing date of this announcement.
+BASIC REQUIREMENT:
+A. Applicants must show successful completion of a full four-year course of study in an accredited college or university leading to a bachelor's or higher degree in economics that included at least 21 semester hours in economics and 3 semester hours in statistics, accounting, or calculus.
+--OR--
+B. An appropriate combination of education and experience----courses equivalent to a major in economics, as shown in A above, plus appropriate experience or additional education. Examples of qualifying experience include economic research assignments requiring planning, information assembly, analysis and evaluation, conclusions and report preparation; supervisory or project coordination assignments involving a staff of professional economists, and requiring the evaluation and interpretation of economic information; or teaching assignments in a college or university in economic subjects in combination with one of the following: personal research that produced evidence of results, direction of graduate theses in economics, or service as a consultant or advisor on technical economics problems.
+MINIMUM QUALIFICATION REQUIREMENT: In addition to meeting the basic requirement, applicants must also meet the minimum qualification requirement
+SK-16: Applicant must have at least one year of specialized experience equivalent to the GS/SK-14 level:
+Contributing to rulemaking, policy, and/or oversight of the secondary markets for digital assets and/or related markets (such as prediction markets or perpetual contracts) or related infrastructure; AND
+Analyzing or interpreting market data and economic information about digital assets and/or related markets (such as perpetual contracts or prediction markets) to communicate with stakeholders; AND
+Planning, directing, or conducting research projects, with an emphasis on the market structure for and economic information about digital assets and related emerging asset classes, to develop recommendations to senior management.
+ACCOMPLISHMENT RECORD COMPETENCIES: Your Accomplishment Record narratives should address the following competencies. See the How You Will Be Evaluated section below for more information:
+Competency 1: Economic Modeling - Applies economic theory to make predictions and develop hypotheses.
+Competency 2: Economic Research Expertise - Interprets and advises on economic policy to inform SEC positions and the public.
+Competency 3: Statistical Expertise - Performs and interprets data analysis.
+Competency 4: Teamwork and Collaboration - Interacts with internal and external stakeholders in a manner that advances SEC goals and objectives.
+
+## Education
+
+You MUST provide transcripts or other documentation to support your educational claims. Unless otherwise stated: (1) official or unofficial transcripts are acceptable, or (2) you may submit a list with all your courses, grades, semester, year, and credit for the course. If you are qualifying for this position by substituting education or training for experience, you must submit a copy of your unofficial transcripts or equivalent by the closing date of the announcement. Qualifying education must have been obtained from an accredited college or university recognized by the U.S. Department of Education. Internal Applicants: OHR will verify education qualifications for internal applicants using documents in the Electronic Official Personnel Folder (eOPF). If required transcripts or certificates are not present in your eOPF, you will be required to provide them to OHR. If selected, a start date will not be established until official transcripts are received.
+FOREIGN EDUCATION: If you are using education completed in foreign colleges or universities to meet the qualification requirements, you must show the education credentials have been evaluated by a private organization that specializes in interpretation of foreign education programs. For more information, click here.
+Applicants may also find the following helpful:
+National Association of Credential Evaluation Services (NACES) is an association of 19 credential evaluation services with admission standards and an enforced code of good practice.
+Association of International Credentials Evaluators (AICE) is an association of 10 credential evaluation services with a board of advisors and an enforced code of ethics.
+
+## Full rendered official announcement
+
+USAJOBS - Job Announcement
+
+ Skip to main content
+
+ An official website of the United States government
+
+Official websites use .gov
+
+A .gov website belongs to an official government organization in the United States.
+
+Secure .gov websites use HTTPS
+ A lock ( LockA locked padlock ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.
+
+ MENU
+
+ Sign in
+
+ My jobs
+
+ Profile
+
+ Resumes & documents
+
+ Notifications
+
+ Talent networks
+
+ Sign out
+
+ My jobs
+
+ Profile
+
+ Resumes & documents
+
+ Notifications
+
+ Talent networks
+
+ Sign out
+
+ Events
+
+ Help Center
+
+ Search
+
+ Back to results
+
+ Apply
+
+ Financial Economist - Crypto Assets and Novel Products
+
+Securities and Exchange Commission
+
+Division of Trading and Markets
+
+Apply
+
+ Print
+
+ Share
+
+ Save
+
+ Summary
+
+ This job is open to
+
+ Duties
+
+ Requirements
+
+ How you will be evaluated
+
+ Required documents
+
+ How to apply
+
+Summary
+
+The Division of Trading and Markets (TM) is seeking a Financial Economist - Crypto Assets and Novel Products. As a Financial Economist - Crypto Assets and Novel Products, you will work with colleagues in other offices within TM and other Divisions and Offices at the SEC on initiatives related to the development or modification of market rules and regulations and the review of rules proposed by self-regulatory organizations related to the structure and operation of securities markets.
+
+ Learn more about this agency
+
+Summary
+
+The Division of Trading and Markets (TM) is seeking a Financial Economist - Crypto Assets and Novel Products. As a Financial Economist - Crypto Assets and Novel Products, you will work with colleagues in other offices within TM and other Divisions and Offices at the SEC on initiatives related to the development or modification of market rules and regulations and the review of rules proposed by self-regulatory organizations related to the structure and operation of securities markets.
+
+ Learn more about this agency
+
+Overview
+
+ Help
+
+Accepting applications
+
+Location
+
+1 vacancy in the following location:
+
+ Washington, DC
+
+ No matching locations found.
+
+Work site options
+
+Telework eligible
+
+No
+
+Remote job
+
+No
+
+Relocation expenses reimbursed
+
+ No
+
+Salary
+
+ $174,859 - $292,300 per year
+
+Pay scale & grade
+
+SK 16
+
+Promotion potential
+
+16
+
+ Learn more about pay scale and grade
+
+ Pay scale and grade determines the salary of the job.
+
+Work schedule
+
+Full-time
+
+Travel Required
+
+Occasional travel - You may be expected to travel for this position.
+
+Appointment type
+
+Permanent
+
+Occupations and job series
+
+ 0110 Economist
+
+Supervisory status
+
+No
+
+Federal service type
+
+This job is in the Competitive Service
+
+Represented by a union
+
+Yes
+
+Drug test
+
+No
+
+Security clearance
+
+Other
+
+Position sensitivity and risk
+
+High Risk (HR)
+
+ Jobs require a
+ background check and some require a
+ security clearance. The type depends on the job.
+
+Background check type
+
+ Suitability/Fitness
+
+Financial disclosure required
+
+Yes
+
+ Some jobs require
+ financial disclosure to identify conflicts of interests.
+
+Announcement number
+
+27-IN-13103411-LS
+
+Control number
+
+890676500
+
+This job is open to
+
+ Help
+
+Internal to an agency
+
+ Current federal employees of the hiring agency that posted the job announcement.
+
+Clarification from the agency
+
+Well-qualified surplus/displaced SEC employees ((i.e. CTAP) in the local area and current SEC employees in permanent competitive service positions (i.e. status candidates)
+
+Duties
+
+ Help
+
+ In this role as a Financial Economist - Crypto Assets and Novel Products, you will be responsible for:
+
+Advising OAR, Division, and Commission leadership on developments in securities market structure, drawing on research and/or experience working in markets.
+
+Serving as a principal investigator or subject matter expert on data-intensive research efforts on matters related to the operations and structure of financial markets using large, complex data sets.
+
+Developing, or leading the development of, tools and applications, including visualizations and dashboards, that provide SEC staff and leadership with insights into the state and functioning of markets.
+
+Developing and presenting analytical products that are clear and easily understood by staff who may not have extensive technical or quantitative backgrounds, to inform SEC policy choices or identify emerging issues, trends, and risks that may merit SEC action.
+
+Advising others on best practices for effective communication of complex, quantitative analysis to policy-makers.
+
+Advising OAR leadership on matters related to data, technology, and quantitative methods, including potential new data sets to acquire, selection and development of technology for querying and analyzing data, and best practices for the conduct of quantitative analysis.
+
+Engaging with staff throughout the Commission, market participants, and other regulators to maintain up-to-date knowledge of market practices and dynamics, and advise staff in other TM offices with respect to market practices, developments in market structure, and market data bearing on policy initiatives.
+
+OAR staff research contributes to the clarification of issues and contributes an analytical and transparent basis for policy choices. OAR staff may collaborate on examinations and in enforcement matters as subject-matter experts. Staff in OAR also conduct research and analysis to identify emerging issues, trends, and risks that may affect the fair, orderly, and efficient operation of markets. Work in support of this area of focus ranges from the development of market monitoring tools to the conduct of original market structure research. OAR staff typically has frequent discussions with a wide variety of market participants and external experts as part of gathering details on given topics and initiatives
+
+Requirements
+
+ Help
+
+Conditions of employment
+
+CITZENSHIP: You must be a US Citizen.
+
+SELECTIVE SERVICE: Males born after 12/31/59 must be registered or exempt from Selective Service (see https://www.sss.gov/).
+
+DRUG TESTING: This position may be subjected to drug testing requirements.
+
+PERMANENT CHANGE OF STATION (PCS): Moving/Relocation expenses are not authorized.
+
+DIRECT DEPOSIT: All Federal employees are required to have Federal salary payments made by direct deposit to a financial institution of their choosing.
+
+The selectee is required to report to the duty station(s) listed.
+
+Qualifications
+
+ Time-in-grade for this announcement is one year at the GS/SK-14 level.
+
+Applicants are responsible for confirming all required materials are submitted by the closing date of the announcement. Please check the How You Will Be Evaluated and Required Documents sections carefully, as missing documents will render the application incomplete and ineligible for review.
+
+Qualifying experience may be obtained in the private or public sector. Experience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., Peace Corps, AmeriCorps) and other organizations (e.g., professional; philanthropic; religious; spiritual; community, student, social). Volunteer work helps build critical competencies, knowledge, and skills and can provide valuable training and experience that translates directly to paid employment. You will receive credit for all qualifying experience, including volunteer experience. All qualification requirements must be met by the closing date of this announcement.
+
+BASIC REQUIREMENT:
+
+A. Applicants must show successful completion of a full four-year course of study in an accredited college or university leading to a bachelor's or higher degree in economics that included at least 21 semester hours in economics and 3 semester hours in statistics, accounting, or calculus.
+
+--OR--
+
+B. An appropriate combination of education and experience----courses equivalent to a major in economics, as shown in A above, plus appropriate experience or additional education. Examples of qualifying experience include economic research assignments requiring planning, information assembly, analysis and evaluation, conclusions and report preparation; supervisory or project coordination assignments involving a staff of professional economists, and requiring the evaluation and interpretation of economic information; or teaching assignments in a college or university in economic subjects in combination with one of the following: personal research that produced evidence of results, direction of graduate theses in economics, or service as a consultant or advisor on technical economics problems.
+
+MINIMUM QUALIFICATION REQUIREMENT: In addition to meeting the basic requirement, applicants must also meet the minimum qualification requirement
+
+SK-16: Applicant must have at least one year of specialized experience equivalent to the GS/SK-14 level:
+
+Contributing to rulemaking, policy, and/or oversight of the secondary markets for digital assets and/or related markets (such as prediction markets or perpetual contracts) or related infrastructure; AND
+
+Analyzing or interpreting market data and economic information about digital assets and/or related markets (such as perpetual contracts or prediction markets) to communicate with stakeholders; AND
+
+Planning, directing, or conducting research projects, with an emphasis on the market structure for and economic information about digital assets and related emerging asset classes, to develop recommendations to senior management.
+
+ACCOMPLISHMENT RECORD COMPETENCIES: Your Accomplishment Record narratives should address the following competencies. See the How You Will Be Evaluated section below for more information:
+
+Competency 1: Economic Modeling - Applies economic theory to make predictions and develop hypotheses.
+
+Competency 2: Economic Research Expertise - Interprets and advises on economic policy to inform SEC positions and the public.
+
+Competency 3: Statistical Expertise - Performs and interprets data analysis.
+
+Competency 4: Teamwork and Collaboration - Interacts with internal and external stakeholders in a manner that advances SEC goals and objectives.
+
+Education
+
+ You MUST provide transcripts or other documentation to support your educational claims. Unless otherwise stated: (1) official or unofficial transcripts are acceptable, or (2) you may submit a list with all your courses, grades, semester, year, and credit for the course. If you are qualifying for this position by substituting education or training for experience, you must submit a copy of your unofficial transcripts or equivalent by the closing date of the announcement. Qualifying education must have been obtained from an accredited college or university recognized by the U.S. Department of Education. Internal Applicants: OHR will verify education qualifications for internal applicants using documents in the Electronic Official Personnel Folder (eOPF). If required transcripts or certificates are not present in your eOPF, you will be required to provide them to OHR. If selected, a start date will not be established until official transcripts are received.
+
+FOREIGN EDUCATION: If you are using education completed in foreign colleges or universities to meet the qualification requirements, you must show the education credentials have been evaluated by a private organization that specializes in interpretation of foreign education programs. For more information, click here.
+
+Applicants may also find the following helpful:
+
+National Association of Credential Evaluation Services (NACES) is an association of 19 credential evaluation services with admission standards and an enforced code of good practice.
+
+Association of International Credentials Evaluators (AICE) is an association of 10 credential evaluation services with a board of advisors and an enforced code of ethics.
+
+Additional information
+
+Supplementary vacancies may be filled in addition to the number stated in this announcement and may be filled from any division or office within the agency.
+
+SEC COMPENSATION PROGRAM: Total salary (base pay + locality) is dependent upon duty location. The overall salary range listed above is provided for informational purposes. The pay for current SEC employees will be determined according to the procedures specified in the agency's policy. If your selection results in a change in grade from an SK-15 to an SK-16, you will maintain your current salary.
+
+IMPORTANT INFORMATION FOR SURPLUS OR DISPLACED FEDERAL EMPLOYEES: If you have never worked for the federal government, you are not I/CTAP eligible. To receive selection priority for this position, you must: (1) meet CTAP or ICTAP eligibility criteria; the questionnaire asks you to identify your ICTAP/CTAP eligibility (2) be rated well-qualified; and, (3) submit the appropriate documentation to support your CTAP or ICTAP eligibility. View information about I/CTAP eligibility on OPM's Career Transition Resources website.
+
+Disability Employment: For information on disability appointments, click here.
+
+Reasonable Accommodation: If you are an applicant who needs a reasonable accommodation to participate in the SEC application process due to a medical disability, please contact reasonableaccommodation@sec.gov. For religious-based accommodations, please contact religiousaccommodation@sec.gov . Please be sure to submit your request at least 5 business days in advance of the date you need the requested accommodation.
+
+Equal Employment Opportunity (EEO) Information for SEC Job Applicants: For more information, please click here.
+
+The Fair Chance Act prohibits specific inquiries concerning an applicant's criminal or credit background unless the hiring agency has made a conditional offer of employment to the applicant. An applicant may submit a complaint, or any other information, to the agency within 30 calendar days of the date of alleged non-compliance by contacting the Legal and Policy Office in the Office of Human Resources at ElliottT@sec.gov.
+
+ Expand Hide  additional information
+
+Candidates should be committed to improving the efficiency of the Federal government, passionate about the ideals of our American republic, and committed to upholding the rule of law and the United States Constitution.
+
+Benefits
+
+ Help
+
+ A career with the U.S. government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding. Opens in a new windowLearn more about federal benefits.
+
+ Review our benefits
+
+Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time or intermittent. Contact the hiring agency for more information on the specific benefits offered.
+
+How you will be evaluated
+
+You will be evaluated for this job based on how well you meet the qualifications above.
+
+Your resume and application package will first be reviewed to determine whether you meet the minimum qualification requirements outlined in the announcement. Please do not submit an Accomplishment Record at this time.
+
+If you are found minimally qualified, the Office of Human Resources will contact you to request an Accomplishment Record. You will have 3 business days from the date of the request to submit it. Failure to submit the Accomplishment Record on time will remove you from further consideration. A response is required even if an Accomplishment Record was submitted at time of application. Because of the short turnaround time, you are strongly encouraged to begin preparing your Accomplishment Record in advance.
+
+Once your Accomplishment Record is received, a rating panel will review both your resume and your narrative responses. Your Accomplishment Record must clearly demonstrate your proficiency in the competencies listed in the Qualifications section. Click here for guidance on writing your Accomplishment Record.
+
+Your resume must provide evidence that supports the claims in your Accomplishment Record. Each narrative must describe one specific, relevant example from your experience or training. Responses are limited to 300 words per competency; any text beyond this limit will not be reviewed.
+
+Accomplishment Record Format:
+
+Competency Title
+
+Position title and dates from your resume that this experience was obtained
+
+Describe the situation (i.e., the challenged faced, the problem solved)
+
+Describe the specific actions you took
+
+State the outcome, results, or long-term impact of your accomplishment
+
+Name and email address of someone who can verify this information
+
+Reference checks may be conducted as part of the final selection process, and you will be notified before any contacts are made.
+
+Basis for Rating: The rating panel will evaluate applicants' accomplishment records and resume, then place them into one of the following categories:
+
+Highly Qualified - Meets the minimum qualification requirements and has extensive skills and experience in most of the job related competencies.
+
+Well Qualified - Meets the minimum qualification requirements and has a moderate amount of skills and experience in most of the job related competencies.
+
+Qualified - Meets the minimum qualification requirements, but may have a limited amount of experience in several of the job related competencies.
+
+Top ranked applicants will be referred to the hiring office for further review and consideration. The hiring office may directly contact recommended candidates for interview(s).
+
+To preview the Questionnaire, click https://apply.usastaffing.gov/ViewQuestionnaire/13103411
+
+Benefits
+
+ Help
+
+ A career with the U.S. government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding. Opens in a new windowLearn more about federal benefits.
+
+ Review our benefits
+
+Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time or intermittent. Contact the hiring agency for more information on the specific benefits offered.
+
+Required documents
+
+Required Documents
+
+ Help
+
+ You must provide a complete Application Package, which includes:
+
+Required: Your responses to the Questionnaire.
+
+Required: Resume - Resumes should include relevant work experience, with specific employment dates, that demonstrates qualifications for the specialized experience and competencies as outlined above. If your resume does not reflect demonstrated evidence of these qualifications, you may not receive consideration for the position. Resumes that exceed two pages will be deemed ineligible and receive no further consideration. For resume writing tips, visit USAJOBS and the SEC careers page.
+
+Required, if applicable: CTAP documentation (a copy of a separation notice or other proof of eligibility for priority selection; a copy of an SF-50, Notification of Personnel Action, showing current position, grade, promotion potential, and duty location; AND a copy of your most recent performance appraisal.)
+
+SEC EMPLOYEES: OHR will verify your competitive service eligibility via the SEC's personnel database.
+
+ If you are relying on your education to meet qualification requirements:
+
+ Education must be accredited by an accrediting institution recognized by the U.S. Department of Education in order for it to be credited towards qualifications. Therefore, provide only the attendance and/or degrees from
+ schools accredited by accrediting institutions recognized by the U.S. Department of Education.
+
+ Failure to provide all of the required information as stated in this vacancy announcement may result in an ineligible rating or may affect the overall rating.
+
+How to Apply
+
+ Help
+
+To apply for this position, you must complete the online application and submit the documentation specified in the Required Documents.
+
+A complete application package must be submitted by 11:59 PM (EST) on the closing date of the announcement to receive consideration. No additional documentation will be accepted after the closing date of the announcement.
+
+To begin, click Apply to access the online application. You will need to be logged into your USAJOBS account to apply. If you do not have a USAJOBS account, you will need to create one before beginning the application.
+
+Follow the prompts to select your resume and/or other supporting documents to be included with your application package. You will have the opportunity to upload additional documents to include in your application before it is submitted. Your uploaded documents may take several hours to clear the virus scan process.
+
+After acknowledging you have reviewed your application package, complete the Include Personal Information section as you deem appropriate and click to continue with the application process.
+
+You will be taken to the online application which you must complete in order to apply for the position. Complete the online application, verify the required documentation is included with your application package, and submit the application.
+
+To verify the status of your application, log into your USAJOBS account (https://my.usajobs.gov/Account/Login), all of your applications will appear on the Welcome screen. The Application Status will appear along with the date your application was last updated. For information on what each Application Status means, visit: https://www.usajobs.gov/Help/how-to/application/status/.
+
+Agency contact information
+
+ ask HR
+
+Email
+
+ askHR@sec.gov
+
+Address
+
+ Division of Trading and Markets
+
+ 100 F Street NE
+
+ Washington, DC 20549
+
+ US
+
+Next steps
+
+You will be notified of your application status through USAJOBS at four points during the hiring process, as applicable. You can check the status of your application by accessing the USAJOBS website at http://usajobs.gov/ and clicking on "Track Your Online Application."
+
+By submitting your application, you are certifying the accuracy of the information contained in your application. If you make a false statement in any part of your application, you may not be hired, you may be terminated after you begin work, or you may be fined or jailed. After making a tentative job offer, we will conduct a suitability/security background investigation. You will be required to submit official documentation before appointment. The agency will then verify the information provided on your application (i.e., degree, Veterans' Preference, certification of disability, etc.).
+
+Fair and transparent
+
+The Federal hiring process is set up to be fair and transparent. Please read the following guidance.
+
+ Criminal history inquiries
+
+ Equal Employment Opportunity (EEO) Policy
+
+ Financial suitability
+
+ New employee probationary period
+
+ Privacy Act
+
+ Reasonable accommodation policy
+
+ Selective Service
+
+ Signature and false statements
+
+ Social security number request
+
+Required Documents
+
+ Help
+
+ You must provide a complete Application Package, which includes:
+
+Required: Your responses to the Questionnaire.
+
+Required: Resume - Resumes should include relevant work experience, with specific employment dates, that demonstrates qualifications for the specialized experience and competencies as outlined above. If your resume does not reflect demonstrated evidence of these qualifications, you may not receive consideration for the position. Resumes that exceed two pages will be deemed ineligible and receive no further consideration. For resume writing tips, visit USAJOBS and the SEC careers page.
+
+Required, if applicable: CTAP documentation (a copy of a separation notice or other proof of eligibility for priority selection; a copy of an SF-50, Notification of Personnel Action, showing current position, grade, promotion potential, and duty location; AND a copy of your most recent performance appraisal.)
+
+SEC EMPLOYEES: OHR will verify your competitive service eligibility via the SEC's personnel database.
+
+ If you are relying on your education to meet qualification requirements:
+
+ Education must be accredited by an accrediting institution recognized by the U.S. Department of Education in order for it to be credited towards qualifications. Therefore, provide only the attendance and/or degrees from
+ schools accredited by accrediting institutions recognized by the U.S. Department of Education.
+
+ Failure to provide all of the required information as stated in this vacancy announcement may result in an ineligible rating or may affect the overall rating.
+
+How to Apply
+
+ Help
+
+To apply for this position, you must complete the online application and submit the documentation specified in the Required Documents.
+
+A complete application package must be submitted by 11:59 PM (EST) on the closing date of the announcement to receive consideration. No additional documentation will be accepted after the closing date of the announcement.
+
+To begin, click Apply to access the online application. You will need to be logged into your USAJOBS account to apply. If you do not have a USAJOBS account, you will need to create one before beginning the application.
+
+Follow the prompts to select your resume and/or other supporting documents to be included with your application package. You will have the opportunity to upload additional documents to include in your application before it is submitted. Your uploaded documents may take several hours to clear the virus scan process.
+
+After acknowledging you have reviewed your application package, complete the Include Personal Information section as you deem appropriate and click to continue with the application process.
+
+You will be taken to the online application which you must complete in order to apply for the position. Complete the online application, verify the required documentation is included with your application package, and submit the application.
+
+To verify the status of your application, log into your USAJOBS account (https://my.usajobs.gov/Account/Login), all of your applications will appear on the Welcome screen. The Application Status will appear along with the date your application was last updated. For information on what each Application Status means, visit: https://www.usajobs.gov/Help/how-to/application/status/.
+
+ Expand Hide  how to apply
+
+Agency contact information
+
+ ask HR
+
+Email
+
+ askHR@sec.gov
+
+Address
+
+ Division of Trading and Markets
+
+ 100 F Street NE
+
+ Washington, DC 20549
+
+ US
+
+Next steps
+
+You will be notified of your application status through USAJOBS at four points during the hiring process, as applicable. You can check the status of your application by accessing the USAJOBS website at http://usajobs.gov/ and clicking on "Track Your Online Application."
+
+By submitting your application, you are certifying the accuracy of the information contained in your application. If you make a false statement in any part of your application, you may not be hired, you may be terminated after you begin work, or you may be fined or jailed. After making a tentative job offer, we will conduct a suitability/security background investigation. You will be required to submit official documentation before appointment. The agency will then verify the information provided on your application (i.e., degree, Veterans' Preference, certification of disability, etc.).
+
+ Expand Hide  next steps
+
+Fair and transparent
+
+The Federal hiring process is set up to be fair and transparent. Please read the following guidance.
+
+ Criminal history inquiries
+
+ Equal Employment Opportunity (EEO) Policy
+
+ Financial suitability
+
+ New employee probationary period
+
+ Privacy Act
+
+ Reasonable accommodation policy
+
+ Selective Service
+
+ Signature and false statements
+
+ Social security number request
+
+ Securities and Exchange Commission
+
+ Our mission includes advocating for investors who seek to secure a future for their family, providing guidance and regulations for the nation's securities industry in an increasingly global market, and taking action with an eye toward promoting the capital formation necessary to sustain economic growth.
+
+A career with the Securities and Exchange Commission (SEC) offers work that is exciting, challenging and rewarding. You can contribute to securities regulation and enforcement while making a positive difference for the American investing public. The SEC provides:
+
+Careers that broaden and deepen your already accomplished knowledge, skills and abilities;
+
+An environment that allows you to work and learn with the nation's experts;
+
+Benefits, compensation and career expansion opportunities; and
+
+A balance between your professional and family life.
+
+The SEC offers a number of enhanced pay and benefits plus the standard Federal benefits. Please be sure to visit the SEC's compensation and benefits program pages.
+
+Agency contact information
+
+ ask HR
+
+Email
+
+ askHR@sec.gov
+
+Address
+
+ Division of Trading and Markets
+
+ 100 F Street NE
+
+ Washington, DC 20549
+
+ US
+
+Visit our careers page
+
+ Learn more about what it's like to work at Securities and Exchange Commission, what the agency does, and about the types of careers this agency offers.
+
+ https://www.sec.gov.
+
+Summary
+
+The Division of Trading and Markets (TM) is seeking a Financial Economist - Crypto Assets and Novel Products. As a Financial Economist - Crypto Assets and Novel Products, you will work with colleagues in other offices within TM and other Divisions and Offices at the SEC on initiatives related to the development or modification of market rules and regulations and the review of rules proposed by self-regulatory organizations related to the structure and operation of securities markets.
+
+ Learn more about this agency
+
+Overview
+
+ Help
+
+Accepting applications
+
+Location
+
+1 vacancy in the following location:
+
+ Washington, DC
+
+ No matching locations found.
+
+Work site options
+
+Telework eligible
+
+No
+
+Remote job
+
+No
+
+Relocation expenses reimbursed
+
+ No
+
+Salary
+
+ $174,859 - $292,300 per year
+
+Pay scale & grade
+
+SK 16
+
+Promotion potential
+
+16
+
+ Learn more about pay scale and grade
+
+ Pay scale and grade determines the salary of the job.
+
+Work schedule
+
+Full-time
+
+Travel Required
+
+Occasional travel - You may be expected to travel for this position.
+
+Appointment type
+
+Permanent
+
+Occupations and job series
+
+ 0110 Economist
+
+Supervisory status
+
+No
+
+Federal service type
+
+This job is in the Competitive Service
+
+Represented by a union
+
+Yes
+
+Drug test
+
+No
+
+Security clearance
+
+Other
+
+Position sensitivity and risk
+
+High Risk (HR)
+
+ Jobs require a
+ background check and some require a
+ security clearance. The type depends on the job.
+
+Background check type
+
+ Suitability/Fitness
+
+Financial disclosure required
+
+Yes
+
+ Some jobs require
+ financial disclosure to identify conflicts of interests.
+
+Announcement number
+
+27-IN-13103411-LS
+
+Control number
+
+890676500
+
+ Previous result
+
+Next result
+
+Your session is about to expire!
+
+ Your USAJOBS session will expire due to inactivity in 8 minutes.
+ Any unsaved data will be lost if you allow the session to expire.
+ Click the button below to continue your session.
+
+ Sign out
+ Stay signed in
+
+ Return to top
+
+USAJOBS is a Opens in a new windowUnited States Office of Personnel Management website.
+
+ (Opens in a new window) OPM on LinkedIn
+
+ (Opens in a new window) OPM YouTube channel
+
+ (Opens in a new window) OPM on X
+
+Opens in a new windowEEO Policy Statement
+
+Opens in a new windowReasonable Accommodation Policy Statement
+
+Veterans Information
+
+Opens in a new windowLegal and Regulatory Guidance
+
+About USAJOBS
+
+Opens in a new windowAccessibility
+
+Opens in a new windowFOIA
+
+Opens in a new windowInspector general
+
+Opens in a new windowNo Fear Act Data
+
+Opens in a new windowPrivacy policy
+
+Opens in a new windowReports and publications
+
+Opens in a new windowTerms and conditions
+
+Opens in a new windowUSA.gov

@@ -1,0 +1,789 @@
+# SUPV IT SPECIALIST (NETWORK/PLCYPLN)
+
+{
+  "title": "SUPV IT SPECIALIST (NETWORK/PLCYPLN)",
+  "requisition_id": "DAKB-27-13106062-CES",
+  "canonical_url": "https://www.usajobs.gov/job/891045500",
+  "application_url": "https://www.usajobs.gov/job/891045500",
+  "posted_date": "2026-11-02",
+  "posted_date_evidence": "Official announcement JobPosting.datePosted; corroborated by native search PositionStartDate where listed.",
+  "close_date": "2026-11-06",
+  "deadline_timezone": "America/New_York",
+  "deadline_time": "23:59",
+  "deadline_source": "https://www.usajobs.gov/job/891045500",
+  "deadline_verified": true,
+  "early_closure_conditions": [],
+  "rolling_cutoff": null,
+  "location": "Fort Myer, VA",
+  "remote_restrictions": "Offered DMV work location; verify telework/attendance and screening conditions in announcement.",
+  "salary": "Starting at $121,785 Per year (GG 13)",
+  "retrieved_at": "2026-11-02T23:14:54.501767+00:00",
+  "control_number": "891045500",
+  "fit": "Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.",
+  "gaps": "Hiring-path eligibility unverified: Excepted service, Internal to an agency. Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.",
+  "requirements_confirmed_unmet": [],
+  "requirements_unverified": [
+    "Hiring-path eligibility unverified: Excepted service, Internal to an agency. Confirm qualifying status before application; absence from baseline is not proof of ineligibility.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "preferred_requirements_note": "See official qualifications/education sections; missing evidence does not establish an unmet requirement.",
+  "hiring_paths": [
+    "Excepted service",
+    "Internal to an agency"
+  ],
+  "open_evidence": "Official announcement downloaded successfully; validThrough and native open-status evidence retained.",
+  "discovery_window": [
+    "2026-09-02",
+    "2026-11-02"
+  ]
+}
+
+## Summary
+
+About the Position: This position is a DOD Cyber Excepted Service (CES) personnel system position in the Excepted Service under 10 USC 1599f. Employees occupying CES positions are in the Excepted Service and must adhere to U.S. Code, Title 10, as well as Department of Defense Instruction 1400.25. This position is located at the 93rd Signal BDE, Fort Myer, VA.
+
+## Duties
+
+
+
+## Qualifications
+
+CYBER EXCEPTED SERVICE POSITIONS ARE NOT SUBJECT TO THE TWO-PAGE RESUME LIMIT. YOUR FULL RESUME WILL NEED TO BE UPLOADED TO YOUR USAJOBS PROFILE USING THE DOCUMENT TYPE "OTHER DOCUMENTS".
+Who May Apply:
+Only applicants who meet one of the employment authority categories below are eligible to apply for this job. You will be asked to identify which category or categories you meet, and to provide documents which prove you meet the category or categories you selected. See Proof of Eligibility for an extensive list of document requirements for all employment authorities.
+Current Civilian Employees of the Organization Applying to Cyber Excepted Service (CES) Positions
+Army CES positions apply Veteran's Preference to preference eligible candidates, as defined by Section 2108 of Title 5 U.S.C., in accordance with the procedures provided in DoD Instruction 1400.25, Volume 3005, "CES Employment and Placement". If you are a veteran claiming veterans' preference, as defined by Section 2108 of Title 5 U.S.C., you must submit documents verifying your eligibility with your application package.
+This position is in the Supervision/Management Work Category at the Senior Work Level within the CES Occupational Structure.
+In order to qualify, you must meet the experience requirements described below. Experience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., Peace Corps, AmeriCorps) and other organizations (e.g., professional; philanthropic; religious; spiritual; community; student; social). You will receive credit for all qualifying experience, including volunteer experience. Your resume must clearly describe your relevant experience; if qualifying based on education, your transcripts will be required as part of your application. Additional information about transcripts is in this document.
+To qualify based on your experience, your resume must describe one-year of specialized experience that demonstrates the possession of knowledge, skills, abilities, and competencies necessary for immediate success in the position. Such experience is typically in or directly related to the work of the position to be filled. Specialized experience would be demonstrated by: supporting installation network systems to ensure reliable, secure, and compliant operations, coordinating the planning and integration of network and telecommunications systems to ensure reliable connectivity across the installation, and coordinating with civilian workforce that delivers Network and Transmission IT services to ensure reliable daily support.
+The specialized experience must include, or be supplemented by, information technology related experience (paid or unpaid experience and/or completion of specific, intensive training, as appropriate) which demonstrates each of the four competencies, as defined:(1) Attention to Detail - Is thorough when performing work and conscientious about attending to detail. Examples of IT-related experience demonstrating this competency include: completing work independently that rarely requires editing or review by others.(2) Customer Service - Works with clients and customers (that is, any individuals who use or receive the services or products that your work unit produces, including the general public, individuals who work in the agency, other agencies, or organizations outside the Government) to assess their needs, provide information or assistance, resolve their problems, or satisfy their expectations; knows about available products and services; is committed to providing quality products and services. Examples of IT-related experience demonstrating this competency include: resolving simple and routine problems, questions, or complaints and providing support and guidance to customers on non-routine issues; serving as a primary resource for customers, requesting assistance with complex issues when necessary; and participating in meetings and providing advice to customers in own area of expertise.(3) Oral Communication - Expresses information (for example, ideas or facts) to individuals or groups effectively, taking into account the audience and nature of the information (for example, technical, sensitive, controversial); makes clear and convincing oral presentations; listens to others, attends to nonverbal cues, and responds appropriately. Examples of IT-related experience demonstrating this competency include: expressing facts and ideas in a clear, concise, convincing, and organized manner; clearly conveying moderately complex ideas, concepts, and information to customers; exhibiting active listening by demonstrating understanding of audience comments and/or questions.(4) Problem Solving - Identifies problems; determines accuracy and relevance of information; uses sound judgment to generate and evaluate alternatives, and to make recommendations. Examples of IT-related experience demonstrating this competency include: identifying and solving problems by gathering and applying information from a variety of materials or sources that provide several alternatives; recognizing and taking action to address non-routine problems; soliciting feedback from multiple stakeholders to understand an issue or problem and accurately assess its root causes and potential solutions; seeking supervisory review where appropriate.
+
+## Education
+
+Some federal jobs allow you to substitute your education for the required experience in order to qualify. For this job, you must meet the qualification requirement using experience alone--no substitution of education for experience is permitted.
+
+## Full rendered official announcement
+
+USAJOBS - Job Announcement
+
+ Skip to main content
+
+ An official website of the United States government
+
+Official websites use .gov
+
+A .gov website belongs to an official government organization in the United States.
+
+Secure .gov websites use HTTPS
+ A lock ( LockA locked padlock ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.
+
+ MENU
+
+ Sign in
+
+ My jobs
+
+ Profile
+
+ Resumes & documents
+
+ Notifications
+
+ Talent networks
+
+ Sign out
+
+ My jobs
+
+ Profile
+
+ Resumes & documents
+
+ Notifications
+
+ Talent networks
+
+ Sign out
+
+ Events
+
+ Help Center
+
+ Search
+
+ Back to results
+
+ Apply
+
+ SUPV IT SPECIALIST (NETWORK/PLCYPLN)
+
+Department of the Army
+
+U.S. Army Cyber Command
+
+93rd SIG BDE
+
+Apply
+
+ Print
+
+ Share
+
+ Save
+
+ Summary
+
+ This job is open to
+
+ Duties
+
+ Requirements
+
+ How you will be evaluated
+
+ Required documents
+
+ How to apply
+
+Summary
+
+About the Position: This position is a DOD Cyber Excepted Service (CES) personnel system position in the Excepted Service under 10 USC 1599f. Employees occupying CES positions are in the Excepted Service and must adhere to U.S. Code, Title 10, as well as Department of Defense Instruction 1400.25. This position is located at the 93rd Signal BDE, Fort Myer, VA.
+
+ Learn more about this agency
+
+Summary
+
+About the Position: This position is a DOD Cyber Excepted Service (CES) personnel system position in the Excepted Service under 10 USC 1599f. Employees occupying CES positions are in the Excepted Service and must adhere to U.S. Code, Title 10, as well as Department of Defense Instruction 1400.25. This position is located at the 93rd Signal BDE, Fort Myer, VA.
+
+ Learn more about this agency
+
+Overview
+
+ Help
+
+Accepting applications
+
+Location
+
+1 vacancy in the following location:
+
+ Fort Myer, VA
+
+ No matching locations found.
+
+Work site options
+
+Telework eligible
+
+Yes—as determined by the agency policy. Telework will be on a situational basis. Or This position MAY be eligible for situational telework only, to include OPM prescribed telework.
+
+Remote job
+
+No
+
+Relocation expenses reimbursed
+
+ Yes—Relocation costs may be paid if the selecting official determines the relocation is in the best interests of the government.
+
+Salary
+
+ $121,785 - $166,442 per year
+
+Pay scale & grade
+
+GG 13
+
+Promotion potential
+
+None
+
+ Learn more about pay scale and grade
+
+ Pay scale and grade determines the salary of the job.
+
+Work schedule
+
+Full-time
+
+Travel Required
+
+Occasional travel - You may be expected to travel for this position.
+
+Appointment type
+
+Permanent
+
+Occupations and job series
+
+ 2210 Information Technology Management
+
+Supervisory status
+
+Yes
+
+Federal service type
+
+This job is in the Excepted Service
+
+Represented by a union
+
+No
+
+Drug test
+
+Yes
+
+Security clearance
+
+Top Secret
+
+Position sensitivity and risk
+
+Critical-Sensitive (CS)/High Risk
+
+ Jobs require a
+ background check and some require a
+ security clearance. The type depends on the job.
+
+Background check type
+
+ National security
+
+Financial disclosure required
+
+No
+
+ Some jobs require
+ financial disclosure to identify conflicts of interests.
+
+Announcement number
+
+DAKB-27-13106062-CES
+
+Control number
+
+891045500
+
+This job is open to
+
+ Help
+
+Federal employees - Excepted service
+
+ Current federal employees whose agencies have their own hiring rules, pay scales and evaluation criteria.
+
+Internal to an agency
+
+ Current federal employees of the hiring agency that posted the job announcement.
+
+Clarification from the agency
+
+See "Who May Apply" in the "Qualifications" section for more information on who is eligible to apply for this position.
+
+Duties
+
+ Help
+
+Provides direction, overall planning framework and guidance to subordinates in order to accomplish task requirements.
+
+Reviews and evaluates tasks from an overall standpoint for effective accomplishment of assigned functions and compliance with established policy and regulatory controls.
+
+Serves as the Contracting Officers Representative (COR) for maintenance contracts or assists assigned CORs in their duties.
+
+Provides oversight of contractor manpower equivalent (CME) personnel involved in network, VTC, LMR, Inside plant (ISP) and Outside plant (OSP) telecommunications and infrastructure.
+
+Requirements
+
+ Help
+
+Conditions of employment
+
+Appointment may be subject to a suitability or fitness determination, as determined by a completed background investigation.
+
+This is a Special Sensitive position, designated at the IT-I level IAW AR 25-2. Incumbent is required to obtain and maintain a TOP SECRET clearance based on a Single Scope Background Investigation (SSBI), or other T5 level background investigation.
+
+A valid state driver’s license to operate government vehicles is required for the purpose of inspecting networking areas of concern throughout the installation.
+
+The employee may be required to work other than normal duty hours, which may include evenings, weekends, and/or holidays.
+
+TDY may be required up to 10%.
+
+This position is covered by the Alcohol and Drug Abuse Prevention and Control Program. The incumbent is required to sign a DA Form 5019.
+
+One-year supervisory probationary period required. A one-year probationary period is required if the selectee has not previously met this requirement.
+
+Qualifications
+
+CYBER EXCEPTED SERVICE POSITIONS ARE NOT SUBJECT TO THE TWO-PAGE RESUME LIMIT. YOUR FULL RESUME WILL NEED TO BE UPLOADED TO YOUR USAJOBS PROFILE USING THE DOCUMENT TYPE "OTHER DOCUMENTS".
+
+Who May Apply:
+
+Only applicants who meet one of the employment authority categories below are eligible to apply for this job. You will be asked to identify which category or categories you meet, and to provide documents which prove you meet the category or categories you selected. See Proof of Eligibility for an extensive list of document requirements for all employment authorities.
+
+Current Civilian Employees of the Organization Applying to Cyber Excepted Service (CES) Positions
+
+Army CES positions apply Veteran's Preference to preference eligible candidates, as defined by Section 2108 of Title 5 U.S.C., in accordance with the procedures provided in DoD Instruction 1400.25, Volume 3005, "CES Employment and Placement". If you are a veteran claiming veterans' preference, as defined by Section 2108 of Title 5 U.S.C., you must submit documents verifying your eligibility with your application package.
+
+This position is in the Supervision/Management Work Category at the Senior Work Level within the CES Occupational Structure.
+
+In order to qualify, you must meet the experience requirements described below. Experience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., Peace Corps, AmeriCorps) and other organizations (e.g., professional; philanthropic; religious; spiritual; community; student; social). You will receive credit for all qualifying experience, including volunteer experience. Your resume must clearly describe your relevant experience; if qualifying based on education, your transcripts will be required as part of your application. Additional information about transcripts is in this document.
+
+To qualify based on your experience, your resume must describe one-year of specialized experience that demonstrates the possession of knowledge, skills, abilities, and competencies necessary for immediate success in the position. Such experience is typically in or directly related to the work of the position to be filled. Specialized experience would be demonstrated by: supporting installation network systems to ensure reliable, secure, and compliant operations, coordinating the planning and integration of network and telecommunications systems to ensure reliable connectivity across the installation, and coordinating with civilian workforce that delivers Network and Transmission IT services to ensure reliable daily support.
+
+The specialized experience must include, or be supplemented by, information technology related experience (paid or unpaid experience and/or completion of specific, intensive training, as appropriate) which demonstrates each of the four competencies, as defined:(1) Attention to Detail - Is thorough when performing work and conscientious about attending to detail. Examples of IT-related experience demonstrating this competency include: completing work independently that rarely requires editing or review by others.(2) Customer Service - Works with clients and customers (that is, any individuals who use or receive the services or products that your work unit produces, including the general public, individuals who work in the agency, other agencies, or organizations outside the Government) to assess their needs, provide information or assistance, resolve their problems, or satisfy their expectations; knows about available products and services; is committed to providing quality products and services. Examples of IT-related experience demonstrating this competency include: resolving simple and routine problems, questions, or complaints and providing support and guidance to customers on non-routine issues; serving as a primary resource for customers, requesting assistance with complex issues when necessary; and participating in meetings and providing advice to customers in own area of expertise.(3) Oral Communication - Expresses information (for example, ideas or facts) to individuals or groups effectively, taking into account the audience and nature of the information (for example, technical, sensitive, controversial); makes clear and convincing oral presentations; listens to others, attends to nonverbal cues, and responds appropriately. Examples of IT-related experience demonstrating this competency include: expressing facts and ideas in a clear, concise, convincing, and organized manner; clearly conveying moderately complex ideas, concepts, and information to customers; exhibiting active listening by demonstrating understanding of audience comments and/or questions.(4) Problem Solving - Identifies problems; determines accuracy and relevance of information; uses sound judgment to generate and evaluate alternatives, and to make recommendations. Examples of IT-related experience demonstrating this competency include: identifying and solving problems by gathering and applying information from a variety of materials or sources that provide several alternatives; recognizing and taking action to address non-routine problems; soliciting feedback from multiple stakeholders to understand an issue or problem and accurately assess its root causes and potential solutions; seeking supervisory review where appropriate.
+
+Education
+
+ Some federal jobs allow you to substitute your education for the required experience in order to qualify. For this job, you must meet the qualification requirement using experience alone--no substitution of education for experience is permitted.
+
+Additional information
+
+If you are a current federal career/career-conditional employee, you will be placed on an excepted appointment.
+
+Male applicants born after December 31, 1959, must complete a Pre-Employment Certification Statement for Selective Service Registration.
+
+You will be required to provide proof of U.S. Citizenship.
+
+This position requires a 3 year probationary period during which the agency evaluates your fitness and whether your continued employment advances the public interest. In making this determination, the agency may consider your performance and conduct; agency needs and interests; whether your continued employment supports organizational or Government goals; and whether it promotes the efficiency of the Federal service. Continued employment requires written certification that it advances the public interest.
+
+Direct Deposit of Pay is required.
+
+Must be able to obtain and maintain a Top Secret security clearance.
+
+Selection is subject to restrictions resulting from Department of Defense referral system for displaced employees.
+
+If you have retired from federal service and you are interested in employment as a reemployed annuitant, see the information in the Reemployed Annuitant information sheet.
+
+This is a(n) 34 Career Field position.
+
+Salary includes applicable locality pay.
+
+As a supervisor, you must comply with the Army Civilian Education System (CES) course and timeline requirements. The Supervisory Development Course (SDC) must be completed within one year of placement into a supervisory position and then completed as a refresher course every three years. For information on CES, please visit the following website: http://usacac.army.mil/organizations/cace/amsc/courses.
+
+Relocation or Recruitment incentive MAY BE authorized for highly qualified candidate. Must sign a service agreement if incentive(s) is/are authorized.
+
+ Expand Hide  additional information
+
+Candidates should be committed to improving the efficiency of the Federal government, passionate about the ideals of our American republic, and committed to upholding the rule of law and the United States Constitution.
+
+Benefits
+
+ Help
+
+ A career with the U.S. government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding. Opens in a new windowLearn more about federal benefits.
+
+ Review our benefits
+
+Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time or intermittent. Contact the hiring agency for more information on the specific benefits offered.
+
+How you will be evaluated
+
+You will be evaluated for this job based on how well you meet the qualifications above.
+
+ Once the announcement has closed, a review of your application package (resume, supporting documents, and responses to the questionnaire) will be used to determine whether you meet the qualification requirements listed on this announcement. Please follow all instructions carefully when applying, errors or omissions may affect your eligibility.
+
+If, after reviewing your resume and/or supporting documentation, a determination is made that you have inflated your qualifications and/or experience, you may lose consideration for this position.
+
+Benefits
+
+ Help
+
+ A career with the U.S. government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding. Opens in a new windowLearn more about federal benefits.
+
+ Review our benefits
+
+Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time or intermittent. Contact the hiring agency for more information on the specific benefits offered.
+
+Required documents
+
+Required Documents
+
+ Help
+
+ WARNING: DO NOT INCLUDE CLASSIFIED INFORMATION IN YOUR APPLICATION PACKET! Application packages that contain Classified information WILL NOT receive consideration for this position. Should you submit a resume or any other document as part of your application package and it is confirmed that any of the information is Classified, in addition to being found ineligible for consideration for this position, your Security Office will be notified to determine if any further action is warranted.
+
+The documents you are required to submit vary based on the authority you are using to apply (i.e., applying as a veteran, applying as a current permanent Federal employee, applying as a reinstatement, etc). Please review the following links to see which documents you need to provide to prove your eligibility to apply: Applicant Checklist for Internal/Merit Promotion Announcements.
+
+As described above, your complete application includes your resume, your responses to the online questionnaire, and documents which prove your eligibility to apply. If you fail to provide these documents, you will be marked as having an incomplete application package and you will not be considered any further.
+
+1. Your resume:
+
+Cyber Excepted Service positions are not subject to the two-page resume limit. Your full resume will need to be uploaded to your USAJOBS profile using the document type 'Other Documents'.
+
+Your resume may be submitted in any format and must support the specialized experience described in this announcement.
+
+For each relevant work experience, make sure you include the employer's name, job title, start and end dates (include month and year), for qualifications purposes, the number of hours worked per week, and a brief description that show you can perform the tasks at the required level listed in the job announcement. If your resume does not contain this information, your application may be marked as incomplete, and you may not receive consideration for this position.
+
+Use plain language. Avoid using acronyms and terms that are not easily understood. The hiring agency will not make assumptions about what's in your resume.
+
+If your resume includes a photograph or other inappropriate material or content, it will not be used to make eligibility and qualification determinations, and you may not be considered for this vacancy.
+
+For additional information, to include formatting tips, see: What to include in your resume.
+
+2. Other supporting documents:
+
+Cover Letter, optional
+
+Most recent Performance Appraisal, if applicable
+
+Proof of Eligibility to Apply: Your application must include the documents which prove you are eligible to apply for the vacancy. The Proof of Eligibility document describes authorities commonly used in merit promotion recruitment and what document(s) are required to prove you meet the requirements of the authority. You must meet the requirements of at least one of the authorities listed in the Who May Apply section above to receive further consideration.
+
+NOTE: Documents submitted as part of the application package, to include supplemental documents, may be shared beyond the Human Resources Office. Some supplemental documents such as military orders and marriage certificates may contain personal information for someone other than you. You may sanitize these documents to remove another person's personal information before you submit your application. You may be asked to provide an un-sanitized version of the documents if you are selected to confirm your eligibility.
+
+How to Apply
+
+ Help
+
+To apply for this position, you must complete the online questionnaire and submit the documentation specified in the Required Documents section above.
+
+The complete application package must be submitted by 11:59 PM (EST) on 11/06/2026 to receive consideration.
+
+To begin, click Apply to access the online application. You will need to be logged into your USAJOBS account to apply. If you do not have a USAJOBS account, you will need to create one before beginning the application (https://apply.usastaffing.gov/ViewQuestionnaire/13106062).
+
+Follow the prompts to select your resume and/or other supporting documents to be included with your application package. For additional information, refer to the 'Required Documents' section.
+
+You will have the opportunity to upload additional documents to include in your application before it is submitted. Your uploaded documents may take several hours to clear the virus scan process.
+
+After acknowledging you have reviewed your application package, complete the Include Personal Information section as you deem appropriate and click to continue with the application process.
+
+You will be taken to the online application which you must complete in order to apply for the position. Complete the online application, verify the required documentation is included with your application package, and submit the application. Your resume selected in USAJOBS will be included, but you must re-select other documents from your USAJOBS account or your application may be incomplete.
+
+It is your responsibility to verify that your application package (resume, supporting documents, and responses to the questionnaire) is complete, accurate, and submitted by the closing date. Uploaded documents may take up to one hour to clear the virus scan.
+
+Additional information on how to complete the online application process and submit your online application may be found on the USA Staffing Applicant Resource Center.
+
+To verify the status of your application, log into your USAJOBS account (https://www.usajobs.gov/applicant/profile/dashboard/), all of your applications will appear on the Welcome screen. The Application Status will appear along with the date your application was last updated. For information on what each Application Status means, visit: https://help.usajobs.gov/how-to/application/status.
+
+Agency contact information
+
+ Army Applicant Help Desk
+
+Website
+
+ https://portal.chra.army.mil/hr_public?id=app_inq
+
+Address
+
+ KB-W6R6AA USA SIG NTWK ENT CTR FT MYER
+
+ DO NOT MAIL
+
+ Fort Belvoir, VA 22060
+
+ US
+
+Next steps
+
+If you provided an email address, you will receive an email message acknowledging receipt of your application. Your application package will be used to determine your eligibility, qualifications, and quality ranking for this position. If you are determined to be ineligible or not qualified, your application will receive no further consideration.
+
+Fair and transparent
+
+The Federal hiring process is set up to be fair and transparent. Please read the following guidance.
+
+ Criminal history inquiries
+
+ Equal Employment Opportunity (EEO) Policy
+
+ Financial suitability
+
+ New employee probationary period
+
+ Privacy Act
+
+ Reasonable accommodation policy
+
+ Selective Service
+
+ Signature and false statements
+
+ Social security number request
+
+Required Documents
+
+ Help
+
+ WARNING: DO NOT INCLUDE CLASSIFIED INFORMATION IN YOUR APPLICATION PACKET! Application packages that contain Classified information WILL NOT receive consideration for this position. Should you submit a resume or any other document as part of your application package and it is confirmed that any of the information is Classified, in addition to being found ineligible for consideration for this position, your Security Office will be notified to determine if any further action is warranted.
+
+The documents you are required to submit vary based on the authority you are using to apply (i.e., applying as a veteran, applying as a current permanent Federal employee, applying as a reinstatement, etc). Please review the following links to see which documents you need to provide to prove your eligibility to apply: Applicant Checklist for Internal/Merit Promotion Announcements.
+
+As described above, your complete application includes your resume, your responses to the online questionnaire, and documents which prove your eligibility to apply. If you fail to provide these documents, you will be marked as having an incomplete application package and you will not be considered any further.
+
+1. Your resume:
+
+Cyber Excepted Service positions are not subject to the two-page resume limit. Your full resume will need to be uploaded to your USAJOBS profile using the document type 'Other Documents'.
+
+Your resume may be submitted in any format and must support the specialized experience described in this announcement.
+
+For each relevant work experience, make sure you include the employer's name, job title, start and end dates (include month and year), for qualifications purposes, the number of hours worked per week, and a brief description that show you can perform the tasks at the required level listed in the job announcement. If your resume does not contain this information, your application may be marked as incomplete, and you may not receive consideration for this position.
+
+Use plain language. Avoid using acronyms and terms that are not easily understood. The hiring agency will not make assumptions about what's in your resume.
+
+If your resume includes a photograph or other inappropriate material or content, it will not be used to make eligibility and qualification determinations, and you may not be considered for this vacancy.
+
+For additional information, to include formatting tips, see: What to include in your resume.
+
+2. Other supporting documents:
+
+Cover Letter, optional
+
+Most recent Performance Appraisal, if applicable
+
+Proof of Eligibility to Apply: Your application must include the documents which prove you are eligible to apply for the vacancy. The Proof of Eligibility document describes authorities commonly used in merit promotion recruitment and what document(s) are required to prove you meet the requirements of the authority. You must meet the requirements of at least one of the authorities listed in the Who May Apply section above to receive further consideration.
+
+NOTE: Documents submitted as part of the application package, to include supplemental documents, may be shared beyond the Human Resources Office. Some supplemental documents such as military orders and marriage certificates may contain personal information for someone other than you. You may sanitize these documents to remove another person's personal information before you submit your application. You may be asked to provide an un-sanitized version of the documents if you are selected to confirm your eligibility.
+
+How to Apply
+
+ Help
+
+To apply for this position, you must complete the online questionnaire and submit the documentation specified in the Required Documents section above.
+
+The complete application package must be submitted by 11:59 PM (EST) on 11/06/2026 to receive consideration.
+
+To begin, click Apply to access the online application. You will need to be logged into your USAJOBS account to apply. If you do not have a USAJOBS account, you will need to create one before beginning the application (https://apply.usastaffing.gov/ViewQuestionnaire/13106062).
+
+Follow the prompts to select your resume and/or other supporting documents to be included with your application package. For additional information, refer to the 'Required Documents' section.
+
+You will have the opportunity to upload additional documents to include in your application before it is submitted. Your uploaded documents may take several hours to clear the virus scan process.
+
+After acknowledging you have reviewed your application package, complete the Include Personal Information section as you deem appropriate and click to continue with the application process.
+
+You will be taken to the online application which you must complete in order to apply for the position. Complete the online application, verify the required documentation is included with your application package, and submit the application. Your resume selected in USAJOBS will be included, but you must re-select other documents from your USAJOBS account or your application may be incomplete.
+
+It is your responsibility to verify that your application package (resume, supporting documents, and responses to the questionnaire) is complete, accurate, and submitted by the closing date. Uploaded documents may take up to one hour to clear the virus scan.
+
+Additional information on how to complete the online application process and submit your online application may be found on the USA Staffing Applicant Resource Center.
+
+To verify the status of your application, log into your USAJOBS account (https://www.usajobs.gov/applicant/profile/dashboard/), all of your applications will appear on the Welcome screen. The Application Status will appear along with the date your application was last updated. For information on what each Application Status means, visit: https://help.usajobs.gov/how-to/application/status.
+
+ Expand Hide  how to apply
+
+Agency contact information
+
+ Army Applicant Help Desk
+
+Website
+
+ https://portal.chra.army.mil/hr_public?id=app_inq
+
+Address
+
+ KB-W6R6AA USA SIG NTWK ENT CTR FT MYER
+
+ DO NOT MAIL
+
+ Fort Belvoir, VA 22060
+
+ US
+
+Next steps
+
+If you provided an email address, you will receive an email message acknowledging receipt of your application. Your application package will be used to determine your eligibility, qualifications, and quality ranking for this position. If you are determined to be ineligible or not qualified, your application will receive no further consideration.
+
+ Expand Hide  next steps
+
+Fair and transparent
+
+The Federal hiring process is set up to be fair and transparent. Please read the following guidance.
+
+ Criminal history inquiries
+
+ Equal Employment Opportunity (EEO) Policy
+
+ Financial suitability
+
+ New employee probationary period
+
+ Privacy Act
+
+ Reasonable accommodation policy
+
+ Selective Service
+
+ Signature and false statements
+
+ Social security number request
+
+ U.S. Army Cyber Command
+
+ Civilian employees serve a vital role in supporting the Army mission. They provide the skills that are not readily available in the military, but crucial to support military operations. The Army integrates the talents and skills of its military and civilian members to form a Total Army.
+
+Agency contact information
+
+ Army Applicant Help Desk
+
+Website
+
+ https://portal.chra.army.mil/hr_public?id=app_inq
+
+Address
+
+ KB-W6R6AA USA SIG NTWK ENT CTR FT MYER
+
+ DO NOT MAIL
+
+ Fort Belvoir, VA 22060
+
+ US
+
+Summary
+
+About the Position: This position is a DOD Cyber Excepted Service (CES) personnel system position in the Excepted Service under 10 USC 1599f. Employees occupying CES positions are in the Excepted Service and must adhere to U.S. Code, Title 10, as well as Department of Defense Instruction 1400.25. This position is located at the 93rd Signal BDE, Fort Myer, VA.
+
+ Learn more about this agency
+
+Overview
+
+ Help
+
+Accepting applications
+
+Location
+
+1 vacancy in the following location:
+
+ Fort Myer, VA
+
+ No matching locations found.
+
+Work site options
+
+Telework eligible
+
+Yes—as determined by the agency policy. Telework will be on a situational basis. Or This position MAY be eligible for situational telework only, to include OPM prescribed telework.
+
+Remote job
+
+No
+
+Relocation expenses reimbursed
+
+ Yes—Relocation costs may be paid if the selecting official determines the relocation is in the best interests of the government.
+
+Salary
+
+ $121,785 - $166,442 per year
+
+Pay scale & grade
+
+GG 13
+
+Promotion potential
+
+None
+
+ Learn more about pay scale and grade
+
+ Pay scale and grade determines the salary of the job.
+
+Work schedule
+
+Full-time
+
+Travel Required
+
+Occasional travel - You may be expected to travel for this position.
+
+Appointment type
+
+Permanent
+
+Occupations and job series
+
+ 2210 Information Technology Management
+
+Supervisory status
+
+Yes
+
+Federal service type
+
+This job is in the Excepted Service
+
+Represented by a union
+
+No
+
+Drug test
+
+Yes
+
+Security clearance
+
+Top Secret
+
+Position sensitivity and risk
+
+Critical-Sensitive (CS)/High Risk
+
+ Jobs require a
+ background check and some require a
+ security clearance. The type depends on the job.
+
+Background check type
+
+ National security
+
+Financial disclosure required
+
+No
+
+ Some jobs require
+ financial disclosure to identify conflicts of interests.
+
+Announcement number
+
+DAKB-27-13106062-CES
+
+Control number
+
+891045500
+
+ Previous result
+
+Next result
+
+Your session is about to expire!
+
+ Your USAJOBS session will expire due to inactivity in 8 minutes.
+ Any unsaved data will be lost if you allow the session to expire.
+ Click the button below to continue your session.
+
+ Sign out
+ Stay signed in
+
+ Return to top
+
+USAJOBS is a Opens in a new windowUnited States Office of Personnel Management website.
+
+ (Opens in a new window) OPM on LinkedIn
+
+ (Opens in a new window) OPM YouTube channel
+
+ (Opens in a new window) OPM on X
+
+Opens in a new windowEEO Policy Statement
+
+Opens in a new windowReasonable Accommodation Policy Statement
+
+Veterans Information
+
+Opens in a new windowLegal and Regulatory Guidance
+
+About USAJOBS
+
+Opens in a new windowAccessibility
+
+Opens in a new windowFOIA
+
+Opens in a new windowInspector general
+
+Opens in a new windowNo Fear Act Data
+
+Opens in a new windowPrivacy policy
+
+Opens in a new windowReports and publications
+
+Opens in a new windowTerms and conditions
+
+Opens in a new windowUSA.gov

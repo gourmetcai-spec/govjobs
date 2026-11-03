@@ -1,0 +1,920 @@
+# IT Specialist (APPSW)
+
+{
+  "title": "IT Specialist (APPSW)",
+  "requisition_id": "DLAJ6-27-13100468-MP",
+  "canonical_url": "https://www.usajobs.gov/job/891164500",
+  "application_url": "https://www.usajobs.gov/job/891164500",
+  "posted_date": "2026-11-02",
+  "posted_date_evidence": "Official announcement JobPosting.datePosted; corroborated by native search PositionStartDate where listed.",
+  "close_date": "2026-11-09",
+  "deadline_timezone": "America/New_York",
+  "deadline_time": "23:59",
+  "deadline_source": "https://www.usajobs.gov/job/891164500",
+  "deadline_verified": true,
+  "early_closure_conditions": [],
+  "rolling_cutoff": null,
+  "location": "Fort Belvoir, VA; Richmond, VA",
+  "remote_restrictions": "Offered DMV work location; verify telework/attendance and screening conditions in announcement.",
+  "salary": "Starting at $89,508 Per year (GS 12)",
+  "retrieved_at": "2026-11-02T23:14:54.501767+00:00",
+  "control_number": "891164500",
+  "fit": "Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.",
+  "gaps": "Hiring-path eligibility unverified: Internal to an agency, Career transition (CTAP, ICTAP, RPL), Veterans, Military spouses, Individuals with disabilities. Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Verify SAP experience against the exact qualification clause; not established by the baseline alone. Verify PL/SQL experience against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.",
+  "requirements_confirmed_unmet": [],
+  "requirements_unverified": [
+    "Hiring-path eligibility unverified: Internal to an agency, Career transition (CTAP, ICTAP, RPL), Veterans, Military spouses, Individuals with disabilities. Confirm qualifying status before application; absence from baseline is not proof of ineligibility.",
+    "Verify SAP experience against the exact qualification clause; not established by the baseline alone.",
+    "Verify PL/SQL experience against the exact qualification clause; not established by the baseline alone.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "preferred_requirements_note": "See official qualifications/education sections; missing evidence does not establish an unmet requirement.",
+  "hiring_paths": [
+    "Internal to an agency",
+    "Career transition (CTAP, ICTAP, RPL)",
+    "Veterans",
+    "Military spouses",
+    "Individuals with disabilities"
+  ],
+  "open_evidence": "Official announcement downloaded successfully; validThrough and native open-status evidence retained.",
+  "discovery_window": [
+    "2026-09-02",
+    "2026-11-02"
+  ]
+}
+
+## Summary
+
+See below for important information regarding this job.
+Position will be filled at any of the locations listed below. Site specific salary information as follows:
+Battle Creek, MI: $89,508 - $ 116,362
+Columbus, OH: $93,400 - $121,422
+Dayton, OH: $92,841- $120,696
+Fort Belvoir, VA: $102,415- $133,142
+New Cumberland, PA: $102,415- $133,142
+Ogden, UT: $89,508 - $ 116,362
+Philadelphia, PA: $98,630- $128,221
+Richmond, VA: $93,499- $121,551
+
+## Duties
+
+
+
+## Qualifications
+
+To qualify for an IT Specialist (APPSW), your resume and supporting documentation must include:
+A. Specialized Experience: One year of specialized experience that equipped you with the particular competencies to successfully perform the duties of the position, and is directly in or related to this position. To qualify at the GS-12 level, applicants must possess one year of specialized experience equivalent to the GS-11 level or equivalent under other pay systems in the Federal service, military or private sector. Applicants must meet eligibility requirements including time-in-grade (General Schedule (GS) positions only), time-after-competitive appointment, minimum qualifications, and any other regulatory requirements by the cut-off/closing date of the announcement. Creditable specialized experience includes:
+- Analyzes and documents user requirements to identify needs, evaluates technical feasibility, suggests alternate approaches, and develops solutions in terms of software design.
+- Analyzes, designs, documents, develops, integrates, modifies, tests, installs, implements, and supports new or existing Commercial off-the-shelf (COTS)/Government off-the-shelf (GOTS) software.
+- Uses a variety of application programming languages, such as the System Applications and Products (SAP) Advanced Business Application Programming (ABAP) language, BASIC, Java, shell scripting, Procedural Language/Structured Query Language (PL/SQL), and SQL Developer.
+Experience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., Peace Corps, AmeriCorps) and other organizations (e.g., professional, philanthropic, religious, spiritual, community, student, social). Volunteer work helps build critical competencies, knowledge, and skills and can provide valuable training and experience that translates directly to paid employment. You will receive credit for all qualifying experience, including volunteer experience.
+
+## Education
+
+Substitution of education may not be used in lieu of specialized experience for this grade level.
+
+## Full rendered official announcement
+
+USAJOBS - Job Announcement
+
+ Skip to main content
+
+ An official website of the United States government
+
+Official websites use .gov
+
+A .gov website belongs to an official government organization in the United States.
+
+Secure .gov websites use HTTPS
+ A lock ( LockA locked padlock ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.
+
+ MENU
+
+ Sign in
+
+ My jobs
+
+ Profile
+
+ Resumes & documents
+
+ Notifications
+
+ Talent networks
+
+ Sign out
+
+ My jobs
+
+ Profile
+
+ Resumes & documents
+
+ Notifications
+
+ Talent networks
+
+ Sign out
+
+ Events
+
+ Help Center
+
+ Search
+
+ Back to results
+
+ Apply
+
+ IT Specialist (APPSW)
+
+Department of Defense
+
+Defense Logistics Agency
+
+J62-AFBC
+
+Apply
+
+ Print
+
+ Share
+
+ Save
+
+ Summary
+
+ This job is open to
+
+ Duties
+
+ Requirements
+
+ How you will be evaluated
+
+ Required documents
+
+ How to apply
+
+Summary
+
+See below for important information regarding this job.
+
+Position will be filled at any of the locations listed below. Site specific salary information as follows:
+
+Battle Creek, MI: $89,508 - $ 116,362
+
+Columbus, OH: $93,400 - $121,422
+
+Dayton, OH: $92,841- $120,696
+
+Fort Belvoir, VA: $102,415- $133,142
+
+New Cumberland, PA: $102,415- $133,142
+
+Ogden, UT: $89,508 - $ 116,362
+
+Philadelphia, PA: $98,630- $128,221
+
+Richmond, VA: $93,499- $121,551
+
+ Learn more about this agency
+
+Summary
+
+See below for important information regarding this job.
+
+Position will be filled at any of the locations listed below. Site specific salary information as follows:
+
+Battle Creek, MI: $89,508 - $ 116,362
+
+Columbus, OH: $93,400 - $121,422
+
+Dayton, OH: $92,841- $120,696
+
+Fort Belvoir, VA: $102,415- $133,142
+
+New Cumberland, PA: $102,415- $133,142
+
+Ogden, UT: $89,508 - $ 116,362
+
+Philadelphia, PA: $98,630- $128,221
+
+Richmond, VA: $93,499- $121,551
+
+ Learn more about this agency
+
+Overview
+
+ Help
+
+Accepting applications
+
+Location
+
+1 vacancy in the following locations:
+
+ Battle Creek, MI
+
+ Whitehall, OH
+
+ Wright-Patterson AFB, OH
+
+ New Cumberland Defense Logistics Center, PA
+
+ Philadelphia, PA
+
+ Hill AFB, UT
+
+ Fort Belvoir, VA
+
+ Richmond, VA
+
+ No matching locations found.
+
+Work site options
+
+Telework eligible
+
+Yes—as determined by the agency policy.
+
+Remote job
+
+No
+
+Relocation expenses reimbursed
+
+ No
+
+Salary
+
+ $89,508 - $133,142 per year
+
+See Summary for additional information
+
+Pay scale & grade
+
+GS 12
+
+Promotion potential
+
+None
+
+ Learn more about pay scale and grade
+
+ Pay scale and grade determines the salary of the job.
+
+Work schedule
+
+Full-time
+
+Travel Required
+
+Occasional travel - You may be expected to travel for this position.
+
+Appointment type
+
+Permanent - Multiple Appointment Types
+
+Occupations and job series
+
+ 2210 Information Technology Management
+
+Supervisory status
+
+No
+
+Federal service type
+
+This job is in the Competitive Service
+
+Represented by a union
+
+No
+
+Drug test
+
+No
+
+Security clearance
+
+Other
+
+Financial disclosure required
+
+No
+
+ Some jobs require
+ financial disclosure to identify conflicts of interests.
+
+Announcement number
+
+DLAJ6-27-13100468-MP
+
+Control number
+
+891164500
+
+This job is open to
+
+ Help
+
+Internal to an agency
+
+ Current federal employees of the hiring agency that posted the job announcement.
+
+Career transition (CTAP, ICTAP, RPL)
+
+ Federal employees whose job, agency or department was eliminated and are eligible for priority over other applicants.
+
+Veterans
+
+ Veterans of the U.S. Armed Forces or a spouse, widow, widower or parent of a veteran, who may be eligible for derived preference
+
+Military spouses
+
+ Military spouses of active duty service members or whose spouse is 100 percent disabled or died on active duty.
+
+Individuals with disabilities
+
+ Individuals who are eligible under Schedule A.
+
+Clarification from the agency
+
+"Agency" means current permanent DLA employees. Veterans eligibilities include 30% or more Disabled Vet and Veterans Employment Opportunities Act (VEOA). Military Spouse Preference (MSP) eligibles, Retained Grade Preference (RGP) eligibles, and Military Reserve and National Guard Technician eligibles in the commuting area may also apply.
+
+Videos
+
+Duties
+
+ Help
+
+Serves within the Defense Logistics Agency (DLA), Information Operations (J6), Program Executive Office (J62), Enterprise Service Area Portfolio Management.
+
+Responsible for varied application programming services. Functions within a team environment to develop and/or integrate application software solutions that meet the logistics business needs of the DLA user community.
+
+Interfaces with J62 functional analysts and developers to determine system change requirements.
+
+Participates with representatives from DLA, DoD, and military services in business planning/strategy sessions.
+
+Works with functional analysts and other developers to configure software and implement functional design to ensure solution is compatible with DLA architectural policy and directives and DLA systems architecture.
+
+Requirements
+
+ Help
+
+Conditions of employment
+
+Must be a U.S. citizen
+
+Tour of Duty: Set Schedule
+
+Security Requirements: Critical Sensitive
+
+Appointment is subject to the completion of a favorable suitability or fitness determination, where reciprocity cannot be applied; unfavorably adjudicated background checks will be grounds for removal.
+
+Fair Labor Standards Act (FLSA): Exempt
+
+Selective Service Requirement: Males born after 12-31-59 must be registered or exempt from Selective Service.
+
+Recruitment Incentives: Not Authorized
+
+Bargaining Unit Status: Yes/No
+
+Selectees are required to have a REAL ID or other acceptable identification documents to access certain federal facilities. See https://www.tsa.gov/real-id for more information.
+
+This position and any future selections from this announcement may be used to fill various shifts located anywhere within DLA Information Operations, J6.
+
+Qualifications
+
+ To qualify for an IT Specialist (APPSW), your resume and supporting documentation must include:
+
+A. Specialized Experience: One year of specialized experience that equipped you with the particular competencies to successfully perform the duties of the position, and is directly in or related to this position. To qualify at the GS-12 level, applicants must possess one year of specialized experience equivalent to the GS-11 level or equivalent under other pay systems in the Federal service, military or private sector. Applicants must meet eligibility requirements including time-in-grade (General Schedule (GS) positions only), time-after-competitive appointment, minimum qualifications, and any other regulatory requirements by the cut-off/closing date of the announcement. Creditable specialized experience includes:
+
+- Analyzes and documents user requirements to identify needs, evaluates technical feasibility, suggests alternate approaches, and develops solutions in terms of software design.
+
+- Analyzes, designs, documents, develops, integrates, modifies, tests, installs, implements, and supports new or existing Commercial off-the-shelf (COTS)/Government off-the-shelf (GOTS) software.
+
+- Uses a variety of application programming languages, such as the System Applications and Products (SAP) Advanced Business Application Programming (ABAP) language, BASIC, Java, shell scripting, Procedural Language/Structured Query Language (PL/SQL), and SQL Developer.
+
+Experience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., Peace Corps, AmeriCorps) and other organizations (e.g., professional, philanthropic, religious, spiritual, community, student, social). Volunteer work helps build critical competencies, knowledge, and skills and can provide valuable training and experience that translates directly to paid employment. You will receive credit for all qualifying experience, including volunteer experience.
+
+Education
+
+Substitution of education may not be used in lieu of specialized experience for this grade level.
+
+Additional information
+
+As required by 5 C.F.R. § 302.106, DLA will provide Section 508 conformant ICT to employees with disabilities. All ICT interfaces with the public related to vacancy announcements and career transition opportunities must conform to the applicable requirements in the current ICT Standards and Guidelines (36 C.F.R. § 1194).
+
+For Important General Applicant Information and Definitions go to: http://www.dla.mil/portals/104/documents/careers/GenAppInfoDef.pdf
+
+Reemployed Annuitants: This position does not meet criteria for appointment of Reemployed Annuitants. The DoD criteria for hiring Reemployed Annuitants can be found at: https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/140025/140025_vol300.PDF
+
+Information for Veterans is available at: https://www.dla.mil/Careers/Programs/. As of 23 December 2016, Military retirees seeking to enter federal service in the Department of Defense now require a waiver if they would be appointed within 180 days following their official date of retirement.
+
+Drug-Free Workplace Policy
+
+The Defense Logistics Agency (DLA) is committed to maintaining a safe, drug-free workplace. All DLA employees are required to refrain from illegal drug use on and off duty. DLA conducts pre-employment, reasonable suspicion, post-accident, and random drug testing.
+
+Applicants tentatively selected for employment in testing designated positions will undergo a urinalysis to screen for illegal drug use prior to appointment. Refusal to undergo testing or testing positive for illegal drugs will result in withdrawal of the tentative job offer and a six-month denial of employment with DLA from the date of the drug test. Employees in drug testing designated positions are subject to random drug testing. A negative drug test result must be received by HR within 30 calendar days after the EOD (i.e., start date). The selectee's inability successfully pass; or refusal to conduct the test may result in: 1) the tentative or FJO being withdrawn during the recruitment process; or 2) subsequently being removed from Federal service for failure to meet a condition of employment. You may be required to sign a "Drug Test Statement of Understanding" if you are selected for this position.
+
+The DLA drug testing panel tests for the following substances: marijuana, cocaine, opiates, heroin, phencyclidine, amphetamines, methamphetamines, fentanyl, norfentanyl, methylenedioxymethamphetamine (MDMA), methylenedioxyamphetamine (MDA), and opioids.
+
+ADVISORY: Use of cannabidiol (CBD) products may result in a positive drug test for marijuana. DLA employees are subject to Federal law and under Federal law, Marijuana is illegal.
+
+Additional guidance on writing a federal resume can be found at: USAJOBS Help Center - How do I write a resume for a federal job? The resume builder can help you create a resume using these recommendations and uses the information in your USAJOBS profile to help you get started.
+
+ Expand Hide  additional information
+
+Candidates should be committed to improving the efficiency of the Federal government, passionate about the ideals of our American republic, and committed to upholding the rule of law and the United States Constitution.
+
+Benefits
+
+ Help
+
+ A career with the U.S. government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding. Opens in a new windowLearn more about federal benefits.
+
+ Review our benefits
+
+Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time or intermittent. Contact the hiring agency for more information on the specific benefits offered.
+
+How you will be evaluated
+
+You will be evaluated for this job based on how well you meet the qualifications above.
+
+ The assessments for this job will measure the following Competencies:
+
+Reading Comprehension
+
+Decision Making
+
+Accountability
+
+Attention to Detail
+
+Customer Service
+
+Flexibility
+
+Influencing/Negotiating
+
+Integrity/Honesty
+
+Interpersonal Skills
+
+Learning
+
+Self-Management
+
+Stress Tolerance
+
+Teamwork
+
+Reasoning
+
+Once the application process is complete, a review of your resume and supporting documentation may be completed and compared against your responses to the assessment questionnaire to determine if you are qualified for this job. The rating you receive is based on your responses to the assessment questionnaire and USA Hire assessments. The score is a measure of the degree to which your background matches the competencies required for this position. If your resume and/or supporting documentation is reviewed and a determination is made that you have inflated your qualifications and or experience, you may lose consideration for this position. Please follow all instructions carefully. Errors or omissions may affect your rating.
+
+Benefits
+
+ Help
+
+ A career with the U.S. government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding. Opens in a new windowLearn more about federal benefits.
+
+ Review our benefits
+
+Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time or intermittent. Contact the hiring agency for more information on the specific benefits offered.
+
+Required documents
+
+Required Documents
+
+ Help
+
+ To apply for this position you must provide a complete Application Package. Each Application Package MUST include:
+
+Your Resume: IMPORTANT UPDATE: Your resume must not exceed two (2) pages. If your resume exceeds the two-page limit, you will be removed from consideration for this announcement. The resume and required supporting documentation should provide the minimum qualifications and relevant experience for the announced position. Must include the work schedule, hours worked per week, dates of employment, and duties performed. If multiple resumes are submitted by an applicant, only the last resume submitted will be reviewed for qualifications and referred for selection consideration, if eligible. The resume must not be more than 5MB and should be saved and uploaded as a PDF to maintain formatting and number of pages. We also accept GIF, JPG, JPEG, PNG, RTF, TXT, PDF, ODT or Word (DOC or DOCX). We do not accept PDF portfolio files. Page margins should be 0.5 inches, and font styles must be legible. Consider using 14-point size font for titles and 10-point for the main text. We recommend using a font like Lato, if available. Other widely available options are Calibri, Helvetica, Arial, Verdana, Open San Source Sans Pro, Roboto or Noro Sans.
+
+Applicable documents to support the eligibility(s) for which you are applying. Please review the following link for a listing of the additional documents you will need to provide: Supporting Documents.
+
+If you are requesting a reasonable accommodation to the USA Hire Competency Based Assessments, submit documentation to support your request, including the Reasonable Accommodation Request Form found here.
+
+Interagency Career Transition Assistance Program (ICTAP): If you are an eligible ICTAP applicant you may apply for special selection over other candidates for this position. To be well-qualified and exercise selection priority for this vacancy, displaced Federal employees must be rated at a score of 85 or higher for this position. ICTAP eligibles must submit one of the following as proof of eligibility for the special selection priority: a separation notice; a "Notice of Personnel Action" (SF-50) documenting separation; an agency certification that you cannot be placed after injury compensation has been terminated; an OPM notification that your disability annuity has been terminated; OR a Military Department or National Guard Bureau notification that you are retired under 5 U.S.C. 8337(h) or 8456.
+
+Priority Placement Program (PPP) DoD Military Spouse Preference (MSP): In order to receive this preference, you must choose to apply using the "Priority Placement Program, DoD Military Spouse Preference (MSP)" eligibility. If you are claiming MSP and are determined to be among the Best Qualified for the position, you may be referred to the hiring manager as a priority applicant. To be eligible as a MSP, you must submit the following supporting documents with your application package: Spouse's Permanent Change of Station (PCS) orders; Marriage Certificate or License; PPP Self Certification Checklist; Veterans' Preference documentation (e.g., DD-214, VA Letter, Statement of Service, if applicable); Transcripts (if applicable). These documents must provide acceptable information to verify: Residency within the commuting area of your sponsor's permanent duty station (PDS); proof of marriage to the active duty sponsor; proof of military member's active duty status; and other documentation required by the vacancy announcement to which you are applying. NOTE: Previous federal employees must also submit the following additional documentation: SF-50s (e.g., LWOP, highest grade held, overseas appointments, etc.), SF-75 information, and documentation of performance rating of record (dated within the last 12 months). Selected PPP MSP applicants will need to certify they have not accepted nor declined another offer of permanent, Federal employment (to include NAF and the military exchange services) since relocating to the military sponsor's current duty station.
+
+Priority Placement Program (PPP) DoD Retained Grade Preference (RGP): In order to receive this preference, you must choose to apply using the "Priority Placement Program, DoD Retained Grade Preference (RGP)" eligibility. If you are claiming RGP and are determined to be Well Qualified (score of 85 or above) for the position, you will be referred to the hiring manager as a priority applicant. Information and required documentation for claiming RGP may be found at the General Applicant Information and Definitions link below. To be eligible as a RGP, you must submit the following supporting documents with your application package: a signed Retained Grade PPP Self-Certification Checklist (DD3145-1 (whs.mil)); a copy of your Notification of Personnel Action (SF-50) effecting the placement in retained grade status; or a copy of the notification letter you received regarding the RIF or classification downgrade.
+
+ If you are relying on your education to meet qualification requirements:
+
+ Education must be accredited by an accrediting institution recognized by the U.S. Department of Education in order for it to be credited towards qualifications. Therefore, provide only the attendance and/or degrees from
+ schools accredited by accrediting institutions recognized by the U.S. Department of Education.
+
+ Failure to provide all of the required information as stated in this vacancy announcement may result in an ineligible rating or may affect the overall rating.
+
+How to Apply
+
+ Help
+
+Please read the entire announcement and all the instructions before you begin an application. To apply for this position, you must complete the initial online application, to include submission of the required documentation specified in the Required Documents section below. The complete application package must be submitted by 11:59 PM (ET) on the closing date of the announcement to receive consideration. The application process is as follows:
+
+To begin the application process, click the Apply Online button.
+
+Answer the questions presented in the application and attach all necessary supporting documentation. NOTE: Resumes up to a total of two pages will be accepted. Your resume must not exceed two (2) pages. If your resume exceeds the two-page limit, you will be removed from consideration for this announcement.
+
+Click the Submit Application button prior to 11:59 PM (ET) on 11/09/2026.
+
+After submitting your online application, you will be notified whether or not you are required to take any additional online assessments through the USA Hire Competency Based Assessment system. This message will be delivered to you both on screen and via email notification. The email may be routed to your "Spam" or "Junk" folder. If you do not receive the email invitation to the assessment and you meet the minimum qualifications for the position, you should contact https://apply.usastaffing.gov/HelpTicket to request the email be re-sent. Requests to re-send invitations to the USA Hire Competency Based Assessments must be received by https://apply.usastaffing.gov/HelpTicket BEFORE the close of the JOA.
+
+If you are asked to take the USA Hire Competency Based Assessments, you will be presented with a unique URL to access the USA Hire system. Access to USA Hire is granted through your USAJOBS login credentials. Be sure to review all instructions prior to beginning your USA Hire Assessments. Click here for Computer System Requirements.
+
+NOTE: Set aside at least 3 hours to take these assessments; however, most applicants complete the assessments in less time. If you need to stop the assessments and continue at a later time, you can re-use the URL sent to you via email and also found in your USAJOBS account under the "Track my application" link for the corresponding application.
+
+You may update your application documents and some questions related to your personal information at any time during the announcement open period. However, you will not be able to make changes to questions related to assessing the minimum qualifications and competencies (knowledge, skills, abilities, and other characteristics) mentioned in the "How You Will Be Evaluated" section above. To make an allowed update to your application, return to your USAJOBS account (https://www.usajobs.gov). There you will find a record of your application, the application status, and an option to Edit my application. This option will no longer be available once the announcement has closed.
+
+To verify the status of your application both during and after the announcement open period, log into your USAJOBS account at https://www.usajobs.gov. On the Home page, scroll down and locate your job application. Once the job has been located, click the "Track this application" link on the right under the application date. The page will refresh to display the Agency's Application Information page where you can scroll down and review any notifications the agency has sent you. The Application Status will appear along with the date your application was last updated. For information on what each Application Status means, visit https://help.usajobs.gov/how-to/application/status.
+
+Reasonable Accommodation (RA) Requests: If you believe you have a disability (i.e., physical or mental), covered by the Rehabilitation Act of 1973 as amended that would interfere with completing the USA Hire Competency Based Assessments, you will be granted the opportunity to request a RA in your online application. Requests for RA for the USA Hire Competency Based Assessments and appropriate supporting documentation for RA must be received prior to starting the USA Hire Competency Based Assessments. Decisions on requests for RA are made on a case-by-case basis. If you meet the minimum qualifications of the position, after notification of the adjudication of your request, you will receive an email invitation to complete the USA Hire Competency Based Assessments. You must complete all assessments within 48 hours of receiving the URL to access the USA Hire Competency Based Assessments if you received the link after the close of the announcement. To determine if you need a RA, please review the Procedures for Requesting a Reasonable Accommodation for Online Assessments here: https://appsupport.usastaffing.gov/hc/en-us/articles/29113644431764-Requesting-an-accommodation.
+
+To preview the questionnaire, please go to https://apply.usastaffing.gov/ViewQuestionnaire/13100468.
+
+Agency contact information
+
+ Elise Baerwald
+
+Phone
+
+ 4457372974
+
+Email
+
+ Elise.Baerwald@dla.mil
+
+Address
+
+ DLA Information Operations J6
+
+ 8725 John J Kingman Rd
+
+ Ft Belvoir, VA 22060-6221
+
+ US
+
+Next steps
+
+If you meet the minimum qualifications of this position, you may be presented with instructions on how to access the USA Hire Competency Based Assessments (CBA) system. These additional online assessments must be completed within 48 hours following the close of this announcement unless you have requested Reasonable Accommodation for the USA Hire CBA. Your results will be kept on record for one year when applying for future jobs that require the same USA Hire CBA. NOTE: If the USA Hire CBA is altered within a year of your last application, you will be required to take the new USA Hire CBA. If no additional online assessments are required you will receive an OPM notification stating "It has been determined that you have completed all required online assessments and your application is complete. No further action is required."
+
+Once you successfully complete the application process, you will receive a notification of receipt. Your application package will be reviewed to ensure you meet the basic eligibility and qualifications requirements, and you will receive a notification. A review may be completed of your online questionnaire and the documentation you submitted to support your responses. Applicants that are found among the most highly qualified may be referred to the hiring official for consideration, and you will receive a notification of referral. The selecting official may choose to conduct interviews, and as part of the selection process, applicants may be required to complete additional supplemental documents. Once the selection is made, you will receive a notification of the decision. If interviews are conducted, DLA uses a technique called Behavior Based Interviewing (BBI). Be sure to check your USA Jobs account for your notification updates.
+
+Fair and transparent
+
+The Federal hiring process is set up to be fair and transparent. Please read the following guidance.
+
+ Criminal history inquiries
+
+ Equal Employment Opportunity (EEO) Policy
+
+ Financial suitability
+
+ New employee probationary period
+
+ Privacy Act
+
+ Reasonable accommodation policy
+
+ Selective Service
+
+ Signature and false statements
+
+ Social security number request
+
+Required Documents
+
+ Help
+
+ To apply for this position you must provide a complete Application Package. Each Application Package MUST include:
+
+Your Resume: IMPORTANT UPDATE: Your resume must not exceed two (2) pages. If your resume exceeds the two-page limit, you will be removed from consideration for this announcement. The resume and required supporting documentation should provide the minimum qualifications and relevant experience for the announced position. Must include the work schedule, hours worked per week, dates of employment, and duties performed. If multiple resumes are submitted by an applicant, only the last resume submitted will be reviewed for qualifications and referred for selection consideration, if eligible. The resume must not be more than 5MB and should be saved and uploaded as a PDF to maintain formatting and number of pages. We also accept GIF, JPG, JPEG, PNG, RTF, TXT, PDF, ODT or Word (DOC or DOCX). We do not accept PDF portfolio files. Page margins should be 0.5 inches, and font styles must be legible. Consider using 14-point size font for titles and 10-point for the main text. We recommend using a font like Lato, if available. Other widely available options are Calibri, Helvetica, Arial, Verdana, Open San Source Sans Pro, Roboto or Noro Sans.
+
+Applicable documents to support the eligibility(s) for which you are applying. Please review the following link for a listing of the additional documents you will need to provide: Supporting Documents.
+
+If you are requesting a reasonable accommodation to the USA Hire Competency Based Assessments, submit documentation to support your request, including the Reasonable Accommodation Request Form found here.
+
+Interagency Career Transition Assistance Program (ICTAP): If you are an eligible ICTAP applicant you may apply for special selection over other candidates for this position. To be well-qualified and exercise selection priority for this vacancy, displaced Federal employees must be rated at a score of 85 or higher for this position. ICTAP eligibles must submit one of the following as proof of eligibility for the special selection priority: a separation notice; a "Notice of Personnel Action" (SF-50) documenting separation; an agency certification that you cannot be placed after injury compensation has been terminated; an OPM notification that your disability annuity has been terminated; OR a Military Department or National Guard Bureau notification that you are retired under 5 U.S.C. 8337(h) or 8456.
+
+Priority Placement Program (PPP) DoD Military Spouse Preference (MSP): In order to receive this preference, you must choose to apply using the "Priority Placement Program, DoD Military Spouse Preference (MSP)" eligibility. If you are claiming MSP and are determined to be among the Best Qualified for the position, you may be referred to the hiring manager as a priority applicant. To be eligible as a MSP, you must submit the following supporting documents with your application package: Spouse's Permanent Change of Station (PCS) orders; Marriage Certificate or License; PPP Self Certification Checklist; Veterans' Preference documentation (e.g., DD-214, VA Letter, Statement of Service, if applicable); Transcripts (if applicable). These documents must provide acceptable information to verify: Residency within the commuting area of your sponsor's permanent duty station (PDS); proof of marriage to the active duty sponsor; proof of military member's active duty status; and other documentation required by the vacancy announcement to which you are applying. NOTE: Previous federal employees must also submit the following additional documentation: SF-50s (e.g., LWOP, highest grade held, overseas appointments, etc.), SF-75 information, and documentation of performance rating of record (dated within the last 12 months). Selected PPP MSP applicants will need to certify they have not accepted nor declined another offer of permanent, Federal employment (to include NAF and the military exchange services) since relocating to the military sponsor's current duty station.
+
+Priority Placement Program (PPP) DoD Retained Grade Preference (RGP): In order to receive this preference, you must choose to apply using the "Priority Placement Program, DoD Retained Grade Preference (RGP)" eligibility. If you are claiming RGP and are determined to be Well Qualified (score of 85 or above) for the position, you will be referred to the hiring manager as a priority applicant. Information and required documentation for claiming RGP may be found at the General Applicant Information and Definitions link below. To be eligible as a RGP, you must submit the following supporting documents with your application package: a signed Retained Grade PPP Self-Certification Checklist (DD3145-1 (whs.mil)); a copy of your Notification of Personnel Action (SF-50) effecting the placement in retained grade status; or a copy of the notification letter you received regarding the RIF or classification downgrade.
+
+ If you are relying on your education to meet qualification requirements:
+
+ Education must be accredited by an accrediting institution recognized by the U.S. Department of Education in order for it to be credited towards qualifications. Therefore, provide only the attendance and/or degrees from
+ schools accredited by accrediting institutions recognized by the U.S. Department of Education.
+
+ Failure to provide all of the required information as stated in this vacancy announcement may result in an ineligible rating or may affect the overall rating.
+
+How to Apply
+
+ Help
+
+Please read the entire announcement and all the instructions before you begin an application. To apply for this position, you must complete the initial online application, to include submission of the required documentation specified in the Required Documents section below. The complete application package must be submitted by 11:59 PM (ET) on the closing date of the announcement to receive consideration. The application process is as follows:
+
+To begin the application process, click the Apply Online button.
+
+Answer the questions presented in the application and attach all necessary supporting documentation. NOTE: Resumes up to a total of two pages will be accepted. Your resume must not exceed two (2) pages. If your resume exceeds the two-page limit, you will be removed from consideration for this announcement.
+
+Click the Submit Application button prior to 11:59 PM (ET) on 11/09/2026.
+
+After submitting your online application, you will be notified whether or not you are required to take any additional online assessments through the USA Hire Competency Based Assessment system. This message will be delivered to you both on screen and via email notification. The email may be routed to your "Spam" or "Junk" folder. If you do not receive the email invitation to the assessment and you meet the minimum qualifications for the position, you should contact https://apply.usastaffing.gov/HelpTicket to request the email be re-sent. Requests to re-send invitations to the USA Hire Competency Based Assessments must be received by https://apply.usastaffing.gov/HelpTicket BEFORE the close of the JOA.
+
+If you are asked to take the USA Hire Competency Based Assessments, you will be presented with a unique URL to access the USA Hire system. Access to USA Hire is granted through your USAJOBS login credentials. Be sure to review all instructions prior to beginning your USA Hire Assessments. Click here for Computer System Requirements.
+
+NOTE: Set aside at least 3 hours to take these assessments; however, most applicants complete the assessments in less time. If you need to stop the assessments and continue at a later time, you can re-use the URL sent to you via email and also found in your USAJOBS account under the "Track my application" link for the corresponding application.
+
+You may update your application documents and some questions related to your personal information at any time during the announcement open period. However, you will not be able to make changes to questions related to assessing the minimum qualifications and competencies (knowledge, skills, abilities, and other characteristics) mentioned in the "How You Will Be Evaluated" section above. To make an allowed update to your application, return to your USAJOBS account (https://www.usajobs.gov). There you will find a record of your application, the application status, and an option to Edit my application. This option will no longer be available once the announcement has closed.
+
+To verify the status of your application both during and after the announcement open period, log into your USAJOBS account at https://www.usajobs.gov. On the Home page, scroll down and locate your job application. Once the job has been located, click the "Track this application" link on the right under the application date. The page will refresh to display the Agency's Application Information page where you can scroll down and review any notifications the agency has sent you. The Application Status will appear along with the date your application was last updated. For information on what each Application Status means, visit https://help.usajobs.gov/how-to/application/status.
+
+Reasonable Accommodation (RA) Requests: If you believe you have a disability (i.e., physical or mental), covered by the Rehabilitation Act of 1973 as amended that would interfere with completing the USA Hire Competency Based Assessments, you will be granted the opportunity to request a RA in your online application. Requests for RA for the USA Hire Competency Based Assessments and appropriate supporting documentation for RA must be received prior to starting the USA Hire Competency Based Assessments. Decisions on requests for RA are made on a case-by-case basis. If you meet the minimum qualifications of the position, after notification of the adjudication of your request, you will receive an email invitation to complete the USA Hire Competency Based Assessments. You must complete all assessments within 48 hours of receiving the URL to access the USA Hire Competency Based Assessments if you received the link after the close of the announcement. To determine if you need a RA, please review the Procedures for Requesting a Reasonable Accommodation for Online Assessments here: https://appsupport.usastaffing.gov/hc/en-us/articles/29113644431764-Requesting-an-accommodation.
+
+To preview the questionnaire, please go to https://apply.usastaffing.gov/ViewQuestionnaire/13100468.
+
+ Expand Hide  how to apply
+
+Agency contact information
+
+ Elise Baerwald
+
+Phone
+
+ 4457372974
+
+Email
+
+ Elise.Baerwald@dla.mil
+
+Address
+
+ DLA Information Operations J6
+
+ 8725 John J Kingman Rd
+
+ Ft Belvoir, VA 22060-6221
+
+ US
+
+Next steps
+
+If you meet the minimum qualifications of this position, you may be presented with instructions on how to access the USA Hire Competency Based Assessments (CBA) system. These additional online assessments must be completed within 48 hours following the close of this announcement unless you have requested Reasonable Accommodation for the USA Hire CBA. Your results will be kept on record for one year when applying for future jobs that require the same USA Hire CBA. NOTE: If the USA Hire CBA is altered within a year of your last application, you will be required to take the new USA Hire CBA. If no additional online assessments are required you will receive an OPM notification stating "It has been determined that you have completed all required online assessments and your application is complete. No further action is required."
+
+Once you successfully complete the application process, you will receive a notification of receipt. Your application package will be reviewed to ensure you meet the basic eligibility and qualifications requirements, and you will receive a notification. A review may be completed of your online questionnaire and the documentation you submitted to support your responses. Applicants that are found among the most highly qualified may be referred to the hiring official for consideration, and you will receive a notification of referral. The selecting official may choose to conduct interviews, and as part of the selection process, applicants may be required to complete additional supplemental documents. Once the selection is made, you will receive a notification of the decision. If interviews are conducted, DLA uses a technique called Behavior Based Interviewing (BBI). Be sure to check your USA Jobs account for your notification updates.
+
+ Expand Hide  next steps
+
+Fair and transparent
+
+The Federal hiring process is set up to be fair and transparent. Please read the following guidance.
+
+ Criminal history inquiries
+
+ Equal Employment Opportunity (EEO) Policy
+
+ Financial suitability
+
+ New employee probationary period
+
+ Privacy Act
+
+ Reasonable accommodation policy
+
+ Selective Service
+
+ Signature and false statements
+
+ Social security number request
+
+Additional locations
+
+ Philadelphia, PA
+
+ Hill AFB, UT
+
+ Fort Belvoir, VA
+
+ Richmond, VA
+
+ Defense Logistics Agency
+
+ The Nation's Logistics Combat Support Agency: The Defense Logistics Agency (DLA) is a U.S. Department of Defense (DoD) agency. DLA provides worldwide logistics support for the missions of the Military Departments and the Unified Combatant Commands under conditions of peace and war. It also provides logistics support to other DoD Components and certain Federal agencies, foreign governments, international organizations, and others as authorized.
+
+Agency contact information
+
+ Elise Baerwald
+
+Phone
+
+ 4457372974
+
+Email
+
+ Elise.Baerwald@dla.mil
+
+Address
+
+ DLA Information Operations J6
+
+ 8725 John J Kingman Rd
+
+ Ft Belvoir, VA 22060-6221
+
+ US
+
+Visit our careers page
+
+ Learn more about what it's like to work at Defense Logistics Agency, what the agency does, and about the types of careers this agency offers.
+
+ https://www.dla.mil/careers/
+
+Summary
+
+See below for important information regarding this job.
+
+Position will be filled at any of the locations listed below. Site specific salary information as follows:
+
+Battle Creek, MI: $89,508 - $ 116,362
+
+Columbus, OH: $93,400 - $121,422
+
+Dayton, OH: $92,841- $120,696
+
+Fort Belvoir, VA: $102,415- $133,142
+
+New Cumberland, PA: $102,415- $133,142
+
+Ogden, UT: $89,508 - $ 116,362
+
+Philadelphia, PA: $98,630- $128,221
+
+Richmond, VA: $93,499- $121,551
+
+ Learn more about this agency
+
+Overview
+
+ Help
+
+Accepting applications
+
+Location
+
+1 vacancy in the following locations:
+
+ Battle Creek, MI
+
+ Whitehall, OH
+
+ Wright-Patterson AFB, OH
+
+ New Cumberland Defense Logistics Center, PA
+
+ Philadelphia, PA
+
+ Hill AFB, UT
+
+ Fort Belvoir, VA
+
+ Richmond, VA
+
+ No matching locations found.
+
+Work site options
+
+Telework eligible
+
+Yes—as determined by the agency policy.
+
+Remote job
+
+No
+
+Relocation expenses reimbursed
+
+ No
+
+Salary
+
+ $89,508 - $133,142 per year
+
+See Summary for additional information
+
+Pay scale & grade
+
+GS 12
+
+Promotion potential
+
+None
+
+ Learn more about pay scale and grade
+
+ Pay scale and grade determines the salary of the job.
+
+Work schedule
+
+Full-time
+
+Travel Required
+
+Occasional travel - You may be expected to travel for this position.
+
+Appointment type
+
+Permanent - Multiple Appointment Types
+
+Occupations and job series
+
+ 2210 Information Technology Management
+
+Supervisory status
+
+No
+
+Federal service type
+
+This job is in the Competitive Service
+
+Represented by a union
+
+No
+
+Drug test
+
+No
+
+Security clearance
+
+Other
+
+Financial disclosure required
+
+No
+
+ Some jobs require
+ financial disclosure to identify conflicts of interests.
+
+Announcement number
+
+DLAJ6-27-13100468-MP
+
+Control number
+
+891164500
+
+ Previous result
+
+Next result
+
+Your session is about to expire!
+
+ Your USAJOBS session will expire due to inactivity in 8 minutes.
+ Any unsaved data will be lost if you allow the session to expire.
+ Click the button below to continue your session.
+
+ Sign out
+ Stay signed in
+
+ Return to top
+
+USAJOBS is a Opens in a new windowUnited States Office of Personnel Management website.
+
+ (Opens in a new window) OPM on LinkedIn
+
+ (Opens in a new window) OPM YouTube channel
+
+ (Opens in a new window) OPM on X
+
+Opens in a new windowEEO Policy Statement
+
+Opens in a new windowReasonable Accommodation Policy Statement
+
+Veterans Information
+
+Opens in a new windowLegal and Regulatory Guidance
+
+About USAJOBS
+
+Opens in a new windowAccessibility
+
+Opens in a new windowFOIA
+
+Opens in a new windowInspector general
+
+Opens in a new windowNo Fear Act Data
+
+Opens in a new windowPrivacy policy
+
+Opens in a new windowReports and publications
+
+Opens in a new windowTerms and conditions
+
+Opens in a new windowUSA.gov

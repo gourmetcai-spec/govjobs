@@ -1,0 +1,32 @@
+{
+  "@context": "http://www.schema.org",
+  "@type": "JobPosting",
+  "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": {
+      "@type": "QuantitativeValue",
+      "value": 143913.0,
+      "unitText": "YEAR"
+    }
+  },
+  "datePosted": "10/28/2026",
+  "description": "You will serve as an IT SPECIALIST (PLCYPLN) in the Digital Networks and Applications Department, Engineering, Infrastructure, & Device Mgmt. Division of NAVAIRWARCENAC DIV.",
+  "educationRequirements": "",
+  "employmentType": "OTHER",
+  "hiringOrganization": "NAVAIRWARCENAC DIV",
+  "jobLocation": [
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Patuxent River",
+        "addressRegion": "MD "
+      }
+    }
+  ],
+  "responsibilities": "",
+  "qualifications": "Your resume must demonstrate at least one year of specialized experience at or equivalent to the (GS-13) grade level or (DS-05) pay band in the Federal service or equivalent experience in the private or public sector. Specialized experience includes: 1) Working independently, managing time effectively, and leading technical projects without requiring close supervision; 2) Demonstrating extensive, hands-on expertise with Python, Ansible, and Terraform for infrastructure automation. Proficiency with Git for version control; 3) Exhibiting knowledge of VMware Cloud Foundation (vCF) and VMware NSX, with a track record of automating actions within these environments; 4) Experience with Cisco SDA (Software-Defined Access) and automating complex network infrastructure provisioning; 5) Strong background in general system administration for both Red Hat Enterprise Linux (RHEL) and Windows environments; 6) Previous experience operating within or supporting an RDT&E network environment. Your experience must reflect skill in the following areas: attention to detail, customer service, oral communication, and problem solving.<br>\n<br>\nAdditional qualification information can be found from the following Office of Personnel Management website: <a href=\"https://www.opm.gov/policy-data-oversight/classification-qualifications/general-schedule-qualification-standards/#url=List-by-Occupational-Series\">https://www.opm.gov/policy-data-oversight/classification-qualifications/general-schedule-qualification-standards/#url=List-by-Occupational-Series</a><br>\n<br>\nExperience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., professional, philanthropic, religious, spiritual, community, student, social). Volunteer work helps build critical competencies, knowledge, and skills and can provide valuable training and experience that translates directly to paid employment.",
+  "title": "IT SPECIALIST (PLCYPLN)",
+  "validThrough": "2026-11-03"
+}

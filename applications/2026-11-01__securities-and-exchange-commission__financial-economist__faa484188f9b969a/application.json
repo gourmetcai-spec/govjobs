@@ -2,32 +2,88 @@
   "employer": "Securities and Exchange Commission",
   "title": "Financial Economist",
   "requisition_id": "USAJOBS-885040000",
-  "posted_date": null,
-  "close_date": null,
+  "posted_date": "2026-09-21",
+  "close_date": "2027-03-30",
   "location": "Washington, DC",
-  "salary": "$200,157–$225,943 per year; SK-14",
-  "fit": "Quantitative market risk, research, trading and reporting overlap.",
-  "gaps": "Economics major or equivalent coursework (21 economics credits) is unverified; specified economic policy/securities litigation/research outputs are not established. Need original dates and verified official announcement number; control number used as fallback identity.",
+  "salary": "Starting at $200,157 Per year (SK 14)",
+  "fit": "Financial forecasting, capital/ROE, quantitative risk and engineering leadership overlap; federal budget/accounting/policy specialties remain attention items.",
+  "gaps": "Verify economics coursework/credit requirements against the exact qualification clause; not established by the baseline alone. Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.",
   "canonical_url": "https://www.usajobs.gov/job/885040000",
   "application_url": "https://www.usajobs.gov/job/885040000",
-  "posted_date_evidence": "Official announcement is accepting applications with bi-weekly cutoffs; opening date and final deadline not verified.",
-  "retrieved_at": "2026-11-02T01:18:48.041747+00:00",
+  "posted_date_evidence": "Official announcement JobPosting.datePosted; corroborated by native search PositionStartDate where listed.",
+  "retrieved_at": "2026-11-02T23:14:54.501767+00:00",
   "status": "needs_verification",
   "aliases": [],
   "discovery_window": [
-    "2026-09-01",
-    "2026-11-01"
+    "2026-09-02",
+    "2026-11-02"
   ],
-  "remote_restrictions": "Not remote; DMV duty station offered. Confirm telework policy in official job description.",
-  "open_evidence": "Refreshed official USAJOBS page reports Accepting applications; scope and prior mandatory gaps retained. Evidence: tracking/runs/2026-11-01-federal-step1-redo/refresh-web.txt and existing0/1-web.txt.",
+  "remote_restrictions": "Offered DMV work location; verify telework/attendance and screening conditions in announcement.",
+  "open_evidence": "Official announcement downloaded successfully; validThrough and native open-status evidence retained.",
   "hiring_path": "Open to the public",
   "control_number": "885040000",
   "id": "faa484188f9b969a",
   "step": 1,
   "selected": false,
   "submitted": false,
-  "artifacts": {},
-  "resume_status": "not_generated_verification_required",
-  "resume_review": "Not generated; unresolved mandatory requirements.",
-  "last_step1_refresh": "2026-11-01-federal-step1-redo"
+  "artifacts": {
+    "resume_markdown": {
+      "path": "applications/2026-11-01__securities-and-exchange-commission__financial-economist__faa484188f9b969a/resume-xuewu-cai__securities-and-exchange-commission__financial-economist__885040000.md",
+      "sha256": "3cbc26fe04510689d82eab9046e529631f7911f55471960191dbb04537af62e6"
+    },
+    "resume_pdf": {
+      "path": "applications/2026-11-01__securities-and-exchange-commission__financial-economist__faa484188f9b969a/resume-xuewu-cai__securities-and-exchange-commission__financial-economist__885040000.pdf",
+      "sha256": "232ae575f3ebbe17d566017dfd73096b229fc7ce0cb76deef0758f7013eb5b30"
+    }
+  },
+  "resume_status": "prepared_with_attention",
+  "resume_review": "Text and hashes verified; all 20 baseline experience bullets preserved with updated title. Two pages rendered in PDFKit; all 113 distinct page images visually reviewed across 10 boards (238 rendered pages total). No clipping, overlap or blank pages. Neutral metadata and no AI-editing/targeting labels. Candidate facts/qualifications marked as attention items; no submission.",
+  "last_step1_refresh": "2026-11-01-federal-step1-redo",
+  "created_at": "2026-11-02T00:53:12.969684+00:00",
+  "updated_at": "2026-11-02T01:18:48.470843+00:00",
+  "application_directory": "applications/2026-11-01__securities-and-exchange-commission__financial-economist__faa484188f9b969a",
+  "deadline_timezone": "America/New_York",
+  "deadline_time": "23:59",
+  "deadline_source": "https://www.usajobs.gov/job/885040000",
+  "deadline_verified": true,
+  "early_closure_conditions": [],
+  "rolling_cutoff": null,
+  "requirements_confirmed_unmet": [],
+  "requirements_unverified": [
+    "Verify economics coursework/credit requirements against the exact qualification clause; not established by the baseline alone.",
+    "Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "preferred_requirements_note": "See official qualifications/education sections; missing evidence does not establish an unmet requirement.",
+  "hiring_paths": [
+    "Open to the public"
+  ],
+  "artifact_versions": [
+    {
+      "revision_id": "2026-11-02T23:14:54.501767+00:00",
+      "artifacts": {
+        "resume_markdown": {
+          "path": "applications/2026-11-01__securities-and-exchange-commission__financial-economist__faa484188f9b969a/resume-xuewu-cai__securities-and-exchange-commission__financial-economist__885040000.md",
+          "sha256": "3cbc26fe04510689d82eab9046e529631f7911f55471960191dbb04537af62e6"
+        },
+        "resume_pdf": {
+          "path": "applications/2026-11-01__securities-and-exchange-commission__financial-economist__faa484188f9b969a/resume-xuewu-cai__securities-and-exchange-commission__financial-economist__885040000.pdf",
+          "sha256": "232ae575f3ebbe17d566017dfd73096b229fc7ce0cb76deef0758f7013eb5b30"
+        }
+      },
+      "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a"
+    }
+  ],
+  "required_answers_pending": [
+    "Verify economics coursework/credit requirements against the exact qualification clause; not established by the baseline alone.",
+    "Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "confirmed_unmet_requirements": [],
+  "qualifications_verified": false,
+  "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a",
+  "resume_format": "restored_two_page",
+  "current_resume_naming": "unversioned",
+  "clearance_requirement": "Other",
+  "public_hiring_route_evidence": true
 }

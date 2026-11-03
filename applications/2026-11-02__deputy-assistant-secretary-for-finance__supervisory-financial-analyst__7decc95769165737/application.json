@@ -1,0 +1,96 @@
+{
+  "title": "Supervisory Financial Analyst",
+  "requisition_id": "CCLQ-13103591-27-KS",
+  "canonical_url": "https://www.usajobs.gov/job/890686800",
+  "application_url": "https://www.usajobs.gov/job/890686800",
+  "posted_date": "2026-10-29",
+  "posted_date_evidence": "Official announcement JobPosting.datePosted; corroborated by native search PositionStartDate where listed.",
+  "close_date": "2026-11-04",
+  "deadline_timezone": "America/New_York",
+  "deadline_time": "23:59",
+  "deadline_source": "https://www.usajobs.gov/job/890686800",
+  "deadline_verified": true,
+  "early_closure_conditions": [
+    "first 100 applications will receive first consideration. Applications received after the initial cut-off number (100 applications) will not receive consideration unless otherwise requested by management."
+  ],
+  "rolling_cutoff": null,
+  "location": "Washington, DC",
+  "remote_restrictions": "Offered DMV work location; verify telework/attendance and screening conditions in announcement.",
+  "salary": "Starting at $107,446 Per year (GS 14)",
+  "retrieved_at": "2026-11-02T23:14:54.501767+00:00",
+  "control_number": "890686800",
+  "fit": "Financial forecasting, capital/ROE, quantitative risk and engineering leadership overlap; federal budget/accounting/policy specialties remain attention items.",
+  "gaps": "Hiring-path eligibility unverified: Competitive service, Excepted service, Internal to an agency, Career transition (CTAP, ICTAP, RPL), Land and base management, Veterans, Military spouses, Individuals with disabilities, Family of overseas employees, Peace Corps & AmeriCorps Vista. Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Verify OMB/federal budget procedures against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.",
+  "requirements_confirmed_unmet": [],
+  "requirements_unverified": [
+    "Hiring-path eligibility unverified: Competitive service, Excepted service, Internal to an agency, Career transition (CTAP, ICTAP, RPL), Land and base management, Veterans, Military spouses, Individuals with disabilities, Family of overseas employees, Peace Corps & AmeriCorps Vista. Confirm qualifying status before application; absence from baseline is not proof of ineligibility.",
+    "Verify OMB/federal budget procedures against the exact qualification clause; not established by the baseline alone.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "preferred_requirements_note": "See official qualifications/education sections; missing evidence does not establish an unmet requirement.",
+  "hiring_paths": [
+    "Competitive service",
+    "Excepted service",
+    "Internal to an agency",
+    "Career transition (CTAP, ICTAP, RPL)",
+    "Land and base management",
+    "Veterans",
+    "Military spouses",
+    "Individuals with disabilities",
+    "Family of overseas employees",
+    "Peace Corps & AmeriCorps Vista"
+  ],
+  "open_evidence": "Official announcement downloaded successfully; validThrough and native open-status evidence retained.",
+  "discovery_window": [
+    "2026-09-02",
+    "2026-11-02"
+  ],
+  "employer": "Deputy Assistant Secretary for Finance",
+  "status": "needs_verification",
+  "aliases": [],
+  "id": "7decc95769165737",
+  "application_directory": "applications/2026-11-02__deputy-assistant-secretary-for-finance__supervisory-financial-analyst__7decc95769165737",
+  "step": 1,
+  "selected": false,
+  "submitted": false,
+  "artifacts": {
+    "resume_markdown": {
+      "path": "applications/2026-11-02__deputy-assistant-secretary-for-finance__supervisory-financial-analyst__7decc95769165737/resume-xuewu-cai__deputy-assistant-secretary-for-finance__supervisory-financial-analyst__890686800.md",
+      "sha256": "358417212219aec59eb7318718c798d19731b99ed5bd56a8b5ea62c752127792"
+    },
+    "resume_pdf": {
+      "path": "applications/2026-11-02__deputy-assistant-secretary-for-finance__supervisory-financial-analyst__7decc95769165737/resume-xuewu-cai__deputy-assistant-secretary-for-finance__supervisory-financial-analyst__890686800.pdf",
+      "sha256": "2ed902ca7d7762bb50e738d996b3eac2d41ae4fb85614d64428173bd71808d63"
+    }
+  },
+  "artifact_versions": [
+    {
+      "revision_id": "2026-11-02T23:14:54.501767+00:00",
+      "artifacts": {
+        "resume_markdown": {
+          "path": "applications/2026-11-02__deputy-assistant-secretary-for-finance__supervisory-financial-analyst__7decc95769165737/resume-xuewu-cai__deputy-assistant-secretary-for-finance__supervisory-financial-analyst__890686800.md",
+          "sha256": "358417212219aec59eb7318718c798d19731b99ed5bd56a8b5ea62c752127792"
+        },
+        "resume_pdf": {
+          "path": "applications/2026-11-02__deputy-assistant-secretary-for-finance__supervisory-financial-analyst__7decc95769165737/resume-xuewu-cai__deputy-assistant-secretary-for-finance__supervisory-financial-analyst__890686800.pdf",
+          "sha256": "2ed902ca7d7762bb50e738d996b3eac2d41ae4fb85614d64428173bd71808d63"
+        }
+      },
+      "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a"
+    }
+  ],
+  "resume_status": "prepared_with_attention",
+  "resume_review": "Text and hashes verified; all 20 baseline experience bullets preserved with updated title. Two pages rendered in PDFKit; all 113 distinct page images visually reviewed across 10 boards (238 rendered pages total). No clipping, overlap or blank pages. Neutral metadata and no AI-editing/targeting labels. Candidate facts/qualifications marked as attention items; no submission.",
+  "required_answers_pending": [
+    "Hiring-path eligibility unverified: Competitive service, Excepted service, Internal to an agency, Career transition (CTAP, ICTAP, RPL), Land and base management, Veterans, Military spouses, Individuals with disabilities, Family of overseas employees, Peace Corps & AmeriCorps Vista. Confirm qualifying status before application; absence from baseline is not proof of ineligibility.",
+    "Verify OMB/federal budget procedures against the exact qualification clause; not established by the baseline alone.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "confirmed_unmet_requirements": [],
+  "qualifications_verified": false,
+  "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a",
+  "resume_format": "restored_two_page",
+  "current_resume_naming": "unversioned",
+  "clearance_requirement": "Other",
+  "public_hiring_route_evidence": false
+}

@@ -1,0 +1,76 @@
+Xuewu Cai | Financial Engineering & Technology
+1
+XUEWU CAI
+FINANCIAL ENGINEERING & MORTGAGE ANALYTICS LEADER
+Clarksville, MD | 410-446-6815 | gourmetcai@gmail.com
+linkedin.com/in/xuewu-cai-a8069664 | U.S. citizen
+PROFESSIONAL SUMMARY
+Financial engineering director and technology leader with more than 20 years across mortgage finance, quantitative research, risk
+management and trading systems. Experience includes market-data infrastructure and analytical reporting, documented use of
+generative AI tools in engineering workflows. Combines hands-on Java, Python, MATLAB and C/C++ expertise with large-scale
+analytics on AWS and IBM Symphony and documented financial model implementation.
+CORE EXPERTISE
+Finance & risk: Credit risk transfer (CRT), structured finance, mortgage analytics, portfolio risk, capital planning, ROE, CECL,
+DFAST, derivatives pricing, scenario analysis, and stress testing. Mortgage products: MBS, TBA, agency debt, and CMO; hedge
+accounting.
+Leadership & delivery: People management, technical leadership, multi-project delivery, financial model implementation, and
+investment decision support.
+Technology: Java, Python, MATLAB, C/C++, AWS, IBM Symphony, Docker, IntexCalc, DealMaker, QuantLib, FIX, Oracle, SQL
+Server, Snowflake, MongoDB, Spring Boot, PyTorch, JSON, VS Code, Amazon Q, Copilot, and harness engineering.
+PROFESSIONAL EXPERIENCE
+Freddie Mac | Director, Financial Engineering/Inv&Capital Market
+May 2014 – Present | McLean, VA
+  Lead financial engineering projects supporting STACR bond issuance and ACIS reinsurance within Freddie Mac’s CRT (Credit
+ Risk Transfer) program, which protects more than $1.6 trillion in mortgage loans against credit losses.
+ Direct development of modeling tools that combine prepayment and default models, large-scale computing on AWS and IBM
+ Symphony, and Intex valuation analytics to assess bond performance and transaction economics, including return on
+committed capital.
+ Oversee portfolio execution and risk analytics covering duration, convexity, option-adjusted spread (OAS), key rate durations
+ (KRDs), capital benefits, post-transaction capital, and return on equity across the CRT portfolio.
+ Manage the transition from LIBOR to SOFR within CRT modeling tools and analytics.
+  Own an enterprise forecasting platform for income statements, balance sheets, and CECL estimates, supporting annual
+ business planning, risk appetite assessment, capital planning, and DFAST stress testing.
+ Use generative AI tools, including Copilot, extensively to streamline engineering workflows and improve delivery efficiency.
+  Delivered deal memorandum, capital, economics, and ROE analytics for new RPL and synthetic structures, using Copilot and
+ harness engineering to support delivery.
+ Apply hands-on expertise in STACR, senior/subordinate structures, ACIS reinsurance, and IntexCalc, DealMaker, and CDI
+ structures to support valuation and model implementation.
+
+Xuewu Cai | Financial Engineering & Technology
+2
+PROFESSIONAL EXPERIENCE — CONTINUED
+Campbell & Company | Research Engineer and Engineering Roles
+March 2003 – April 2014 | Washington, DC–Baltimore Area
+Research Engineer, Portfolio and Risk Team | 2009 – 2014
+  Developed volatility and correlation forecasting models in MATLAB using daily, intraday, implied volatility, and tick data.
+  Applied statistical methods, Monte Carlo simulation, and bootstrapping to investigate indicators of market stress, portfolio
+ drawdowns, regime changes, and correlation breakdowns using MATLAB, C/C++, and Java.
+ Designed and implemented internal risk reporting covering factor analysis, scenarios, stress tests, duration, and margin to
+ support Investment Committee decisions.
+ Produced regulatory and industry reporting for SEC, CFTC, and OPERA requirements, as well as marketing and compliance
+ analyses, using MATLAB, Java/StyleReport, and Panopticon.
+Quantitative Finance Engineer | 2006 – 2008
+  Led development of a Java-based intraday cash equity trading system using the Caché database; built time-series data
+ infrastructure and market data feeds in MFC/C++.
+ Designed a Java connectivity layer that unified MATLAB access to production databases, including Oracle, SQL Server, Caché,
+ and QADirect.
+ Built an FX options pricing, simulation, and risk engine using Visual C++, Boost, and QuantLib.
+ Senior Software Engineer | 2003 – 2006
+  Led architecture and development of a multithreaded, fault-tolerant electronic trading platform using Java, Portware, and FIX,
+ supporting concurrent strategies, orders, and multiple asset classes.
+ Supported more than $3 billion in capital on the trading platform and helped save tens of millions of dollars in slippage costs.
+ Aquilent | Senior Software Engineer
+June 1999 – February 2003
+  Built Java/Linux sensor integration systems, including embedded Linux deployments, JNI hardware interfaces, serial
+ communications, XML instrument definitions, and dynamic sensor discovery.
+ Designed server-side satellite data management and visualization components, XML data models, and a JavaScript-based
+ model equation engine.
+ Developed Apache/Tomcat visualization portals, session administration tools, and an RMI socket solution enabling callbacks
+ through enterprise firewalls.
+EDUCATION & PROFESSIONAL DEVELOPMENT
+University of Maryland Baltimore County — Master’s Degree, Computer Science
+Shanghai Jiao Tong University — M.S., Computer Science & Engineering
+Dalian University of Technology — Bachelor’s Degree, Applied Mathematics
+Professional development: CAIA (Chartered Alternative Investment Analyst) Level I
+LANGUAGES
+Chinese: native or bilingual proficiency | English: full professional proficiency

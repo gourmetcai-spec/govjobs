@@ -1,0 +1,90 @@
+{
+  "title": "IT SPECIALIST (PLCYPLN/ENTARCH)",
+  "requisition_id": "8N-AFPC-13104979-017053-LB",
+  "canonical_url": "https://www.usajobs.gov/job/891032400",
+  "application_url": "https://www.usajobs.gov/job/891032400",
+  "posted_date": "2026-11-02",
+  "posted_date_evidence": "Official announcement JobPosting.datePosted; corroborated by native search PositionStartDate where listed.",
+  "close_date": "2026-11-06",
+  "deadline_timezone": "America/New_York",
+  "deadline_time": "23:59",
+  "deadline_source": "https://www.usajobs.gov/job/891032400",
+  "deadline_verified": true,
+  "early_closure_conditions": [],
+  "rolling_cutoff": null,
+  "location": "Joint Base Anacostia-Bolling, DC",
+  "remote_restrictions": "Offered DMV work location; verify telework/attendance and screening conditions in announcement.",
+  "salary": "Starting at $85,447 Per year (GS 11)",
+  "retrieved_at": "2026-11-02T23:14:54.501767+00:00",
+  "control_number": "891032400",
+  "fit": "Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.",
+  "gaps": "Hiring-path eligibility unverified: Competitive service, Excepted service, Career transition (CTAP, ICTAP, RPL), Land and base management, Veterans, Military spouses. Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Verify qualifying coursework and calculus credits against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.",
+  "requirements_confirmed_unmet": [],
+  "requirements_unverified": [
+    "Hiring-path eligibility unverified: Competitive service, Excepted service, Career transition (CTAP, ICTAP, RPL), Land and base management, Veterans, Military spouses. Confirm qualifying status before application; absence from baseline is not proof of ineligibility.",
+    "Verify qualifying coursework and calculus credits against the exact qualification clause; not established by the baseline alone.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "preferred_requirements_note": "See official qualifications/education sections; missing evidence does not establish an unmet requirement.",
+  "hiring_paths": [
+    "Competitive service",
+    "Excepted service",
+    "Career transition (CTAP, ICTAP, RPL)",
+    "Land and base management",
+    "Veterans",
+    "Military spouses"
+  ],
+  "open_evidence": "Official announcement downloaded successfully; validThrough and native open-status evidence retained.",
+  "discovery_window": [
+    "2026-09-02",
+    "2026-11-02"
+  ],
+  "employer": "Air Force District of Washington",
+  "status": "needs_verification",
+  "aliases": [],
+  "id": "2479af8984008eaa",
+  "application_directory": "applications/2026-11-02__air-force-district-of-washington__it-specialist-plcypln-entarch__2479af8984008eaa",
+  "step": 1,
+  "selected": false,
+  "submitted": false,
+  "artifacts": {
+    "resume_markdown": {
+      "path": "applications/2026-11-02__air-force-district-of-washington__it-specialist-plcypln-entarch__2479af8984008eaa/resume-xuewu-cai__air-force-district-of-washington__it-specialist-plcypln-entarch__891032400.md",
+      "sha256": "a79abbcbe94a881aa4720a44b691e5000d8bf14b1f8822a37b33a3fd112e217f"
+    },
+    "resume_pdf": {
+      "path": "applications/2026-11-02__air-force-district-of-washington__it-specialist-plcypln-entarch__2479af8984008eaa/resume-xuewu-cai__air-force-district-of-washington__it-specialist-plcypln-entarch__891032400.pdf",
+      "sha256": "97d79b0e3fe7c60ee4c8507f89484fcbc0648b12378ef48f063fa2adae1ea445"
+    }
+  },
+  "artifact_versions": [
+    {
+      "revision_id": "2026-11-02T23:14:54.501767+00:00",
+      "artifacts": {
+        "resume_markdown": {
+          "path": "applications/2026-11-02__air-force-district-of-washington__it-specialist-plcypln-entarch__2479af8984008eaa/resume-xuewu-cai__air-force-district-of-washington__it-specialist-plcypln-entarch__891032400.md",
+          "sha256": "a79abbcbe94a881aa4720a44b691e5000d8bf14b1f8822a37b33a3fd112e217f"
+        },
+        "resume_pdf": {
+          "path": "applications/2026-11-02__air-force-district-of-washington__it-specialist-plcypln-entarch__2479af8984008eaa/resume-xuewu-cai__air-force-district-of-washington__it-specialist-plcypln-entarch__891032400.pdf",
+          "sha256": "97d79b0e3fe7c60ee4c8507f89484fcbc0648b12378ef48f063fa2adae1ea445"
+        }
+      },
+      "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a"
+    }
+  ],
+  "resume_status": "prepared_with_attention",
+  "resume_review": "Text and hashes verified; all 20 baseline experience bullets preserved with updated title. Two pages rendered in PDFKit; all 113 distinct page images visually reviewed across 10 boards (238 rendered pages total). No clipping, overlap or blank pages. Neutral metadata and no AI-editing/targeting labels. Candidate facts/qualifications marked as attention items; no submission.",
+  "required_answers_pending": [
+    "Hiring-path eligibility unverified: Competitive service, Excepted service, Career transition (CTAP, ICTAP, RPL), Land and base management, Veterans, Military spouses. Confirm qualifying status before application; absence from baseline is not proof of ineligibility.",
+    "Verify qualifying coursework and calculus credits against the exact qualification clause; not established by the baseline alone.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "confirmed_unmet_requirements": [],
+  "qualifications_verified": false,
+  "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a",
+  "resume_format": "restored_two_page",
+  "current_resume_naming": "unversioned",
+  "clearance_requirement": "Sensitive Compartmented Information",
+  "public_hiring_route_evidence": false
+}

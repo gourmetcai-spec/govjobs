@@ -1,0 +1,672 @@
+{
+  "run_id": "2026-11-02-step1-175625",
+  "started_at": "2026-11-02T17:56:37.361125-05:00",
+  "window": [
+    "2026-09-02",
+    "2026-11-02"
+  ],
+  "job_ids": [
+    "a5af83ea7ba6d744",
+    "fa28275048f3ce60",
+    "4e066be541ca1382",
+    "412d3b1f8d050ddc",
+    "faa484188f9b969a",
+    "37b6987b5275b4da",
+    "db244e9a2dfdce0b",
+    "e1953172ea90c8a7",
+    "3d76836137888cac",
+    "8efc2d80781bcd7c",
+    "9cbfa96ef355b22e",
+    "f720af72449c48a0",
+    "16f54e578b2089d3",
+    "48ee9a40e142e566",
+    "b6f24c3fd93797f0"
+  ],
+  "jobs": [
+    {
+      "employer": "Federal Emergency Management Agency",
+      "title": "IT Specialist (APPSW)",
+      "requisition_id": "FEMA-KB-13101601-DE",
+      "posted_date": "2026-10-28",
+      "close_date": "2026-11-06",
+      "location": "Washington, DC",
+      "salary": "$121,785\u2013$158,322 per year; GS-13",
+      "fit": "Strong supported enterprise software, scripting, financial workflow and technical delivery overlap; public hiring path. Tailored PDF is a draft pending required facts.",
+      "gaps": "Confirm one full year at the announcement\u2019s stated GS-13-equivalent scope; dates with exact days and hours/week are absent from baseline. Low-code Power Platform, GCP and NFIP domain experience are not documented. No production AI/agent delivery claimed; scripts are an alternative in the specialized-experience requirement.",
+      "canonical_url": "https://www.usajobs.gov/job/890584000",
+      "application_url": "https://www.usajobs.gov/job/890584000",
+      "posted_date_evidence": "Official USAJOBS FEMA index displays October 28\u2013November 6; federalgovernmentjobs mirror and jobboardhq agree.",
+      "retrieved_at": "2026-11-02T01:18:48.041747+00:00",
+      "status": "eligible",
+      "aliases": [],
+      "discovery_window": [
+        "2026-09-01",
+        "2026-11-01"
+      ],
+      "remote_restrictions": "Not remote; DMV duty station offered. Confirm telework policy in official job description.",
+      "open_evidence": "Refreshed official USAJOBS page reports Accepting applications; scope and prior mandatory gaps retained. Evidence: tracking/runs/2026-11-01-federal-step1-redo/refresh-web.txt and existing0/1-web.txt.",
+      "hiring_path": "Open to the public",
+      "control_number": "890584000",
+      "id": "a5af83ea7ba6d744",
+      "created_at": "2026-11-02T00:53:12.655377+00:00",
+      "updated_at": "2026-11-02T01:19:53.027692+00:00",
+      "application_directory": "applications/2026-11-01__federal-emergency-management-agency__it-specialist-appsw__a5af83ea7ba6d744",
+      "artifacts": {
+        "resume_markdown": {
+          "path": "applications/2026-11-01__federal-emergency-management-agency__it-specialist-appsw__a5af83ea7ba6d744/resume-xuewu-cai__federal-emergency-management-agency__it-specialist-appsw__890584000__v2.md",
+          "sha256": "1c9be9986034ef41f9aed0d5d601812d9a3e3895c51d46f58c8f67086198e868"
+        },
+        "resume_pdf": {
+          "path": "applications/2026-11-01__federal-emergency-management-agency__it-specialist-appsw__a5af83ea7ba6d744/resume-xuewu-cai__federal-emergency-management-agency__it-specialist-appsw__890584000__v2.pdf",
+          "sha256": "396be592af7f588d34f90f2fbc77a976a5d5edfc44885fa866f5f873d7acfc42"
+        }
+      },
+      "resume_status": "draft_missing_required_facts",
+      "resume_review": "One selectable-text page; all pages rendered with PDFKit and visually compared with the CFTC template. No clipping, overlap or blank pages; original v1 files and hashes preserved. Draft pending required candidate facts and applicable eligibility evidence.",
+      "artifact_versions": [
+        {
+          "version": 1,
+          "artifacts": {
+            "resume_markdown": {
+              "path": "applications/2026-11-01__federal-emergency-management-agency__it-specialist-appsw__a5af83ea7ba6d744/resume-xuewu-cai__federal-emergency-management-agency__it-specialist-appsw__890584000__v1.md",
+              "sha256": "4ce16dfd6f4b1ee5cf1ec6033dacafdd860714554a868ce11e30c76caf0a59ab"
+            },
+            "resume_pdf": {
+              "path": "applications/2026-11-01__federal-emergency-management-agency__it-specialist-appsw__a5af83ea7ba6d744/resume-xuewu-cai__federal-emergency-management-agency__it-specialist-appsw__890584000__v1.pdf",
+              "sha256": "e518fac18c74b853f4a21c6c7f21d2562f97e08885128b48793399533592d07e"
+            }
+          },
+          "resume_review": "Text extraction passed; all 20 baseline experience bullets preserved; all 2 pages rendered with PDFKit and visually reviewed without clipping, overlap or blank pages. Draft pending required candidate facts and job eligibility evidence in match.md."
+        },
+        {
+          "version": 2,
+          "artifacts": {
+            "resume_markdown": {
+              "path": "applications/2026-11-01__federal-emergency-management-agency__it-specialist-appsw__a5af83ea7ba6d744/resume-xuewu-cai__federal-emergency-management-agency__it-specialist-appsw__890584000__v2.md",
+              "sha256": "1c9be9986034ef41f9aed0d5d601812d9a3e3895c51d46f58c8f67086198e868"
+            },
+            "resume_pdf": {
+              "path": "applications/2026-11-01__federal-emergency-management-agency__it-specialist-appsw__a5af83ea7ba6d744/resume-xuewu-cai__federal-emergency-management-agency__it-specialist-appsw__890584000__v2.pdf",
+              "sha256": "396be592af7f588d34f90f2fbc77a976a5d5edfc44885fa866f5f873d7acfc42"
+            }
+          },
+          "format_reference": {
+            "path": "Xuewu-Cai-Resume-CFTC-Systems-Risk-Analyst-889991400.pdf",
+            "sha256": "f8578722dc05958941002529af5e850ca68da321fd7b69544f705b8826c7484d",
+            "source": "User instruction on 2026-11-01: redo Step 1 using this more concise resume format",
+            "usage": "Layout and concision reference only; resume-xuewu.cai.pdf remains the factual baseline",
+            "layout": "Compact one-page layout when requirements fit: short summary, grouped competencies, selected relevant bullets, employer/title with right-aligned dates, compact education/languages. Use a second page only when necessary for mandatory evidence; obey announcement limits."
+          }
+        }
+      ],
+      "resume_version": 2,
+      "format_reference": {
+        "path": "Xuewu-Cai-Resume-CFTC-Systems-Risk-Analyst-889991400.pdf",
+        "sha256": "f8578722dc05958941002529af5e850ca68da321fd7b69544f705b8826c7484d",
+        "source": "User instruction on 2026-11-01: redo Step 1 using this more concise resume format",
+        "usage": "Layout and concision reference only; resume-xuewu.cai.pdf remains the factual baseline",
+        "layout": "Compact one-page layout when requirements fit: short summary, grouped competencies, selected relevant bullets, employer/title with right-aligned dates, compact education/languages. Use a second page only when necessary for mandatory evidence; obey announcement limits."
+      },
+      "last_step1_refresh": "2026-11-01-federal-step1-redo"
+    },
+    {
+      "employer": "Central Intelligence Agency",
+      "title": "Data Engineer",
+      "requisition_id": "24-12198900-6898/DIHD",
+      "posted_date": "2026-09-01",
+      "close_date": "2027-01-31",
+      "location": "Washington, DC",
+      "salary": "$74,584\u2013$156,755 per year; GS-9\u201313; promotion potential 15",
+      "fit": "Strong Java/Python, SQL/database connectivity, time-series data and distributed/cloud analytics overlap. Tailored PDF is a draft pending required facts.",
+      "gaps": "Mandatory GPA >=3.0/4.0 is unknown; verify transcripts and qualifying degree. Reopened listing date should be reconciled against original announcement. Clearance/medical/polygraph suitability and willingness are unverified. Lower grade/pay than current director scope; no salary filter applied. Hours/week absent.",
+      "canonical_url": "https://www.usajobs.gov/job/759326100",
+      "application_url": "https://www.cia.gov/careers/jobs/data-engineer/",
+      "posted_date_evidence": "Official USAJOBS CIA/public and AI/2210 indexed result lists September 1, 2026\u2013January 31, 2027. Announcement number is older; this is one existing requisition, not a newly created identity. Recheck original/reopened date before selection.",
+      "retrieved_at": "2026-11-02T01:18:48.041747+00:00",
+      "status": "needs_verification",
+      "aliases": [
+        "https://intelligencecareers.usajobs.gov/job/759326100",
+        "https://ai.usajobs.gov/job/759326100"
+      ],
+      "discovery_window": [
+        "2026-09-01",
+        "2026-11-01"
+      ],
+      "remote_restrictions": "Not remote; DMV duty station offered. Confirm telework policy in official job description.",
+      "open_evidence": "Refreshed official USAJOBS page reports Accepting applications; scope and prior mandatory gaps retained. Evidence: tracking/runs/2026-11-01-federal-step1-redo/refresh-web.txt and existing0/1-web.txt.",
+      "hiring_path": "Open to the public",
+      "control_number": "759326100",
+      "id": "fa28275048f3ce60",
+      "created_at": "2026-11-02T00:53:12.738647+00:00",
+      "updated_at": "2026-11-02T01:19:53.092309+00:00",
+      "application_directory": "applications/2026-11-01__central-intelligence-agency__data-engineer__fa28275048f3ce60",
+      "artifacts": {
+        "resume_markdown": {
+          "path": "applications/2026-11-01__central-intelligence-agency__data-engineer__fa28275048f3ce60/resume-xuewu-cai__central-intelligence-agency__data-engineer__759326100__v2.md",
+          "sha256": "205315ea61c15b7c25a89ac3816e58ba7e728bf3f155358472f9fa50b5650176"
+        },
+        "resume_pdf": {
+          "path": "applications/2026-11-01__central-intelligence-agency__data-engineer__fa28275048f3ce60/resume-xuewu-cai__central-intelligence-agency__data-engineer__759326100__v2.pdf",
+          "sha256": "52d975c0a3892d43b048790b9b8f7a91eb727c86bc5d4280f9c35c0b6903f3db"
+        }
+      },
+      "resume_status": "draft_missing_required_facts",
+      "resume_review": "One selectable-text page; all pages rendered with PDFKit and visually compared with the CFTC template. No clipping, overlap or blank pages; original v1 files and hashes preserved. Draft pending required candidate facts and applicable eligibility evidence.",
+      "artifact_versions": [
+        {
+          "version": 1,
+          "artifacts": {
+            "resume_markdown": {
+              "path": "applications/2026-11-01__central-intelligence-agency__data-engineer__fa28275048f3ce60/resume-xuewu-cai__central-intelligence-agency__data-engineer__759326100__v1.md",
+              "sha256": "7edb1bc33ed11b06af0e00133b8072528bbc910ae01d74bc212715e58cbe3894"
+            },
+            "resume_pdf": {
+              "path": "applications/2026-11-01__central-intelligence-agency__data-engineer__fa28275048f3ce60/resume-xuewu-cai__central-intelligence-agency__data-engineer__759326100__v1.pdf",
+              "sha256": "5de1d3a5044be8fdd71377e66cc83fff104b66e58e6f7dfef54f18f716877388"
+            }
+          },
+          "resume_review": "Text extraction passed; all 20 baseline experience bullets preserved; all 2 pages rendered with PDFKit and visually reviewed without clipping, overlap or blank pages. Draft pending required candidate facts and job eligibility evidence in match.md."
+        },
+        {
+          "version": 2,
+          "artifacts": {
+            "resume_markdown": {
+              "path": "applications/2026-11-01__central-intelligence-agency__data-engineer__fa28275048f3ce60/resume-xuewu-cai__central-intelligence-agency__data-engineer__759326100__v2.md",
+              "sha256": "205315ea61c15b7c25a89ac3816e58ba7e728bf3f155358472f9fa50b5650176"
+            },
+            "resume_pdf": {
+              "path": "applications/2026-11-01__central-intelligence-agency__data-engineer__fa28275048f3ce60/resume-xuewu-cai__central-intelligence-agency__data-engineer__759326100__v2.pdf",
+              "sha256": "52d975c0a3892d43b048790b9b8f7a91eb727c86bc5d4280f9c35c0b6903f3db"
+            }
+          },
+          "format_reference": {
+            "path": "Xuewu-Cai-Resume-CFTC-Systems-Risk-Analyst-889991400.pdf",
+            "sha256": "f8578722dc05958941002529af5e850ca68da321fd7b69544f705b8826c7484d",
+            "source": "User instruction on 2026-11-01: redo Step 1 using this more concise resume format",
+            "usage": "Layout and concision reference only; resume-xuewu.cai.pdf remains the factual baseline",
+            "layout": "Compact one-page layout when requirements fit: short summary, grouped competencies, selected relevant bullets, employer/title with right-aligned dates, compact education/languages. Use a second page only when necessary for mandatory evidence; obey announcement limits."
+          }
+        }
+      ],
+      "resume_version": 2,
+      "format_reference": {
+        "path": "Xuewu-Cai-Resume-CFTC-Systems-Risk-Analyst-889991400.pdf",
+        "sha256": "f8578722dc05958941002529af5e850ca68da321fd7b69544f705b8826c7484d",
+        "source": "User instruction on 2026-11-01: redo Step 1 using this more concise resume format",
+        "usage": "Layout and concision reference only; resume-xuewu.cai.pdf remains the factual baseline",
+        "layout": "Compact one-page layout when requirements fit: short summary, grouped competencies, selected relevant bullets, employer/title with right-aligned dates, compact education/languages. Use a second page only when necessary for mandatory evidence; obey announcement limits."
+      },
+      "last_step1_refresh": "2026-11-01-federal-step1-redo"
+    },
+    {
+      "employer": "Immigration and Customs Enforcement",
+      "title": "Operations Research Analyst",
+      "requisition_id": "DHA-CFO-13061801-2026-CLM",
+      "posted_date": "2026-10-30",
+      "close_date": "2026-11-13",
+      "location": "Washington, DC",
+      "salary": "$102,415\u2013$158,322 per year; GS-12\u201313",
+      "fit": "Strong Monte Carlo, forecasting, statistical analysis and decision-support modeling overlap. Tailored PDF is a draft pending required facts.",
+      "gaps": "Confirm official posting date; transcripts must demonstrate 24 qualifying semester hours including 3 in calculus, and foreign education equivalence if relied upon. Hours/week absent. User must personally answer any essays requiring an own-words/no-AI certification; none drafted. No security suitability outcome assumed.",
+      "canonical_url": "https://www.usajobs.gov/job/891052100",
+      "application_url": "https://www.usajobs.gov/job/891052100",
+      "posted_date_evidence": "Federalgovernmentjobs mirror lists October 30\u2013November 13. Official announcement confirms November 13 deadline and accepting applications; official opening date not exposed by retrieved text.",
+      "retrieved_at": "2026-11-02T01:18:48.041747+00:00",
+      "status": "needs_verification",
+      "aliases": [],
+      "discovery_window": [
+        "2026-09-01",
+        "2026-11-01"
+      ],
+      "remote_restrictions": "Not remote; DMV duty station offered. Confirm telework policy in official job description.",
+      "open_evidence": "Refreshed official USAJOBS page reports Accepting applications; scope and prior mandatory gaps retained. Evidence: tracking/runs/2026-11-01-federal-step1-redo/refresh-web.txt and existing0/1-web.txt.",
+      "hiring_path": "Open to the public",
+      "control_number": "891052100",
+      "id": "4e066be541ca1382",
+      "created_at": "2026-11-02T00:53:12.818209+00:00",
+      "updated_at": "2026-11-02T01:19:52.960263+00:00",
+      "application_directory": "applications/2026-11-01__immigration-and-customs-enforcement__operations-research-analyst__4e066be541ca1382",
+      "artifacts": {
+        "resume_markdown": {
+          "path": "applications/2026-11-01__immigration-and-customs-enforcement__operations-research-analyst__4e066be541ca1382/resume-xuewu-cai__immigration-and-customs-enforcement__operations-research-analyst__891052100__v2.md",
+          "sha256": "13a1ad703f8a552d733f9daa60caca95d47a058effa46fe6a1e632669aeec077"
+        },
+        "resume_pdf": {
+          "path": "applications/2026-11-01__immigration-and-customs-enforcement__operations-research-analyst__4e066be541ca1382/resume-xuewu-cai__immigration-and-customs-enforcement__operations-research-analyst__891052100__v2.pdf",
+          "sha256": "3357ea242975333e9401636c1a749313eac082986d36c8e1bca8fd45344eb9d8"
+        }
+      },
+      "resume_status": "draft_missing_required_facts",
+      "resume_review": "One selectable-text page; all pages rendered with PDFKit and visually compared with the CFTC template. No clipping, overlap or blank pages; original v1 files and hashes preserved. Draft pending required candidate facts and applicable eligibility evidence.",
+      "artifact_versions": [
+        {
+          "version": 1,
+          "artifacts": {
+            "resume_markdown": {
+              "path": "applications/2026-11-01__immigration-and-customs-enforcement__operations-research-analyst__4e066be541ca1382/resume-xuewu-cai__immigration-and-customs-enforcement__operations-research-analyst__891052100__v1.md",
+              "sha256": "15de06f8136b64f01f99b64c6226a080d45d5631e11a649323a3ccc2d0de62d8"
+            },
+            "resume_pdf": {
+              "path": "applications/2026-11-01__immigration-and-customs-enforcement__operations-research-analyst__4e066be541ca1382/resume-xuewu-cai__immigration-and-customs-enforcement__operations-research-analyst__891052100__v1.pdf",
+              "sha256": "fd891ce471392dbb4c06b4475f71eda36ee4a9f0f7544b9623dcbf2ca86c2037"
+            }
+          },
+          "resume_review": "Text extraction passed; all 20 baseline experience bullets preserved; all 2 pages rendered with PDFKit and visually reviewed without clipping, overlap or blank pages. Draft pending required candidate facts and job eligibility evidence in match.md."
+        },
+        {
+          "version": 2,
+          "artifacts": {
+            "resume_markdown": {
+              "path": "applications/2026-11-01__immigration-and-customs-enforcement__operations-research-analyst__4e066be541ca1382/resume-xuewu-cai__immigration-and-customs-enforcement__operations-research-analyst__891052100__v2.md",
+              "sha256": "13a1ad703f8a552d733f9daa60caca95d47a058effa46fe6a1e632669aeec077"
+            },
+            "resume_pdf": {
+              "path": "applications/2026-11-01__immigration-and-customs-enforcement__operations-research-analyst__4e066be541ca1382/resume-xuewu-cai__immigration-and-customs-enforcement__operations-research-analyst__891052100__v2.pdf",
+              "sha256": "3357ea242975333e9401636c1a749313eac082986d36c8e1bca8fd45344eb9d8"
+            }
+          },
+          "format_reference": {
+            "path": "Xuewu-Cai-Resume-CFTC-Systems-Risk-Analyst-889991400.pdf",
+            "sha256": "f8578722dc05958941002529af5e850ca68da321fd7b69544f705b8826c7484d",
+            "source": "User instruction on 2026-11-01: redo Step 1 using this more concise resume format",
+            "usage": "Layout and concision reference only; resume-xuewu.cai.pdf remains the factual baseline",
+            "layout": "Compact one-page layout when requirements fit: short summary, grouped competencies, selected relevant bullets, employer/title with right-aligned dates, compact education/languages. Use a second page only when necessary for mandatory evidence; obey announcement limits."
+          }
+        }
+      ],
+      "resume_version": 2,
+      "format_reference": {
+        "path": "Xuewu-Cai-Resume-CFTC-Systems-Risk-Analyst-889991400.pdf",
+        "sha256": "f8578722dc05958941002529af5e850ca68da321fd7b69544f705b8826c7484d",
+        "source": "User instruction on 2026-11-01: redo Step 1 using this more concise resume format",
+        "usage": "Layout and concision reference only; resume-xuewu.cai.pdf remains the factual baseline",
+        "layout": "Compact one-page layout when requirements fit: short summary, grouped competencies, selected relevant bullets, employer/title with right-aligned dates, compact education/languages. Use a second page only when necessary for mandatory evidence; obey announcement limits."
+      },
+      "last_step1_refresh": "2026-11-01-federal-step1-redo"
+    },
+    {
+      "employer": "Architect of the Capitol",
+      "title": "Business Financial Analyst",
+      "requisition_id": "SOB-2027-013",
+      "posted_date": "2026-10-19",
+      "close_date": "2026-11-05",
+      "location": "Washington, DC",
+      "salary": "$85,447\u2013$158,322 per year; GS-11\u201313",
+      "fit": "Financial analysis and enterprise forecasting overlap; federal appropriations/budget execution experience not established.",
+      "gaps": "GS-11 needs 3 of 4 specialized areas; GS-12 needs 4 of 5 and GS-13 5 of 6. Federal budget law interpretation, expenditure reviews/compliance and spend plans are not supported by baseline. Verify actual qualifying scope; do not equate financial forecasting with federal budget execution.",
+      "canonical_url": "https://www.usajobs.gov/job/889349900",
+      "application_url": "https://www.usajobs.gov/job/889349900",
+      "posted_date_evidence": "Mirror October 19\u2013November 5; official current announcement accepting applications.",
+      "retrieved_at": "2026-11-02T01:18:48.041747+00:00",
+      "status": "needs_verification",
+      "aliases": [],
+      "discovery_window": [
+        "2026-09-01",
+        "2026-11-01"
+      ],
+      "remote_restrictions": "Not remote; DMV duty station offered. Confirm telework policy in official job description.",
+      "open_evidence": "Refreshed official USAJOBS page reports Accepting applications; scope and prior mandatory gaps retained. Evidence: tracking/runs/2026-11-01-federal-step1-redo/refresh-web.txt and existing0/1-web.txt.",
+      "hiring_path": "Open to the public",
+      "control_number": "889349900",
+      "id": "412d3b1f8d050ddc",
+      "created_at": "2026-11-02T00:53:12.899217+00:00",
+      "updated_at": "2026-11-02T01:18:48.197871+00:00",
+      "application_directory": "applications/2026-11-01__architect-of-the-capitol__business-financial-analyst__412d3b1f8d050ddc",
+      "artifacts": {},
+      "resume_status": "not_generated_verification_required",
+      "resume_review": "Not generated; unresolved mandatory requirements.",
+      "last_step1_refresh": "2026-11-01-federal-step1-redo"
+    },
+    {
+      "employer": "Securities and Exchange Commission",
+      "title": "Financial Economist",
+      "requisition_id": "USAJOBS-885040000",
+      "posted_date": null,
+      "close_date": null,
+      "location": "Washington, DC",
+      "salary": "$200,157\u2013$225,943 per year; SK-14",
+      "fit": "Quantitative market risk, research, trading and reporting overlap.",
+      "gaps": "Economics major or equivalent coursework (21 economics credits) is unverified; specified economic policy/securities litigation/research outputs are not established. Need original dates and verified official announcement number; control number used as fallback identity.",
+      "canonical_url": "https://www.usajobs.gov/job/885040000",
+      "application_url": "https://www.usajobs.gov/job/885040000",
+      "posted_date_evidence": "Official announcement is accepting applications with bi-weekly cutoffs; opening date and final deadline not verified.",
+      "retrieved_at": "2026-11-02T01:18:48.041747+00:00",
+      "status": "needs_verification",
+      "aliases": [],
+      "discovery_window": [
+        "2026-09-01",
+        "2026-11-01"
+      ],
+      "remote_restrictions": "Not remote; DMV duty station offered. Confirm telework policy in official job description.",
+      "open_evidence": "Refreshed official USAJOBS page reports Accepting applications; scope and prior mandatory gaps retained. Evidence: tracking/runs/2026-11-01-federal-step1-redo/refresh-web.txt and existing0/1-web.txt.",
+      "hiring_path": "Open to the public",
+      "control_number": "885040000",
+      "id": "faa484188f9b969a",
+      "created_at": "2026-11-02T00:53:12.969684+00:00",
+      "updated_at": "2026-11-02T01:18:48.470843+00:00",
+      "application_directory": "applications/2026-11-01__securities-and-exchange-commission__financial-economist__faa484188f9b969a",
+      "artifacts": {},
+      "resume_status": "not_generated_verification_required",
+      "resume_review": "Not generated; unresolved mandatory requirements.",
+      "last_step1_refresh": "2026-11-01-federal-step1-redo"
+    },
+    {
+      "employer": "General Services Administration - Technology Transformation Service",
+      "title": "Senior AI Software Engineer",
+      "requisition_id": "F2-2026-0007",
+      "posted_date": "2026-09-04",
+      "close_date": "2026-12-31",
+      "location": "Washington, DC offered among eight offices",
+      "salary": "$138,595\u2013$197,200 per year; GS-14",
+      "fit": "Enterprise software, Python and cloud architecture overlap.",
+      "gaps": "Mandatory production-grade AI-enabled system development, AI technical consultation and security/privacy work are not established. Copilot usage alone does not satisfy them.",
+      "canonical_url": "https://www.usajobs.gov/job/883693300",
+      "application_url": "https://www.usajobs.gov/job/883693300",
+      "posted_date_evidence": "Official indexed AI/2210 search lists September 4\u2013December 31; announcement confirms December 31 and weekly standing-register cutoffs.",
+      "retrieved_at": "2026-11-02T01:18:48.041747+00:00",
+      "status": "needs_verification",
+      "aliases": [],
+      "discovery_window": [
+        "2026-09-01",
+        "2026-11-01"
+      ],
+      "remote_restrictions": "Not remote; DMV duty station offered. Confirm telework policy in official job description.",
+      "open_evidence": "Refreshed official USAJOBS page reports Accepting applications; scope and prior mandatory gaps retained. Evidence: tracking/runs/2026-11-01-federal-step1-redo/refresh-web.txt and existing0/1-web.txt.",
+      "hiring_path": "Open to the public",
+      "control_number": "883693300",
+      "id": "37b6987b5275b4da",
+      "created_at": "2026-11-02T00:53:13.038597+00:00",
+      "updated_at": "2026-11-02T01:18:48.128093+00:00",
+      "application_directory": "applications/2026-11-01__general-services-administration-technology-transformation-service__senior-ai-software-engineer__37b6987b5275b4da",
+      "artifacts": {},
+      "resume_status": "not_generated_verification_required",
+      "resume_review": "Not generated; unresolved mandatory requirements.",
+      "last_step1_refresh": "2026-11-01-federal-step1-redo"
+    },
+    {
+      "employer": "General Services Administration - Technology Transformation Service",
+      "title": "Principal AI Software Engineer",
+      "requisition_id": "F2-2026-0008",
+      "posted_date": "2026-09-04",
+      "close_date": "2026-12-31",
+      "location": "Washington, DC offered among eight offices",
+      "salary": "$163,023\u2013$197,200 per year; GS-15",
+      "fit": "Senior enterprise engineering leadership overlap.",
+      "gaps": "Principal-level production AI engineering, AI architecture/governance and technical leadership requirements are not established by baseline; do not invent experience from AI tooling use.",
+      "canonical_url": "https://www.usajobs.gov/job/883695200",
+      "application_url": "https://www.usajobs.gov/job/883695200",
+      "posted_date_evidence": "Official indexed AI/2210 search lists September 4\u2013December 31.",
+      "retrieved_at": "2026-11-02T01:18:48.041747+00:00",
+      "status": "needs_verification",
+      "aliases": [],
+      "discovery_window": [
+        "2026-09-01",
+        "2026-11-01"
+      ],
+      "remote_restrictions": "Not remote; DMV duty station offered. Confirm telework policy in official job description.",
+      "open_evidence": "Refreshed official USAJOBS page reports Accepting applications; scope and prior mandatory gaps retained. Evidence: tracking/runs/2026-11-01-federal-step1-redo/refresh-web.txt and existing0/1-web.txt.",
+      "hiring_path": "Open to the public",
+      "control_number": "883695200",
+      "id": "db244e9a2dfdce0b",
+      "created_at": "2026-11-02T00:53:13.107262+00:00",
+      "updated_at": "2026-11-02T01:18:48.369228+00:00",
+      "application_directory": "applications/2026-11-01__general-services-administration-technology-transformation-service__principal-ai-software-engineer__db244e9a2dfdce0b",
+      "artifacts": {},
+      "resume_status": "not_generated_verification_required",
+      "resume_review": "Not generated; unresolved mandatory requirements.",
+      "last_step1_refresh": "2026-11-01-federal-step1-redo"
+    },
+    {
+      "employer": "Military Treatment Facilities under Defense Health Agency",
+      "title": "IT Specialist (APPSW/INET)",
+      "requisition_id": "HSJT-27-13090193",
+      "posted_date": "2026-10-28",
+      "close_date": "2026-11-04",
+      "location": "Quantico, VA",
+      "salary": "$102,415\u2013$133,142 per year; GS-12",
+      "fit": "Java web applications and system integrations overlap.",
+      "gaps": "Mandatory SharePoint applications/enhancements and DoD security compliance are not documented; confirm before eligibility. Clearance, health screening and vaccination conditions remain unanswered.",
+      "canonical_url": "https://www.usajobs.gov/job/890572600",
+      "application_url": "https://www.usajobs.gov/job/890572600",
+      "posted_date_evidence": "Mirror October 28\u2013November 4; official announcement accepting applications.",
+      "retrieved_at": "2026-11-02T01:18:48.041747+00:00",
+      "status": "needs_verification",
+      "aliases": [],
+      "discovery_window": [
+        "2026-09-01",
+        "2026-11-01"
+      ],
+      "remote_restrictions": "Not remote; DMV duty station offered. Confirm telework policy in official job description.",
+      "open_evidence": "Refreshed official USAJOBS page reports Accepting applications; scope and prior mandatory gaps retained. Evidence: tracking/runs/2026-11-01-federal-step1-redo/refresh-web.txt and existing0/1-web.txt.",
+      "hiring_path": "Open to the public",
+      "control_number": "890572600",
+      "id": "e1953172ea90c8a7",
+      "created_at": "2026-11-02T00:53:13.176106+00:00",
+      "updated_at": "2026-11-02T01:18:48.402712+00:00",
+      "application_directory": "applications/2026-11-01__military-treatment-facilities-under-defense-health-agency__it-specialist-appsw-inet__e1953172ea90c8a7",
+      "artifacts": {},
+      "resume_status": "not_generated_verification_required",
+      "resume_review": "Not generated; unresolved mandatory requirements.",
+      "last_step1_refresh": "2026-11-01-federal-step1-redo"
+    },
+    {
+      "employer": "Federal Emergency Management Agency",
+      "title": "Financial Policy Officer",
+      "requisition_id": "FEMA-JB-13100736-DE",
+      "posted_date": "2026-10-30",
+      "close_date": "2026-11-09",
+      "location": "Washington, DC or Winchester, VA",
+      "salary": "$169,279\u2013$197,200 per year; GS-15",
+      "fit": "Financial systems and senior management overlap.",
+      "gaps": "Mandatory financial policy design/implementation, financial management systems policy direction and legislative/regulatory advice need specific evidence; baseline focuses on engineering/model delivery.",
+      "canonical_url": "https://www.usajobs.gov/job/891011700",
+      "application_url": "https://www.usajobs.gov/job/891011700",
+      "posted_date_evidence": "Mirror October 30\u2013November 9; official announcement accepting applications.",
+      "retrieved_at": "2026-11-02T01:18:48.041747+00:00",
+      "status": "needs_verification",
+      "aliases": [],
+      "discovery_window": [
+        "2026-09-01",
+        "2026-11-01"
+      ],
+      "remote_restrictions": "Not remote; DMV duty station offered. Confirm telework policy in official job description.",
+      "open_evidence": "Refreshed official USAJOBS page reports Accepting applications; scope and prior mandatory gaps retained. Evidence: tracking/runs/2026-11-01-federal-step1-redo/refresh-web.txt and existing0/1-web.txt.",
+      "hiring_path": "Open to the public",
+      "control_number": "891011700",
+      "id": "3d76836137888cac",
+      "created_at": "2026-11-02T00:53:13.245259+00:00",
+      "updated_at": "2026-11-02T01:18:48.162991+00:00",
+      "application_directory": "applications/2026-11-01__federal-emergency-management-agency__financial-policy-officer__3d76836137888cac",
+      "artifacts": {},
+      "resume_status": "not_generated_verification_required",
+      "resume_review": "Not generated; unresolved mandatory requirements.",
+      "last_step1_refresh": "2026-11-01-federal-step1-redo"
+    },
+    {
+      "employer": "Nuclear Regulatory Commission",
+      "title": "Financial Analyst",
+      "requisition_id": "IMP-13095310-27-EM",
+      "posted_date": null,
+      "close_date": null,
+      "location": "Rockville, MD",
+      "salary": "$70,623\u2013$158,322 per year; GG-9\u201313",
+      "fit": "IT investment and financial analytics adjacency.",
+      "gaps": "Restricted to current permanent or competitive-term NRC employees only. Baseline employment is Freddie Mac, not NRC; no qualifying NRC status evidenced.",
+      "canonical_url": "https://www.usajobs.gov/job/889960700",
+      "application_url": "https://www.usajobs.gov/job/889960700",
+      "posted_date_evidence": "Official announcement accepting applications; dates not verified because hiring path already excludes this candidate on available evidence.",
+      "retrieved_at": "2026-11-02T01:18:48.041747+00:00",
+      "status": "skipped",
+      "aliases": [],
+      "discovery_window": [
+        "2026-09-01",
+        "2026-11-01"
+      ],
+      "remote_restrictions": "Not remote; DMV duty station offered. Confirm telework policy in official job description.",
+      "open_evidence": "Refreshed official USAJOBS page reports Accepting applications; scope and prior mandatory gaps retained. Evidence: tracking/runs/2026-11-01-federal-step1-redo/refresh-web.txt and existing0/1-web.txt.",
+      "hiring_path": "Restricted agency hiring path",
+      "control_number": "889960700",
+      "id": "8efc2d80781bcd7c",
+      "created_at": "2026-11-02T00:53:13.314014+00:00",
+      "updated_at": "2026-11-02T01:18:48.266005+00:00",
+      "application_directory": "applications/2026-11-01__nuclear-regulatory-commission__financial-analyst__8efc2d80781bcd7c",
+      "artifacts": {},
+      "resume_status": "not_generated_verification_required",
+      "resume_review": "Not generated; unresolved mandatory requirements.",
+      "last_step1_refresh": "2026-11-01-federal-step1-redo"
+    },
+    {
+      "employer": "Securities and Exchange Commission",
+      "title": "Financial Economist - Crypto Assets and Novel Products",
+      "requisition_id": "USAJOBS-890676500",
+      "posted_date": null,
+      "close_date": null,
+      "location": "Washington, DC",
+      "salary": "$174,859\u2013$292,300 per year; SK-16",
+      "fit": "Trading systems and market research adjacency.",
+      "gaps": "Restricted to current SEC employees/status candidates or displaced SEC CTAP candidates; no such status evidenced. Economics education and crypto market policy experience also unverified; control number used as fallback identity.",
+      "canonical_url": "https://www.usajobs.gov/job/890676500",
+      "application_url": "https://www.usajobs.gov/job/890676500",
+      "posted_date_evidence": "Official announcement accepting applications; dates not verified because hiring path is restricted.",
+      "retrieved_at": "2026-11-02T01:18:48.041747+00:00",
+      "status": "skipped",
+      "aliases": [],
+      "discovery_window": [
+        "2026-09-01",
+        "2026-11-01"
+      ],
+      "remote_restrictions": "Not remote; DMV duty station offered. Confirm telework policy in official job description.",
+      "open_evidence": "Refreshed official USAJOBS page reports Accepting applications; scope and prior mandatory gaps retained. Evidence: tracking/runs/2026-11-01-federal-step1-redo/refresh-web.txt and existing0/1-web.txt.",
+      "hiring_path": "Restricted agency hiring path",
+      "control_number": "890676500",
+      "id": "9cbfa96ef355b22e",
+      "created_at": "2026-11-02T00:53:13.382947+00:00",
+      "updated_at": "2026-11-02T01:18:48.300773+00:00",
+      "application_directory": "applications/2026-11-01__securities-and-exchange-commission__financial-economist-crypto-assets-and-novel-products__9cbfa96ef355b22e",
+      "artifacts": {},
+      "resume_status": "not_generated_verification_required",
+      "resume_review": "Not generated; unresolved mandatory requirements.",
+      "last_step1_refresh": "2026-11-01-federal-step1-redo"
+    },
+    {
+      "employer": "Commodity Futures Trading Commission",
+      "title": "Systems Risk Analyst",
+      "requisition_id": "CFTC-DMO-2027-0003",
+      "location": "Washington, DC",
+      "salary": "$152,377\u2013$223,819 per year; CT-13",
+      "hiring_path": "Agency clarification: applications accepted from all U.S. citizens",
+      "fit": "Trading architecture, FIX, market data, risk analytics and SEC/CFTC/OPERA reporting overlap.",
+      "gaps": "Official opening and closing dates remain unverified. Mandatory system safeguard/security-control reviews, electronic-trading compliance oversight and evaluation of emergency/backup/disaster-recovery plans are not established by the baseline. The user-designated CFTC PDF is a format reference and does not establish those additional claims.",
+      "canonical_url": "https://www.usajobs.gov/job/889991400",
+      "application_url": "https://www.usajobs.gov/job/889991400",
+      "posted_date": null,
+      "posted_date_evidence": "No verified official opening date in retrieved text; not treated as eligible.",
+      "retrieved_at": "2026-11-02T01:18:48.041747+00:00",
+      "remote_restrictions": "Not remote; listed DMV duty station. Telework subject to agency policy.",
+      "control_number": "889991400",
+      "status": "needs_verification",
+      "aliases": [],
+      "discovery_window": [
+        "2026-09-01",
+        "2026-11-01"
+      ],
+      "open_evidence": "Official announcement reports Accepting applications; saved in tracking/runs/2026-11-01-federal-step1-redo/cftc-web.txt",
+      "id": "f720af72449c48a0",
+      "created_at": "2026-11-02T01:18:48.505205+00:00",
+      "updated_at": "2026-11-02T01:18:48.539406+00:00",
+      "application_directory": "applications/2026-11-01__commodity-futures-trading-commission__systems-risk-analyst__f720af72449c48a0",
+      "artifacts": {},
+      "resume_status": "not_generated_verification_required"
+    },
+    {
+      "employer": "United States Sentencing Commission",
+      "title": "Software Engineering and Data Automation Specialist",
+      "requisition_id": "27-01",
+      "location": "Washington, DC",
+      "salary": "$102,415\u2013$187,093 per year; JS-12\u201314",
+      "hiring_path": "Open to the public",
+      "fit": "Java/Python, relational databases, integration, analytical platforms and data-intensive engineering overlap.",
+      "gaps": "Official posting dates unknown. Production Python applications with secure development, document/PDF parsing or OCR, ETL/ELT, automated testing/logging/monitoring/recovery and precise specialized-experience scope require evidence. Baseline Python skill listing and Java platform delivery do not establish every mandatory requirement.",
+      "canonical_url": "https://www.usajobs.gov/job/888547100",
+      "application_url": "https://www.usajobs.gov/job/888547100",
+      "posted_date": null,
+      "posted_date_evidence": "No verified official opening date in retrieved text; not treated as eligible.",
+      "retrieved_at": "2026-11-02T01:18:48.041747+00:00",
+      "remote_restrictions": "Not remote; listed DMV duty station. Telework subject to agency policy.",
+      "control_number": "888547100",
+      "status": "needs_verification",
+      "aliases": [],
+      "discovery_window": [
+        "2026-09-01",
+        "2026-11-01"
+      ],
+      "open_evidence": "Official announcement reports Accepting applications; saved in tracking/runs/2026-11-01-federal-step1-redo/ussc-web.txt",
+      "id": "16f54e578b2089d3",
+      "created_at": "2026-11-02T01:18:48.573134+00:00",
+      "updated_at": "2026-11-02T01:18:48.607800+00:00",
+      "application_directory": "applications/2026-11-01__united-states-sentencing-commission__software-engineering-and-data-automation-specialist__16f54e578b2089d3",
+      "artifacts": {},
+      "resume_status": "not_generated_verification_required"
+    },
+    {
+      "employer": "Bureau of Economic Analysis",
+      "title": "IT Specialist (Policy and Planning)",
+      "requisition_id": "27-BEA-OCIO-13094248-DE-SB",
+      "location": "Suitland, MD",
+      "salary": "$85,447\u2013$133,142 per year; ZP-3",
+      "hiring_path": "Open to the public",
+      "fit": "IT delivery, enterprise forecasting and financial analytics adjacency.",
+      "gaps": "Official opening date unverified. Mandatory federal budgeting/CPIC, Technology Business Management, Integrated Project Teams and SharePoint administration not established. Do not substitute financial forecasting for federal IT budget execution. Merit-promotion companion 889753100 is separately screened as restricted; public route retained.",
+      "canonical_url": "https://www.usajobs.gov/job/889752600",
+      "application_url": "https://www.usajobs.gov/job/889752600",
+      "posted_date": null,
+      "posted_date_evidence": "No verified official opening date in retrieved text; not treated as eligible.",
+      "retrieved_at": "2026-11-02T01:18:48.041747+00:00",
+      "remote_restrictions": "Not remote; listed DMV duty station. Telework subject to agency policy.",
+      "control_number": "889752600",
+      "status": "needs_verification",
+      "aliases": [],
+      "discovery_window": [
+        "2026-09-01",
+        "2026-11-01"
+      ],
+      "open_evidence": "Official announcement reports Accepting applications; saved in tracking/runs/2026-11-01-federal-step1-redo/leads-web.txt",
+      "id": "48ee9a40e142e566",
+      "created_at": "2026-11-02T01:18:48.642297+00:00",
+      "updated_at": "2026-11-02T01:18:48.677588+00:00",
+      "application_directory": "applications/2026-11-01__bureau-of-economic-analysis__it-specialist-policy-and-planning__48ee9a40e142e566",
+      "artifacts": {},
+      "resume_status": "not_generated_verification_required"
+    },
+    {
+      "employer": "Social Security Administration",
+      "title": "Head of Tech Finance",
+      "requisition_id": "SSA-EX-642",
+      "location": "Woodlawn, MD",
+      "salary": "$151,661\u2013$228,000 per year; ES-00",
+      "hiring_path": "Civil Service/SES reinstatement eligibility required",
+      "fit": "Financial engineering leadership and technology-investment adjacency.",
+      "gaps": "Agency restricts applications to qualifying Civil Service or SES reinstatement candidates; no qualifying status in baseline. SF-50 required. Mandatory senior federal-enterprise IT budgeting, CPIC, OMB A-11 and FITARA experience also unverified. Opening date not pursued after hiring-path exclusion.",
+      "canonical_url": "https://www.usajobs.gov/job/889254700",
+      "application_url": "https://www.usajobs.gov/job/889254700",
+      "posted_date": null,
+      "posted_date_evidence": "No verified official opening date in retrieved text; not treated as eligible.",
+      "retrieved_at": "2026-11-02T01:18:48.041747+00:00",
+      "remote_restrictions": "Not remote; listed DMV duty station. Telework subject to agency policy.",
+      "control_number": "889254700",
+      "status": "skipped",
+      "aliases": [],
+      "discovery_window": [
+        "2026-09-01",
+        "2026-11-01"
+      ],
+      "open_evidence": "Official announcement reports Accepting applications; saved in tracking/runs/2026-11-01-federal-step1-redo/gsa-cio-web.txt",
+      "id": "b6f24c3fd93797f0",
+      "created_at": "2026-11-02T01:18:48.711967+00:00",
+      "updated_at": "2026-11-02T01:18:48.746436+00:00",
+      "application_directory": "applications/2026-11-01__social-security-administration__head-of-tech-finance__b6f24c3fd93797f0",
+      "artifacts": {},
+      "resume_status": "not_generated_verification_required"
+    }
+  ]
+}

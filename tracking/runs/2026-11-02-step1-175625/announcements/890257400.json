@@ -1,0 +1,32 @@
+{
+  "@context": "http://www.schema.org",
+  "@type": "JobPosting",
+  "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": {
+      "@type": "QuantitativeValue",
+      "value": 90000.0,
+      "unitText": "YEAR"
+    }
+  },
+  "datePosted": "10/26/2026",
+  "description": "<strong>This position is located at Fort Eustis, VA.</strong><br>\n<br>\n<u><strong>Incentives and Bonuses</strong></u>\n<ul>\n\t<li>Incentives will not be paid.</li>\n</ul>",
+  "educationRequirements": "This job does not have an education qualification requirement.",
+  "employmentType": "OTHER",
+  "hiringOrganization": "AQ-NAF-W0BYAA-IMCOM SUPPORT DIRECTORATE-TRAINING",
+  "jobLocation": [
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Fort Eustis",
+        "addressRegion": "VA "
+      }
+    }
+  ],
+  "responsibilities": "",
+  "qualifications": "<strong>Resumes must be two pages (or less).</strong> Resumes should clearly demonstrate the applicant's relevant experience, skills, knowledge and abilities as they pertain to this position.<br>\n<br>\n<strong><u>A qualified candidate must possess the following:</u></strong>\n<ul>\n\t<li>Ability to perform the duties described above using the theories, principles, practices,and techniques of generally accepted accounting principles.</li>\n\t<li>Work experience interpreting and assessing program financial performance using standard financial management systems.</li>\n\t<li>Work experience interpreting balance sheet and profit and loss statement results.</li>\n\t<li>Work experience applying commercial budgeting techniques.</li>\n\t<li>Supervisory experience directing technical and professional financial management operations.</li>\n\t<li>Progressively responsible work experience in budget or finance that provided the incumbent the knowledge of APF/NAF regulations on budgetary processes and requirements.</li>\n\t<li>Knowledge and ability to balance funds between accounts; i.e. transferring funds between line items or sub-projects or identifying excess funds for possible transfer to other operating programs.</li>\n\t<li>Must have excellent organizational skills.</li>\n\t<li>Must be highly skilled in written and verbal communications and able to deal tactfully and effectively with employees in all levels of the organization.</li>\n\t<li>Must be proficient in Microsoft Windows, Word, Excel, and other software as required.</li>\n\t<li>Must be able to meet stringent deadlines in a fast-paced environment.</li>\n</ul>\n<br>\n<strong><u>In addition to the above qualifications, candidates who possess all of the following qualifications will be considered \"Highly Preferred\" or \"Best Qualified\": </u></strong>\n\n<ol>\n\t<li>Work experience of at least three (3) years with NAF budget planning and execution. (Ability to apply financial accounting principles, methods and techniques of fiscal management, with a strong background in budget preparation, payroll management, internal controls and financial systems reporting.)</li>\n\t<li>Possess experience coordinating manpower and staffing issues with NAF personnel office and Epay systems.</li>\n\t<li>Experience analyzing monthly NAF financial reports to include budget variance, Major Construction/Restoration, CPMC execution and cash flow projections.</li>\n\t<li>Possess financial management experience necessary to execute an effective acquisition and financial management plan to include demonstrated ability to determine resource needs and allocation of resources for both appropriate funds (APF) and non-appropriated funds (NAF) budgets and analysis of financial data.</li>\n</ol>\n<b>***Applicants who meet the minimum qualifications and \"Highly Preferred Criteria\" will be referred to the selecting official for</b><b> consideration first. All other applicants may be referred if requested by the selecting official. ***</b>",
+  "title": "Financial Manager NF-04",
+  "validThrough": "2026-11-09"
+}

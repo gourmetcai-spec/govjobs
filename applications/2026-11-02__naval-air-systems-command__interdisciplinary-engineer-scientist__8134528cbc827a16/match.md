@@ -1,0 +1,47 @@
+
+## Step 1 refresh and local preparation — 2026-11-02
+
+Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.
+
+### Supported candidate evidence
+
+Freddie Mac Director, Financial Engineering/Inv&Capital Market (May 2014–present): CRT modeling, enterprise forecasting, CECL/capital planning/DFAST, portfolio risk and transaction economics. Campbell: Java/Portware/FIX trading platforms, market data/database integration, Monte Carlo/bootstrapping, volatility/correlation forecasting and SEC/CFTC/OPERA reporting. Aquilent: Java/Linux integration and visualization portals. Degrees and factual scope preserved from the updated baseline.
+
+### Requirements needing confirmation
+
+- Confirm the announcement-specific specialized experience, grade-equivalent scope and mandatory conditions against your actual work history.
+- Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
+
+### Confirmed unmet requirements
+
+None established from affirmative user evidence. Unknown experience/credentials remain unverified. This is preparation, not a verified agency eligibility determination.
+
+### Exact qualification and education clauses
+
+Your resume must also demonstrate at least one year of specialized experience at or equivalent to the GS-11 grade level or DP-03 pay band in the Federal service or equivalent experience in the private or public sector. Specialized experience must demonstrate the following:
+Exercising systems engineering and avionics certification, with emphasis on aeronautical data integrity, Performance Based Navigation (PBN), and CNS/ATM capabilities;
+Applying RTCA standards (DO-200, DO-201, DO-178), supporting mission planning (JMPS), and working with both commercial and military specifications;
+Integrating CNS/ATM capabilities, safeguarding essential data, and ensuring compliance with certification authority processes across diverse aviation platforms; AND
+Applying analytical skills to evaluate documentation, assess system safety, and justify certification decisions, as well as technical ability in software development (C, C++, C#, ADA).
+Additional qualification information can be found from the following Office of Personnel Management website:
+https://www.opm.gov/policy-data-oversight/classification-qualifications/general-schedule-qualification-standards/0800/files/all-professional-engineering-positions-0800.pdf
+https://www.opm.gov/policy-data-oversight/classification-qualifications/general-schedule-qualification-standards/1500/computer-science-series-1550/
+Experience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., professional, philanthropic, religious, spiritual, community, student, social). Volunteer work helps build critical competencies, knowledge, and skills and can provide valuable training and experience that translates directly to paid employment.
+
+Applicants must meet the following basic education requirements of the Office of Personnel Management (OPM) Qualifications Standards Manual:
+08XX Series:
+Degree in Engineering. To be acceptable, the program must: (1) lead to a bachelor's degree (or higher) in a school of engineering with at least one program accredited by the Accreditation Board for Engineering and Technology (ABET); or (2) include differential and integral calculus and courses (more advanced than first-year physics and chemistry) in five of the following seven areas of engineering science or physics: (a) statics, dynamics; (b) strength of materials (stress-strain relationships); (c) fluid mechanics, hydraulics; (d) thermodynamics; (e) electrical fields and circuits; (f) nature and properties of materials (relating particle and aggregate structure to properties); and (g) any other comparable area of fundamental engineering science or physics, such as optics, heat transfer, soil mechanics, or electronics. Such education must demonstrate the knowledge, skills, and abilities necessary to do the work of the position.
+OR
+Current registration as an Engineer Intern (EI), Engineer in Training (EIT), or licensure as a Professional Engineer (PE) by any State, the District of Columbia, Guam, or Puerto Rico. Absent other means of qualifying under this standard, those applicants who achieved such registration by means other than written test (e.g., State grandfather or eminence provisions) are eligible only for positions that are within or closely related to the specialty field of their registration For more information about EI and EIT registration requirements, please visit the National Society of Professional Engineers website at: http://www.nspe.org
+OR
+Evidence of having successfully passed the Fundamentals of Engineering (FE) examination or any other written test required for professional registration by an engineering licensure board in the various States, the District of Columbia, Guam, and Puerto Rico The FE examination is not administered by the U. S. Office of Personnel Management. For more information, please visit: http://www.nspe.org/Licensure/HowtoGetLicensed/index.html.
+OR
+Successful completion of at least 60 semester hours of courses in the physical, mathematical, and engineering sciences and in engineering that included the courses specified in the basic requirements under paragraph A (above). The courses must be fully acceptable toward meeting the requirements of an engineering program as described in paragraph A (above)
+OR
+Successful completion of a curriculum leading to a bachelor's degree in an appropriate scientific field, e.g., engineering technology, physics, chemistry, architecture, computer science, mathematics, hydrology, or geology, may be accepted in lieu of a bachelor's degree in engineering, provided the applicant has had at least one year of professional engineering experience acquired under professional engineering supervision and guidance. Ordinarily, there should be either an established plan of intensive training to develop professional engineering competence, or several years of prior professional engineering-type experience, e.g., in interdisciplinary positions.
+1550 Series:
+Bachelor's degree in computer science OR bachelor's degree with 30 semester hours in a combination of mathematics, statistics, and computer science. At least 15 of the 30 semester hours must have included any combination of statistics and mathematics that included differential and integral calculus. All academic degrees and course work must be from accredited or pre-accredited institutions.
+
+### Preparation and tailoring
+
+Generated one current unversioned Markdown/PDF pair in the restored two-page layout. Summary themes and Freddie Mac bullet order emphasize only baseline-supported concepts present in this announcement. No requirement is copied as a new claim. Preserved prior PDF versions and approval evidence; no new v2/compact alternative created. Neutral PDF title/author; no editing or targeting labels. Candidate hours/week, exact days, GPA/transcripts, hiring status and declarations remain pending where required. No application selected, uploaded or submitted.

@@ -1,0 +1,32 @@
+{
+  "@context": "http://www.schema.org",
+  "@type": "JobPosting",
+  "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": {
+      "@type": "QuantitativeValue",
+      "value": 70623.0,
+      "unitText": "YEAR"
+    }
+  },
+  "datePosted": "10/31/2026",
+  "description": "This is a Direct Hire Authority (DHA) solicitation utilizing the DHA for Certain Personnel of the DoD Workforce to recruit and appoint qualified candidates to positions in the competitive service.<br>\n<br>\n<b>About the Position:</b> Serves as Financial Management Specialist in the Soldier Recovery Unit (SRU) under the general supervision and direction of the Human Resources (HR) Specialist/Adjutant.",
+  "educationRequirements": "<b>FOREIGN EDUCATION:</b> If you are using education completed in foreign colleges or universities to meet the qualification requirements, you must show the education credentials have been evaluated by a private organization that specializes in interpretation of foreign education programs and such education has been deemed equivalent to that gained in an accredited U.S. education program; or full credit has been given for the courses at a U.S. accredited college or university. For further information, visit: <a href=\"https://sites.ed.gov/international/recognition-of-foreign-qualifications/\">https://sites.ed.gov/international/recognition-of-foreign-qualifications/</a>",
+  "employmentType": "OTHER",
+  "hiringOrganization": "M1-W6RBAA US ARMY WARRIOR TRANSITION UNIT",
+  "jobLocation": [
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Bethesda",
+        "addressRegion": "MD "
+      }
+    }
+  ],
+  "responsibilities": "",
+  "qualifications": "<strong>Who May Apply: US Citizens</strong><br>\n<br>\nIn order to qualify, you must meet the education and/or experience requirements described below. Experience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., Peace Corps, AmeriCorps) and other organizations (e.g., professional; philanthropic; religious; spiritual; community; student; social). You will receive credit for all qualifying experience, including volunteer experience. Your resume must clearly describe your relevant experience; if qualifying based on education, your transcripts will be required as part of your application. Additional information about transcripts is <a href=\"https://portal.chra.army.mil/hr_public?id=kb_article&sysparm_article=KB0016283\">in this document</a>.<br>\n<br>\n<strong>Specialized Experience</strong>: One year of specialized experience which includes provide financial entitlement and Military pay assistance; resolve financial problems; provide technical and fiscal advice; use automated financial management systems to prepare and analyze statistical reports. This definition of specialized experience is typical of work performed at the second lower grade/level position in the federal service (GS-07).<br>\n<strong>OR</strong><br>\n<strong>Education</strong>: Master's or equivalent graduate degree or 2 full years of progressively higher-level graduate education leading to such a degree in a field which demonstrates the knowledge, skills, and abilities necessary to do the work of the position, such as: Accounting or Business Administration.<br>\n<strong>OR</strong><br>\n<strong>Combination of Education and Experience</strong>: A combination of education and experience may be used to qualify for this position as long as the computed percentage of the requirements is at least 100%. To compute the percentage of the requirements, divide your total months of experience by 12. Then divide the total number of completed graduate semester hours (or equivalent) beyond the first year (total graduate semester hours minus 18) by 18. Add the two percentages.",
+  "title": "Financial Specialist (Military)",
+  "validThrough": "2026-11-10"
+}

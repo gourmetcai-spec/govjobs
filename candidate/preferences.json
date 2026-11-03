@@ -1,6 +1,6 @@
 {
   "baseline": "resume-xuewu.cai.pdf",
-  "baseline_sha256": "b6493d18074902f305b30f985a0197e5d9e7e42b4ddd2367d3075e3d8e0ec6a8",
+  "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a",
   "timezone": "America/New_York",
   "lookback_calendar_months": 2,
   "locations": [
@@ -161,5 +161,15 @@
     ],
     "record_zero_new_partial_interrupted_runs": true,
     "preserve_historical_reports": true
+  },
+  "baseline_change_source": {
+    "date": "2026-11-02",
+    "source": "User-modified authoritative baseline PDF found at Step 1 start",
+    "changes": [
+      "Freddie Mac title is now Director, Financial Engineering/Inv&Capital Market",
+      "CRT acronym expanded to Credit Risk Transfer; program scope unchanged"
+    ],
+    "previous_sha256": "b6493d18074902f305b30f985a0197e5d9e7e42b4ddd2367d3075e3d8e0ec6a8",
+    "current_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a"
   }
 }

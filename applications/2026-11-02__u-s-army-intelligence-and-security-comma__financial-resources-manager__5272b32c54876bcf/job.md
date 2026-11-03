@@ -1,0 +1,866 @@
+# Financial Resources Manager
+
+{
+  "title": "Financial Resources Manager",
+  "requisition_id": "SDST-26-13106392-DCIPS",
+  "canonical_url": "https://www.usajobs.gov/job/891081100",
+  "application_url": "https://www.usajobs.gov/job/891081100",
+  "posted_date": "2026-10-30",
+  "posted_date_evidence": "Official announcement JobPosting.datePosted; corroborated by native search PositionStartDate where listed.",
+  "close_date": "2026-11-09",
+  "deadline_timezone": "America/New_York",
+  "deadline_time": "23:59",
+  "deadline_source": "https://www.usajobs.gov/job/891081100",
+  "deadline_verified": true,
+  "early_closure_conditions": [],
+  "rolling_cutoff": null,
+  "location": "Charlottesville, VA",
+  "remote_restrictions": "Offered DMV work location; verify telework/attendance and screening conditions in announcement.",
+  "salary": "Starting at $125,776 Per year (GG 14)",
+  "retrieved_at": "2026-11-02T23:14:54.501767+00:00",
+  "control_number": "891081100",
+  "fit": "Financial forecasting, capital/ROE, quantitative risk and engineering leadership overlap; federal budget/accounting/policy specialties remain attention items.",
+  "gaps": "Confirm the announcement-specific specialized experience, grade-equivalent scope and mandatory conditions against your actual work history. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.",
+  "requirements_confirmed_unmet": [],
+  "requirements_unverified": [
+    "Confirm the announcement-specific specialized experience, grade-equivalent scope and mandatory conditions against your actual work history.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "preferred_requirements_note": "See official qualifications/education sections; missing evidence does not establish an unmet requirement.",
+  "hiring_paths": [
+    "Open to the public",
+    "Competitive service",
+    "Excepted service",
+    "Veterans"
+  ],
+  "open_evidence": "Official announcement downloaded successfully; validThrough and native open-status evidence retained.",
+  "discovery_window": [
+    "2026-09-02",
+    "2026-11-02"
+  ]
+}
+
+## Summary
+
+About the Position: This position is in the Defense Civilian Intelligence Personnel System (DCIPS). Employees occupying DCIPS positions are in the Excepted Service and must adhere to U.S. Code, Title 10, as well as Department of Defense Instruction 1400.25. This position is located at the National Ground Intelligence Center, Enterprise Directorate, Resources and Strategy Division, Budget Services Branch, Charlottesville, VA 22911.
+
+## Duties
+
+
+
+## Qualifications
+
+Who May Apply:
+Only applicants who meet one of the employment authority categories below are eligible to apply for this job. You will be asked to identify which category or categories you meet, and to provide documents which prove you meet the category or categories you selected. See Proof of Eligibility for an extensive list of document requirements for all employment authorities.
+10-Point Other Veterans’ Rating
+30 Percent or More Disabled Veterans
+5-Point Veterans' Preference
+Current Army Defense Civilian Intelligence Personnel System (DCIPS) Employee
+Current Department of Army Civilian Employees
+Current Department of Defense (DOD) Civilian Employee (non-Army)
+Current DoD Defense Civilian Intelligence Personnel System (DCIPS) Employee (non-Army)
+Defense Civilian Intelligence Personnel System (DCIPS) Interchange Agreement
+Disabled Veteran w/ a Service-Connected Disability, More than 10%, Less than 30%
+Non-Department of Defense (DoD) Transfer
+Prior Federal Service Employee
+Priority Placement Program, DoD Military Reserve (MR) and National Guard (NG) Technician Eligible
+Priority Placement Program, DoD MR and NG Preference Eligible Tech Receiving Disability Retirement
+Priority Placement Program, DoD Retained Grade Preference Eligible
+United States Citizen Applying to a DCIPS Position
+Army DCIPS positions apply Veteran's Preference to preference eligible candidates as defined by Section 2108 of Title 5 U.S.C., in accordance with the procedures provided in DoD Instruction 1400.25, Volume 2005, DCIPS Employment and Placement.
+In order to qualify, you must meet the experience requirements described below. Experience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., Peace Corps, AmeriCorps) and other organizations (e.g., professional; philanthropic; religious; spiritual; community; student; social). You will receive credit for all qualifying experience, including volunteer experience. Your resume must clearly describe your relevant experience; if qualifying based on education, your transcripts will be required as part of your application. Additional information about transcripts is in this document.
+To qualify based on your experience, your resume must describe at least one year of specialized experience equivalent to at least the GG/GS-13 grade level in the Federal service which includes
+experience executing budget and fiscal activities involving large expenditures of resources
+AND
+experience using enterprise resource planning software to manage multiple business processes and applications across an organization.
+Specialized experience is progressively responsible intelligence-related security work directly related to the position being filled. Creditable experience may include previous military experience, experience gained in the private sector or in another government agency as long as it was at a level at least equivalent to the next lower band in the series.
+
+## Education
+
+This job does not have an education qualification requirement.
+
+## Full rendered official announcement
+
+USAJOBS - Job Announcement
+
+ Skip to main content
+
+ An official website of the United States government
+
+Official websites use .gov
+
+A .gov website belongs to an official government organization in the United States.
+
+Secure .gov websites use HTTPS
+ A lock ( LockA locked padlock ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.
+
+ MENU
+
+ Sign in
+
+ My jobs
+
+ Profile
+
+ Resumes & documents
+
+ Notifications
+
+ Talent networks
+
+ Sign out
+
+ My jobs
+
+ Profile
+
+ Resumes & documents
+
+ Notifications
+
+ Talent networks
+
+ Sign out
+
+ Events
+
+ Help Center
+
+ Search
+
+ Back to results
+
+ Apply
+
+ Financial Resources Manager
+
+Department of the Army
+
+U.S. Army Intelligence and Security Command
+
+National Ground Intelligence Center, Enterprise Directorate, Charlottesville, VA 22911
+
+Apply
+
+ Print
+
+ Share
+
+ Save
+
+ Summary
+
+ This job is open to
+
+ Duties
+
+ Requirements
+
+ How you will be evaluated
+
+ Required documents
+
+ How to apply
+
+Summary
+
+About the Position: This position is in the Defense Civilian Intelligence Personnel System (DCIPS). Employees occupying DCIPS positions are in the Excepted Service and must adhere to U.S. Code, Title 10, as well as Department of Defense Instruction 1400.25. This position is located at the National Ground Intelligence Center, Enterprise Directorate, Resources and Strategy Division, Budget Services Branch, Charlottesville, VA 22911.
+
+ Learn more about this agency
+
+Summary
+
+About the Position: This position is in the Defense Civilian Intelligence Personnel System (DCIPS). Employees occupying DCIPS positions are in the Excepted Service and must adhere to U.S. Code, Title 10, as well as Department of Defense Instruction 1400.25. This position is located at the National Ground Intelligence Center, Enterprise Directorate, Resources and Strategy Division, Budget Services Branch, Charlottesville, VA 22911.
+
+ Learn more about this agency
+
+Overview
+
+ Help
+
+Accepting applications
+
+Location
+
+1 vacancy in the following location:
+
+ Charlottesville, VA
+
+ No matching locations found.
+
+Work site options
+
+Telework eligible
+
+Yes—as determined by the agency policy.
+
+Remote job
+
+No
+
+Relocation expenses reimbursed
+
+ No
+
+Salary
+
+ $125,776 - $163,514 per year
+
+Pay scale & grade
+
+GG 14
+
+Promotion potential
+
+None
+
+ Learn more about pay scale and grade
+
+ Pay scale and grade determines the salary of the job.
+
+Work schedule
+
+Full-time
+
+Travel Required
+
+Occasional travel - You may be expected to travel for this position.
+
+Appointment type
+
+Permanent
+
+Occupations and job series
+
+ 0501 Financial Administration And Program
+
+Supervisory status
+
+Yes
+
+Federal service type
+
+This job is in the Competitive Service
+
+Represented by a union
+
+No
+
+Drug test
+
+Yes
+
+Security clearance
+
+Sensitive Compartmented Information
+
+Position sensitivity and risk
+
+Special-Sensitive (SS)/High Risk
+
+ Jobs require a
+ background check and some require a
+ security clearance. The type depends on the job.
+
+Background check type
+
+ National security
+
+Financial disclosure required
+
+No
+
+ Some jobs require
+ financial disclosure to identify conflicts of interests.
+
+Announcement number
+
+SDST-26-13106392-DCIPS
+
+Control number
+
+891081100
+
+This job is open to
+
+ Help
+
+The public
+
+ U.S. Citizens, Nationals or those who owe allegiance to the U.S.
+
+Federal employees - Competitive service
+
+ Current federal employees whose agencies follow the U.S. Office of Personnel Management's hiring rules and pay scales.
+
+Federal employees - Excepted service
+
+ Current federal employees whose agencies have their own hiring rules, pay scales and evaluation criteria.
+
+Veterans
+
+ Veterans of the U.S. Armed Forces or a spouse, widow, widower or parent of a veteran, who may be eligible for derived preference
+
+Clarification from the agency
+
+See "Who May Apply" in the "Qualifications" section for more information on who is eligible to apply for this position.
+
+Duties
+
+ Help
+
+Serves as the Chief, Resource Management. Administers the financial management program and supervises personnel in budget administration.
+
+Plan, assign, and direct ongoing work to develop and administer the financial management program for the National Ground Intelligence Center.
+
+Manage the execution of a multi-year, multi-appropriation budget.
+
+Develop solutions to complex budget, program, and manpower issues.
+
+Conduct resource and manpower studies to recommend improvements in organization, staffing, work methods, and procedures.
+
+Technically and administratively supervise employees, including identifying training needs, preparing performance standards and appraisals, and conducting hiring actions.
+
+Requirements
+
+ Help
+
+Conditions of employment
+
+Appointment may be subject to a suitability or fitness determination, as determined by a completed background investigation.
+
+In accordance with Change 3 to AR 600-85, Alcohol and Drug Abuse Prevention and Control Program, individual must successfully pass a urinalysis screening for illegal drug use prior to appointment and periodically thereafter.
+
+All INSCOM employees may be subject to extended TDY or worldwide deployments during crisis situations to perform mission essential functions as determined by management.
+
+Temporary Duty (TDY) travel will be required up to 25% of the time.
+
+Financial Management Level 3 Certified position. Incumbent of this position is required to comply with all requirements of this program. Failure to obtain the certification within the required time may subject the incumbent to adverse action.
+
+Qualifications
+
+ Who May Apply:
+
+Only applicants who meet one of the employment authority categories below are eligible to apply for this job. You will be asked to identify which category or categories you meet, and to provide documents which prove you meet the category or categories you selected. See Proof of Eligibility for an extensive list of document requirements for all employment authorities.
+
+10-Point Other Veterans’ Rating
+30 Percent or More Disabled Veterans
+5-Point Veterans' Preference
+Current Army Defense Civilian Intelligence Personnel System (DCIPS) Employee
+Current Department of Army Civilian Employees
+Current Department of Defense (DOD) Civilian Employee (non-Army)
+Current DoD Defense Civilian Intelligence Personnel System (DCIPS) Employee (non-Army)
+Defense Civilian Intelligence Personnel System (DCIPS) Interchange Agreement
+Disabled Veteran w/ a Service-Connected Disability, More than 10%, Less than 30%
+Non-Department of Defense (DoD) Transfer
+Prior Federal Service Employee
+Priority Placement Program, DoD Military Reserve (MR) and National Guard (NG) Technician Eligible
+Priority Placement Program, DoD MR and NG Preference Eligible Tech Receiving Disability Retirement
+Priority Placement Program, DoD Retained Grade Preference Eligible
+United States Citizen Applying to a DCIPS Position
+
+Army DCIPS positions apply Veteran's Preference to preference eligible candidates as defined by Section 2108 of Title 5 U.S.C., in accordance with the procedures provided in DoD Instruction 1400.25, Volume 2005, DCIPS Employment and Placement.
+
+In order to qualify, you must meet the experience requirements described below. Experience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., Peace Corps, AmeriCorps) and other organizations (e.g., professional; philanthropic; religious; spiritual; community; student; social). You will receive credit for all qualifying experience, including volunteer experience. Your resume must clearly describe your relevant experience; if qualifying based on education, your transcripts will be required as part of your application. Additional information about transcripts is in this document.
+
+To qualify based on your experience, your resume must describe at least one year of specialized experience equivalent to at least the GG/GS-13 grade level in the Federal service which includes
+
+experience executing budget and fiscal activities involving large expenditures of resources
+
+AND
+
+experience using enterprise resource planning software to manage multiple business processes and applications across an organization.
+
+Specialized experience is progressively responsible intelligence-related security work directly related to the position being filled. Creditable experience may include previous military experience, experience gained in the private sector or in another government agency as long as it was at a level at least equivalent to the next lower band in the series.
+
+Education
+
+ This job does not have an education qualification requirement.
+
+Additional information
+
+This position requires a 2 year trial period during which the agency evaluates your fitness and whether your continued employment advances the public interest. In making this determination, the agency may consider your performance and conduct; agency needs and interests; whether your continued employment supports organizational or Government goals; and whether it promotes the efficiency of the Federal service. Continued employment requires written certification that it advances the public interest.
+
+Male applicants born after December 31, 1959, must complete a Pre-Employment Certification Statement for Selective Service Registration.
+
+You will be required to provide proof of U.S. Citizenship.
+
+Direct Deposit of Pay is required.
+
+All INSCOM employees may be subject to extended TDY or worldwide deployments during crisis situations to perform mission essential functions as determined by management.
+
+Must be able to obtain and maintain a TS/SCI/SBI security clearance.
+
+Selection is subject to restrictions resulting from Department of Defense referral system for displaced employees.
+
+If you have retired from federal service and you are interested in employment as a reemployed annuitant, see the information in the Reemployed Annuitant information sheet.
+
+This is a(n) Comptroller Career Program position aligned under the Career Management Directorate.
+
+Multiple positions may be filled from this announcement.
+
+Salary includes applicable locality pay or Local Market Supplement.
+
+Payment of Permanent Change of Station (PCS) costs is not authorized, based on a determination that a PCS move is not in the Government interest.
+
+Telework may be authorized based on agency policy.
+
+Recruitment, Relocation and Retention incentive(s) may be authorized.
+
+Reasonable Accommodation (RA) Requests: If you believe you have a disability (i.e., physical or mental), covered by the Rehabilitation Act of 1973 as amended that would interfere with completing the USA Hire Competency Based Assessments, you will be granted the opportunity to request a RA in your online application. Requests for RA for the USA Hire Competency Based Assessments and appropriate supporting documentation for RA must be received prior to starting the USA Hire Competency Based Assessments. Decisions on requests for RA are made on a case-by-case basis. If you meet the minimum qualifications of the position, after notification of the adjudication of your request, you will receive an email invitation to complete the USA Hire Competency Based Assessments, based on your adjudication decision. You must complete all assessments within 48 hours of receiving the URL to access the USA Hire Competency Based Assessments if you received the link after the close of the announcement. To determine if you need a RA, please review the Procedures for Requesting a Reasonable Accommodation for Online Assessments here: https://appsupport.usastaffing.gov/hc/en-us/sections/28980686389652-Reasonable-Accommodation-Information
+
+ Expand Hide  additional information
+
+Candidates should be committed to improving the efficiency of the Federal government, passionate about the ideals of our American republic, and committed to upholding the rule of law and the United States Constitution.
+
+Benefits
+
+ Help
+
+ A career with the U.S. government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding. Opens in a new windowLearn more about federal benefits.
+
+ Review our benefits
+
+Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time or intermittent. Contact the hiring agency for more information on the specific benefits offered.
+
+How you will be evaluated
+
+You will be evaluated for this job based on how well you meet the qualifications above.
+
+ You will be evaluated based on how well you meet the qualifications listed in this vacancy announcement. Your qualifications will be evaluated based on your application materials (e.g., resume, supporting documents), the responses you provide on the application questionnaire, and the result of the online assessments required for this position.
+
+You will be assessed on the following competencies (knowledge, skills, abilities, and other characteristics):
+
+Accountability
+Customer Service
+Decisiveness
+Flexibility
+Interpersonal Skills
+Problem Solving
+Resilience
+
+The USA Hire Assessments includes a cut score based on the minimum level of required proficiency in these critical general competencies. You must meet or exceed the cut score to be considered. You will not be considered for the position if you score below the cut score or fail to complete the assessment.
+
+Overstating your qualifications and/or experience in your application materials or application questionnaire may result in your removal from consideration. Cheating on the online assessment may also result in your removal from consideration.
+
+Benefits
+
+ Help
+
+ A career with the U.S. government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding. Opens in a new windowLearn more about federal benefits.
+
+ Review our benefits
+
+Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time or intermittent. Contact the hiring agency for more information on the specific benefits offered.
+
+Required documents
+
+Required Documents
+
+ Help
+
+ WARNING: DO NOT INCLUDE CLASSIFIED INFORMATION IN YOUR APPLICATION PACKET! Application packages that contain Classified information WILL NOT receive consideration for this position. Should you submit a resume or any other document as part of your application package and it is confirmed that any of the information is Classified, in addition to being found ineligible for consideration for this position, your Security Office will be notified to determine if any further action is warranted.
+
+The documents you are required to submit vary based on the authority you are using to apply (i.e., applying as a veteran, applying as a current permanent Federal employee, applying as a reinstatement, etc). Please review the following links to see which documents you need to provide to prove your eligibility to apply: Applicant Checklist for Internal/Merit Promotion Announcements.
+
+As described above, your complete application includes your resume, your responses to the online questionnaire, and documents which prove your eligibility to apply. If you fail to provide these documents, you will be marked as having an incomplete application package and you will not be considered any further.
+
+1. Your resume:
+
+Your resume must be two pages or less and must support the specialized experience described in this announcement. Resumes exceeding two pages will be removed from consideration.
+
+For each relevant work experience, make sure you include the employer's name, job title, start and end dates (include month and year), for qualifications purposes, the number of hours worked per week, and a brief description that show you can perform the tasks at the required level listed in the job announcement. If your resume does not contain this information, your application may be marked as incomplete, and you may not receive consideration for this position.
+
+Use plain language. Avoid using acronyms and terms that are not easily understood. The hiring agency will not make assumptions about what's in your resume.
+
+If your resume includes a photograph or other inappropriate material or content, it will not be used to make eligibility and qualification determinations, and you may not be considered for this vacancy.
+
+For additional information, to include formatting tips, see: What to include in your resume.
+
+2. Other supporting documents:
+
+Cover Letter, optional
+
+Most recent Performance Appraisal, if applicable
+
+Proof of Eligibility to Apply: Your application must include the documents which prove you are eligible to apply for the vacancy. The Proof of Eligibility document describes authorities commonly used in merit promotion recruitment and what document(s) are required to prove you meet the requirements of the authority. You must meet the requirements of at least one of the authorities listed in the Who May Apply section above to receive further consideration.
+
+NOTE: Documents submitted as part of the application package, to include supplemental documents, may be shared beyond the Human Resources Office. Some supplemental documents such as military orders and marriage certificates may contain personal information for someone other than you. You may sanitize these documents to remove another person's personal information before you submit your application. You may be asked to provide an un-sanitized version of the documents if you are selected to confirm your eligibility.
+
+How to Apply
+
+ Help
+
+Please read the entire announcement and all the instructions before you begin an application. To apply and be considered for this position, you must complete all required questionnaires, assessments and submit all required documentation as specified in the How to Apply and Required Documents section.
+
+The complete application package must be submitted by 11:59 PM (ET) on the closing date of the announcement to receive consideration. The application process is as follows:
+
+Click the Apply Online button.
+
+Answer the questions presented in the application and attach all necessary supporting documentation. As a reminder, your resume must be two pages or less and must support the specialized experience described in this announcement. Resumes exceeding two pages will be removed from consideration. For additional information, refer to the 'Required Documents' section. To preview the application questionnaire, click the following link: https://apply.usastaffing.gov/ViewQuestionnaire/13106392
+
+Click the Submit Application button prior to 11:59 PM (ET) on 11/09/2026.
+
+If you are required to complete any USA Hire Assessments, you will be notified after submitting your application. The notification will be provided in your application submission screen and via email. The notification will include your unique assessment access link to the USA Hire system and the completion deadline. Additionally, in USAJOBS you can click "Track this application" to return to your assessment completion notice.
+
+Access USA Hire using your unique assessment link. Access is granted through your USAJOBS login credentials.
+
+Review all instructions prior to beginning your assessments. You will have the opportunity to request a testing accommodation before beginning the assessments should you have a disability covered under the Rehabilitation Act of 1973 as amended.
+
+Set aside about one (1) hours to take the USA Hire Assessments; however, most applicants complete the assessments in less time. If you need to stop the assessments and continue later, you can re-use your unique assessment link.
+
+Your responses to the USA Hire Assessments will be reused for one year (in most cases) from the date you complete an assessment. If future applications you submit require completion of the same assessments, your responses will be automatically reused.
+
+For more general information, system requirements, reasonable accommodation information, and to request assistance regarding the USA Hire Assessments, review the following resources: https://appsupport.usastaffing.gov/hc/en-us/sections/28980562523540-USA-Hire-Assessments
+
+To update your application, including supporting documentation: During the announcement open period, return to your USAJOBS account, find your application record, and click Edit my application. This option will no longer be available once the announcement has closed.
+
+To view the announcement status or your application status: Click on this: https://help.usajobs.gov/how-to/application/status. Your application status page is where you can view your application status, USA Hire assessment completion status, and review your notifications sent by the hiring agency regarding your application.
+
+Agency contact information
+
+ Army Applicant Help Desk
+
+Website
+
+ https://portal.chra.army.mil/hr_public?id=app_inq
+
+Address
+
+ ST-IC-W6TMAA NATIONAL GROUND INTELLIGENCE CENTER
+
+ DO NOT MAIL
+
+ Fort Huachuca, AZ 85613
+
+ US
+
+Next steps
+
+If you provided an email address, you will receive an email message acknowledging receipt of your application. Your application package will be used to determine your eligibility, qualifications, and quality ranking for this position. If you are determined to be ineligible or not qualified, your application will receive no further consideration.
+
+Based on your application and your responses to the application questionnaire, you may be presented with instructions on how to access the USA Hire system to complete the online assessments. The online assessments must be completed within 48 hours following the close of this announcement. You will have the opportunity to request a testing accommodation for the assessment should you have a disability covered under the Rehabilitation Act of 1973, as amended.
+
+Fair and transparent
+
+The Federal hiring process is set up to be fair and transparent. Please read the following guidance.
+
+ Criminal history inquiries
+
+ Equal Employment Opportunity (EEO) Policy
+
+ Financial suitability
+
+ New employee probationary period
+
+ Privacy Act
+
+ Reasonable accommodation policy
+
+ Selective Service
+
+ Signature and false statements
+
+ Social security number request
+
+Required Documents
+
+ Help
+
+ WARNING: DO NOT INCLUDE CLASSIFIED INFORMATION IN YOUR APPLICATION PACKET! Application packages that contain Classified information WILL NOT receive consideration for this position. Should you submit a resume or any other document as part of your application package and it is confirmed that any of the information is Classified, in addition to being found ineligible for consideration for this position, your Security Office will be notified to determine if any further action is warranted.
+
+The documents you are required to submit vary based on the authority you are using to apply (i.e., applying as a veteran, applying as a current permanent Federal employee, applying as a reinstatement, etc). Please review the following links to see which documents you need to provide to prove your eligibility to apply: Applicant Checklist for Internal/Merit Promotion Announcements.
+
+As described above, your complete application includes your resume, your responses to the online questionnaire, and documents which prove your eligibility to apply. If you fail to provide these documents, you will be marked as having an incomplete application package and you will not be considered any further.
+
+1. Your resume:
+
+Your resume must be two pages or less and must support the specialized experience described in this announcement. Resumes exceeding two pages will be removed from consideration.
+
+For each relevant work experience, make sure you include the employer's name, job title, start and end dates (include month and year), for qualifications purposes, the number of hours worked per week, and a brief description that show you can perform the tasks at the required level listed in the job announcement. If your resume does not contain this information, your application may be marked as incomplete, and you may not receive consideration for this position.
+
+Use plain language. Avoid using acronyms and terms that are not easily understood. The hiring agency will not make assumptions about what's in your resume.
+
+If your resume includes a photograph or other inappropriate material or content, it will not be used to make eligibility and qualification determinations, and you may not be considered for this vacancy.
+
+For additional information, to include formatting tips, see: What to include in your resume.
+
+2. Other supporting documents:
+
+Cover Letter, optional
+
+Most recent Performance Appraisal, if applicable
+
+Proof of Eligibility to Apply: Your application must include the documents which prove you are eligible to apply for the vacancy. The Proof of Eligibility document describes authorities commonly used in merit promotion recruitment and what document(s) are required to prove you meet the requirements of the authority. You must meet the requirements of at least one of the authorities listed in the Who May Apply section above to receive further consideration.
+
+NOTE: Documents submitted as part of the application package, to include supplemental documents, may be shared beyond the Human Resources Office. Some supplemental documents such as military orders and marriage certificates may contain personal information for someone other than you. You may sanitize these documents to remove another person's personal information before you submit your application. You may be asked to provide an un-sanitized version of the documents if you are selected to confirm your eligibility.
+
+How to Apply
+
+ Help
+
+Please read the entire announcement and all the instructions before you begin an application. To apply and be considered for this position, you must complete all required questionnaires, assessments and submit all required documentation as specified in the How to Apply and Required Documents section.
+
+The complete application package must be submitted by 11:59 PM (ET) on the closing date of the announcement to receive consideration. The application process is as follows:
+
+Click the Apply Online button.
+
+Answer the questions presented in the application and attach all necessary supporting documentation. As a reminder, your resume must be two pages or less and must support the specialized experience described in this announcement. Resumes exceeding two pages will be removed from consideration. For additional information, refer to the 'Required Documents' section. To preview the application questionnaire, click the following link: https://apply.usastaffing.gov/ViewQuestionnaire/13106392
+
+Click the Submit Application button prior to 11:59 PM (ET) on 11/09/2026.
+
+If you are required to complete any USA Hire Assessments, you will be notified after submitting your application. The notification will be provided in your application submission screen and via email. The notification will include your unique assessment access link to the USA Hire system and the completion deadline. Additionally, in USAJOBS you can click "Track this application" to return to your assessment completion notice.
+
+Access USA Hire using your unique assessment link. Access is granted through your USAJOBS login credentials.
+
+Review all instructions prior to beginning your assessments. You will have the opportunity to request a testing accommodation before beginning the assessments should you have a disability covered under the Rehabilitation Act of 1973 as amended.
+
+Set aside about one (1) hours to take the USA Hire Assessments; however, most applicants complete the assessments in less time. If you need to stop the assessments and continue later, you can re-use your unique assessment link.
+
+Your responses to the USA Hire Assessments will be reused for one year (in most cases) from the date you complete an assessment. If future applications you submit require completion of the same assessments, your responses will be automatically reused.
+
+For more general information, system requirements, reasonable accommodation information, and to request assistance regarding the USA Hire Assessments, review the following resources: https://appsupport.usastaffing.gov/hc/en-us/sections/28980562523540-USA-Hire-Assessments
+
+To update your application, including supporting documentation: During the announcement open period, return to your USAJOBS account, find your application record, and click Edit my application. This option will no longer be available once the announcement has closed.
+
+To view the announcement status or your application status: Click on this: https://help.usajobs.gov/how-to/application/status. Your application status page is where you can view your application status, USA Hire assessment completion status, and review your notifications sent by the hiring agency regarding your application.
+
+ Expand Hide  how to apply
+
+Agency contact information
+
+ Army Applicant Help Desk
+
+Website
+
+ https://portal.chra.army.mil/hr_public?id=app_inq
+
+Address
+
+ ST-IC-W6TMAA NATIONAL GROUND INTELLIGENCE CENTER
+
+ DO NOT MAIL
+
+ Fort Huachuca, AZ 85613
+
+ US
+
+Next steps
+
+If you provided an email address, you will receive an email message acknowledging receipt of your application. Your application package will be used to determine your eligibility, qualifications, and quality ranking for this position. If you are determined to be ineligible or not qualified, your application will receive no further consideration.
+
+Based on your application and your responses to the application questionnaire, you may be presented with instructions on how to access the USA Hire system to complete the online assessments. The online assessments must be completed within 48 hours following the close of this announcement. You will have the opportunity to request a testing accommodation for the assessment should you have a disability covered under the Rehabilitation Act of 1973, as amended.
+
+ Expand Hide  next steps
+
+Fair and transparent
+
+The Federal hiring process is set up to be fair and transparent. Please read the following guidance.
+
+ Criminal history inquiries
+
+ Equal Employment Opportunity (EEO) Policy
+
+ Financial suitability
+
+ New employee probationary period
+
+ Privacy Act
+
+ Reasonable accommodation policy
+
+ Selective Service
+
+ Signature and false statements
+
+ Social security number request
+
+ U.S. Army Intelligence and Security Command
+
+ Civilian employees serve a vital role in supporting the Army mission. They provide the skills that are not readily available in the military, but crucial to support military operations. The Army integrates the talents and skills of its military and civilian members to form a Total Army.
+
+Agency contact information
+
+ Army Applicant Help Desk
+
+Website
+
+ https://portal.chra.army.mil/hr_public?id=app_inq
+
+Address
+
+ ST-IC-W6TMAA NATIONAL GROUND INTELLIGENCE CENTER
+
+ DO NOT MAIL
+
+ Fort Huachuca, AZ 85613
+
+ US
+
+Visit our careers page
+
+ Learn more about what it's like to work at U.S. Army Intelligence and Security Command, what the agency does, and about the types of careers this agency offers.
+
+ http://www.inscom.army.mil/MSC/NGIC.aspx
+
+Summary
+
+About the Position: This position is in the Defense Civilian Intelligence Personnel System (DCIPS). Employees occupying DCIPS positions are in the Excepted Service and must adhere to U.S. Code, Title 10, as well as Department of Defense Instruction 1400.25. This position is located at the National Ground Intelligence Center, Enterprise Directorate, Resources and Strategy Division, Budget Services Branch, Charlottesville, VA 22911.
+
+ Learn more about this agency
+
+Overview
+
+ Help
+
+Accepting applications
+
+Location
+
+1 vacancy in the following location:
+
+ Charlottesville, VA
+
+ No matching locations found.
+
+Work site options
+
+Telework eligible
+
+Yes—as determined by the agency policy.
+
+Remote job
+
+No
+
+Relocation expenses reimbursed
+
+ No
+
+Salary
+
+ $125,776 - $163,514 per year
+
+Pay scale & grade
+
+GG 14
+
+Promotion potential
+
+None
+
+ Learn more about pay scale and grade
+
+ Pay scale and grade determines the salary of the job.
+
+Work schedule
+
+Full-time
+
+Travel Required
+
+Occasional travel - You may be expected to travel for this position.
+
+Appointment type
+
+Permanent
+
+Occupations and job series
+
+ 0501 Financial Administration And Program
+
+Supervisory status
+
+Yes
+
+Federal service type
+
+This job is in the Competitive Service
+
+Represented by a union
+
+No
+
+Drug test
+
+Yes
+
+Security clearance
+
+Sensitive Compartmented Information
+
+Position sensitivity and risk
+
+Special-Sensitive (SS)/High Risk
+
+ Jobs require a
+ background check and some require a
+ security clearance. The type depends on the job.
+
+Background check type
+
+ National security
+
+Financial disclosure required
+
+No
+
+ Some jobs require
+ financial disclosure to identify conflicts of interests.
+
+Announcement number
+
+SDST-26-13106392-DCIPS
+
+Control number
+
+891081100
+
+ Previous result
+
+Next result
+
+Your session is about to expire!
+
+ Your USAJOBS session will expire due to inactivity in 8 minutes.
+ Any unsaved data will be lost if you allow the session to expire.
+ Click the button below to continue your session.
+
+ Sign out
+ Stay signed in
+
+ Return to top
+
+USAJOBS is a Opens in a new windowUnited States Office of Personnel Management website.
+
+ (Opens in a new window) OPM on LinkedIn
+
+ (Opens in a new window) OPM YouTube channel
+
+ (Opens in a new window) OPM on X
+
+Opens in a new windowEEO Policy Statement
+
+Opens in a new windowReasonable Accommodation Policy Statement
+
+Veterans Information
+
+Opens in a new windowLegal and Regulatory Guidance
+
+About USAJOBS
+
+Opens in a new windowAccessibility
+
+Opens in a new windowFOIA
+
+Opens in a new windowInspector general
+
+Opens in a new windowNo Fear Act Data
+
+Opens in a new windowPrivacy policy
+
+Opens in a new windowReports and publications
+
+Opens in a new windowTerms and conditions
+
+Opens in a new windowUSA.gov

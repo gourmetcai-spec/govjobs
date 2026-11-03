@@ -1,0 +1,847 @@
+USAJOBS - Job Announcement
+
+ Skip to main content
+
+ An official website of the United States government
+
+Official websites use .gov
+
+A .gov website belongs to an official government organization in the United States.
+
+Secure .gov websites use HTTPS
+ A lock ( LockA locked padlock ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.
+
+ MENU
+
+ Sign in
+
+ My jobs
+
+ Profile
+
+ Resumes & documents
+
+ Notifications
+
+ Talent networks
+
+ Sign out
+
+ My jobs
+
+ Profile
+
+ Resumes & documents
+
+ Notifications
+
+ Talent networks
+
+ Sign out
+
+ Events
+
+ Help Center
+
+ Search
+
+ Back to results
+
+ Apply
+
+ Data Scientist
+
+Federal Communications Commission
+
+Apply
+
+ Print
+
+ Share
+
+ Save
+
+ Summary
+
+ This job is open to
+
+ Duties
+
+ Requirements
+
+ How you will be evaluated
+
+ Required documents
+
+ How to apply
+
+Summary
+
+This position is located in the Space Bureau , Federal Communications Commission (FCC) located in Washington, DC.
+
+Relocation expenses will not be paid.
+
+THIS VACANCY ANNOUNCEMENT MAY BE USED TO FILL ADDITIONAL POSITIONS WITHIN 90 DAYS.
+
+ Learn more about this agency
+
+Summary
+
+This position is located in the Space Bureau , Federal Communications Commission (FCC) located in Washington, DC.
+
+Relocation expenses will not be paid.
+
+THIS VACANCY ANNOUNCEMENT MAY BE USED TO FILL ADDITIONAL POSITIONS WITHIN 90 DAYS.
+
+ Learn more about this agency
+
+Overview
+
+ Help
+
+Accepting applications
+
+Location
+
+1 vacancy in the following location:
+
+ 45 L St, NE
+
+Washington, DC
+
+1 vacancy
+
+ No matching locations found.
+
+Work site options
+
+Telework eligible
+
+Yes—as determined by the agency policy.
+
+Remote job
+
+No
+
+Relocation expenses reimbursed
+
+ No
+
+Salary
+
+ $85,447 - $111,087 per year
+
+Pay scale & grade
+
+GS 11
+
+Promotion potential
+
+12
+
+ Learn more about pay scale and grade
+
+ Pay scale and grade determines the salary of the job.
+
+Work schedule
+
+Full-time - This is a full-time position. Work schedules, including telework, are at the discretion of the supervisor, consistent with agency policy.
+
+Travel Required
+
+Not required
+
+Appointment type
+
+Permanent
+
+Occupations and job series
+
+ 1560 Data Science Series
+
+Supervisory status
+
+No
+
+Federal service type
+
+This job is in the Competitive Service
+
+Represented by a union
+
+No
+
+Drug test
+
+No
+
+Security clearance
+
+Not Required
+
+Financial disclosure required
+
+No
+
+ Some jobs require
+ financial disclosure to identify conflicts of interests.
+
+Announcement number
+
+FCC-SB-2027-001
+
+Control number
+
+890435300
+
+This job is open to
+
+ Help
+
+Internal to an agency
+
+ Current federal employees of the hiring agency that posted the job announcement.
+
+Clarification from the agency
+
+Current FCC Employees Only
+
+Duties
+
+ Help
+
+As a Data Scientist, the incumbent performs a full range of activities for projects within or supporting the Space Bureau. Key responsibilities include: (a) obtaining, processing, and analyzing complex structured and unstructured data; (b) identifying patterns, relationships, and trends that support Space Bureau and agency goals, including insights related to satellite communications, space-based systems, and other mission areas; (c) creating and refining analytical models, developing algorithms, and converting data into actionable information through dashboards, reports, visualizations, and other analytical products; (d) supporting business intelligence and analytical solutions by identifying data sources, collecting relevant information, and transforming data into appropriate formats; (e) developing analytical processes and applying tools and techniques to generate findings from structured and unstructured data; (f) communicating analytical results and recommendations across the Space Bureau and the organization; and (g) advising Space Bureau leadership, program officials, and other stakeholders on data requirements that support the integrated use of statistical analysis, data visualization, natural language processing, and other analytical tools.  Performs other duties as assigned.
+
+Requirements
+
+ Help
+
+Conditions of employment
+
+FCC Employees Only.
+
+Suitable for employment as determined by a background investigation.
+
+Current FCC employees must provide SF-50 verifying grade & status.
+
+Resume must not exceed two pages and must meet resume format criteria.
+
+Education-Transcripts Required
+
+In order to be considered for this position, applicants must:
+
+-Currently be employed in the Federal Communications Commission in positions serving under career or career conditional appointments.
+
+ALL FCC EMPLOYEES MUST provide a legible Personnel Action, SF-50, that verifies your status and highest permanently held grade.  If an SF-50 is not submitted, the application will be rated as ineligible. To request a copy of your SF-50 please send an email to PersonnelRecordsRequest@fcc.gov
+
+Qualifications
+
+Interested candidates should be passionate about the ideals of our American republic, committed to upholding the rule of law and the U.S. Constitution, and committed to improving the efficiency of the Federal government. Hiring decisions will not be based on race, sex, color, religion, or national origin.
+
+Applicants must meet eligibility and qualification requirements by the closing date of this announcement.  Current Federal employees must meet time-in-grade requirements by the closing date of this announcement.
+
+Basic Requirements:
+
+Degree: Mathematics, statistics, computer science, data science or field directly related to the position. The degree must be in a major field of study (at least at the baccalaureate level) that is appropriate for the position.
+
+or
+
+Combination of education and experience: Courses equivalent to a major field of study (30 semester hours) as shown in paragraph A above, plus additional education or appropriate experience.
+
+In addition to meeting the Basic Requirements:
+
+Specialized Experience:  Applicants must have a minimum of one year of specialized experience equivalent to at least theGS-09 in the Federal service.  For this position, specialized experience includes the following:
+
+Experience manipulating data and applying quantitative techniques.
+Experience identifying trends and patterns in data through use of statistics.
+Experience visualizing data using charts, graphs, and/or Excel spreadsheets.
+Experience cleaning and joining data from various sources.
+Experience presenting data analysis findings to an audience.
+
+OR
+
+3 years of progressively higher level graduate education leading to a Ph.D. degree or Ph.D. or equivalent doctoral degree
+
+OR
+
+Possess a combination of education and experience
+
+PART-TIME OR UNPAID EXPERIENCE: Experience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., Peace Corps, AmeriCorps) and other organizations (e.g., professional; philanthropic; religious; spiritual; community, student, social). Volunteer work helps build critical competencies, knowledge, and skills and can provide valuable training and experience that translates directly to paid employment. You will receive credit for all qualifying experience, including volunteer experience.
+
+Education
+
+See "Qualifications" Section for Educational/Basic Requirements.
+
+Transcripts, unofficial or official, must be submitted by the closing date of the announcement. If transcripts are not submitted, the application will be rated as ineligible.
+
+Additional information
+
+EEO Policy Statement
+
+Reasonable Accommodation Policy Statement
+
+Veterans Information
+
+Legal and Regulatory Guidance
+
+ Expand Hide  additional information
+
+Candidates should be committed to improving the efficiency of the Federal government, passionate about the ideals of our American republic, and committed to upholding the rule of law and the United States Constitution.
+
+Benefits
+
+ Help
+
+ A career with the U.S. government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding. Opens in a new windowLearn more about federal benefits.
+
+The FCC offers a wide range of employee benefits, including:
+
+Health Insurance
+Life Insurance
+Dental & Vision Insurance
+Flexible Spending Accounts
+Long-Term Care Insurance
+Holidays and Leave
+Retirement
+Thrift Savings Plan
+Transit Benefit
+Alternative Work Schedule
+Telecommuting
+
+Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time or intermittent. Contact the hiring agency for more information on the specific benefits offered.
+
+How you will be evaluated
+
+You will be evaluated for this job based on how well you meet the qualifications above.
+
+Optional Four Essay Questions
+
+At the time of application, applicants have the option of answering the following four short, free-response essay questions.
+
+1. How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+2. In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+3. In this role, you will be expected to professionally and efficiently implement executive direction. Provide an example where you implemented leadership direction on a strategy or policy decision that differed from your own recommendation.
+4. How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+
+Applicants will be required to certify that they are using their own words, and did not use a consultant or AI (such as a large language model [LLM]). The responses to each question cannot exceed 200 words per question.
+
+All applicants will be rated on the extent and quality of experience and education relevant to the duties of the position.  An automated score is administered based on the on-line application process used.  Eligible applicants will receive a numerical rating based on their responses to the job specific questions for this position.
+
+There are several parts to the application process that affect the overall evaluation of your application including:
+
+1. the core questions
+2. the vacancy questions
+3. supplemental documentation (e.g., DD-214, SF-50, SF-15, transcripts), if applicable; and
+4. your resume.
+
+Applicants will be rated ineligible, if they do not respond to job specific questions provide supplemental documents and submit resume.  For more information, please click on Rating Process
+
+SME REVIEW
+
+Subject matter experts will review your application to determine if you meet the following required Knowledge, Skills and Abilities (KSA's):
+
+Skill in manipulating data and applying quantitative techniques.
+
+Ability to apply data visualization and integration using charts, graphs, and/or Excel spreadsheets to support data products and reporting.
+
+Ability to present data analysis findings to an audience.
+
+Knowledge of data science, data analysis, mathematical concepts, and statistical methods.
+
+If you are deemed to be qualified by the Subject Matter Experts, your application will be referred to the hiring manager for hiring consideration. Alternatively, if your application is not deemed as qualified by the Subject Matter Experts, your application will not be referred to the hiring manager for hiring consideration.
+
+You may preview questions for this vacancy.
+
+Benefits
+
+ Help
+
+ A career with the U.S. government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding. Opens in a new windowLearn more about federal benefits.
+
+The FCC offers a wide range of employee benefits, including:
+
+Health Insurance
+Life Insurance
+Dental & Vision Insurance
+Flexible Spending Accounts
+Long-Term Care Insurance
+Holidays and Leave
+Retirement
+Thrift Savings Plan
+Transit Benefit
+Alternative Work Schedule
+Telecommuting
+
+Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time or intermittent. Contact the hiring agency for more information on the specific benefits offered.
+
+Required documents
+
+Required Documents
+
+ Help
+
+Your resume should include relevant work experience, applicable education and your contact information. For current or previous federal employees, include the pay plan, series and grade.
+
+Your SF-50 shows a federal position you've held, grade level and duty location. Your SF-50 can support position changes, conversions or separation for employment eligibility.
+
+Transcripts may support your qualifications for a federal job and can include high school, college or other schools.
+
+Merit Hiring Plan Resume Requirements
+
+In compliance with Executive Order 14170, Reforming the Federal Hiring Process and Restoring Merit to Government Service resumes must not be longer than two pages in length. The resume must address minimum qualifications and other requirements listed in the job announcement.
+
+Resumes must include all of the following information outlined below:
+
+Contact Information
+
+Name and how best to contact you, including email address and phone number.
+
+Relevant Work Experience
+
+Job Title and Employer (including series and grade for any Federal positions)
+
+Start and end dates with month/year (e.g., 05/2019 –08/2022)
+
+The number of hours you worked per week
+
+Ensure work experience descriptions are aligned with the job announcement and address all required qualifications. Brief descriptions should demonstrate your ability to perform the tasks at the required level as stated in the job announcement.
+
+Resumes must be formatted as outlined above. If the two page resume criteria and/or the resume formatting requirement is not met candidates will be rated as ineligible and will not be referred for hiring consideration.
+
+The FCC is providing the following applicant resume resources:
+
+Applicant Guidance on the Two-Page Resume Limit
+
+USAjobs-How to Write a Federal Resume
+
+ALL SUPPLEMENTAL DOCUMENTS MUST BE UPLOADED BY THE CLOSING DATE OF THIS ANNOUNCEMENT.  If applying online poses a hardship, you may contact either the HR Specialist listed on the vacancy announcement or you may contact the Monster Government Solutions help desk (prior to the closing date of the vacancy announcement) via e-mail at mgshelp@monster.com or you may reach them directly at 866-656-6831. The Monster Help Desk is available Monday-Friday 7:00 am to 7:00 pm EST.
+
+Supplement Documents Required: Employees must provide a legible Personnel Action, SF-50, that verifies your status and highest permanently held grade.  If an SF-50 is not submitted, the application will be rated as ineligible.
+
+ALL FCC EMPLOYEES MUST provide a legible Personnel Action, SF-50, that verifies your status and highest permanently held grade.  If an SF-50 is not submitted, the application will be rated as ineligible. To request a copy of your SF-50 please send an email to PersonnelRecordsRequest@fcc.gov
+
+ If you are relying on your education to meet qualification requirements:
+
+ Education must be accredited by an accrediting institution recognized by the U.S. Department of Education in order for it to be credited towards qualifications. Therefore, provide only the attendance and/or degrees from
+ schools accredited by accrediting institutions recognized by the U.S. Department of Education.
+
+ Failure to provide all of the required information as stated in this vacancy announcement may result in an ineligible rating or may affect the overall rating.
+
+How to Apply
+
+ Help
+
+To apply to this announcement go to the website: https://www.usajobs.gov/Search/Results?a=FC00&k=Federal%20Communications%20Commission
+
+As outlined in the "Required Documents Details" section of the announcement, resumes must meet be no longer than two pages in length and must meet the resume formatting requirements.
+
+Your application, including resume, all supplemental documents, registration information and answers to job specific questions must be received no later than midnight U.S. Eastern time of the closing date. For more information on applying federal jobs, please check this webpage: https://help.usajobs.gov/faq/application/process
+
+If applying online poses a hardship, you may contact either the HR Specialist listed on the vacancy announcement or you may contact the Apply  Government Solutions help desk (prior to the closing date of the vacancy announcement) via e-mail at fedhirehelp@applygovernment.com or you may reach them directly at 866-656-6831. The Apply Government Solutions Help Desk is available Monday-Friday 7:00 am to 7:00 pm EST. NOTE: To be considered for an announced vacancy in the area of consideration within which the employee is eligible to compete, the employee must apply online using the Commission’s automated recruitment system. Employees must submit all necessary application materials identified in the announcement by the specified closing date.
+
+Qualified applicants may be further reviewed and rated by Subject Matter Experts to determine the validity of on-line question.
+
+The Career Transition Assistance Program (CTAP) is designed to afford selection priority to well-qualified, internal FCC employees who meet the definition of a “surplus” or “displaced” employee. To be eligible for consideration under CTAP, you must be a current FCC employee who has received an official notice stating that your position is no longer needed, or that you will be separated by reduction in force (RIF). The following categories of candidates are considered displaced Employees:
+
+• Current or former career or career-conditional (tenure group I or II) competitive service employees who:
+
+1. Received a specific RIF separation notice; or
+
+2. Separated because of a compensable injury, whose compensation has been terminated, and whose former agency certifies that it is unable to place; or
+
+3. Retired with a disability and whose disability annuity has been or is being terminated; or
+
+4. Upon receipt of a RIF separation notice retired on the effective date of the RIF and submits a Standard Form 50 that indicates "Retirement in lieu of RIF", or
+
+5. Retired under the discontinued service retirement option, or
+
+6. Was separated because he/she declined a transfer of function or directed reassignment to another commuting area.
+
+In addition, the following categories of candidates are also considered displaced Employees:
+
+• Former Military Reserve or National Guard Technicians who are receiving a special Office of Personnel Management (OPM) disability retirement annuity under section 337 (h) or 8456 of title 5 United States Code.
+
+• Be applying for a position at or below the grade level of the position from which you have been separated. The position must not have a greater promotion potential than the position from which you were separated.
+
+• Have a current (or last) performance rating of record of at least fully successful or equivalent. This must be submitted with your application package. (This requirement does not apply to candidates who are eligible due to compensable injury or disability retirement.
+
+• Occupy or be displaced from a position in the same local commuting area of the position for which you are requesting priority consideration.To apply to this announcement go to the website: https://www.usajobs.gov/Search/Results?a=FC00&k=Federal%20Communications%20Commission
+
+NOTE: To be considered for an announced vacancy in the area of consideration within which the employee is eligible to compete, the employee must apply online using the Commission’s automated recruitment system. Employees must submit all necessary application materials identified in the announcement by the specified closing date.
+
+Agency contact information
+
+ Patrice Jefferson
+
+Phone
+
+ 202-418-0976
+
+Email
+
+ Patrice.Jefferson@fcc.gov
+
+Address
+
+ Federal Communications Commission
+
+ 45 L St NE
+
+ Washington, District of Columbia 20554
+
+ United States
+
+Next steps
+
+Once your complete application is received, we will conduct an evaluation of your qualifications to determine your ranking.  The best-qualified candidates will be referred to the hiring official for further consideration and possible interview.  You will be notified of the outcome.
+
+Fair and transparent
+
+The Federal hiring process is set up to be fair and transparent. Please read the following guidance.
+
+ Criminal history inquiries
+
+ Equal Employment Opportunity (EEO) Policy
+
+ Financial suitability
+
+ New employee probationary period
+
+ Privacy Act
+
+ Reasonable accommodation policy
+
+ Selective Service
+
+ Signature and false statements
+
+ Social security number request
+
+Required Documents
+
+ Help
+
+Your resume should include relevant work experience, applicable education and your contact information. For current or previous federal employees, include the pay plan, series and grade.
+
+Your SF-50 shows a federal position you've held, grade level and duty location. Your SF-50 can support position changes, conversions or separation for employment eligibility.
+
+Transcripts may support your qualifications for a federal job and can include high school, college or other schools.
+
+Merit Hiring Plan Resume Requirements
+
+In compliance with Executive Order 14170, Reforming the Federal Hiring Process and Restoring Merit to Government Service resumes must not be longer than two pages in length. The resume must address minimum qualifications and other requirements listed in the job announcement.
+
+Resumes must include all of the following information outlined below:
+
+Contact Information
+
+Name and how best to contact you, including email address and phone number.
+
+Relevant Work Experience
+
+Job Title and Employer (including series and grade for any Federal positions)
+
+Start and end dates with month/year (e.g., 05/2019 –08/2022)
+
+The number of hours you worked per week
+
+Ensure work experience descriptions are aligned with the job announcement and address all required qualifications. Brief descriptions should demonstrate your ability to perform the tasks at the required level as stated in the job announcement.
+
+Resumes must be formatted as outlined above. If the two page resume criteria and/or the resume formatting requirement is not met candidates will be rated as ineligible and will not be referred for hiring consideration.
+
+The FCC is providing the following applicant resume resources:
+
+Applicant Guidance on the Two-Page Resume Limit
+
+USAjobs-How to Write a Federal Resume
+
+ALL SUPPLEMENTAL DOCUMENTS MUST BE UPLOADED BY THE CLOSING DATE OF THIS ANNOUNCEMENT.  If applying online poses a hardship, you may contact either the HR Specialist listed on the vacancy announcement or you may contact the Monster Government Solutions help desk (prior to the closing date of the vacancy announcement) via e-mail at mgshelp@monster.com or you may reach them directly at 866-656-6831. The Monster Help Desk is available Monday-Friday 7:00 am to 7:00 pm EST.
+
+Supplement Documents Required: Employees must provide a legible Personnel Action, SF-50, that verifies your status and highest permanently held grade.  If an SF-50 is not submitted, the application will be rated as ineligible.
+
+ALL FCC EMPLOYEES MUST provide a legible Personnel Action, SF-50, that verifies your status and highest permanently held grade.  If an SF-50 is not submitted, the application will be rated as ineligible. To request a copy of your SF-50 please send an email to PersonnelRecordsRequest@fcc.gov
+
+ If you are relying on your education to meet qualification requirements:
+
+ Education must be accredited by an accrediting institution recognized by the U.S. Department of Education in order for it to be credited towards qualifications. Therefore, provide only the attendance and/or degrees from
+ schools accredited by accrediting institutions recognized by the U.S. Department of Education.
+
+ Failure to provide all of the required information as stated in this vacancy announcement may result in an ineligible rating or may affect the overall rating.
+
+How to Apply
+
+ Help
+
+To apply to this announcement go to the website: https://www.usajobs.gov/Search/Results?a=FC00&k=Federal%20Communications%20Commission
+
+As outlined in the "Required Documents Details" section of the announcement, resumes must meet be no longer than two pages in length and must meet the resume formatting requirements.
+
+Your application, including resume, all supplemental documents, registration information and answers to job specific questions must be received no later than midnight U.S. Eastern time of the closing date. For more information on applying federal jobs, please check this webpage: https://help.usajobs.gov/faq/application/process
+
+If applying online poses a hardship, you may contact either the HR Specialist listed on the vacancy announcement or you may contact the Apply  Government Solutions help desk (prior to the closing date of the vacancy announcement) via e-mail at fedhirehelp@applygovernment.com or you may reach them directly at 866-656-6831. The Apply Government Solutions Help Desk is available Monday-Friday 7:00 am to 7:00 pm EST. NOTE: To be considered for an announced vacancy in the area of consideration within which the employee is eligible to compete, the employee must apply online using the Commission’s automated recruitment system. Employees must submit all necessary application materials identified in the announcement by the specified closing date.
+
+Qualified applicants may be further reviewed and rated by Subject Matter Experts to determine the validity of on-line question.
+
+The Career Transition Assistance Program (CTAP) is designed to afford selection priority to well-qualified, internal FCC employees who meet the definition of a “surplus” or “displaced” employee. To be eligible for consideration under CTAP, you must be a current FCC employee who has received an official notice stating that your position is no longer needed, or that you will be separated by reduction in force (RIF). The following categories of candidates are considered displaced Employees:
+
+• Current or former career or career-conditional (tenure group I or II) competitive service employees who:
+
+1. Received a specific RIF separation notice; or
+
+2. Separated because of a compensable injury, whose compensation has been terminated, and whose former agency certifies that it is unable to place; or
+
+3. Retired with a disability and whose disability annuity has been or is being terminated; or
+
+4. Upon receipt of a RIF separation notice retired on the effective date of the RIF and submits a Standard Form 50 that indicates "Retirement in lieu of RIF", or
+
+5. Retired under the discontinued service retirement option, or
+
+6. Was separated because he/she declined a transfer of function or directed reassignment to another commuting area.
+
+In addition, the following categories of candidates are also considered displaced Employees:
+
+• Former Military Reserve or National Guard Technicians who are receiving a special Office of Personnel Management (OPM) disability retirement annuity under section 337 (h) or 8456 of title 5 United States Code.
+
+• Be applying for a position at or below the grade level of the position from which you have been separated. The position must not have a greater promotion potential than the position from which you were separated.
+
+• Have a current (or last) performance rating of record of at least fully successful or equivalent. This must be submitted with your application package. (This requirement does not apply to candidates who are eligible due to compensable injury or disability retirement.
+
+• Occupy or be displaced from a position in the same local commuting area of the position for which you are requesting priority consideration.To apply to this announcement go to the website: https://www.usajobs.gov/Search/Results?a=FC00&k=Federal%20Communications%20Commission
+
+NOTE: To be considered for an announced vacancy in the area of consideration within which the employee is eligible to compete, the employee must apply online using the Commission’s automated recruitment system. Employees must submit all necessary application materials identified in the announcement by the specified closing date.
+
+ Expand Hide  how to apply
+
+Agency contact information
+
+ Patrice Jefferson
+
+Phone
+
+ 202-418-0976
+
+Email
+
+ Patrice.Jefferson@fcc.gov
+
+Address
+
+ Federal Communications Commission
+
+ 45 L St NE
+
+ Washington, District of Columbia 20554
+
+ United States
+
+Next steps
+
+Once your complete application is received, we will conduct an evaluation of your qualifications to determine your ranking.  The best-qualified candidates will be referred to the hiring official for further consideration and possible interview.  You will be notified of the outcome.
+
+ Expand Hide  next steps
+
+Fair and transparent
+
+The Federal hiring process is set up to be fair and transparent. Please read the following guidance.
+
+ Criminal history inquiries
+
+ Equal Employment Opportunity (EEO) Policy
+
+ Financial suitability
+
+ New employee probationary period
+
+ Privacy Act
+
+ Reasonable accommodation policy
+
+ Selective Service
+
+ Signature and false statements
+
+ Social security number request
+
+ Federal Communications Commission
+
+The FCC, a U.S. government agency overseen by Congress, was established by the Communications Act of 1934 and is charged with regulating interstate and international communications by radio, television, wire, satellite and cable. The FCC is the federal agency responsible for implementing and enforcing America’s communications law and regulations, and its jurisdiction covers the 50 states, the District of Columbia, and U.S. possessions.
+
+Agency contact information
+
+ Patrice Jefferson
+
+Phone
+
+ 202-418-0976
+
+Email
+
+ Patrice.Jefferson@fcc.gov
+
+Address
+
+ Federal Communications Commission
+
+ 45 L St NE
+
+ Washington, District of Columbia 20554
+
+ United States
+
+Summary
+
+This position is located in the Space Bureau , Federal Communications Commission (FCC) located in Washington, DC.
+
+Relocation expenses will not be paid.
+
+THIS VACANCY ANNOUNCEMENT MAY BE USED TO FILL ADDITIONAL POSITIONS WITHIN 90 DAYS.
+
+ Learn more about this agency
+
+Overview
+
+ Help
+
+Accepting applications
+
+Location
+
+1 vacancy in the following location:
+
+ 45 L St, NE
+
+Washington, DC
+
+1 vacancy
+
+ No matching locations found.
+
+Work site options
+
+Telework eligible
+
+Yes—as determined by the agency policy.
+
+Remote job
+
+No
+
+Relocation expenses reimbursed
+
+ No
+
+Salary
+
+ $85,447 - $111,087 per year
+
+Pay scale & grade
+
+GS 11
+
+Promotion potential
+
+12
+
+ Learn more about pay scale and grade
+
+ Pay scale and grade determines the salary of the job.
+
+Work schedule
+
+Full-time - This is a full-time position. Work schedules, including telework, are at the discretion of the supervisor, consistent with agency policy.
+
+Travel Required
+
+Not required
+
+Appointment type
+
+Permanent
+
+Occupations and job series
+
+ 1560 Data Science Series
+
+Supervisory status
+
+No
+
+Federal service type
+
+This job is in the Competitive Service
+
+Represented by a union
+
+No
+
+Drug test
+
+No
+
+Security clearance
+
+Not Required
+
+Financial disclosure required
+
+No
+
+ Some jobs require
+ financial disclosure to identify conflicts of interests.
+
+Announcement number
+
+FCC-SB-2027-001
+
+Control number
+
+890435300
+
+ Previous result
+
+Next result
+
+Your session is about to expire!
+
+ Your USAJOBS session will expire due to inactivity in 8 minutes.
+ Any unsaved data will be lost if you allow the session to expire.
+ Click the button below to continue your session.
+
+ Sign out
+ Stay signed in
+
+ Return to top
+
+USAJOBS is a Opens in a new windowUnited States Office of Personnel Management website.
+
+ (Opens in a new window) OPM on LinkedIn
+
+ (Opens in a new window) OPM YouTube channel
+
+ (Opens in a new window) OPM on X
+
+Opens in a new windowEEO Policy Statement
+
+Opens in a new windowReasonable Accommodation Policy Statement
+
+Veterans Information
+
+Opens in a new windowLegal and Regulatory Guidance
+
+About USAJOBS
+
+Opens in a new windowAccessibility
+
+Opens in a new windowFOIA
+
+Opens in a new windowInspector general
+
+Opens in a new windowNo Fear Act Data
+
+Opens in a new windowPrivacy policy
+
+Opens in a new windowReports and publications
+
+Opens in a new windowTerms and conditions
+
+Opens in a new windowUSA.gov

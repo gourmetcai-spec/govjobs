@@ -1,0 +1,91 @@
+{
+  "title": "Information Technology Specialist (Applications Software)",
+  "requisition_id": "26-13099476-JE",
+  "canonical_url": "https://www.usajobs.gov/job/890935200",
+  "application_url": "https://www.usajobs.gov/job/890935200",
+  "posted_date": "2026-11-02",
+  "posted_date_evidence": "Official announcement JobPosting.datePosted; corroborated by native search PositionStartDate where listed.",
+  "close_date": "2026-11-16",
+  "deadline_timezone": "America/New_York",
+  "deadline_time": "23:59",
+  "deadline_source": "https://www.usajobs.gov/job/890935200",
+  "deadline_verified": true,
+  "early_closure_conditions": [],
+  "rolling_cutoff": null,
+  "location": "Washington, DC",
+  "remote_restrictions": "Offered DMV work location; verify telework/attendance and screening conditions in announcement.",
+  "salary": "Starting at $111,146 Per year (FP 3)",
+  "retrieved_at": "2026-11-02T23:14:54.501767+00:00",
+  "control_number": "890935200",
+  "fit": "Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.",
+  "gaps": "Hiring-path eligibility unverified: Internal to an agency, Peace Corps & AmeriCorps Vista. Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Verify .NET experience against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them. Possible companion hiring-route announcement(s): 55d235c710f8f21f. Reconcile before submission; do not submit twice to the same vacancy.",
+  "requirements_confirmed_unmet": [],
+  "requirements_unverified": [
+    "Hiring-path eligibility unverified: Internal to an agency, Peace Corps & AmeriCorps Vista. Confirm qualifying status before application; absence from baseline is not proof of ineligibility.",
+    "Verify .NET experience against the exact qualification clause; not established by the baseline alone.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.",
+    "Possible companion hiring-route announcement(s): 55d235c710f8f21f. Reconcile before submission; do not submit twice to the same vacancy."
+  ],
+  "preferred_requirements_note": "See official qualifications/education sections; missing evidence does not establish an unmet requirement.",
+  "hiring_paths": [
+    "Internal to an agency",
+    "Peace Corps & AmeriCorps Vista"
+  ],
+  "open_evidence": "Official announcement downloaded successfully; validThrough and native open-status evidence retained.",
+  "discovery_window": [
+    "2026-09-02",
+    "2026-11-02"
+  ],
+  "employer": "Peace Corps",
+  "status": "needs_verification",
+  "aliases": [],
+  "id": "6ddc9503db8ec928",
+  "application_directory": "applications/2026-11-02__peace-corps__information-technology-specialist-applications-software__6ddc9503db8ec928",
+  "step": 1,
+  "selected": false,
+  "submitted": false,
+  "artifacts": {
+    "resume_markdown": {
+      "path": "applications/2026-11-02__peace-corps__information-technology-specialist-applications-software__6ddc9503db8ec928/resume-xuewu-cai__peace-corps__information-technology-specialist-applications-software__890935200.md",
+      "sha256": "9e36236e0facfa0b05b2b65486ecc459d45dea4d381737408a72dd361be81d07"
+    },
+    "resume_pdf": {
+      "path": "applications/2026-11-02__peace-corps__information-technology-specialist-applications-software__6ddc9503db8ec928/resume-xuewu-cai__peace-corps__information-technology-specialist-applications-software__890935200.pdf",
+      "sha256": "b1bdcf1142ca2f25abb68110e7bf1867c4aab569d4107a849ca0727b593f319c"
+    }
+  },
+  "artifact_versions": [
+    {
+      "revision_id": "2026-11-02T23:14:54.501767+00:00",
+      "artifacts": {
+        "resume_markdown": {
+          "path": "applications/2026-11-02__peace-corps__information-technology-specialist-applications-software__6ddc9503db8ec928/resume-xuewu-cai__peace-corps__information-technology-specialist-applications-software__890935200.md",
+          "sha256": "9e36236e0facfa0b05b2b65486ecc459d45dea4d381737408a72dd361be81d07"
+        },
+        "resume_pdf": {
+          "path": "applications/2026-11-02__peace-corps__information-technology-specialist-applications-software__6ddc9503db8ec928/resume-xuewu-cai__peace-corps__information-technology-specialist-applications-software__890935200.pdf",
+          "sha256": "b1bdcf1142ca2f25abb68110e7bf1867c4aab569d4107a849ca0727b593f319c"
+        }
+      },
+      "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a"
+    }
+  ],
+  "resume_status": "prepared_with_attention",
+  "resume_review": "Text and hashes verified; all 20 baseline experience bullets preserved with updated title. Two pages rendered in PDFKit; all 113 distinct page images visually reviewed across 10 boards (238 rendered pages total). No clipping, overlap or blank pages. Neutral metadata and no AI-editing/targeting labels. Candidate facts/qualifications marked as attention items; no submission.",
+  "required_answers_pending": [
+    "Hiring-path eligibility unverified: Internal to an agency, Peace Corps & AmeriCorps Vista. Confirm qualifying status before application; absence from baseline is not proof of ineligibility.",
+    "Verify .NET experience against the exact qualification clause; not established by the baseline alone.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.",
+    "Possible companion hiring-route announcement(s): 55d235c710f8f21f. Reconcile before submission; do not submit twice to the same vacancy."
+  ],
+  "confirmed_unmet_requirements": [],
+  "qualifications_verified": false,
+  "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a",
+  "resume_format": "restored_two_page",
+  "current_resume_naming": "unversioned",
+  "possible_companion_job_ids": [
+    "55d235c710f8f21f"
+  ],
+  "clearance_requirement": "Not Required",
+  "public_hiring_route_evidence": false
+}

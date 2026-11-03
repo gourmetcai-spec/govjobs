@@ -1,0 +1,91 @@
+{
+  "title": "FINANCIAL MANAGEMENT ANALYST",
+  "requisition_id": "ST-13101478-27-EIF",
+  "canonical_url": "https://www.usajobs.gov/job/890591200",
+  "application_url": "https://www.usajobs.gov/job/890591200",
+  "posted_date": "2026-10-29",
+  "posted_date_evidence": "Official announcement JobPosting.datePosted; corroborated by native search PositionStartDate where listed.",
+  "close_date": "2026-11-03",
+  "deadline_timezone": "America/New_York",
+  "deadline_time": "23:59",
+  "deadline_source": "https://www.usajobs.gov/job/890591200",
+  "deadline_verified": true,
+  "early_closure_conditions": [],
+  "rolling_cutoff": null,
+  "location": "Suffolk, VA",
+  "remote_restrictions": "Offered DMV work location; verify telework/attendance and screening conditions in announcement.",
+  "salary": "Starting at $51,210 Per year (GS 7-9)",
+  "retrieved_at": "2026-11-02T23:14:54.501767+00:00",
+  "control_number": "890591200",
+  "fit": "Financial forecasting, capital/ROE, quantitative risk and engineering leadership overlap; federal budget/accounting/policy specialties remain attention items.",
+  "gaps": "Hiring-path eligibility unverified: Internal to an agency, Career transition (CTAP, ICTAP, RPL), Land and base management, Veterans, Military spouses, Individuals with disabilities, Special authorities. Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.",
+  "requirements_confirmed_unmet": [],
+  "requirements_unverified": [
+    "Hiring-path eligibility unverified: Internal to an agency, Career transition (CTAP, ICTAP, RPL), Land and base management, Veterans, Military spouses, Individuals with disabilities, Special authorities. Confirm qualifying status before application; absence from baseline is not proof of ineligibility.",
+    "Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "preferred_requirements_note": "See official qualifications/education sections; missing evidence does not establish an unmet requirement.",
+  "hiring_paths": [
+    "Internal to an agency",
+    "Career transition (CTAP, ICTAP, RPL)",
+    "Land and base management",
+    "Veterans",
+    "Military spouses",
+    "Individuals with disabilities",
+    "Special authorities"
+  ],
+  "open_evidence": "Official announcement downloaded successfully; validThrough and native open-status evidence retained.",
+  "discovery_window": [
+    "2026-09-02",
+    "2026-11-02"
+  ],
+  "employer": "United States Fleet Forces Command",
+  "status": "needs_verification",
+  "aliases": [],
+  "id": "01e6ad44f9166e84",
+  "application_directory": "applications/2026-11-02__united-states-fleet-forces-command__financial-management-analyst__01e6ad44f9166e84",
+  "step": 1,
+  "selected": false,
+  "submitted": false,
+  "artifacts": {
+    "resume_markdown": {
+      "path": "applications/2026-11-02__united-states-fleet-forces-command__financial-management-analyst__01e6ad44f9166e84/resume-xuewu-cai__united-states-fleet-forces-command__financial-management-analyst__890591200.md",
+      "sha256": "14ce171a11e219cf195142cdf3dff7692d3c42612b0817f2f0b1a4340516a9df"
+    },
+    "resume_pdf": {
+      "path": "applications/2026-11-02__united-states-fleet-forces-command__financial-management-analyst__01e6ad44f9166e84/resume-xuewu-cai__united-states-fleet-forces-command__financial-management-analyst__890591200.pdf",
+      "sha256": "cdc1c502052f0530fcb8533c261ad77b96a18cc1f810d8ced89f4854d54cab6b"
+    }
+  },
+  "artifact_versions": [
+    {
+      "revision_id": "2026-11-02T23:14:54.501767+00:00",
+      "artifacts": {
+        "resume_markdown": {
+          "path": "applications/2026-11-02__united-states-fleet-forces-command__financial-management-analyst__01e6ad44f9166e84/resume-xuewu-cai__united-states-fleet-forces-command__financial-management-analyst__890591200.md",
+          "sha256": "14ce171a11e219cf195142cdf3dff7692d3c42612b0817f2f0b1a4340516a9df"
+        },
+        "resume_pdf": {
+          "path": "applications/2026-11-02__united-states-fleet-forces-command__financial-management-analyst__01e6ad44f9166e84/resume-xuewu-cai__united-states-fleet-forces-command__financial-management-analyst__890591200.pdf",
+          "sha256": "cdc1c502052f0530fcb8533c261ad77b96a18cc1f810d8ced89f4854d54cab6b"
+        }
+      },
+      "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a"
+    }
+  ],
+  "resume_status": "prepared_with_attention",
+  "resume_review": "Text and hashes verified; all 20 baseline experience bullets preserved with updated title. Two pages rendered in PDFKit; all 113 distinct page images visually reviewed across 10 boards (238 rendered pages total). No clipping, overlap or blank pages. Neutral metadata and no AI-editing/targeting labels. Candidate facts/qualifications marked as attention items; no submission.",
+  "required_answers_pending": [
+    "Hiring-path eligibility unverified: Internal to an agency, Career transition (CTAP, ICTAP, RPL), Land and base management, Veterans, Military spouses, Individuals with disabilities, Special authorities. Confirm qualifying status before application; absence from baseline is not proof of ineligibility.",
+    "Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "confirmed_unmet_requirements": [],
+  "qualifications_verified": false,
+  "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a",
+  "resume_format": "restored_two_page",
+  "current_resume_naming": "unversioned",
+  "clearance_requirement": "Secret",
+  "public_hiring_route_evidence": false
+}

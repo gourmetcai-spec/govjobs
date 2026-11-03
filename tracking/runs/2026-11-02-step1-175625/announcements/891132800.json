@@ -1,0 +1,32 @@
+{
+  "@context": "http://www.schema.org",
+  "@type": "JobPosting",
+  "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": {
+      "@type": "QuantitativeValue",
+      "value": 117962.0,
+      "unitText": "YEAR"
+    }
+  },
+  "datePosted": "10/30/2026",
+  "description": "This position is located in the Strategic Management Division of the District of Columbia Courts. The division provides innovative strategies and evidence-based information to develop policies, enhance the administration of justice, and improve the quality of services at the Courts. The incumbent in this role will be responsible for supporting the division's efforts to build the Courts' capacity to develop, collect, analyze and generate data and reports to enhance evidence-based decision-making.",
+  "educationRequirements": "<p>You must upload a copy of your college transcript or degree for consideration. The transcript must show the name of the college or university, your name, degree conferred date, a list of courses with credit hours, major(s), and grade-point average or class ranking.</p>\n\n<p><strong>Foreign Education:</strong> If you are using foreign education to meet qualification requirements, you must upload a Certificate of Foreign Equivalency with your transcript at the time of application to receive credit for that education. For further information, visit: <a href=\"https://sites.ed.gov/international/recognition-of-foreign-qualifications/\">https://sites.ed.gov/international/recognition-of-foreign-qualifications/</a></p>",
+  "employmentType": "OTHER",
+  "hiringOrganization": "District of Columbia Courts",
+  "jobLocation": [
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Washington",
+        "addressRegion": "DC "
+      }
+    }
+  ],
+  "responsibilities": "<strong>Brief Duties of the Position:</strong>\n<ul>\n\t<li>Develops computational algorithms and statistical methods to find patterns and relationships in multiple database sources.</li>\n\t<li>Develops, manipulates, and manages scripts, queries, or software code to accomplish specific requirements or tasks. Designs, builds, and tests data models, algorithms, and predictive models.</li>\n\t<li>Identifies and utilizes predictive modeling and machine learning techniques to improve program and operational processes and the agency's overall data quality.</li>\n\t<li>Provides informed data-driven insights leading to process and operational recommendations for the Courts and its stakeholders.</li>\n\t<li>Applies computational and machine learning methods to new or large data sets to identify new insights using analytical tools, including spreadsheets, databases, programming languages, and statistical or visualization software.</li>\n\t<li>Conducts data quality reviews on court-wide caseload data from the enterprise data warehouse and major case processing systems. Advises and consults with directors, managers, data points of contact, or discrepancies and works to obtain resolution; drafts performance analysis and reports.</li>\n\t<li>Develop and maintain data pipelines, scripts, documentation, and analytical methods to support long-term usability, transparency, and organizational knowledge sharing. Provides scientific, statistical, and technical consultation on applying the best applicable practices and new techniques.</li>\n\t<li>Support enterprise data governance by ensuring proper data handling, documentation, access controls, and participation in development processes that enable secure and efficient data use.</li>\n\t<li>Develops and executes business intelligence analysis and reports for the Courts. Works closely with IT and other Court divisions to ensure data integrity across the Courts.</li>\n\t<li>Codes with languages such as python or R and uses SQL and other data processing and analytics tools and software to analyze data sets, and uses data visualization tools such as MS Power BI, Tableau, MS Excel, and others to generate reports and develop compelling stories that convey statistical or technical information to non-technical audiences.</li>\n</ul>",
+  "qualifications": "Minimum Qualifications: A bachelors degree from an accredited university or college and at least five (5) years collecting and analyzing data utilizing databases and PC software to prepare statistical reports.<br>\n<br>\nThe incumbent should be an enthusiastic and engaged professional who enjoys working with a diverse group of Court personnel and customers and lives the DC Courts' values of Accountability, Excellence, Fairness, Integrity, Respect, and Transparency.",
+  "title": "Data Scientist",
+  "validThrough": "2026-11-13"
+}

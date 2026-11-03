@@ -1,0 +1,667 @@
+USAJOBS - Job Announcement
+
+ Skip to main content
+
+ An official website of the United States government
+
+Official websites use .gov
+
+A .gov website belongs to an official government organization in the United States.
+
+Secure .gov websites use HTTPS
+ A lock ( LockA locked padlock ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.
+
+ MENU
+
+ Sign in
+
+ My jobs
+
+ Profile
+
+ Resumes & documents
+
+ Notifications
+
+ Talent networks
+
+ Sign out
+
+ My jobs
+
+ Profile
+
+ Resumes & documents
+
+ Notifications
+
+ Talent networks
+
+ Sign out
+
+ Events
+
+ Help Center
+
+ Search
+
+ Back to results
+
+ Apply
+
+ Data Scientist
+
+District of Columbia Courts
+
+Strategic Management Division
+
+Apply
+
+ Print
+
+ Share
+
+ Save
+
+ Summary
+
+ This job is open to
+
+ Duties
+
+ Requirements
+
+ How you will be evaluated
+
+ Required documents
+
+ How to apply
+
+Summary
+
+This position is located in the Strategic Management Division of the District of Columbia Courts. The division provides innovative strategies and evidence-based information to develop policies, enhance the administration of justice, and improve the quality of services at the Courts. The incumbent in this role will be responsible for supporting the division's efforts to build the Courts' capacity to develop, collect, analyze and generate data and reports to enhance evidence-based decision-making.
+
+ Learn more about this agency
+
+Summary
+
+This position is located in the Strategic Management Division of the District of Columbia Courts. The division provides innovative strategies and evidence-based information to develop policies, enhance the administration of justice, and improve the quality of services at the Courts. The incumbent in this role will be responsible for supporting the division's efforts to build the Courts' capacity to develop, collect, analyze and generate data and reports to enhance evidence-based decision-making.
+
+ Learn more about this agency
+
+Overview
+
+ Help
+
+Accepting applications
+
+Location
+
+ Washington, DC
+
+1 vacancy
+
+ No matching locations found.
+
+Work site options
+
+Telework eligible
+
+Yes—as determined by the agency policy.
+
+Remote job
+
+No
+
+Relocation expenses reimbursed
+
+ No
+
+Salary
+
+ $117,962 - $153,354 per year
+
+Pay scale & grade
+
+JS 13
+
+Promotion potential
+
+13
+
+ Learn more about pay scale and grade
+
+ Pay scale and grade determines the salary of the job.
+
+Work schedule
+
+Full-time
+
+Travel Required
+
+25% or less - You may be expected to travel for this position.
+
+Appointment type
+
+Permanent
+
+Occupations and job series
+
+ 1560 Data Science Series
+
+Supervisory status
+
+No
+
+Federal service type
+
+This job is in the Competitive Service
+
+Represented by a union
+
+No
+
+Drug test
+
+No
+
+Security clearance
+
+Not Required
+
+Position sensitivity and risk
+
+Noncritical-Sensitive (NCS)/Moderate Risk
+
+ Jobs require a
+ background check and some require a
+ security clearance. The type depends on the job.
+
+Background check type
+
+ Suitability/Fitness
+
+Financial disclosure required
+
+No
+
+ Some jobs require
+ financial disclosure to identify conflicts of interests.
+
+Announcement number
+
+SMD-27-13103454
+
+Control number
+
+891132800
+
+This job is open to
+
+ Help
+
+The public
+
+ U.S. Citizens, Nationals or those who owe allegiance to the U.S.
+
+Clarification from the agency
+
+United States Citizens or individuals lawfully admitted for permanent residency or authorized by the United States Citizenship and Immigration Service to work in the United States.
+
+Duties
+
+ Help
+
+ Brief Duties of the Position:
+
+Develops computational algorithms and statistical methods to find patterns and relationships in multiple database sources.
+
+Develops, manipulates, and manages scripts, queries, or software code to accomplish specific requirements or tasks. Designs, builds, and tests data models, algorithms, and predictive models.
+
+Identifies and utilizes predictive modeling and machine learning techniques to improve program and operational processes and the agency's overall data quality.
+
+Provides informed data-driven insights leading to process and operational recommendations for the Courts and its stakeholders.
+
+Applies computational and machine learning methods to new or large data sets to identify new insights using analytical tools, including spreadsheets, databases, programming languages, and statistical or visualization software.
+
+Conducts data quality reviews on court-wide caseload data from the enterprise data warehouse and major case processing systems. Advises and consults with directors, managers, data points of contact, or discrepancies and works to obtain resolution; drafts performance analysis and reports.
+
+Develop and maintain data pipelines, scripts, documentation, and analytical methods to support long-term usability, transparency, and organizational knowledge sharing. Provides scientific, statistical, and technical consultation on applying the best applicable practices and new techniques.
+
+Support enterprise data governance by ensuring proper data handling, documentation, access controls, and participation in development processes that enable secure and efficient data use.
+
+Develops and executes business intelligence analysis and reports for the Courts. Works closely with IT and other Court divisions to ensure data integrity across the Courts.
+
+Codes with languages such as python or R and uses SQL and other data processing and analytics tools and software to analyze data sets, and uses data visualization tools such as MS Power BI, Tableau, MS Excel, and others to generate reports and develop compelling stories that convey statistical or technical information to non-technical audiences.
+
+Requirements
+
+ Help
+
+Conditions of employment
+
+A background and security investigation is required.
+
+A probationary period of one (1) year must be successfully completed.
+
+Qualifications
+
+ Minimum Qualifications: A bachelors degree from an accredited university or college and at least five (5) years collecting and analyzing data utilizing databases and PC software to prepare statistical reports.
+
+The incumbent should be an enthusiastic and engaged professional who enjoys working with a diverse group of Court personnel and customers and lives the DC Courts' values of Accountability, Excellence, Fairness, Integrity, Respect, and Transparency.
+
+Education
+
+You must upload a copy of your college transcript or degree for consideration. The transcript must show the name of the college or university, your name, degree conferred date, a list of courses with credit hours, major(s), and grade-point average or class ranking.
+
+Foreign Education: If you are using foreign education to meet qualification requirements, you must upload a Certificate of Foreign Equivalency with your transcript at the time of application to receive credit for that education. For further information, visit: https://sites.ed.gov/international/recognition-of-foreign-qualifications/
+
+Additional information
+
+This job is being filled by an alternative hiring process and is not in the competitive Federal civil service.
+
+Please note there is a mandatory one-year probationary period for all new court employees.
+
+All required information must be received by the vacancy announcement closing date.
+
+ Expand Hide  additional information
+
+Candidates should be committed to improving the efficiency of the Federal government, passionate about the ideals of our American republic, and committed to upholding the rule of law and the United States Constitution.
+
+Benefits
+
+ Help
+
+This is not a federal position.
+
+The District of Columbia Courts is an independent branch of the District of Columbia Government and is not under the authority of the City Mayor or the D. C. Council. DC Courts' appropriation comes directly from Congress. All DC Courts non-judicial employees receive federal benefits for the following programs: Life Insurance, Retirement Benefits, Health Insurance and Workers Compensation.
+
+Please click on the following for more information about these benefits: http://www.opm.gov/Insure/health/enrollment/new_employees.asp
+
+The DC Courts leave policy is as follows:
+
+Annual Leave: New full-time employees earn four (4) hours of annual leave biweekly. After three years of service this increases to six (6) hours biweekly, and at 15 years it increases to eight (8) hours biweekly. Most military, federal and District of Columbia government service counts toward the time required to go into the next higher annual leave category. Employees can carry over no more than 240 hours of annual leave into the next leave year.
+
+Sick Leave is used for personal medical needs, care of a family member, or adoption related purposes. Full-time employees earn four (4) hours of sick leave biweekly. This leave can be accrued without limit.
+
+In addition to the federal health plans, the DC Courts offer employees supplemental vision and dental plans as well as a commuter transit benefit subsidy, for a maximum of $150 a month. There are 26 pay periods in the year.
+
+How you will be evaluated
+
+You will be evaluated for this job based on how well you meet the qualifications above.
+
+You will be evaluated for this job based on how well you meet the qualifications above.
+
+Upon receipt of your complete application package, a review of your application will be made to ensure that you meet the basic qualification requirements. Answers submitted in the questionnaire must be supported by your resume. Your resume must reflect the relevant experience and demonstrate that you meet the minimum qualifications, or your application will not be considered.
+
+You may preview the assessment questionnaire by clicking here:https://apply.usastaffing.gov/ViewQuestionnaire/13103454
+
+Benefits
+
+ Help
+
+This is not a federal position.
+
+The District of Columbia Courts is an independent branch of the District of Columbia Government and is not under the authority of the City Mayor or the D. C. Council. DC Courts' appropriation comes directly from Congress. All DC Courts non-judicial employees receive federal benefits for the following programs: Life Insurance, Retirement Benefits, Health Insurance and Workers Compensation.
+
+Please click on the following for more information about these benefits: http://www.opm.gov/Insure/health/enrollment/new_employees.asp
+
+The DC Courts leave policy is as follows:
+
+Annual Leave: New full-time employees earn four (4) hours of annual leave biweekly. After three years of service this increases to six (6) hours biweekly, and at 15 years it increases to eight (8) hours biweekly. Most military, federal and District of Columbia government service counts toward the time required to go into the next higher annual leave category. Employees can carry over no more than 240 hours of annual leave into the next leave year.
+
+Sick Leave is used for personal medical needs, care of a family member, or adoption related purposes. Full-time employees earn four (4) hours of sick leave biweekly. This leave can be accrued without limit.
+
+In addition to the federal health plans, the DC Courts offer employees supplemental vision and dental plans as well as a commuter transit benefit subsidy, for a maximum of $150 a month. There are 26 pay periods in the year.
+
+Required documents
+
+Required Documents
+
+ Help
+
+The following documents must be submitted with your application:
+
+Resume
+
+Completed Vacancy Questionnaire
+
+Documentation /Proof of Education (e.g. copy of college transcript or degree)
+
+Three (3) professional references
+
+ If you are relying on your education to meet qualification requirements:
+
+ Education must be accredited by an accrediting institution recognized by the U.S. Department of Education in order for it to be credited towards qualifications. Therefore, provide only the attendance and/or degrees from
+ schools accredited by accrediting institutions recognized by the U.S. Department of Education.
+
+ Failure to provide all of the required information as stated in this vacancy announcement may result in an ineligible rating or may affect the overall rating.
+
+How to Apply
+
+ Help
+
+Please read the entire announcement and all the instructions before you begin the application. To apply and be considered for this position, you must complete all required questionnaires and assessments and submit all required documentation as specified in the How to Apply and Required Documents section. The complete application package must be submitted by 11:59 PM (ET) on the closing date of the announcement to receive consideration. The application process is as follows:
+
+1. Click the Apply Online button.
+
+2. Answer the questions presented in the application and attach all necessary supporting documentation.
+
+3. Click the Submit Application button before 11:59 PM (ET) on the announcement closing date.
+
+To update your application, including supporting documentation: During the announcement open period, return to your USAJOBS account, find your application record, and click Edit my application. This option will no longer be available once the announcement has closed.
+
+To view the announcement status or your application status: Click on this: https://www.usajobs.gov/Help/how-to/application/status/. Your application status page is where you can view your application status, USA Hire assessment completion status, and review your notifications sent by the hiring agency regarding your application.
+
+Agency contact information
+
+ DC Courts Human Resources
+
+Email
+
+ jobs@dccsystem.gov
+
+Address
+
+ District of Columbia Courts
+
+ 500 Indiana Ave NW
+
+ Washington, DC 20001
+
+ US
+
+Next steps
+
+Once your completed application is received, the qualified candidates will be referred to the hiring manager for further consideration and possible interview. All applicants will be notified of the final outcome.
+
+Fair and transparent
+
+The Federal hiring process is set up to be fair and transparent. Please read the following guidance.
+
+ Criminal history inquiries
+
+ Equal Employment Opportunity (EEO) Policy
+
+ Financial suitability
+
+ New employee probationary period
+
+ Privacy Act
+
+ Reasonable accommodation policy
+
+ Selective Service
+
+ Signature and false statements
+
+ Social security number request
+
+Required Documents
+
+ Help
+
+The following documents must be submitted with your application:
+
+Resume
+
+Completed Vacancy Questionnaire
+
+Documentation /Proof of Education (e.g. copy of college transcript or degree)
+
+Three (3) professional references
+
+ If you are relying on your education to meet qualification requirements:
+
+ Education must be accredited by an accrediting institution recognized by the U.S. Department of Education in order for it to be credited towards qualifications. Therefore, provide only the attendance and/or degrees from
+ schools accredited by accrediting institutions recognized by the U.S. Department of Education.
+
+ Failure to provide all of the required information as stated in this vacancy announcement may result in an ineligible rating or may affect the overall rating.
+
+How to Apply
+
+ Help
+
+Please read the entire announcement and all the instructions before you begin the application. To apply and be considered for this position, you must complete all required questionnaires and assessments and submit all required documentation as specified in the How to Apply and Required Documents section. The complete application package must be submitted by 11:59 PM (ET) on the closing date of the announcement to receive consideration. The application process is as follows:
+
+1. Click the Apply Online button.
+
+2. Answer the questions presented in the application and attach all necessary supporting documentation.
+
+3. Click the Submit Application button before 11:59 PM (ET) on the announcement closing date.
+
+To update your application, including supporting documentation: During the announcement open period, return to your USAJOBS account, find your application record, and click Edit my application. This option will no longer be available once the announcement has closed.
+
+To view the announcement status or your application status: Click on this: https://www.usajobs.gov/Help/how-to/application/status/. Your application status page is where you can view your application status, USA Hire assessment completion status, and review your notifications sent by the hiring agency regarding your application.
+
+ Expand Hide  how to apply
+
+Agency contact information
+
+ DC Courts Human Resources
+
+Email
+
+ jobs@dccsystem.gov
+
+Address
+
+ District of Columbia Courts
+
+ 500 Indiana Ave NW
+
+ Washington, DC 20001
+
+ US
+
+Next steps
+
+Once your completed application is received, the qualified candidates will be referred to the hiring manager for further consideration and possible interview. All applicants will be notified of the final outcome.
+
+ Expand Hide  next steps
+
+Fair and transparent
+
+The Federal hiring process is set up to be fair and transparent. Please read the following guidance.
+
+ Criminal history inquiries
+
+ Equal Employment Opportunity (EEO) Policy
+
+ Financial suitability
+
+ New employee probationary period
+
+ Privacy Act
+
+ Reasonable accommodation policy
+
+ Selective Service
+
+ Signature and false statements
+
+ Social security number request
+
+ District of Columbia Courts
+
+ "Open to All, Trusted by All, Justice for All." The District of Columbia Courts (the Courts) consist of the Court of Appeals, the Superior Court, and the Court System. The Courts constitutes the Judicial Branch of the District of Columbia Government, and is separate and distinct from the Executive and Legislative Branches. The Courts' strong judiciary and workforce are its most important assets in providing high quality justice and service to the public.
+
+Agency contact information
+
+ DC Courts Human Resources
+
+Email
+
+ jobs@dccsystem.gov
+
+Address
+
+ District of Columbia Courts
+
+ 500 Indiana Ave NW
+
+ Washington, DC 20001
+
+ US
+
+Summary
+
+This position is located in the Strategic Management Division of the District of Columbia Courts. The division provides innovative strategies and evidence-based information to develop policies, enhance the administration of justice, and improve the quality of services at the Courts. The incumbent in this role will be responsible for supporting the division's efforts to build the Courts' capacity to develop, collect, analyze and generate data and reports to enhance evidence-based decision-making.
+
+ Learn more about this agency
+
+Overview
+
+ Help
+
+Accepting applications
+
+Location
+
+ Washington, DC
+
+1 vacancy
+
+ No matching locations found.
+
+Work site options
+
+Telework eligible
+
+Yes—as determined by the agency policy.
+
+Remote job
+
+No
+
+Relocation expenses reimbursed
+
+ No
+
+Salary
+
+ $117,962 - $153,354 per year
+
+Pay scale & grade
+
+JS 13
+
+Promotion potential
+
+13
+
+ Learn more about pay scale and grade
+
+ Pay scale and grade determines the salary of the job.
+
+Work schedule
+
+Full-time
+
+Travel Required
+
+25% or less - You may be expected to travel for this position.
+
+Appointment type
+
+Permanent
+
+Occupations and job series
+
+ 1560 Data Science Series
+
+Supervisory status
+
+No
+
+Federal service type
+
+This job is in the Competitive Service
+
+Represented by a union
+
+No
+
+Drug test
+
+No
+
+Security clearance
+
+Not Required
+
+Position sensitivity and risk
+
+Noncritical-Sensitive (NCS)/Moderate Risk
+
+ Jobs require a
+ background check and some require a
+ security clearance. The type depends on the job.
+
+Background check type
+
+ Suitability/Fitness
+
+Financial disclosure required
+
+No
+
+ Some jobs require
+ financial disclosure to identify conflicts of interests.
+
+Announcement number
+
+SMD-27-13103454
+
+Control number
+
+891132800
+
+ Previous result
+
+Next result
+
+Your session is about to expire!
+
+ Your USAJOBS session will expire due to inactivity in 8 minutes.
+ Any unsaved data will be lost if you allow the session to expire.
+ Click the button below to continue your session.
+
+ Sign out
+ Stay signed in
+
+ Return to top
+
+USAJOBS is a Opens in a new windowUnited States Office of Personnel Management website.
+
+ (Opens in a new window) OPM on LinkedIn
+
+ (Opens in a new window) OPM YouTube channel
+
+ (Opens in a new window) OPM on X
+
+Opens in a new windowEEO Policy Statement
+
+Opens in a new windowReasonable Accommodation Policy Statement
+
+Veterans Information
+
+Opens in a new windowLegal and Regulatory Guidance
+
+About USAJOBS
+
+Opens in a new windowAccessibility
+
+Opens in a new windowFOIA
+
+Opens in a new windowInspector general
+
+Opens in a new windowNo Fear Act Data
+
+Opens in a new windowPrivacy policy
+
+Opens in a new windowReports and publications
+
+Opens in a new windowTerms and conditions
+
+Opens in a new windowUSA.gov

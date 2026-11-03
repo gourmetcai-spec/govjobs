@@ -1,0 +1,90 @@
+{
+  "title": "OPERATIONS RESEARCH ANALYST",
+  "requisition_id": "C-27-DHA-1515-AB",
+  "canonical_url": "https://www.usajobs.gov/job/888512300",
+  "application_url": "https://www.usajobs.gov/job/888512300",
+  "posted_date": "2026-10-13",
+  "posted_date_evidence": "Official announcement JobPosting.datePosted; corroborated by native search PositionStartDate where listed.",
+  "close_date": "2027-09-30",
+  "deadline_timezone": "America/New_York",
+  "deadline_time": "23:59",
+  "deadline_source": "https://www.usajobs.gov/job/888512300",
+  "deadline_verified": true,
+  "early_closure_conditions": [],
+  "rolling_cutoff": null,
+  "location": "Andrews AFB, MD",
+  "remote_restrictions": "Offered DMV work location; verify telework/attendance and screening conditions in announcement.",
+  "salary": "Starting at $51,740 Per year (GS 7-9)",
+  "retrieved_at": "2026-11-02T23:14:54.501767+00:00",
+  "control_number": "888512300",
+  "fit": "Mathematics/CS education, Monte Carlo/statistical research, forecasting and decision-support modeling overlap; specialized domain/AI requirements need confirmation.",
+  "gaps": "Verify qualifying coursework and calculus credits against the exact qualification clause; not established by the baseline alone. Verify required GPA evidence against the exact qualification clause; not established by the baseline alone. Confirm graduate/student hiring-path dates and eligibility; degree completion dates are not in the baseline. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.",
+  "requirements_confirmed_unmet": [],
+  "requirements_unverified": [
+    "Verify qualifying coursework and calculus credits against the exact qualification clause; not established by the baseline alone.",
+    "Verify required GPA evidence against the exact qualification clause; not established by the baseline alone.",
+    "Confirm graduate/student hiring-path dates and eligibility; degree completion dates are not in the baseline.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "preferred_requirements_note": "See official qualifications/education sections; missing evidence does not establish an unmet requirement.",
+  "hiring_paths": [
+    "Open to the public",
+    "Competitive service",
+    "Veterans",
+    "Recent graduates"
+  ],
+  "open_evidence": "Official announcement downloaded successfully; validThrough and native open-status evidence retained.",
+  "discovery_window": [
+    "2026-09-02",
+    "2026-11-02"
+  ],
+  "employer": "Air Force Civilian Career Training",
+  "status": "needs_verification",
+  "aliases": [],
+  "id": "33c482923957ab17",
+  "application_directory": "applications/2026-11-02__air-force-civilian-career-training__operations-research-analyst__33c482923957ab17",
+  "step": 1,
+  "selected": false,
+  "submitted": false,
+  "artifacts": {
+    "resume_markdown": {
+      "path": "applications/2026-11-02__air-force-civilian-career-training__operations-research-analyst__33c482923957ab17/resume-xuewu-cai__air-force-civilian-career-training__operations-research-analyst__888512300.md",
+      "sha256": "3a698cadfc7b6ea4160db6a0de33dd6f7cb160d3dc263efe7ad1b33ab155e90e"
+    },
+    "resume_pdf": {
+      "path": "applications/2026-11-02__air-force-civilian-career-training__operations-research-analyst__33c482923957ab17/resume-xuewu-cai__air-force-civilian-career-training__operations-research-analyst__888512300.pdf",
+      "sha256": "3d167a8f8f0e98bc875948b2b5bc59fe9c1fd186ad22adee91d5416fe9c53baa"
+    }
+  },
+  "artifact_versions": [
+    {
+      "revision_id": "2026-11-02T23:14:54.501767+00:00",
+      "artifacts": {
+        "resume_markdown": {
+          "path": "applications/2026-11-02__air-force-civilian-career-training__operations-research-analyst__33c482923957ab17/resume-xuewu-cai__air-force-civilian-career-training__operations-research-analyst__888512300.md",
+          "sha256": "3a698cadfc7b6ea4160db6a0de33dd6f7cb160d3dc263efe7ad1b33ab155e90e"
+        },
+        "resume_pdf": {
+          "path": "applications/2026-11-02__air-force-civilian-career-training__operations-research-analyst__33c482923957ab17/resume-xuewu-cai__air-force-civilian-career-training__operations-research-analyst__888512300.pdf",
+          "sha256": "3d167a8f8f0e98bc875948b2b5bc59fe9c1fd186ad22adee91d5416fe9c53baa"
+        }
+      },
+      "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a"
+    }
+  ],
+  "resume_status": "prepared_with_attention",
+  "resume_review": "Text and hashes verified; all 20 baseline experience bullets preserved with updated title. Two pages rendered in PDFKit; all 113 distinct page images visually reviewed across 10 boards (238 rendered pages total). No clipping, overlap or blank pages. Neutral metadata and no AI-editing/targeting labels. Candidate facts/qualifications marked as attention items; no submission.",
+  "required_answers_pending": [
+    "Verify qualifying coursework and calculus credits against the exact qualification clause; not established by the baseline alone.",
+    "Verify required GPA evidence against the exact qualification clause; not established by the baseline alone.",
+    "Confirm graduate/student hiring-path dates and eligibility; degree completion dates are not in the baseline.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "confirmed_unmet_requirements": [],
+  "qualifications_verified": false,
+  "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a",
+  "resume_format": "restored_two_page",
+  "current_resume_naming": "unversioned",
+  "clearance_requirement": "Secret",
+  "public_hiring_route_evidence": true
+}

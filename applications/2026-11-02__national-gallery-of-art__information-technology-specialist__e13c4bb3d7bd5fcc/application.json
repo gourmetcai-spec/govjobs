@@ -1,0 +1,97 @@
+{
+  "title": "Information Technology Specialist",
+  "requisition_id": "NGA-27-267-NF",
+  "canonical_url": "https://www.usajobs.gov/job/890928300",
+  "application_url": "https://www.usajobs.gov/job/890928300",
+  "posted_date": "2026-10-30",
+  "posted_date_evidence": "Official announcement JobPosting.datePosted; corroborated by native search PositionStartDate where listed.",
+  "close_date": "2026-11-06",
+  "deadline_timezone": "America/New_York",
+  "deadline_time": "23:59",
+  "deadline_source": "https://www.usajobs.gov/job/890928300",
+  "deadline_verified": true,
+  "early_closure_conditions": [],
+  "rolling_cutoff": null,
+  "location": "Washington, DC",
+  "remote_restrictions": "Offered DMV work location; verify telework/attendance and screening conditions in announcement.",
+  "salary": "Starting at $143,913 Per year (NF 14)",
+  "retrieved_at": "2026-11-02T23:14:54.501767+00:00",
+  "control_number": "890928300",
+  "fit": "Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.",
+  "gaps": "Confirm graduate/student hiring-path dates and eligibility; degree completion dates are not in the baseline. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.",
+  "requirements_confirmed_unmet": [],
+  "requirements_unverified": [
+    "Confirm graduate/student hiring-path dates and eligibility; degree completion dates are not in the baseline.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "preferred_requirements_note": "See official qualifications/education sections; missing evidence does not establish an unmet requirement.",
+  "hiring_paths": [
+    "Open to the public",
+    "Competitive service",
+    "Excepted service",
+    "Land and base management",
+    "Veterans",
+    "Military spouses",
+    "National Guard and reserves",
+    "Students",
+    "Recent graduates",
+    "Senior executives",
+    "Individuals with disabilities",
+    "Family of overseas employees",
+    "Native Americans",
+    "Peace Corps & AmeriCorps Vista",
+    "Special authorities"
+  ],
+  "open_evidence": "Official announcement downloaded successfully; validThrough and native open-status evidence retained.",
+  "discovery_window": [
+    "2026-09-02",
+    "2026-11-02"
+  ],
+  "employer": "National Gallery of Art",
+  "status": "needs_verification",
+  "aliases": [],
+  "id": "e13c4bb3d7bd5fcc",
+  "application_directory": "applications/2026-11-02__national-gallery-of-art__information-technology-specialist__e13c4bb3d7bd5fcc",
+  "step": 1,
+  "selected": false,
+  "submitted": false,
+  "artifacts": {
+    "resume_markdown": {
+      "path": "applications/2026-11-02__national-gallery-of-art__information-technology-specialist__e13c4bb3d7bd5fcc/resume-xuewu-cai__national-gallery-of-art__information-technology-specialist__890928300.md",
+      "sha256": "0c1c3381f30c7aeeb03f5e01511b7ef0b9a1d005b212cd5ab3cd54ad2169aa66"
+    },
+    "resume_pdf": {
+      "path": "applications/2026-11-02__national-gallery-of-art__information-technology-specialist__e13c4bb3d7bd5fcc/resume-xuewu-cai__national-gallery-of-art__information-technology-specialist__890928300.pdf",
+      "sha256": "6f5f82eb07523168fba898fe5765f2b69186c2dbf196083a0163fe18d7e1fdb6"
+    }
+  },
+  "artifact_versions": [
+    {
+      "revision_id": "2026-11-02T23:14:54.501767+00:00",
+      "artifacts": {
+        "resume_markdown": {
+          "path": "applications/2026-11-02__national-gallery-of-art__information-technology-specialist__e13c4bb3d7bd5fcc/resume-xuewu-cai__national-gallery-of-art__information-technology-specialist__890928300.md",
+          "sha256": "0c1c3381f30c7aeeb03f5e01511b7ef0b9a1d005b212cd5ab3cd54ad2169aa66"
+        },
+        "resume_pdf": {
+          "path": "applications/2026-11-02__national-gallery-of-art__information-technology-specialist__e13c4bb3d7bd5fcc/resume-xuewu-cai__national-gallery-of-art__information-technology-specialist__890928300.pdf",
+          "sha256": "6f5f82eb07523168fba898fe5765f2b69186c2dbf196083a0163fe18d7e1fdb6"
+        }
+      },
+      "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a"
+    }
+  ],
+  "resume_status": "prepared_with_attention",
+  "resume_review": "Text and hashes verified; all 20 baseline experience bullets preserved with updated title. Two pages rendered in PDFKit; all 113 distinct page images visually reviewed across 10 boards (238 rendered pages total). No clipping, overlap or blank pages. Neutral metadata and no AI-editing/targeting labels. Candidate facts/qualifications marked as attention items; no submission.",
+  "required_answers_pending": [
+    "Confirm graduate/student hiring-path dates and eligibility; degree completion dates are not in the baseline.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "confirmed_unmet_requirements": [],
+  "qualifications_verified": false,
+  "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a",
+  "resume_format": "restored_two_page",
+  "current_resume_naming": "unversioned",
+  "clearance_requirement": "Other",
+  "public_hiring_route_evidence": true
+}

@@ -1,457 +1,934 @@
 # IT Specialist (Policy and Planning)
 
 {
-  "employer": "Bureau of Economic Analysis",
   "title": "IT Specialist (Policy and Planning)",
   "requisition_id": "27-BEA-OCIO-13094248-DE-SB",
-  "location": "Suitland, MD",
-  "salary": "$85,447–$133,142 per year; ZP-3",
-  "hiring_path": "Open to the public",
-  "fit": "IT delivery, enterprise forecasting and financial analytics adjacency.",
-  "gaps": "Official opening date unverified. Mandatory federal budgeting/CPIC, Technology Business Management, Integrated Project Teams and SharePoint administration not established. Do not substitute financial forecasting for federal IT budget execution. Merit-promotion companion 889753100 is separately screened as restricted; public route retained.",
   "canonical_url": "https://www.usajobs.gov/job/889752600",
   "application_url": "https://www.usajobs.gov/job/889752600",
-  "posted_date": null,
-  "posted_date_evidence": "No verified official opening date in retrieved text; not treated as eligible.",
-  "retrieved_at": "2026-11-02T01:18:48.041747+00:00",
-  "remote_restrictions": "Not remote; listed DMV duty station. Telework subject to agency policy.",
+  "posted_date": "2026-10-21",
+  "posted_date_evidence": "Official announcement JobPosting.datePosted; corroborated by native search PositionStartDate where listed.",
+  "close_date": "2026-11-05",
+  "deadline_timezone": "America/New_York",
+  "deadline_time": "23:59",
+  "deadline_source": "https://www.usajobs.gov/job/889752600",
+  "deadline_verified": true,
+  "early_closure_conditions": [],
+  "rolling_cutoff": null,
+  "location": "Suitland, MD",
+  "remote_restrictions": "Offered DMV work location; verify telework/attendance and screening conditions in announcement.",
+  "salary": "Starting at $85,447 Per year (ZP 3)",
+  "retrieved_at": "2026-11-02T23:14:54.501767+00:00",
   "control_number": "889752600",
-  "status": "discovered",
-  "aliases": [],
-  "discovery_window": [
-    "2026-09-01",
-    "2026-11-01"
+  "fit": "Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.",
+  "gaps": "Verify Federal capital planning/CPIC experience against the exact qualification clause; not established by the baseline alone. Verify SharePoint application/administration experience against the exact qualification clause; not established by the baseline alone. Verify Technology Business Management experience against the exact qualification clause; not established by the baseline alone. Verify NIST/security-control experience against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.",
+  "requirements_confirmed_unmet": [],
+  "requirements_unverified": [
+    "Verify Federal capital planning/CPIC experience against the exact qualification clause; not established by the baseline alone.",
+    "Verify SharePoint application/administration experience against the exact qualification clause; not established by the baseline alone.",
+    "Verify Technology Business Management experience against the exact qualification clause; not established by the baseline alone.",
+    "Verify NIST/security-control experience against the exact qualification clause; not established by the baseline alone.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
   ],
-  "open_evidence": "Official announcement reports Accepting applications; saved in tracking/runs/2026-11-01-federal-step1-redo/leads-web.txt"
+  "preferred_requirements_note": "See official qualifications/education sections; missing evidence does not establish an unmet requirement.",
+  "hiring_paths": [
+    "Open to the public",
+    "Career transition (CTAP, ICTAP, RPL)"
+  ],
+  "open_evidence": "Official announcement downloaded successfully; validThrough and native open-status evidence retained.",
+  "discovery_window": [
+    "2026-09-02",
+    "2026-11-02"
+  ]
 }
 
-## Retrieved official source evidence
+## Summary
 
-USAJOBS - Job Announcement (https://www.usajobs.gov/job/889991400)
-citeturn29view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.usajobs.gov/job/889991400","lineno":180}); Total lines: 553
-L152: SSEs address DCM, SEF,  and SDR compliance with core principles requiring the regulatee to: establish and maintain   a program of risk oversight to identify and minimize sources of operational risk through development of appropriate controls and procedures and development of automated systems that are reliable, secure, and have adequate scalable capacity; establish and maintain emergency procedures, backup facilities, and a plan for disaster recovery that allow for the timely recovery and resumption of operations and the fulfillment of the duties and obligations of the regulatee; and periodically conduct tests to verify that backup resources are sufficient.
-L153: SSEs focus on seven risk oversight program areas, including:
-L154:
-L155:   1. Enterprise risk management and governance;
-L156:   2. Information security;
-L157:   3. Business continuity and disaster recovery, including pandemic planning;
-L158:   4. Capacity and performance planning;
-L159:   5. Systems operations;
-L160:   6. Systems development and quality assurance; and
-L161:   7. Physical security and environmental
-L162:
-L163: In leading or participating on an SSE or TMA team, the incumbent will:
-L164:   * organize and conduct review of documents provided by the DCM, SDR, or SEF examined;
-L165:   * conduct extended on-site interviews, as a senior expert on the interview team, with regulatee senior management and technical staff;
-L166:   * apply extensive, expert knowledge of risk oversight, IT principles, appropriate controls and procedures, and best practices for automated systems to the analysis of information developed in the course of the SSE or TMA, and play a significant participatory role at an expert level in MCP staff determination of appropriate findings and recommendations;
-L167:   * draft a detailed report of MCP findings and recommendations;
-L168:   * participate as a senior-level expert in communicating findings and recommendations to senior management and technical staff of the DCM, SDR, or SEF examined; and
-L169:   * assess the efficacy and timeliness of corrective action taken by the DCM, SDR, or SEF
-L170: The incumbent represents the MCP on DMO teams reviewing applications from entities seeking designation as a DCM or registration as an SDR or SEF.  The incumbent serves as an expert in technical reviews by MCP staff of the applicant's compliance with system safeguards requirements for entities seeking the designation or registration in question.  The incumbent also expertly communicates with applicants during the registration or designation process and participates as a senior-level expert in MCP staff evaluation of applicant sufficiency in light of applicable system safeguards requirements, and drafts system safeguards-related portions of related reports and registration or designation orders.
-L171: The incumbent may be required to independently conduct such technical reviews, including on-site registered entity and data center visits.
-L172: ## Requirements
-L173:
-L174: 【26†Help†usajobshelp.opm.gov】
-L175: ### Conditions of employment
-L176:
-L177:   * U.S. Citizenship
-L178:   * Background/Security Investigation
-L179:   * May be required to serve a one-year probationary period
-L180:   * Selective Service Registration is required for males born after 12/31/1959
-L181:
-L182: You will be evaluated on the basis of your level of competency (knowledge, skills and abilities) in the following areas:
-L183: Information Technology Architecture - Knowledge of architectural methodologies used in the design and development of information systems, including the physical structure of a system's internal operations and interactions with other systems.
-L184:
-L185: Technical Competence - Uses knowledge that is acquired through formal training or extensive on-the-job experience to perform one's job; works with, understands, and evaluates technical information related to the job; advises others on technical issues.
-L186: Risk Management -  Knowledge of the principles, methods, and tools used for risk assessment and mitigation, including assessment of failures and their consequences.
-L187: Communication (Oral/Written) - Makes clear and convincing oral presentations. Listens effectively; clarifies information as needed.Recognizes or uses correct English grammar, punctuation, and spelling; communicates information (for example, facts, ideas, or messages) in a succinct and organized manner; produces written information, which may include technical material, that is appropriate for the intended audience.
-L188: ### Qualifications
-L189:
-L190: CT-13 Level: To qualify for the CT-13 level, you must have at least one year of specialized experience equivalent to the next lower grade level (CT/GS-12) in the Federal service, or comparable experience not gained through federal service.
-L191:
-L192: Specialized experience is defined as:
-L193:   * Experience applying knowledge of IT concepts, standards, guidelines, and techniques regarding system safeguards and security control reviews;
-L194:   * Experience in overseeing compliance of systems as it relates to the electronic trading environment; cyber and physical security, scalable capacity, internal oversight, and testing of automated trading and data reporting systems; and
-L195:   * Experience in evaluating emergency procedures, backup facilities, and disaster recovery plans electronic trading systems.
-L196: One or more professional certifications in the following system safeguards and in the Information Technology industry are highly desired:
-L197:   * Certified Information Systems Security Professional (CISSP);
-L198:   * Certified Information Systems Auditor (CISA);
-L199:   * Certified Business Continuity Professional (CBCP);
-L200:   * Certified Data Center Professional (CDCP);
-L201:   * Certified in the Governance of Enterprise IT (COEIT);
-L202:   * Systems Security Certified Practitioner (SSCP);
-L203:   * Certified Authorization Professional (CAP);
-L204:   * Certified Security Software Lifecycle Professional (CSSLP);
-L205:   * Certified Internal Auditor (CIA);
-L206:   * Certified Information Security Manager (CISM);
-L207:   * Certified in Risk and Information Systems Control (CRISC);
-L208:   * Certified Functional Continuity Professional (CFCP);
-L209:   * Master Business Continuity Professional (MBCP);
-L210:   * Business Continuity Certified Planner (BCCP);
-L211:   * Business Continuity Certified Lead Auditor (BCCLA);
-L212:   * Disaster Recovery Certified Specialist (DRCS).
-L213: ### Education
-L214:
-L215: Please refer to the OPM 【27†General Business and Industry Series 1101†www.opm.gov】 for the specific qualification requirements for this position.
-L216: ### Additional information
-L217:
-L218: This is a Bargaining Unit Position located in the National Treasury Employee Union (NTEU) Chapter 337.
-L219:
-L220: Relocation: Relocation expenses will not be paid.
-L221:
-L222: Probationary/Trial Period:
-L223: As a condition of employment for accepting this position, you may be required to serve a 1-year probationary or a 2-year trial period during which we will evaluate your fitness and whether your continued employment advances the public interest. In determining if your employment advances the public interest, we may consider:
-L224:   * Your performance and conduct;
-L225:   * The needs and interests of the agency;
-L226:   * Whether your continued employment would advance organizational goals of the agency or the Government; and
-L227:   * Whether your continued employment would advance the efficiency of the Federal service. Upon completion of your probationary/trial period your employment will be terminated unless you receive certification, in writing, that your continued employment advances the public interest.
-L228: Time-in-Grade: You must meet time-in-grade requirements within 30 days of the closing date of this announcement, if applicable.
-L229:
-L230: More than the number of positions listed may be filled through this vacancy announcement.
-L231: The overall salary range is provided for informational purposes as it represents the full range that is applicable to current employees in this occupation/grade.  A new hire's direct and overall experience are critical factors in determining a salary offer, therefore, it is important that your resume fully reflects all of your work experience.
-L232: Note that the upper end of each range is typically applicable only to candidates with significant years of work experience and qualifications Please review the 【28†CFTC Compensation Program†www.cftc.gov】 website for additional information.
-L233: The law prohibits public officials from appointing, promoting, or recommending their relatives. The law prohibits requesting, making, transmitting, accepting, or considering political recommendations for employment or other personnel actions for non-political positions. This includes recommendations from Members of Congress, Congressional employees, elected state or local officials, and political party officials and any recommendation based on party affiliation.
-L234:
-L235: Expand Hide  additional information
---------------------------------------------------------------------------------
-USAJOBS - Job Announcement (https://www.usajobs.gov/job/890500200)
-citeturn29view1 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.usajobs.gov/job/890500200","lineno":160}); Total lines: 516
-L138:   * Develop and revise guidance for IT projects in response to changing requirements, legislative/business drivers, and emerging technologies, using experienced judgment and discretion.
-L139:   * Recommend plans to OCIO management to shape/adjust/modify capital planning business cases, governance structures, financial management approaches, acquisitions, and operating policies/procedures.
-L140:   * Research capital planning, financial management, and IT contract-administration problems; develop solutions; and make immediate decisions on priority investments/contracts to ensure timely delivery of services.
-L141:   * Review new or improved processes/techniques in capital planning, financial management, and contract administration and recommend enhancements that increase innovation and efficiency.
-L142:   * Coordinate special projects across the Division and other OCIO units, ensuring cross-functional alignment and delivery against scope, deadlines, and objectives.
-L143:   * Develop and maintain business-operations artifacts, including capital-planning business cases, IT governance documentation, budget formulation/execution plans, acquisition packages, and contract-administration files.
-L144:   * Lead meetings and working conferences with management/program officials; provide capital-planning/governance/financial/contract information to influence program changes; and analyze program requirements and management needs.
-L145: ## Requirements
-L146:
-L147: 【20†Help†usajobshelp.opm.gov】
-L148: ### Conditions of employment
-L149:   * You must be a US Citizen or US National.
-L150:   * Males born after 12/31/1959 must be Selective Service registered or exempt.
-L151:   * Subject to satisfactory adjudication of background investigation and/or fingerprint check.
-L152:   * Successful completion of one-year probationary period, unless previously served. Refer to the Next Steps section for more information.
-L153:   * Direct Deposit: Per Public Law 104-134 all Federal employees are required to have federal payments made by direct deposit to their financial institution.
-L154:   * Successfully pass the E-Verify employment verification check. To learn more about E-Verify, including your rights and responsibilities, visit https://www.e-verify.gov/.
-L155:   * False statements or responses on a resume or application can jeopardize employment and may be grounds for disciplinary action, including removal from Federal service.
-L156:   * If you are selected, you may need to complete a Declaration for Federal Employment (OF-306) prior to being appointed to determine suitability for Federal employment and to authorize a background investigation.
-L157: ### Qualifications
-L158: Applicants must meet all qualifications and eligibility requirements by the closing date of the announcement including specialized experience as defined below.
-L159: FOR GS-13 CONSIDERATION: Applicants must have one year of specialized experience equivalent to the GS-12 level in the Federal
-L160: service that demonstrates experience in capital planning, IT governance, financial management,
-L161: acquisition support, and business operations in an enterprise information technology environment.
-L162: Qualifying experience includes performing at least five of the following:
-L163:   1. Integrating business operations activities across IT programs or portfolios, including analyzing operational issues, identifying performance gaps, and recommending improvements to governance processes or business operations procedures.
-L164:   2. Applying federal capital planning and investment control (CPIC) principles to assist in preparing, updating, or reviewing IT investment artifacts such as business cases, governance documentation, execution plans, and project justifications.
-L165:   3. Supporting IT governance processes, including preparing materials for governance boards, coordinating with enterprise architects, program officials, or contract vendors, or reviewing documentation for compliance with established policies, regulations, and guidance.
-L166:   4. Conducting analyses of IT financial data, including researching cost drivers, monitoring investment performance, reviewing budget execution materials, tracking obligations/expenditures, or identifying discrepancies requiring corrective action to maintain fiscal integrity.
-L167:   5. Assisting with IT acquisition or contract administration activities, such as compiling requirements, preparing or maintaining acquisition packages, supporting evaluations, or monitoring contractor performance to ensure timely and compliant delivery.
-L168:   6. Developing or maintaining business operations artifacts, including IT governance templates, standard operating procedures, business processes, analytical reports, or documentation used to support portfolio oversight and mission delivery.
-L169:   7. Researching and resolving issues related to IT capital planning, financial management, governance, or acquisition, including formulating recommendations and presenting findings to management.
-L170:   8. Coordinating with higher-level stakeholders-such as USDA oversight offices, enterprise architects, program managers, contractors, or financial personnel-to interpret policy, address operational challenges, or align IT activities with evolving requirements, legislative drivers, or emerging technologies.
-L171:   9. Supporting portfolio oversight activities aimed at maintaining internal controls, investment transparency, and balanced portfolio performance, including preparing summary reports, dashboards, or compliance assessments.
-L172:   10. Providing advisory services to managers or IT professionals on business operations, policy interpretation, investment processes, or governance requirements, including participating in meetings, briefings, or working groups.
-L173: In addition to the above specialized experience requirements, applicants will undergo a structured resume review to determine whether they meet the Individual Occupational Requirements (IOR) of the 2210 series. Successfully completing the 2210 series USAHire assessment with a passing score will be used as proof of possessing the necessary proficiency in the following competencies: Attention to Detail, Customer Service, Decision Making, Interpersonal Skills, and Teamwork.
-L174: A panel of subject matter experts will review your resume to determine if you meet the minimum proficiency level (as defined by the 2210 series IOR) for the following competencies:
-L175:   * Information Management
-L176:   * Oral Communication
-L177:   * Problem Solving
-L178:   * Technical Competence
-L179: Experience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., Peace Corps, AmeriCorps) and other organizations (e.g., professional; philanthropic; religious; spiritual; community, student, social). Volunteer work helps build critical competencies and can provide valuable training and experience that translates directly to paid employment. You will receive credit for all qualifying experience, including volunteer experience.
-L180: ### Education
-L181:
-L182: N/A
-L183: ### Additional information
-L184: Career Transition Assistance Plan (CTAP), Reemployment Priority List (RPL), or Interagency Career Transition Assistance Plan (ICTAP): Visit the 【21†OPM†www.opm.gov】 website for information on how to apply as a CTAP, RPL, or ICTAP eligible. To exercise selection priority for this vacancy, CTAP/RPL/ICTAP candidates must meet the basic eligibility requirements and all selective factors.
-L185: CTAP/ICTAP candidates must be rated and determined to be well qualified (or above) based on an evaluation of the competencies listed in the How You Will Be Evaluated section. When assessed through a score-based category rating method, CTAP/ICTAP applicants must receive a rating of at least 80 out of a possible 100.
-L186: Reasonable Accommodation (RA) Requests: If you believe you have a disability (i.e., physical or mental), covered by the Rehabilitation Act of 1973 as amended that would interfere with completing the USA Hire Competency Based Assessments, you will be granted the opportunity to request a RA in your online application. Requests for RA for the USA Hire Competency Based Assessments and appropriate supporting documentation for RA must be received prior to starting the USA Hire Competency Based Assessments.
-L187: Decisions on requests for RA are made on a case-by-case basis. If you meet the minimum qualifications of the position, after notification of the adjudication of your request, you will receive an email invitation to complete the USA Hire Competency Based Assessments, based on your adjudication decision. You must complete all assessments within 48 hours of receiving the URL to access the USA Hire Competency Based Assessments if you received the link after the close of the announcement.
---------------------------------------------------------------------------------
-USAJOBS - Job Announcement (https://www.usajobs.gov/job/889752600)
-citeturn29view2 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.usajobs.gov/job/889752600","lineno":150}); Total lines: 555
-L33: ## Summary
-L34:
-L35: This vacancy is for an IT Specialist (Policy and Planning) position in the Office of the Chief Information Officer located at the Bureau of Economic Analysis.
-L36: This Job Opportunity Announcement may be used to fill other IT Specialist (Policy and Planning), ZP-2210-3 positions within the Bureau of Economic Analysis in the same geographical location with the same qualifications and specialized experience.
-L37:
-L38: [Button: Learn more about this agency ]
-L39: ## Overview
-L40:
-L41: 【11†Help†usajobshelp.opm.gov】
-L42:
-L43: Accepting applications
-L44:
-L45: Location
-L46:
-L47: Suitland, MD
-L48:
-L49: FEW vacancies
-L50:
-L51: Work site options
-L52:
-L53: Telework eligible
-L54:     Yes—as determined by the agency policy.
-L55:
-L56: Remote job
-L57:     No
-L58:
-L59: Relocation expenses reimbursed
-L60:     No
-L61:
-L62: Salary
-L63:     $85,447 - $133,142 per year
-L64:
-L65: Pay scale & grade
-L66:
-L67:
-L68: ZP 3
-L69:
-L70: Promotion potential
-L71:     None
-L72:
-L73: 【12†Learn more about pay scale and grade†usajobshelp.opm.gov】
-L74:
-L75: Pay scale and grade determines the salary of the job.
-L76:
-L77: Work schedule
-L78:     Full-time
-L79: Travel Required
-L80:     Not required
-L81:
-L82: Appointment type
-L83:     Permanent
-L84:
-L85: Occupations and job series
-L86:
-L87:   * 【13†2210 Information Technology Management】
-L88:
-L89: Supervisory status
-L90:     No
-L91:
-L92: Federal service type
-L93:     This job is in the Competitive Service
-L94:
-L95: Represented by a union
-L96:     No
-L97:
-L98: Drug test
-L99:     No
-L100:
-L101: Security clearance
-L102:     Other
-L103:
-L104: Position sensitivity and risk
-L105:     【14†Moderate Risk (MR)†usajobshelp.opm.gov】
-L106: Jobs require a 【14†background check†usajobshelp.opm.gov】 and some require a 【14†security clearance†usajobshelp.opm.gov】. The type depends on the job.
-L107:
-L108: Background check type
-L109:
-L110:   * 【14†Credentialing†usajobshelp.opm.gov】
-L111:   * 【14†Suitability/Fitness†usajobshelp.opm.gov】
-L112:
-L113: Financial disclosure required
-L114:     No
-L115:
-L116:
-L117: Some jobs require 【15†financial disclosure†usajobshelp.opm.gov】 to identify conflicts of interests.
-L118:
-L119: Announcement number
-L120:     27-BEA-OCIO-13094248-DE-SB
-L121:
-L122: Control number
-L123:     889752600
-L124: ## This job is open to
-L125:
-L126: 【16†Help†usajobshelp.opm.gov】
-L127:
-L128: 【17†The public U.S. Citizens, Nationals or those who owe allegiance to the U.S.】
-L129:
-L130: 【18†Career transition (CTAP, ICTAP, RPL) Federal employees whose job, agency or department was eliminated and are eligible for priority over other applicants.】
-L131:
-L132: ### Clarification from the agency
-L133:
-L134: All qualified United States citizens.
-L135: ## Duties
-L136:
-L137: 【19†Help†usajobshelp.opm.gov】
-L138:
-L139:   * Serve as the program control lead for the Office of the Chief Information Officer.
-L140:   * Coordinate BEA's independent system auditing cycle. Manage the contact team that performs the NIST800-53 reviews of BEA's IT systems.
-L141:   * Perform monthly, quarterly, and annual Capital Planning and Investment Control reporting duties. Upload IT Financial reporting documentation to the FOLIO system.
-L142:   * Upload IT Financial reporting documentation to the FOLIO system.
-L143: ## Requirements
-L144:
-L145: 【20†Help†usajobshelp.opm.gov】
-L146:
-L147: ### Conditions of employment
-L148:
-L149:   * Applicants must meet all qualification requirements by the closing date of this announcement.
-L150:   * U.S. Citizen
-L151:   * Suitable for Federal employment.
-L152:   * Registered for Selective Service if applicable. (www.sss.gov)
-L153:   * A one-year probationary period may be required.
-L154:   * Relocation expenses may not be paid.
-L155:   * This is a NON-BARGAINING unit position.
-L156: ### Qualifications
-L157:
-L158: EXPERIENCE
-L159:
-L160: Experience must be IT-related; the experience may be demonstrated by paid or unpaid experience and/or completion of specific, intensive training (for example, IT certification), as appropriate.
-L161:
-L162: For all positions individuals must have IT-related experience demonstrating each of the four competencies listed below.
-L163:   1. Attention to Detail - Is thorough when performing work and conscientious about attending to detail.
-L164:   2. Customer Service - Works with clients and customers (that is, any individuals who use or receive the services or products that your work unit produces, including the general public, individuals who work in the agency, other agencies, or organizations outside the Government) to assess their needs, provide information or assistance, resolve their problems, or satisfy their expectations; knows about available products and services; is committed to providing quality products and services.
-L165:   3. Oral Communication - Expresses information (for example, ideas or facts) to individuals or groups effectively, taking into account the audience and nature of the information (for example, technical, sensitive, controversial); makes clear and convincing oral presentations; listens to others, attends to nonverbal cues, and responds appropriately.
-L166:   4. Problem Solving - Identifies problems; determines accuracy and relevance of information; uses sound judgment to generate and evaluate alternatives, and to make recommendations.
-L167: AND
-L168: Specialized Experience: For the Band 3 (GS-11), you must have one year of experience at a level of difficulty and responsibility equivalent to the Band 2 (GS-09) in the Federal service.
-L169: Experience for this position includes applying knowledge of Federal budget processes and Capital Planning and Investment Control (CPIC) requirements to support the formulation and execution of Information Technology (IT) budgets; applying Technology Business Management (TBM) principles to support IT investment planning and resource management; managing Integrated Project Teams (IPTs) to coordinate project activities, deliverables, and stakeholder requirements; and administering and maintaining SharePoint sites to support collaboration, document management, and information sharing.
-L170: OR
-L171: Education: 3 years of progressively higher-level graduate education leading to a Ph.D. degree or Ph.D. or equivalent doctoral degree.
-L172: Possession of, or ability to obtain and maintain, a Federal Acquisition Certification for Program and Project Managers (FAC-P/PM) Level III certification, or its current equivalent is preferred, but not required.
-L173: NOTE: To show proof of meeting the Basic Entry Requirements, all applicants MUST submit a copy of their college transcripts. See the Required Documents section for more information.
-L174: Experience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., Peace Corps, AmeriCorps) and other organizations (e.g., professional; philanthropic; religious; spiritual; community, student, social). Volunteer work helps build critical competencies, knowledge, and skills and can provide valuable training and experience that translates directly to paid employment. You will receive credit for all qualifying experience, including volunteer.
-L175: After you submit this application, you will receive an e-mail informing you that a USA Hire assessment is required. You will have 48 hours from the closing date of this announcement, 11/05/2026, to complete the assessment as this assessment is part of your application.
-L176: ### Additional information
-L177: Applicants who apply under this Job Opportunity Announcement may opt-in (at their request) to allow the sharing of their resume, cover letter, transcripts, certifications, and other associated documents and applicable personal information shared with other Department of Commerce (DOC) Bureaus/Offices who have vacancies within the same occupational series, grade and pay band (or its equivalent), and full performance level in the same duty location or commuting area of the duty location listed on the Job Opportunity Announcement.
-L178: Applicants that apply for General Schedule (GS) positions can be considered for pay band positions under one of the DOC's alternative personnel systems (i.e., Commerce Alternative Personnel System (CAPS), or Alternative Personnel Management System (APMS)) that have the equivalent GS grade level and full performance level, and similarly, CAPS and APMS applicants may be considered for GS positions or one of DOC's alternative personnel systems.
-L179: Upon acceptance of a position, the employee will be subject to the corresponding pay system (i.e., GS, CAPS or APMS). Applying to this announcement does not replace the need to apply to other job opportunity announcements for which they wish to receive consideration.
-L180: Individuals who have received a Voluntary Separation Incentive Payment, otherwise known as a buyout, must repay that incentive if they are reemployed by the Federal Government within five years of separation.
-L181: Additionally, the following links provide information on various hiring authorities that do not fall under competitive examining procedures; however, they may enable you to apply through merit assignment procedures or be eligible for a non-competitive appointment.
---------------------------------------------------------------------------------
-USAJOBS - Job Announcement (https://www.usajobs.gov/job/889753100)
-citeturn29view3 [wordlim: 200] Crawled: 4 days ago; Content type: text/html; Source: open({"ref_id":"https://www.usajobs.gov/job/889753100","lineno":150}); Total lines: 567
-L39: ## Overview
-L40:
-L41: 【11†Help†usajobshelp.opm.gov】
-L42:
-L43: Accepting applications
-L44:
-L45: Location
-L46:
-L47: Suitland, MD
-L48:
-L49: FEW vacancies
-L50:
-L51: Work site options
-L52:
-L53: Telework eligible
-L54:     Yes—as determined by the agency policy.
-L55:
-L56: Remote job
-L57:     No
-L58:
-L59: Relocation expenses reimbursed
-L60:     No
-L61:
-L62: Salary
-L79: Travel Required
-L80:     Not required
-L81:
-L82: Appointment type
-L83:     Permanent
-L84:
-L85: Occupations and job series
-L86:
-L87:   * 【13†2210 Information Technology Management】
-L88:
-L89: Supervisory status
-L90:     No
-L91:
-L92: Federal service type
-L93:     This job is in the Competitive Service
-L94:
-L95: Represented by a union
-L96:     No
-L97:
-L98: Drug test
-L99:     No
-L100:
-L101: Security clearance
-L102:     Other
-L103:
-L104: Position sensitivity and risk
-L105:     【14†Moderate Risk (MR)†usajobshelp.opm.gov】
-L106: Jobs require a 【14†background check†usajobshelp.opm.gov】 and some require a 【14†security clearance†usajobshelp.opm.gov】. The type depends on the job.
-L107:
-L108: Background check type
-L109:
-L110:   * 【14†Credentialing†usajobshelp.opm.gov】
-L111:   * 【14†Suitability/Fitness†usajobshelp.opm.gov】
-L112:
-L113: Financial disclosure required
-L114:     No
-L115:
-L116:
-L117: Some jobs require 【15†financial disclosure†usajobshelp.opm.gov】 to identify conflicts of interests.
-L118:
-L119: Announcement number
-L120:     27-BEA-OCIO-13094249-ST-SB
-L121:
-L122: Control number
-L123:     889753100
-L124: ## This job is open to
-L125:
-L126: 【16†Help†usajobshelp.opm.gov】
-L127:
-L128: 【17†Federal employees - Competitive service Current federal employees whose agencies follow the U.S. Office of Personnel Management's hiring rules and pay scales.】
-L129:
-L130: 【17†Career transition (CTAP, ICTAP, RPL) Federal employees whose job, agency or department was eliminated and are eligible for priority over other applicants.】
-L131:
-L132: 【18†Land and base management Current or former employees of a base management agency.】
-L133: 【19†Veterans Veterans of the U.S. Armed Forces or a spouse, widow, widower or parent of a veteran, who may be eligible for derived preference】
-L134:
-L135: 【20†Military spouses Military spouses of active duty service members or whose spouse is 100 percent disabled or died on active duty.】
-L136:
-L137: 【21†Individuals with disabilities Individuals who are eligible under Schedule A.】
-L138:
-L139: 【22†Special authorities Individuals eligible under a special authority not listed in another hiring path.】
-L140: ### Clarification from the agency
-L141:
-L142: Current Federal employees serving under a career or career-conditional appointment in the competitive service; Former Federal employees with reinstatement eligibility; CTAP/ICTAP eligibles; Applicants eligible under special hiring authorities; Veterans who are preference eligible, or separated from the U.S. Armed Forces under honorable conditions after 3 years or more of continuous active service may apply under the Veterans Employment Opportunity Act (VEOA).
-L143: ## Duties
-L144:
-L145: 【23†Help†usajobshelp.opm.gov】
-L146:
-L147:   * Serve as the program control lead for the Office of the Chief Information Officer.
-L148:   * Coordinate BEA's independent system auditing cycle. Manage the contact team that performs the NIST800-53 reviews of BEA's IT systems.
-L149:   * Perform monthly, quarterly, and annual Capital Planning and Investment Control reporting duties.
-L150:   * Upload IT Financial reporting documentation to the FOLIO system.
-L151:
-L152: ## Requirements
-L153:
-L154: 【24†Help†usajobshelp.opm.gov】
-L155: ### Conditions of employment
-L156:
-L157:   * Applicants must meet all qualification requirements by the closing date of this announcement.
-L158:   * U.S. Citizen
-L159:   * Suitable for Federal employment.
-L160:   * Registered for Selective Service if applicable. (www.sss.gov)
-L161:   * Time-in-grade/band requirements must be met by closing date.
-L162:   * A one-year probationary period may be required.
-L163:   * Relocation expenses may not be paid.
-L164:   * This is a NON-BARGAINING unit position.
-L165: ### Qualifications
-L166:
-L167: EXPERIENCE
-L168:
-L169: Experience must be IT-related; the experience may be demonstrated by paid or unpaid experience and/or completion of specific, intensive training (for example, IT certification), as appropriate.
-L170:
-L171: For all positions individuals must have IT-related experience demonstrating each of the four competencies listed below.
-L172:   1. Attention to Detail - Is thorough when performing work and conscientious about attending to detail.
-L173:   2. Customer Service - Works with clients and customers (that is, any individuals who use or receive the services or products that your work unit produces, including the general public, individuals who work in the agency, other agencies, or organizations outside the Government) to assess their needs, provide information or assistance, resolve their problems, or satisfy their expectations; knows about available products and services; is committed to providing quality products and services.
-L174:   3. Oral Communication - Expresses information (for example, ideas or facts) to individuals or groups effectively, taking into account the audience and nature of the information (for example, technical, sensitive, controversial); makes clear and convincing oral presentations; listens to others, attends to nonverbal cues, and responds appropriately.
-L175:   4. Problem Solving - Identifies problems; determines accuracy and relevance of information; uses sound judgment to generate and evaluate alternatives, and to make recommendations.
-L176: AND
-L177: Specialized Experience: For the Band 3 (GS-11), you must have one year of experience at a level of difficulty and responsibility equivalent to the Band 2 (GS-09) in the Federal service.
-L178: Experience for this position includes applying knowledge of Federal budget processes and Capital Planning and Investment Control (CPIC) requirements to support the formulation and execution of Information Technology (IT) budgets; applying Technology Business Management (TBM) principles to support IT investment planning and resource management; managing Integrated Project Teams (IPTs) to coordinate project activities, deliverables, and stakeholder requirements; and administering and maintaining SharePoint sites to support collaboration, document management, and information sharing
-L179: OR
-L180: Education: 3 years of progressively higher-level graduate education leading to a Ph.D. degree or Ph.D. or equivalent doctoral degree
-L181: Possession of, or ability to obtain and maintain, a Federal Acquisition Certification for Program and Project Managers (FAC-P/PM) Level III certification, or its current equivalent is preferred, but not required.
-L182: NOTE: To show proof of meeting the Basic Entry Requirements, all applicants MUST submit a copy of their college transcripts. See the Required Documents section for more information.
-L183: Experience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., Peace Corps, AmeriCorps) and other organizations (e.g., professional; philanthropic; religious; spiritual; community, student, social). Volunteer work helps build critical competencies, knowledge, and skills and can provide valuable training and experience that translates directly to paid employment. You will receive credit for all qualifying experience, including volunteer.
-L184: After you submit this application, you will receive an e-mail informing you that a USA Hire assessment is required. You will have 48 hours from the closing date of this announcement, 11/05/2026, to complete the assessment as this assessment is part of your application.
-L185: ### Additional information
-L186: Applicants who apply under this Job Opportunity Announcement may opt-in (at their request) to allow the sharing of their resume, cover letter, transcripts, certifications, and other associated documents and applicable personal information shared with other Department of Commerce (DOC) Bureaus/Offices who have vacancies within the same occupational series, grade and pay band (or its equivalent), and full performance level in the same duty location or commuting area of the duty location listed on the Job Opportunity Announcement.
-L187: Applicants that apply for General Schedule (GS) positions can be considered for pay band positions under one of the DOC's alternative personnel systems (i.e., Commerce Alternative Personnel System (CAPS), or Alternative Personnel Management System (APMS)) that have the equivalent GS grade level and full performance level, and similarly, CAPS and APMS applicants may be considered for GS positions or one of DOC's alternative personnel systems.
-L188: Upon acceptance of a position, the employee will be subject to the corresponding pay system (i.e., GS, CAPS or APMS). Applying to this announcement does not replace the need to apply to other job opportunity announcements for which they wish to receive consideration.
+This vacancy is for an IT Specialist (Policy and Planning) position in the Office of the Chief Information Officer located at the Bureau of Economic Analysis.
+This Job Opportunity Announcement may be used to fill other IT Specialist (Policy and Planning), ZP-2210-3 positions within the Bureau of Economic Analysis in the same geographical location with the same qualifications and specialized experience.
+
+## Duties
+
+
+
+## Qualifications
+
+EXPERIENCE
+Experience must be IT-related; the experience may be demonstrated by paid or unpaid experience and/or completion of specific, intensive training (for example, IT certification), as appropriate.
+For all positions individuals must have IT-related experience demonstrating each of the four competencies listed below.
+Attention to Detail - Is thorough when performing work and conscientious about attending to detail.
+Customer Service - Works with clients and customers (that is, any individuals who use or receive the services or products that your work unit produces, including the general public, individuals who work in the agency, other agencies, or organizations outside the Government) to assess their needs, provide information or assistance, resolve their problems, or satisfy their expectations; knows about available products and services; is committed to providing quality products and services.
+Oral Communication - Expresses information (for example, ideas or facts) to individuals or groups effectively, taking into account the audience and nature of the information (for example, technical, sensitive, controversial); makes clear and convincing oral presentations; listens to others, attends to nonverbal cues, and responds appropriately.
+Problem Solving - Identifies problems; determines accuracy and relevance of information; uses sound judgment to generate and evaluate alternatives, and to make recommendations.
+AND
+Specialized Experience: For the Band 3 (GS-11), you must have one year of experience at a level of difficulty and responsibility equivalent to the Band 2 (GS-09) in the Federal service. Experience for this position includes applying knowledge of Federal budget processes and Capital Planning and Investment Control (CPIC) requirements to support the formulation and execution of Information Technology (IT) budgets; applying Technology Business Management (TBM) principles to support IT investment planning and resource management; managing Integrated Project Teams (IPTs) to coordinate project activities, deliverables, and stakeholder requirements; and administering and maintaining SharePoint sites to support collaboration, document management, and information sharing.
+OR
+Education: 3 years of progressively higher-level graduate education leading to a Ph.D. degree or Ph.D. or equivalent doctoral degree.
+Possession of, or ability to obtain and maintain, a Federal Acquisition Certification for Program and Project Managers (FAC-P/PM) Level III certification, or its current equivalent is preferred, but not required.
+NOTE: To show proof of meeting the Basic Entry Requirements, all applicants MUST submit a copy of their college transcripts. See the Required Documents section for more information.
+Experience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., Peace Corps, AmeriCorps) and other organizations (e.g., professional; philanthropic; religious; spiritual; community, student, social). Volunteer work helps build critical competencies, knowledge, and skills and can provide valuable training and experience that translates directly to paid employment. You will receive credit for all qualifying experience, including volunteer.
+After you submit this application, you will receive an e-mail informing you that a USA Hire assessment is required. You will have 48 hours from the closing date of this announcement, 11/05/2026, to complete the assessment as this assessment is part of your application.
+
+## Education
+
+
+
+## Full rendered official announcement
+
+USAJOBS - Job Announcement
+
+ Skip to main content
+
+ An official website of the United States government
+
+Official websites use .gov
+
+A .gov website belongs to an official government organization in the United States.
+
+Secure .gov websites use HTTPS
+ A lock ( LockA locked padlock ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.
+
+ MENU
+
+ Sign in
+
+ My jobs
+
+ Profile
+
+ Resumes & documents
+
+ Notifications
+
+ Talent networks
+
+ Sign out
+
+ My jobs
+
+ Profile
+
+ Resumes & documents
+
+ Notifications
+
+ Talent networks
+
+ Sign out
+
+ Events
+
+ Help Center
+
+ Search
+
+ Back to results
+
+ Apply
+
+ IT Specialist (Policy and Planning)
+
+Department of Commerce
+
+Bureau of Economic Analysis
+
+Office of the Chief Information Officer
+
+Apply
+
+ Print
+
+ Share
+
+ Save
+
+ Summary
+
+ This job is open to
+
+ Duties
+
+ Requirements
+
+ How you will be evaluated
+
+ Required documents
+
+ How to apply
+
+Summary
+
+This vacancy is for an IT Specialist (Policy and Planning) position in the Office of the Chief Information Officer located at the Bureau of Economic Analysis.
+
+This Job Opportunity Announcement may be used to fill other IT Specialist (Policy and Planning), ZP-2210-3 positions within the Bureau of Economic Analysis in the same geographical location with the same qualifications and specialized experience.
+
+ Learn more about this agency
+
+Summary
+
+This vacancy is for an IT Specialist (Policy and Planning) position in the Office of the Chief Information Officer located at the Bureau of Economic Analysis.
+
+This Job Opportunity Announcement may be used to fill other IT Specialist (Policy and Planning), ZP-2210-3 positions within the Bureau of Economic Analysis in the same geographical location with the same qualifications and specialized experience.
+
+ Learn more about this agency
+
+Overview
+
+ Help
+
+Accepting applications
+
+Location
+
+ Suitland, MD
+
+FEW vacancies
+
+ No matching locations found.
+
+Work site options
+
+Telework eligible
+
+Yes—as determined by the agency policy.
+
+Remote job
+
+No
+
+Relocation expenses reimbursed
+
+ No
+
+Salary
+
+ $85,447 - $133,142 per year
+
+Pay scale & grade
+
+ZP 3
+
+Promotion potential
+
+None
+
+ Learn more about pay scale and grade
+
+ Pay scale and grade determines the salary of the job.
+
+Work schedule
+
+Full-time
+
+Travel Required
+
+Not required
+
+Appointment type
+
+Permanent
+
+Occupations and job series
+
+ 2210 Information Technology Management
+
+Supervisory status
+
+No
+
+Federal service type
+
+This job is in the Competitive Service
+
+Represented by a union
+
+No
+
+Drug test
+
+No
+
+Security clearance
+
+Other
+
+Position sensitivity and risk
+
+Moderate Risk (MR)
+
+ Jobs require a
+ background check and some require a
+ security clearance. The type depends on the job.
+
+Background check type
+
+ Credentialing
+
+ Suitability/Fitness
+
+Financial disclosure required
+
+No
+
+ Some jobs require
+ financial disclosure to identify conflicts of interests.
+
+Announcement number
+
+27-BEA-OCIO-13094248-DE-SB
+
+Control number
+
+889752600
+
+This job is open to
+
+ Help
+
+The public
+
+ U.S. Citizens, Nationals or those who owe allegiance to the U.S.
+
+Career transition (CTAP, ICTAP, RPL)
+
+ Federal employees whose job, agency or department was eliminated and are eligible for priority over other applicants.
+
+Clarification from the agency
+
+All qualified United States citizens.
+
+Duties
+
+ Help
+
+Serve as the program control lead for the Office of the Chief Information Officer.
+
+Coordinate BEA's independent system auditing cycle. Manage the contact team that performs the NIST800-53 reviews of BEA's IT systems.
+
+Perform monthly, quarterly, and annual Capital Planning and Investment Control reporting duties. Upload IT Financial reporting documentation
+to the FOLIO system.
+
+Upload IT Financial reporting documentation to the FOLIO system.
+
+Requirements
+
+ Help
+
+Conditions of employment
+
+Applicants must meet all qualification requirements by the closing date of this announcement.
+
+U.S. Citizen
+
+Suitable for Federal employment.
+
+Registered for Selective Service if applicable. (www.sss.gov)
+
+A one-year probationary period may be required.
+
+Relocation expenses may not be paid.
+
+This is a NON-BARGAINING unit position.
+
+Qualifications
+
+EXPERIENCE
+
+Experience must be IT-related; the experience may be demonstrated by paid or unpaid experience and/or completion of specific, intensive training (for example, IT certification), as appropriate.
+
+For all positions individuals must have IT-related experience demonstrating each of the four competencies listed below.
+
+Attention to Detail - Is thorough when performing work and conscientious about attending to detail.
+
+Customer Service - Works with clients and customers (that is, any individuals who use or receive the services or products that your work unit produces, including the general public, individuals who work in the agency, other agencies, or organizations outside the Government) to assess their needs, provide information or assistance, resolve their problems, or satisfy their expectations; knows about available products and services; is committed to providing quality products and services.
+
+Oral Communication - Expresses information (for example, ideas or facts) to individuals or groups effectively, taking into account the audience and nature of the information (for example, technical, sensitive, controversial); makes clear and convincing oral presentations; listens to others, attends to nonverbal cues, and responds appropriately.
+
+Problem Solving - Identifies problems; determines accuracy and relevance of information; uses sound judgment to generate and evaluate alternatives, and to make recommendations.
+
+AND
+
+Specialized Experience: For the Band 3 (GS-11), you must have one year of experience at a level of difficulty and responsibility equivalent to the Band 2 (GS-09) in the Federal service. Experience for this position includes applying knowledge of Federal budget processes and Capital Planning and Investment Control (CPIC) requirements to support the formulation and execution of Information Technology (IT) budgets; applying Technology Business Management (TBM) principles to support IT investment planning and resource management; managing Integrated Project Teams (IPTs) to coordinate project activities, deliverables, and stakeholder requirements; and administering and maintaining SharePoint sites to support collaboration, document management, and information sharing.
+
+OR
+
+Education: 3 years of progressively higher-level graduate education leading to a Ph.D. degree or Ph.D. or equivalent doctoral degree.
+
+Possession of, or ability to obtain and maintain, a Federal Acquisition Certification for Program and Project Managers (FAC-P/PM) Level III certification, or its current equivalent is preferred, but not required.
+
+NOTE: To show proof of meeting the Basic Entry Requirements, all applicants MUST submit a copy of their college transcripts. See the Required Documents section for more information.
+
+Experience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., Peace Corps, AmeriCorps) and other organizations (e.g., professional; philanthropic; religious; spiritual; community, student, social). Volunteer work helps build critical competencies, knowledge, and skills and can provide valuable training and experience that translates directly to paid employment. You will receive credit for all qualifying experience, including volunteer.
+
+After you submit this application, you will receive an e-mail informing you that a USA Hire assessment is required. You will have 48 hours from the closing date of this announcement, 11/05/2026, to complete the assessment as this assessment is part of your application.
+
+Additional information
+
+Applicants who apply under this Job Opportunity Announcement may opt-in (at their request) to allow the sharing of their resume, cover letter, transcripts, certifications, and other associated documents and applicable personal information shared with other Department of Commerce (DOC) Bureaus/Offices who have vacancies within the same occupational series, grade and pay band (or its equivalent), and full performance level in the same duty location or commuting area of the duty location listed on the Job Opportunity Announcement. Applicants that apply for General Schedule (GS) positions can be considered for pay band positions under one of the DOC's alternative personnel systems (i.e., Commerce Alternative Personnel System (CAPS), or Alternative Personnel Management System (APMS)) that have the equivalent GS grade level and full performance level, and similarly, CAPS and APMS applicants may be considered for GS positions or one of DOC's alternative personnel systems. Upon acceptance of a position, the employee will be subject to the corresponding pay system (i.e., GS, CAPS or APMS). Applying to this announcement does not replace the need to apply to other job opportunity announcements for which they wish to receive consideration.
+
+Individuals who have received a Voluntary Separation Incentive Payment, otherwise known as a buyout, must repay that incentive if they are reemployed by the Federal Government within five years of separation.
+
+Additionally, the following links provide information on various hiring authorities that do not fall under competitive examining procedures; however, they may enable you to apply through merit assignment procedures or be eligible for a non-competitive appointment.
+
+VRA (GS-11 or below)
+
+VEOA (permanent positions)
+
+30% or more disabled veteran
+
+Military Spouse
+
+Persons with disabilities
+
+CTAP
+
+ICTAP
+
+Reasonable Accommodation (RA) Requests: If you believe you have a disability (i.e., physical or mental), covered by the Rehabilitation Act of 1973 as amended that would interfere with completing the USA Hire Competency Based Assessments, you will be granted the opportunity to request a RA in your online application. Requests for RA for the USA Hire Competency Based Assessments and appropriate supporting documentation for RA must be received prior to starting the USA Hire Competency Based Assessments. Decisions on requests for RA are made on a case-by-case basis. If you meet the minimum qualifications of the position, after notification of the adjudication of your request, you will receive an email invitation to complete the USA Hire Competency Based Assessments, based on your adjudication decision. You must complete all assessments within 48 hours of receiving the URL to access the USA Hire Competency Based Assessments if you received the link after the close of the announcement. To determine if you need a RA, please review the Procedures for Requesting a Reasonable Accommodation for Online Assessments.
+
+The Department of Commerce also provides reasonable accommodations to applicants with disabilities. If you need a reasonable accommodation for any part of the application and hiring process, please notify the Human Resources Office. The decision on granting reasonable accommodation will be on a case-by-case basis. TTY users can contact the Human Resources Office via the Federal Relay Service, 1-800-877-8339.
+
+ Expand Hide  additional information
+
+Candidates should be committed to improving the efficiency of the Federal government, passionate about the ideals of our American republic, and committed to upholding the rule of law and the United States Constitution.
+
+Benefits
+
+ Help
+
+ A career with the U.S. government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding. Opens in a new windowLearn more about federal benefits.
+
+Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time or intermittent. Contact the hiring agency for more information on the specific benefits offered.
+
+How you will be evaluated
+
+You will be evaluated for this job based on how well you meet the qualifications above.
+
+Category Rating Procedures: If you meet the minimum qualifications stated in the job opportunity announcement and scoring requirements for all applicable assessments, you will be placed in one of three pre-defined categories. These categories are "gold," "silver," and "bronze." Your resume and/or optional cover letter must support your responses to the questionnaire, or your score may be lowered. Candidates placed in the "gold" category will be identified for referral to the hiring manager and may be invited for an interview.
+
+How you will be evaluated for preference eligibility: Within each category, those entitled to veterans' preference will be listed at the top of the pre-defined category for which they are placed. Preference eligibles with a service-connected disability of 10% or more will be listed at the top of the highest quality category (gold).
+
+For more information on category rating, please go to: OPM: Competitive Hiring - Category Rating
+
+Online Assessment: Applicants must complete the online USA Hire Competency Based Assessments measuring critical general competencies required to perform the job. Examples used in the assessment may include general situations not directly related to this position.
+
+The USA Hire Assessments includes a cut score based on the minimum level of required proficiency in these critical general competencies. You must meet or exceed the cut score to be considered. You will not be considered for the position if you score below the cut score or fail to complete the assessment.
+
+Overstating your qualifications and/or experience in your application materials or application questionnaire may result in your removal from consideration. Cheating on an assessment may also result in your removal from consideration.
+
+CTAP and ICTAP candidates: CTAP and ICTAP candidates will be eligible for selection priority if it is determined that they have exceeded the minimum qualifications for the position by attaining at least a rating of 85 out of 100. Information about CTAP and ICTAP eligibility is on the Office of Personnel Management's Career Transition Resources website, The Employee's Guide to Career Transition.
+
+You will be assessed on the following competencies (knowledge, skills, abilities, and other characteristics):
+
+Accountability
+Attention to Detail
+Customer Service
+Decision Making
+Flexibility
+Integrity/Honesty
+Interpersonal Skills
+Learning
+Reading Comprehension
+Reasoning
+Self-Management
+Stress Tolerance
+Teamwork
+
+We recommend that you preview the online questions for this announcement before you start the application process.
+
+Do NOT include the following types of information in your application if included on your resume you will not be considered for this position:
+
+Social Security Number (SSN)
+
+Date of Birth (DOB)
+
+Photos of yourself
+
+Personal information: such as age, gender, religious affiliation, etc.
+
+You may preview the questionnaire for this vacancy: https://apply.usastaffing.gov/ViewQuestionnaire/13094248.
+
+Benefits
+
+ Help
+
+ A career with the U.S. government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding. Opens in a new windowLearn more about federal benefits.
+
+Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time or intermittent. Contact the hiring agency for more information on the specific benefits offered.
+
+Required documents
+
+Required Documents
+
+ Help
+
+A complete application consists of the following:
+
+Resume: Your resume must not exceed two (2) pages. If your resume exceeds the two-page limit, you will be deemed disqualified and removed from consideration. Your resume must include your educational and relevant work experience for the position for which you are applying to include the title and dates (mm/yy) of employment along with the number of hours worked per week. If your resume does not contain this information, your application may be marked as incomplete, and you will not receive consideration for this position.
+
+Veterans' Preference Documentation: Please indicate on your resume the type of veterans' preference you are claiming and provide the appropriate supporting documentation (DD-214 stating disposition of discharge or character of service, VA letter, SF-15, etc.) to validate your claim. Previous versions of the SF-15 will not be accepted. For more information regarding eligibility requirements, please go to: http://www.fedshirevets.gov/job/vetpref/index.aspx.
+
+Career Transition Assistance Plan (CTAP) and Interagency Career Transition Assistance Plan (ICTAP) documentation, if applicable:
+
+CTAP applicants MUST submit the following documents:
+
+A copy of your RIF separation notice, notice of proposed removal for declining a directed geographic relocation outside of the local commuting area; a Certificate of Expected Separation (CES); or certification that you are in a surplus organization or occupation (this could be a position abolishment letter, a notice of eligibility for discontinued service retirement, or similar notice);
+
+A copy of your SF-50 "Notification of Personnel Action", noting current position, grade/band level, and duty location;
+
+A copy of your latest performance appraisal including your rating; and
+
+Any documentation from your bureau/operating unit that shows your current promotion potential.
+
+ICTAP applicants MUST submit the following documents:
+
+A copy of your RIF separation notice, notice of proposed removal for declining a directed geographic relocation outside of the local commuting area, notice of disability annuity termination, certification from your former agency that it cannot place you after your recovery from a work-related compensable injury; or certification from the National Guard Bureau or Military Department that you are eligible for disability retirement.
+
+A copy of your SF-50 "Notification of Personnel Action", documenting your RIF separation, noting your position, grade/band level, and duty location, and/or Agency certification of inability to place you through RPL, etc.;
+
+A copy of your latest performance appraisal including your rating; and
+
+Any documentation from your agency that shows your current promotion potential.
+
+Education Documentation: If this position requires proof of higher education, or you are substituting education for experience, you must submit an unofficial transcript or a list of courses that includes the following information: name of accredited institution, grades earned, completion dates, and quarter and semester hours earned. This also applies to Bureau of Economic Analysis employees. Education completed in foreign colleges or universities may be used to meet the requirements. Please refer to OPM's Qualification Policy for more information.
+
+You are not required to submit official documents at this time; copies are sufficient.
+
+Special Instructions for Foreign Education: Qualifying education from colleges and universities in foreign countries must be evaluated in terms of equivalency to that acquired in U.S. colleges and universities. Applicants educated in whole or in part in foreign countries must submit sufficient evidence, including transcripts, to an accredited private organization for an equivalency evaluation of course work and degree. You must provide a copy of the letter containing the results of the equivalency evaluation with a course-by-course listing along with your application. Failure to provide such documentation when requested will result in lost consideration. For further information on the evaluation of foreign education, refer to the U.S. Department of Education's web site at Academic and Professional Mobility | International Affairs Office (ed.gov).
+
+NOTE: You will not be considered if you fail to provide all required documents.
+
+Resume
+
+ If you are relying on your education to meet qualification requirements:
+
+ Education must be accredited by an accrediting institution recognized by the U.S. Department of Education in order for it to be credited towards qualifications. Therefore, provide only the attendance and/or degrees from
+ schools accredited by accrediting institutions recognized by the U.S. Department of Education.
+
+ Failure to provide all of the required information as stated in this vacancy announcement may result in an ineligible rating or may affect the overall rating.
+
+How to Apply
+
+ Help
+
+Please read the entire announcement and all the instructions before you begin an application. To apply and be considered for this position, you must complete all required questionnaires, assessments and submit all required documentation as specified in the How to Apply and Required Documents section. The complete application package must be submitted by 11:59 PM (ET) on 11/05/2026 to receive consideration. The application process is as follows:
+
+Click the Apply Online button.
+
+Answer the questions presented in the application and attach all necessary supporting documentation.
+
+Click the Submit Application button prior to 11:59 PM (ET) on the announcement closing date.
+
+If you are required to complete any USA Hire Assessments, you will be notified after submitting your application. The notification will be provided in your application submission screen and via email. The notification will include your unique assessment access link to the USA Hire system and the completion deadline. Additionally, in USAJOBS you can click "Track this application" to return to your assessment completion notice.
+
+Access USA Hire using your unique assessment link. Access is granted through your USAJOBS login credentials.
+
+Review all instructions prior to beginning your assessments. You will have the opportunity to request a testing accommodation before beginning the assessments should you have a disability covered under the Rehabilitation Act of 1973 as amended.
+
+Set aside about two (2) hours to take the USA Hire Assessments; however, most applicants complete the assessments in less time. If you need to stop the assessments and continue later, you can re-use your unique assessment link.
+
+Your responses to the USA Hire Assessments will be reused for one year (in most cases) from the date you complete an assessment. If future applications you submit require completion of the same assessments, your responses will be automatically reused.
+
+Visit the USA Hire Applicant Resource Center for practice assessments and assessment preparation resources.
+
+To update your application, including supporting documentation: During the announcement open period, return to your USA JOBS account, find your application record, and click Edit my application. This option will no longer be available once the announcement has closed.
+
+To view the announcement status or your application status: Visit USAJOBS Help Center - How to see your application and job status.
+Applicants are strongly encouraged to apply online; however, if you are unable to apply online, please email the agency contact.
+
+Agency contact information
+
+ Shirell Briscoe
+
+Phone
+
+ 301-763-1307
+
+Email
+
+ shirell.a.briscoe@census.gov
+
+Address
+
+ Bureau of Economic Analysis
+
+ 4600 Silver Hill Road
+
+ Washington, DC 20233
+
+ US
+
+Next steps
+
+You will be notified of your application status through USAJOBS at four points during the hiring process, as applicable. You can check the status of your application by accessing the USAJOBS website at http://usajobs.gov and clicking on "Applications." The status will be visible next to the corresponding positions. The four points of notification are:
+
+Application Received or Application Incomplete;
+
+Minimum Qualification Requirement Met or Minimum Qualification Requirement Not Met;
+
+Referred or Not Referred; and
+
+Selected or Not Selected.
+
+By submitting your application, you are certifying the accuracy of the information contained in your application. If you make a false statement in any part of your application, you may not be hired; you may be terminated after you begin work; or, you may be fined or jailed. After making a tentative job offer, we will conduct a suitability/security background investigation.
+
+You will be required to submit official documentation prior to appointment. The agency will then verify the information provided on your application (i.e., degree, veterans' preference, disability, etc.).
+
+Fair and transparent
+
+The Federal hiring process is set up to be fair and transparent. Please read the following guidance.
+
+ Criminal history inquiries
+
+ Equal Employment Opportunity (EEO) Policy
+
+ Financial suitability
+
+ New employee probationary period
+
+ Privacy Act
+
+ Reasonable accommodation policy
+
+ Selective Service
+
+ Signature and false statements
+
+ Social security number request
+
+Required Documents
+
+ Help
+
+A complete application consists of the following:
+
+Resume: Your resume must not exceed two (2) pages. If your resume exceeds the two-page limit, you will be deemed disqualified and removed from consideration. Your resume must include your educational and relevant work experience for the position for which you are applying to include the title and dates (mm/yy) of employment along with the number of hours worked per week. If your resume does not contain this information, your application may be marked as incomplete, and you will not receive consideration for this position.
+
+Veterans' Preference Documentation: Please indicate on your resume the type of veterans' preference you are claiming and provide the appropriate supporting documentation (DD-214 stating disposition of discharge or character of service, VA letter, SF-15, etc.) to validate your claim. Previous versions of the SF-15 will not be accepted. For more information regarding eligibility requirements, please go to: http://www.fedshirevets.gov/job/vetpref/index.aspx.
+
+Career Transition Assistance Plan (CTAP) and Interagency Career Transition Assistance Plan (ICTAP) documentation, if applicable:
+
+CTAP applicants MUST submit the following documents:
+
+A copy of your RIF separation notice, notice of proposed removal for declining a directed geographic relocation outside of the local commuting area; a Certificate of Expected Separation (CES); or certification that you are in a surplus organization or occupation (this could be a position abolishment letter, a notice of eligibility for discontinued service retirement, or similar notice);
+
+A copy of your SF-50 "Notification of Personnel Action", noting current position, grade/band level, and duty location;
+
+A copy of your latest performance appraisal including your rating; and
+
+Any documentation from your bureau/operating unit that shows your current promotion potential.
+
+ICTAP applicants MUST submit the following documents:
+
+A copy of your RIF separation notice, notice of proposed removal for declining a directed geographic relocation outside of the local commuting area, notice of disability annuity termination, certification from your former agency that it cannot place you after your recovery from a work-related compensable injury; or certification from the National Guard Bureau or Military Department that you are eligible for disability retirement.
+
+A copy of your SF-50 "Notification of Personnel Action", documenting your RIF separation, noting your position, grade/band level, and duty location, and/or Agency certification of inability to place you through RPL, etc.;
+
+A copy of your latest performance appraisal including your rating; and
+
+Any documentation from your agency that shows your current promotion potential.
+
+Education Documentation: If this position requires proof of higher education, or you are substituting education for experience, you must submit an unofficial transcript or a list of courses that includes the following information: name of accredited institution, grades earned, completion dates, and quarter and semester hours earned. This also applies to Bureau of Economic Analysis employees. Education completed in foreign colleges or universities may be used to meet the requirements. Please refer to OPM's Qualification Policy for more information.
+
+You are not required to submit official documents at this time; copies are sufficient.
+
+Special Instructions for Foreign Education: Qualifying education from colleges and universities in foreign countries must be evaluated in terms of equivalency to that acquired in U.S. colleges and universities. Applicants educated in whole or in part in foreign countries must submit sufficient evidence, including transcripts, to an accredited private organization for an equivalency evaluation of course work and degree. You must provide a copy of the letter containing the results of the equivalency evaluation with a course-by-course listing along with your application. Failure to provide such documentation when requested will result in lost consideration. For further information on the evaluation of foreign education, refer to the U.S. Department of Education's web site at Academic and Professional Mobility | International Affairs Office (ed.gov).
+
+NOTE: You will not be considered if you fail to provide all required documents.
+
+Resume
+
+ If you are relying on your education to meet qualification requirements:
+
+ Education must be accredited by an accrediting institution recognized by the U.S. Department of Education in order for it to be credited towards qualifications. Therefore, provide only the attendance and/or degrees from
+ schools accredited by accrediting institutions recognized by the U.S. Department of Education.
+
+ Failure to provide all of the required information as stated in this vacancy announcement may result in an ineligible rating or may affect the overall rating.
+
+How to Apply
+
+ Help
+
+Please read the entire announcement and all the instructions before you begin an application. To apply and be considered for this position, you must complete all required questionnaires, assessments and submit all required documentation as specified in the How to Apply and Required Documents section. The complete application package must be submitted by 11:59 PM (ET) on 11/05/2026 to receive consideration. The application process is as follows:
+
+Click the Apply Online button.
+
+Answer the questions presented in the application and attach all necessary supporting documentation.
+
+Click the Submit Application button prior to 11:59 PM (ET) on the announcement closing date.
+
+If you are required to complete any USA Hire Assessments, you will be notified after submitting your application. The notification will be provided in your application submission screen and via email. The notification will include your unique assessment access link to the USA Hire system and the completion deadline. Additionally, in USAJOBS you can click "Track this application" to return to your assessment completion notice.
+
+Access USA Hire using your unique assessment link. Access is granted through your USAJOBS login credentials.
+
+Review all instructions prior to beginning your assessments. You will have the opportunity to request a testing accommodation before beginning the assessments should you have a disability covered under the Rehabilitation Act of 1973 as amended.
+
+Set aside about two (2) hours to take the USA Hire Assessments; however, most applicants complete the assessments in less time. If you need to stop the assessments and continue later, you can re-use your unique assessment link.
+
+Your responses to the USA Hire Assessments will be reused for one year (in most cases) from the date you complete an assessment. If future applications you submit require completion of the same assessments, your responses will be automatically reused.
+
+Visit the USA Hire Applicant Resource Center for practice assessments and assessment preparation resources.
+
+To update your application, including supporting documentation: During the announcement open period, return to your USA JOBS account, find your application record, and click Edit my application. This option will no longer be available once the announcement has closed.
+
+To view the announcement status or your application status: Visit USAJOBS Help Center - How to see your application and job status.
+Applicants are strongly encouraged to apply online; however, if you are unable to apply online, please email the agency contact.
+
+ Expand Hide  how to apply
+
+Agency contact information
+
+ Shirell Briscoe
+
+Phone
+
+ 301-763-1307
+
+Email
+
+ shirell.a.briscoe@census.gov
+
+Address
+
+ Bureau of Economic Analysis
+
+ 4600 Silver Hill Road
+
+ Washington, DC 20233
+
+ US
+
+Next steps
+
+You will be notified of your application status through USAJOBS at four points during the hiring process, as applicable. You can check the status of your application by accessing the USAJOBS website at http://usajobs.gov and clicking on "Applications." The status will be visible next to the corresponding positions. The four points of notification are:
+
+Application Received or Application Incomplete;
+
+Minimum Qualification Requirement Met or Minimum Qualification Requirement Not Met;
+
+Referred or Not Referred; and
+
+Selected or Not Selected.
+
+By submitting your application, you are certifying the accuracy of the information contained in your application. If you make a false statement in any part of your application, you may not be hired; you may be terminated after you begin work; or, you may be fined or jailed. After making a tentative job offer, we will conduct a suitability/security background investigation.
+
+You will be required to submit official documentation prior to appointment. The agency will then verify the information provided on your application (i.e., degree, veterans' preference, disability, etc.).
+
+ Expand Hide  next steps
+
+Fair and transparent
+
+The Federal hiring process is set up to be fair and transparent. Please read the following guidance.
+
+ Criminal history inquiries
+
+ Equal Employment Opportunity (EEO) Policy
+
+ Financial suitability
+
+ New employee probationary period
+
+ Privacy Act
+
+ Reasonable accommodation policy
+
+ Selective Service
+
+ Signature and false statements
+
+ Social security number request
+
+ Bureau of Economic Analysis
+
+ The Bureau of Economic Analysis (BEA), a bureau of the U.S. Department of Commerce, is one of the world's leading statistical agencies. BEA produces many of the nation's most closely watched economic indicators, including GDP, Personal Income, Corporate Profits and Trade in Goods and Services. BEA's data products influence decisions made by government officials, businesses, and households alike.
+
+As an employer of choice, employee engagement and satisfaction are consistently high at BEA, and we are committed to our workforce. The Department of Commerce is regularly ranked in the top five best large agencies and BEA ranks among the highest in the department.
+
+Don't settle for less. Work for an agency that invests in its most valuable asset, its workforce. Learn the BEA way!
+
+Agency contact information
+
+ Shirell Briscoe
+
+Phone
+
+ 301-763-1307
+
+Email
+
+ shirell.a.briscoe@census.gov
+
+Address
+
+ Bureau of Economic Analysis
+
+ 4600 Silver Hill Road
+
+ Washington, DC 20233
+
+ US
+
+Summary
+
+This vacancy is for an IT Specialist (Policy and Planning) position in the Office of the Chief Information Officer located at the Bureau of Economic Analysis.
+
+This Job Opportunity Announcement may be used to fill other IT Specialist (Policy and Planning), ZP-2210-3 positions within the Bureau of Economic Analysis in the same geographical location with the same qualifications and specialized experience.
+
+ Learn more about this agency
+
+Overview
+
+ Help
+
+Accepting applications
+
+Location
+
+ Suitland, MD
+
+FEW vacancies
+
+ No matching locations found.
+
+Work site options
+
+Telework eligible
+
+Yes—as determined by the agency policy.
+
+Remote job
+
+No
+
+Relocation expenses reimbursed
+
+ No
+
+Salary
+
+ $85,447 - $133,142 per year
+
+Pay scale & grade
+
+ZP 3
+
+Promotion potential
+
+None
+
+ Learn more about pay scale and grade
+
+ Pay scale and grade determines the salary of the job.
+
+Work schedule
+
+Full-time
+
+Travel Required
+
+Not required
+
+Appointment type
+
+Permanent
+
+Occupations and job series
+
+ 2210 Information Technology Management
+
+Supervisory status
+
+No
+
+Federal service type
+
+This job is in the Competitive Service
+
+Represented by a union
+
+No
+
+Drug test
+
+No
+
+Security clearance
+
+Other
+
+Position sensitivity and risk
+
+Moderate Risk (MR)
+
+ Jobs require a
+ background check and some require a
+ security clearance. The type depends on the job.
+
+Background check type
+
+ Credentialing
+
+ Suitability/Fitness
+
+Financial disclosure required
+
+No
+
+ Some jobs require
+ financial disclosure to identify conflicts of interests.
+
+Announcement number
+
+27-BEA-OCIO-13094248-DE-SB
+
+Control number
+
+889752600
+
+ Previous result
+
+Next result
+
+Your session is about to expire!
+
+ Your USAJOBS session will expire due to inactivity in 8 minutes.
+ Any unsaved data will be lost if you allow the session to expire.
+ Click the button below to continue your session.
+
+ Sign out
+ Stay signed in
+
+ Return to top
+
+USAJOBS is a Opens in a new windowUnited States Office of Personnel Management website.
+
+ (Opens in a new window) OPM on LinkedIn
+
+ (Opens in a new window) OPM YouTube channel
+
+ (Opens in a new window) OPM on X
+
+Opens in a new windowEEO Policy Statement
+
+Opens in a new windowReasonable Accommodation Policy Statement
+
+Veterans Information
+
+Opens in a new windowLegal and Regulatory Guidance
+
+About USAJOBS
+
+Opens in a new windowAccessibility
+
+Opens in a new windowFOIA
+
+Opens in a new windowInspector general
+
+Opens in a new windowNo Fear Act Data
+
+Opens in a new windowPrivacy policy
+
+Opens in a new windowReports and publications
+
+Opens in a new windowTerms and conditions
+
+Opens in a new windowUSA.gov
