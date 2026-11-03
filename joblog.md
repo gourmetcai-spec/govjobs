@@ -147,3 +147,9 @@
 - Saved all 119 positions from today's completed Step 1 as a final summary table in its dated report, with new/existing flags, stable IDs, roles, locations, supported fit, deadlines, statuses, current PDF links, attention items and next actions. Linked the table from the daily update index. This supplements the existing run snapshot; no discovery or resume regeneration performed.
 - Updated the skill and daily report template so every future Step 1 report and response ends with the complete tabular summary. Checkpoint results, coverage notes and links precede the tables. Historical tables remain attached to their individual runs.
 - Previous Step 1 checkpoint a2f3aa6 was pushed and remote SHA verified. Validate and commit/push this configuration/report checkpoint to govjobs origin/main; preserve unrelated user edits.
+
+## 2026-11-02 — Compact standalone summary display
+
+- Saved all 119 positions in separate five-column Markdown and rendered HTML summary files beside today's report, with stable IDs linking to current PDFs. Added direct links in the daily index. Preserved the detailed report and its full summary; an editor swap file indicates it may be open in the user's editor.
+- Updated the skill/template to use the compact five-column display, with shared fit/status/next-action notes before the final table and detailed assessments retained. No job discovery, resume changes or applications performed.
+- Previous checkpoint d528369 was pushed and remote SHA verified. Commit/push this display update to govjobs origin/main; preserve unrelated files and the user's editor swap file.

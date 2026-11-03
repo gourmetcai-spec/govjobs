@@ -43,7 +43,9 @@ Links to this report, job queue, full unsubmitted summary, resumes/index.md and 
 
 This must be the final section of both the saved report and the Step 1 response. Mark new versus previously tracked, sort by deadline (unknown last), and group by deadline if helpful. Include every unsubmitted position, with uncertain submissions and clear exclusions in separate tables. Keep confirmed unmet requirements distinct from requirements needing verification. Use actual status and current PDF paths; shared notes may explain repeated statuses/actions without omitting per-position differences. Put all checkpoint notes and other commentary before this section.
 
-| Stable ID / new or existing | Agency / role | Location | Role / supported fit | Apply by | Preparation / submission status | Current PDF | Attention: unmet / unverified | Next action |
-|---|---|---|---|---|---|---|---|---|
+Save the compact table separately as `<run-id>-summary.md` beside this report and link it from the daily index. Use real clickable PDF links. A companion HTML file can provide a directly rendered table. Put shared fit, preparation/submission status and next-action notes before the table; retain per-job differences in the attention column and detailed assessments.
+
+| ID → PDF | Agency / role | Location | Deadline | Needs attention |
+|---|---|---|---|---|
 
 For zero unsubmitted positions, record that explicitly in this final section.

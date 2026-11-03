@@ -6,7 +6,7 @@ Reports are historical snapshots. A job recheck or resume revision is an update 
 
 | Run date / ID | New jobs | Existing-job changes | Outcome / report |
 |---|---:|---:|---|
-| 2026-11-02 / 2026-11-02-step1-175625 | 104 | 15 | [Report](2026-11-02/2026-11-02-step1-175625.md) · [Summary table](2026-11-02/2026-11-02-step1-175625.md#summary-table--all-unsubmitted-positions) — 119 prepared, 0 submitted; limited agency-channel coverage |
+| 2026-11-02 / 2026-11-02-step1-175625 | 104 | 15 | [Report](2026-11-02/2026-11-02-step1-175625.md) · [Summary table](2026-11-02/2026-11-02-step1-175625-summary.html) · [Markdown](2026-11-02/2026-11-02-step1-175625-summary.md) — 119 prepared, 0 submitted; limited agency-channel coverage |
 
 New reports will be appended here during subsequent Step 1 runs. Earlier run evidence remains under `tracking/runs/` and in `joblog.md`.
 
