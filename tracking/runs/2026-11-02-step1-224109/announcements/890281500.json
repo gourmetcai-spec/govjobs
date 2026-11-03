@@ -1,0 +1,32 @@
+{
+  "@context": "http://www.schema.org",
+  "@type": "JobPosting",
+  "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": {
+      "@type": "QuantitativeValue",
+      "value": 121785,
+      "unitText": "YEAR"
+    }
+  },
+  "datePosted": "10/27/2026",
+  "description": "<p>This position is located in the Bureau of Diplomatic Security, Office of Overseas Protective Operations, Operational Support Division (DS/OPO/OSD).</p>\n<p>OSD provides operational business expertise, oversight guidance, and management support to OPO programs. The Division coordinates financial and budgetary requirements, projections, and resource decisions with other functional and geographic bureaus, the DS Office of the Comptroller (DS/CFO), as well as other Departmental and interagency partners.</p>",
+  "educationRequirements": "<p>Education requirements do not apply to this vacancy announcement.</p>",
+  "employmentType": "OTHER",
+  "hiringOrganization": "U.S. Department of State",
+  "jobLocation": [
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Arlington",
+        "addressRegion": "VA "
+      }
+    }
+  ],
+  "responsibilities": "",
+  "qualifications": "<p>Applicants must meet all the required qualification requirements described below by the closing date of this announcement.</p>\n<p><strong>NOTE:</strong> Applicants must meet time-in-grade and time after competitive appointment requirements, by the closing date of this announcement.</p>\n<p><strong>Time-In-Grade Requirements:</strong> Federal applicants must have served 52 weeks at the next lower grade to satisfy time-in-grade restrictions, per 5CFR 300, Subpart F.</p>\n<p>Applicants must have 1 year of specialized experience equivalent to the GS-12 level in the Federal service which provided the applicant with the particular knowledge, skills and abilities to perform the duties of the position. <strong>Qualifying specialized experience must demonstrate the following:</strong></p>\n<ul>\n<li><!-- [if !supportLists]-->Experience analyzing and evaluating financial needs and trends to forecast future financial requirements;</li>\n<li>Experience preparing financial planning documents to support budget execution; AND</li>\n<li><!-- [if !supportLists]-->Experience performing audits and evaluations of financial matters.</li>\n</ul>\n<p>There is no substitute of education for specialized experience for the GS-13 position.</p>",
+  "title": "Financial Management Specialist",
+  "validThrough": "2026-11-02"
+}

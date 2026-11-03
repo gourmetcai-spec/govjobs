@@ -1,8 +1,8 @@
 # Unsubmitted jobs — review and attention items
 
-Last refresh: 2026-11-02 18:57:35 EST. Verification status is preserved; unknown qualifications or dates do not block preparation.
+Last refresh: 2026-11-02 22:44:05 EST. Verification status is preserved; unknown qualifications or dates do not block preparation.
 
-119 unsubmitted position(s). Existing exclusion decisions must be rechecked under the current preparation policy on the next Step 1.
+121 unsubmitted position(s). Existing exclusion decisions must be rechecked under the current preparation policy on the next Step 1.
 
 ## Preparation candidates
 
@@ -593,6 +593,30 @@ Last refresh: 2026-11-02 18:57:35 EST. Verification status is preserved; unknown
 - Attention: Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
 - Next action: Complete remaining independent preparation; user selection is required for Step 2.
 - [Official job](https://www.usajobs.gov/job/886417700)
+
+### Federal Housing Finance Agency — Senior Program Analyst (Oversight)
+
+- Stable ID: `3b5f4dc7148bf187`
+- Location: Washington, DC
+- Role / supported fit: Mortgage finance leadership, cross-team delivery and regulatory reporting overlap with financial oversight coordination; congressional engagement and federal audit workflow expertise remain unverified.
+- Deadline: 2026-11-09
+- Status: needs_verification; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/3b5f4dc7148bf187__resume-xuewu-cai__federal-housing-finance-agency__senior-program-analyst-oversight__891309300.pdf)
+- Attention: Mandatory selective placement factor: extensive experience coordinating congressional committee interactions in banking, financial services, housing or oversight is unverified. Confirm 52 weeks at EL/GS-14 equivalent and all specialized-experience clauses. On-site Washington DC; no telework. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
+- Next action: Complete remaining independent preparation; user selection is required for Step 2.
+- [Official job](https://www.usajobs.gov/job/891309300)
+
+### Federal Housing Finance Agency — Senior Program Analyst (Oversight)
+
+- Stable ID: `68bf1bd46e1928ba`
+- Location: Washington, DC
+- Role / supported fit: Mortgage finance leadership, cross-team delivery and regulatory reporting overlap with financial oversight coordination; congressional engagement and federal audit workflow expertise remain unverified.
+- Deadline: 2026-11-09
+- Status: needs_verification; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/68bf1bd46e1928ba__resume-xuewu-cai__federal-housing-finance-agency__senior-program-analyst-oversight__891309200.pdf)
+- Attention: Mandatory selective placement factor: extensive experience coordinating congressional committee interactions in banking, financial services, housing or oversight is unverified. Confirm 52 weeks at EL/GS-14 equivalent and all specialized-experience clauses. On-site Washington DC; no telework. Hiring-path eligibility unverified: Competitive service, Career transition (CTAP, ICTAP, RPL), Veterans, Military spouses, Individuals with disabilities, Peace Corps & AmeriCorps Vista, Special authorities. Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
+- Next action: Complete remaining independent preparation; user selection is required for Step 2.
+- [Official job](https://www.usajobs.gov/job/891309200)
 
 ### Forest Service — Supervisory Information Technology Specialist (SYSANALYSIS)
 

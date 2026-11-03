@@ -1,0 +1,733 @@
+USAJOBS - Job Announcement
+
+ Skip to main content
+
+ An official website of the United States government
+
+Official websites use .gov
+
+A .gov website belongs to an official government organization in the United States.
+
+Secure .gov websites use HTTPS
+ A lock ( LockA locked padlock ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.
+
+ MENU
+
+ Sign in
+
+ My jobs
+
+ Profile
+
+ Resumes & documents
+
+ Notifications
+
+ Talent networks
+
+ Sign out
+
+ My jobs
+
+ Profile
+
+ Resumes & documents
+
+ Notifications
+
+ Talent networks
+
+ Sign out
+
+ Events
+
+ Help Center
+
+ Search
+
+ Back to results
+
+ Apply
+
+ Software Engineer and Data Automation Specialist
+
+Judicial Branch
+
+U. S. Sentencing Commission
+
+Apply
+
+ Print
+
+ Share
+
+ Save
+
+ Summary
+
+ This job is open to
+
+ Duties
+
+ Requirements
+
+ How you will be evaluated
+
+ Required documents
+
+ How to apply
+
+Summary
+
+The Commission is seeking a Software Engineering and Data Automation Specialist who will work within the Information Systems team of the Office of Administration and Technology. The incumbent will design, develop, integrate, and maintain applications, data-processing workflows, data warehouse solutions, and analytics systems, with an emphasis on document and data extraction, processing, transformation, validation, integration, and automation.
+
+ Learn more about this agency
+
+Summary
+
+The Commission is seeking a Software Engineering and Data Automation Specialist who will work within the Information Systems team of the Office of Administration and Technology. The incumbent will design, develop, integrate, and maintain applications, data-processing workflows, data warehouse solutions, and analytics systems, with an emphasis on document and data extraction, processing, transformation, validation, integration, and automation.
+
+ Learn more about this agency
+
+Overview
+
+ Help
+
+Accepting applications
+
+Location
+
+1 vacancy in the following location:
+
+ Washington, DC
+
+ No matching locations found.
+
+Work site options
+
+Telework eligible
+
+Yes—as determined by the agency policy.
+
+Remote job
+
+No
+
+Relocation expenses reimbursed
+
+ No
+
+Salary
+
+ $102,415 - $187,093 per year
+
+Pay scale & grade
+
+JS 12 - 14
+
+Promotion potential
+
+14
+
+ Learn more about pay scale and grade
+
+ Pay scale and grade determines the salary of the job.
+
+Work schedule
+
+Full-time
+
+Travel Required
+
+Not required
+
+Appointment type
+
+Permanent
+
+Occupations and job series
+
+ 2210 Information Technology Management
+
+Supervisory status
+
+No
+
+Federal service type
+
+This job is in the Excepted Service
+
+Represented by a union
+
+No
+
+Drug test
+
+No
+
+Security clearance
+
+Other
+
+Position sensitivity and risk
+
+Non-sensitive (NS)/Low Risk
+
+ Jobs require a
+ background check and some require a
+ security clearance. The type depends on the job.
+
+Background check type
+
+ Suitability/Fitness
+
+Financial disclosure required
+
+No
+
+ Some jobs require
+ financial disclosure to identify conflicts of interests.
+
+Announcement number
+
+27-01
+
+Control number
+
+888547100
+
+This job is open to
+
+ Help
+
+The public
+
+ U.S. Citizens, Nationals or those who owe allegiance to the U.S.
+
+Duties
+
+ Help
+
+ The Software Engineering and Data Automation Specialist will work within the Information Systems team of the Office of Administration and Technology to support the research and operational work of the United States Sentencing Commission. The incumbent will design, develop, integrate, and maintain applications, data-processing workflows, data warehouse solutions, and analytics systems, with an emphasis on document and data extraction, processing, transformation, validation, integration, and automation.
+
+The position encompasses both modernization projects and ongoing support of existing systems. Assignments may include leading or supporting document extraction, data transformation, database integration, reporting, and application maintenance, with responsibilities varying according to project priorities, operational needs, and team expertise. The incumbent will collaborate with technical staff and subject-matter experts to develop shared knowledge of the Commission's data, business rules, and systems. The ideal candidate will be passionate about data and technology, possess strong analytical and problem-solving skills, and enjoy developing practical solutions to complex data and automation challenges.
+
+The incumbent will:
+
+Analyze business and user requirements and design, develop, implement, and maintain software solutions supporting data collection, document processing, data integration, business intelligence, and analytics.
+
+Design and develop Python applications and automated pipelines to ingest and process PDFs, scanned documents, databases, and other structured and unstructured data sources.
+
+Develop and enhance OCR, text parsing, regular-expression, and document-layout techniques. Segment documents into meaningful sections or chunks while preserving context, document identifiers, and source locations needed for subsequent processing and review.
+
+Collaborate with subject-matter experts to define, document, implement, and test coding rules that transform extracted information into standardized data elements. Address exceptions, conflicting information, and ambiguous results through documented validation and review procedures.
+
+Develop and maintain SQL and Oracle PL/SQL solutions for data transformation, validation, reconciliation, loading, and integration with operational databases and data warehouses.
+
+Design and support end-to-end workflows for ingestion, extraction, transformation, validation, and database loading, including scheduling, monitoring, error handling, restart, and recovery.
+
+Evaluate and apply machine learning, natural-language processing, and locally hosted AI models where they improve document extraction, classification, search, or analysis. Compare results with established methods and approved reference data before production use.
+
+Develop and integrate secure applications for air-gapped and restricted-network environments, using approved tools, APIs, and locally hosted services as appropriate.
+
+Design, maintain, and enhance data models, ETL/ELT processes, and system interfaces as data sources, technologies, and business requirements evolve.
+
+Develop, enhance, maintain, and validate reports, dashboards, and data visualizations, ensuring the accuracy and usability of information provided to staff and other authorized users.
+
+Maintain and enhance existing applications, data warehouse processes, and analytics platforms, including configurations, integrations, upgrades, and performance tuning.
+
+Contribute to application and data architecture by designing secure, maintainable interfaces and processing components that integrate with enterprise systems and support future modernization.
+
+Implement automated testing, regression testing, data-quality checks, logging, and monitoring. Maintain traceability from source documents through extraction and transformation to database values, including applicable rule and model versions.
+
+Implement and maintain application security, authentication, authorization, and related controls; comply with applicable federal information security, privacy, data governance, and records-management requirements.
+
+Monitor production systems, investigate data discrepancies and processing failures, and resolve technical issues to maintain reliable operations.
+
+Maintain technical documentation, coding-rule specifications, test cases, and operating procedures. Participate in cross-training and knowledge transfer to support shared responsibility for Commission systems.
+
+Provide technical support, consultation, and training to technical staff and end users, and manage assigned projects and operational tasks to meet established requirements, quality standards, and deadlines.
+
+Perform other duties as assigned.
+
+Requirements
+
+ Help
+
+Conditions of employment
+
+ MANDATORY QUALIFICATION REQUIREMENTS
+
+Applicants must have:
+
+An undergraduate degree from an accredited university or college in information technology or a related field of study.
+
+A minimum of three (3) years of application development experience to qualify for JS-12.
+
+At least one (1) year of specialized experience equivalent to the next lower level of the grade for which they are applying. For example, to qualify for the JS-13, one (1) year of specialized experience must have been at the GS-12 level or equivalent.
+
+Qualifications
+
+ Specialized Experience:
+
+Software Development: Experience developing and maintaining production Python applications using modular design, source control, testing, documentation, and secure development practices.
+
+Data Processing and Transformation: Experience using relational databases to transform, validate, reconcile, and load data, and translating business requirements and documented coding rules into maintainable software.
+
+Document Processing: Experience extracting and processing information from PDFs, text documents, or scanned images using text parsing, regular expressions, OCR, or comparable techniques, with attention to document structure, context, and accuracy.
+
+Automation and Integration: Experience developing and supporting ETL/ELT or automated data-processing workflows and integrating applications, databases, APIs, or other enterprise systems.
+
+Production Reliability: Experience implementing logging, exception handling, automated testing, monitoring, and recovery procedures, and troubleshooting application, database, or data-quality issues.
+
+Collaboration and System Design: Experience analyzing user needs, designing maintainable technical solutions, documenting business logic and system behavior, and working with technical staff and subject-matter experts.
+
+Competencies:
+
+Attention to Detail - Performs work thoroughly and accurately, with careful attention to detail.
+
+Customer Service - Assesses customer needs, provides effective assistance, resolves issues, and delivers quality service.
+
+Decision Making - Makes sound, objective decisions and takes appropriate action to achieve organizational goals.
+
+Information Management - Identifies, gathers, organizes, and maintains information and information systems effectively.
+
+Interpersonal Skills - Builds effective working relationships and communicates with courtesy, tact, empathy, and professionalism.
+
+Oral Communication - Clearly communicates information, findings, recommendations, and viewpoints and effectively persuades others when appropriate.
+
+Problem Solving - Identifies problems, evaluates constraints, and develops practical solutions using available technology and resources.
+
+Teamwork - Promotes cooperation, trust, and team commitment while working effectively with others to achieve shared goals.
+
+Technical Competence - Applies job-related technical knowledge and experience to perform duties, evaluate technical information, and provide technical guidance.
+
+PREFERRED QUALIFICATIONS
+
+Preference will be given to applicants with the following areas of experience:
+
+Oracle databases, SQL and PL/SQL development, data modeling, query optimization, and enterprise data integration.
+
+Advanced document processing, including OCR, layout analysis, context-preserving segmentation, and extraction from varied or complex document formats.
+
+Applied machine learning, natural-language processing, or LLM-based information extraction, including evaluation of accuracy, error analysis, and workflows for human review.
+
+Locally hosted AI models or application deployment in air-gapped, restricted-network, or other controlled environments.
+
+Data warehouses, business intelligence, analytics, and application support, including tools such as ODI, OAS/OBIEE, Oracle APEX, or comparable platforms.
+
+AI-enabled database and application capabilities, including vector search or integration of models through APIs, where relevant to document processing and data analysis.
+
+CONDITIONS OF EMPLOYMENT
+
+The selected applicant must reside in or relocate to the Washington DC Metropolitan area.
+
+This position is in the excepted service and does not carry the tenure rights of positions in the competitive Civil Service.
+
+All information is subject to verification. Applicants are advised that false answers or omissions of information on application materials or inability to meet the following conditions may be grounds for non-selection, withdrawal of an offer of employment, or dismissal after being employed.
+
+Selection for this position is contingent upon completion of OF-306, Declaration for Federal Employment during the pre-employment process and proof of U.S. citizenship or, for noncitizens, proof of authorization to work in the United States and proof of entitlement to receive compensation. Additional information on the employment of non-citizens can be found at: https://help.usajobs.gov/working-in-government/non-citizensFor a list of documents that may be used to provide proof of citizenship or authorization to work in the United States, please refer to http://www.uscis.gov/files/form/i-9.pdf.
+
+The Commission participates in E-Verify and will confirm your authorization to work in the United States.
+
+A background security investigation is required for all selectees. Appointment will be subject to a selectee's successful completion of a background security investigation and favorable adjudication. Failure to successfully meet these requirements may be grounds for appropriate personnel action. A background security reinvestigation or supplemental investigation may be required at a later time.
+
+All new Commission employees must identify a financial institution for direct deposit of pay before appointment, mandated by the Federal Compensation Act.
+
+All new Commission employees, those converted from a temporary appointment to a permanent appointment, and all rehired former Commission employees are required to serve a one-year probationary period. The probationary period begins on the effective date of the employee's appointment, conversion, or rehire.
+
+Education
+
+ Applicants must have an undergraduate degree from an accredited college or university in information technology or a related field of study.
+
+Additional information
+
+BENEFITS
+
+The Commission participates in the following federal benefits: The Federal Employees Health Benefits (FEHB) program; the Federal Employees Dental and Vision Insurance Program (FEDVIP), the Federal Employees Group Life Insurance (FEGLI) program, federal retirement, the Thrift Savings Plan (TSP), and the federal leave program. In addition, the Commission participates in the Judiciary's Flexible Spending Program for dependent care, health care, and commuter reimbursement, the government-wide Long Term Care Insurance Program, unemployment, and workers' compensation benefits.
+
+The Commission offers a monthly transit subsidy to employees who use mass transit to commute to and from work, subject to the availability of funds. The Commission offers alternative work schedules (AWS), which are fixed work schedules that enable full-time employees to complete the basic 80-hour biweekly work requirement in less than 10 workdays.
+
+The position is eligible for regular telework (not full-time) at home or at an approved telework site for employees who meet the requirements of an approved telework arrangement.
+
+The Commission also offers training opportunities to employees through LinkedIn Learning, and the Judiciary's Online University, which offers academic credit and professional credit programs through web-based learning. These training tools assist Commission employees with taking online courses in a flexible way, by offering training courses in the areas of: staff training and development; credit toward undergraduate degree programs; continuing education and non-credit certificate programs; executive education; contract training; credit credentials courses for continuing professional education and credit for individuals who hold credentials and achieve certifications associated with several globally-recognized sponsored organizations.
+
+ Expand Hide  additional information
+
+Candidates should be committed to improving the efficiency of the Federal government, passionate about the ideals of our American republic, and committed to upholding the rule of law and the United States Constitution.
+
+Benefits
+
+ Help
+
+ A career with the U.S. government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding. Opens in a new windowLearn more about federal benefits.
+
+Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time or intermittent. Contact the hiring agency for more information on the specific benefits offered.
+
+How you will be evaluated
+
+You will be evaluated for this job based on how well you meet the qualifications above.
+
+ HOW YOU WILL BE EVALUATED
+
+The Commission evaluates applicants through a structured interview, and practical assessments. Applicants may also be screened for some jobs through a narrative/application review, and/or a preliminary telephone interview. Applicants who do not address the qualification requirements (mandatory and preferred) in his or her application materials as stated in the vacancy announcement are automatically disqualified from consideration and must re-apply before the closing date to be considered for employment.
+
+The Office of Human Resources:
+
+Reviews the applicant's application to ensure the proper materials are submitted.
+
+Ensures that the application addresses all the qualification requirements as stated in the vacancy announcement (mandatory and preferred).
+
+Determines whether the applicant meets the mandatory qualification requirements for the position and notifies the applicant about the status of their application.
+
+Applicants who meet the mandatory qualification requirements will be considered, and their application materials will be forwarded to the screening panel for review.
+
+Benefits
+
+ Help
+
+ A career with the U.S. government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding. Opens in a new windowLearn more about federal benefits.
+
+Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time or intermittent. Contact the hiring agency for more information on the specific benefits offered.
+
+Required documents
+
+Required Documents
+
+ Help
+
+Resume (limited to 2 pages)
+
+Cover Letter
+
+Recent job performance evaluation (if available)
+
+ If you are relying on your education to meet qualification requirements:
+
+ Education must be accredited by an accrediting institution recognized by the U.S. Department of Education in order for it to be credited towards qualifications. Therefore, provide only the attendance and/or degrees from
+ schools accredited by accrediting institutions recognized by the U.S. Department of Education.
+
+ Failure to provide all of the required information as stated in this vacancy announcement may result in an ineligible rating or may affect the overall rating.
+
+How to Apply
+
+ Help
+
+In order to be considered, all applicants must submit an electronic resume (limited to 2 pages) and cover letter that together address all the mandatory and preferred qualification requirements listed in this announcement, and if available, provide a recent job performance evaluation. All mandatory qualification requirements must be met by the closing date of this announcement. Applicants will also need to complete the online occupational questionnaire. All applications must be submitted at www.usajobs.gov.
+
+Agency contact information
+
+ Corinne Smith
+
+Phone
+
+ 202-502-4500
+
+Email
+
+ hr@ussc.gov
+
+Address
+
+ United States Sentencing Commission
+
+ One Columbus Circle NE Suite 2-500
+
+ Washington, DC 20002
+
+ US
+
+Next steps
+
+Applicants who meet the mandatory qualification requirements will be considered and their application materials will be forwarded to the screening panel for review. Applicants who do not meet the mandatory qualification requirements for the position are automatically disqualified from consideration. In addition, some applicants may be tested using various assessment tools not listed on the vacancy announcement to verify an applicant's experience, knowledge, and training directly related to the job to identify the best qualified applicants for consideration and selection.
+
+Fair and transparent
+
+The Federal hiring process is set up to be fair and transparent. Please read the following guidance.
+
+ Criminal history inquiries
+
+ Equal Employment Opportunity (EEO) Policy
+
+ Financial suitability
+
+ New employee probationary period
+
+ Privacy Act
+
+ Reasonable accommodation policy
+
+ Selective Service
+
+ Signature and false statements
+
+ Social security number request
+
+Required Documents
+
+ Help
+
+Resume (limited to 2 pages)
+
+Cover Letter
+
+Recent job performance evaluation (if available)
+
+ If you are relying on your education to meet qualification requirements:
+
+ Education must be accredited by an accrediting institution recognized by the U.S. Department of Education in order for it to be credited towards qualifications. Therefore, provide only the attendance and/or degrees from
+ schools accredited by accrediting institutions recognized by the U.S. Department of Education.
+
+ Failure to provide all of the required information as stated in this vacancy announcement may result in an ineligible rating or may affect the overall rating.
+
+How to Apply
+
+ Help
+
+In order to be considered, all applicants must submit an electronic resume (limited to 2 pages) and cover letter that together address all the mandatory and preferred qualification requirements listed in this announcement, and if available, provide a recent job performance evaluation. All mandatory qualification requirements must be met by the closing date of this announcement. Applicants will also need to complete the online occupational questionnaire. All applications must be submitted at www.usajobs.gov.
+
+ Expand Hide  how to apply
+
+Agency contact information
+
+ Corinne Smith
+
+Phone
+
+ 202-502-4500
+
+Email
+
+ hr@ussc.gov
+
+Address
+
+ United States Sentencing Commission
+
+ One Columbus Circle NE Suite 2-500
+
+ Washington, DC 20002
+
+ US
+
+Next steps
+
+Applicants who meet the mandatory qualification requirements will be considered and their application materials will be forwarded to the screening panel for review. Applicants who do not meet the mandatory qualification requirements for the position are automatically disqualified from consideration. In addition, some applicants may be tested using various assessment tools not listed on the vacancy announcement to verify an applicant's experience, knowledge, and training directly related to the job to identify the best qualified applicants for consideration and selection.
+
+ Expand Hide  next steps
+
+Fair and transparent
+
+The Federal hiring process is set up to be fair and transparent. Please read the following guidance.
+
+ Criminal history inquiries
+
+ Equal Employment Opportunity (EEO) Policy
+
+ Financial suitability
+
+ New employee probationary period
+
+ Privacy Act
+
+ Reasonable accommodation policy
+
+ Selective Service
+
+ Signature and false statements
+
+ Social security number request
+
+ U. S. Sentencing Commission
+
+ The United States Sentencing Commission is an independent federal agency in the Judicial Branch of government consisting of a bipartisan group of seven members appointed by the President and confirmed by the Senate and two non-voting ex-officio members. The agency staff consists of approximately 100 employees. The Commission is tasked by Congress with establishing sentencing policies and practices for the Federal criminal justice system that assure the meeting of the purposes of sentencing, provide certainty and fairness in meeting the purposes of sentencing, and reflect, to the extent practicable, advancement in knowledge of human behavior as it relates to the criminal justice process. The Commission is further tasked with measuring the degree to which the sentencing, penal, and correctional practices are effective in meeting the purposes of sentencing. To fulfill these purposes, the Commission develops and revises guidelines for federal district court judges to consider in sentencing individuals convicted of federal crimes, monitors and evaluates the use of the guidelines, conducts research and education programs on guideline application and sentencing matters generally, produces sentencing-related reports, and recommends improvements in federal sentencing practices and policies to Congress. Additional information about the Commission can be accessed via the Commission's website at www.ussc.gov.
+
+Agency contact information
+
+ Corinne Smith
+
+Phone
+
+ 202-502-4500
+
+Email
+
+ hr@ussc.gov
+
+Address
+
+ United States Sentencing Commission
+
+ One Columbus Circle NE Suite 2-500
+
+ Washington, DC 20002
+
+ US
+
+Visit our careers page
+
+ Learn more about what it's like to work at U. S. Sentencing Commission, what the agency does, and about the types of careers this agency offers.
+
+ https://www.ussc.gov/
+
+Summary
+
+The Commission is seeking a Software Engineering and Data Automation Specialist who will work within the Information Systems team of the Office of Administration and Technology. The incumbent will design, develop, integrate, and maintain applications, data-processing workflows, data warehouse solutions, and analytics systems, with an emphasis on document and data extraction, processing, transformation, validation, integration, and automation.
+
+ Learn more about this agency
+
+Overview
+
+ Help
+
+Accepting applications
+
+Location
+
+1 vacancy in the following location:
+
+ Washington, DC
+
+ No matching locations found.
+
+Work site options
+
+Telework eligible
+
+Yes—as determined by the agency policy.
+
+Remote job
+
+No
+
+Relocation expenses reimbursed
+
+ No
+
+Salary
+
+ $102,415 - $187,093 per year
+
+Pay scale & grade
+
+JS 12 - 14
+
+Promotion potential
+
+14
+
+ Learn more about pay scale and grade
+
+ Pay scale and grade determines the salary of the job.
+
+Work schedule
+
+Full-time
+
+Travel Required
+
+Not required
+
+Appointment type
+
+Permanent
+
+Occupations and job series
+
+ 2210 Information Technology Management
+
+Supervisory status
+
+No
+
+Federal service type
+
+This job is in the Excepted Service
+
+Represented by a union
+
+No
+
+Drug test
+
+No
+
+Security clearance
+
+Other
+
+Position sensitivity and risk
+
+Non-sensitive (NS)/Low Risk
+
+ Jobs require a
+ background check and some require a
+ security clearance. The type depends on the job.
+
+Background check type
+
+ Suitability/Fitness
+
+Financial disclosure required
+
+No
+
+ Some jobs require
+ financial disclosure to identify conflicts of interests.
+
+Announcement number
+
+27-01
+
+Control number
+
+888547100
+
+ Previous result
+
+Next result
+
+Your session is about to expire!
+
+ Your USAJOBS session will expire due to inactivity in 8 minutes.
+ Any unsaved data will be lost if you allow the session to expire.
+ Click the button below to continue your session.
+
+ Sign out
+ Stay signed in
+
+ Return to top
+
+USAJOBS is a Opens in a new windowUnited States Office of Personnel Management website.
+
+ (Opens in a new window) OPM on LinkedIn
+
+ (Opens in a new window) OPM YouTube channel
+
+ (Opens in a new window) OPM on X
+
+Opens in a new windowEEO Policy Statement
+
+Opens in a new windowReasonable Accommodation Policy Statement
+
+Veterans Information
+
+Opens in a new windowLegal and Regulatory Guidance
+
+About USAJOBS
+
+Opens in a new windowAccessibility
+
+Opens in a new windowFOIA
+
+Opens in a new windowInspector general
+
+Opens in a new windowNo Fear Act Data
+
+Opens in a new windowPrivacy policy
+
+Opens in a new windowReports and publications
+
+Opens in a new windowTerms and conditions
+
+Opens in a new windowUSA.gov

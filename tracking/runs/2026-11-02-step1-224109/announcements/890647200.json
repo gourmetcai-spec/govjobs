@@ -1,0 +1,32 @@
+{
+  "@context": "http://www.schema.org",
+  "@type": "JobPosting",
+  "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": {
+      "@type": "QuantitativeValue",
+      "value": 121785.0,
+      "unitText": "YEAR"
+    }
+  },
+  "datePosted": "10/29/2026",
+  "description": "You will serve as an IT Specialist (INFOSEC/PLCYPLN) at the GG-13 grade level responsible for providing specialized IT services to plan and carries out difficult and complex assignments utilizing IT systems and services.",
+  "educationRequirements": "This job does not have an education qualification requirement.",
+  "employmentType": "OTHER",
+  "hiringOrganization": "US FLEET CYBER COMMAND",
+  "jobLocation": [
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Fort Meade Naval Facilities",
+        "addressRegion": "MD "
+      }
+    }
+  ],
+  "responsibilities": "",
+  "qualifications": "<strong>Qualified candidates must demonstrate the possession of at least one year of information technology related experience in the federal service or private or public sector demonstrating the following four competencies, as defined:</strong><br>\n1) <strong>Attention to Detail</strong> - Is thorough when performing work and conscientious about attending to detail;<br>\n2) <strong>Customer Service</strong> - Works with clients and customers (that is, any individuals who use or receive the services or products that your work unit produces, including the general public, individuals who work in the agency, other agencies, or organizations outside the Government) to assess their needs, provide information or assistance, resolve their problems, or satisfy their expectations; knows about available products and services; is committed to providing quality products and services;<br>\n3) <strong>Oral Communication</strong> - Expresses information (for example, ideas or facts) to individuals or groups effectively, taking into account the audience and nature of the information (for example, technical, sensitive, controversial); makes clear and convincing oral presentations; listens to others, attends to nonverbal cues, and responds appropriately;<br>\n4) <strong>Problem Solving</strong> - Identifies problems; determines accuracy and relevance of information; uses sound judgment to generate and evaluate alternatives, and to make recommendations.<br>\n<br>\n<strong>In addition to the Basic Requirements for this position,</strong> your resume must also demonstrate at least one year of specialized experience at or equivalent to the <strong>GG/GS-13</strong> grade level or pay band in the Federal service or equivalent experience in the private or public sector. Specialized experience must demonstrate the following duties such as:<br>\n1) Develop and promulgate Information Technology strategy, policy, guidance, and plans.2) Develop and maintain technical and operational documentation to support hardware/software lifecycle (installation, operation, change and removal).3) Plan, develop and/or manage processes across the information systems/services life cycle to ensure Information Technology capabilities meet current and future organizational and enterprise missions.4) Develops networks and builds alliances; collaborates across boundaries to build strategic relationships and achieve common goals.<br>\n<br>\nAdditional qualification information can be found from the following Office of Personnel Management website:<br>\n<a href=\"https://www.opm.gov/policy-data-oversight/classification-qualifications/general-schedule-qualification-standards/#url=List-by-Occupational-Series\">https://www.opm.gov/policy-data-oversight/classification-qualifications/general-schedule-qualification-standards/#url=List-by-Occupational-Series</a><br>\n<br>\n<b><u>Additional qualification information can be found from the following DON DCIPS policy website: </u></b><br>\n<u><a href=\"https://www.secnav.navy.mil/doni/Naval%20Intelligence%20Activity/Chapter%205%20-%20Employment%20and%20Placement.pdf\" target=\"_blank\" title=\"https://www.secnav.navy.mil/doni/naval%20intelligence%20activity/chapter%205%20-%20employment%20and%20placement.pdf\">https://www.secnav.navy.mil/doni/Naval%20Intelligence%20Activity/Chapter%205%20-%20Employment%20and%20Placement.pdf</a></u><br>\n<br>",
+  "title": "IT Specialist (INFOSEC/PLCYPLN)",
+  "validThrough": "2026-11-04"
+}

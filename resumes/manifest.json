@@ -584,6 +584,28 @@
       "sha256": "aa9a138589eefa7fcb3311fe62a4456224b215a038e817f8f1eb079756ce200f"
     },
     {
+      "id": "3b5f4dc7148bf187",
+      "employer": "Federal Housing Finance Agency",
+      "title": "Senior Program Analyst (Oversight)",
+      "status": "needs_verification",
+      "resume_status": "prepared_with_attention",
+      "version_label": "current",
+      "source": "applications/2026-11-02__federal-housing-finance-agency__senior-program-analyst-oversight__3b5f4dc7148bf187/resume-xuewu-cai__federal-housing-finance-agency__senior-program-analyst-oversight__891309300.pdf",
+      "path": "resumes/3b5f4dc7148bf187__resume-xuewu-cai__federal-housing-finance-agency__senior-program-analyst-oversight__891309300.pdf",
+      "sha256": "90c98f71edd4d0a3dcef8b579a18792957cc351fd3f09a4268666dbdf3583375"
+    },
+    {
+      "id": "68bf1bd46e1928ba",
+      "employer": "Federal Housing Finance Agency",
+      "title": "Senior Program Analyst (Oversight)",
+      "status": "needs_verification",
+      "resume_status": "prepared_with_attention",
+      "version_label": "current",
+      "source": "applications/2026-11-02__federal-housing-finance-agency__senior-program-analyst-oversight__68bf1bd46e1928ba/resume-xuewu-cai__federal-housing-finance-agency__senior-program-analyst-oversight__891309200.pdf",
+      "path": "resumes/68bf1bd46e1928ba__resume-xuewu-cai__federal-housing-finance-agency__senior-program-analyst-oversight__891309200.pdf",
+      "sha256": "d7d173c3ffde9698faa759a970bf259bdb6fe8833988c52017557b2cbfb6f86a"
+    },
+    {
       "id": "e764c582e8de8364",
       "employer": "Forest Service",
       "title": "Supervisory Information Technology Specialist (SYSANALYSIS)",

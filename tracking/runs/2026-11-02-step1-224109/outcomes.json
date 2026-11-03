@@ -1,0 +1,55 @@
+[
+  {
+    "id": "68bf1bd46e1928ba",
+    "control": "891309200",
+    "new": true,
+    "employer": "Federal Housing Finance Agency",
+    "title": "Senior Program Analyst (Oversight)",
+    "location": "Washington, DC",
+    "close_date": "2026-11-09",
+    "status": "needs_verification",
+    "track": "engineering",
+    "artifacts": {
+      "resume_markdown": {
+        "path": "applications/2026-11-02__federal-housing-finance-agency__senior-program-analyst-oversight__68bf1bd46e1928ba/resume-xuewu-cai__federal-housing-finance-agency__senior-program-analyst-oversight__891309200.md",
+        "sha256": "b2e09d36d0a64929cfed17ec6811cdbaad1ca178be97a4677ab59ef9565366bf"
+      },
+      "resume_pdf": {
+        "path": "applications/2026-11-02__federal-housing-finance-agency__senior-program-analyst-oversight__68bf1bd46e1928ba/resume-xuewu-cai__federal-housing-finance-agency__senior-program-analyst-oversight__891309200.pdf",
+        "sha256": "d7d173c3ffde9698faa759a970bf259bdb6fe8833988c52017557b2cbfb6f86a"
+      }
+    },
+    "attention": [
+      "Mandatory selective placement factor: extensive experience coordinating congressional committee interactions in banking, financial services, housing or oversight is unverified. Confirm 52 weeks at EL/GS-14 equivalent and all specialized-experience clauses. On-site Washington DC; no telework.",
+      "Hiring-path eligibility unverified: Competitive service, Career transition (CTAP, ICTAP, RPL), Veterans, Military spouses, Individuals with disabilities, Peace Corps & AmeriCorps Vista, Special authorities. Confirm qualifying status before application; absence from baseline is not proof of ineligibility.",
+      "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+    ],
+    "prior_artifacts": []
+  },
+  {
+    "id": "3b5f4dc7148bf187",
+    "control": "891309300",
+    "new": true,
+    "employer": "Federal Housing Finance Agency",
+    "title": "Senior Program Analyst (Oversight)",
+    "location": "Washington, DC",
+    "close_date": "2026-11-09",
+    "status": "needs_verification",
+    "track": "engineering",
+    "artifacts": {
+      "resume_markdown": {
+        "path": "applications/2026-11-02__federal-housing-finance-agency__senior-program-analyst-oversight__3b5f4dc7148bf187/resume-xuewu-cai__federal-housing-finance-agency__senior-program-analyst-oversight__891309300.md",
+        "sha256": "b2e09d36d0a64929cfed17ec6811cdbaad1ca178be97a4677ab59ef9565366bf"
+      },
+      "resume_pdf": {
+        "path": "applications/2026-11-02__federal-housing-finance-agency__senior-program-analyst-oversight__3b5f4dc7148bf187/resume-xuewu-cai__federal-housing-finance-agency__senior-program-analyst-oversight__891309300.pdf",
+        "sha256": "90c98f71edd4d0a3dcef8b579a18792957cc351fd3f09a4268666dbdf3583375"
+      }
+    },
+    "attention": [
+      "Mandatory selective placement factor: extensive experience coordinating congressional committee interactions in banking, financial services, housing or oversight is unverified. Confirm 52 weeks at EL/GS-14 equivalent and all specialized-experience clauses. On-site Washington DC; no telework.",
+      "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+    ],
+    "prior_artifacts": []
+  }
+]

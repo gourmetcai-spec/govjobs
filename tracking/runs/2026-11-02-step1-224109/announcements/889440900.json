@@ -1,0 +1,32 @@
+{
+  "@context": "http://www.schema.org",
+  "@type": "JobPosting",
+  "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": {
+      "@type": "QuantitativeValue",
+      "value": 50000,
+      "unitText": "YEAR"
+    }
+  },
+  "datePosted": "10/20/2026",
+  "description": "Marine Corps Community Services (MCCS) is looking for the best and brightest to join our Team!  MCCS is a comprehensive program that supports and enhances the quality of life for Marines, their families, and others in the Marine Corps Community. We offer a team oriented environment comprised of military personnel, civilian employees, contractors and volunteers who keep the organization functioning smoothly and effectively.",
+  "educationRequirements": "",
+  "employmentType": "OTHER",
+  "hiringOrganization": "BUSINESS AND SUPPORT SERVICES",
+  "jobLocation": [
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Quantico",
+        "addressRegion": "VA "
+      }
+    }
+  ],
+  "responsibilities": "<p>This position's pay level is NF-3. At the NF-3 level, the incumbent is expected to perform duties under close supervision. Advancement to the target grade level of NF-4 requires completion of the minimum NF-4 qualifications, minimum of two years employment as an NF-3 and must be recommended by the supervisor.</p><p>Introduction: This position is located within the Resource Management (MRF) Nonappropriated Financial Analysis and Reporting Section (NAF FAR). The incumbent will work with other members of FAR to learn the role and complete deliverables. The incumbent is responsible for knowing and applying generally accepted accounting procedures.</p><p>SUMMARY OF DUTIES: &nbsp;Assists the NAF FAR section by providing professional accounting and budgetary oversight of Marine Corps Community Services (MCCS) Nonappropriated Funds (NAF) programs. Works in collaboration with program and support managers and Finance Branch staff to research, analyze, and resolve complex accounting, budgeting, and financial management issues. &nbsp;Communicates with other staff members to find team-based solutions and efficiencies in financial processes. &nbsp;Coordinates all decisions with all affected parties in advance of implementation to ensure managers are involved with and committed to implementation of new processes and procedures. &nbsp;</p><p>Provides World Class Customer Service with an emphasis on courtesy. Assists customers and communicates positively in a friendly manner. &nbsp;Take action to solve problems quickly. &nbsp;Alerts the higher-level supervisor, or proper point of contact for help when problems arise. &nbsp;Adhere to safety regulations and standards. &nbsp;Promptly reports any observed workplace hazards, and any injury, occupational illness, and/or property damage resulting from workplace mishaps to the immediate supervisor. &nbsp;Adhere to established standards of actively supporting the principles of the EEO program and prevention of sexual harassment.</p><p>Performs other related duties as assigned. This is a white-collar position where occasional lifting up to 20 lbs. may be required.<br>&nbsp;</p>",
+  "qualifications": "<p>Three (3) years of experience that demonstrates knowledge of generally accepted accounting principles, accounting theories, practices, methods and techniques to independently perform a variety of assignments and advise managers on accounting and financial matters Ability to apply principles and practices of budget formulation and knowledge of the relationship between accounting and budgeting systems. &nbsp;Skill in using computers, electronic communications, and spreadsheet analysis; analyzing accounting systems or in modifying and adapting conventional accounting and analytical techniques and procedures to solve a variety of accounting problems; in gathering, assembling, consolidating and analyzing financial data and drawing conclusions and recommending work process improvements. &nbsp;Skill to communicate effectively orally and in writing sufficient to prepare reports and guidance, provide briefings on controversial or complex topics and to establish and maintain effective relationships and collaborate with various levels of management. &nbsp;Ability to resolve issues or problems and provide advice and assistance. &nbsp;Applicable education may be substituted for experience.&nbsp;</p><p><br>Ability to take on the following responsibilities under the direct supervision of the NAF FAR Senior Manager; prepares financial analysis of all Nonappropriated Fund Instrumentalities (NAFIs) and their cost centers using financial statements, budgets, historical data and personal research. Researches, analyzes, and provides routine and ad-hoc reports that summarize NAF results against budgets and historical years for program and support managers and MCCS staff. Provides standard budget execution reports to program and support managers. Performs internal financial review and special financial studies and analyses as required. Assists with completion of annual reporting requirements to internal and external stakeholders. Gains knowledge of MCCS and the financial policies that are specific to our operations.&nbsp;<br>&nbsp;</p>",
+  "title": "FINANCIAL ANALYST (ANALYSIS & REPORTING)",
+  "validThrough": "2026-11-03"
+}

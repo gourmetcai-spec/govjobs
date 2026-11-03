@@ -1,0 +1,859 @@
+USAJOBS - Job Announcement
+
+ Skip to main content
+
+ An official website of the United States government
+
+Official websites use .gov
+
+A .gov website belongs to an official government organization in the United States.
+
+Secure .gov websites use HTTPS
+ A lock ( LockA locked padlock ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.
+
+ MENU
+
+ Sign in
+
+ My jobs
+
+ Profile
+
+ Resumes & documents
+
+ Notifications
+
+ Talent networks
+
+ Sign out
+
+ My jobs
+
+ Profile
+
+ Resumes & documents
+
+ Notifications
+
+ Talent networks
+
+ Sign out
+
+ Events
+
+ Help Center
+
+ Search
+
+ Back to results
+
+ Apply
+
+ IT Software Engineer (Tech Force)
+
+Office of Personnel Management
+
+GSA, SSA, OPM, HHS, State, Treasury and other Federal agencies may hire from this announcement.
+
+Apply
+
+ Print
+
+ Share
+
+ Save
+
+ Summary
+
+ This job is open to
+
+ Duties
+
+ Requirements
+
+ How you will be evaluated
+
+ Required documents
+
+ How to apply
+
+Summary
+
+The US Tech Force is an elite corps advancing federal technology. Backed by the White House, it deploys top Super Intelligence (SI) and engineering talent across government. GSA, SSA, OPM, State, Treasury, and HHS are among the participating agencies seeking innovators ready to tackle critical national challenges.
+
+ Learn more about this agency
+
+Summary
+
+The US Tech Force is an elite corps advancing federal technology. Backed by the White House, it deploys top Super Intelligence (SI) and engineering talent across government. GSA, SSA, OPM, State, Treasury, and HHS are among the participating agencies seeking innovators ready to tackle critical national challenges.
+
+ Learn more about this agency
+
+Overview
+
+ Help
+
+Accepting applications
+
+Location
+
+Many vacancies in the following locations:
+
+ Metropolitan area surrounding
+
+Washington, DC
+
+ Location Negotiable After Selection
+
+ Baltimore, MD
+
+ Kansas City, MO
+
+ No matching locations found.
+
+Work site options
+
+Telework eligible
+
+No
+
+Remote job
+
+No
+
+Relocation expenses reimbursed
+
+ Yes—Varies by hiring agency - Some positions may qualify for reimbursement of relocation expenses in accordance with agency policy.
+
+Salary
+
+ $125,776 - $197,200 per year
+
+Salary is an approximation. Final salary depends on duty location and hiring agency.
+
+Pay scale & grade
+
+GS 14
+
+Promotion potential
+
+None
+
+ Learn more about pay scale and grade
+
+ Pay scale and grade determines the salary of the job.
+
+Work schedule
+
+Full-time
+
+Travel Required
+
+Occasional travel - Varies by hiring agency - Some positions may require travel.
+
+Appointment type
+
+Term - Not to Exceed 2 years. May be extended to a max of 4 years.
+
+Occupations and job series
+
+ 2210 Information Technology Management
+
+Supervisory status
+
+No
+
+Federal service type
+
+This job is in the Competitive Service
+
+Represented by a union
+
+Yes - Varies by hiring agency - Some positions may be covered by a bargaining unit.
+
+Drug test
+
+Yes
+
+Security clearance
+
+Other
+
+Financial disclosure required
+
+Yes - Varies by hiring agency - Some positions may require a financial disclosure.
+
+ Some jobs require
+ financial disclosure to identify conflicts of interests.
+
+Announcement number
+
+TF-13048430-26-AB
+
+Control number
+
+888508400
+
+This job is open to
+
+ Help
+
+The public
+
+ U.S. Citizens, Nationals or those who owe allegiance to the U.S.
+
+Career transition (CTAP, ICTAP, RPL)
+
+ Federal employees whose job, agency or department was eliminated and are eligible for priority over other applicants.
+
+Videos
+
+Duties
+
+ Help
+
+ Those selected will join a cohort of individuals that receive leadership training, get exposure to America's top technology CEOs and gain unparalleled exposure to policymaking and national-scale impact. This may include CEO fireside chats, networking events, coding training/certificates, and other opportunities.
+
+The specific duties assigned to an IT Software Engineer may differ by hiring agency, Examples may include:
+
+Supporting the expansion and use of Super Intelligence (SI) across government. Leveraging SI-assisted development tools and prompt-engineering techniques to streamline delivery processes, enhance code quality, and automate documentation and defect detection.
+
+Full-stack engineering, which may include modern Continuous Integration/Continuous Deployment (CI/CD) implementation, automated and performance testing, observability, SI tool integration, cybersecurity applications, and delivery of robust, secure, and maintainable systems.
+
+Leads the planning, coordination, and execution of major IT applications software projects, including software design, development, testing, and implementation.
+
+Participates in interagency working groups, task forces, and strategic planning sessions to align IT initiatives with broader government priorities.
+
+Leads project teams composed of technical specialists, analysts, and support staff. Assigns tasks, monitors progress, and ensures deliverables meet quality expectations and stakeholder requirements.
+
+Requirements
+
+ Help
+
+Conditions of employment
+
+ This is a shared announcement used by multiple Federal agencies. Applicants must meet all conditions of employment listed in this announcement and any agency-specific requirements. Depending on the position, these may include:
+
+Completion of the E-Verify employment verification process.
+
+Selective Service registration, if applicable.
+
+Background investigation and suitability determination.
+
+Security clearance, if required by the hiring agency. Must be able to pass a background investigation and/or obtain and hold a security clearance, as determined by the hiring agency.
+
+Drug testing, financial disclosure, or bargaining unit coverage, depending on the position.
+
+May require a pre-employment drug test and/or random drug testing during the period of employment.
+
+Direct deposit of salary payments.
+
+Successfully completing a probationary period.
+
+Applicants must be a U.S. Citizen or national.
+
+Specific conditions of employment may vary by hiring agency. Applicants should clarify duty location, travel, security clearance, and other position-specific requirements with the hiring agency, if contacted for interview or selection.
+
+Qualifications
+
+ This announcement will close at 11:59 PM (ET) on 11/06/2026. Applicants must meet all qualifications and eligibility requirements by the closing date.
+
+Minimum Qualification Requirement:
+
+Under the updated Competency-Based Qualification Standard for the IT Management Series (2210), applicants must:
+
+Meet or exceed all required general competencies at the minimum proficiency level for the GS-14 grade,
+
+Meet or exceed all required technical competencies established for this announcement for the GS-14 grade, and
+
+Demonstrate you have the required specialized experience for the position.
+
+You may be considered ineligible and removed from further consideration for the position, if you fail to meet any of the criteria above.
+
+Required General Competencies
+
+Attention to Detail: Is thorough when performing work and conscientious about attending to detail.
+
+Customer Service: Works with clients and customers (that is, any individuals who use or receive the services or products that your work unit produces, including the general public, individuals who work in the agency, other agencies, or organizations outside the Government) to assess their needs, provide information or assistance, resolve their problems, or satisfy their expectations; knows about available products and services; is committed to providing quality products and services.
+
+Decision Making: Makes sound, well-informed, and objective decisions; perceives the impact and implications of decisions; commits to action, even in uncertain situations, to accomplish organizational goals; causes change.
+
+Information Management: Identifies a need for and knows where or how to gather information; organizes and maintains information or information management systems.
+
+Interpersonal Skills: Shows understanding, friendliness, courtesy, tact, empathy, concern, and politeness to others; develops and maintains effective relationships with others; may include effectively dealing with individuals who are difficult, hostile, or distressed; relates well to people from varied backgrounds and different situations
+
+Oral Communication: Expresses information (for example, ideas or facts) to individuals or groups effectively, taking into account the audience and nature of the information (for example, technical, sensitive, controversial); makes clear and convincing oral presentations; listens to others, attends to nonverbal cues, and responds appropriately.
+
+Problem Solving: Identifies problems; determines accuracy and relevance of information; uses sound judgment to generate and evaluate alternatives, and to make recommendations.
+
+Teamwork: Encourages and facilitates cooperation, pride, trust, and group identity; fosters commitment and team spirit; works with others to achieve goals.
+
+Technical Competency: Uses knowledge that is acquired through formal training or on-the-job experience to perform one's job; works with, understands, and evaluates technical information related to the job; advises others on technical issues.
+
+Required Technical Competencies:
+
+General Programming and Algorithms
+
+Debugging and Troubleshooting
+
+Requirement Understanding and Implementation
+
+Performance Optimization and Scalability
+
+Specialized Experience
+
+You must demonstrate the competencies required to successfully perform the duties of the position. These competencies are normally attained through one year of specialized experience equivalent to the next lower grade level of the position being filled but may be obtained through other means. Experience may be paid or unpaid (internships, volunteerism). Experience must be validated through the assessment process, consistent with OPM's skills-based hiring policy.
+
+Qualifying specialized experience includes:
+
+Solving problems with secure, scalable solutions, such as diagnosing issues (e.g., bugs, performance, integration), improving reliability, or building with security in mind (e.g., authentication/authorization, data protection) so systems can handle growth.
+
+Explaining technical ideas, such as sharing updates and tradeoffs with different audiences (e.g., engineers, product partners, and senior leaders) through briefings, reports, or documentation.
+
+Leading software efforts, such as designing, building, deploying, or maintaining reliable technical solutions that address user or mission requirements.
+
+Specialized experience must show demonstrable competencies aligned to the position's job analysis and the IT-2210 standard.
+
+Reasonable Accommodation (RA) Requests: If you believe you have a disability (i.e., physical or mental), covered by the Rehabilitation Act of 1973 as amended that would interfere with completing online assessments, you will be granted the opportunity to request a RA in your online application. Requests for RA for the online assessments and appropriate supporting documentation for RA must be received prior to starting the online assessment. Decisions on requests for RA are made on a case-by-case basis. If you meet the minimum qualifications of the position, after notification of the adjudication of your request, you will receive an email invitation to complete the USA Hire Assessments, based on your adjudication decision. You must complete all assessments within 48 hours of receiving the URL to access the USA Hire Assessments if you received the link after the close of the announcement. To determine if you need a RA, please review the Procedures for Requesting a Reasonable Accommodation for Online Assessments.
+
+Education
+
+ This job does not have an education qualification requirement.
+
+Additional information
+
+Agencies recruiting from this job announcement may include but are not limited to: Social Security Administration (SSA), General Services Administration (GSA), Office of Personnel Management (OPM), Department of State (State), Department of Treasury (Treasury), and Department of Health and Human Services (HHS).
+
+Agencies with non-General Schedule (non-GS) pay plans or bands may hire from this announcement when the vacancy they are filling is equivalent to the GS grade advertised. The hiring agency's servicing HR office must verify grade-equivalency alignment with the advertised GS grade. Selections from this announcement must be for the GS grade (or equivalent pay plan or band) included in the announcement.
+
+Agencies may use this announcement to fill vacancies at additional duty locations. Specific duty locations outside of Washington, DC, Baltimore, MD, and Kansas City, MO are not known at the time of this announcement.
+
+The salary range posted in this announcement is an approximation and subject to locality. Final duty location and pay will be determined by the hiring agency.
+
+Recruitment, relocation or other incentives may be available, depending on the hiring agency's policies.
+
+Appointments are for 2-year periods. Appointments may be extended to a max of 4 years based on the needs of the hiring agency. There are no rights to further Federal employment in either the competitive or excepted service upon expiration of appointment.
+
+Current or Former Political Appointees: The Office of Personnel Management (OPM) must authorize employment offers made to current or former political appointees. If you are currently, or have been within the last 5 years, a political Schedule A, Schedule C, non-career SES, or Presidential appointee employee in the Executive Branch, you must disclose this information to the Human Resources Office.
+
+The Interagency Career Transition Assistance Plan (ICTAP) provides eligible displaced Federal competitive service employees with selection priority over other candidates for competitive service vacancies. If your agency has notified you in writing that you are a displaced employee eligible for ICTAP consideration, you may receive selection priority if: 1) this vacancy is within your ICTAP eligibility; 2) you apply under the instructions in this announcement; and 3) you are found well-qualified for this vacancy. To be well qualified, you must satisfy all qualification requirements for the vacant position. You must provide proof of eligibility with your application. Such proof may include a copy of your written notification of ICTAP eligibility or a copy of your separation personnel action form.
+
+Career Transition Assistance Plan (CTAP) provides eligible surplus and displaced competitive service employees in the agency with selection priority over other candidates for competitive service vacancies. If your agency component has notified you in writing that you are a surplus or displaced employee eligible for CTAP consideration, you may receive selection priority if: 1) this vacancy is within your CTAP eligibility, 2) you apply under the instructions in this announcement, and 3) you are found well-qualified for this vacancy. To be well qualified, you must satisfy all qualification requirements for the vacant position. You must provide a copy of your written notification of CTAP eligibility with your application.
+
+ Expand Hide  additional information
+
+Candidates should be committed to improving the efficiency of the Federal government, passionate about the ideals of our American republic, and committed to upholding the rule of law and the United States Constitution.
+
+Benefits
+
+ Help
+
+ A career with the U.S. government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding. Opens in a new windowLearn more about federal benefits.
+
+Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time or intermittent. Contact the hiring agency for more information on the specific benefits offered.
+
+How you will be evaluated
+
+You will be evaluated for this job based on how well you meet the qualifications above.
+
+This announcement is being used to recruit qualified individuals under the Office of Personnel Management (OPM) Direct Hire Authority. Applicants will not be rated or ranked. Veterans' preference does not apply.
+
+Your qualifications will be evaluated based on your application materials (e.g., resume, supporting documents), your responses on the application questionnaire, and your responses to all assessments required for this position.
+
+To be found minimally qualified, you must demonstrate proficiency in the general and technical competencies listed in the Qualifications section of the job announcement. At this level, individuals apply the competencies in considerably difficult situations, require little to no guidance, and demonstrate broad and in-depth understanding of the competency.
+
+Your qualifications will be evaluated on the following competencies:
+
+Accountability, Attention to Detail, Customer Service, Decision Making, Flexibility, Influencing/Negotiating, Integrity/Honesty, Interpersonal Skills, Learning, Reading Comprehension, Reasoning, Self-Management, Stress Tolerance, and Teamwork, Oral Communication, Problem Solving, Information Management, General Programming and Algorithms, Debugging and Troubleshooting, Requirement Understanding and Implementation, and Performance Optimization and Scalability
+
+Application questionnaire: Applicants must complete a questionnaire as part of the application process. To preview the application questionnaire, click the following link: https://apply.usastaffing.gov/ViewQuestionnaire/13048430. Applicants identifying as meeting minimum qualifications for the position will move on to the next phase of the assessment process.
+
+Online Assessments:
+
+USA Hire Assessments: The USA Hire Assessments include a passing score based on the minimum level of required proficiency in critical general competencies. You must meet or exceed the cut score to be considered. You will not be considered for the position if you score below the cut score or fail to complete the assessment.
+
+General Coding Assessment: This online assessment include a passing score based on the required proficiency in technical competencies. You must meet or exceed the passing score to be considered. You will not be considered for the position if you score below the passing score or fail to complete the assessment
+
+Resume review: Your resume will be reviewed to confirm your qualifications for this position based on the required minimum qualifications. Applicants passing the resume review will move on to the next phase of the assessment process.
+
+Interview: Applicants will participate in an automated digital interview to further assess their qualifications relative to the requirements of the job. The automated interview tool will follow a structured script and produce ratings based on pre-determined rubrics consistently applied to applicant responses. You will not be considered for the position if you score below the passing score or fail to complete the interview.
+
+Referral: Under provisions of the Direct Hire Authority: Category Rating, Rule of Many, and veterans' preference do not apply. All applicants who are determined to meet the minimum qualifications, as defined by this announcement, will be referred to the selecting officials for consideration.
+
+Benefits
+
+ Help
+
+ A career with the U.S. government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding. Opens in a new windowLearn more about federal benefits.
+
+Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time or intermittent. Contact the hiring agency for more information on the specific benefits offered.
+
+Required documents
+
+Required Documents
+
+ Help
+
+The following documents are required and must be submitted by 11:59 PM (ET) on 11/06/2026.
+
+A resume of no more than two pages which includes a list of all significant jobs held and duties performed, with dates specified in month and year, and indicates hours worked per week. If military or a civilian Federal employee, you must include your rank and/or grade.
+
+Resumes must be legible so they can be reviewed for eligibility, minimum qualifications, and other position requirements listed in the job announcement.
+
+Your resume must be 5MB or less. We recommend saving and uploading your resume as a PDF to maintain formatting and number of pages. We also accept GIF, JPG, JPEG, PNG, RTF, TXT, PDF, ODT or Word (DOC or DOCX). We do not accept PDF portfolio files.
+
+We recommend using a sans-serif font style such as Lato, Calibri, Helvetica, Arial, Verdana, or Open San Source Sans Pro.
+
+The USAJOBS resume builder can help you create a resume using these recommendations and uses the information in your USAJOBS profile to help you get started.
+
+A complete application questionnaire and online assessments.
+
+If you are requesting a reasonable accommodation to the online assessment, you can find the Reasonable Accommodation process here.
+
+Other supporting documents, if applicable:
+
+Are you claiming special priority selection rights under the Career Transition Assistance Program (ICTAP/CTAP)? If so, submit all of the following:
+
+A copy of your reduction-in-force (RIF) separation notice, notice of proposed removal for failure to relocate, notice of disability annuity termination, or certification from the National Guard Bureau or Military Department that you are eligible for disability retirement;
+
+A copy of your separation SF-50 "Notification of Personnel Action'', or most recent SF-50 if pending separation, noting your positions, grade level, and duty location;
+
+A copy of your latest performance appraisal, including your rating; and
+
+Any documentation from your agency that shows your current promotion potential, if applicable.
+
+Your Federal position at the time you were displaced must be within the local commuting area for a location that a hiring agency plans to fill from this announcement. The definition of local commuting area varies based on duty location and hiring agency policy. To receive priority consideration, you must also be found well-qualified.
+
+Are you a current or former political Schedule A, Schedule C, non-career SES, or Presidential appointee employee?
+
+Submit a copy of your applicable SF-50, along with a statement that provides the following information regarding your most recent political appointment:
+
+Position title;
+
+Type of appointment (Schedule A, Schedule C, non-career SES, or Presidential appointee);
+
+Agency; and
+
+Beginning and end dates of appointment.
+
+Do not submit photographs with your application package. Documents with photographs may not be seen by hiring officials. You must remove your image from any badges, licenses, etc.
+
+Overstating your qualifications and/or experience in your application materials or application questionnaire may result in your removal from consideration. Cheating on an assessment may also result in your removal from consideration.
+
+How to Apply
+
+ Help
+
+Please read the entire announcement and all the instructions before you begin an application. To apply and be considered for this position, you must complete all required questionnaires and assessments and submit all required documentation as specified in the How to Apply and Required Documents sections by11:59 PM (ET) on 11/06/2026 to receive consideration. The application process is as follows:
+
+Click the Apply Online button.
+
+Answer the questions presented in the application and attach all necessary supporting documentation.
+
+Click the Submit Application button prior to 11:59 PM (ET) on the announcement closing date. Complete the questionnaire and include all supporting documents with your initial application.
+
+If you are required to complete any USA Hire Assessments, you will be notified after submitting your application. The notification will be provided in your application submission screen and via email. The notification will include your unique assessment access link to the USA Hire system and the completion deadline. Additionally, in USAJOBS you can click "Track this application" to return to your assessment completion notice.
+
+Access USA Hire using your unique assessment link. Access is granted through your USAJOBS login credentials.
+
+Review all instructions prior to beginning your assessments. You will have the opportunity to request a testing accommodation before beginning the assessments should you have a disability covered under the Rehabilitation Act of 1973 as amended.
+
+Set aside about 2 hours to take the USA Hire Assessments; however, most applicants complete the assessments in less time. If you need to stop the assessments and continue later, you can re-use your unique assessment link. The online assessments must be completed within 48 hours following the closing date of this announcement.
+
+Your responses to the USA Hire Assessments will be reused for one year (in most cases) from the date you complete an assessment. If future applications you submit require completion of the same assessments, your responses will be automatically reused.
+
+If you are required to take the General Coding Assessment (GCA), you will be notified within 3 business days of completing the USA Hire Assessment. The notification will include your unique assessment access links to the system and the completion deadline.
+
+Access the GCA using the unique assessment link. Review all instructions prior to beginning your assessments.
+
+You will have 70 minutes to complete the GCA. Once you start the assessment, you are not able to pause it and restart again. You must complete the assessment in the given time frame or it will time out and submit as you left it.
+
+If you are required to take an interview, you will be provided additional instructions within 5 business days of completing the GCA.
+
+Visit the USA Hire Applicant Resource Center for practice assessments and assessment preparation resources at https://support-usahire.opm.gov/hc/en-us.
+
+Technical Assessment Notification
+
+The Office of Personnel Management (OPM) will invite applicants who meet minimum qualification requirements to complete a mandatory technical assessment which will be administered by a third-party contractor hired for this purpose (assessment provider). OPM will send the assessment provider qualifying applicant email addresses solely for the purpose of administering the assessment. Each applicant will receive a link to the assessment at the email address used to apply. After the assessment is completed, the assessment provider will transmit the scores to OPM to be used for applicant evaluation purposes. By written agreement with OPM, the assessment provider will handle all information related to the assessment as confidential information for use only in the assessment process for the relevant vacancy. Taking the assessment is voluntary, but it must be completed in order to receive further consideration for the position.
+
+Automated Interview Notification
+
+The Office of Personnel Management (OPM) will invite applicants who meet the minimum qualification requirements to complete a mandatory automated interview, which will be administered by a third-party contractor hired for this purpose (service provider). OPM will provide the service provider with qualifying applicant email addresses, and other information necessary to administer the interview. Each applicant will receive a link to the interview at the email address used to apply. After the interview is completed, the service provider will transmit the interview results, including any job-related evaluation information, to OPM for applicant evaluation purposes. By written agreement with OPM, the service provider will treat all information related to the interview as confidential information and use it only for administering the interview process for the relevant vacancy. Participation in the interview is voluntary; however, applicants must complete it to receive further consideration for the position.
+
+Agency contact information
+
+ U.S. Tech Force
+
+Email
+
+ USTFapplicantinquiries@opm.gov
+
+Next steps
+
+To update your application, including supporting documentation: During the announcement open period, return to your USAJOBS account, find your application record, and click Edit my application. This option will no longer be available once the announcement has closed.
+
+To view the announcement status or your application status: Visit https://www.usajobs.gov/Help/howto/application/status/. Your application status page is where you can view your application status and review your notifications sent by the hiring agency regarding your application.
+
+If you are unable to apply online or need to fax a document you do not have in electronic form, please contact U.S. Tech Force. You must submit a complete application by the closing date of the announcement.
+
+We will email applicants after each step of the hiring process to notify them of their outcome. The tentative timeline is as follows:
+
+October 2026: Job announcement opens
+
+October-November 2026: Online assessments and interviews
+
+November 2026: Agency interviews and selections begin
+
+Selection process: Participating agencies will receive a list of qualified candidates. Agencies will conduct interviews, check references, and make offers directly to qualified candidates. Once a candidate accepts a tentative job offer from any agency, the candidate may be removed from consideration for other agencies and may not receive another interview or offer. A candidate who declines a tentative job offer from any agency may be removed from further consideration. After making tentative job offers, agencies conduct suitability/security background investigations.
+
+Future consideration: This is a shared hiring announcement open to agencies throughout the Federal government. Your resume and other application materials may be shared with multiple agencies to consider you for employment, however there is no guarantee of consideration or selection. By applying to this announcement, you are opting-in to your resume and other application materials being shared with multiple agencies. Participating agencies are responsible for making all selection or non-selection decisions. The lists of qualified candidates may be shared with Federal agencies for up to a year.
+
+Fair and transparent
+
+The Federal hiring process is set up to be fair and transparent. Please read the following guidance.
+
+ Criminal history inquiries
+
+ Equal Employment Opportunity (EEO) Policy
+
+ Financial suitability
+
+ New employee probationary period
+
+ Privacy Act
+
+ Reasonable accommodation policy
+
+ Selective Service
+
+ Signature and false statements
+
+ Social security number request
+
+Required Documents
+
+ Help
+
+The following documents are required and must be submitted by 11:59 PM (ET) on 11/06/2026.
+
+A resume of no more than two pages which includes a list of all significant jobs held and duties performed, with dates specified in month and year, and indicates hours worked per week. If military or a civilian Federal employee, you must include your rank and/or grade.
+
+Resumes must be legible so they can be reviewed for eligibility, minimum qualifications, and other position requirements listed in the job announcement.
+
+Your resume must be 5MB or less. We recommend saving and uploading your resume as a PDF to maintain formatting and number of pages. We also accept GIF, JPG, JPEG, PNG, RTF, TXT, PDF, ODT or Word (DOC or DOCX). We do not accept PDF portfolio files.
+
+We recommend using a sans-serif font style such as Lato, Calibri, Helvetica, Arial, Verdana, or Open San Source Sans Pro.
+
+The USAJOBS resume builder can help you create a resume using these recommendations and uses the information in your USAJOBS profile to help you get started.
+
+A complete application questionnaire and online assessments.
+
+If you are requesting a reasonable accommodation to the online assessment, you can find the Reasonable Accommodation process here.
+
+Other supporting documents, if applicable:
+
+Are you claiming special priority selection rights under the Career Transition Assistance Program (ICTAP/CTAP)? If so, submit all of the following:
+
+A copy of your reduction-in-force (RIF) separation notice, notice of proposed removal for failure to relocate, notice of disability annuity termination, or certification from the National Guard Bureau or Military Department that you are eligible for disability retirement;
+
+A copy of your separation SF-50 "Notification of Personnel Action'', or most recent SF-50 if pending separation, noting your positions, grade level, and duty location;
+
+A copy of your latest performance appraisal, including your rating; and
+
+Any documentation from your agency that shows your current promotion potential, if applicable.
+
+Your Federal position at the time you were displaced must be within the local commuting area for a location that a hiring agency plans to fill from this announcement. The definition of local commuting area varies based on duty location and hiring agency policy. To receive priority consideration, you must also be found well-qualified.
+
+Are you a current or former political Schedule A, Schedule C, non-career SES, or Presidential appointee employee?
+
+Submit a copy of your applicable SF-50, along with a statement that provides the following information regarding your most recent political appointment:
+
+Position title;
+
+Type of appointment (Schedule A, Schedule C, non-career SES, or Presidential appointee);
+
+Agency; and
+
+Beginning and end dates of appointment.
+
+Do not submit photographs with your application package. Documents with photographs may not be seen by hiring officials. You must remove your image from any badges, licenses, etc.
+
+Overstating your qualifications and/or experience in your application materials or application questionnaire may result in your removal from consideration. Cheating on an assessment may also result in your removal from consideration.
+
+How to Apply
+
+ Help
+
+Please read the entire announcement and all the instructions before you begin an application. To apply and be considered for this position, you must complete all required questionnaires and assessments and submit all required documentation as specified in the How to Apply and Required Documents sections by11:59 PM (ET) on 11/06/2026 to receive consideration. The application process is as follows:
+
+Click the Apply Online button.
+
+Answer the questions presented in the application and attach all necessary supporting documentation.
+
+Click the Submit Application button prior to 11:59 PM (ET) on the announcement closing date. Complete the questionnaire and include all supporting documents with your initial application.
+
+If you are required to complete any USA Hire Assessments, you will be notified after submitting your application. The notification will be provided in your application submission screen and via email. The notification will include your unique assessment access link to the USA Hire system and the completion deadline. Additionally, in USAJOBS you can click "Track this application" to return to your assessment completion notice.
+
+Access USA Hire using your unique assessment link. Access is granted through your USAJOBS login credentials.
+
+Review all instructions prior to beginning your assessments. You will have the opportunity to request a testing accommodation before beginning the assessments should you have a disability covered under the Rehabilitation Act of 1973 as amended.
+
+Set aside about 2 hours to take the USA Hire Assessments; however, most applicants complete the assessments in less time. If you need to stop the assessments and continue later, you can re-use your unique assessment link. The online assessments must be completed within 48 hours following the closing date of this announcement.
+
+Your responses to the USA Hire Assessments will be reused for one year (in most cases) from the date you complete an assessment. If future applications you submit require completion of the same assessments, your responses will be automatically reused.
+
+If you are required to take the General Coding Assessment (GCA), you will be notified within 3 business days of completing the USA Hire Assessment. The notification will include your unique assessment access links to the system and the completion deadline.
+
+Access the GCA using the unique assessment link. Review all instructions prior to beginning your assessments.
+
+You will have 70 minutes to complete the GCA. Once you start the assessment, you are not able to pause it and restart again. You must complete the assessment in the given time frame or it will time out and submit as you left it.
+
+If you are required to take an interview, you will be provided additional instructions within 5 business days of completing the GCA.
+
+Visit the USA Hire Applicant Resource Center for practice assessments and assessment preparation resources at https://support-usahire.opm.gov/hc/en-us.
+
+Technical Assessment Notification
+
+The Office of Personnel Management (OPM) will invite applicants who meet minimum qualification requirements to complete a mandatory technical assessment which will be administered by a third-party contractor hired for this purpose (assessment provider). OPM will send the assessment provider qualifying applicant email addresses solely for the purpose of administering the assessment. Each applicant will receive a link to the assessment at the email address used to apply. After the assessment is completed, the assessment provider will transmit the scores to OPM to be used for applicant evaluation purposes. By written agreement with OPM, the assessment provider will handle all information related to the assessment as confidential information for use only in the assessment process for the relevant vacancy. Taking the assessment is voluntary, but it must be completed in order to receive further consideration for the position.
+
+Automated Interview Notification
+
+The Office of Personnel Management (OPM) will invite applicants who meet the minimum qualification requirements to complete a mandatory automated interview, which will be administered by a third-party contractor hired for this purpose (service provider). OPM will provide the service provider with qualifying applicant email addresses, and other information necessary to administer the interview. Each applicant will receive a link to the interview at the email address used to apply. After the interview is completed, the service provider will transmit the interview results, including any job-related evaluation information, to OPM for applicant evaluation purposes. By written agreement with OPM, the service provider will treat all information related to the interview as confidential information and use it only for administering the interview process for the relevant vacancy. Participation in the interview is voluntary; however, applicants must complete it to receive further consideration for the position.
+
+ Expand Hide  how to apply
+
+Agency contact information
+
+ U.S. Tech Force
+
+Email
+
+ USTFapplicantinquiries@opm.gov
+
+Next steps
+
+To update your application, including supporting documentation: During the announcement open period, return to your USAJOBS account, find your application record, and click Edit my application. This option will no longer be available once the announcement has closed.
+
+To view the announcement status or your application status: Visit https://www.usajobs.gov/Help/howto/application/status/. Your application status page is where you can view your application status and review your notifications sent by the hiring agency regarding your application.
+
+If you are unable to apply online or need to fax a document you do not have in electronic form, please contact U.S. Tech Force. You must submit a complete application by the closing date of the announcement.
+
+We will email applicants after each step of the hiring process to notify them of their outcome. The tentative timeline is as follows:
+
+October 2026: Job announcement opens
+
+October-November 2026: Online assessments and interviews
+
+November 2026: Agency interviews and selections begin
+
+Selection process: Participating agencies will receive a list of qualified candidates. Agencies will conduct interviews, check references, and make offers directly to qualified candidates. Once a candidate accepts a tentative job offer from any agency, the candidate may be removed from consideration for other agencies and may not receive another interview or offer. A candidate who declines a tentative job offer from any agency may be removed from further consideration. After making tentative job offers, agencies conduct suitability/security background investigations.
+
+Future consideration: This is a shared hiring announcement open to agencies throughout the Federal government. Your resume and other application materials may be shared with multiple agencies to consider you for employment, however there is no guarantee of consideration or selection. By applying to this announcement, you are opting-in to your resume and other application materials being shared with multiple agencies. Participating agencies are responsible for making all selection or non-selection decisions. The lists of qualified candidates may be shared with Federal agencies for up to a year.
+
+ Expand Hide  next steps
+
+Fair and transparent
+
+The Federal hiring process is set up to be fair and transparent. Please read the following guidance.
+
+ Criminal history inquiries
+
+ Equal Employment Opportunity (EEO) Policy
+
+ Financial suitability
+
+ New employee probationary period
+
+ Privacy Act
+
+ Reasonable accommodation policy
+
+ Selective Service
+
+ Signature and false statements
+
+ Social security number request
+
+ Office of Personnel Management
+
+ The US Tech Force is an elite corps of top engineering talent building the future of American government technology. Backed by the White House, the initiative tackles America's most pressing technological challenges by infusing top SI, engineering management and modern software development talent directly into federal agencies.
+
+Through a 2-year program, Tech Force engineers, designers, data scientists and product managers will run mission-critical federal projects. Participants will modernize government services, rebuild outdated systems and ensure that the government adopts an SI-first development approach in addressing the most complex defense, industrial and civic challenges of our era.
+
+You will be part of a cohort of individuals working in teams that directly report to Cabinet-level leadership. In addition to your core development work, you will receive leadership training, get exposure to America's top technology CEOs and gain unparalleled exposure to policymaking and national-scale impact. At the conclusion of your two years, you will have the opportunity to showcase your talents directly to our Nation's top private sector technology companies for permanent employment opportunities.
+
+Put your technical expertise to work advancing US innovation and AI leadership - apply to join the US Tech Force today!
+
+Agency contact information
+
+ U.S. Tech Force
+
+Email
+
+ USTFapplicantinquiries@opm.gov
+
+Visit our careers page
+
+ Learn more about what it's like to work at Office of Personnel Management, what the agency does, and about the types of careers this agency offers.
+
+ http://Techforce.gov
+
+Summary
+
+The US Tech Force is an elite corps advancing federal technology. Backed by the White House, it deploys top Super Intelligence (SI) and engineering talent across government. GSA, SSA, OPM, State, Treasury, and HHS are among the participating agencies seeking innovators ready to tackle critical national challenges.
+
+ Learn more about this agency
+
+Overview
+
+ Help
+
+Accepting applications
+
+Location
+
+Many vacancies in the following locations:
+
+ Metropolitan area surrounding
+
+Washington, DC
+
+ Location Negotiable After Selection
+
+ Baltimore, MD
+
+ Kansas City, MO
+
+ No matching locations found.
+
+Work site options
+
+Telework eligible
+
+No
+
+Remote job
+
+No
+
+Relocation expenses reimbursed
+
+ Yes—Varies by hiring agency - Some positions may qualify for reimbursement of relocation expenses in accordance with agency policy.
+
+Salary
+
+ $125,776 - $197,200 per year
+
+Salary is an approximation. Final salary depends on duty location and hiring agency.
+
+Pay scale & grade
+
+GS 14
+
+Promotion potential
+
+None
+
+ Learn more about pay scale and grade
+
+ Pay scale and grade determines the salary of the job.
+
+Work schedule
+
+Full-time
+
+Travel Required
+
+Occasional travel - Varies by hiring agency - Some positions may require travel.
+
+Appointment type
+
+Term - Not to Exceed 2 years. May be extended to a max of 4 years.
+
+Occupations and job series
+
+ 2210 Information Technology Management
+
+Supervisory status
+
+No
+
+Federal service type
+
+This job is in the Competitive Service
+
+Represented by a union
+
+Yes - Varies by hiring agency - Some positions may be covered by a bargaining unit.
+
+Drug test
+
+Yes
+
+Security clearance
+
+Other
+
+Financial disclosure required
+
+Yes - Varies by hiring agency - Some positions may require a financial disclosure.
+
+ Some jobs require
+ financial disclosure to identify conflicts of interests.
+
+Announcement number
+
+TF-13048430-26-AB
+
+Control number
+
+888508400
+
+ Previous result
+
+Next result
+
+Your session is about to expire!
+
+ Your USAJOBS session will expire due to inactivity in 8 minutes.
+ Any unsaved data will be lost if you allow the session to expire.
+ Click the button below to continue your session.
+
+ Sign out
+ Stay signed in
+
+ Return to top
+
+USAJOBS is a Opens in a new windowUnited States Office of Personnel Management website.
+
+ (Opens in a new window) OPM on LinkedIn
+
+ (Opens in a new window) OPM YouTube channel
+
+ (Opens in a new window) OPM on X
+
+Opens in a new windowEEO Policy Statement
+
+Opens in a new windowReasonable Accommodation Policy Statement
+
+Veterans Information
+
+Opens in a new windowLegal and Regulatory Guidance
+
+About USAJOBS
+
+Opens in a new windowAccessibility
+
+Opens in a new windowFOIA
+
+Opens in a new windowInspector general
+
+Opens in a new windowNo Fear Act Data
+
+Opens in a new windowPrivacy policy
+
+Opens in a new windowReports and publications
+
+Opens in a new windowTerms and conditions
+
+Opens in a new windowUSA.gov

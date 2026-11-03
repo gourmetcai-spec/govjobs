@@ -1,0 +1,32 @@
+{
+  "@context": "http://www.schema.org",
+  "@type": "JobPosting",
+  "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": {
+      "@type": "QuantitativeValue",
+      "value": 121785.0,
+      "unitText": "YEAR"
+    }
+  },
+  "datePosted": "10/27/2026",
+  "description": "You will serve as a OPERATIONS RESEARCH ANALYST within IMMEDIATE OFC OF CHIEF OF NVL OPS.",
+  "educationRequirements": "Applicants must meet the following positive education qualifications requirements of the Office of Personnel Management (OPM) Qualifications Standards Manual: Applicants must possess degree in operations research; or at least 24 semester hours in a combination of operations research, mathematics, probability, statistics, mathematical logic, science, or subject-matter courses requiring substantial competence in college-level mathematics or statistics. At least 3 of the 24 semester hours must have been in calculus.",
+  "employmentType": "OTHER",
+  "hiringOrganization": "IMMEDIATE OFC OF CHIEF OF NVL OPS",
+  "jobLocation": [
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Pentagon, Arlington",
+        "addressRegion": "VA "
+      }
+    }
+  ],
+  "responsibilities": "",
+  "qualifications": "In addition to the Basic Requirements for this position, your resume must also demonstrate at least one year of specialized experience equivalent to the next lower grade level (GS-12) or pay band in the federal service or equivalent experience in the private or public sector. Specialized experience must demonstrate performing duties such as the following:<br>\n1. Applying advanced, analytical, mathematical, or statistical theories, principles, concepts, methods, and techniques to solve problems in need of immediate material/readiness/personnel solutions using statistical analysis; non-parametric analysis; modeling; simulations; decision theory; mathematical programming; regression analysis; and economic analysis.<br>\n2. Utilizing rigorous methods of scientific inquiry, mathematics, statistics, and other related scientific/analytical disciplines to manage performance/price model accreditation.<br>\n3. Demonstrating knowledge of military mission and naval operations related to military strategy, doctrine and tactics to establish, negotiate and evaluate new issues and resolve complex problems and controversial issues where the proposals involve substantial new resources or require extensive changes in procedures.<br>\n4. Understanding of Joint Staff and DOD analytic organizations and their roles in long range planning, of the PPBE system/process at the Service headquarters level, and of the OPNAV structure, specifically the relationships of the resource sponsors to their portfolios in terms of budgeting and requirements.<br>\n5. Formulating, testing, and evaluating new theories, principles, concepts, and practices of the discipline to serve as an authoritative Navy representative; and to decide/recommend objectives/goals for Navy's PPBE process.<br>\n<br>\n<br>\nAdditional qualification information can be found from the following Office of Personnel Management website:<br>\n<a href=\"https://www.opm.gov/policy-data-oversight/classification-qualifications/general-schedule-qualification-standards/#url=List-by-Occupational-Series\">https://www.opm.gov/policy-data-oversight/classification-qualifications/general-schedule-qualification-standards/#url=List-by-Occupational-Series</a><br>\n<br>\nExperience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., professional, philanthropic, religious, spiritual, community, student, social). Volunteer work helps build critical competencies, knowledge, and skills and can provide valuable training and experience that translates directly to paid employment.",
+  "title": "OPERATIONS RESEARCH ANALYST",
+  "validThrough": "2026-11-05"
+}

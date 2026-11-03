@@ -1,0 +1,766 @@
+USAJOBS - Job Announcement
+
+ Skip to main content
+
+ An official website of the United States government
+
+Official websites use .gov
+
+A .gov website belongs to an official government organization in the United States.
+
+Secure .gov websites use HTTPS
+ A lock ( LockA locked padlock ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.
+
+ MENU
+
+ Sign in
+
+ My jobs
+
+ Profile
+
+ Resumes & documents
+
+ Notifications
+
+ Talent networks
+
+ Sign out
+
+ My jobs
+
+ Profile
+
+ Resumes & documents
+
+ Notifications
+
+ Talent networks
+
+ Sign out
+
+ Events
+
+ Help Center
+
+ Search
+
+ Back to results
+
+ Apply
+
+ Operations Research Analyst
+
+Department of Defense
+
+Defense Human Resources Activity
+
+Defense Personnel Analytics Center (DPAC)
+
+Apply
+
+ Print
+
+ Share
+
+ Save
+
+ Summary
+
+ This job is open to
+
+ Duties
+
+ Requirements
+
+ How you will be evaluated
+
+ Required documents
+
+ How to apply
+
+Summary
+
+This position is part of the Defense Human Resources Activity. The incumbent will collaborate with team members to plan and execute the full analytic lifecycle. Must also be able to help design and build user focused analytics. Must possess curiosity, creativity, flexibility, focus, and attention to detail while working with partners throughout the enterprise and Department.
+
+ Learn more about this agency
+
+Summary
+
+This position is part of the Defense Human Resources Activity. The incumbent will collaborate with team members to plan and execute the full analytic lifecycle. Must also be able to help design and build user focused analytics. Must possess curiosity, creativity, flexibility, focus, and attention to detail while working with partners throughout the enterprise and Department.
+
+ Learn more about this agency
+
+Overview
+
+ Help
+
+Accepting applications
+
+Location
+
+1 vacancy in the following location:
+
+ Alexandria, VA
+
+1 vacancy
+
+ No matching locations found.
+
+Work site options
+
+Telework eligible
+
+Yes—as determined by the agency policy.
+
+Remote job
+
+No
+
+Relocation expenses reimbursed
+
+ No
+
+Salary
+
+ $121,785 - $158,322 per year
+
+Pay scale & grade
+
+GS 13
+
+Promotion potential
+
+14
+
+ Learn more about pay scale and grade
+
+ Pay scale and grade determines the salary of the job.
+
+Work schedule
+
+Full-time
+
+Travel Required
+
+Occasional travel - You may be expected to travel for this position.
+
+Appointment type
+
+Permanent
+
+Occupations and job series
+
+ 1515 Operations Research
+
+Supervisory status
+
+No
+
+Federal service type
+
+This job is in the Competitive Service
+
+Represented by a union
+
+No
+
+Drug test
+
+No
+
+Security clearance
+
+Top Secret
+
+Position sensitivity and risk
+
+Special-Sensitive (SS)/High Risk
+
+ Jobs require a
+ background check and some require a
+ security clearance. The type depends on the job.
+
+Background check type
+
+ Suitability/Fitness
+
+ National security
+
+Financial disclosure required
+
+Yes
+
+ Some jobs require
+ financial disclosure to identify conflicts of interests.
+
+Announcement number
+
+DHRADPAC-27-13100278-DH
+
+Control number
+
+890092800
+
+This job is open to
+
+ Help
+
+The public
+
+ U.S. Citizens, Nationals or those who owe allegiance to the U.S.
+
+Military spouses
+
+ Military spouses of active duty service members or whose spouse is 100 percent disabled or died on active duty.
+
+Clarification from the agency
+
+This announcement is open to All U.S. Citizens, and is being filled under the Direct Hire Authority (DHA) for Certain Personnel of the Department of Defense.
+
+Duties
+
+ Help
+
+ As a Operations Research Analyst at the GS-1515-13 some of your typical work assignments may include:
+
+Perform advanced data analytics and modeling for assigned projects under the general direction of senior analysts or the supervisor, applying established analytical techniques to defined problems.
+
+Design, build, and maintain data pipelines and analytic tools, following established data engineering standards and reproducibility practices.
+
+Develop user-focused analytics and decision-support products to inform PRMA decision makers and policy analysts, with review by senior staff.
+
+Engage with stakeholders to clarify analytic requirements, prepare briefings, reports, and visualizations, and communicate results for assigned projects.
+
+Contribute to the management of a research portfolio-including cyber workforce and installation mapping analyses-by supporting project planning, tracking, and reporting, and assisting senior staff in evaluating new tools and methodologies.
+
+Requirements
+
+ Help
+
+Conditions of employment
+
+Must be a U.S. citizen
+
+Males born after 12-31-59 must be registered for Selective Service
+
+Resume and supporting documents (See How To Apply)
+
+Suitable for Federal employment, determined by a background investigation
+
+May be required to successfully complete a probationary period
+
+Work Schedule: Full Time
+
+Overtime: Occasionally
+
+Tour of Duty: Flexible
+
+Recruitment Incentives: Not Authorized
+
+Fair Labor Standards Act (FLSA): Exempt
+
+Financial Disclosure: Required
+
+Telework Eligibility: This position is telework eligible
+
+Qualifications
+
+ You may qualify at the GS-13, if you fulfill the following qualifications:
+
+A. One year of specialized experience equivalent to the GS-12 grade level in the Federal service:
+
+Experience applying advanced data analytics, statistical modeling, and machine learning techniques (e.g., regression, clustering, NLP) to support organizational decision-making, under the guidance of senior staff.
+
+Experience contributing to the analytic lifecycle, including data ingestion, preparation, feature engineering, modeling, validation, and delivery of results for assigned projects.
+
+Experience designing, building, and maintaining data pipelines and analytic tools, including the use of version control software (e.g., GitLab) to ensure reproducibility and documentation.
+
+Experience engaging with stakeholders to clarify analytic requirements and communicating results through briefings, written reports, and data visualizations (e.g., Tableau, Power BI).
+
+Experience contributing to the management of analytic projects or research portfolios, including planning, tracking, and reporting on project progress.
+
+Experience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., Peace Corps, AmeriCorps) and other organizations (e.g., professional; philanthropic; religious; spiritual; community, student, social). Volunteer work helps build critical competencies, knowledge, and skills and can provide valuable training and experience that translates directly to paid employment. You will receive credit for all qualifying experience, including volunteer experience.
+
+In addition to meeting qualifications, your application package must reflect the applicable experience to meet the Individual Occupational Requirements for the 1515 series.
+
+B. Basic Education Requirement: A Bachelor's Degree or higher in operations research; OR at least 24 semester hours in a combination of operations research, mathematics, probability, statistics, mathematical logic, science, or subject- matter courses requiring substantial competence in college-level mathematics or statistics. At least 3 of the 24 semester hours must have been in calculus.
+
+NOTE: Courses acceptable for qualifying for operations research positions may have been taken in departments other than Operations Research, e.g., Engineering (usually Industrial Engineering), Science, Economics, Mathematics, Statistics, or Management Science. The following are illustrative of acceptable courses: optimization; mathematical modeling; queueing theory; engineering; physics (except descriptive or survey courses); econometrics; psychometrics; biometrics; experimental psychology; physical chemistry; industrial process analysis; managerial economics; computer science; measurement for management; mathematical models in social phenomena; and courses that involved application of operations research techniques and methodologies to problems of management, marketing, systems design, and other specialized fields; or other comparable quantitative analysis courses for which college- level mathematics or statistics is a prerequisite.
+
+*NOTE: Failure to provide transcripts will result in you being rated ineligible for this position.
+
+Education
+
+ ARE YOU USING YOUR EDUCATION TO QUALIFY? You MUST provide transcripts or other documentation to support your educational claims.
+
+All materials must be submitted by the closing date of the announcement.
+
+GRADUATE EDUCATION: One academic year of graduate education is considered to be the number of credits hours that your graduate school has determined to represent one academic year of full-time study. Such study may have been performed on a full-time or part-time basis. If you cannot obtain your graduate school's definition of one year of graduate study, 18 semester hours (or 27 quarter hours) should be considered as satisfying the requirement for one year of full-time graduate study.
+
+Foreign education may be qualifying if a private organization specializing in interpreting foreign education programs has deemed the foreign education equivalent to that gained in an accredited U.S. education program or a U.S. accredited college or university has given full credit for the foreign courses.
+
+Unofficial transcripts from U.S. Department of Education accredited colleges, universities, schools, or institutions listing your name, the name of the school, the date and degree awarded, and the list of classes and credits earned are acceptable for the application process. If selected, official transcripts are required before a firm job offer is made. A photocopy of your degree/diploma is not acceptable.
+
+When relying on foreign education, submit transcripts and a copy of the equivalency evaluation results letter with a course-by-course listing. Documents must be in English or include an English translation. The hiring employer for this position does not evaluate degrees from foreign colleges or universities. For further information, visit: Foreign Education
+
+Additional information
+
+Noncompetitive Appointment Authorities: For more information on noncompetitive appointment authority eligibility requirements:
+
+Special Hiring Authority for Certain Military Spouses
+
+Males born after 12-31-59 must be registered or exempt from Selective Service (see https://www.sss.gov/register/)
+
+The selecting official may choose to conduct interviews, and once the selection is made, you will receive a notification of the decision.
+
+NOTE: Declining to be interviewed or failure to report for a scheduled interview will be considered as a declination for further consideration for employment against this vacancy.
+
+Selective Service Requirement: Please visit http://www.sss.gov for more information.
+
+For more information, please visit
+
+https://www.dla.mil/Portals/104/Documents/Careers/downloads/DoDGenAppInfo%2012-1-2020.pdf?ver=ECNbdsHtGilTd3OENN4A0Q%3d%3d
+
+Re-employed Annuitant: This position Does not meet criteria for re-employed annuitant. The DoD criteria for hiring Re-employed Annuitants can be found at: https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/140025/140025_vol300.PDF?ver=LQ7feWw-8-5DI2tceUpmgA%3d%3d
+
+ Expand Hide  additional information
+
+Candidates should be committed to improving the efficiency of the Federal government, passionate about the ideals of our American republic, and committed to upholding the rule of law and the United States Constitution.
+
+Benefits
+
+ Help
+
+ A career with the U.S. government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding. Opens in a new windowLearn more about federal benefits.
+
+ Review our benefits
+
+Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time or intermittent. Contact the hiring agency for more information on the specific benefits offered.
+
+How you will be evaluated
+
+You will be evaluated for this job based on how well you meet the qualifications above.
+
+ Direct Hire Evaluation: Once the application process is complete, a review of your application will be made to ensure you meet the job requirements. This vacancy will be filled through OPM's Direct Hire Authority. All applicants who meet the basic qualification requirements will be forwarded to the Selecting Official for consideration. The rule of Three, Veteran's Preference and traditional rating and ranking of applicants do not apply to this vacancy. We will evaluate your application for basic eligibility and to determine if your experience meets the basic qualification requirements described in the announcement. All applicants who meet the qualifications and other basic requirement are eligible for referral and selection consideration. Please follow all instructions carefully. Errors or omissions may affect your rating. Your qualifications will be evaluated on the following competencies (knowledge, skills, abilities and other characteristics):
+
+Competencies:
+
+Data Analysis
+Data Management
+Modeling and Simulation
+Research
+
+Benefits
+
+ Help
+
+ A career with the U.S. government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding. Opens in a new windowLearn more about federal benefits.
+
+ Review our benefits
+
+Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time or intermittent. Contact the hiring agency for more information on the specific benefits offered.
+
+Required documents
+
+Required Documents
+
+ Help
+
+ The documents you are required to submit vary based on the authority you are using to apply (i.e., applying as a veteran, applying as a current permanent Federal employee, applying as a reinstatement, etc.). Your complete application includes your COMPLETE resume, your responses to the online questionnaire, and documents which prove your eligibility to apply. If you fail to provide these documents, you will be marked as having an incomplete application package and you will not be considered any further.
+
+The following documents are REQUIRED
+
+1. Resume:
+
+All applicants are required to submit a resume limited to two (2) pages showing all relevant experience. Your resume must address your qualifications for the position, and it may not exceed two (2) pages. Your 2-page (or less) resume must be in PDF format, with no smaller than a 0.5" margin and no smaller than a 10-point font. If you submit a resume that exceeds the two-page limit and/or does not meet the margin or font limitations stated herein, you will immediately be deemed ineligible for this position and will be removed from further consideration. Must include the work schedule, hours worked per week, dates of employment, and duties performed. The resume and required supporting documentation should provide the minimum qualifications and relevant experience for the announced position. If multiple resumes are submitted by an applicant, only the last resume submitted will be reviewed for qualifications and referred for selection consideration, if eligible. The resume must not be more than 5MB and should be saved and uploaded as a PDF to maintain formatting and number of pages. We also accept GIF, JPG, JPEG, PNG, RTF, TXT, PDF, ODT or Word (DOC or DOCX). We do not accept PDF portfolio files. We recommend using a font like Lato, if available. Other widely available options are Calibri, Helvetica, Arial, Verdana, Open San Source Sans Pro, Roboto or Noro Sans.
+
+Additional guidance on writing a federal resume can be found at: USAJOBS Help Center - How do I write a resume for a federal job? The resume builder can help you create a resume using these recommendations and uses the information in your USAJOBS profile to help you get started.
+
+2. Transcripts:
+
+This position has a degree or education requirement so you are required to submit a copy of your transcript
+
+PLEASE REVIEW THE BELOW LINK FOR OTHER SUPPORTING DOCUMENTS needed for proof of eligibility:
+
+https://www.dla.mil/Portals/104/Documents/Careers/downloads/DODCustomersRequiredSupportingDocumentation.pdf
+
+ If you are relying on your education to meet qualification requirements:
+
+ Education must be accredited by an accrediting institution recognized by the U.S. Department of Education in order for it to be credited towards qualifications. Therefore, provide only the attendance and/or degrees from
+ schools accredited by accrediting institutions recognized by the U.S. Department of Education.
+
+ Failure to provide all of the required information as stated in this vacancy announcement may result in an ineligible rating or may affect the overall rating.
+
+How to Apply
+
+ Help
+
+To apply for this position, you must complete the online application and submit the documentation specified in the Required Documents section below.
+
+The complete application package must be submitted by 11:59 PM (EST) on the closing date to receive consideration.
+
+To begin, click Apply Online to access an online application. Follow the prompts to select your USAJOBS resume and/or other supporting documents. You will need to be logged into your USAJOBS account or you may need to create a new account.
+
+You will be taken to an online application. Complete the online application, verify the required documentation, and submit the application. NOTE: Resumes up to a total of two pages will be accepted. Resumes exceeding two pages will be removed from consideration.
+
+You will receive an email notification when your application has been received for the announcement.
+
+To verify the status of your application, log into your USAJOBS account, https://www.usajobs.gov, select the Application Status link and then select the More Information link for this position. The Application Status page will display the status of your application, the documentation received and processed, and your responses submitted to the online application. Your uploaded documents may take several hours to clear the virus scan process.
+
+To preview the questionnaire, please go to https://apply.usastaffing.gov/ViewQuestionnaire/13100278.
+
+Review the General Application Information and Definitions at:
+
+https://www.dla.mil/Portals/104/Documents/Careers/downloads/DoDGenAppInfo%2012-1-2020.pdf?ver=ECNbdsHtGilTd3OENN4A0Q%3d%3d
+
+As required by 5 C.F.R. § 302.106., DLA will provide Section 508 conformant ICT to employees with disabilities. All ICT interfaces with the public related to vacancy announcements and career transition opportunities must conform to the applicable requirements in the current ICT Standards and Guidelines (36 C.F.R. § 1194).
+
+Agency contact information
+
+ DHRA Servicing Team
+
+Phone
+
+ 614-693-0237
+
+Email
+
+ DHRS-D-DHRA@dla.mil
+
+Address
+
+ Defense Human Resources Activity
+
+ 4800 Mark Center Drive
+
+ Alexandria, VA 22350-110
+
+ US
+
+Next steps
+
+Once your online application is submitted you will receive a confirmation notification by email. Your application will be evaluated. You will receive another notification about the status of your application. A list of qualified applicants will be created and sent to the selecting official. All applicants reviewed and/or referred will receive a notification letter. All applicants must meet qualifications and eligibility criteria by the closing date of the announcement.
+
+This announcement may be used to fill additional vacancies.
+
+Fair and transparent
+
+The Federal hiring process is set up to be fair and transparent. Please read the following guidance.
+
+ Criminal history inquiries
+
+ Equal Employment Opportunity (EEO) Policy
+
+ Financial suitability
+
+ New employee probationary period
+
+ Privacy Act
+
+ Reasonable accommodation policy
+
+ Selective Service
+
+ Signature and false statements
+
+ Social security number request
+
+Required Documents
+
+ Help
+
+ The documents you are required to submit vary based on the authority you are using to apply (i.e., applying as a veteran, applying as a current permanent Federal employee, applying as a reinstatement, etc.). Your complete application includes your COMPLETE resume, your responses to the online questionnaire, and documents which prove your eligibility to apply. If you fail to provide these documents, you will be marked as having an incomplete application package and you will not be considered any further.
+
+The following documents are REQUIRED
+
+1. Resume:
+
+All applicants are required to submit a resume limited to two (2) pages showing all relevant experience. Your resume must address your qualifications for the position, and it may not exceed two (2) pages. Your 2-page (or less) resume must be in PDF format, with no smaller than a 0.5" margin and no smaller than a 10-point font. If you submit a resume that exceeds the two-page limit and/or does not meet the margin or font limitations stated herein, you will immediately be deemed ineligible for this position and will be removed from further consideration. Must include the work schedule, hours worked per week, dates of employment, and duties performed. The resume and required supporting documentation should provide the minimum qualifications and relevant experience for the announced position. If multiple resumes are submitted by an applicant, only the last resume submitted will be reviewed for qualifications and referred for selection consideration, if eligible. The resume must not be more than 5MB and should be saved and uploaded as a PDF to maintain formatting and number of pages. We also accept GIF, JPG, JPEG, PNG, RTF, TXT, PDF, ODT or Word (DOC or DOCX). We do not accept PDF portfolio files. We recommend using a font like Lato, if available. Other widely available options are Calibri, Helvetica, Arial, Verdana, Open San Source Sans Pro, Roboto or Noro Sans.
+
+Additional guidance on writing a federal resume can be found at: USAJOBS Help Center - How do I write a resume for a federal job? The resume builder can help you create a resume using these recommendations and uses the information in your USAJOBS profile to help you get started.
+
+2. Transcripts:
+
+This position has a degree or education requirement so you are required to submit a copy of your transcript
+
+PLEASE REVIEW THE BELOW LINK FOR OTHER SUPPORTING DOCUMENTS needed for proof of eligibility:
+
+https://www.dla.mil/Portals/104/Documents/Careers/downloads/DODCustomersRequiredSupportingDocumentation.pdf
+
+ If you are relying on your education to meet qualification requirements:
+
+ Education must be accredited by an accrediting institution recognized by the U.S. Department of Education in order for it to be credited towards qualifications. Therefore, provide only the attendance and/or degrees from
+ schools accredited by accrediting institutions recognized by the U.S. Department of Education.
+
+ Failure to provide all of the required information as stated in this vacancy announcement may result in an ineligible rating or may affect the overall rating.
+
+How to Apply
+
+ Help
+
+To apply for this position, you must complete the online application and submit the documentation specified in the Required Documents section below.
+
+The complete application package must be submitted by 11:59 PM (EST) on the closing date to receive consideration.
+
+To begin, click Apply Online to access an online application. Follow the prompts to select your USAJOBS resume and/or other supporting documents. You will need to be logged into your USAJOBS account or you may need to create a new account.
+
+You will be taken to an online application. Complete the online application, verify the required documentation, and submit the application. NOTE: Resumes up to a total of two pages will be accepted. Resumes exceeding two pages will be removed from consideration.
+
+You will receive an email notification when your application has been received for the announcement.
+
+To verify the status of your application, log into your USAJOBS account, https://www.usajobs.gov, select the Application Status link and then select the More Information link for this position. The Application Status page will display the status of your application, the documentation received and processed, and your responses submitted to the online application. Your uploaded documents may take several hours to clear the virus scan process.
+
+To preview the questionnaire, please go to https://apply.usastaffing.gov/ViewQuestionnaire/13100278.
+
+Review the General Application Information and Definitions at:
+
+https://www.dla.mil/Portals/104/Documents/Careers/downloads/DoDGenAppInfo%2012-1-2020.pdf?ver=ECNbdsHtGilTd3OENN4A0Q%3d%3d
+
+As required by 5 C.F.R. § 302.106., DLA will provide Section 508 conformant ICT to employees with disabilities. All ICT interfaces with the public related to vacancy announcements and career transition opportunities must conform to the applicable requirements in the current ICT Standards and Guidelines (36 C.F.R. § 1194).
+
+ Expand Hide  how to apply
+
+Agency contact information
+
+ DHRA Servicing Team
+
+Phone
+
+ 614-693-0237
+
+Email
+
+ DHRS-D-DHRA@dla.mil
+
+Address
+
+ Defense Human Resources Activity
+
+ 4800 Mark Center Drive
+
+ Alexandria, VA 22350-110
+
+ US
+
+Next steps
+
+Once your online application is submitted you will receive a confirmation notification by email. Your application will be evaluated. You will receive another notification about the status of your application. A list of qualified applicants will be created and sent to the selecting official. All applicants reviewed and/or referred will receive a notification letter. All applicants must meet qualifications and eligibility criteria by the closing date of the announcement.
+
+This announcement may be used to fill additional vacancies.
+
+ Expand Hide  next steps
+
+Fair and transparent
+
+The Federal hiring process is set up to be fair and transparent. Please read the following guidance.
+
+ Criminal history inquiries
+
+ Equal Employment Opportunity (EEO) Policy
+
+ Financial suitability
+
+ New employee probationary period
+
+ Privacy Act
+
+ Reasonable accommodation policy
+
+ Selective Service
+
+ Signature and false statements
+
+ Social security number request
+
+ Defense Human Resources Activity
+
+ The DPAC mission is to improve the readiness, well-being, and security of the Total Force by conducting evidence-based research, personnel analytics, and market communications efforts.
+
+Agency contact information
+
+ DHRA Servicing Team
+
+Phone
+
+ 614-693-0237
+
+Email
+
+ DHRS-D-DHRA@dla.mil
+
+Address
+
+ Defense Human Resources Activity
+
+ 4800 Mark Center Drive
+
+ Alexandria, VA 22350-110
+
+ US
+
+Summary
+
+This position is part of the Defense Human Resources Activity. The incumbent will collaborate with team members to plan and execute the full analytic lifecycle. Must also be able to help design and build user focused analytics. Must possess curiosity, creativity, flexibility, focus, and attention to detail while working with partners throughout the enterprise and Department.
+
+ Learn more about this agency
+
+Overview
+
+ Help
+
+Accepting applications
+
+Location
+
+1 vacancy in the following location:
+
+ Alexandria, VA
+
+1 vacancy
+
+ No matching locations found.
+
+Work site options
+
+Telework eligible
+
+Yes—as determined by the agency policy.
+
+Remote job
+
+No
+
+Relocation expenses reimbursed
+
+ No
+
+Salary
+
+ $121,785 - $158,322 per year
+
+Pay scale & grade
+
+GS 13
+
+Promotion potential
+
+14
+
+ Learn more about pay scale and grade
+
+ Pay scale and grade determines the salary of the job.
+
+Work schedule
+
+Full-time
+
+Travel Required
+
+Occasional travel - You may be expected to travel for this position.
+
+Appointment type
+
+Permanent
+
+Occupations and job series
+
+ 1515 Operations Research
+
+Supervisory status
+
+No
+
+Federal service type
+
+This job is in the Competitive Service
+
+Represented by a union
+
+No
+
+Drug test
+
+No
+
+Security clearance
+
+Top Secret
+
+Position sensitivity and risk
+
+Special-Sensitive (SS)/High Risk
+
+ Jobs require a
+ background check and some require a
+ security clearance. The type depends on the job.
+
+Background check type
+
+ Suitability/Fitness
+
+ National security
+
+Financial disclosure required
+
+Yes
+
+ Some jobs require
+ financial disclosure to identify conflicts of interests.
+
+Announcement number
+
+DHRADPAC-27-13100278-DH
+
+Control number
+
+890092800
+
+ Previous result
+
+Next result
+
+Your session is about to expire!
+
+ Your USAJOBS session will expire due to inactivity in 8 minutes.
+ Any unsaved data will be lost if you allow the session to expire.
+ Click the button below to continue your session.
+
+ Sign out
+ Stay signed in
+
+ Return to top
+
+USAJOBS is a Opens in a new windowUnited States Office of Personnel Management website.
+
+ (Opens in a new window) OPM on LinkedIn
+
+ (Opens in a new window) OPM YouTube channel
+
+ (Opens in a new window) OPM on X
+
+Opens in a new windowEEO Policy Statement
+
+Opens in a new windowReasonable Accommodation Policy Statement
+
+Veterans Information
+
+Opens in a new windowLegal and Regulatory Guidance
+
+About USAJOBS
+
+Opens in a new windowAccessibility
+
+Opens in a new windowFOIA
+
+Opens in a new windowInspector general
+
+Opens in a new windowNo Fear Act Data
+
+Opens in a new windowPrivacy policy
+
+Opens in a new windowReports and publications
+
+Opens in a new windowTerms and conditions
+
+Opens in a new windowUSA.gov

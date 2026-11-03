@@ -1,0 +1,56 @@
+{
+  "@context": "http://www.schema.org",
+  "@type": "JobPosting",
+  "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": {
+      "@type": "QuantitativeValue",
+      "value": 107510.0,
+      "unitText": "YEAR"
+    }
+  },
+  "datePosted": "10/29/2026",
+  "description": "<p><strong>PLEASE NOTE: Based on the current hiring restrictions, selectees may be subject to additional approvals prior to an offer being extended.</strong></p>\n\n<p>This position is located at Bureau of the Fiscal Service, Debt Financial Management Division. As a Business Systems Analyst, you will be responsible for leading, coordinating, and delivering enterprise data products and services that advance the Fiscal Service mission and uphold federal financial integrity.<br>\n </p>",
+  "educationRequirements": "<strong>There are no educational requirements for this positon. </strong><br>\n<br>",
+  "employmentType": "OTHER",
+  "hiringOrganization": "Debt Financial Management Division",
+  "jobLocation": [
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Birmingham",
+        "addressRegion": "AL "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Washington",
+        "addressRegion": "DC "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Hyattsville",
+        "addressRegion": "MD "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Austin",
+        "addressRegion": "TX "
+      }
+    }
+  ],
+  "responsibilities": "As a Business Systems Analyst, you will:\n<ul>\n\t<li>Serve as a Product Owner responsible for leading, coordinating, and delivering enterprise data products and services that advance the Fiscal Service mission and uphold federal financial integrity.</li>\n\t<li>Oversee multidisciplinary teams and contractor resources to implement data driven systems, analytics capabilities, and user centric digital solutions that support accurate, accessible, and authoritative financial information across government.</li>\n\t<li>Support enterprise-wide efforts to strengthen data quality, promote transparency, and protect the integrity of federal financial information.</li>\n\t<li>Develop and maintain relationships with internal and external stakeholders such as other government agencies, OMB, internal Bureau of the Fiscal Service staff, Treasury staff, and with strategic partners to ensure financial data is in good quality.</li>\n</ul>",
+  "qualifications": "You must meet the following requirements by the closing date of this announcement.<br>\n<br>\nThe experience may have been gained in either the public, private sector or <a href=\"https://help.usajobs.gov/how-to/account/documents/resume/build/experience\" rel=\"noopener noreferrer\" target=\"_blank\">volunteer service</a>. One year of experience refers to full-time work; part-time work is considered on a prorated basis. To ensure full credit for your work experience, please indicate dates of employment by month/day/year, and indicate number of hours worked per week on your r\u00e9sum\u00e9.<br>\n<br>\nFor the <strong>GS-13</strong>, you must have one year of specialized experience at a level of difficulty and responsibility equivalent to the <strong>GS-12</strong> grade level in the Federal service. Specialized Experience for this position is defined as: <br>\n<br>\nExperience overseeing data standards, collection and infrastructure for a financial system<br>\n<b>AND</b><br>\nExperience performing all aspects of project management for a financial system, including monitoring contractor performance<br>\n<b>AND</b><br>\nExperience analyzing and documenting financial system issues and creating recommendations to ensure operational and security compliance.<br>\n<br>\n<br>",
+  "title": "Business Systems Analyst",
+  "validThrough": "2026-11-05"
+}

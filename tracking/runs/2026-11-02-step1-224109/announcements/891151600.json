@@ -1,0 +1,32 @@
+{
+  "@context": "http://www.schema.org",
+  "@type": "JobPosting",
+  "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": {
+      "@type": "QuantitativeValue",
+      "value": 121785.0,
+      "unitText": "YEAR"
+    }
+  },
+  "datePosted": "11/02/2026",
+  "description": "This vacancy is for an <strong>Economist</strong> position in the <strong>Industry Economics Division</strong> located at the <strong>Bureau of Economic Analysis.</strong><br>\n<br>\nThis Job Opportunity Announcement may be used to fill other <strong>Economist</strong>, <strong>ZP</strong>-<strong>0110</strong>-<strong>4</strong>, positions within the Bureau of Economic Analysis in the same geographical location with the same qualifications and specialized experience.",
+  "educationRequirements": "",
+  "employmentType": "OTHER",
+  "hiringOrganization": "Bureau of Economic Analysis",
+  "jobLocation": [
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Suitland",
+        "addressRegion": "MD "
+      }
+    }
+  ],
+  "responsibilities": "",
+  "qualifications": "<p><strong>Minimum Education Requirement: </strong></p>\n\n<ol>\n\t<li>\n\t<p><strong>Degree:</strong> economics, that included at least 21 semester hours in economics and 3 semester hours in statistics, accounting, or calculus.</p>\n\n\t<p>OR</p>\n\t</li>\n\t<li>\n\t<p><strong>Combination of education and experience:</strong> courses equivalent to a major in economics, as shown in A above, plus appropriate experience or additional education.</p>\n\t</li>\n</ol>\n\n<h3>Evaluation of Experience</h3>\n\n<p>Examples of qualifying experience include:</p>\n\n<ol>\n\t<li>individual economic research assignments requiring planning, information assembly, analysis and evaluation, conclusions and report preparation;</li>\n\t<li>supervisory or project coordination assignments involving a staff of professional economists, and requiring the evaluation and interpretation of economic information; or</li>\n\t<li>teaching assignments in a college or university that included both class instruction in economics subjects and one of the following (1) personal research that produced evidence of results, (2) direction of graduate theses in economics, or (3) service as a consultant or advisor on technical economics problems.</li>\n</ol>\n\n<p>Experience in related fields that did not involve the use and understanding of economic principles and theories may not be used as qualifying experience for these positions. Special attention on this point should be given to certain types of work that may or may not have provided professional economic experience. The following examples of work require special care in such determinations:</p>\n\n<ol>\n\t<li>economic statistics;</li>\n\t<li>industrial surveys;</li>\n\t<li>management of individual business enterprises, including farms;</li>\n\t<li>industrial planning;</li>\n\t<li>writing or editorial work in economic subjects; and</li>\n\t<li>financial market analysis.</li>\n</ol>\n\n<p>AND<br>\n<br>\n<strong>Specialized Experience:</strong> For the <strong>Band IV (GS-13)</strong>, you must have one year of experience at a level of difficulty and responsibility equivalent to the <strong>Band III (GS-12)</strong> in the Federal service. Experience for this position includes interpreting or analyzing economic statistics; discussing and explaining statistics and methods used to various audiences; preparing statistical tables and reports; identifying and proposing solutions to resolve data anomalies; managing the development and maintenance of estimation procedures; and adhering to rigid production schedules.<br>\n<br>\n<strong>Education:</strong> Education cannot be substituted for experience at this grade level.<br>\n<br>\nExperience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., Peace Corps, AmeriCorps) and other organizations (e.g., professional; philanthropic; religious; spiritual; community, student, social). Volunteer work helps build critical competencies, knowledge, and skills and can provide valuable training and experience that translates directly to paid employment. You will receive credit for all qualifying experience, including volunteer.After you submit this application, you will receive an e-mail informing you that a USA Hire assessment is required. You will have 48 hours from the closing date of this announcement, 11/09/2026, to complete the assessment as this assessment is part of your application.</p>",
+  "title": "Economist",
+  "validThrough": "2026-11-09"
+}

@@ -1,0 +1,861 @@
+USAJOBS - Job Announcement
+
+ Skip to main content
+
+ An official website of the United States government
+
+Official websites use .gov
+
+A .gov website belongs to an official government organization in the United States.
+
+Secure .gov websites use HTTPS
+ A lock ( LockA locked padlock ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.
+
+ MENU
+
+ Sign in
+
+ My jobs
+
+ Profile
+
+ Resumes & documents
+
+ Notifications
+
+ Talent networks
+
+ Sign out
+
+ My jobs
+
+ Profile
+
+ Resumes & documents
+
+ Notifications
+
+ Talent networks
+
+ Sign out
+
+ Events
+
+ Help Center
+
+ Search
+
+ Back to results
+
+ Apply
+
+ Data Scientist
+
+Department of Defense
+
+Defense Security Cooperation Agency
+
+Apply
+
+ Print
+
+ Share
+
+ Save
+
+ Summary
+
+ This job is open to
+
+ Duties
+
+ Requirements
+
+ How you will be evaluated
+
+ Required documents
+
+ How to apply
+
+Summary
+
+This position is part of the DSCA. The incumbent will be responsible for developing algorithms and/or tools to support data manipulation and processing as well as the use of data visualization techniques to articulate findings. Plans, leads, and advises team members of a study team on relevant research and analytical studies of agency problems to support critical operational problems and/or decisions for robotic, autonomy or artificial intelligence programs and initiatives.
+
+ Learn more about this agency
+
+Summary
+
+This position is part of the DSCA. The incumbent will be responsible for developing algorithms and/or tools to support data manipulation and processing as well as the use of data visualization techniques to articulate findings. Plans, leads, and advises team members of a study team on relevant research and analytical studies of agency problems to support critical operational problems and/or decisions for robotic, autonomy or artificial intelligence programs and initiatives.
+
+ Learn more about this agency
+
+Overview
+
+ Help
+
+Accepting applications
+
+Location
+
+1 vacancy in the following location:
+
+ Arlington, VA
+
+1 vacancy
+
+ No matching locations found.
+
+Work site options
+
+Telework eligible
+
+Yes—as determined by the agency policy.
+
+Remote job
+
+No
+
+Relocation expenses reimbursed
+
+ No
+
+Salary
+
+ $143,913 - $187,093 per year
+
+Pay scale & grade
+
+GS 14
+
+Promotion potential
+
+None
+
+ Learn more about pay scale and grade
+
+ Pay scale and grade determines the salary of the job.
+
+Work schedule
+
+Full-time
+
+Travel Required
+
+Occasional travel - You may be expected to travel for this position.
+
+Appointment type
+
+Permanent
+
+Occupations and job series
+
+ 1560 Data Science Series
+
+Supervisory status
+
+No
+
+Federal service type
+
+This job is in the Competitive Service
+
+Represented by a union
+
+No
+
+Drug test
+
+Yes
+
+Security clearance
+
+Sensitive Compartmented Information
+
+Position sensitivity and risk
+
+Special-Sensitive (SS)/High Risk
+
+ Jobs require a
+ background check and some require a
+ security clearance. The type depends on the job.
+
+Background check type
+
+ National security
+
+Financial disclosure required
+
+No
+
+ Some jobs require
+ financial disclosure to identify conflicts of interests.
+
+Announcement number
+
+DSCA-27-13103897-MP
+
+Control number
+
+890855800
+
+This job is open to
+
+ Help
+
+Federal employees - Competitive service
+
+ Current federal employees whose agencies follow the U.S. Office of Personnel Management's hiring rules and pay scales.
+
+Career transition (CTAP, ICTAP, RPL)
+
+ Federal employees whose job, agency or department was eliminated and are eligible for priority over other applicants.
+
+Veterans
+
+ Veterans of the U.S. Armed Forces or a spouse, widow, widower or parent of a veteran, who may be eligible for derived preference
+
+Military spouses
+
+ Military spouses of active duty service members or whose spouse is 100 percent disabled or died on active duty.
+
+Individuals with disabilities
+
+ Individuals who are eligible under Schedule A.
+
+Special authorities
+
+ Individuals eligible under a special authority not listed in another hiring path.
+
+Clarification from the agency
+
+This job is open to current and former permanent competitive service employees. Veterans eligibilities include 30% or more Disabled Vet, Veterans Employment Opportunities Act (VEOA). Special authorities mean those eligible under an Interchange agreement (i.e., NAF, TSA, U.S. Postal Service, FAA, VA, etc.). Military Spouse Preference (MSP), Retained Grade Preference (RGP), and Military Reserve and National Guard Technician eligibles may also apply.
+
+Duties
+
+ Help
+
+ As a Data Scientist at the GS-1560-14 some of your typical work assignments may include:
+
+Identifies and/or develops innovative and effective approaches and methodologies; applies advanced operations research and data science techniques for quantitative analysis, statistical analysis, forecasting, predictive modeling, prescriptive analysis, and optimization; and validates analysis and outcomes.
+
+Identifies, develops, and integrates pertinent information, including internal and external sources, through various data collection procedures and technologies, including emerging data science and big data methodologies.
+
+Directs and coordinates specific data mining, analysis, advanced modeling,
+
+ development of mathematical algorithms, and computer program design activities with
+
+ Office of Secretary of War and the Military Departments and with high-level personnel in the Department of State and other USG agencies.
+
+Requirements
+
+ Help
+
+Conditions of employment
+
+Must be a U.S. citizen
+
+Males born after 12-31-59 must be registered for Selective Service
+
+Resume and supporting documents (See How To Apply)
+
+Suitable for Federal employment, determined by a background investigation
+
+May be required to successfully complete a probationary period
+
+Work Schedule: Full Time
+
+Overtime: Occasionally
+
+Tour of Duty: Flexible
+
+Recruitment Incentives: May be Authorized
+
+Fair Labor Standards Act (FLSA): Exempt
+
+Financial Disclosure: Not Required
+
+Telework Eligibility: This position is telework eligible
+
+Qualifications
+
+ You may qualify at the GS-14, if you fulfill the following qualifications:
+
+A. One year of specialized experience equivalent to the GS-13 grade level in the Federal service:
+
+Applying professional knowledge of one or more in computer science, mathematical, statistical theories, techniques, and methods to gather, analyze, design, and construct new processes for modeling, interpreting, and/or reporting quantitative information, trends, relationships, and correlations among or within data sets.
+
+AND
+
+Degree requirement:
+
+A. Degree: Mathematics, statistics, computer science, data science or field directly related to the position. The degree must be in a major field of study (at least at the baccalaureate level) that is appropriate for the position.
+
+OR
+
+B. Combination of education and experience: Courses equivalent to a major field of study (30 semester hours) as shown in paragraph A above, plus additional education or appropriate experience.
+
+Experience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., Peace Corps, AmeriCorps) and other organizations (e.g., professional; philanthropic; religious; spiritual; community, student, social). Volunteer work helps build critical competencies, knowledge, and skills and can provide valuable training and experience that translates directly to paid employment. You will receive credit for all qualifying experience, including volunteer experience.
+
+In addition to meeting qualifications, your application package must reflect the applicable experience to meet the Individual Occupational Requirements for the 1560 series.
+
+*NOTE: Failure to provide transcripts will result in you being rated ineligible for this position.
+
+Education
+
+ Substitution of education may not be used in lieu of specialized experience for this grade level.
+
+GRADUATE EDUCATION: One academic year of graduate education is considered to be the number of credits hours that your graduate school has determined to represent one academic year of full-time study. Such study may have been performed on a full-time or part-time basis. If you cannot obtain your graduate school's definition of one year of graduate study, 18 semester hours (or 27 quarter hours) should be considered as satisfying the requirement for one year of full-time graduate study.
+
+Foreign education may be qualifying if a private organization specializing in interpreting foreign education programs has deemed the foreign education equivalent to that gained in an accredited U.S. education program or a U.S. accredited college or university has given full credit for the foreign courses.
+
+Unofficial transcripts from U.S. Department of Education accredited colleges, universities, schools, or institutions listing your name, the name of the school, the date and degree awarded, and the list of classes and credits earned are acceptable for the application process. If selected, official transcripts are required before a firm job offer is made. A photocopy of your degree/diploma is not acceptable.
+
+When relying on foreign education, submit transcripts and a copy of the equivalency evaluation results letter with a course-by-course listing. Documents must be in English or include an English translation. The hiring employer for this position does not evaluate degrees from foreign colleges or universities. For further information, visit: Foreign Education
+
+Additional information
+
+Veterans Employment Opportunity Act (VEOA): To be eligible for a VEOA appointment under Merit Promotion procedures, the veteran must be a preference eligible or a veteran separated after 3 years or more of continuous active service performed under honorable conditions.
+
+Interagency Career Transition Assistance Programs: This program applies to employees who have been involuntarily separated from a Federal service position within the competitive service or Federal service employees whose positions have been deemed surplus or no longer needed. To receive selection priority for this position, you must: 1) meet ICTAP eligibility criteria; 2) be rated well-qualified for the position; Well qualified is defined as possessing the type and quality of experience that exceeds the positions minimum qualifications. and 3) submit the appropriate documentation to support your ICTAP eligibility. For more information: https://www.opm.gov/policy-data-oversight/workforce-restructuring/employee-guide-to-career-transition/.
+
+Noncompetitive Appointment Authorities: For more information on noncompetitive appointment authority eligibility requirements:
+
+Persons with Disabilities - Schedule A
+
+Special Hiring Authority for Veterans
+
+Special Hiring Authority for Certain Military Spouses
+
+Other Special Appointment Authorities - Subpart F
+
+Males born after 12-31-59 must be registered or exempt from Selective Service (see https://www.sss.gov/register/)
+
+The selecting official may choose to conduct interviews, and once the selection is made, you will receive a notification of the decision.
+
+NOTE: Declining to be interviewed or failure to report for a scheduled interview will be considered as a declination for further consideration for employment against this vacancy.
+
+Selective Service Requirement: Please visit http://www.sss.gov for more information.
+
+For more information, please visit
+
+https://www.dla.mil/Portals/104/Documents/Careers/downloads/DoDGenAppInfo%2012-1-2020.pdf?ver=ECNbdsHtGilTd3OENN4A0Q%3d%3d
+
+Other Notes:
+
+Incumbent must attain DoD Security Cooperation Workforce (SCW) Certification and complete related continuous learning requirements in accordance with the National Defense Authorization Act (NDAA) 2017, Title 10 United States Code, Section 384 and Security Cooperation Certification Program 2.0 requirements. Requirements for Proficiency Level 3 - At least 1 year of successful SC work experience with a performance appraisal rating of 3 or better. Incumbent must complete DoD SCW Expert level certification requirements within two years of entering the SC position. In addition, 80 hours of continuing education (CUE) every two years.
+
+Re-employed Annuitant: This position Does not meet criteria for re-employed annuitant. The DoD criteria for hiring Re-employed Annuitants can be found at: https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/140025/140025_vol300.PDF?ver=LQ7feWw-8-5DI2tceUpmgA%3d%3d
+
+This position is subject to an initial drug screening, and random testing thereafter.
+
+As required by 5 C.F.R. § 302.106., DLA will provide Section 508 conformant ICT to employees with disabilities. All ICT interfaces with the public related to vacancy announcements and career transition opportunities must conform to the applicable requirements in the current ICT Standards and Guidelines (36 C.F.R. § 1194).
+
+Status candidates must meet time-in-grade requirements (52 weeks at the next lower grade level).
+
+ Expand Hide  additional information
+
+Candidates should be committed to improving the efficiency of the Federal government, passionate about the ideals of our American republic, and committed to upholding the rule of law and the United States Constitution.
+
+Benefits
+
+ Help
+
+ A career with the U.S. government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding. Opens in a new windowLearn more about federal benefits.
+
+ Review our benefits
+
+Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time or intermittent. Contact the hiring agency for more information on the specific benefits offered.
+
+How you will be evaluated
+
+You will be evaluated for this job based on how well you meet the qualifications above.
+
+ To apply for this position, you must complete the online application and submit the documentation specified in the Required Documents section below.
+
+The complete application package must be submitted by 11:59 PM (EST) on the closing date to receive consideration.
+
+To begin, click Apply Online to access an online application. Follow the prompts to select your USAJOBS resume and/or other supporting documents. You will need to be logged into your USAJOBS account or you may need to create a new account.
+
+You will be taken to an online application. Complete the online application, verify the required documentation, and submit the application. NOTE: Resumes up to a total of two pages will be accepted. Resumes exceeding two pages will be removed from consideration.
+
+You will receive an email notification when your application has been received for the announcement.
+
+To verify the status of your application, log into your USAJOBS account, https://www.usajobs.gov, select the Application Status link and then select the More Information link for this position. The Application Status page will display the status of your application, the documentation received and processed, and your responses submitted to the online application. Your uploaded documents may take several hours to clear the virus scan process.
+
+To preview the questionnaire, please go to https://apply.usastaffing.gov/ViewQuestionnaire/13103897.
+
+To review the status of an application through USAJOBS:
+
+1. Log into your USAJOBS account
+
+2. Click Application Status within your profile to expand your application
+
+3. Locate the job announcement and click the more information link under the Status column for this position. You will be routed to Application Manager. The Details tab displays by default. The Details tab displays comprehensive information about the selected Application Package including: assessment(s) and the status, supporting documents and their status, correspondence sent to you by the hiring agency, and your application processing status. To fax supporting documents you are unable to upload, complete this cover page http://staffing.opm.gov/pdf/usascover.pdf . Fax your documents to 1-478-757-3144. You are highly encouraged to submit your application package and complete your assessment questionnaire on-line.
+
+Please review the General Application Information and Definitions at:
+
+https://www.dla.mil/Portals/104/Documents/Careers/downloads/DoDGenAppInfo%2012-1-2020.pdf?ver=ECNbdsHtGilTd3OENN4A0Q%3d%3d
+
+Benefits
+
+ Help
+
+ A career with the U.S. government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding. Opens in a new windowLearn more about federal benefits.
+
+ Review our benefits
+
+Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time or intermittent. Contact the hiring agency for more information on the specific benefits offered.
+
+Required documents
+
+Required Documents
+
+ Help
+
+ The documents you are required to submit vary based on the authority you are using to apply (i.e., applying as a veteran, applying as a current permanent Federal employee, applying as a reinstatement, etc.). Your complete application includes your COMPLETE resume, your responses to the online questionnaire, and documents which prove your eligibility to apply. If you fail to provide these documents, you will be marked as having an incomplete application package and you will not be considered any further.
+
+The following documents are REQUIRED
+
+1. Resume:
+
+All applicants are required to submit a resume limited to two (2) pages showing all relevant experience. Your resume must address your qualifications for the position, and it may not exceed two (2) pages. Your 2-page (or less) resume must be in PDF format, with no smaller than a 0.5" margin and no smaller than a 10-point font. If you submit a resume that exceeds the two-page limit and/or does not meet the margin or font limitations stated herein, you will immediately be deemed ineligible for this position and will be removed from further consideration. Must include the work schedule, hours worked per week, dates of employment, and duties performed. The resume and required supporting documentation should provide the minimum qualifications and relevant experience for the announced position. If multiple resumes are submitted by an applicant, only the last resume submitted will be reviewed for qualifications and referred for selection consideration, if eligible. The resume must not be more than 5MB and should be saved and uploaded as a PDF to maintain formatting and number of pages. We also accept GIF, JPG, JPEG, PNG, RTF, TXT, PDF, ODT or Word (DOC or DOCX). We do not accept PDF portfolio files. We recommend using a font like Lato, if available. Other widely available options are Calibri, Helvetica, Arial, Verdana, Open San Source Sans Pro, Roboto or Noro Sans.
+
+Additional guidance on writing a federal resume can be found at: USAJOBS Help Center - How do I write a resume for a federal job? The resume builder can help you create a resume using these recommendations and uses the information in your USAJOBS profile to help you get started.
+
+2. Transcripts:
+
+This position has a degree or education requirement so you are required to submit a copy of your transcript
+
+3. SF50
+
+All current and former civilian Federal employees must submit a copy of your MOST RECENT SF50 (Notification of Personnel Action) showing your tenure, grade and step, salary, and type of position occupied (i.e., Excepted or Competitive); or similar Notification of Personnel Action documentation, i.e., Transcript of Service, Form 1150, etc. This is also a requirement to verify your Time in Grade (TIG).
+
+4. Veteran's Documents:
+
+If applying using veteran's preference or under a Veteran's hiring authority you must submit the following documents: DD214 showing character of service, SF-15 Form and VA letter showing final percentage, or certification of expected discharge or release from active duty.
+
+ PLEASE REVIEW THE BELOW LINK FOR OTHER SUPPORTING DOCUMENTS needed for proof of eligibility:
+
+https://www.dla.mil/Portals/104/Documents/Careers/downloads/DODCustomersRequiredSupportingDocumentation.pdf
+
+ If you are relying on your education to meet qualification requirements:
+
+ Education must be accredited by an accrediting institution recognized by the U.S. Department of Education in order for it to be credited towards qualifications. Therefore, provide only the attendance and/or degrees from
+ schools accredited by accrediting institutions recognized by the U.S. Department of Education.
+
+ Failure to provide all of the required information as stated in this vacancy announcement may result in an ineligible rating or may affect the overall rating.
+
+How to Apply
+
+ Help
+
+To apply for this position, you must complete the online application and submit the documentation specified in the Required Documents section below.
+
+The complete application package must be submitted by 11:59 PM (EST) on the closing date to receive consideration.
+
+To begin, click Apply Online to access an online application. Follow the prompts to select your USAJOBS resume and/or other supporting documents. You will need to be logged into your USAJOBS account or you may need to create a new account.
+
+You will be taken to an online application. Complete the online application, verify the required documentation, and submit the application. NOTE: Resumes up to a total of two pages will be accepted. Resumes exceeding two pages will be removed from consideration.
+
+You will receive an email notification when your application has been received for the announcement.
+
+If you are required to complete any USA Hire Assessments, you will be notified after submitting your application. The notification will be provided in your application submission screen and via email. The notification will include your unique assessment access link to the USA Hire system and the completion deadline. Additionally, in USAJOBS you can click "Track this application" to return to your assessment completion notice.
+
+Access USA Hire using your unique assessment link. Access is granted through your USAJOBS login credentials.
+
+Review all instructions prior to beginning your assessments. You will have the opportunity to request a testing accommodation before beginning the assessments should you have a disability covered under the Rehabilitation Act of 1973 as amended.
+
+Set aside at least 3 hours to take the USA Hire Assessments; however, most applicants complete the assessments in less time. If you need to stop the assessments and continue later, you can re-use your unique assessment link.
+
+Your responses to the USA Hire Assessments will be reused for one year (in most cases) from the date you complete an assessment. If future applications you submit require completion of the same assessments, your responses will be automatically reused.
+
+Visit the USA Hire Applicant Resource Center for practice assessments and assessment preparation resources at https://support-usahire.opm.gov/hc/en-us.
+
+To verify the status of your application, log into your USAJOBS account, https://www.usajobs.gov, select the Application Status link and then select the More Information link for this position. The Application Status page will display the status of your application, the documentation received and processed, and your responses submitted to the online application. Your uploaded documents may take several hours to clear the virus scan process.
+
+To preview the questionnaire, please go to https://apply.usastaffing.gov/ViewQuestionnaire/13103897.
+
+Please review the General Application Information and Definitions at:
+
+https://www.dla.mil/Portals/104/Documents/Careers/downloads/DoDGenAppInfo%2012-1-2020.pdf?ver=ECNbdsHtGilTd3OENN4A0Q%3d%3d
+
+Agency contact information
+
+ DSCA Servicing Team
+
+Phone
+
+ 614 692-0252
+
+Email
+
+ DHRS-D-DSCA@DLA.MIL
+
+Address
+
+ Defense Security Cooperation Agency
+
+ 1851 S. Bell
+
+Room 501
+
+ Arlington, VA 22240
+
+ US
+
+Next steps
+
+Once you successfully complete the application process, you will receive a notification of receipt. Your application package will be reviewed to ensure you meet the basic eligibility and qualifications requirements, and you will receive a notification. A review will be made of your the documentation you submitted to support your resume. A list of qualified applicants will be created and sent to the selecting official. All applicants reviewed and/or referred will receive a notification letter.
+
+The selecting official may choose to conduct interviews, and once the selection is made, you will receive a notification of the decision.
+
+Please review the General Application Information and Definitions at: https://www.dla.mil/Portals/104/Documents/Careers/downloads/DoDGenAppInfo%2012-1-2020.pdf?ver=ECNbdsHtGilTd3OENN4A0Q%3d%3d
+
+Fair and transparent
+
+The Federal hiring process is set up to be fair and transparent. Please read the following guidance.
+
+ Criminal history inquiries
+
+ Equal Employment Opportunity (EEO) Policy
+
+ Financial suitability
+
+ New employee probationary period
+
+ Privacy Act
+
+ Reasonable accommodation policy
+
+ Selective Service
+
+ Signature and false statements
+
+ Social security number request
+
+Required Documents
+
+ Help
+
+ The documents you are required to submit vary based on the authority you are using to apply (i.e., applying as a veteran, applying as a current permanent Federal employee, applying as a reinstatement, etc.). Your complete application includes your COMPLETE resume, your responses to the online questionnaire, and documents which prove your eligibility to apply. If you fail to provide these documents, you will be marked as having an incomplete application package and you will not be considered any further.
+
+The following documents are REQUIRED
+
+1. Resume:
+
+All applicants are required to submit a resume limited to two (2) pages showing all relevant experience. Your resume must address your qualifications for the position, and it may not exceed two (2) pages. Your 2-page (or less) resume must be in PDF format, with no smaller than a 0.5" margin and no smaller than a 10-point font. If you submit a resume that exceeds the two-page limit and/or does not meet the margin or font limitations stated herein, you will immediately be deemed ineligible for this position and will be removed from further consideration. Must include the work schedule, hours worked per week, dates of employment, and duties performed. The resume and required supporting documentation should provide the minimum qualifications and relevant experience for the announced position. If multiple resumes are submitted by an applicant, only the last resume submitted will be reviewed for qualifications and referred for selection consideration, if eligible. The resume must not be more than 5MB and should be saved and uploaded as a PDF to maintain formatting and number of pages. We also accept GIF, JPG, JPEG, PNG, RTF, TXT, PDF, ODT or Word (DOC or DOCX). We do not accept PDF portfolio files. We recommend using a font like Lato, if available. Other widely available options are Calibri, Helvetica, Arial, Verdana, Open San Source Sans Pro, Roboto or Noro Sans.
+
+Additional guidance on writing a federal resume can be found at: USAJOBS Help Center - How do I write a resume for a federal job? The resume builder can help you create a resume using these recommendations and uses the information in your USAJOBS profile to help you get started.
+
+2. Transcripts:
+
+This position has a degree or education requirement so you are required to submit a copy of your transcript
+
+3. SF50
+
+All current and former civilian Federal employees must submit a copy of your MOST RECENT SF50 (Notification of Personnel Action) showing your tenure, grade and step, salary, and type of position occupied (i.e., Excepted or Competitive); or similar Notification of Personnel Action documentation, i.e., Transcript of Service, Form 1150, etc. This is also a requirement to verify your Time in Grade (TIG).
+
+4. Veteran's Documents:
+
+If applying using veteran's preference or under a Veteran's hiring authority you must submit the following documents: DD214 showing character of service, SF-15 Form and VA letter showing final percentage, or certification of expected discharge or release from active duty.
+
+ PLEASE REVIEW THE BELOW LINK FOR OTHER SUPPORTING DOCUMENTS needed for proof of eligibility:
+
+https://www.dla.mil/Portals/104/Documents/Careers/downloads/DODCustomersRequiredSupportingDocumentation.pdf
+
+ If you are relying on your education to meet qualification requirements:
+
+ Education must be accredited by an accrediting institution recognized by the U.S. Department of Education in order for it to be credited towards qualifications. Therefore, provide only the attendance and/or degrees from
+ schools accredited by accrediting institutions recognized by the U.S. Department of Education.
+
+ Failure to provide all of the required information as stated in this vacancy announcement may result in an ineligible rating or may affect the overall rating.
+
+How to Apply
+
+ Help
+
+To apply for this position, you must complete the online application and submit the documentation specified in the Required Documents section below.
+
+The complete application package must be submitted by 11:59 PM (EST) on the closing date to receive consideration.
+
+To begin, click Apply Online to access an online application. Follow the prompts to select your USAJOBS resume and/or other supporting documents. You will need to be logged into your USAJOBS account or you may need to create a new account.
+
+You will be taken to an online application. Complete the online application, verify the required documentation, and submit the application. NOTE: Resumes up to a total of two pages will be accepted. Resumes exceeding two pages will be removed from consideration.
+
+You will receive an email notification when your application has been received for the announcement.
+
+If you are required to complete any USA Hire Assessments, you will be notified after submitting your application. The notification will be provided in your application submission screen and via email. The notification will include your unique assessment access link to the USA Hire system and the completion deadline. Additionally, in USAJOBS you can click "Track this application" to return to your assessment completion notice.
+
+Access USA Hire using your unique assessment link. Access is granted through your USAJOBS login credentials.
+
+Review all instructions prior to beginning your assessments. You will have the opportunity to request a testing accommodation before beginning the assessments should you have a disability covered under the Rehabilitation Act of 1973 as amended.
+
+Set aside at least 3 hours to take the USA Hire Assessments; however, most applicants complete the assessments in less time. If you need to stop the assessments and continue later, you can re-use your unique assessment link.
+
+Your responses to the USA Hire Assessments will be reused for one year (in most cases) from the date you complete an assessment. If future applications you submit require completion of the same assessments, your responses will be automatically reused.
+
+Visit the USA Hire Applicant Resource Center for practice assessments and assessment preparation resources at https://support-usahire.opm.gov/hc/en-us.
+
+To verify the status of your application, log into your USAJOBS account, https://www.usajobs.gov, select the Application Status link and then select the More Information link for this position. The Application Status page will display the status of your application, the documentation received and processed, and your responses submitted to the online application. Your uploaded documents may take several hours to clear the virus scan process.
+
+To preview the questionnaire, please go to https://apply.usastaffing.gov/ViewQuestionnaire/13103897.
+
+Please review the General Application Information and Definitions at:
+
+https://www.dla.mil/Portals/104/Documents/Careers/downloads/DoDGenAppInfo%2012-1-2020.pdf?ver=ECNbdsHtGilTd3OENN4A0Q%3d%3d
+
+ Expand Hide  how to apply
+
+Agency contact information
+
+ DSCA Servicing Team
+
+Phone
+
+ 614 692-0252
+
+Email
+
+ DHRS-D-DSCA@DLA.MIL
+
+Address
+
+ Defense Security Cooperation Agency
+
+ 1851 S. Bell
+
+Room 501
+
+ Arlington, VA 22240
+
+ US
+
+Next steps
+
+Once you successfully complete the application process, you will receive a notification of receipt. Your application package will be reviewed to ensure you meet the basic eligibility and qualifications requirements, and you will receive a notification. A review will be made of your the documentation you submitted to support your resume. A list of qualified applicants will be created and sent to the selecting official. All applicants reviewed and/or referred will receive a notification letter.
+
+The selecting official may choose to conduct interviews, and once the selection is made, you will receive a notification of the decision.
+
+Please review the General Application Information and Definitions at: https://www.dla.mil/Portals/104/Documents/Careers/downloads/DoDGenAppInfo%2012-1-2020.pdf?ver=ECNbdsHtGilTd3OENN4A0Q%3d%3d
+
+ Expand Hide  next steps
+
+Fair and transparent
+
+The Federal hiring process is set up to be fair and transparent. Please read the following guidance.
+
+ Criminal history inquiries
+
+ Equal Employment Opportunity (EEO) Policy
+
+ Financial suitability
+
+ New employee probationary period
+
+ Privacy Act
+
+ Reasonable accommodation policy
+
+ Selective Service
+
+ Signature and false statements
+
+ Social security number request
+
+ Defense Security Cooperation Agency
+
+ This position is part of the Defense Security Cooperation Agency. DSCA's mission is to advance U.S. national security and foreign policy interests by building the capacity of foreign security forces to respond to shared challenges. DSCA leads the broader U.S. security cooperation enterprise in its efforts to train, educate, advise, and equip foreign partners. DSCA administers security cooperation programs that support U.S. policy interests and objectives.
+
+Agency contact information
+
+ DSCA Servicing Team
+
+Phone
+
+ 614 692-0252
+
+Email
+
+ DHRS-D-DSCA@DLA.MIL
+
+Address
+
+ Defense Security Cooperation Agency
+
+ 1851 S. Bell
+
+Room 501
+
+ Arlington, VA 22240
+
+ US
+
+Visit our careers page
+
+ Learn more about what it's like to work at Defense Security Cooperation Agency, what the agency does, and about the types of careers this agency offers.
+
+ https://www.dsca.mil/
+
+Summary
+
+This position is part of the DSCA. The incumbent will be responsible for developing algorithms and/or tools to support data manipulation and processing as well as the use of data visualization techniques to articulate findings. Plans, leads, and advises team members of a study team on relevant research and analytical studies of agency problems to support critical operational problems and/or decisions for robotic, autonomy or artificial intelligence programs and initiatives.
+
+ Learn more about this agency
+
+Overview
+
+ Help
+
+Accepting applications
+
+Location
+
+1 vacancy in the following location:
+
+ Arlington, VA
+
+1 vacancy
+
+ No matching locations found.
+
+Work site options
+
+Telework eligible
+
+Yes—as determined by the agency policy.
+
+Remote job
+
+No
+
+Relocation expenses reimbursed
+
+ No
+
+Salary
+
+ $143,913 - $187,093 per year
+
+Pay scale & grade
+
+GS 14
+
+Promotion potential
+
+None
+
+ Learn more about pay scale and grade
+
+ Pay scale and grade determines the salary of the job.
+
+Work schedule
+
+Full-time
+
+Travel Required
+
+Occasional travel - You may be expected to travel for this position.
+
+Appointment type
+
+Permanent
+
+Occupations and job series
+
+ 1560 Data Science Series
+
+Supervisory status
+
+No
+
+Federal service type
+
+This job is in the Competitive Service
+
+Represented by a union
+
+No
+
+Drug test
+
+Yes
+
+Security clearance
+
+Sensitive Compartmented Information
+
+Position sensitivity and risk
+
+Special-Sensitive (SS)/High Risk
+
+ Jobs require a
+ background check and some require a
+ security clearance. The type depends on the job.
+
+Background check type
+
+ National security
+
+Financial disclosure required
+
+No
+
+ Some jobs require
+ financial disclosure to identify conflicts of interests.
+
+Announcement number
+
+DSCA-27-13103897-MP
+
+Control number
+
+890855800
+
+ Previous result
+
+Next result
+
+Your session is about to expire!
+
+ Your USAJOBS session will expire due to inactivity in 8 minutes.
+ Any unsaved data will be lost if you allow the session to expire.
+ Click the button below to continue your session.
+
+ Sign out
+ Stay signed in
+
+ Return to top
+
+USAJOBS is a Opens in a new windowUnited States Office of Personnel Management website.
+
+ (Opens in a new window) OPM on LinkedIn
+
+ (Opens in a new window) OPM YouTube channel
+
+ (Opens in a new window) OPM on X
+
+Opens in a new windowEEO Policy Statement
+
+Opens in a new windowReasonable Accommodation Policy Statement
+
+Veterans Information
+
+Opens in a new windowLegal and Regulatory Guidance
+
+About USAJOBS
+
+Opens in a new windowAccessibility
+
+Opens in a new windowFOIA
+
+Opens in a new windowInspector general
+
+Opens in a new windowNo Fear Act Data
+
+Opens in a new windowPrivacy policy
+
+Opens in a new windowReports and publications
+
+Opens in a new windowTerms and conditions
+
+Opens in a new windowUSA.gov
