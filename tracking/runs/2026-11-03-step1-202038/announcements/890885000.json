@@ -1,0 +1,32 @@
+{
+  "@context": "http://www.schema.org",
+  "@type": "JobPosting",
+  "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": {
+      "@type": "QuantitativeValue",
+      "value": 169279.0,
+      "unitText": "YEAR"
+    }
+  },
+  "datePosted": "10/30/2026",
+  "description": "This position serves as a Supervisory IT Program Manager (INFOSEC/PLCYPLN) located in the Department of Justice, Chief Information Officer, Cybersecurity Services Staff, Administration, Shared Services & Internal Controls Directorate in Washington, DC. The primary purpose of this position is to provide directorate for information security, project management, advisory services, Continuity of Operations, Contracting Officers Representative functions and supervisory authority of the branch.",
+  "educationRequirements": "Some federal jobs allow you to substitute your education for the required experience in order to qualify. For the GS-15 level, you must meet the qualification requirement using experience alone. No substitution of education for experience is permitted.<br>",
+  "employmentType": "OTHER",
+  "hiringOrganization": "Deputy Assistant Attorney General, Chief Information Officer",
+  "jobLocation": [
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Washington",
+        "addressRegion": "DC "
+      }
+    }
+  ],
+  "responsibilities": "The duties and responsibilities for a Supervisory IT Program Manager (INFOSEC/PLCYPLN), GS-2210-15 generally include, but are not limited to, the following:\n<ol>\n\t<li>Leads enterprise level oversight of national IT shared services programs to ensure governance integration and alignment with national security priorities.</li>\n\t<li>Prepares and justify IT budget requirements and ensure auditing and oversight controls.</li>\n\t<li>Monitors contractor performance, cost controls, and deliverables for compliance with FAR, FITARA, and DOJ OCIO requirements.</li>\n\t<li>Develops long range IT strategic plans aligned with national security, agency priorities, and federal mandates.</li>\n\t<li>Identifies vulnerabilities, security gaps, and recommend corrective actions to prevent mission impact.</li>\n</ol>",
+  "qualifications": "To qualify for the position of Supervisory IT Program Manager (INFOSEC/PLCYPLN), at GS-2210-15, you must meet the basic qualification requirements listed below.<br>\n<br>\n<b>Basic Qualifications (2210 series): </b>Please refer to the OPM <a href=\"https://www.opm.gov/policy-data-oversight/classification-qualifications/competency-based-policy/general-schedule/2200/2210-competency-based-policy/competency-based-qualification-standard/\">IT Management Series 2210 Qualification Standard</a> for the specific experience requirements for the GS-12 and above positions.<br>\n<br>\n<b>AND</b><br>\n<br>\n<b>Specialized Experience</b>: <b>To qualify for the </b>GS-15<b> grade level</b>, you must have one (1) year of specialized experience equivalent to at least the GS-14 grade level in the Federal service, or comparable non-Federal experience. Specialized experience is defined as experience performing the following duties:\n<ol>\n\t<li>Leads the development and enhancement of information security programs to include areas such as guidance, procedures, and/or tools.</li>\n\t<li>Manages IT program execution and resource management across multiple organizations that demonstrate accountability, financial management, cost-benefit analysis, and/or decision-making.</li>\n</ol>\nYou<b> MUST</b> meet all qualification requirements by the 11/05/2026 of this announcement.<br>\n<br>\nYour resume must support your responses to the application questionnaire and the qualification requirements. Failure to do so may result in an ineligible rating.<i>See the Required Documents section for important notes about what must be included in your resume.</i><br>\n<br>\nAfter you submit your application, you will receive notification indicated whether or not the USA Hire assessment is required. You will have 48 hours from the closing date of this announcement11/05/2026 to complete the assessment which is part of your application.",
+  "title": "Supervisory IT Program Manager (INFOSEC/PLCYPLN)",
+  "validThrough": "2026-11-05"
+}

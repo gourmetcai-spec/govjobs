@@ -15,10 +15,10 @@
   "location": "Washington, DC",
   "remote_restrictions": "Offered DMV work location; verify telework/attendance and screening conditions in announcement.",
   "salary": "Starting at $143,913 Per year (GS 14)",
-  "retrieved_at": "2026-11-02T23:14:54.501767+00:00",
+  "retrieved_at": "2026-11-04T01:28:10.217064+00:00",
   "control_number": "890259900",
   "fit": "Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.",
-  "gaps": "Hiring-path eligibility unverified: Internal to an agency, Career transition (CTAP, ICTAP, RPL). Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.",
+  "gaps": "Hiring-path eligibility unverified: Internal to an agency, Career transition (CTAP, ICTAP, RPL). Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them. Closed: official closing date 2026-11-02 has passed; do not start Step 2 unless agency verifies reopening.",
   "requirements_confirmed_unmet": [],
   "requirements_unverified": [
     "Hiring-path eligibility unverified: Internal to an agency, Career transition (CTAP, ICTAP, RPL). Confirm qualifying status before application; absence from baseline is not proof of ineligibility.",
@@ -31,11 +31,11 @@
   ],
   "open_evidence": "Official announcement downloaded successfully; validThrough and native open-status evidence retained.",
   "discovery_window": [
-    "2026-09-02",
-    "2026-11-02"
+    "2026-09-03",
+    "2026-11-03"
   ],
   "employer": "Department of State Headquarters",
-  "status": "needs_verification",
+  "status": "closed",
   "aliases": [],
   "id": "d78419e053f71328",
   "application_directory": "applications/2026-11-02__department-of-state-headquarters__information-technology-specialist__d78419e053f71328",
@@ -80,5 +80,9 @@
   "resume_format": "restored_two_page",
   "current_resume_naming": "unversioned",
   "clearance_requirement": "Sensitive Compartmented Information",
-  "public_hiring_route_evidence": false
+  "public_hiring_route_evidence": false,
+  "last_checked_at": "2026-11-04T01:28:10.217064+00:00",
+  "availability_check_source": "/Volumes/WD512x2/home/gourmetcai/project/govjobs/tracking/runs/2026-11-03-step1-202038/announcements/890259900.html",
+  "availability_check": "Closed: official announcement deadline has passed",
+  "closure_reason": "Official announcement closing date 2026-11-02 has passed, or announcement expressly states closure."
 }

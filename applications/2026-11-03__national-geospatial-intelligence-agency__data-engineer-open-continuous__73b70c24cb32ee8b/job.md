@@ -1,0 +1,694 @@
+# Data Engineer (Open Continuous)
+
+{
+  "title": "Data Engineer (Open Continuous)",
+  "requisition_id": "20270054",
+  "canonical_url": "https://www.usajobs.gov/job/889388600",
+  "application_url": "https://www.usajobs.gov/job/889388600",
+  "posted_date": "2026-10-19",
+  "posted_date_evidence": "Official JobPosting.datePosted and native PositionStartDate",
+  "close_date": "2027-09-30",
+  "deadline_timezone": null,
+  "deadline_time": null,
+  "deadline_source": "https://www.usajobs.gov/job/889388600",
+  "deadline_verified": true,
+  "early_closure_conditions": [],
+  "rolling_cutoff": null,
+  "location": "Springfield, VA",
+  "remote_restrictions": "Offered DMV work location; verify telework/attendance and screening conditions in announcement.",
+  "salary": "Starting at $76,573 Per year (IA 3)",
+  "retrieved_at": "2026-11-04T01:27:13.427519+00:00",
+  "control_number": "889388600",
+  "fit": "Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.",
+  "gaps": "Verify qualifying coursework and calculus credits against the exact qualification clause; not established by the baseline alone. Verify ETL/data-workflow experience against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.",
+  "requirements_confirmed_unmet": [],
+  "requirements_unverified": [
+    "Verify qualifying coursework and calculus credits against the exact qualification clause; not established by the baseline alone.",
+    "Verify ETL/data-workflow experience against the exact qualification clause; not established by the baseline alone.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "preferred_requirements_note": "See official qualifications/education sections; missing evidence does not establish an unmet requirement.",
+  "hiring_paths": [
+    "Open to the public"
+  ],
+  "open_evidence": "Official announcement downloaded successfully; validThrough and native open-status evidence retained.",
+  "discovery_window": [
+    "2026-09-03",
+    "2026-11-03"
+  ]
+}
+
+## Summary
+
+Data Engineers develop, construct, test, optimize, and maintain microservice architectures. Data engineers employ Continuous Integration (CI)/Continuous Deployment (CD) methods to deploy containerized solutions and data pipelines to support various capabilities (e.g., machine learning/AI models, data cleaning and preparation). They solve problems associated with data access and integration. They c
+
+## Duties
+
+ADDITIONAL INFORMATION: This Open Continuous Job Announcement is used in building a pool of qualified applicants. There is no immediate job opening. Applications will be reviewed only when staffing needs arise.
+There will be multiple selections and placements for agency allocation as positions open. The jobs range from analytic operations teams working with GEOINT mission partners to build data pipelines with data holdings and structuring data for integration into enterprise systems to specific teams creating machine ready data for SI models and systems to deliver on enterprise and disparate systems on different data fabrics.
+Specific duties range from data management across different systems to deploying GEOINT mission data. Other responsibilities include quality assurance across deployed systems along with integrating new datasets into already developed workflows. Data Engineers work on teams with mission partners to include analysts and/or data professionals depending on the office structure.
+Additional duties include: Utilize a variety of languages and tools (e.g., scripting languages) to build data pipelines to pull together information from different source systems, Collaborate with data architects, modelers, and IT team members on project goals; ensure systems meet Agency requirements and industry practices, design, construct, install, test, and maintain highly scalable data management systems and develop data set processes for data discovery, modeling, mining, and production
+This position may be eligible for a RECRUITMENT INCENTIVE: selected candidates may be offered an incentive as part of the offer of employment. To receive the incentive, selected candidates must be eligible under 5 CFR Part 575, Subpart A, upon issuance of the Final Offer Letter. Changes in federal employment status prior to issuance of the Final Offer Letter may affect eligibility. To receive the incentive, selected candidates will be required to sign a service agreement to stay within the position at NGA for the agreed upon time. If the service agreement is terminated before its completion, the employee may be required to  repay a pro rata share amount of the incentive to the government. Additional information regarding recruitment incentives for current federal employees can be found in DoDI 1400.25, Volume 2006.
+
+## Qualifications
+
+MANDATORY QUALIFICATION CRITERIA: For this particular job, applicants must meet all competencies reflected under the Mandatory Qualification Criteria to include education (if required). Online resumes must demonstrate qualification by providing specific examples and associated results, in response to the announcement's mandatory criteria specified in this vacancy announcement:
+Experience identifying and translating customer needs to create data products that satisfy customer requirements.
+Demonstrated ability to develop, modify, or evaluate data and data structures.
+Demonstrated experience utilizing standards and best practices for data interfaces such as extract-transform-load (ETL) and application programming interfaces (API).
+Demonstrated experience working with data storage, access and exchange technologies, e.g. S3, FTP WFS, FeatureServer, Elasticsearch, SDK, etc.
+Demonstrated proficiency in applied programming and/or manipulation of data with any programing language such as Python, R, or Java.
+EDUCATION REQUIREMENT: A. Education: Bachelor's degree from an accredited college or university in Computer Science, Data Science, Engineering, Information Science, Information Systems Management, Mathematics, Operations Research, Physical Sciences, Statistics, Technology Management, or a degree that provided a minimum of 24 semester hours in one or more of the fields identified above and required the development or adaptation of applications, systems, or networks. -OR- B. Combination of Education and Experience: A minimum of 24 semester (36 quarter) hours of coursework in any area listed in option A, plus experience in experience in designing, implementing, and maintaining scalable data pipelines, ETL processes, and data integration solutions, or in a related field that demonstrates the ability to successfully perform the duties associated with this work. As a rule, every 30 semester (45 quarter) hours of coursework is equivalent to one year of experience. Candidates should show that their combination of education and experience totals 4 years. -OR- C. Experience: A minimum of 4 years of experience in experience in designing, implementing, and maintaining scalable data pipelines, ETL processes, and data integration solutions, or in a related field that demonstrates the ability to successfully perform the duties associated with this work.  -AND- IT-related experience demonstrating each of the four competencies: Attention to Detail, Customer Service, Oral Communication, and Problem Solving.
+DESIRABLE QUALIFICATION CRITERIA: In addition to the mandatory qualifications, experience in the following is desired:
+Demonstrated experience recommending courses of action in alignment with information and technology strategic guidance and data security best practices.
+Demonstrated experience implementing, configuring, or designing databases with one or more current database technologies. e.g., relational (Oracle, MySQL, Postgresql, etc.), noSQL (MongoDB, Accumulo, Elastic, etc.), graph (Allegrograph, JanusGraphy, Neo4J, etc.).
+Demonstrated experience with coding and scripting languages such as Python, JSON, BASH, and/or PowerShell.
+Certification in cloud native services such as Amazon Web Services (AWS), containers, Kubernetes, DevSecOps pipeline tooling, and/or microservices architecture
+
+## Education
+
+
+
+## Full rendered official announcement
+
+USAJOBS - Job Announcement
+
+ Skip to main content
+
+ An official website of the United States government
+
+Official websites use .gov
+
+A .gov website belongs to an official government organization in the United States.
+
+Secure .gov websites use HTTPS
+ A lock ( LockA locked padlock ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.
+
+ MENU
+
+ Sign in
+
+ My jobs
+
+ Profile
+
+ Resumes & documents
+
+ Notifications
+
+ Talent networks
+
+ Sign out
+
+ My jobs
+
+ Profile
+
+ Resumes & documents
+
+ Notifications
+
+ Talent networks
+
+ Sign out
+
+ Events
+
+ Help Center
+
+ Search
+
+ Back to results
+
+ Data Engineer (Open Continuous)
+
+Department of Defense
+
+National Geospatial-Intelligence Agency
+
+ Print
+
+ Share
+
+ Save
+
+ Summary
+
+ This job is open to
+
+ Duties
+
+ Requirements
+
+ How you will be evaluated
+
+ Required documents
+
+ How to apply
+
+Summary
+
+Data Engineers develop, construct, test, optimize, and maintain microservice architectures. Data engineers employ Continuous Integration (CI)/Continuous Deployment (CD) methods to deploy containerized solutions and data pipelines to support various capabilities (e.g., machine learning/AI models, data cleaning and preparation). They solve problems associated with data access and integration. They c
+
+ Learn more about this agency
+
+Summary
+
+Data Engineers develop, construct, test, optimize, and maintain microservice architectures. Data engineers employ Continuous Integration (CI)/Continuous Deployment (CD) methods to deploy containerized solutions and data pipelines to support various capabilities (e.g., machine learning/AI models, data cleaning and preparation). They solve problems associated with data access and integration. They c
+
+ Learn more about this agency
+
+Overview
+
+ Help
+
+Accepting applications
+
+Location
+
+Many vacancies in the following locations:
+
+ Saint Louis, MO
+
+1 vacancy
+
+ Springfield, VA
+
+1 vacancy
+
+ No matching locations found.
+
+Work site options
+
+Telework eligible
+
+No
+
+Relocation expenses reimbursed
+
+ No
+
+Salary
+
+ $76,573 - $158,322 per year
+
+Pay scale & grade
+
+IA 03
+
+Promotion potential
+
+3
+
+ Learn more about pay scale and grade
+
+ Pay scale and grade determines the salary of the job.
+
+Work schedule
+
+Full-time - Full Time
+
+Travel Required
+
+Not required
+
+Appointment type
+
+Permanent - This is a permanent position.
+
+Occupations and job series
+
+ 2210 Information Technology Management
+
+Supervisory status
+
+No
+
+Federal service type
+
+This job is in the Excepted Service
+
+Drug test
+
+Yes
+
+Security clearance
+
+Sensitive Compartmented Information
+
+Announcement number
+
+20270054
+
+Control number
+
+889388600
+
+This job is open to
+
+ Help
+
+The public
+
+ U.S. Citizens, Nationals or those who owe allegiance to the U.S.
+
+Clarification from the agency
+
+External Applicants Only
+
+Duties
+
+ Help
+
+ADDITIONAL INFORMATION: This Open Continuous Job Announcement is used in building a pool of qualified applicants. There is no immediate job opening. Applications will be reviewed only when staffing needs arise.
+
+There will be multiple selections and placements for agency allocation as positions open. The jobs range from analytic operations teams working with GEOINT mission partners to build data pipelines with data holdings and structuring data for integration into enterprise systems to specific teams creating machine ready data for SI models and systems to deliver on enterprise and disparate systems on different data fabrics.
+
+Specific duties range from data management across different systems to deploying GEOINT mission data. Other responsibilities include quality assurance across deployed systems along with integrating new datasets into already developed workflows. Data Engineers work on teams with mission partners to include analysts and/or data professionals depending on the office structure.
+
+Additional duties include: Utilize a variety of languages and tools (e.g., scripting languages) to build data pipelines to pull together information from different source systems, Collaborate with data architects, modelers, and IT team members on project goals; ensure systems meet Agency requirements and industry practices, design, construct, install, test, and maintain highly scalable data management systems and develop data set processes for data discovery, modeling, mining, and production
+
+This position may be eligible for a RECRUITMENT INCENTIVE: selected candidates may be offered an incentive as part of the offer of employment. To receive the incentive, selected candidates must be eligible under 5 CFR Part 575, Subpart A, upon issuance of the Final Offer Letter. Changes in federal employment status prior to issuance of the Final Offer Letter may affect eligibility. To receive the incentive, selected candidates will be required to sign a service agreement to stay within the position at NGA for the agreed upon time. If the service agreement is terminated before its completion, the employee may be required to repay a pro rata share amount of the incentive to the government. Additional information regarding recruitment incentives for current federal employees can be found in DoDI 1400.25, Volume 2006.
+
+Requirements
+
+ Help
+
+Conditions of employment
+
+US Citizenship is required.
+
+Designated or Random Drug Testing required.
+
+Security Investigation
+
+SPECIAL INFO:
+As a condition of employment at NGA, persons being considered for employment must meet NGA fitness for employment standards.
+
+- U.S. Citizenship
+
+- Security Clearance - Top Secret /Sensitive Compartmented Information (SCI)
+
+- Polygraph & Drug Test
+
+- Direct Deposit
+
+- Trial Period during which we will evaluate your fitness and whether your continued employment advances the public interest. We may consider: performance conduct; needs and interests of the agency; and whether your continued employment would advance organizational goals of the agency or the Government and the efficiency of the Federal service
+SPECIAL REQUIREMENTS:
+You must be able to obtain and retain a Top Secret security clearance with access to SCI. In addition, you are subject to a Counterintelligence Polygraph examination in order to maintain access to Top Secret information. All employees are subject to a periodic examination on a random basis in order to determine continued eligibility. Refusal to take the examination may result in denial of access to Top Secret information, SAP, or unescorted access to SCIFs.
+
+Employees with SCI access and who are under NGA cognizance are required to submit a Security Financial Disclosure Report, SF-714, on an annual basis in order to determine continued eligibility. Failure to comply may negatively impact continued access to Top Secret information, Information Systems, SAP, or unescorted access to SCIFs.
+
+NGA utilizes all processes and procedures of the Defense Civilian Intelligence Personnel System (DCIPS). Non-executive NGA employees are assigned to five distinct pay bands based on the type and scope of work performed. The employee's base salary is established within their assigned pay band based on their unique qualifications. A performance pay process is conducted each year to determine a potential base pay salary increase and/or bonus. An employee's annual performance evaluation is a key factor in the performance pay process.
+
+This position is a DCIPS position in the Excepted Service under 10 U.S.C. 1601. DoD Components with DCIPS positions apply Veterans' Preference to preference eligible candidates as defined by Section 2108 of Title 5 USC, in accordance with the procedures provided in DoD Instruction 1400.25, Volume 2005, DCIPS Employment and Placement. If you are an external applicant claiming veterans' preference, as defined by Section 2108 of Title 5 U.S.C., you must self-identify your eligibility.
+
+Qualifications
+
+MANDATORY QUALIFICATION CRITERIA: For this particular job, applicants must meet all competencies reflected under the Mandatory Qualification Criteria to include education (if required). Online resumes must demonstrate qualification by providing specific examples and associated results, in response to the announcement's mandatory criteria specified in this vacancy announcement:
+
+Experience identifying and translating customer needs to create data products that satisfy customer requirements.
+Demonstrated ability to develop, modify, or evaluate data and data structures.
+Demonstrated experience utilizing standards and best practices for data interfaces such as extract-transform-load (ETL) and application programming interfaces (API).
+Demonstrated experience working with data storage, access and exchange technologies, e.g. S3, FTP WFS, FeatureServer, Elasticsearch, SDK, etc.
+Demonstrated proficiency in applied programming and/or manipulation of data with any programing language such as Python, R, or Java.
+
+EDUCATION REQUIREMENT: A. Education: Bachelor's degree from an accredited college or university in Computer Science, Data Science, Engineering, Information Science, Information Systems Management, Mathematics, Operations Research, Physical Sciences, Statistics, Technology Management, or a degree that provided a minimum of 24 semester hours in one or more of the fields identified above and required the development or adaptation of applications, systems, or networks. -OR- B. Combination of Education and Experience: A minimum of 24 semester (36 quarter) hours of coursework in any area listed in option A, plus experience in experience in designing, implementing, and maintaining scalable data pipelines, ETL processes, and data integration solutions, or in a related field that demonstrates the ability to successfully perform the duties associated with this work. As a rule, every 30 semester (45 quarter) hours of coursework is equivalent to one year of experience. Candidates should show that their combination of education and experience totals 4 years. -OR- C. Experience: A minimum of 4 years of experience in experience in designing, implementing, and maintaining scalable data pipelines, ETL processes, and data integration solutions, or in a related field that demonstrates the ability to successfully perform the duties associated with this work. -AND- IT-related experience demonstrating each of the four competencies: Attention to Detail, Customer Service, Oral Communication, and Problem Solving.
+DESIRABLE QUALIFICATION CRITERIA: In addition to the mandatory qualifications, experience in the following is desired:
+
+Demonstrated experience recommending courses of action in alignment with information and technology strategic guidance and data security best practices.
+Demonstrated experience implementing, configuring, or designing databases with one or more current database technologies. e.g., relational (Oracle, MySQL, Postgresql, etc.), noSQL (MongoDB, Accumulo, Elastic, etc.), graph (Allegrograph, JanusGraphy, Neo4J, etc.).
+Demonstrated experience with coding and scripting languages such as Python, JSON, BASH, and/or PowerShell.
+Certification in cloud native services such as Amazon Web Services (AWS), containers, Kubernetes, DevSecOps pipeline tooling, and/or microservices architecture
+
+Additional information
+
+Candidates should be committed to improving the efficiency of the Federal government, passionate about the ideals of our American republic, and committed to upholding the rule of law and the United States Constitution.
+
+Benefits
+
+ Help
+
+ Review our benefits
+
+How you will be evaluated
+
+You will be evaluated for this job based on how well you meet the qualifications above.
+
+Applicants are not required to submit a cover letter for employment consideration with the National Geospatial-Intelligence Agency. However, a cover letter is recommended. Applicants will have the option to attach a cover letter in the Qualifications - Attachments step of the online application.
+APPLICANT EVALUATION PROCESS:
+
+1) All applicants will be evaluated using the Mandatory Qualification Criteria,
+
+2) Qualified applicants will then be evaluated by an expert or panel of experts using a combination of qualification criteria to determine the best-qualified candidates,
+
+3) Best-qualified applicants may then be further evaluated through an interview process.
+
+Military retiree applicants, if selected, may be impacted by the 180-day appointment restrictions of DODI 1402.01. HD personnel will provide additional information if applicable.
+
+Applicants are encouraged to carefully review the Assignment Description, Additional Information Provided By the Selecting Official, and the Qualification Requirements; and then construct their resumes to highlight their most relevant and significant experience and education for this job opportunity. This description should include examples that detail the level and complexity of the performed work. Applicants are encouraged to provide any education or degree information referenced in the announcement that is relevant. If education is listed as a mandatory requirement, only degrees obtained from an institution accredited by an accrediting organization recognized by the Secretary, US Department of Education will be accepted. You must use the NGA resume builder and limit your resume to 2 pages.
+
+In accordance with section 9902(h) of title 5, United States Code, annuitants reemployed in the Department of Defense shall receive full annuity and salary upon appointment. They shall not be eligible for retirement contributions, participation in the Thrift Savings Plan, or a supplemental or re-determined annuity for the reemployment period. Discontinued service retirement annuitants (i.e., retired under section 8336(d)(1) or 8414(b)(1)(A) of title 5, United States Code) appointed to the Department of Defense may elect to be subject to retirement provisions of the new appointment as appropriate. (See DoD Instruction 1400.25, Volume 300). Reemployed annuitants must meet additional selection criteria as outlined in the DODI 1400.25, v300.
+
+All candidates will be considered without regard to race, color, religion, sex, national origin, age, marital status, disability, or sexual orientation.
+
+NGA provides reasonable accommodations to applicants with disabilities. Applications will only be accepted online. If you need a reasonable accommodation for any part of the application and hiring process, please notify us at recruitment@nga.mil. The decision on granting reasonable accommodation will be on a case-by-case basis.
+
+Benefits
+
+ Help
+
+ Review our benefits
+
+Required documents
+
+Required Documents
+
+ Help
+
+ None
+
+ If you are relying on your education to meet qualification requirements:
+
+ Education must be accredited by an accrediting institution recognized by the U.S. Department of Education in order for it to be credited towards qualifications. Therefore, provide only the attendance and/or degrees from
+ schools accredited by accrediting institutions recognized by the U.S. Department of Education.
+
+ Failure to provide all of the required information as stated in this vacancy announcement may result in an ineligible rating or may affect the overall rating.
+
+How to Apply
+
+ Help
+
+Application submission involves applying using NGA's online application process at NGA Careers Portal. Additional information concerning NGA's hiring process can be found by visiting NGA Hiring Process.
+
+All announcements close at 11:59PM EDT on the closing date listed. Be sure to complete and submit your application by that time in order to be considered.
+
+ONLY ELECTRONIC SUBMISSIONS WILL BE ACCEPTED.
+
+Both applicants for employment and current employees of NGA are entitled to request religious accommodations from generally applicable employment-related rules and requirements, so long as the accommodation requested would not result in an undue hardship to the conduct of NGA's business.
+
+You can apply for the job opening at https://careers.nga.mil/psp/CAREERS/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=1&JobOpeningId=20270054&PostingSeq=2
+
+Agency contact information
+
+ Recruitment
+
+Phone
+
+ 571-557-1999
+
+Email
+
+ Recruitment@nga.mil
+
+Address
+
+ NATIONAL GEOSPATIAL-INTELLIGENCE AGENCY
+
+ Mailstop: S44-HDR
+
+7500 GEOINT Drive
+
+ Springfield, VA 22150
+
+ US
+
+Next steps
+
+After visiting the NGA Careers Portal and applying via NGA's online application process, applicants can follow their status via that same NGA online application functionality. Several other topics relating to what is involved in the hiring process and how long it takes can be found by visiting the NGA Hiring Process.
+
+Fair and transparent
+
+The Federal hiring process is set up to be fair and transparent. Please read the following guidance.
+
+ Criminal history inquiries
+
+ Equal Employment Opportunity (EEO) Policy
+
+ Financial suitability
+
+ New employee probationary period
+
+ Privacy Act
+
+ Reasonable accommodation policy
+
+ Selective Service
+
+ Signature and false statements
+
+ Social security number request
+
+Required Documents
+
+ Help
+
+ None
+
+ If you are relying on your education to meet qualification requirements:
+
+ Education must be accredited by an accrediting institution recognized by the U.S. Department of Education in order for it to be credited towards qualifications. Therefore, provide only the attendance and/or degrees from
+ schools accredited by accrediting institutions recognized by the U.S. Department of Education.
+
+ Failure to provide all of the required information as stated in this vacancy announcement may result in an ineligible rating or may affect the overall rating.
+
+How to Apply
+
+ Help
+
+Application submission involves applying using NGA's online application process at NGA Careers Portal. Additional information concerning NGA's hiring process can be found by visiting NGA Hiring Process.
+
+All announcements close at 11:59PM EDT on the closing date listed. Be sure to complete and submit your application by that time in order to be considered.
+
+ONLY ELECTRONIC SUBMISSIONS WILL BE ACCEPTED.
+
+Both applicants for employment and current employees of NGA are entitled to request religious accommodations from generally applicable employment-related rules and requirements, so long as the accommodation requested would not result in an undue hardship to the conduct of NGA's business.
+
+You can apply for the job opening at https://careers.nga.mil/psp/CAREERS/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=1&JobOpeningId=20270054&PostingSeq=2
+
+ Expand Hide  how to apply
+
+Agency contact information
+
+ Recruitment
+
+Phone
+
+ 571-557-1999
+
+Email
+
+ Recruitment@nga.mil
+
+Address
+
+ NATIONAL GEOSPATIAL-INTELLIGENCE AGENCY
+
+ Mailstop: S44-HDR
+
+7500 GEOINT Drive
+
+ Springfield, VA 22150
+
+ US
+
+Next steps
+
+After visiting the NGA Careers Portal and applying via NGA's online application process, applicants can follow their status via that same NGA online application functionality. Several other topics relating to what is involved in the hiring process and how long it takes can be found by visiting the NGA Hiring Process.
+
+ Expand Hide  next steps
+
+Fair and transparent
+
+The Federal hiring process is set up to be fair and transparent. Please read the following guidance.
+
+ Criminal history inquiries
+
+ Equal Employment Opportunity (EEO) Policy
+
+ Financial suitability
+
+ New employee probationary period
+
+ Privacy Act
+
+ Reasonable accommodation policy
+
+ Selective Service
+
+ Signature and false statements
+
+ Social security number request
+
+ National Geospatial-Intelligence Agency
+
+Agency contact information
+
+ Recruitment
+
+Phone
+
+ 571-557-1999
+
+Email
+
+ Recruitment@nga.mil
+
+Address
+
+ NATIONAL GEOSPATIAL-INTELLIGENCE AGENCY
+
+ Mailstop: S44-HDR
+
+7500 GEOINT Drive
+
+ Springfield, VA 22150
+
+ US
+
+Visit our careers page
+
+ Learn more about what it's like to work at National Geospatial-Intelligence Agency, what the agency does, and about the types of careers this agency offers.
+
+ https://www.nga.mil/about/pages/default.aspx
+
+Summary
+
+Data Engineers develop, construct, test, optimize, and maintain microservice architectures. Data engineers employ Continuous Integration (CI)/Continuous Deployment (CD) methods to deploy containerized solutions and data pipelines to support various capabilities (e.g., machine learning/AI models, data cleaning and preparation). They solve problems associated with data access and integration. They c
+
+ Learn more about this agency
+
+Overview
+
+ Help
+
+Accepting applications
+
+Location
+
+Many vacancies in the following locations:
+
+ Saint Louis, MO
+
+1 vacancy
+
+ Springfield, VA
+
+1 vacancy
+
+ No matching locations found.
+
+Work site options
+
+Telework eligible
+
+No
+
+Relocation expenses reimbursed
+
+ No
+
+Salary
+
+ $76,573 - $158,322 per year
+
+Pay scale & grade
+
+IA 03
+
+Promotion potential
+
+3
+
+ Learn more about pay scale and grade
+
+ Pay scale and grade determines the salary of the job.
+
+Work schedule
+
+Full-time - Full Time
+
+Travel Required
+
+Not required
+
+Appointment type
+
+Permanent - This is a permanent position.
+
+Occupations and job series
+
+ 2210 Information Technology Management
+
+Supervisory status
+
+No
+
+Federal service type
+
+This job is in the Excepted Service
+
+Drug test
+
+Yes
+
+Security clearance
+
+Sensitive Compartmented Information
+
+Announcement number
+
+20270054
+
+Control number
+
+889388600
+
+ Previous result
+
+Next result
+
+Your session is about to expire!
+
+ Your USAJOBS session will expire due to inactivity in 8 minutes.
+ Any unsaved data will be lost if you allow the session to expire.
+ Click the button below to continue your session.
+
+ Sign out
+ Stay signed in
+
+ Return to top
+
+USAJOBS is a Opens in a new windowUnited States Office of Personnel Management website.
+
+ (Opens in a new window) OPM on LinkedIn
+
+ (Opens in a new window) OPM YouTube channel
+
+ (Opens in a new window) OPM on X
+
+Opens in a new windowEEO Policy Statement
+
+Opens in a new windowReasonable Accommodation Policy Statement
+
+Veterans Information
+
+Opens in a new windowLegal and Regulatory Guidance
+
+About USAJOBS
+
+Opens in a new windowAccessibility
+
+Opens in a new windowFOIA
+
+Opens in a new windowInspector general
+
+Opens in a new windowNo Fear Act Data
+
+Opens in a new windowPrivacy policy
+
+Opens in a new windowReports and publications
+
+Opens in a new windowTerms and conditions
+
+Opens in a new windowUSA.gov

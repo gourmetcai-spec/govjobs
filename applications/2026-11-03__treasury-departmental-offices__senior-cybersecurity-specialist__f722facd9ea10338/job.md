@@ -1,0 +1,906 @@
+# Senior Cybersecurity Specialist
+
+{
+  "title": "Senior Cybersecurity Specialist",
+  "requisition_id": "27-DO-13101521",
+  "canonical_url": "https://www.usajobs.gov/job/891340600",
+  "application_url": "https://www.usajobs.gov/job/891340600",
+  "posted_date": "2026-11-03",
+  "posted_date_evidence": "Official JobPosting.datePosted and native PositionStartDate",
+  "close_date": "2026-11-09",
+  "deadline_timezone": "America/New_York",
+  "deadline_time": "23:59",
+  "deadline_source": "https://www.usajobs.gov/job/891340600",
+  "deadline_verified": true,
+  "early_closure_conditions": [],
+  "rolling_cutoff": null,
+  "location": "Washington, DC",
+  "remote_restrictions": "Offered DMV work location; verify telework/attendance and screening conditions in announcement.",
+  "salary": "Starting at $143,913 Per year (GS 14)",
+  "retrieved_at": "2026-11-04T01:27:13.427519+00:00",
+  "control_number": "891340600",
+  "fit": "Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.",
+  "gaps": "Hiring-path eligibility unverified: Internal to an agency, Career transition (CTAP, ICTAP, RPL). Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.",
+  "requirements_confirmed_unmet": [],
+  "requirements_unverified": [
+    "Hiring-path eligibility unverified: Internal to an agency, Career transition (CTAP, ICTAP, RPL). Confirm qualifying status before application; absence from baseline is not proof of ineligibility.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "preferred_requirements_note": "See official qualifications/education sections; missing evidence does not establish an unmet requirement.",
+  "hiring_paths": [
+    "Internal to an agency",
+    "Career transition (CTAP, ICTAP, RPL)"
+  ],
+  "open_evidence": "Official announcement downloaded successfully; validThrough and native open-status evidence retained.",
+  "discovery_window": [
+    "2026-09-03",
+    "2026-11-03"
+  ]
+}
+
+## Summary
+
+This position is located at Departmental Offices, Domestic Finance - Financial Institutions, Office of Cybersecurity and Critical Infrastructure Protection (OCCIP). As a Senior Cybersecurity Specialist, you will serve as a senior technical advisor and recognized subject matter expert on cybersecurity and critical infrastructure protection matters affecting the financial services sector.
+
+## Duties
+
+As a Senior Cybersecurity Specialist, you will:
+Provide strategic leadership in advancing the office's resilience mission and serves as a senior advisor on cybersecurity and critical infrastructure risks affecting the financial services sector.
+Serve as a cybersecurity subject matter expert for executive-level committees and working groups comprised of federal and private-sector stakeholders. Independently develops strategic work plans, establishes objectives, directs analytical efforts, builds consensus among diverse stakeholders, and delivers recommendations, policies, and products to senior leadership and parent committees.
+Develop and oversee Treasury's participation in national cyber incident response activities, cybersecurity information-sharing programs, and critical infrastructure protection initiatives.
+
+## Qualifications
+
+You must meet the following requirements within 30 days of the closing date of this announcement.
+SPECIALIZED EXPERIENCE:For the GS-14 grade level, you must have one year (52 full weeks) of specialized experience at a level of difficulty and responsibility equivalent to the GS-13 grade level in the Federal service. Specialized Experience for this position includes:
+Providing technical advice and guidance on cybersecurity, cyber risk management, or critical infrastructure protection matters for senior leadership; AND
+Developing, implementing, or evaluating cybersecurity policies, strategies, plans, or risk management initiatives to strengthen organizational or critical infrastructure security and resilience; AND
+Coordinating cybersecurity activities with internal and external stakeholders to identify and address cyber threats, vulnerabilities, incident response, or resilience issues.
+The experience may have been gained in either the public, private sector or volunteer service. One year of experience refers to full-time work; part-time work is considered on a prorated basis. To ensure full credit for your work experience, please indicate dates of employment by month/day/year, and indicate number of hours worked per week on your resumé.
+In addition to meeting specialized experience, individuals must meet proficiency levels in each of the following competencies:
+Attention to Detail, Customer Service, Decision Making, Information Management, Interpersonal Skills, Oral Communication, Problem Solving, Teamwork, and Technical Competence.
+A Structured Interview may be used to determine if you meet the required proficiency levels.
+You will be interviewed about past experience or hypothetical situations.
+For the required proficiency levels and competency definitions, please see the following link: Competency-Based Qualification Standard for the Information Technology Management Series, 2210
+TIME-IN-GRADE: In addition to the above requirements, you must meet the following time-in-grade requirement, if applicable: For the GS-14, you must have been at the GS-13 level for 52 weeks.
+TIME AFTER COMPETITIVE APPOINTMENT: Candidates who are current Federal employees serving on a non-temporary competitive appointment must have served at least three months in that appointment.
+
+## Education
+
+This job does not have an education qualification requirement.
+
+## Full rendered official announcement
+
+USAJOBS - Job Announcement
+
+ Skip to main content
+
+ An official website of the United States government
+
+Official websites use .gov
+
+A .gov website belongs to an official government organization in the United States.
+
+Secure .gov websites use HTTPS
+ A lock ( LockA locked padlock ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.
+
+ MENU
+
+ Sign in
+
+ My jobs
+
+ Profile
+
+ Resumes & documents
+
+ Notifications
+
+ Talent networks
+
+ Sign out
+
+ My jobs
+
+ Profile
+
+ Resumes & documents
+
+ Notifications
+
+ Talent networks
+
+ Sign out
+
+ Events
+
+ Help Center
+
+ Search
+
+ Back to results
+
+ Apply
+
+ Senior Cybersecurity Specialist
+
+Department of the Treasury
+
+Treasury, Departmental Offices
+
+Apply
+
+ Print
+
+ Share
+
+ Save
+
+ Summary
+
+ This job is open to
+
+ Duties
+
+ Requirements
+
+ How you will be evaluated
+
+ Required documents
+
+ How to apply
+
+Summary
+
+This position is located at Departmental Offices, Domestic Finance - Financial Institutions, Office of Cybersecurity and Critical Infrastructure Protection (OCCIP). As a Senior Cybersecurity Specialist, you will serve as a senior technical advisor and recognized subject matter expert on cybersecurity and critical infrastructure protection matters affecting the financial services sector.
+
+ Learn more about this agency
+
+Summary
+
+This position is located at Departmental Offices, Domestic Finance - Financial Institutions, Office of Cybersecurity and Critical Infrastructure Protection (OCCIP). As a Senior Cybersecurity Specialist, you will serve as a senior technical advisor and recognized subject matter expert on cybersecurity and critical infrastructure protection matters affecting the financial services sector.
+
+ Learn more about this agency
+
+Overview
+
+ Help
+
+Accepting applications
+
+Location
+
+1 vacancy in the following location:
+
+ Washington, DC
+
+ No matching locations found.
+
+Work site options
+
+Telework eligible
+
+Yes—as determined by the agency policy.
+
+Remote job
+
+No
+
+Relocation expenses reimbursed
+
+ No
+
+Salary
+
+ $143,913 - $187,093 per year
+
+Pay scale & grade
+
+GS 14
+
+Promotion potential
+
+14
+
+ Learn more about pay scale and grade
+
+ Pay scale and grade determines the salary of the job.
+
+Work schedule
+
+Full-time
+
+Travel Required
+
+25% or less - You may be expected to travel for this position.
+
+Appointment type
+
+Permanent
+
+Occupations and job series
+
+ 2210 Information Technology Management
+
+Supervisory status
+
+No
+
+Federal service type
+
+This job is in the Competitive Service
+
+Represented by a union
+
+No
+
+Drug test
+
+No
+
+Security clearance
+
+Sensitive Compartmented Information
+
+Position sensitivity and risk
+
+Special-Sensitive (SS)/High Risk
+
+ Jobs require a
+ background check and some require a
+ security clearance. The type depends on the job.
+
+Background check type
+
+ National security
+
+Financial disclosure required
+
+No
+
+ Some jobs require
+ financial disclosure to identify conflicts of interests.
+
+Announcement number
+
+27-DO-13101521
+
+Control number
+
+891340600
+
+This job is open to
+
+ Help
+
+Internal to an agency
+
+ Current federal employees of the hiring agency that posted the job announcement.
+
+Career transition (CTAP, ICTAP, RPL)
+
+ Federal employees whose job, agency or department was eliminated and are eligible for priority over other applicants.
+
+Clarification from the agency
+
+All candidates who are:
+(1) Current Departmental Office (DO) internal employees who are qualifying as Status Candidates or currently serving on a Veterans Recruitment Appointment (VRA).; OR
+(2) CTAP eligible
+
+Duties
+
+ Help
+
+ As a Senior Cybersecurity Specialist, you will:
+
+Provide strategic leadership in advancing the office's resilience mission and serves as a senior advisor on cybersecurity and critical infrastructure risks affecting the financial services sector.
+
+Serve as a cybersecurity subject matter expert for executive-level committees and working groups comprised of federal and private-sector stakeholders. Independently develops strategic work plans, establishes objectives, directs analytical efforts, builds consensus among diverse stakeholders, and delivers recommendations, policies, and products to senior leadership and parent committees.
+
+Develop and oversee Treasury's participation in national cyber incident response activities, cybersecurity information-sharing programs, and critical infrastructure protection initiatives.
+
+Requirements
+
+ Help
+
+Conditions of employment
+
+Key Requirements:
+
+Must be U.S. Citizen or U.S. National.
+
+All newly appointed employees to the competitive (or excepted) service are subject to a probationary (or trial) period. During this time, your performance, conduct, and suitability for continued employment will be evaluated. You will not automatically convert to permanent status at the end of the probationary (or trial) period. Your supervisor must affirmatively determine that continued employment is in the best interest of the Federal service. If no certification is made before the probationary (or trial) period ends, your appointment will be terminated. You are encouraged to actively engage with your supervisor, seek feedback, and understand role expectations. Additional guidance and support will be provided during onboarding.
+
+Must successfully complete a background investigation.
+
+All new hires will be required to comply with federal ethics laws. A review of financial or other interests may be conducted to determine if they create any real or apparent conflict of interests with official Treasury duties.
+
+Complete a Declaration for Federal Employment to determine your suitability for Federal employment, at the time requested by the agency.
+
+Have your salary sent to a financial institution of your choice by Direct Deposit/Electronic Funds Transfer.
+
+If you are a male applicant born after December 31, 1959, certify that you have registered with the Selective Service System or are exempt from having to do so.
+
+Go through a Personal Identity Verification (PIV) process that requires two forms of identification from the Form I-9. Federal law requires verification of the identity and employment eligibility of all new hires in the U.S.
+
+Obtain and use a Government-issued charge card for business-related travel.
+
+Please refer to the "Additional Information" section for additional Conditions of Employment.
+
+Qualifications
+
+ You must meet the following requirements within 30 days of the closing date of this announcement.
+
+SPECIALIZED EXPERIENCE:For the GS-14 grade level, you must have one year (52 full weeks) of specialized experience at a level of difficulty and responsibility equivalent to the GS-13 grade level in the Federal service. Specialized Experience for this position includes:
+
+Providing technical advice and guidance on cybersecurity, cyber risk management, or critical infrastructure protection matters for senior leadership; AND
+
+Developing, implementing, or evaluating cybersecurity policies, strategies, plans, or risk management initiatives to strengthen organizational or critical infrastructure security and resilience; AND
+
+Coordinating cybersecurity activities with internal and external stakeholders to identify and address cyber threats, vulnerabilities, incident response, or resilience issues.
+
+The experience may have been gained in either the public, private sector or volunteer service. One year of experience refers to full-time work; part-time work is considered on a prorated basis. To ensure full credit for your work experience, please indicate dates of employment by month/day/year, and indicate number of hours worked per week on your resumé.
+
+In addition to meeting specialized experience, individuals must meet proficiency levels in each of the following competencies:
+
+Attention to Detail, Customer Service, Decision Making, Information Management, Interpersonal Skills, Oral Communication, Problem Solving, Teamwork, and Technical Competence.
+
+A Structured Interview may be used to determine if you meet the required proficiency levels.
+
+You will be interviewed about past experience or hypothetical situations.
+
+For the required proficiency levels and competency definitions, please see the following link: Competency-Based Qualification Standard for the Information Technology Management Series, 2210
+
+TIME-IN-GRADE: In addition to the above requirements, you must meet the following time-in-grade requirement, if applicable: For the GS-14, you must have been at the GS-13 level for 52 weeks.
+
+TIME AFTER COMPETITIVE APPOINTMENT: Candidates who are current Federal employees serving on a non-temporary competitive appointment must have served at least three months in that appointment.
+
+Education
+
+ This job does not have an education qualification requirement.
+
+Additional information
+
+During the application process you will have an option to opt-in to make your resume available to hiring managers in the agency who have similar positions. Opting in does not impact on your application for this announcement, nor does it guarantee further consideration for additional positions. This job opportunity announcement may be used to fill additional vacancies.
+
+OTHER INFORMATION:
+
+We may select from this announcement or any other source to fill one or more vacancies.
+
+This is a non-bargaining unit position.
+
+We offer opportunities for telework.
+
+We offer opportunities for flexible work schedules.
+
+This position requires that the successful candidate undergo personnel vetting, which includes a background investigation and enrollment upon onboarding into "Continuous Vetting." Enrollment in Continuous Vetting will result in automated record checks being conducted throughout one's employment with Treasury. The successful candidate will also be enrolled into FBI's Rap Back service, which will allow Treasury to receive notification from the FBI of criminal matters (e.g., arrests, charges, convictions) involving enrolled individuals in near real-time. For more information about individual rights, Noncriminal Justice Applicant's Privacy Rights - FBI, FD-258 Privacy Act Statement - FBI, and SEAD-3-Reporting-U.pdf (dni.gov).
+
+Our comprehensive benefits are very generous. Our benefits package includes:
+
+Challenging work, opportunities for advancement, competitive salaries, bonuses and incentive awards.
+
+Eleven paid holidays, 13 days of sick leave, and 13 to 26 days of vacation time each year.
+
+Access to insurance programs that may be continued after you retire.
+
+A wide choice of health insurance plans, coverage for pre-existing conditions, and no waiting periods. We pay a substantial amount (up to 75%) of the health insurance premiums.
+
+A retirement program which includes employer-matching contributions.
+
+Learn more about Federal benefits programs at: https://help.usajobs.gov/index.php/Pay_and_Benefits
+
+ Expand Hide  additional information
+
+Candidates should be committed to improving the efficiency of the Federal government, passionate about the ideals of our American republic, and committed to upholding the rule of law and the United States Constitution.
+
+Benefits
+
+ Help
+
+ A career with the U.S. government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding. Opens in a new windowLearn more about federal benefits.
+
+Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time or intermittent. Contact the hiring agency for more information on the specific benefits offered.
+
+How you will be evaluated
+
+You will be evaluated for this job based on how well you meet the qualifications above.
+
+You will be evaluated based on how well you meet the qualifications listed in this vacancy announcement. Your qualifications will be evaluated based on your application materials (e.g., resumé, supporting documents), the responses you provide on the application questionnaire, and your responses to all assessments required for this position. Please be sure that your resumé includes detailed information to support your qualifications for this position; failure to provide sufficient evidence in your resumé may result in a "not qualified" determination.
+
+To be considered for this position, you must complete all required steps in the process. In addition to the application and application questionnaire, this position requires an online assessment. The online assessment measures critical general competencies required to perform the job.
+
+Overstating your qualifications and/or experience in your application materials or application questionnaire may result in your removal from consideration. Cheating on the online assessment may also result in your removal from consideration.
+
+You will be assessed on the following competencies (knowledge, skills, abilities, and other characteristics):
+Accountability
+Attention to Detail
+Customer Service
+Decision Making
+Flexibility
+Influencing/Negotiating
+Information Management
+Integrity/Honesty
+Interpersonal Skills
+Learning
+Oral Communication
+Problem Solving
+Reading Comprehension
+Reasoning
+Self-Management
+Stress Tolerance
+Teamwork
+Technical Competence
+
+Referral: All candidates who meet all the qualifications and other eligibility requirements may be referred for consideration.
+
+Your application may be reviewed by a Subject Matter Expert.
+
+If you are a displaced or surplus Federal employee eligible for the Career Transition Assistance Plan (CTAP)/Interagency Career Transition Assistance Plan (ICTAP), achieve a well-qualified score of 85 or higher to receive priority consideration.
+
+To preview the application questionnaire, click the following link: https://apply.usastaffing.gov/ViewQuestionnaire/13101521
+
+Benefits
+
+ Help
+
+ A career with the U.S. government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding. Opens in a new windowLearn more about federal benefits.
+
+Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time or intermittent. Contact the hiring agency for more information on the specific benefits offered.
+
+Required documents
+
+Required Documents
+
+ Help
+
+Any required documents should be submitted at the time that you apply as documents will not be accepted after the cut-off date.
+A complete application includes:
+
+1. All applicants are required to submit a resume either by creating one in USAJOBS or uploading one of their own choosing. (Cover letters are optional.)
+
+Please limit your resume to two-pages. Applicants with resumes exceeding two-pages will be removed from consideration.
+
+To receive full credit for relevant experience, please list the month/date/year and number of hours worked for experience listed on your resume.
+
+It is suggested that you preview the online questionnaire to ensure that your resume thoroughly describes how your skills and experience align to the criteria defined in the "Qualifications" section of this announcement and support your responses to the online questionnaire.
+
+For resume writing guidance, please visit How do I write a resume for a federal job?
+
+2. Vacancy question responses: All applicants are required to complete vacancy question responses by clicking the apply online button of this vacancy announcement.
+
+3. Submission of any required documents identified below, if applicable: Please note that if you do not provide all required information, as specified in this announcement, you may not be considered for this position (or may not receive the special consideration for which you may be eligible).
+
+CURRENT EMPLOYEES -- Documentation Relating to Your Federal Employment:
+
+Submit a copy of your most recent SF-50 that indicates you are a current Treasury employee. The SF-50 must show competitive service as Tenure 1 or 2 (Block 24), Position Occupied as 1 - Competitive Service (Block 34), current Grade (Block 18) and Salary (Block 20). Applications without this information will not be considered.
+
+If you are currently on a Veterans Recruitment Appointment (VRA) within Treasury, you must submit a copy of an SF-50 showing that. Also, you must submit a copy of your DD214 or other documentation showing dates of service and type of discharge (Member 4) and any other applicable documents such as SF-15, VA letters, etc.
+
+Indicate on your application the highest permanent grade you have held; if this grade is different from your current grade, you must submit a copy of an additional SF-50 showing this grade.
+
+CAREER TRANSITION ASSISTANCE PLAN (CTAP) DOCUMENTATION: If you are a displaced or surplus Federal employee, click CTAP/ICTAP for eligibility and a detailed list of required documents you must submit in order to be eligible.
+
+How to Apply
+
+ Help
+
+Please read the entire announcement and all the instructions before you begin an application. To apply and be considered for this position, you must complete all required questionnaires, assessments, and required documentation as specified in the How to Apply and Required Documents section. The complete application package must be submitted by 11:59 PM (ET) on the closing date of the announcement to receive consideration.
+
+The application process is as follows:
+
+Click the Apply Online button.
+
+Answer the questions presented in the application and attach all necessary supporting documentation.
+
+Click the Submit Application button prior to 11:59 PM (ET) on the announcement closing date.
+
+If you are required to complete any USA Hire Assessments, you will be notified after submitting your application. The notification will be provided in your application submission screen and via email. The notification will include your unique assessment access link to the USA Hire system and the completion deadline. Additionally, in USAJOBS you can click "Track this application" to return to your assessment completion notice.
+
+Access USA Hire using your unique assessment link. Access is granted through your USAJOBS login credentials.
+
+Review all instructions prior to beginning your assessments. You will have the opportunity to request a testing accommodation before beginning the assessments should you have a disability covered under the Rehabilitation Act of 1973 as amended.
+
+Set aside about two (2) hours to take the USA Hire Assessments; however, most applicants complete the assessments in less time. If you need to stop the assessments and continue later, you can re-use your unique assessment link.
+
+Your responses to the USA Hire Assessments will be reused for one year (in most cases) from the date you complete an assessment. If future applications you submit require completion of the same assessments, your responses will be automatically reused.
+Visit the USA Hire Applicant Resource Center for practice assessments and assessment preparation resources.
+
+To update your application, including supporting documentation: During the announcement open period, return to your USAJOBS account, find your application record, and click Edit my application. This option will no longer be available once the announcement has closed.
+
+To view the announcement status or your application status: For more information regarding the job and applicant status, please refer to USAJOBS Help Center - How to see your application and job status
+
+Departmental Offices provides reasonable accommodation to applicants with disabilities on a case-by-case basis. Please contact us if you require this for any part of the application and hiring process.
+
+To begin, click Apply to access the online application. You will need to be logged into your USAJOBS account to apply. If you do not have a USAJOBS account, you will need to create one before beginning the application.
+
+Follow the prompts to select your resumé and/or other supporting documents to be included with your application package. You will have the opportunity to upload additional documents to include in your application before it is submitted. Your uploaded documents may take several hours to clear the virus scan process.
+
+After acknowledging you have reviewed your application package, complete the Include Personal Information section as you deem appropriate and click to continue with the application process.
+
+You will be taken to the online application which you must complete in order to apply for the position. Complete the online application, verify the required documentation is included with your application package, and submit the application.
+
+Please notify us if your contact information changes after the closing date of the announcement. Also, note that if you provide an email address that is inaccurate or if your mailbox is full or blocked (e.g., spam-blocker), you may not receive important communication that could affect your consideration for this position.
+
+For additional information on how to apply, please visit the Partnership for Public Service's Go Government website.
+
+The Fair Chance to Compete for Jobs Act prohibits the Department of Treasury and its bureaus from requesting an applicant's criminal history record before that individual receives a conditional offer of employment. In accordance with 5 U.S. Code § 9202(c) and 5 C.F.R § 920.201 certain positions are exempt from the provisions of the Fair Chance to Compete Act. Applicants who believe they have been subjected to a violation of the Fair Chance to Compete for Jobs Act, may submit a written complaint to the Department of Treasury by email at, FairChanceAct@treasury.gov.
+
+To learn more, please visit our page at: Treasury.gov/fairchanceact.
+
+Agency contact information
+
+ Applicant Call Center
+
+Phone
+
+ 304-480-7300
+
+Email
+
+ doinquiries@fiscal.treasury.gov
+
+Address
+
+ Domestic Finance - Financial Institutions
+
+ Treasury Common Services Center
+
+ Parkersburg, WV 26101
+
+ US
+
+Next steps
+
+Based on your application and your responses to the application questionnaire, you may be presented with instructions on how to access the USA Hire system to complete the online assessments. The online assessments must be completed within 48 hours following the close of this announcement. You will have the opportunity to request a testing accommodation for the assessment should you have a disability covered under the Rehabilitation Act of 1973 as amended.
+
+Reasonable Accommodation (RA) Requests: If you believe you have a disability (i.e., physical or mental), covered by the Rehabilitation Act of 1973 as amended that would interfere with completing the USA Hire Competency Based Assessments, you will be granted the opportunity to request a RA in your online application. Requests for RA for the USA Hire Competency Based Assessments and appropriate supporting documentation for RA must be received prior to starting the USA Hire Competency Based Assessments. Decisions on requests for RA are made on a case-by-case basis. If you meet the minimum qualifications of the position, after notification of the adjudication of your request, you will receive an email invitation to complete the USA Hire Competency Based Assessments, based on your adjudication decision. You must complete all assessments within 48 hours of receiving the URL to access the USA Hire Competency Based Assessments if you received the link after the close of the announcement. To determine if you need a RA, please review the Procedures for Requesting a Reasonable Accommodation for Online Assessments. (https://appsupport-usastaffing.opm.gov/hc/en-us/sections/45063131363475-Reasonable-Accommodation-Information)
+
+Are you unsure how to write your federal resume? We are here to help. The Treasury Recruitment Service regularly offers Writing Your Federal Resume training sessions, and other career-related information sessions, to assist you in your career search journey. To register for a session, click here to go to our Career Information Sessions webpage.
+
+We will review your resumé and transcript(s) (if appropriate) to ensure you meet the basic qualification requirements. We will evaluate each applicant who meets the basic qualifications on the information provided and may interview the best-qualified applicants. After making a tentative job offer, we will conduct any required suitability and/or security background investigation.
+
+Fair and transparent
+
+The Federal hiring process is set up to be fair and transparent. Please read the following guidance.
+
+ Criminal history inquiries
+
+ Equal Employment Opportunity (EEO) Policy
+
+ Financial suitability
+
+ New employee probationary period
+
+ Privacy Act
+
+ Reasonable accommodation policy
+
+ Selective Service
+
+ Signature and false statements
+
+ Social security number request
+
+Required Documents
+
+ Help
+
+Any required documents should be submitted at the time that you apply as documents will not be accepted after the cut-off date.
+A complete application includes:
+
+1. All applicants are required to submit a resume either by creating one in USAJOBS or uploading one of their own choosing. (Cover letters are optional.)
+
+Please limit your resume to two-pages. Applicants with resumes exceeding two-pages will be removed from consideration.
+
+To receive full credit for relevant experience, please list the month/date/year and number of hours worked for experience listed on your resume.
+
+It is suggested that you preview the online questionnaire to ensure that your resume thoroughly describes how your skills and experience align to the criteria defined in the "Qualifications" section of this announcement and support your responses to the online questionnaire.
+
+For resume writing guidance, please visit How do I write a resume for a federal job?
+
+2. Vacancy question responses: All applicants are required to complete vacancy question responses by clicking the apply online button of this vacancy announcement.
+
+3. Submission of any required documents identified below, if applicable: Please note that if you do not provide all required information, as specified in this announcement, you may not be considered for this position (or may not receive the special consideration for which you may be eligible).
+
+CURRENT EMPLOYEES -- Documentation Relating to Your Federal Employment:
+
+Submit a copy of your most recent SF-50 that indicates you are a current Treasury employee. The SF-50 must show competitive service as Tenure 1 or 2 (Block 24), Position Occupied as 1 - Competitive Service (Block 34), current Grade (Block 18) and Salary (Block 20). Applications without this information will not be considered.
+
+If you are currently on a Veterans Recruitment Appointment (VRA) within Treasury, you must submit a copy of an SF-50 showing that. Also, you must submit a copy of your DD214 or other documentation showing dates of service and type of discharge (Member 4) and any other applicable documents such as SF-15, VA letters, etc.
+
+Indicate on your application the highest permanent grade you have held; if this grade is different from your current grade, you must submit a copy of an additional SF-50 showing this grade.
+
+CAREER TRANSITION ASSISTANCE PLAN (CTAP) DOCUMENTATION: If you are a displaced or surplus Federal employee, click CTAP/ICTAP for eligibility and a detailed list of required documents you must submit in order to be eligible.
+
+How to Apply
+
+ Help
+
+Please read the entire announcement and all the instructions before you begin an application. To apply and be considered for this position, you must complete all required questionnaires, assessments, and required documentation as specified in the How to Apply and Required Documents section. The complete application package must be submitted by 11:59 PM (ET) on the closing date of the announcement to receive consideration.
+
+The application process is as follows:
+
+Click the Apply Online button.
+
+Answer the questions presented in the application and attach all necessary supporting documentation.
+
+Click the Submit Application button prior to 11:59 PM (ET) on the announcement closing date.
+
+If you are required to complete any USA Hire Assessments, you will be notified after submitting your application. The notification will be provided in your application submission screen and via email. The notification will include your unique assessment access link to the USA Hire system and the completion deadline. Additionally, in USAJOBS you can click "Track this application" to return to your assessment completion notice.
+
+Access USA Hire using your unique assessment link. Access is granted through your USAJOBS login credentials.
+
+Review all instructions prior to beginning your assessments. You will have the opportunity to request a testing accommodation before beginning the assessments should you have a disability covered under the Rehabilitation Act of 1973 as amended.
+
+Set aside about two (2) hours to take the USA Hire Assessments; however, most applicants complete the assessments in less time. If you need to stop the assessments and continue later, you can re-use your unique assessment link.
+
+Your responses to the USA Hire Assessments will be reused for one year (in most cases) from the date you complete an assessment. If future applications you submit require completion of the same assessments, your responses will be automatically reused.
+Visit the USA Hire Applicant Resource Center for practice assessments and assessment preparation resources.
+
+To update your application, including supporting documentation: During the announcement open period, return to your USAJOBS account, find your application record, and click Edit my application. This option will no longer be available once the announcement has closed.
+
+To view the announcement status or your application status: For more information regarding the job and applicant status, please refer to USAJOBS Help Center - How to see your application and job status
+
+Departmental Offices provides reasonable accommodation to applicants with disabilities on a case-by-case basis. Please contact us if you require this for any part of the application and hiring process.
+
+To begin, click Apply to access the online application. You will need to be logged into your USAJOBS account to apply. If you do not have a USAJOBS account, you will need to create one before beginning the application.
+
+Follow the prompts to select your resumé and/or other supporting documents to be included with your application package. You will have the opportunity to upload additional documents to include in your application before it is submitted. Your uploaded documents may take several hours to clear the virus scan process.
+
+After acknowledging you have reviewed your application package, complete the Include Personal Information section as you deem appropriate and click to continue with the application process.
+
+You will be taken to the online application which you must complete in order to apply for the position. Complete the online application, verify the required documentation is included with your application package, and submit the application.
+
+Please notify us if your contact information changes after the closing date of the announcement. Also, note that if you provide an email address that is inaccurate or if your mailbox is full or blocked (e.g., spam-blocker), you may not receive important communication that could affect your consideration for this position.
+
+For additional information on how to apply, please visit the Partnership for Public Service's Go Government website.
+
+The Fair Chance to Compete for Jobs Act prohibits the Department of Treasury and its bureaus from requesting an applicant's criminal history record before that individual receives a conditional offer of employment. In accordance with 5 U.S. Code § 9202(c) and 5 C.F.R § 920.201 certain positions are exempt from the provisions of the Fair Chance to Compete Act. Applicants who believe they have been subjected to a violation of the Fair Chance to Compete for Jobs Act, may submit a written complaint to the Department of Treasury by email at, FairChanceAct@treasury.gov.
+
+To learn more, please visit our page at: Treasury.gov/fairchanceact.
+
+ Expand Hide  how to apply
+
+Agency contact information
+
+ Applicant Call Center
+
+Phone
+
+ 304-480-7300
+
+Email
+
+ doinquiries@fiscal.treasury.gov
+
+Address
+
+ Domestic Finance - Financial Institutions
+
+ Treasury Common Services Center
+
+ Parkersburg, WV 26101
+
+ US
+
+Next steps
+
+Based on your application and your responses to the application questionnaire, you may be presented with instructions on how to access the USA Hire system to complete the online assessments. The online assessments must be completed within 48 hours following the close of this announcement. You will have the opportunity to request a testing accommodation for the assessment should you have a disability covered under the Rehabilitation Act of 1973 as amended.
+
+Reasonable Accommodation (RA) Requests: If you believe you have a disability (i.e., physical or mental), covered by the Rehabilitation Act of 1973 as amended that would interfere with completing the USA Hire Competency Based Assessments, you will be granted the opportunity to request a RA in your online application. Requests for RA for the USA Hire Competency Based Assessments and appropriate supporting documentation for RA must be received prior to starting the USA Hire Competency Based Assessments. Decisions on requests for RA are made on a case-by-case basis. If you meet the minimum qualifications of the position, after notification of the adjudication of your request, you will receive an email invitation to complete the USA Hire Competency Based Assessments, based on your adjudication decision. You must complete all assessments within 48 hours of receiving the URL to access the USA Hire Competency Based Assessments if you received the link after the close of the announcement. To determine if you need a RA, please review the Procedures for Requesting a Reasonable Accommodation for Online Assessments. (https://appsupport-usastaffing.opm.gov/hc/en-us/sections/45063131363475-Reasonable-Accommodation-Information)
+
+Are you unsure how to write your federal resume? We are here to help. The Treasury Recruitment Service regularly offers Writing Your Federal Resume training sessions, and other career-related information sessions, to assist you in your career search journey. To register for a session, click here to go to our Career Information Sessions webpage.
+
+We will review your resumé and transcript(s) (if appropriate) to ensure you meet the basic qualification requirements. We will evaluate each applicant who meets the basic qualifications on the information provided and may interview the best-qualified applicants. After making a tentative job offer, we will conduct any required suitability and/or security background investigation.
+
+ Expand Hide  next steps
+
+Fair and transparent
+
+The Federal hiring process is set up to be fair and transparent. Please read the following guidance.
+
+ Criminal history inquiries
+
+ Equal Employment Opportunity (EEO) Policy
+
+ Financial suitability
+
+ New employee probationary period
+
+ Privacy Act
+
+ Reasonable accommodation policy
+
+ Selective Service
+
+ Signature and false statements
+
+ Social security number request
+
+ Treasury, Departmental Offices
+
+The U.S. Department of the Treasury has a distinguished history dating back to the founding of our nation. As the steward of U.S. economic and financial systems, Treasury is a major and influential leader in today's global economy. We have over 80,000 employees across the country and around the world. Come Join the Department of the Treasury and Invest in Tomorrow.
+
+Agency contact information
+
+ Applicant Call Center
+
+Phone
+
+ 304-480-7300
+
+Email
+
+ doinquiries@fiscal.treasury.gov
+
+Address
+
+ Domestic Finance - Financial Institutions
+
+ Treasury Common Services Center
+
+ Parkersburg, WV 26101
+
+ US
+
+Summary
+
+This position is located at Departmental Offices, Domestic Finance - Financial Institutions, Office of Cybersecurity and Critical Infrastructure Protection (OCCIP). As a Senior Cybersecurity Specialist, you will serve as a senior technical advisor and recognized subject matter expert on cybersecurity and critical infrastructure protection matters affecting the financial services sector.
+
+ Learn more about this agency
+
+Overview
+
+ Help
+
+Accepting applications
+
+Location
+
+1 vacancy in the following location:
+
+ Washington, DC
+
+ No matching locations found.
+
+Work site options
+
+Telework eligible
+
+Yes—as determined by the agency policy.
+
+Remote job
+
+No
+
+Relocation expenses reimbursed
+
+ No
+
+Salary
+
+ $143,913 - $187,093 per year
+
+Pay scale & grade
+
+GS 14
+
+Promotion potential
+
+14
+
+ Learn more about pay scale and grade
+
+ Pay scale and grade determines the salary of the job.
+
+Work schedule
+
+Full-time
+
+Travel Required
+
+25% or less - You may be expected to travel for this position.
+
+Appointment type
+
+Permanent
+
+Occupations and job series
+
+ 2210 Information Technology Management
+
+Supervisory status
+
+No
+
+Federal service type
+
+This job is in the Competitive Service
+
+Represented by a union
+
+No
+
+Drug test
+
+No
+
+Security clearance
+
+Sensitive Compartmented Information
+
+Position sensitivity and risk
+
+Special-Sensitive (SS)/High Risk
+
+ Jobs require a
+ background check and some require a
+ security clearance. The type depends on the job.
+
+Background check type
+
+ National security
+
+Financial disclosure required
+
+No
+
+ Some jobs require
+ financial disclosure to identify conflicts of interests.
+
+Announcement number
+
+27-DO-13101521
+
+Control number
+
+891340600
+
+ Previous result
+
+Next result
+
+Your session is about to expire!
+
+ Your USAJOBS session will expire due to inactivity in 8 minutes.
+ Any unsaved data will be lost if you allow the session to expire.
+ Click the button below to continue your session.
+
+ Sign out
+ Stay signed in
+
+ Return to top
+
+USAJOBS is a Opens in a new windowUnited States Office of Personnel Management website.
+
+ (Opens in a new window) OPM on LinkedIn
+
+ (Opens in a new window) OPM YouTube channel
+
+ (Opens in a new window) OPM on X
+
+Opens in a new windowEEO Policy Statement
+
+Opens in a new windowReasonable Accommodation Policy Statement
+
+Veterans Information
+
+Opens in a new windowLegal and Regulatory Guidance
+
+About USAJOBS
+
+Opens in a new windowAccessibility
+
+Opens in a new windowFOIA
+
+Opens in a new windowInspector general
+
+Opens in a new windowNo Fear Act Data
+
+Opens in a new windowPrivacy policy
+
+Opens in a new windowReports and publications
+
+Opens in a new windowTerms and conditions
+
+Opens in a new windowUSA.gov

@@ -1,0 +1,93 @@
+{
+  "title": "Supervisory Accountant",
+  "requisition_id": "OCFO-ST-13090653-27-MB",
+  "canonical_url": "https://www.usajobs.gov/job/891491200",
+  "application_url": "https://www.usajobs.gov/job/891491200",
+  "posted_date": "2026-11-03",
+  "posted_date_evidence": "Official JobPosting.datePosted and native PositionStartDate",
+  "close_date": "2026-11-09",
+  "deadline_timezone": "America/New_York",
+  "deadline_time": "23:59",
+  "deadline_source": "https://www.usajobs.gov/job/891491200",
+  "deadline_verified": true,
+  "early_closure_conditions": [],
+  "rolling_cutoff": null,
+  "location": "Arlington, VA",
+  "remote_restrictions": "Offered DMV work location; verify telework/attendance and screening conditions in announcement.",
+  "salary": "Starting at $143,913 Per year (GS 14)",
+  "retrieved_at": "2026-11-04T01:27:13.427519+00:00",
+  "control_number": "891491200",
+  "fit": "Enterprise forecasting, capital planning, portfolio risk/valuation, financial reporting and leadership overlap. Exact federal accounting, budget, investment governance and grade-equivalent requirements remain unverified.",
+  "gaps": "Hiring-path eligibility unverified: Competitive service, Career transition (CTAP, ICTAP, RPL), Land and base management, Veterans, Military spouses, Individuals with disabilities, Family of overseas employees, Peace Corps & AmeriCorps Vista, Special authorities. Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Verify qualifying coursework and calculus credits against the exact qualification clause; not established by the baseline alone. Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.",
+  "requirements_confirmed_unmet": [],
+  "requirements_unverified": [
+    "Hiring-path eligibility unverified: Competitive service, Career transition (CTAP, ICTAP, RPL), Land and base management, Veterans, Military spouses, Individuals with disabilities, Family of overseas employees, Peace Corps & AmeriCorps Vista, Special authorities. Confirm qualifying status before application; absence from baseline is not proof of ineligibility.",
+    "Verify qualifying coursework and calculus credits against the exact qualification clause; not established by the baseline alone.",
+    "Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "preferred_requirements_note": "See official qualifications/education sections; missing evidence does not establish an unmet requirement.",
+  "hiring_paths": [
+    "Competitive service",
+    "Career transition (CTAP, ICTAP, RPL)",
+    "Land and base management",
+    "Veterans",
+    "Military spouses",
+    "Individuals with disabilities",
+    "Family of overseas employees",
+    "Peace Corps & AmeriCorps Vista",
+    "Special authorities"
+  ],
+  "open_evidence": "Official announcement downloaded successfully; validThrough and native open-status evidence retained.",
+  "discovery_window": [
+    "2026-09-03",
+    "2026-11-03"
+  ],
+  "employer": "Cybersecurity and Infrastructure Security Agency",
+  "status": "needs_verification",
+  "aliases": [],
+  "id": "bca157db397f61d1",
+  "application_directory": "applications/2026-11-03__cybersecurity-and-infrastructure-securit__supervisory-accountant__bca157db397f61d1",
+  "step": 1,
+  "selected": false,
+  "submitted": false,
+  "artifacts": {
+    "resume_markdown": {
+      "path": "applications/2026-11-03__cybersecurity-and-infrastructure-securit__supervisory-accountant__bca157db397f61d1/resume-xuewu-cai__cybersecurity-and-infrastructure-securit__supervisory-accountant__891491200.md",
+      "sha256": "0cfc629c833fdf45d64c1cd5e2e122a4fc6cb782ffb1ba40f107a9e731d64b74"
+    },
+    "resume_pdf": {
+      "path": "applications/2026-11-03__cybersecurity-and-infrastructure-securit__supervisory-accountant__bca157db397f61d1/resume-xuewu-cai__cybersecurity-and-infrastructure-securit__supervisory-accountant__891491200.pdf",
+      "sha256": "5c41bc97cf0e041e772344d2db2b26bb02caca2db22f6ebdd8909b748472f7d5"
+    }
+  },
+  "artifact_versions": [
+    {
+      "revision_id": "2026-11-04T01:27:13.427519+00:00",
+      "artifacts": {
+        "resume_markdown": {
+          "path": "applications/2026-11-03__cybersecurity-and-infrastructure-securit__supervisory-accountant__bca157db397f61d1/resume-xuewu-cai__cybersecurity-and-infrastructure-securit__supervisory-accountant__891491200.md",
+          "sha256": "0cfc629c833fdf45d64c1cd5e2e122a4fc6cb782ffb1ba40f107a9e731d64b74"
+        },
+        "resume_pdf": {
+          "path": "applications/2026-11-03__cybersecurity-and-infrastructure-securit__supervisory-accountant__bca157db397f61d1/resume-xuewu-cai__cybersecurity-and-infrastructure-securit__supervisory-accountant__891491200.pdf",
+          "sha256": "5c41bc97cf0e041e772344d2db2b26bb02caca2db22f6ebdd8909b748472f7d5"
+        }
+      },
+      "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a"
+    }
+  ],
+  "resume_status": "prepared_with_attention",
+  "resume_review": "Two rendered pages reviewed; all 77 distinct page images inspected across seven boards covering 166 pages. Text bounds, all 20 baseline experience bullets, updated title, neutral metadata and artifact hashes passed. Candidate qualifications remain unverified.",
+  "required_answers_pending": [
+    "Hiring-path eligibility unverified: Competitive service, Career transition (CTAP, ICTAP, RPL), Land and base management, Veterans, Military spouses, Individuals with disabilities, Family of overseas employees, Peace Corps & AmeriCorps Vista, Special authorities. Confirm qualifying status before application; absence from baseline is not proof of ineligibility.",
+    "Verify qualifying coursework and calculus credits against the exact qualification clause; not established by the baseline alone.",
+    "Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "confirmed_unmet_requirements": [],
+  "qualifications_verified": false,
+  "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a",
+  "resume_format": "restored_two_page",
+  "current_resume_naming": "unversioned"
+}

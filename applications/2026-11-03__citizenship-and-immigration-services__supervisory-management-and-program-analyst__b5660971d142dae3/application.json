@@ -1,0 +1,84 @@
+{
+  "title": "Supervisory Management and Program Analyst",
+  "requisition_id": "13105772-ISMRMD-DE-26",
+  "canonical_url": "https://www.usajobs.gov/job/891357100",
+  "application_url": "https://www.usajobs.gov/job/891357100",
+  "posted_date": "2026-11-03",
+  "posted_date_evidence": "Official JobPosting.datePosted and native PositionStartDate",
+  "close_date": "2026-11-09",
+  "deadline_timezone": "America/New_York",
+  "deadline_time": "23:59",
+  "deadline_source": "https://www.usajobs.gov/job/891357100",
+  "deadline_verified": true,
+  "early_closure_conditions": [],
+  "rolling_cutoff": null,
+  "location": "Camp Springs, MD",
+  "remote_restrictions": "Offered DMV work location; verify telework/attendance and screening conditions in announcement.",
+  "salary": "Starting at $169,279 Per year (GS 15)",
+  "retrieved_at": "2026-11-04T01:27:13.427519+00:00",
+  "control_number": "891357100",
+  "fit": "Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.",
+  "gaps": "Confirm the announcement-specific specialized experience, grade-equivalent scope and mandatory conditions against your actual work history. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them. Any own-words/no-AI essay certification must be answered personally; no such essays drafted.",
+  "requirements_confirmed_unmet": [],
+  "requirements_unverified": [
+    "Confirm the announcement-specific specialized experience, grade-equivalent scope and mandatory conditions against your actual work history.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.",
+    "Any own-words/no-AI essay certification must be answered personally; no such essays drafted."
+  ],
+  "preferred_requirements_note": "See official qualifications/education sections; missing evidence does not establish an unmet requirement.",
+  "hiring_paths": [
+    "Open to the public",
+    "Career transition (CTAP, ICTAP, RPL)"
+  ],
+  "open_evidence": "Official announcement downloaded successfully; validThrough and native open-status evidence retained.",
+  "discovery_window": [
+    "2026-09-03",
+    "2026-11-03"
+  ],
+  "employer": "Citizenship and Immigration Services",
+  "status": "needs_verification",
+  "aliases": [],
+  "id": "b5660971d142dae3",
+  "application_directory": "applications/2026-11-03__citizenship-and-immigration-services__supervisory-management-and-program-analyst__b5660971d142dae3",
+  "step": 1,
+  "selected": false,
+  "submitted": false,
+  "artifacts": {
+    "resume_markdown": {
+      "path": "applications/2026-11-03__citizenship-and-immigration-services__supervisory-management-and-program-analyst__b5660971d142dae3/resume-xuewu-cai__citizenship-and-immigration-services__supervisory-management-and-program-analyst__891357100.md",
+      "sha256": "dea3e16295b308f1bc40a3d295592f5df1892939e3bf21a25996d4e95c2baa98"
+    },
+    "resume_pdf": {
+      "path": "applications/2026-11-03__citizenship-and-immigration-services__supervisory-management-and-program-analyst__b5660971d142dae3/resume-xuewu-cai__citizenship-and-immigration-services__supervisory-management-and-program-analyst__891357100.pdf",
+      "sha256": "f9c22b5a4f3f71d2f7879204a03b238bb1be469a269b84c3bebf000434c0f35b"
+    }
+  },
+  "artifact_versions": [
+    {
+      "revision_id": "2026-11-04T01:27:13.427519+00:00",
+      "artifacts": {
+        "resume_markdown": {
+          "path": "applications/2026-11-03__citizenship-and-immigration-services__supervisory-management-and-program-analyst__b5660971d142dae3/resume-xuewu-cai__citizenship-and-immigration-services__supervisory-management-and-program-analyst__891357100.md",
+          "sha256": "dea3e16295b308f1bc40a3d295592f5df1892939e3bf21a25996d4e95c2baa98"
+        },
+        "resume_pdf": {
+          "path": "applications/2026-11-03__citizenship-and-immigration-services__supervisory-management-and-program-analyst__b5660971d142dae3/resume-xuewu-cai__citizenship-and-immigration-services__supervisory-management-and-program-analyst__891357100.pdf",
+          "sha256": "f9c22b5a4f3f71d2f7879204a03b238bb1be469a269b84c3bebf000434c0f35b"
+        }
+      },
+      "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a"
+    }
+  ],
+  "resume_status": "prepared_with_attention",
+  "resume_review": "Two rendered pages reviewed; all 77 distinct page images inspected across seven boards covering 166 pages. Text bounds, all 20 baseline experience bullets, updated title, neutral metadata and artifact hashes passed. Candidate qualifications remain unverified.",
+  "required_answers_pending": [
+    "Confirm the announcement-specific specialized experience, grade-equivalent scope and mandatory conditions against your actual work history.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.",
+    "Any own-words/no-AI essay certification must be answered personally; no such essays drafted."
+  ],
+  "confirmed_unmet_requirements": [],
+  "qualifications_verified": false,
+  "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a",
+  "resume_format": "restored_two_page",
+  "current_resume_naming": "unversioned"
+}

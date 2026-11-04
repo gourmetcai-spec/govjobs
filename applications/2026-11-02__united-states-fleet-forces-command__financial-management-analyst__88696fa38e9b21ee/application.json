@@ -15,10 +15,10 @@
   "location": "Norfolk, VA",
   "remote_restrictions": "Offered DMV work location; verify telework/attendance and screening conditions in announcement.",
   "salary": "Starting at $90,838 Per year (GS 12-13)",
-  "retrieved_at": "2026-11-02T23:14:54.501767+00:00",
+  "retrieved_at": "2026-11-04T01:28:10.217064+00:00",
   "control_number": "890209700",
   "fit": "Financial forecasting, capital/ROE, quantitative risk and engineering leadership overlap; federal budget/accounting/policy specialties remain attention items.",
-  "gaps": "Hiring-path eligibility unverified: Internal to an agency, Career transition (CTAP, ICTAP, RPL), Land and base management, Veterans, Military spouses, Individuals with disabilities, Special authorities. Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.",
+  "gaps": "Hiring-path eligibility unverified: Internal to an agency, Career transition (CTAP, ICTAP, RPL), Land and base management, Veterans, Military spouses, Individuals with disabilities, Special authorities. Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them. Closed: official closing date 2026-11-02 has passed; do not start Step 2 unless agency verifies reopening.",
   "requirements_confirmed_unmet": [],
   "requirements_unverified": [
     "Hiring-path eligibility unverified: Internal to an agency, Career transition (CTAP, ICTAP, RPL), Land and base management, Veterans, Military spouses, Individuals with disabilities, Special authorities. Confirm qualifying status before application; absence from baseline is not proof of ineligibility.",
@@ -37,11 +37,11 @@
   ],
   "open_evidence": "Official announcement downloaded successfully; validThrough and native open-status evidence retained.",
   "discovery_window": [
-    "2026-09-02",
-    "2026-11-02"
+    "2026-09-03",
+    "2026-11-03"
   ],
   "employer": "United States Fleet Forces Command",
-  "status": "needs_verification",
+  "status": "closed",
   "aliases": [],
   "id": "88696fa38e9b21ee",
   "application_directory": "applications/2026-11-02__united-states-fleet-forces-command__financial-management-analyst__88696fa38e9b21ee",
@@ -87,5 +87,9 @@
   "resume_format": "restored_two_page",
   "current_resume_naming": "unversioned",
   "clearance_requirement": "Secret",
-  "public_hiring_route_evidence": false
+  "public_hiring_route_evidence": false,
+  "last_checked_at": "2026-11-04T01:28:10.217064+00:00",
+  "availability_check_source": "/Volumes/WD512x2/home/gourmetcai/project/govjobs/tracking/runs/2026-11-03-step1-202038/announcements/890209700.html",
+  "availability_check": "Closed: official announcement deadline has passed",
+  "closure_reason": "Official announcement closing date 2026-11-02 has passed, or announcement expressly states closure."
 }

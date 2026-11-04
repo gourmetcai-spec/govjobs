@@ -1,0 +1,84 @@
+{
+  "title": "Operations Research Analyst",
+  "requisition_id": "DLAWpnSpt-27-13108165-DHA",
+  "canonical_url": "https://www.usajobs.gov/job/891388900",
+  "application_url": "https://www.usajobs.gov/job/891388900",
+  "posted_date": "2026-11-03",
+  "posted_date_evidence": "Official JobPosting.datePosted and native PositionStartDate",
+  "close_date": "2026-11-17",
+  "deadline_timezone": "America/New_York",
+  "deadline_time": "23:59",
+  "deadline_source": "https://www.usajobs.gov/job/891388900",
+  "deadline_verified": true,
+  "early_closure_conditions": [
+    "This job will close when we have received 100 applications which may be sooner than the closing date. Learn more",
+    "This job will close when the agency has received 100 applications, which may be sooner than the closing date."
+  ],
+  "rolling_cutoff": null,
+  "location": "Richmond, VA",
+  "remote_restrictions": "Offered DMV work location; verify telework/attendance and screening conditions in announcement.",
+  "salary": "Starting at $111,065 Per year (GS 13)",
+  "retrieved_at": "2026-11-04T01:27:13.427519+00:00",
+  "control_number": "891388900",
+  "fit": "Mathematics/CS education, Monte Carlo/statistical research, forecasting and decision-support modeling overlap; specialized domain/AI requirements need confirmation.",
+  "gaps": "Verify qualifying coursework and calculus credits against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.",
+  "requirements_confirmed_unmet": [],
+  "requirements_unverified": [
+    "Verify qualifying coursework and calculus credits against the exact qualification clause; not established by the baseline alone.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "preferred_requirements_note": "See official qualifications/education sections; missing evidence does not establish an unmet requirement.",
+  "hiring_paths": [
+    "Open to the public"
+  ],
+  "open_evidence": "Official announcement downloaded successfully; validThrough and native open-status evidence retained.",
+  "discovery_window": [
+    "2026-09-03",
+    "2026-11-03"
+  ],
+  "employer": "Defense Logistics Agency",
+  "status": "needs_verification",
+  "aliases": [],
+  "id": "7ebdcbd7d2b7939a",
+  "application_directory": "applications/2026-11-03__defense-logistics-agency__operations-research-analyst__7ebdcbd7d2b7939a",
+  "step": 1,
+  "selected": false,
+  "submitted": false,
+  "artifacts": {
+    "resume_markdown": {
+      "path": "applications/2026-11-03__defense-logistics-agency__operations-research-analyst__7ebdcbd7d2b7939a/resume-xuewu-cai__defense-logistics-agency__operations-research-analyst__891388900.md",
+      "sha256": "1af96942a24d2d496b36d45a5eef77ab9c47f78c5f499c7dab0a55cd591d0598"
+    },
+    "resume_pdf": {
+      "path": "applications/2026-11-03__defense-logistics-agency__operations-research-analyst__7ebdcbd7d2b7939a/resume-xuewu-cai__defense-logistics-agency__operations-research-analyst__891388900.pdf",
+      "sha256": "d896507af36e3a0697bea40054b5faee073262b991e6cb39aff9ada054735232"
+    }
+  },
+  "artifact_versions": [
+    {
+      "revision_id": "2026-11-04T01:27:13.427519+00:00",
+      "artifacts": {
+        "resume_markdown": {
+          "path": "applications/2026-11-03__defense-logistics-agency__operations-research-analyst__7ebdcbd7d2b7939a/resume-xuewu-cai__defense-logistics-agency__operations-research-analyst__891388900.md",
+          "sha256": "1af96942a24d2d496b36d45a5eef77ab9c47f78c5f499c7dab0a55cd591d0598"
+        },
+        "resume_pdf": {
+          "path": "applications/2026-11-03__defense-logistics-agency__operations-research-analyst__7ebdcbd7d2b7939a/resume-xuewu-cai__defense-logistics-agency__operations-research-analyst__891388900.pdf",
+          "sha256": "d896507af36e3a0697bea40054b5faee073262b991e6cb39aff9ada054735232"
+        }
+      },
+      "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a"
+    }
+  ],
+  "resume_status": "prepared_with_attention",
+  "resume_review": "Two rendered pages reviewed; all 77 distinct page images inspected across seven boards covering 166 pages. Text bounds, all 20 baseline experience bullets, updated title, neutral metadata and artifact hashes passed. Candidate qualifications remain unverified.",
+  "required_answers_pending": [
+    "Verify qualifying coursework and calculus credits against the exact qualification clause; not established by the baseline alone.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "confirmed_unmet_requirements": [],
+  "qualifications_verified": false,
+  "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a",
+  "resume_format": "restored_two_page",
+  "current_resume_naming": "unversioned"
+}

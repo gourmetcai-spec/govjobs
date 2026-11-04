@@ -1,0 +1,91 @@
+{
+  "title": "SUPERVISORY FINANCIAL MANAGEMENT ANALYST",
+  "requisition_id": "ST-13102574-27-DSJ",
+  "canonical_url": "https://www.usajobs.gov/job/891165800",
+  "application_url": "https://www.usajobs.gov/job/891165800",
+  "posted_date": "2026-11-03",
+  "posted_date_evidence": "Official JobPosting.datePosted and native PositionStartDate",
+  "close_date": "2026-11-09",
+  "deadline_timezone": "America/New_York",
+  "deadline_time": "23:59",
+  "deadline_source": "https://www.usajobs.gov/job/891165800",
+  "deadline_verified": true,
+  "early_closure_conditions": [],
+  "rolling_cutoff": null,
+  "location": "Naval Base, Norfolk, VA",
+  "remote_restrictions": "Offered DMV work location; verify telework/attendance and screening conditions in announcement.",
+  "salary": "Starting at $127,646 Per year (GS 14)",
+  "retrieved_at": "2026-11-04T01:27:13.427519+00:00",
+  "control_number": "891165800",
+  "fit": "Financial forecasting, capital/ROE, quantitative risk and engineering leadership overlap; federal budget/accounting/policy specialties remain attention items.",
+  "gaps": "Hiring-path eligibility unverified: Internal to an agency, Career transition (CTAP, ICTAP, RPL), Land and base management, Veterans, Military spouses, Individuals with disabilities, Special authorities. Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Verify OMB/federal budget procedures against the exact qualification clause; not established by the baseline alone. Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.",
+  "requirements_confirmed_unmet": [],
+  "requirements_unverified": [
+    "Hiring-path eligibility unverified: Internal to an agency, Career transition (CTAP, ICTAP, RPL), Land and base management, Veterans, Military spouses, Individuals with disabilities, Special authorities. Confirm qualifying status before application; absence from baseline is not proof of ineligibility.",
+    "Verify OMB/federal budget procedures against the exact qualification clause; not established by the baseline alone.",
+    "Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "preferred_requirements_note": "See official qualifications/education sections; missing evidence does not establish an unmet requirement.",
+  "hiring_paths": [
+    "Internal to an agency",
+    "Career transition (CTAP, ICTAP, RPL)",
+    "Land and base management",
+    "Veterans",
+    "Military spouses",
+    "Individuals with disabilities",
+    "Special authorities"
+  ],
+  "open_evidence": "Official announcement downloaded successfully; validThrough and native open-status evidence retained.",
+  "discovery_window": [
+    "2026-09-03",
+    "2026-11-03"
+  ],
+  "employer": "United States Fleet Forces Command",
+  "status": "needs_verification",
+  "aliases": [],
+  "id": "b6e38ce4261424f2",
+  "application_directory": "applications/2026-11-03__united-states-fleet-forces-command__supervisory-financial-management-analyst__b6e38ce4261424f2",
+  "step": 1,
+  "selected": false,
+  "submitted": false,
+  "artifacts": {
+    "resume_markdown": {
+      "path": "applications/2026-11-03__united-states-fleet-forces-command__supervisory-financial-management-analyst__b6e38ce4261424f2/resume-xuewu-cai__united-states-fleet-forces-command__supervisory-financial-management-analyst__891165800.md",
+      "sha256": "499784c0d442deac94553ebfcfd31d42a78f0fd1cfede6b9ebe6b5d76e36e6e3"
+    },
+    "resume_pdf": {
+      "path": "applications/2026-11-03__united-states-fleet-forces-command__supervisory-financial-management-analyst__b6e38ce4261424f2/resume-xuewu-cai__united-states-fleet-forces-command__supervisory-financial-management-analyst__891165800.pdf",
+      "sha256": "3071af905ddfba25dea42d2f305c34c24c23eb7fdd8088b9276519a9eef7067b"
+    }
+  },
+  "artifact_versions": [
+    {
+      "revision_id": "2026-11-04T01:27:13.427519+00:00",
+      "artifacts": {
+        "resume_markdown": {
+          "path": "applications/2026-11-03__united-states-fleet-forces-command__supervisory-financial-management-analyst__b6e38ce4261424f2/resume-xuewu-cai__united-states-fleet-forces-command__supervisory-financial-management-analyst__891165800.md",
+          "sha256": "499784c0d442deac94553ebfcfd31d42a78f0fd1cfede6b9ebe6b5d76e36e6e3"
+        },
+        "resume_pdf": {
+          "path": "applications/2026-11-03__united-states-fleet-forces-command__supervisory-financial-management-analyst__b6e38ce4261424f2/resume-xuewu-cai__united-states-fleet-forces-command__supervisory-financial-management-analyst__891165800.pdf",
+          "sha256": "3071af905ddfba25dea42d2f305c34c24c23eb7fdd8088b9276519a9eef7067b"
+        }
+      },
+      "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a"
+    }
+  ],
+  "resume_status": "prepared_with_attention",
+  "resume_review": "Two rendered pages reviewed; all 77 distinct page images inspected across seven boards covering 166 pages. Text bounds, all 20 baseline experience bullets, updated title, neutral metadata and artifact hashes passed. Candidate qualifications remain unverified.",
+  "required_answers_pending": [
+    "Hiring-path eligibility unverified: Internal to an agency, Career transition (CTAP, ICTAP, RPL), Land and base management, Veterans, Military spouses, Individuals with disabilities, Special authorities. Confirm qualifying status before application; absence from baseline is not proof of ineligibility.",
+    "Verify OMB/federal budget procedures against the exact qualification clause; not established by the baseline alone.",
+    "Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "confirmed_unmet_requirements": [],
+  "qualifications_verified": false,
+  "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a",
+  "resume_format": "restored_two_page",
+  "current_resume_naming": "unversioned"
+}

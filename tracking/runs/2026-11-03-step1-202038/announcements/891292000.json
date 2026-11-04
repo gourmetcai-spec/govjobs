@@ -1,0 +1,48 @@
+{
+  "@context": "http://www.schema.org",
+  "@type": "JobPosting",
+  "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": {
+      "@type": "QuantitativeValue",
+      "value": 89508.0,
+      "unitText": "YEAR"
+    }
+  },
+  "datePosted": "11/03/2026",
+  "description": "<strong>This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. </strong><br>\n<br>\nIt is in the Professional Work Category at the Full Performance  Work Level within the CES Occupational Structure. It is located in the DISA J6/C4 ENTERPRISE DIRECTORATE",
+  "educationRequirements": "<strong>There is no substitution of education for the</strong> <strong>qualifying experienceat the GG-12 grade level.</strong>",
+  "employmentType": "OTHER",
+  "hiringOrganization": "DISA - DBC/SERVICES DEVELOPMENT DIRECTORATE",
+  "jobLocation": [
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Fort Meade",
+        "addressRegion": "MD "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Columbus",
+        "addressRegion": "OH "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Tinker AFB",
+        "addressRegion": "OK "
+      }
+    }
+  ],
+  "responsibilities": "",
+  "qualifications": "In order to qualify for this position, you must meet the requirements described below.<br>\n<br>\n<strong><u>Basic Requirements:</u></strong><br>\n<br>\nAttention to Detail- experience reviewing my own information technology-related work or data and have been asked by others to review their work or data to ensure accuracy, completeness, and consistency with standards<br>\n<br>\nCustomer Service - experience maintaining relationships with customers, assessing current information technology needs of customers, and developing or identifying information technology products and services that are tailored to meet customer needs<br>\n<br>\nOral Communication -briefing mid-level management and IT staff on the status of information technology systems, projects, or daily operations, including the communication of technical information to a non-technical audience<br>\n<br>\nProblem Solving - identifying alternatives to address complex information technology-related issues by gathering and applying information from a variety of sources that provide a number of potential solutions<br>\n<br>\n<br>\n<br>\n<br>\n<u><strong>Qualifying Experience: </strong></u><br>\nTo qualify at the GG-12, your resume must describe at least one year of experience that demonstrates the competencies necessary for immediate success in the position. Experience refers to any paid or unpaid experience, including volunteer work and Military service, that would be considered equivalent to work normally performed at the next lower grade level in the federal service.<br>\n<br>\n<strong>For this position, qualifying experience is defined as: </strong><strong> Experience supporting operations by advising customers on service requirements, reviewing and processing orders or requests, resolving complex customer and system issues, coordinating with internal and external stakeholders, OR conducting final quality-control reviews and approvals before submission for fulfillment.</strong><br>\n<br>\nCandidates must describe how they meet the qualifying experience and/or selective placement factor(s) within the body of their resume. All qualifications must be met within 30 days after the closing date of this announcement.",
+  "title": "IT CYBERSECURITY SPECIALIST (CUSTSPT/INFOSEC)",
+  "validThrough": "2026-11-12"
+}

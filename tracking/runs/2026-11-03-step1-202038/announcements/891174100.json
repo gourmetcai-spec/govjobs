@@ -1,0 +1,32 @@
+{
+  "@context": "http://www.schema.org",
+  "@type": "JobPosting",
+  "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": {
+      "@type": "QuantitativeValue",
+      "value": 70623.0,
+      "unitText": "YEAR"
+    }
+  },
+  "datePosted": "11/03/2026",
+  "description": "<b>About the Position: </b>This position is with U.S. Army Corps of Engineers, Mission Support Battalion with a duty station location of Alexandria, VA.",
+  "educationRequirements": "<strong>FOREIGN EDUCATION: </strong>If you are using education completed in foreign colleges or universities to meet the qualification requirements, you must show the education credentials have been evaluated by a private organization that specializes in interpretation of foreign education programs and such education has been deemed equivalent to that gained in an accredited U.S. education program; or full credit has been given for the courses at a U.S. accredited college or university. For further information, visit: <a href=\"https://sites.ed.gov/international/recognition-of-foreign-qualifications/\">https://sites.ed.gov/international/recognition-of-foreign-qualifications/</a>.",
+  "employmentType": "OTHER",
+  "hiringOrganization": "RA-W4LDAA USA HUMPHREYS ENGR CENTER SUPPORT ACTY",
+  "jobLocation": [
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Alexandria",
+        "addressRegion": "VA "
+      }
+    }
+  ],
+  "responsibilities": "",
+  "qualifications": "<strong>Who May Apply</strong>: Only applicants who meet one of the employment authority categories below are eligible to apply for this job. You will be asked to identify which category or categories you meet, and to provide documents which prove you meet the category or categories you selected. See <a href=\"https://portal.chra.army.mil/hr_public?id=kb_article&sysparm_article=KB0016281\">Proof of Eligibility</a> for an extensive list of document requirements for all employment authorities.<br>\n<br>\n<br>\n<ul><li>Current Department of Army Civilian Employees</li><li>Current Department of Defense (DOD) Civilian Employee (non-Army)</li><li>Interagency Career Transition Assistance Plan</li><li>Land Management Workforce Flexibility Act</li><li>Military Spouses, under Executive Order (E.O.) 13473</li><li>Non-Department of Defense (DoD) Transfer</li><li>Priority Placement Program, DoD Military Reserve (MR) and National Guard (NG) Technician Eligible</li><li>Priority Placement Program, DoD Military Spouse Preference (MSP) Eligible</li><li>Priority Placement Program, DoD MR and NG Preference Eligible Tech Receiving Disability Retirement</li><li>Priority Placement Program, DoD Retained Grade Preference Eligible</li><li>Reinstatement</li><li>Veterans Employment Opportunity Act (VEOA) of 1998</li></ul><br>\n<br>\nIn order to qualify, you must meet the education and/or experience requirements described below. Experience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., Peace Corps, AmeriCorps) and other organizations (e.g., professional; philanthropic; religious; spiritual; community; student; social). You will receive credit for all qualifying experience, including volunteer experience. Your resume must clearly describe your relevant experience; if qualifying based on education, your transcripts will be required as part of your application. Additional information about transcripts is <a href=\"https://portal.chra.army.mil/hr_public?id=kb_article&sysparm_article=KB0016283\">in this document</a>.<br>\n<br>\n<strong>Specialized Experience:</strong> One year of specialized experience which includes 1) Applying knowledge of finance and accounting service regulations and procedures to identify and resolve pay problems; 2) Performing payroll functions such as payroll data input, stored data verification, records review, reconciliation, and initiating corrective actions; and 3) Communicating orally and in writing to answer pay questions, request and verify information, resolve pay issues and discrepancies in records, and to prepare reports or instructions to explain problems to managers. This definition of specialized experience is typical of work performed at the second lower grade/level position in the federal service (GS-07).<br>\n<br>\nOR<br>\n<br>\nEducation: Master's or equivalent graduate degree or 2 full years of progressively higher level graduate education leading to such a degree in a field which demonstrates the knowledge, skills, and abilities necessary to do the work of the position, such as: Finance, Economics, Business Administration, Accounting, etc.<br>\n<br>\nOR<br>\n<br>\nCombination of Education and Experience: A combination of education and experience may be used to qualify for this position as long as the computed percentage of the requirements is at least 100%. To compute the percentage of the requirements, divide your total months of experience by 12. Then divide the total number of completed graduate semester hours (or equivalent) beyond the first year (total graduate semester hours minus 18) by 18. Add the two percentages.<br>\n<br>\nYou will be evaluated on the basis of your level of competency in the following areas:<br>\n<ul><li>Accountability</li><li>Arithmetic/Mathematical Reasoning</li><li>Attention to Detail</li><li>Customer Service</li><li>Decision Making</li><li>Flexibility</li><li>Integrity/Honesty</li><li>Interpersonal Skills</li><li>Learning</li><li>Reasoning</li><li>Self-Management</li><li>Stress Tolerance</li><li>Teamwork</li></ul><br>\n<br>\nTime in Grade Requirement: Applicants who have held a General Schedule (GS) position within the last 52 weeks must have 52 weeks of Federal service at the next lower grade or equivalent (GS-07).",
+  "title": "Civilian Pay Specialist",
+  "validThrough": "2026-11-10"
+}

@@ -1,0 +1,40 @@
+{
+  "@context": "http://www.schema.org",
+  "@type": "JobPosting",
+  "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": {
+      "@type": "QuantitativeValue",
+      "value": 143913.0,
+      "unitText": "YEAR"
+    }
+  },
+  "datePosted": "10/30/2026",
+  "description": "This position is part of the Department of War (DoW), Missile Defense Agency (MDA). The incumbent will be responsible for: Serve as the principal cost estimating expert for the program/team, providing authoritative guidance and analysis to program/organization leadership.<br>\n<br>\nThe advertised salary for Fort Belvoir and Dahlgren, VA does not include the current rate of tax-free Cost of Living Allowance (COLA), which is 33.94%.\"",
+  "educationRequirements": "Substitution of education may not be used in lieu of specialized experience for this grade level.<br>\n<br>\n<br>",
+  "employmentType": "OTHER",
+  "hiringOrganization": "Missile Defense Agency",
+  "jobLocation": [
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Dahlgren",
+        "addressRegion": "VA "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Fort Belvoir",
+        "addressRegion": "VA "
+      }
+    }
+  ],
+  "responsibilities": "This is a Direct Hire Authority (DHA) solicitation utilizing the DHA for Acq Demo Business and Technical Management to recruit and appoint qualified candidates to positions in the competitive service.<br>\n<br>\nAs an Operations Research Analyst at the NH-1515-4 broadband level, some of your typical work assignments may include:\n<ul>\n\t<li>Serve as the principal cost estimating expert for the program/team, providing authoritative guidance and analysis to program/organization leadership.</li>\n\t<li>Lead, develop, document, update, and deliver life-cycle cost estimates (LCCEs) and cost analysis to inform decision-making, program planning, resource allocation, and acquisition/contract efforts for MDA programs and initiatives.</li>\n\t<li>Ensure cost estimates and analysis comply with Department and MDA directives, standards, templates, and procedures for preparing, documenting, and presenting reliable cost estimates.</li>\n\t<li>Lead and ensure the uniform collection and reporting of cost, technical, and programmatic data across programs and contracts, consistent with statutory requirements.</li>\n\t<li>Lead research efforts to advance cost and schedule estimating methodologies<br>\n\tfor the organization/program/team, addressing issues unique to complex missile defense technologies and rapid acquisition. Lead, develop, apply, and document appropriate cost estimating and analysis methodologies, utilizing techniques such as linear and non-linear regression to determine cost estimating relationships (CERs).</li>\n\t<li>Lead, prepare, document, and present cost estimates, cost analysis, cost studies,<br>\n\texcursions, and recommendations to customers and stakeholders. Lead, support, and review Congressional Request for Information (RFI) responses and statutory and oversight requirements including GAO audits.</li>\n\t<li>Other duties as assigned</li>\n</ul>",
+  "qualifications": "You may qualify at the NH-04 Broadband Level, if you fulfill the following qualifications:<br>\n<br>\nA. One year of specialized experience equivalent to the NH-03/GS-13 grade level in the Federal service as listed below and must meet 3 of the 5 specialized experience listed below to be qualified:\n<ul>\n\t<li>Develop, document, and deliver credible, accurate, comprehensive cost estimates and cost analysis to drive decision-making, program planning, resource allocation, and acquisition/contract efforts.</li>\n\t<li>Develop and maintain responsive cost estimating and analysis tools and models to quickly deliver cost estimating and analysis products to internal and external customers.</li>\n\t<li>Collect, validate, clean, and store data to establish secure databases to enable future use of such data in cost estimating and analysis.</li>\n\t<li>Conduct cost research, evaluate complex data, identify trends, and apply quantitative methods-such as linear and non-linear regression-to develop cost estimating relationships (CERs) and generate data-driven results. </li>\n\t<li>Prepare and present cost estimates and/or cost analysis, including results and recommendations, to customers and stakeholders to support decision-making.</li>\n</ul>\n<br>\nExperience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., Peace Corps, AmeriCorps) and other organizations (e.g., professional; philanthropic; religious; spiritual; community, student, social). Volunteer work helps build critical competencies, knowledge, and skills and can provide valuable training and experience that translates directly to paid employment. You will receive credit for all qualifying experience, including volunteer experience.<br>\n<br>\nIn addition to meeting qualifications, your application package must reflect the applicable experience to meet the Individual Occupational Requirements for the 1515, series as listed below:<br>\n<br>\nDegree: in operations research; or at least 24 semester hours in a combination of operations research, mathematics, probability, statistics, mathematical logic, science, or subject-matter courses requiring substantial competence in college-level mathematics or statistics. At least 3 of the 24 semester hours must have been in calculus.<br>\n<br>\n<strong>Evaluation of Education:</strong><br>\nThe primary requirement of operations research work is competence in the rigorous methods of scientific inquiry and analysis rather than in the subject matter of the problem. Therefore, applicants should have sufficient knowledge of applied mathematics to understand and use the fundamental concepts and techniques of operations research methods of analysis. In addition, some positions may require knowledge of a specific subject area.<br>\n<br>\nCourses acceptable for qualifying for operations research positions may have been taken in departments other than Operations Research, e.g., Engineering (usually Industrial Engineering), Science, Economics, Mathematics, Statistics, or Management Science.<br>\n<br>\nThe following are illustrative of acceptable courses: optimization; mathematical modeling; queuing theory; engineering; physics (except descriptive or survey courses); econometrics; psychometrics; biometrics; experimental psychology; physical chemistry; industrial process analysis; managerial economics; computer science; measurement for management; mathematical models in social phenomena; and courses that involved application of operations research techniques and methodologies to problems of management, marketing, systems design, and other specialized fields; or other comparable quantitative analysis courses for which college-level mathematics or statistics is a prerequisite. Courses in theory of probability and statistics are highly desirable, but are not specified as minimum educational requirements because to do so would possibly exclude some applicants who would otherwise be well qualified.\n\n<b>NOTE: Failure to provide transcripts will result in you being rated ineligible for this position. All materials must be submitted by the closing date of the announcement.</b>",
+  "title": "Operations Research Analyst",
+  "validThrough": "2026-11-05"
+}

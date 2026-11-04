@@ -1,0 +1,273 @@
+# Sr./Lead Financial Institution & Policy Analyst- Reserve Bank Oversight- DCCA
+
+{
+  "title": "Sr./Lead Financial Institution & Policy Analyst- Reserve Bank Oversight- DCCA",
+  "requisition_id": "R025992",
+  "canonical_url": "https://bd.wd104.myworkdayjobsgov.com/frb/job/Federal-Reserve-Board/Sr-Lead-Financial-Institution---Policy-Analyst--Reserve-Bank-Oversight--DCCA_R025992",
+  "application_url": "https://bd.wd104.myworkdayjobsgov.com/frb/job/Federal-Reserve-Board/Sr-Lead-Financial-Institution---Policy-Analyst--Reserve-Bank-Oversight--DCCA_R025992",
+  "posted_date": "2026-11-02",
+  "posted_date_evidence": "Official Workday startDate",
+  "close_date": "2026-11-17",
+  "deadline_timezone": null,
+  "deadline_time": null,
+  "deadline_source": "https://bd.wd104.myworkdayjobsgov.com/frb/job/Federal-Reserve-Board/Sr-Lead-Financial-Institution---Policy-Analyst--Reserve-Bank-Oversight--DCCA_R025992",
+  "deadline_verified": true,
+  "early_closure_conditions": [],
+  "rolling_cutoff": null,
+  "location": "Washington, DC",
+  "remote_restrictions": "Offered DMV work location; verify telework/attendance and screening conditions in announcement.",
+  "salary": null,
+  "retrieved_at": "2026-11-04T01:27:13.427519+00:00",
+  "control_number": "R025992",
+  "fit": "Financial forecasting, capital/ROE, quantitative risk and engineering leadership overlap; federal budget/accounting/policy specialties remain attention items.",
+  "gaps": "Federal Reserve Board role: confirm the exact minimum years, domain expertise and required versus preferred qualifications against the saved official description. Unknown deadline means verify promptly; never assume open-ended hiring. Verify OMB/federal budget procedures against the exact qualification clause; not established by the baseline alone. Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.",
+  "requirements_confirmed_unmet": [],
+  "requirements_unverified": [
+    "Federal Reserve Board role: confirm the exact minimum years, domain expertise and required versus preferred qualifications against the saved official description. Unknown deadline means verify promptly; never assume open-ended hiring.",
+    "Verify OMB/federal budget procedures against the exact qualification clause; not established by the baseline alone.",
+    "Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "preferred_requirements_note": "See official qualifications/education sections; missing evidence does not establish an unmet requirement.",
+  "hiring_paths": [
+    "See Board qualifications; internship enrollment requirements remain unverified"
+  ],
+  "open_evidence": "Official announcement downloaded successfully; validThrough and native open-status evidence retained.",
+  "discovery_window": [
+    "2026-09-03",
+    "2026-11-03"
+  ]
+}
+
+## Summary
+
+Always verify and apply to jobs on the official Federal Reserve Board career site or through verified Federal Reserve Board social media channels.
+Minimum Education
+Bachelor's degree or equivalent experience
+Minimum Experience
+6
+Summary
+Senior Financial Institution and Policy Analysts work under limited guidance to design and conduct in-depth analyses on quantitative and qualitative data. Serve as the project or team leader for Section, Division, Board, or system initiatives. May also serve as Board liaison or representative in consulting/collaborating with domestic agencies, international authorities, and/or standard-setting bodies. Prepare and deliver communications including presentations and recommendations to others in the Section/Division and/or to external stakeholders. Act as recognized domain experts within the Division. Some travel is required.
+Duties and Responsibilities
+Senior Financial Institution and Policy Analysts perform the following responsibilities with limited guidance:
+Lead and perform quantitative and/or qualitative analyses in support of FRB mission, Division goals, and Section objectives
+Prepare and deliver clear, accurate and concise communication orally and in writing
+Serve as Board liaisons or representatives in consulting/collaborating with domestic agencies/international authorities/standard-setting bodies
+Serve as project or team leaders for Section, Division, Board, or system initiatives
+Provide guidance and mentorship to new or junior staff
+Contribute to and advise on discussions and analyses across the Board
+Act as the recognized domain expert within Division
+Senior Financial Institution and Policy Analysts at the Federal Reserve Board may play many roles related to their jobs. They are responsible for a combination of the following roles:
+Data Analysis
+• Lead production of charts, graphs, and other visuals to help analyze data
+• Identify relevant issues and trends and draw conclusions through analysis of quantitative and qualitative data
+• Identify data that can be used to analyze policy
+Examination and Supervision
+• Lead examinations and reviews
+• Implement supervision and/or oversight policies and/or programs
+Financial Analysis
+• Lead analyses of financial, regulatory, and compliance data and information in support of Division/Section's area of responsibility
+• Clearly present analyses of financial, regulatory, and compliance data
+• Identify relevant issues and trends and draw conclusions through analysis of financial, regulatory, and compliance data
+Policy
+• Interpret and/or implement policy, regulation, and/or guidance
+• Draft and review policy recommendations supported by logical reasoning and sound analysis
+Risk Management
+• Identify and analyze emerging risks in financial institutions and markets, and/or for consumers and communities
+• Apply appropriate risk management frameworks and policies to support oversight of financial institutions
+About the Role
+The Reserve Bank Oversight function promotes effective consumer compliance supervision by overseeing Reserve Bank implementation of the Board’s programs and policies for supervising and enforcing federal consumer protection statutes and regulations.
+Analysts will be expected to:
+Support, review, and evaluate Reserve Bank performance in implementing the Board’s consumer compliance supervision policies and procedures
+Lead projects related to consumer compliance supervision and regulations, which may require substantial data and information gathering and analysis
+Present work results to Board and Reserve Bank officials, as well as other regulatory agencies.
+FR-27:  A bachelor’s degree in finance, accounting, economics, business administration or public policy or another related field or an equivalent experience and a minimum of six years of work experience in consumer compliance, such as within the financial services industry or a bank regulatory agency.
+Must be able to immediately contribute to the success of responsibilities outlined  and serve as an advisor to others.
+FR-28: A bachelor’s degree in finance, accounting, economics, business administration or public policy or another related field or an equivalent experience and a minimum of eight years of work experience in consumer compliance, such as within the financial services industry or a bank regulatory agency.
+Must demonstrate expertise in the responsibilities outlined and be capable of leading and teaching others.
+Required Skills/Experience
+Must have consumer compliance banking experience
+Possess extensive knowledge of consumer banking laws and regulations and consumer banking practices and operations, including, but not limited to, the Community Reinvestment Act, the Truth in Lending Act, Real Estate Settlement Procedures Act, Equal Credit Opportunity Act, the Fair Housing Act, Unfair or Deceptive Acts or Practices, Home Mortgage Disclosure Act, Biggert-Waters Act, the Truth in Savings Act, and the Privacy Act.
+Knowledge of existing procedures, rules, and policies of the Federal Reserve System and of the other financial regulators is strongly preferred.
+Experience dealing with consumer affairs and other banking matters and knowledge of Federal Reserve consumer compliance programs is strongly preferred
+Ability to work independently and produce products requiring minimal change or revision.
+Demonstrate the initiative, sound judgment, and knowledge necessary to identify, analyze, and resolve complex and unique consumer compliance and regulatory matters, producing related written work products, with limited direction.
+Excellent analytical, interpersonal, and oral and written communications skills
+Notes
+This position requires an onsite presence at our offices in Washington, D.C.
+Some domestic travel is required- approximately 2-4x a year.
+A writing sample may be required.
+Job Type:Regular
+Job Exempt:Yes
+Relocation Provided:
+Yes
+Compensation Grade(s):FR PAY GRADE 27 - FR PAY GRADE 28
+Pay:$140,500-$210,500
+Rehabilitation Act
+The Board complies with the Rehabilitation Act of 1973, as amended, and provides job applicants with disabilities reasonable accommodations to assist them in applying for jobs at the Board.  If you have a disability and would like to request an accommodation in order to apply for a job at the Board, please call 202-452-3880 or e-mail FRBRecruiting@frb.gov.
+Equal Opportunity Employer
+We are an Equal Opportunity Employer and do not discriminate against any employee or applicant for employment on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, genetic information, or application, membership, or service in the uniformed services.
+Privacy
+You may review the Federal Reserve Board's Privacy Act Notice at https://www.federalreserve.gov/careers/files/fr1273.pdf.
+Paperwork Reduction Act
+OMB No. 7100-0181
+Approval Expires October 31, 2029
+Public reporting burden for this collection of information is estimated to average 0.26-0.71 hours per response, including the time to gather and maintain data in the required form and to review instructions and complete the information collection. Send comments regarding this burden estimate or any other aspect of this collection of information, including suggestions for reducing this burden to: Secretary, Board of Governors of the Federal Reserve System, Washington, DC 20551; and to the Office of Management and Budget, Paperwork Reduction Project (7100–0181), Washington, DC 20503. The Federal Reserve may not conduct or sponsor, and an organization (or a person) is not required to respond to a collection of information unless it displays a currently valid OMB control number.
+
+## Duties
+
+
+
+## Qualifications
+
+Always verify and apply to jobs on the official Federal Reserve Board career site or through verified Federal Reserve Board social media channels.
+Minimum Education
+Bachelor's degree or equivalent experience
+Minimum Experience
+6
+Summary
+Senior Financial Institution and Policy Analysts work under limited guidance to design and conduct in-depth analyses on quantitative and qualitative data. Serve as the project or team leader for Section, Division, Board, or system initiatives. May also serve as Board liaison or representative in consulting/collaborating with domestic agencies, international authorities, and/or standard-setting bodies. Prepare and deliver communications including presentations and recommendations to others in the Section/Division and/or to external stakeholders. Act as recognized domain experts within the Division. Some travel is required.
+Duties and Responsibilities
+Senior Financial Institution and Policy Analysts perform the following responsibilities with limited guidance:
+Lead and perform quantitative and/or qualitative analyses in support of FRB mission, Division goals, and Section objectives
+Prepare and deliver clear, accurate and concise communication orally and in writing
+Serve as Board liaisons or representatives in consulting/collaborating with domestic agencies/international authorities/standard-setting bodies
+Serve as project or team leaders for Section, Division, Board, or system initiatives
+Provide guidance and mentorship to new or junior staff
+Contribute to and advise on discussions and analyses across the Board
+Act as the recognized domain expert within Division
+Senior Financial Institution and Policy Analysts at the Federal Reserve Board may play many roles related to their jobs. They are responsible for a combination of the following roles:
+Data Analysis
+• Lead production of charts, graphs, and other visuals to help analyze data
+• Identify relevant issues and trends and draw conclusions through analysis of quantitative and qualitative data
+• Identify data that can be used to analyze policy
+Examination and Supervision
+• Lead examinations and reviews
+• Implement supervision and/or oversight policies and/or programs
+Financial Analysis
+• Lead analyses of financial, regulatory, and compliance data and information in support of Division/Section's area of responsibility
+• Clearly present analyses of financial, regulatory, and compliance data
+• Identify relevant issues and trends and draw conclusions through analysis of financial, regulatory, and compliance data
+Policy
+• Interpret and/or implement policy, regulation, and/or guidance
+• Draft and review policy recommendations supported by logical reasoning and sound analysis
+Risk Management
+• Identify and analyze emerging risks in financial institutions and markets, and/or for consumers and communities
+• Apply appropriate risk management frameworks and policies to support oversight of financial institutions
+About the Role
+The Reserve Bank Oversight function promotes effective consumer compliance supervision by overseeing Reserve Bank implementation of the Board’s programs and policies for supervising and enforcing federal consumer protection statutes and regulations.
+Analysts will be expected to:
+Support, review, and evaluate Reserve Bank performance in implementing the Board’s consumer compliance supervision policies and procedures
+Lead projects related to consumer compliance supervision and regulations, which may require substantial data and information gathering and analysis
+Present work results to Board and Reserve Bank officials, as well as other regulatory agencies.
+FR-27:  A bachelor’s degree in finance, accounting, economics, business administration or public policy or another related field or an equivalent experience and a minimum of six years of work experience in consumer compliance, such as within the financial services industry or a bank regulatory agency.
+Must be able to immediately contribute to the success of responsibilities outlined  and serve as an advisor to others.
+FR-28: A bachelor’s degree in finance, accounting, economics, business administration or public policy or another related field or an equivalent experience and a minimum of eight years of work experience in consumer compliance, such as within the financial services industry or a bank regulatory agency.
+Must demonstrate expertise in the responsibilities outlined and be capable of leading and teaching others.
+Required Skills/Experience
+Must have consumer compliance banking experience
+Possess extensive knowledge of consumer banking laws and regulations and consumer banking practices and operations, including, but not limited to, the Community Reinvestment Act, the Truth in Lending Act, Real Estate Settlement Procedures Act, Equal Credit Opportunity Act, the Fair Housing Act, Unfair or Deceptive Acts or Practices, Home Mortgage Disclosure Act, Biggert-Waters Act, the Truth in Savings Act, and the Privacy Act.
+Knowledge of existing procedures, rules, and policies of the Federal Reserve System and of the other financial regulators is strongly preferred.
+Experience dealing with consumer affairs and other banking matters and knowledge of Federal Reserve consumer compliance programs is strongly preferred
+Ability to work independently and produce products requiring minimal change or revision.
+Demonstrate the initiative, sound judgment, and knowledge necessary to identify, analyze, and resolve complex and unique consumer compliance and regulatory matters, producing related written work products, with limited direction.
+Excellent analytical, interpersonal, and oral and written communications skills
+Notes
+This position requires an onsite presence at our offices in Washington, D.C.
+Some domestic travel is required- approximately 2-4x a year.
+A writing sample may be required.
+Job Type:Regular
+Job Exempt:Yes
+Relocation Provided:
+Yes
+Compensation Grade(s):FR PAY GRADE 27 - FR PAY GRADE 28
+Pay:$140,500-$210,500
+Rehabilitation Act
+The Board complies with the Rehabilitation Act of 1973, as amended, and provides job applicants with disabilities reasonable accommodations to assist them in applying for jobs at the Board.  If you have a disability and would like to request an accommodation in order to apply for a job at the Board, please call 202-452-3880 or e-mail FRBRecruiting@frb.gov.
+Equal Opportunity Employer
+We are an Equal Opportunity Employer and do not discriminate against any employee or applicant for employment on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, genetic information, or application, membership, or service in the uniformed services.
+Privacy
+You may review the Federal Reserve Board's Privacy Act Notice at https://www.federalreserve.gov/careers/files/fr1273.pdf.
+Paperwork Reduction Act
+OMB No. 7100-0181
+Approval Expires October 31, 2029
+Public reporting burden for this collection of information is estimated to average 0.26-0.71 hours per response, including the time to gather and maintain data in the required form and to review instructions and complete the information collection. Send comments regarding this burden estimate or any other aspect of this collection of information, including suggestions for reducing this burden to: Secretary, Board of Governors of the Federal Reserve System, Washington, DC 20551; and to the Office of Management and Budget, Paperwork Reduction Project (7100–0181), Washington, DC 20503. The Federal Reserve may not conduct or sponsor, and an organization (or a person) is not required to respond to a collection of information unless it displays a currently valid OMB control number.
+
+## Education
+
+See official minimum education and qualifications in description.
+
+## Full rendered official announcement
+
+Always verify and apply to jobs on the official Federal Reserve Board career site or through verified Federal Reserve Board social media channels.
+Minimum Education
+Bachelor's degree or equivalent experience
+Minimum Experience
+6
+Summary
+Senior Financial Institution and Policy Analysts work under limited guidance to design and conduct in-depth analyses on quantitative and qualitative data. Serve as the project or team leader for Section, Division, Board, or system initiatives. May also serve as Board liaison or representative in consulting/collaborating with domestic agencies, international authorities, and/or standard-setting bodies. Prepare and deliver communications including presentations and recommendations to others in the Section/Division and/or to external stakeholders. Act as recognized domain experts within the Division. Some travel is required.
+Duties and Responsibilities
+Senior Financial Institution and Policy Analysts perform the following responsibilities with limited guidance:
+Lead and perform quantitative and/or qualitative analyses in support of FRB mission, Division goals, and Section objectives
+Prepare and deliver clear, accurate and concise communication orally and in writing
+Serve as Board liaisons or representatives in consulting/collaborating with domestic agencies/international authorities/standard-setting bodies
+Serve as project or team leaders for Section, Division, Board, or system initiatives
+Provide guidance and mentorship to new or junior staff
+Contribute to and advise on discussions and analyses across the Board
+Act as the recognized domain expert within Division
+Senior Financial Institution and Policy Analysts at the Federal Reserve Board may play many roles related to their jobs. They are responsible for a combination of the following roles:
+Data Analysis
+• Lead production of charts, graphs, and other visuals to help analyze data
+• Identify relevant issues and trends and draw conclusions through analysis of quantitative and qualitative data
+• Identify data that can be used to analyze policy
+Examination and Supervision
+• Lead examinations and reviews
+• Implement supervision and/or oversight policies and/or programs
+Financial Analysis
+• Lead analyses of financial, regulatory, and compliance data and information in support of Division/Section's area of responsibility
+• Clearly present analyses of financial, regulatory, and compliance data
+• Identify relevant issues and trends and draw conclusions through analysis of financial, regulatory, and compliance data
+Policy
+• Interpret and/or implement policy, regulation, and/or guidance
+• Draft and review policy recommendations supported by logical reasoning and sound analysis
+Risk Management
+• Identify and analyze emerging risks in financial institutions and markets, and/or for consumers and communities
+• Apply appropriate risk management frameworks and policies to support oversight of financial institutions
+About the Role
+The Reserve Bank Oversight function promotes effective consumer compliance supervision by overseeing Reserve Bank implementation of the Board’s programs and policies for supervising and enforcing federal consumer protection statutes and regulations.
+Analysts will be expected to:
+Support, review, and evaluate Reserve Bank performance in implementing the Board’s consumer compliance supervision policies and procedures
+Lead projects related to consumer compliance supervision and regulations, which may require substantial data and information gathering and analysis
+Present work results to Board and Reserve Bank officials, as well as other regulatory agencies.
+FR-27:  A bachelor’s degree in finance, accounting, economics, business administration or public policy or another related field or an equivalent experience and a minimum of six years of work experience in consumer compliance, such as within the financial services industry or a bank regulatory agency.
+Must be able to immediately contribute to the success of responsibilities outlined  and serve as an advisor to others.
+FR-28: A bachelor’s degree in finance, accounting, economics, business administration or public policy or another related field or an equivalent experience and a minimum of eight years of work experience in consumer compliance, such as within the financial services industry or a bank regulatory agency.
+Must demonstrate expertise in the responsibilities outlined and be capable of leading and teaching others.
+Required Skills/Experience
+Must have consumer compliance banking experience
+Possess extensive knowledge of consumer banking laws and regulations and consumer banking practices and operations, including, but not limited to, the Community Reinvestment Act, the Truth in Lending Act, Real Estate Settlement Procedures Act, Equal Credit Opportunity Act, the Fair Housing Act, Unfair or Deceptive Acts or Practices, Home Mortgage Disclosure Act, Biggert-Waters Act, the Truth in Savings Act, and the Privacy Act.
+Knowledge of existing procedures, rules, and policies of the Federal Reserve System and of the other financial regulators is strongly preferred.
+Experience dealing with consumer affairs and other banking matters and knowledge of Federal Reserve consumer compliance programs is strongly preferred
+Ability to work independently and produce products requiring minimal change or revision.
+Demonstrate the initiative, sound judgment, and knowledge necessary to identify, analyze, and resolve complex and unique consumer compliance and regulatory matters, producing related written work products, with limited direction.
+Excellent analytical, interpersonal, and oral and written communications skills
+Notes
+This position requires an onsite presence at our offices in Washington, D.C.
+Some domestic travel is required- approximately 2-4x a year.
+A writing sample may be required.
+Job Type:Regular
+Job Exempt:Yes
+Relocation Provided:
+Yes
+Compensation Grade(s):FR PAY GRADE 27 - FR PAY GRADE 28
+Pay:$140,500-$210,500
+Rehabilitation Act
+The Board complies with the Rehabilitation Act of 1973, as amended, and provides job applicants with disabilities reasonable accommodations to assist them in applying for jobs at the Board.  If you have a disability and would like to request an accommodation in order to apply for a job at the Board, please call 202-452-3880 or e-mail FRBRecruiting@frb.gov.
+Equal Opportunity Employer
+We are an Equal Opportunity Employer and do not discriminate against any employee or applicant for employment on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, genetic information, or application, membership, or service in the uniformed services.
+Privacy
+You may review the Federal Reserve Board's Privacy Act Notice at https://www.federalreserve.gov/careers/files/fr1273.pdf.
+Paperwork Reduction Act
+OMB No. 7100-0181
+Approval Expires October 31, 2029
+Public reporting burden for this collection of information is estimated to average 0.26-0.71 hours per response, including the time to gather and maintain data in the required form and to review instructions and complete the information collection. Send comments regarding this burden estimate or any other aspect of this collection of information, including suggestions for reducing this burden to: Secretary, Board of Governors of the Federal Reserve System, Washington, DC 20551; and to the Office of Management and Budget, Paperwork Reduction Project (7100–0181), Washington, DC 20503. The Federal Reserve may not conduct or sponsor, and an organization (or a person) is not required to respond to a collection of information unless it displays a currently valid OMB control number.

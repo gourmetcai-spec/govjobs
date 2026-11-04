@@ -1,0 +1,32 @@
+{
+  "@context": "http://www.schema.org",
+  "@type": "JobPosting",
+  "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": {
+      "@type": "QuantitativeValue",
+      "value": 46085.0,
+      "unitText": "YEAR"
+    }
+  },
+  "datePosted": "10/28/2026",
+  "description": "You will serve as a Financial Management Analyst in the Financial Management Department, Code 331100, Budget and Funds Management Branch of NAVAL RESEARCH LABORATORY.",
+  "educationRequirements": "In lieu of specialized experience, you may qualify with the following education or combination of both education and experience:<br>\n<br>\nBachelor's Degree<br>\nOR<br>\n4 full years of post-high school education leading to a Bachelor's degree<br>\nOR<br>\nCombination of education and experience totaling 100% of the general experienceA transcript must be submitted with your application if qualifying using education.<br>\n<br>\n<strong>A transcript must be submitted with your application if qualifying using education.</strong> See Required Documents for additional information.",
+  "employmentType": "OTHER",
+  "hiringOrganization": "NAVAL RESEARCH LABORATORY",
+  "jobLocation": [
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Naval Research Laboratory",
+        "addressRegion": "DC "
+      }
+    }
+  ],
+  "responsibilities": "",
+  "qualifications": "Your resume must demonstrate at least 3 years of general experience, one of which is equivalent to the next lower pay band (NO-01) or GS equivalent (GS-1/4) in the federal service or equivalent experience in the private or public sector performing the following duties: 1) Analyzing problems to identify significant factors, gather pertinent data, and recognize solutions; 2) Planning and organizing work; and 3) Communicating effectively orally and in writing.<br>\n<br>\nAdditional qualification information can be found from the following Office of Personnel Management web site: <a href=\"https://www.opm.gov/policy-data-oversight/classification-qualifications/general-schedule-qualification-standards/#url=List-by-Occupational-Series\">https://www.opm.gov/policy-data-oversight/classification-qualifications/general-schedule-qualification-standards/#url=List-by-Occupational-Series</a><br>\n<br>\nExperience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., professional, philanthropic, religious, spiritual, community, student, social). Volunteer work helps build critical competencies, knowledge, and skills and can provide valuable training and experience that translates directly to paid employment.",
+  "title": "FINANCIAL MANAGEMENT ANALYST",
+  "validThrough": "2026-11-03"
+}

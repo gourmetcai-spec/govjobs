@@ -1,0 +1,87 @@
+{
+  "title": "IT Specialist (Network Services)",
+  "requisition_id": "CIO NWAVE-27-13107422-DE",
+  "canonical_url": "https://www.usajobs.gov/job/891319900",
+  "application_url": "https://www.usajobs.gov/job/891319900",
+  "posted_date": "2026-11-03",
+  "posted_date_evidence": "Official JobPosting.datePosted and native PositionStartDate",
+  "close_date": "2026-11-09",
+  "deadline_timezone": "America/New_York",
+  "deadline_time": "23:59",
+  "deadline_source": "https://www.usajobs.gov/job/891319900",
+  "deadline_verified": true,
+  "early_closure_conditions": [],
+  "rolling_cutoff": null,
+  "location": "Silver Spring, MD",
+  "remote_restrictions": "Offered DMV work location; verify telework/attendance and screening conditions in announcement.",
+  "salary": "Starting at $107,428 Per year (ZP 4)",
+  "retrieved_at": "2026-11-04T01:27:13.427519+00:00",
+  "control_number": "891319900",
+  "fit": "Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.",
+  "gaps": "Confirm the announcement-specific specialized experience, grade-equivalent scope and mandatory conditions against your actual work history. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them. Possible companion route(s): f16f4d7b8176bd05. Reconcile exact vacancy before submitting; no duplicate applications.",
+  "requirements_confirmed_unmet": [],
+  "requirements_unverified": [
+    "Confirm the announcement-specific specialized experience, grade-equivalent scope and mandatory conditions against your actual work history.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.",
+    "Possible companion route(s): f16f4d7b8176bd05. Reconcile exact vacancy before submitting; no duplicate applications."
+  ],
+  "preferred_requirements_note": "See official qualifications/education sections; missing evidence does not establish an unmet requirement.",
+  "hiring_paths": [
+    "Open to the public",
+    "Career transition (CTAP, ICTAP, RPL)",
+    "Veterans"
+  ],
+  "open_evidence": "Official announcement downloaded successfully; validThrough and native open-status evidence retained.",
+  "discovery_window": [
+    "2026-09-03",
+    "2026-11-03"
+  ],
+  "employer": "National Oceanic and Atmospheric Administration",
+  "status": "needs_verification",
+  "aliases": [],
+  "id": "48983eef0d034601",
+  "application_directory": "applications/2026-11-03__national-oceanic-and-atmospheric-adminis__it-specialist-network-services__48983eef0d034601",
+  "step": 1,
+  "selected": false,
+  "submitted": false,
+  "artifacts": {
+    "resume_markdown": {
+      "path": "applications/2026-11-03__national-oceanic-and-atmospheric-adminis__it-specialist-network-services__48983eef0d034601/resume-xuewu-cai__national-oceanic-and-atmospheric-adminis__it-specialist-network-services__891319900.md",
+      "sha256": "a01895c73057fadf83c363218ab67bd317bd169082492bd7036e20c2fce3fa14"
+    },
+    "resume_pdf": {
+      "path": "applications/2026-11-03__national-oceanic-and-atmospheric-adminis__it-specialist-network-services__48983eef0d034601/resume-xuewu-cai__national-oceanic-and-atmospheric-adminis__it-specialist-network-services__891319900.pdf",
+      "sha256": "9f7f39d93bf50e1ad52bed5f26b28789ec04bc1b001e41ccfcec776422f98732"
+    }
+  },
+  "artifact_versions": [
+    {
+      "revision_id": "2026-11-04T01:27:13.427519+00:00",
+      "artifacts": {
+        "resume_markdown": {
+          "path": "applications/2026-11-03__national-oceanic-and-atmospheric-adminis__it-specialist-network-services__48983eef0d034601/resume-xuewu-cai__national-oceanic-and-atmospheric-adminis__it-specialist-network-services__891319900.md",
+          "sha256": "a01895c73057fadf83c363218ab67bd317bd169082492bd7036e20c2fce3fa14"
+        },
+        "resume_pdf": {
+          "path": "applications/2026-11-03__national-oceanic-and-atmospheric-adminis__it-specialist-network-services__48983eef0d034601/resume-xuewu-cai__national-oceanic-and-atmospheric-adminis__it-specialist-network-services__891319900.pdf",
+          "sha256": "9f7f39d93bf50e1ad52bed5f26b28789ec04bc1b001e41ccfcec776422f98732"
+        }
+      },
+      "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a"
+    }
+  ],
+  "resume_status": "prepared_with_attention",
+  "resume_review": "Two rendered pages reviewed; all 77 distinct page images inspected across seven boards covering 166 pages. Text bounds, all 20 baseline experience bullets, updated title, neutral metadata and artifact hashes passed. Candidate qualifications remain unverified.",
+  "required_answers_pending": [
+    "Confirm the announcement-specific specialized experience, grade-equivalent scope and mandatory conditions against your actual work history.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "confirmed_unmet_requirements": [],
+  "qualifications_verified": false,
+  "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a",
+  "resume_format": "restored_two_page",
+  "current_resume_naming": "unversioned",
+  "possible_companion_job_ids": [
+    "f16f4d7b8176bd05"
+  ]
+}

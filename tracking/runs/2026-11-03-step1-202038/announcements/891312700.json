@@ -1,0 +1,32 @@
+{
+  "@context": "http://www.schema.org",
+  "@type": "JobPosting",
+  "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": {
+      "@type": "QuantitativeValue",
+      "value": 169279,
+      "unitText": "YEAR"
+    }
+  },
+  "datePosted": "11/03/2026",
+  "description": "<p>Under the guidance of the Associate Administrator, incumbent serves as the Deputy Associate Administrator for Program Management (TPM) in&nbsp;the Federal Transit Administration (FTA). Works with the Associate Administrator to address the full range of delegated executive responsibilities&nbsp;for program, budget, administrative and personnel activities. Serves as a key official for allocation of funds for transit assistance; development&nbsp;and dissemination of program guidance; and grant management.</p>",
+  "educationRequirements": "",
+  "employmentType": "OTHER",
+  "hiringOrganization": "DOT, FEDERAL TRANSIT ADMINISTRATION",
+  "jobLocation": [
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Washington",
+        "addressRegion": "DC "
+      }
+    }
+  ],
+  "responsibilities": "<p><strong>As the Deputy Associate Administrator for the Office of Program Management, you will: </strong></p>\n<ul>\n<li>Direct complex national transit programs, resource allocation, and program and project management nationwide.</li>\n<li>Serve as a recognized technical authority on federal transit legislation, interpreting broadly stated statutes and formulating nationwide program guidance.</li>\n<li>Manage human and physical resources, evaluating performance, and guiding subordinate supervisors.</li>\n</ul>\n<p>The <strong>ideal candidate</strong> is a dynamic, strategic executive with experience in federal transportation programs, large-scale capital project oversight, and financial stewardship under 49 U.S.C. Chapter 53. The ideal candidate also has strong analytical, strategic planning, and communication skills.&nbsp;Experience in the oversight and analysis of transportation policy, programs or procedures is desirable.</p>",
+  "qualifications": "<p>To meet the minimum qualifications for this position, you must meet the specialized experience qualifications for the grade at which you are requesting consideration.</p>\n<p><strong>To qualify for the Grade 15</strong>, you must have at least one year of specialized experience equal or equivalent to the GS-14, it must include:</p>\n<ul>\n<li>Experience with the Federal Transit Act and regulatory grant program administrative requirements.</li>\n<li>Experience communicating effectively, both orally and in writing, with internal &amp; external stakeholders; ability to persuade, present, and defend programs, and prepare and execute briefings (formal and informal/ad hoc) to senior leaders on key topics.</li>\n<li>Experience managing and directing one or more major programs preferably in a transportation industry.</li>\n</ul>\n<p><strong>KNOWLEDGE, SKILLS AND ABILITIES (KSAs):&nbsp;</strong> Your qualifications will be evaluated on the basis of your level of knowledge, skills, abilities and/or competencies in the following areas:</p>\n<ol>\n<li><strong>Communication </strong>- Expresses information to individuals or groups effectively both orally and in writing, taking into account the audience and nature of the information (for example, technical, sensitive, controversial); makes clear and convincing oral presentations; listens to others, attends to nonverbal cues, and responds appropriately.</li>\n<li><strong>Program and Project Management Oversight</strong> - Experience with the principles, methods, or tools for developing, scheduling, coordinating, and managing projects and program.</li>\n<li><strong>Managing Human Resources</strong> - Plans, distributes, coordinates, and monitors work assignments of others; evaluates work performance and provides feedback to others on their performance; ensures that staff are appropriately selected, utilized, and developed, and that they are treated in a fair and equitable manner.</li>\n<li><strong>Strategic Thinking </strong>- Formulates effective strategies consistent with the business and competitive strategy of the organization in a&nbsp;global economy. Examine policy issues and strategic planning with a long-term perspective. Determines objectives and sets priorities;&nbsp;anticipates potential threats or opportunities.</li>\n</ol>\n<p>For all types of consideration, experience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., Peace Corps, AmeriCorps) and other organizations (e.g., professional, philanthropic, religious, spiritual, community, student, social). &nbsp;Volunteer work helps build critical competencies, knowledge, and skills and can provide valuable training and experience that translates directly to paid employment. &nbsp;You will receive credit for all qualifying experience, including volunteer experience.</p>\n<p><strong>For additional information about applying to Federal positions, please click on the following link: https://www.opm.gov/policy-data-oversight/classification-qualifications/general-schedule-qualification-policies/#url=e4</strong></p>\n<p><strong>All applicants must meet all qualification requirements by the closing date of this announcement.</strong></p>",
+  "title": "Deputy Associate Administer for the Office of Program Management - EXCEPTED SERVICE",
+  "validThrough": "2026-11-10"
+}

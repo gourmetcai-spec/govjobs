@@ -1,0 +1,32 @@
+{
+  "@context": "http://www.schema.org",
+  "@type": "JobPosting",
+  "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": {
+      "@type": "QuantitativeValue",
+      "value": 121785.0,
+      "unitText": "YEAR"
+    }
+  },
+  "datePosted": "10/30/2026",
+  "description": "This is a public notice flyer to notify interested applicants of anticipated vacancies. Applications will not be accepted through this flyer. Interested applicants must follow the directions in the \"How to Apply\" section of this flyer to be considered. There may or may not be actual vacancies filled from this flyer. Notice of Result letters will not be sent to applicants who respond to this flyer.<br>",
+  "educationRequirements": "<strong>N/A</strong><br>\n<br>",
+  "employmentType": "OTHER",
+  "hiringOrganization": "NAVY CYBER WARFARE DEVELOPMENT GROUP",
+  "jobLocation": [
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Fort Meade",
+        "addressRegion": "MD "
+      }
+    }
+  ],
+  "responsibilities": "",
+  "qualifications": "Your resume must demonstrate at least one year of specialized experience at or equivalent to the next lower grade level (GG/GS-12) or pay band in the Federal service or equivalent experience in the private or public sector, such as:\n<ol>\n\t<li>Provides expert advice and guidance on integrating financial management rules and regulations into spend plan development. </li>\n\t<li>Applies advanced analytical techniques to financial data, including detailed reviews of budget requirements. </li>\n\t<li>Exercises sound technical judgment to resolve complex financial management and funding issues. </li>\n\t<li>Utilizes analytical tools and accepted accounting principles to monitor incoming funds and reconcile contracts. </li>\n\t<li>Inputs documents, tracks execution, and monitors invoice postings within Navy Enterprise Resource Planning (Navy ERP) and Defense Agencies Initiative (DAI) financial systems.</li>\n</ol>\n<br>\nAdditional qualification information can be found from the following Office of Personnel Management website:<br>\n<a href=\"http://https://www.opm.gov/policy-data-oversight/classification-qualifications/general-schedule-qualification-standards/#url=List-by-Occupational-Series\">https://www.opm.gov/policy-data-oversight/classification-qualifications/general-schedule-qualification-standards/#url=List-by-Occupational-Series</a><br>\n<br>\nAdditional qualification information can be found from the following DON DCIPS policy website: <a href=\"https://www.secnav.navy.mil/doni/Naval%20Intelligence%20Activity/Chapter%205%20-%20Employment%20and%20Placement.pdf\">https://www.secnav.navy.mil/doni/Naval%20Intelligence%20Activity/Chapter%205%20-%20Employment%20and%20Placement.pdf</a><br>\n<br>\nExperience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., professional, philanthropic, religious, spiritual, community, student, social). Volunteer work helps build critical competencies, knowledge, and skills and can provide valuable training and experience that translates directly to paid employment.",
+  "title": "FINANCIAL MANAGEMENT ANALYST",
+  "validThrough": "2026-11-05"
+}

@@ -1,0 +1,32 @@
+{
+  "@context": "http://www.schema.org",
+  "@type": "JobPosting",
+  "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": {
+      "@type": "QuantitativeValue",
+      "value": 121785.0,
+      "unitText": "YEAR"
+    }
+  },
+  "datePosted": "11/02/2026",
+  "description": "You will serve as a SUPERVISORY PROGRAM ANALYST (PROGRAM MANAGER) in the SUSTAINMENT GROUP, WEAPONS INTEGRATION LOGISTICS DEPT, TOTAL ASSET VIS DIV of NAVAIRWARCENWPNDIV CHINA LAKE.",
+  "educationRequirements": "This job does not have an education qualification requirement.",
+  "employmentType": "OTHER",
+  "hiringOrganization": "NAVAIRWARCENWPNDIV CHINA LAKE",
+  "jobLocation": [
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Patuxent River",
+        "addressRegion": "MD "
+      }
+    }
+  ],
+  "responsibilities": "",
+  "qualifications": "Your resume must demonstrate at least one year of specialized experience at or equivalent to the NM-03 pay band in the Federal service or equivalent experience in the private or public sector. Specialized experience must demonstrate some or all of the following: 1) Planning, developing, implementing, and managing asset visibility and audit strategies and related policies and procedures for weapon systems or other complex programs in accordance with DoW/SECNAV/OPNAV requirements; 2) Managing government property and materials, maintaining accountable records in Navy ERP (or similar system) from procurement through disposition, and supporting audit readiness activities; 3) Conducting management analyses; reviewing and providing input to contracts, Statements Of Works (SOW), and Reports for accountability and auditability; and applying asset visibility and audit techniques to support acquisition and logistics support; 4) Supervising or leading staff (e.g., performance management, approving timecards, training, and travel) and coordinating property-related data calls and audits with program offices and external stakeholders.<br>\n<br>\nAdditional qualification information can be found from the following Office of Personnel Management web site: <a href=\"https://www.opm.gov/policy-data-oversight/classification-qualifications/general-schedule-qualification-standards/#url=List-by-Occupational-Series\">https://www.opm.gov/policy-data-oversight/classification-qualifications/general-schedule-qualification-standards/#url=List-by-Occupational-Series</a><br>\n<br>\nExperience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., professional, philanthropic, religious, spiritual, community, student, social). Volunteer work helps build critical competencies, knowledge, and skills and can provide valuable training and experience that translates directly to paid employment.",
+  "title": "SUPERVISORY PROGRAM ANALYST (PROGRAM MANAGER)",
+  "validThrough": "2026-11-09"
+}

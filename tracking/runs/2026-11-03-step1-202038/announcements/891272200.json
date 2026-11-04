@@ -1,0 +1,304 @@
+{
+  "@context": "http://www.schema.org",
+  "@type": "JobPosting",
+  "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": {
+      "@type": "QuantitativeValue",
+      "value": 50460.0,
+      "unitText": "YEAR"
+    }
+  },
+  "datePosted": "11/03/2026",
+  "description": "The Recent Graduates Program is a dynamic, one-year developmental program that promotes careers in the Federal Government to recent graduates. Participants in the Program receive training and professional development, complete an Individual Development Plan (IDP), and are assigned a mentor. Recent Graduates who successfully complete Program requirements may be eligible for non-competitive conversion to a term or permanent position in the civil service.",
+  "educationRequirements": "<strong>You MUST submit at least one of the following:</strong>\n<ul>\n\t<li>Copy of your Transcripts or equivalent; or</li>\n\t<li>Certificate as Certified Public Accountant (CPA); or</li>\n\t<li>Certified Internal Auditor (CIA)</li>\n</ul>\n<b>Basic Education Requirements for the 510 series:</b>\n\n<ul>\n\t<li><b>Degree:</b> Bachelor in accounting; or a Bachelor degree in a related field such as business administration, finance, or public administration that included or was supplemented by 24 semester hours in accounting. The 24 hours may include up to 6 hours of credit in business law. (The term \"accounting\" means \"accounting and/or auditing\" in this standard. Similarly, \"accountant\" should be interpreted, generally, as \"accountant and/or auditor.\")</li>\n</ul>\nOR\n\n<ul>\n\t<li><b>Combination of education and experience:</b> at least 4 years of experience in accounting, or an equivalent combination of accounting experience, college-level education, and training that provided professional accounting knowledge. The applicant's background must also include <i>one </i>of the following:\n\n\t<ol>\n\t\t<li>Twenty-four semester hours in accounting or auditing courses of appropriate type and quality. This can include up to 6 hours of business law;</li>\n\t\t<li>A certificate as Certified Public Accountant or a Certified Internal Auditor, obtained through written examination; or</li>\n\t\t<li>Completion of the requirements for a degree that included substantial course work in accounting or auditing, e.g., 15 semester hours (not including business law), but that does not fully satisfy the 24-semester-hour requirement of paragraph A, provided that: (a) the applicant has successfully worked at the full-performance level in accounting, auditing, or a related field, e.g., valuation engineering or financial institution examining; (b) a panel of at least two higher level professional accountants or auditors has determined that the applicant has demonstrated a good knowledge of accounting and of related and underlying fields that equals in breadth, depth, currency, and level of advancement that which is normally associated with successful completion of the 4-year course of study described in paragraph A; and (c) except for literal nonconformance to the requirement of 24 semester hours in accounting, the applicant's education, training, and experience fully meet the specified requirements.</li>\n\t</ol>\n\t</li>\n</ul>\n<strong>FOREIGN EDUCATION:</strong> Education completed in foreign colleges or universities may be used to meet the requirements. You must show proof the education credentials have been deemed to be at least equivalent to that gained in a conventional U.S. education program. It is your responsibility to provide such evidence when applying. For special instructions pertaining to foreign education and a list of organizations that can evaluate foreign education, see <a href=\"https://www.ed.gov/about/initiatives/international-affairs/recognition-of-foreign-qualifications\" target=\"_blank\" title=\"http://go.usa.gov/29DP\">the Department of Education website.</a> <strong>If you are qualifying on foreign education, you MUST submit proof of creditability of education as evaluated by a credentialing agency.</strong> Refer to <a href=\"https://www.opm.gov/policy-data-oversight/classification-qualifications/general-schedule-qualification-policies/\">OPM Instructions</a>.\n\n<p><strong>What constitutes a valid certificate program: </strong>The Pathways Programs regulation (see 5 CFR 362.102) defines certificate program as post-secondary education at either:</p>\n\n<ul>\n\t<li>A qualifying educational institution (trade or vocational school, 2-year or 4-year college or university, or graduate or professional school) <em>equivalent to at least one academic year of full-time study </em>that is part of an accredited college-level, technical, trade, vocational, or business school curriculum.; OR</li>\n\t<li>A qualifying career or technical education program of at least one year that awards a recognized postsecondary credential.</li>\n</ul>\n\n<p><strong>What types of programs would meet the eligibility criteria for a qualifying career or technical education program?</strong></p>\n\n<p>Three types of programs meet these criteria:</p>\n\n<ul>\n\t<li>Federally administered educational programs that provide rigorous academic content, technical skill proficiency, and a recognized postsecondary credential to prepare the individual for further education and/or a career in a current or emerging profession.;</li>\n\t<li>Registered Apprenticeship Programs; and</li>\n\t<li>Federally administered local, state, national, or international volunteer service programs.</li>\n</ul>\n\n<p><strong>What is a Federally administered career or technical education program?</strong></p>\n\n<p>A Federally administered career or technical education program is subject to programmatic oversight by a federal agency that includes:</p>\n\n<ul>\n\t<li>The nature and scope of work to be performed by participants,</li>\n\t<li>The type(s) and scope of training to be provided to participants,</li>\n\t<li>The types of skills participants will acquire or develop during the program (e.g., teaching, environmental, business, scientific, public health/health care, languages),</li>\n\t<li>The level and extent of mentoring participants will receive, and</li>\n\t<li>The metrics for successful completion of the program.</li>\n\t<li>Programmatic oversight may be reflected in partnership or cooperative agreements.</li>\n</ul>",
+  "employmentType": "OTHER",
+  "hiringOrganization": "Office of the Chief Human Capital Officer",
+  "jobLocation": [
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Anchorage",
+        "addressRegion": "AK "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Berkeley",
+        "addressRegion": "CA "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Menlo Park",
+        "addressRegion": "CA "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Golden",
+        "addressRegion": "CO "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Grand Junction",
+        "addressRegion": "CO "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Westminster",
+        "addressRegion": "CO "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Washington",
+        "addressRegion": "DC "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Ames",
+        "addressRegion": "IA "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Idaho Falls",
+        "addressRegion": "ID "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Chicago",
+        "addressRegion": "IL "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Lemont",
+        "addressRegion": "IL "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Warrenville",
+        "addressRegion": "IL "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Lexington",
+        "addressRegion": "KY "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Paducah",
+        "addressRegion": "KY "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "New Orleans",
+        "addressRegion": "LA "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Germantown",
+        "addressRegion": "MD "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Weldon Spring",
+        "addressRegion": "MO "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Plainsboro",
+        "addressRegion": "NJ "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Albuquerque",
+        "addressRegion": "NM "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Carlsbad",
+        "addressRegion": "NM "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Los Alamos",
+        "addressRegion": "NM "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Las Vegas",
+        "addressRegion": "NV "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Upton",
+        "addressRegion": "NY "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "West Valley",
+        "addressRegion": "NY "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Cincinnati",
+        "addressRegion": "OH "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Piketon",
+        "addressRegion": "OH "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Portsmouth",
+        "addressRegion": "OH "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Albany",
+        "addressRegion": "OR "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Pittsburgh",
+        "addressRegion": "PA "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Aiken",
+        "addressRegion": "SC "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Oak Ridge",
+        "addressRegion": "TN "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Moab",
+        "addressRegion": "UT "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Hanford",
+        "addressRegion": "WA "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Richland",
+        "addressRegion": "WA "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Morgantown",
+        "addressRegion": "WV "
+      }
+    }
+  ],
+  "responsibilities": "<p><strong>This position offers varying full performance levels (e.g., GS-11, GS-12, or GS-13 equivalent) depending on the specific needs of the selecting Program Office. Further details regarding specific grade levels and responsibilities will be discussed during the interview process.</strong></p>\n\n<p><strong>As a GS-7 Accountant you will:</strong></p>\n\n<ul>\n\t<li>Reconcile differences among the automated accounting system's General Ledger, and other subsidiary data modules and accounting records, and initiates corrective actions.</li>\n\t<li>Create queries and comparison reports that identify the source of information and highlight the variances to expedite the reconciliation processes under direction of the supervisor or senior accountant.</li>\n\t<li>Formulate corrective actions and process improvements and institutes as required.</li>\n\t<li>Assist in the enhancement, adaptation, installation, conversion, evaluation and/or modification of accounting systems by testing various systems functionality.</li>\n</ul>\n<strong>As a GS-9 Accountant you will:</strong>\n\n<ul>\n\t<li>Analyze and reconcile accounting/financial data and information, review and identify errors related to the preparation of financial statements, consolidated financial statements, and any special managerial reporting.</li>\n\t<li>Monitor accounting systems elements and internal controls, identifying problem areas in accounting and financial management effectiveness.</li>\n\t<li>Perform automated accounting and financial systems assignments that require the solution of accounting problems to support the production of consistent, quality financial information and reports.</li>\n\t<li>Participate in special projects to analyze accounting data to ensure that information accurately reflects the financial condition of the assigned organization.</li>\n</ul>\n<strong>Please note there may be many vacancies that may be filled in any of the below locations. This is NOT a remote position. You will have to report to the duty station you are selected for. Please select the top 2 locations you are willing to report to and/or relocate to.</strong>",
+  "qualifications": "<p><strong>You must meet the eligibility and qualifications within 2 months of the closing date of this announcement.<br>\n<br>\nTo be eligible for the Pathways Recent Graduate program you must be a:</strong></p>\n\n<ul>\n\t<li>Recent graduate who has completed, within the previous two years, a qualifying associates, bachelors, masters, professional, doctorate, vocational, technical degree, or certificate from a qualifying educational institution or completed a qualifying career or technical education program that awards a recognized postsecondary credential (such as a Registered Apprenticeship Program or Job Corps).</li>\n</ul>\n<strong>-OR-</strong>\n\n<ul>\n\t<li>Student who within 2 months of the closing date of this announcement will meet the education requirements and will graduate with a qualifying associates, bachelors, masters, professional, doctorate, vocational, technical degree, or certificate from a qualifying educational institution or completed a qualifying career or technical education program. A student may not be appointed to a position until they have graduated.</li>\n</ul>\n<strong>-OR-</strong>\n\n<ul>\n\t<li>Preference eligible veterans who have been precluded from applying due to their military service obligation begin their two-year eligibility period upon release or discharge from active duty. Eligibility for these veterans cannot exceed six years after degree or certificate completion. <strong>You MUST submit a copy of the DD214 showing the duration and dates of service that precluded you from applying due to the military service obligation.</strong></li>\n</ul>\n\n<p><strong>This series does have education requirements which are listed in the Education Section. </strong><br>\n<br>\n<strong>For the GS-07: You must have one year of specialized experience at a level of difficulty and responsibility equivalent to the GS-05 grade level in the Federal Service. Specialized experience for this position at the GS-7 includes:</strong></p>\n\n<ul>\n\t<li>Assisting in identifying accounting errors.</li>\n</ul>\n\n<p>OR YOU MAY QUALIFY FOR THE GS-7 BASED ON EDUCATION: 1 year of graduate-level education. Graduate education must provide the knowledge, skills, and abilities to perform in the position.<br>\n<br>\nOR YOU MAY QUALIFY FOR THE GS-7 BASED ON SUPERIOR ACADEMIC ACHIEVEMENT: Bachelor's degree with superior academic achievement is defined as:(1) Class standing -- You must be in the upper third of the graduating class in the college, university, or major subdivision based on completed courses, (2) Grade-point average (G.P.A.) -- You must have 3.0 or higher out of a possible 4.0 based on 4 years of education, or as computed based on courses completed during the final 2 years of the curriculum OR 3.5 or higher out of a possible 4.0 based on the average of the required courses completed in the major field or the required courses in the major field completed during the final 2 years of the curriculum, or(3) Election to membership in a national scholastic honor society -- You are a member of one of the national scholastic honor societies recognized by the Association of College Honor Societies (<a href=\"https://www.achshonor.org/\">https://www.achshonor.org/</a>). The Bachelor degree must still show the knowledge, skills, and abilities to perform in this position.<br>\n<br>\nOR YOU MAY QUALIFY FOR THE GS-7 BASED ON A COMBINATION OF EDUCATION/EXPERIENCE: You may qualify on a combination of education and experience, the total percentage of experience at the required grade level compared to the specialized experience requirement, as well as the percentage of completed education compared to the educational requirement must equal at least 100 percent.<br>\n<br>\n<strong>For the GS-09: You must have one year of specialized experience at a level of difficulty and responsibility equivalent to the GS-07 grade level in the Federal Service. Specialized experience for this position at the GS-9 includes:</strong></p>\n\n<ul>\n\t<li>Assisting in identifying and resolving accounting issues.</li>\n</ul>\n\n<p>OR YOU MAY QUALIFY FOR THE GS-9 BASED ON EDUCATION: 2 years of progressively higher-level graduate education leading to a master's degree or master's or equivalent graduate degree. Graduate education must provide the knowledge, skills, and abilities to perform in the position.<br>\n<br>\nOR YOU MAY QUALIFY FOR THE GS-9 BASED ON COMBINATION: You may qualify on a combination of education and experience, the total percentage of experience at the required grade level compared to the specialized experience requirement, as well as the percentage of completed education compared to the educational requirement must equal at least 100 percent. Only graduate level education in excess of the first 18 semester hours (27 quarter hours) may be combined to be considered for qualifying education.<br>\n<br>\nEducation must be obtained from an accredited institution recognized by the U.S. Department of Education.</p>",
+  "title": "Accountant - Recent Graduate",
+  "validThrough": "2026-11-17"
+}

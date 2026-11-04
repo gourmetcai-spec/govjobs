@@ -1,0 +1,912 @@
+# Telematics Support Specialist
+
+{
+  "title": "Telematics Support Specialist",
+  "requisition_id": "SMP-13097580-CJH",
+  "canonical_url": "https://www.usajobs.gov/job/890755200",
+  "application_url": "https://www.usajobs.gov/job/890755200",
+  "posted_date": "2026-11-03",
+  "posted_date_evidence": "Official JobPosting.datePosted and native PositionStartDate",
+  "close_date": "2026-11-09",
+  "deadline_timezone": "America/New_York",
+  "deadline_time": "23:59",
+  "deadline_source": "https://www.usajobs.gov/job/890755200",
+  "deadline_verified": true,
+  "early_closure_conditions": [],
+  "rolling_cutoff": null,
+  "location": "Washington, DC",
+  "remote_restrictions": "Offered DMV work location; verify telework/attendance and screening conditions in announcement.",
+  "salary": "Starting at $89,508 Per year (GS 12)",
+  "retrieved_at": "2026-11-04T01:27:13.427519+00:00",
+  "control_number": "890755200",
+  "fit": "Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.",
+  "gaps": "Hiring-path eligibility unverified: Competitive service, Career transition (CTAP, ICTAP, RPL), Land and base management, Veterans, Military spouses. Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.",
+  "requirements_confirmed_unmet": [],
+  "requirements_unverified": [
+    "Hiring-path eligibility unverified: Competitive service, Career transition (CTAP, ICTAP, RPL), Land and base management, Veterans, Military spouses. Confirm qualifying status before application; absence from baseline is not proof of ineligibility.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "preferred_requirements_note": "See official qualifications/education sections; missing evidence does not establish an unmet requirement.",
+  "hiring_paths": [
+    "Competitive service",
+    "Career transition (CTAP, ICTAP, RPL)",
+    "Land and base management",
+    "Veterans",
+    "Military spouses"
+  ],
+  "open_evidence": "Official announcement downloaded successfully; validThrough and native open-status evidence retained.",
+  "discovery_window": [
+    "2026-09-03",
+    "2026-11-03"
+  ]
+}
+
+## Summary
+
+Organizational Location: This position is with the Department of Homeland Security, within U.S. Customs and Border Protection, Office of Facilities and Asset Management (OFAM), Asset and Administrative Management Division (AAM), Mobile Assets Program Management Office (MAPMO) located in Indianapolis, IN or Washington, DC.
+Additional selections may be made for other organizational divisions and/or units within the duty location(s) listed above.
+
+## Duties
+
+As a Telematics Support Specialist, you will support the development, implementation, and sustainment of the telematics and bulk fuel programs. You will analyze and evaluate a wide variety of technical and administrative information related to the telematics and bulk fuel programs to support program administration and to identify ways to improve the effectiveness and efficiency of program management.
+This position starts at a salary of $89,508.00 (GS-12, Step 1) to $116,362.00 (GS-12, Step 10).
+This position is located within the Department of Homeland Security (DHS), U.S. Customs and Border Protection (CBP), Enterprise Services (ES), Office of Facilities & Asset Management (OFAM), Asset and Administrative Management Division (AAM), Mobile Assets Program Management Office (MAPMO). The purpose of this position is to support the development, implementation, and sustainment of the telematics and bulk fuel programs. MAPMO provides CBP personnel with motor vehicles and fleet management expertise in lifecycle management, fleet oversight, and advocacy. The program office succeeds through the modernization of Agency fleet management practices, employment of performance analytics across program areas, implementation of sustainable efficiency strategies, mitigation of associated risks, policy oversight, and regulatory compliance.?
+Typical work assignments include:
+Providing dedicated support to end users of agency telematics and bulk fuel systems nationwide.
+Using vague or broad guidelines to independently interpret, analyze, and resolve a wide range of issues involving telematics and bulk fuel systems functionality, to unique or unusual technical problems.
+Compiling, reviewing and analyzing particularly difficult customer questions.
+Managing tasks related to the telematics and bulk fuel programs independently , such as tasks designed to improve service delivery or enhance customer experience.
+Collecting, interpreting, and analyzing telematics and bulk fuel data to evaluate data quality; formulate actions to improve data quality; identify program trends; and solve complex problems for the organization (e.g., determining optimal fleet size and composition).
+
+## Qualifications
+
+Experience: You qualify for the GS-12 grade level if you possess 1 year of specialized experience equivalent to at least the next lower grade level, performing duties such as:
+Supporting users of telematics and bulk fuel systems across multiple locations.
+Assisting with tracking customer issues through resolution and keeping stakeholders informed.
+Assisting with reviewing telematics and bulk fuel data to identify trends and data quality problems.
+Supporting the assessment of telematics and bulk fuel services and results to recommend process improvements.
+NOTE: Your resume must explicitly indicate how you meet this requirement, otherwise you will be found ineligible. Please see the "Required Documents" section below for additional resume requirements.
+Experience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., Peace Corps, AmeriCorps) and other organizations (e.g., professional; philanthropic; religious; spiritual; community, student, social). Volunteer work helps build critical competencies, knowledge, and skills and can provide valuable training and experience that translates directly to paid employment. You will receive credit for all qualifying experience, including volunteer experience.
+You must:
+Meet all qualification requirements, including education if applicable to this position, subject to verification at any stage of the application process; and
+Meet all applicable Time in Grade requirements (current federal employees must have served 52 weeks at the next lower grade or equivalent grade band in the federal service) by 11/09/2026.
+The Office of Personnel Management (OPM) must authorize employment offers made to current or former political appointees. If you are currently, or have been within the last 5 years, a political Schedule A, Schedule C, Non-career SES or Presidential Appointee employee in the Executive Branch, you must disclose this information to the Human Resources Office.
+Background Investigation: U.S. Customs and Border Protection (CBP) is a federal law enforcement agency that requires all applicants to undergo a thorough background investigation prior to employment in order to promote the agency's core values of vigilance, service to country, and integrity. During the screening and/or background investigation process, you will be asked questions regarding any felony criminal convictions or current felony charges, the use of illegal drugs (e.g., marijuana, cocaine, heroin, LSD, methamphetamines, ecstasy), and the use of non-prescribed controlled substances including any experimentation, possession, sale, receipt, manufacture, cultivation, production, transfer, shipping, trafficking, or distribution of controlled substances. For additional information on the preemployment process, review the following link: Applicant Resources | CBP Careers
+Residency: There is a residency requirement for all applicants not currently employed by CBP. Individuals are required to have physically resided in the United States or its protectorates (as declared under international law) for at least three of the last five years. If you do not meet the residency requirement and you have been physically located in a foreign location for more than two of the last five years, you may request an exception to determine if you are eligible for a residency waiver by meeting one or more of the following conditions:
+Working for the U.S. Government as a federal civilian or as a member of the military
+A dependent who was authorized to accompany a federal civilian or member of the military who was working for the U.S. government
+Participation in a study abroad program sponsored by a U.S. affiliated college or university
+Working as a contractor, intern, consultant or volunteer supporting the U.S. government
+Probationary Period: All employees new to the federal government must serve a one year probationary period during the first year of his/her initial permanent federal appointment to determine fitness for continued employment. Current and former federal employees may be required to serve or complete a probationary period.
+
+## Education
+
+Please see the Qualifications and Required Documents sections for more information if education is applicable to this position.
+
+## Full rendered official announcement
+
+USAJOBS - Job Announcement
+
+ Skip to main content
+
+ An official website of the United States government
+
+Official websites use .gov
+
+A .gov website belongs to an official government organization in the United States.
+
+Secure .gov websites use HTTPS
+ A lock ( LockA locked padlock ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.
+
+ MENU
+
+ Sign in
+
+ My jobs
+
+ Profile
+
+ Resumes & documents
+
+ Notifications
+
+ Talent networks
+
+ Sign out
+
+ My jobs
+
+ Profile
+
+ Resumes & documents
+
+ Notifications
+
+ Talent networks
+
+ Sign out
+
+ Events
+
+ Help Center
+
+ Search
+
+ Back to results
+
+ Apply
+
+ Telematics Support Specialist
+
+Department of Homeland Security
+
+Customs and Border Protection
+
+Office of Facilities and Asset Management
+
+Apply
+
+ Print
+
+ Share
+
+ Save
+
+ Summary
+
+ This job is open to
+
+ Duties
+
+ Requirements
+
+ How you will be evaluated
+
+ Required documents
+
+ How to apply
+
+Summary
+
+Organizational Location: This position is with the Department of Homeland Security, within U.S. Customs and Border Protection, Office of Facilities and Asset Management (OFAM), Asset and Administrative Management Division (AAM), Mobile Assets Program Management Office (MAPMO) located in Indianapolis, IN or Washington, DC.
+
+Additional selections may be made for other organizational divisions and/or units within the duty location(s) listed above.
+
+ Learn more about this agency
+
+Summary
+
+Organizational Location: This position is with the Department of Homeland Security, within U.S. Customs and Border Protection, Office of Facilities and Asset Management (OFAM), Asset and Administrative Management Division (AAM), Mobile Assets Program Management Office (MAPMO) located in Indianapolis, IN or Washington, DC.
+
+Additional selections may be made for other organizational divisions and/or units within the duty location(s) listed above.
+
+ Learn more about this agency
+
+Overview
+
+ Help
+
+Accepting applications
+
+Location
+
+1 vacancy in the following locations:
+
+ Washington, DC
+
+ Indianapolis, IN
+
+ No matching locations found.
+
+Work site options
+
+Telework eligible
+
+No
+
+Remote job
+
+No
+
+Relocation expenses reimbursed
+
+ No
+
+Salary
+
+ $89,508 - $116,362 per year
+
+Pay scale & grade
+
+GS 12
+
+Promotion potential
+
+12
+
+ Learn more about pay scale and grade
+
+ Pay scale and grade determines the salary of the job.
+
+Work schedule
+
+Full-time
+
+Travel Required
+
+Occasional travel - You may be required to travel for this position.
+
+Appointment type
+
+Permanent
+
+Occupations and job series
+
+ 0301 Miscellaneous Administration And Program
+
+Supervisory status
+
+No
+
+Federal service type
+
+This job is in the Competitive Service
+
+Represented by a union
+
+Yes
+
+Drug test
+
+No
+
+Security clearance
+
+Not Required
+
+Financial disclosure required
+
+No
+
+ Some jobs require
+ financial disclosure to identify conflicts of interests.
+
+Announcement number
+
+SMP-13097580-CJH
+
+Control number
+
+890755200
+
+This job is open to
+
+ Help
+
+Federal employees - Competitive service
+
+ Current federal employees whose agencies follow the U.S. Office of Personnel Management's hiring rules and pay scales.
+
+Career transition (CTAP, ICTAP, RPL)
+
+ Federal employees whose job, agency or department was eliminated and are eligible for priority over other applicants.
+
+Land and base management
+
+ Current or former employees of a base management agency.
+
+Veterans
+
+ Veterans of the U.S. Armed Forces or a spouse, widow, widower or parent of a veteran, who may be eligible for derived preference
+
+Military spouses
+
+ Military spouses of active duty service members or whose spouse is 100 percent disabled or died on active duty.
+
+Clarification from the agency
+
+Current Federal employees with competitive status; Career Transition Assistance Plan DHS employees, Reemployment Priority List, Interagency Career Transition Assistance Plan Federal Employees; Current and former Land Management employees who meet the Land Management Workforce Flexibility Act; Veterans eligible under VEOA; Certain Military Spouses
+
+Duties
+
+ Help
+
+ As a Telematics Support Specialist, you will support the development, implementation, and sustainment of the telematics and bulk fuel programs. You will analyze and evaluate a wide variety of technical and administrative information related to the telematics and bulk fuel programs to support program administration and to identify ways to improve the effectiveness and efficiency of program management.
+
+This position starts at a salary of $89,508.00 (GS-12, Step 1) to $116,362.00 (GS-12, Step 10).
+
+This position is located within the Department of Homeland Security (DHS), U.S. Customs and Border Protection (CBP), Enterprise Services (ES), Office of Facilities & Asset Management (OFAM), Asset and Administrative Management Division (AAM), Mobile Assets Program Management Office (MAPMO). The purpose of this position is to support the development, implementation, and sustainment of the telematics and bulk fuel programs. MAPMO provides CBP personnel with motor vehicles and fleet management expertise in lifecycle management, fleet oversight, and advocacy. The program office succeeds through the modernization of Agency fleet management practices, employment of performance analytics across program areas, implementation of sustainable efficiency strategies, mitigation of associated risks, policy oversight, and regulatory compliance.?
+
+Typical work assignments include:
+
+Providing dedicated support to end users of agency telematics and bulk fuel systems nationwide.
+
+Using vague or broad guidelines to independently interpret, analyze, and resolve a wide range of issues involving telematics and bulk fuel systems functionality, to unique or unusual technical problems.
+
+Compiling, reviewing and analyzing particularly difficult customer questions.
+
+Managing tasks related to the telematics and bulk fuel programs independently , such as tasks designed to improve service delivery or enhance customer experience.
+
+Collecting, interpreting, and analyzing telematics and bulk fuel data to evaluate data quality; formulate actions to improve data quality; identify program trends; and solve complex problems for the organization (e.g., determining optimal fleet size and composition).
+
+Requirements
+
+ Help
+
+Conditions of employment
+
+You must be a U.S. Citizen to apply for this position
+
+Males born after 12/31/1959 must be registered with Selective Service
+
+Primary U.S. residency for at least three of the last five years (additional details below)
+
+All pre-employment processes will be conducted in English
+
+You may be required to pass a background investigation
+
+CBP follows the DHS Drug-Free Workplace Plan for drug testing procedures
+
+As an employee of CBP, you will be joining a workforce that is dedicated to accomplishing our mission while maintaining the trust of our Nation by strictly adhering to all government ethics standards. Your conduct will be subject to the ethics rules applicable to all Executive Branch employees, and to CBP employees specifically, as well as the criminal conflict of interest statutes. Once you enter on duty, these rules include obtaining approval for outside employment or business activity, to ensure such employment or business activity is not prohibited and does not interfere or conflict with performance of your official duties. Please review further details via the following link.
+
+DHS uses E-Verify, an internet-based system, to confirm the eligibility of all newly hired employees to work in the United States. Learn more about E-Verify including your rights and responsibilities.
+
+Bargaining Unit: This is a bargaining unit covered position, represented under the National Treasury Employees Unions - NTEU. For local chapter contact information see Chapter Websites - National Treasury Employees Union - NTEU
+
+Qualifications
+
+ Experience: You qualify for the GS-12 grade level if you possess 1 year of specialized experience equivalent to at least the next lower grade level, performing duties such as:
+
+Supporting users of telematics and bulk fuel systems across multiple locations.
+
+Assisting with tracking customer issues through resolution and keeping stakeholders informed.
+
+Assisting with reviewing telematics and bulk fuel data to identify trends and data quality problems.
+
+Supporting the assessment of telematics and bulk fuel services and results to recommend process improvements.
+
+NOTE: Your resume must explicitly indicate how you meet this requirement, otherwise you will be found ineligible. Please see the "Required Documents" section below for additional resume requirements.
+
+Experience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., Peace Corps, AmeriCorps) and other organizations (e.g., professional; philanthropic; religious; spiritual; community, student, social). Volunteer work helps build critical competencies, knowledge, and skills and can provide valuable training and experience that translates directly to paid employment. You will receive credit for all qualifying experience, including volunteer experience.
+
+You must:
+
+Meet all qualification requirements, including education if applicable to this position, subject to verification at any stage of the application process; and
+
+Meet all applicable Time in Grade requirements (current federal employees must have served 52 weeks at the next lower grade or equivalent grade band in the federal service) by 11/09/2026.
+
+The Office of Personnel Management (OPM) must authorize employment offers made to current or former political appointees. If you are currently, or have been within the last 5 years, a political Schedule A, Schedule C, Non-career SES or Presidential Appointee employee in the Executive Branch, you must disclose this information to the Human Resources Office.
+
+Background Investigation: U.S. Customs and Border Protection (CBP) is a federal law enforcement agency that requires all applicants to undergo a thorough background investigation prior to employment in order to promote the agency's core values of vigilance, service to country, and integrity. During the screening and/or background investigation process, you will be asked questions regarding any felony criminal convictions or current felony charges, the use of illegal drugs (e.g., marijuana, cocaine, heroin, LSD, methamphetamines, ecstasy), and the use of non-prescribed controlled substances including any experimentation, possession, sale, receipt, manufacture, cultivation, production, transfer, shipping, trafficking, or distribution of controlled substances. For additional information on the preemployment process, review the following link: Applicant Resources | CBP Careers
+
+Residency: There is a residency requirement for all applicants not currently employed by CBP. Individuals are required to have physically resided in the United States or its protectorates (as declared under international law) for at least three of the last five years. If you do not meet the residency requirement and you have been physically located in a foreign location for more than two of the last five years, you may request an exception to determine if you are eligible for a residency waiver by meeting one or more of the following conditions:
+
+Working for the U.S. Government as a federal civilian or as a member of the military
+
+A dependent who was authorized to accompany a federal civilian or member of the military who was working for the U.S. government
+
+Participation in a study abroad program sponsored by a U.S. affiliated college or university
+
+Working as a contractor, intern, consultant or volunteer supporting the U.S. government
+
+Probationary Period: All employees new to the federal government must serve a one year probationary period during the first year of his/her initial permanent federal appointment to determine fitness for continued employment. Current and former federal employees may be required to serve or complete a probationary period.
+
+Education
+
+ Please see the Qualifications and Required Documents sections for more information if education is applicable to this position.
+
+Additional information
+
+Additional Hiring and Special Appointing Authorities: See "THIS JOB IS OPEN TO" section above for what additional Appointing Authorities may apply. Veterans, military spouses, Peace Corps/VISTA volunteers, and people with disabilities possess a wealth of unique talents, experiences, and competencies that can be invaluable to the DHS mission. If you are a member of one of these groups, you may not have to compete with the public for federal jobs. To determine your eligibility and to understand what documentation would be required with your application, please click on the appropriate link below. You must provide documentation supporting your eligibility prior to the closing date of this announcement. If you have any questions regarding your eligibility, please contact the CBP Hiring Center via the contact information listed at the end of this job opportunity announcement.
+
+Veterans
+
+Military spouses Effective until December 31, 2028, any spouse of a member on active duty may be eligible
+
+Individuals with Disabilities The proof of disability documentation must specify that you are eligible to apply using Schedule A. It does NOT need to detail your specific disability, medical history or need for accommodation. For more information visit this link.
+
+Peace Corps and VISTA
+
+Land Management Hiring Flexibility Act: The following documents are required at the time of application: SF-50s to demonstrate that you meet the eligibility requirements and the most recent performance rating signed by your supervisor or a statement from your supervisor documenting acceptable performance.
+
+Other miscellaneous hiring authorities
+
+The Department of Homeland Security encourages persons with disabilities to apply, to include persons with intellectual, severe physical or psychiatric disabilities, as defined by 5 CFR § 213.3102(u), and/or Disabled Veterans with a compensable service-connected disability of 30 percent or more as defined by 5 CFR § 315.707. Veterans, Peace Corps/VISTA volunteers, and persons with disabilities possess a wealth of unique talents, experiences, and competencies that can be invaluable to the DHS mission. If you are a member of one of these groups, you may not have to compete with the public for federal jobs. To determine your eligibility for non-competitive appointment and to understand the required documentation, click on the links above or contact the Servicing Human Resources Office listed at the bottom of this announcement.
+
+ Expand Hide  additional information
+
+Candidates should be committed to improving the efficiency of the Federal government, passionate about the ideals of our American republic, and committed to upholding the rule of law and the United States Constitution.
+
+Benefits
+
+ Help
+
+ A career with the U.S. government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding. Opens in a new windowLearn more about federal benefits.
+
+ Review our benefits
+
+Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time or intermittent. Contact the hiring agency for more information on the specific benefits offered.
+
+How you will be evaluated
+
+You will be evaluated for this job based on how well you meet the qualifications above.
+
+ Applicants will only be considered for the Eligibilities for which they claim in the job questionnaire AND must provide the supporting documentation. Applicants will not be considered for Eligibilities for which they did not claim, regardless of the documentation submitted with the application. https://apply.usastaffing.gov/ViewQuestionnaire/13097580
+
+After CBP completes its hiring, the resumes of the remaining candidates referred for selection consideration may be shared with other DHS Components. During the application process, you may choose to opt-in if you would like your name, application material, and assessment results to be shared. There is no guarantee of further consideration, and you can continue to explore other job opportunity announcements.
+
+The USA Hire Assessment will be used to assess the following general competencies:
+
+Attention to Detail
+
+Customer Service
+
+Decision Making
+
+Flexibility
+
+Integrity/Honesty
+
+Interpersonal Skills
+
+Learning
+
+Reading
+
+Reasoning
+
+Self-Management
+
+Stress Tolerance
+
+Teamwork
+
+If you are best qualified, you may be referred to the hiring manager for consideration and may be contacted for an interview. As a part of the interview process, additional selection criteria may be administered by the hiring manager. Preview the https://apply.usastaffing.gov/ViewQuestionnaire/13097580
+
+In order to be considered for this position, you must complete all required steps in the process. In addition to the application and application questionnaire, this position requires an online assessment. The online assessment measures critical general competencies required to perform the job.
+
+Overstating your qualifications and/or experience in your application materials or application questionnaire may result in your removal from consideration. Cheating on the online assessment may also result in your removal from consideration.
+
+Failure to demonstrate sufficient detail in the body of your resume may impact your final rating. Please note you are not required to provide specific narrative responses to the skills and competencies described in this section. If you are best qualified, you may be referred to the hiring manager for consideration and may be contacted for an interview.
+
+Agency Career Transition Assistance Program (CTAP) or the Interagency Career Transition Assistance Program (ICTAP) Eligibles: If you have never worked for the federal government, you are not CTAP/ICTAP eligible. View information about CTAP/ICTAP eligibilityon OPM's Career Transition Resources website. To be considered well qualified under CTAP/ICTAP, you must be rated at a minimum score of 85 for this position. In addition, you must submit the supporting documents listed under the Required Documents section of this announcement.
+
+Benefits
+
+ Help
+
+ A career with the U.S. government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding. Opens in a new windowLearn more about federal benefits.
+
+ Review our benefits
+
+Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time or intermittent. Contact the hiring agency for more information on the specific benefits offered.
+
+Required documents
+
+Required Documents
+
+ Help
+
+Your resume: A resume describing your job-related qualifications is required and will be used for the purpose of reviewing your qualifications and determining what training, if any, would be required when placed. A resume in English is required. It must contain your full legal name, phone number, relevant work history including a detailed description of your duties, the dates you performed those duties (MM/DD/YY), your hours worked per week, job title, as well as series, grade, and salary (if applicable). For additional required items, see the link. *Note- It is recommended that you upload your resume as a PDF instead of a Word document to ensure document quality. Ensure that your uploaded resume is not a password protected document, to include Office 365 passwords. Note: Limit your resume to no more than two pages. The USAJOBS database will not allow an applicant to submit an application that includes a resume over two pages.
+
+Your responses to the job questionnaire: https://apply.usastaffing.gov/ViewQuestionnaire/13097580
+
+Are you a current or former federal employee? ALL CURRENT AND FORMER FEDERAL EMPLOYEES MUST SUBMIT THE MOST RECENT COPY OF THEIR SF-50 (Notification of Personnel Action) showing competitive status: Tenure 1 or 2 in Block 24 and Position Occupied 1 in Block 34. Additionally, you should also submit a SF-50 reflecting the highest grade held on a permanent basis in the competitive service or the full performance level of your current position, whichever is higher, AND an SF-50 to support having met the time-in-grade requirement of having served 52 weeks at the grade level (or equivalent) below the grade level(s) for this position.
+
+Current CBP Employees are encouraged to submit an SF-50(s) for CBP experience; however, additional SF-50(s) are required when using federal experience outside of CBP to receive credit towards the requirements above. Examples of appropriate SF-50s include promotions, within-grade increases, and accessions.
+
+Retired former federal employees must submit your retirement SF-50 and encouraged to submit your most recent annuity statement.
+
+Are you claiming special priority selection rights under the Agency Career Transition Assistance Program (CTAP), Interagency Career Transition Assistance Program (ICTAP), or the Reemployment Priority List (RPL)? You must submit a separation notice; your most recent SF-50 (noting your current position, grade level and duty location); a copy of your recent performance rating; an agency certification that you cannot be placed after injury compensation has been terminated; an OPM notification that your disability annuity has been terminated; or a Military Department of National Guard Bureau notification that you are retired under 5 U.S.C. 8337(h) or 8456; or RPL registration documentation.
+
+Are you a veteran? If you are applying under a veteran appointing authority, you must submit documentation to support eligibility such as a DD-214 listing the character of service and either qualifying medal(s) or service period, a VA Disability Award letter dated 1991 or later, and/or supporting documentation as listed on the Standard Form 15. If you are currently serving on active duty, you must submit a written statement from the armed forces certifying your dates of service, your rank, expected character of service and anticipated date of separation. If you apply with a written statement at this stage, your preference will be verified by a DD-214 upon separation from the military. To learn more click here.
+
+Are you a current or former political Schedule A, Schedule C, Non-career SES or Presidential Appointee employee? Submit a copy of your initial and termination SF-50s.
+
+You may be asked to provide a copy of your recent performance appraisal and/or incentive awards. Additionally, if you are a former federal employee, and have been separated from Federal service for over 52 weeks, it is recommended that you submit your most recent rating of record (performance appraisal) when applying.
+
+How to Apply
+
+ Help
+
+To begin your online application, click "Apply Online" to create a USAJOBS account and follow the prompts or log in to your existing account. Your application packet must include a completed assessment questionnaire, a resume, and any applicable and/or required supporting documentation. Please see the "Required Documents" section for additional information. All application materials, including transcripts, must be in English.
+
+Applications and supporting documentation will not be accepted by mail or email. The address below is for inquiries only. You may apply more than once, but the most recent application is the only one that will be used. You must submit your resume, your online questionnaire, and any supporting documents by 11:59 PM Eastern Time on 11/09/2026.
+
+It is your responsibility to verify that any information entered or uploaded is received and is accurate. Human Resources will not modify or change any part of your application. Determining your eligibility and qualifications is dependent on the supporting documentation and information provided, which may impact your referral for further consideration. If a document is not legible, you will not be able to view it in your application and you must again upload it by the closing date.
+
+Please upload your resume under the "Resume" document type. Any other relevant supporting documents should be uploaded under their appropriate document types as mentioned above. Only resumes up to a total of two pages will be accepted. Applicants with resumes exceeding two pages will be removed from consideration. Do notsubmit documents as a PDF Portfolios.
+
+Due weight will be given to performance appraisals and incentive awards in merit promotion selection decisions in accordance with 5 CFR 335.103(b)(3).
+
+DHS offers competitive salaries and an attractive benefits package, including: health, dental, vision, life, and long-term care insurance; retirement plan; Thrift Savings Plan [similar to a 401(k)]; Flexible Spending Account; Employee Assistance Program; personal leave days; and paid federal holidays. Other benefits may include: flexible work schedules; tuition reimbursement; transportation subsidies; uniform allowance; health and wellness programs; and fitness centers. DHS is committed to employee development and offers a variety of employee training and developmental opportunities. For more information go to the DHS Careers website and select "Benefits." Disabled veteran leave will be available to any Federal employee hired on or after November 5, 2016, who is a veteran with a service-connected disability rating of 30 percent or more.
+
+Applying to this announcement certifies that you give permission for DHS to share your application with others in DHS for similar positions.
+
+The Fair Chance to Compete for Jobs Act prohibits the Department of Homeland Security and its Components from requesting an applicant's criminal history record before that individual receives a conditional offer of employment. In accordance with 5 U.S. Code § 9202(c) and 5 C.F.R § 920.201 certain positions are exempt from the provisions of the Fair Chance to Compete Act. Applicants who believe they have been subjected to a violation of the Fair Chance to Compete for Jobs Act, may submit a written complaint to hc-recordsmgmt@cbp.dhs.gov.
+
+View common definitions of terms in this announcement.
+
+Agency contact information
+
+ CBP Hiring Center HR Contact
+
+Phone
+
+ 855-500-3722
+
+Email
+
+ cbphiring-applicantinquiry@cbp.dhs.gov
+
+Address
+
+ Office of Facilities and Asset Management
+
+ Please read entire announcement
+
+Please apply online
+
+ Washington, DC 20229
+
+ US
+
+Next steps
+
+GS Salary: Visit this link to view the locality pay tables by geographic area. If you do not see your geographic area listed, select the "Rest of United States" pay table. Some positions fall under a special pay rate depending on the series, grade level and location of the position.Please visit this link to view special pay rate charts.
+
+The open period for this job opportunity announcement may be extended to allow for a sufficient applicant pool.
+
+Once the job opportunity announcement has closed, we will assess your experience and training, identify the best qualified applicants, and refer those applications to the hiring manager for further consideration and interviews. You will be notified by email after each of these steps has been completed. Stay informed of changes to your application status by signing up for automatic email alerts with your USAJOBS account. If you are referred, you will receive a final notification of the disposition of the announcement. We expect to make a tentative job offer within 60 days after the close of the announcement. If you are selected, we may conduct a suitability/security background investigation.
+
+Additional selections may be made beyond the total number of vacancies specified using this vacancy announcement. Further selections may also be made for additional organizational divisions and/or units within the duty location(s) listed above.
+
+If you receive a conditional offer of employment for this position, you will be required to complete an Optional Form 306, Declaration for Federal Employment, and to sign and certify the accuracy of all information in your application, prior to entry on duty. False statements on any part of the application may result in withdrawal of offer of employment, dismissal after beginning work, fine, or imprisonment.
+
+Any offers of employment made pursuant to this announcement will be consistent with all applicable authorities, including Presidential Memoranda, Executive Orders, interpretive U.S. Office of Management and Budget (OMB) and U.S. Office of Personnel Management (OPM) guidance, and Office of Management and Budget plans and policies concerning hiring. These authorities are subject to change.
+
+Fair and transparent
+
+The Federal hiring process is set up to be fair and transparent. Please read the following guidance.
+
+ Criminal history inquiries
+
+ Equal Employment Opportunity (EEO) Policy
+
+ Financial suitability
+
+ New employee probationary period
+
+ Privacy Act
+
+ Reasonable accommodation policy
+
+ Selective Service
+
+ Signature and false statements
+
+ Social security number request
+
+Required Documents
+
+ Help
+
+Your resume: A resume describing your job-related qualifications is required and will be used for the purpose of reviewing your qualifications and determining what training, if any, would be required when placed. A resume in English is required. It must contain your full legal name, phone number, relevant work history including a detailed description of your duties, the dates you performed those duties (MM/DD/YY), your hours worked per week, job title, as well as series, grade, and salary (if applicable). For additional required items, see the link. *Note- It is recommended that you upload your resume as a PDF instead of a Word document to ensure document quality. Ensure that your uploaded resume is not a password protected document, to include Office 365 passwords. Note: Limit your resume to no more than two pages. The USAJOBS database will not allow an applicant to submit an application that includes a resume over two pages.
+
+Your responses to the job questionnaire: https://apply.usastaffing.gov/ViewQuestionnaire/13097580
+
+Are you a current or former federal employee? ALL CURRENT AND FORMER FEDERAL EMPLOYEES MUST SUBMIT THE MOST RECENT COPY OF THEIR SF-50 (Notification of Personnel Action) showing competitive status: Tenure 1 or 2 in Block 24 and Position Occupied 1 in Block 34. Additionally, you should also submit a SF-50 reflecting the highest grade held on a permanent basis in the competitive service or the full performance level of your current position, whichever is higher, AND an SF-50 to support having met the time-in-grade requirement of having served 52 weeks at the grade level (or equivalent) below the grade level(s) for this position.
+
+Current CBP Employees are encouraged to submit an SF-50(s) for CBP experience; however, additional SF-50(s) are required when using federal experience outside of CBP to receive credit towards the requirements above. Examples of appropriate SF-50s include promotions, within-grade increases, and accessions.
+
+Retired former federal employees must submit your retirement SF-50 and encouraged to submit your most recent annuity statement.
+
+Are you claiming special priority selection rights under the Agency Career Transition Assistance Program (CTAP), Interagency Career Transition Assistance Program (ICTAP), or the Reemployment Priority List (RPL)? You must submit a separation notice; your most recent SF-50 (noting your current position, grade level and duty location); a copy of your recent performance rating; an agency certification that you cannot be placed after injury compensation has been terminated; an OPM notification that your disability annuity has been terminated; or a Military Department of National Guard Bureau notification that you are retired under 5 U.S.C. 8337(h) or 8456; or RPL registration documentation.
+
+Are you a veteran? If you are applying under a veteran appointing authority, you must submit documentation to support eligibility such as a DD-214 listing the character of service and either qualifying medal(s) or service period, a VA Disability Award letter dated 1991 or later, and/or supporting documentation as listed on the Standard Form 15. If you are currently serving on active duty, you must submit a written statement from the armed forces certifying your dates of service, your rank, expected character of service and anticipated date of separation. If you apply with a written statement at this stage, your preference will be verified by a DD-214 upon separation from the military. To learn more click here.
+
+Are you a current or former political Schedule A, Schedule C, Non-career SES or Presidential Appointee employee? Submit a copy of your initial and termination SF-50s.
+
+You may be asked to provide a copy of your recent performance appraisal and/or incentive awards. Additionally, if you are a former federal employee, and have been separated from Federal service for over 52 weeks, it is recommended that you submit your most recent rating of record (performance appraisal) when applying.
+
+How to Apply
+
+ Help
+
+To begin your online application, click "Apply Online" to create a USAJOBS account and follow the prompts or log in to your existing account. Your application packet must include a completed assessment questionnaire, a resume, and any applicable and/or required supporting documentation. Please see the "Required Documents" section for additional information. All application materials, including transcripts, must be in English.
+
+Applications and supporting documentation will not be accepted by mail or email. The address below is for inquiries only. You may apply more than once, but the most recent application is the only one that will be used. You must submit your resume, your online questionnaire, and any supporting documents by 11:59 PM Eastern Time on 11/09/2026.
+
+It is your responsibility to verify that any information entered or uploaded is received and is accurate. Human Resources will not modify or change any part of your application. Determining your eligibility and qualifications is dependent on the supporting documentation and information provided, which may impact your referral for further consideration. If a document is not legible, you will not be able to view it in your application and you must again upload it by the closing date.
+
+Please upload your resume under the "Resume" document type. Any other relevant supporting documents should be uploaded under their appropriate document types as mentioned above. Only resumes up to a total of two pages will be accepted. Applicants with resumes exceeding two pages will be removed from consideration. Do notsubmit documents as a PDF Portfolios.
+
+Due weight will be given to performance appraisals and incentive awards in merit promotion selection decisions in accordance with 5 CFR 335.103(b)(3).
+
+DHS offers competitive salaries and an attractive benefits package, including: health, dental, vision, life, and long-term care insurance; retirement plan; Thrift Savings Plan [similar to a 401(k)]; Flexible Spending Account; Employee Assistance Program; personal leave days; and paid federal holidays. Other benefits may include: flexible work schedules; tuition reimbursement; transportation subsidies; uniform allowance; health and wellness programs; and fitness centers. DHS is committed to employee development and offers a variety of employee training and developmental opportunities. For more information go to the DHS Careers website and select "Benefits." Disabled veteran leave will be available to any Federal employee hired on or after November 5, 2016, who is a veteran with a service-connected disability rating of 30 percent or more.
+
+Applying to this announcement certifies that you give permission for DHS to share your application with others in DHS for similar positions.
+
+The Fair Chance to Compete for Jobs Act prohibits the Department of Homeland Security and its Components from requesting an applicant's criminal history record before that individual receives a conditional offer of employment. In accordance with 5 U.S. Code § 9202(c) and 5 C.F.R § 920.201 certain positions are exempt from the provisions of the Fair Chance to Compete Act. Applicants who believe they have been subjected to a violation of the Fair Chance to Compete for Jobs Act, may submit a written complaint to hc-recordsmgmt@cbp.dhs.gov.
+
+View common definitions of terms in this announcement.
+
+ Expand Hide  how to apply
+
+Agency contact information
+
+ CBP Hiring Center HR Contact
+
+Phone
+
+ 855-500-3722
+
+Email
+
+ cbphiring-applicantinquiry@cbp.dhs.gov
+
+Address
+
+ Office of Facilities and Asset Management
+
+ Please read entire announcement
+
+Please apply online
+
+ Washington, DC 20229
+
+ US
+
+Next steps
+
+GS Salary: Visit this link to view the locality pay tables by geographic area. If you do not see your geographic area listed, select the "Rest of United States" pay table. Some positions fall under a special pay rate depending on the series, grade level and location of the position.Please visit this link to view special pay rate charts.
+
+The open period for this job opportunity announcement may be extended to allow for a sufficient applicant pool.
+
+Once the job opportunity announcement has closed, we will assess your experience and training, identify the best qualified applicants, and refer those applications to the hiring manager for further consideration and interviews. You will be notified by email after each of these steps has been completed. Stay informed of changes to your application status by signing up for automatic email alerts with your USAJOBS account. If you are referred, you will receive a final notification of the disposition of the announcement. We expect to make a tentative job offer within 60 days after the close of the announcement. If you are selected, we may conduct a suitability/security background investigation.
+
+Additional selections may be made beyond the total number of vacancies specified using this vacancy announcement. Further selections may also be made for additional organizational divisions and/or units within the duty location(s) listed above.
+
+If you receive a conditional offer of employment for this position, you will be required to complete an Optional Form 306, Declaration for Federal Employment, and to sign and certify the accuracy of all information in your application, prior to entry on duty. False statements on any part of the application may result in withdrawal of offer of employment, dismissal after beginning work, fine, or imprisonment.
+
+Any offers of employment made pursuant to this announcement will be consistent with all applicable authorities, including Presidential Memoranda, Executive Orders, interpretive U.S. Office of Management and Budget (OMB) and U.S. Office of Personnel Management (OPM) guidance, and Office of Management and Budget plans and policies concerning hiring. These authorities are subject to change.
+
+ Expand Hide  next steps
+
+Fair and transparent
+
+The Federal hiring process is set up to be fair and transparent. Please read the following guidance.
+
+ Criminal history inquiries
+
+ Equal Employment Opportunity (EEO) Policy
+
+ Financial suitability
+
+ New employee probationary period
+
+ Privacy Act
+
+ Reasonable accommodation policy
+
+ Selective Service
+
+ Signature and false statements
+
+ Social security number request
+
+ Customs and Border Protection
+
+"Customs & Border Protection (CBP): Securing America's Borders
+
+The Department of Homeland Security (DHS) is calling on those who want to help protect American interests and secure our Nation. DHS Components work collectively to prevent terrorism; secure borders and our transportation systems; protect the President and other dignitaries; enforce and administer immigration laws; safeguard cyberspace; and ensure resilience to disasters. We achieve these vital missions through a workforce spanning hundreds of occupations. Make an impact; join DHS.
+
+Discover a challenging and rewarding career with CBP, the sole organization responsible for securing the nation's borders. At CBP, we:
+
+Secure and facilitate trade and travel while enforcing hundreds of U.S. regulations, including immigration and drug laws
+
+Screen passengers, vehicles, and shipments entering our country
+
+Seize illegal narcotics, vehicles, agricultural products and prohibited goods.
+
+Prevent unauthorized entry into the country
+
+Rescue individuals who fall into dangerous conditions traversing our border
+
+Connect with us:
+
+X: CBP, CBPJobs, CBPHRAsstComm
+
+LinkedIn: U.S. CBP
+
+Instagram: CBPJobs
+
+Facebook: CBP Jobs
+
+Threads: CBPJobs
+
+CBP employees demonstrate the highest level of commitment to protect and serve the United States of America and to exemplify the CBP Core Values of Vigilance, Service to Country and Integrity. Learn more about CBP's mission, core values and careers at https://www.cbp.gov/about
+
+Agency contact information
+
+ CBP Hiring Center HR Contact
+
+Phone
+
+ 855-500-3722
+
+Email
+
+ cbphiring-applicantinquiry@cbp.dhs.gov
+
+Address
+
+ Office of Facilities and Asset Management
+
+ Please read entire announcement
+
+Please apply online
+
+ Washington, DC 20229
+
+ US
+
+Visit our careers page
+
+ Learn more about what it's like to work at Customs and Border Protection, what the agency does, and about the types of careers this agency offers.
+
+ http://www.cbp.gov
+
+Summary
+
+Organizational Location: This position is with the Department of Homeland Security, within U.S. Customs and Border Protection, Office of Facilities and Asset Management (OFAM), Asset and Administrative Management Division (AAM), Mobile Assets Program Management Office (MAPMO) located in Indianapolis, IN or Washington, DC.
+
+Additional selections may be made for other organizational divisions and/or units within the duty location(s) listed above.
+
+ Learn more about this agency
+
+Overview
+
+ Help
+
+Accepting applications
+
+Location
+
+1 vacancy in the following locations:
+
+ Washington, DC
+
+ Indianapolis, IN
+
+ No matching locations found.
+
+Work site options
+
+Telework eligible
+
+No
+
+Remote job
+
+No
+
+Relocation expenses reimbursed
+
+ No
+
+Salary
+
+ $89,508 - $116,362 per year
+
+Pay scale & grade
+
+GS 12
+
+Promotion potential
+
+12
+
+ Learn more about pay scale and grade
+
+ Pay scale and grade determines the salary of the job.
+
+Work schedule
+
+Full-time
+
+Travel Required
+
+Occasional travel - You may be required to travel for this position.
+
+Appointment type
+
+Permanent
+
+Occupations and job series
+
+ 0301 Miscellaneous Administration And Program
+
+Supervisory status
+
+No
+
+Federal service type
+
+This job is in the Competitive Service
+
+Represented by a union
+
+Yes
+
+Drug test
+
+No
+
+Security clearance
+
+Not Required
+
+Financial disclosure required
+
+No
+
+ Some jobs require
+ financial disclosure to identify conflicts of interests.
+
+Announcement number
+
+SMP-13097580-CJH
+
+Control number
+
+890755200
+
+ Previous result
+
+Next result
+
+Your session is about to expire!
+
+ Your USAJOBS session will expire due to inactivity in 8 minutes.
+ Any unsaved data will be lost if you allow the session to expire.
+ Click the button below to continue your session.
+
+ Sign out
+ Stay signed in
+
+ Return to top
+
+USAJOBS is a Opens in a new windowUnited States Office of Personnel Management website.
+
+ (Opens in a new window) OPM on LinkedIn
+
+ (Opens in a new window) OPM YouTube channel
+
+ (Opens in a new window) OPM on X
+
+Opens in a new windowEEO Policy Statement
+
+Opens in a new windowReasonable Accommodation Policy Statement
+
+Veterans Information
+
+Opens in a new windowLegal and Regulatory Guidance
+
+About USAJOBS
+
+Opens in a new windowAccessibility
+
+Opens in a new windowFOIA
+
+Opens in a new windowInspector general
+
+Opens in a new windowNo Fear Act Data
+
+Opens in a new windowPrivacy policy
+
+Opens in a new windowReports and publications
+
+Opens in a new windowTerms and conditions
+
+Opens in a new windowUSA.gov

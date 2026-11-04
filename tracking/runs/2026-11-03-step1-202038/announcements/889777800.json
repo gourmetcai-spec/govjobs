@@ -1,0 +1,32 @@
+{
+  "@context": "http://www.schema.org",
+  "@type": "JobPosting",
+  "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": {
+      "@type": "QuantitativeValue",
+      "value": 143913.0,
+      "unitText": "YEAR"
+    }
+  },
+  "datePosted": "10/22/2026",
+  "description": "The U.S. International Trade Commission is an independent Federal agency that provides the President and Congress with high-quality analysis and technical support on international trade, tariff and competitiveness issues; investigates and makes determinations in proceedings involving imports claimed to injure a domestic industry or violate U.S. intellectual property rights; and maintains the U.S. Harmonized Tariff Schedule.",
+  "educationRequirements": "This position does not require a formal educational credential, and educational qualifications may not be used as a substitute for eligibility.",
+  "employmentType": "OTHER",
+  "hiringOrganization": "Office of the Chief Information Officer",
+  "jobLocation": [
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Washington",
+        "addressRegion": "DC "
+      }
+    }
+  ],
+  "responsibilities": "<strong>MAJOR DUTIES</strong>\n<ul>\n\t<li>Serve as the agency's primary technical authority and advisor on artificial intelligence.</li>\n\t<li>Leads the design, implementation, customization, and optimization of enterprise AI solutions.</li>\n\t<li>Conducts complex evaluations and security assessments of AI systems and services, identifying vulnerabilities and ensuring mitigation in accordance with NIST, FedRAMP, Zero Trust, privacy requirements, and agency cybersecurity policies.</li>\n\t<li>Leads technical execution of AI deployments across secure cloud environments, ensuring proper configuration, testing, and validation of AI tools.</li>\n\t<li>Develops and executes agency-wide AI training strategies, curricula, SOPs, and user guidance materials.</li>\n</ul>",
+  "qualifications": "<p>You must meet all the requirements below by the closing date of the announcement and they must be clearly identified in your application, resume, or supporting documents. This includes any general and specialized experience, education, and/or selective placement factors mentioned. These are used to determine if you possess the knowledge, skills, and/or abilities to successfully perform in this position.</p>\n\n<p><strong>Specialized Experience</strong><br>\n<br>\nTo qualify at the <strong>GS-14</strong> level, you must have at least one year of specialized experience obtained in the private or public sector that is equivalent to the <strong>GS-13</strong> level. Specialized experience is defined as<br>\n<br>\n<strong>1.) </strong>Leading the development and execution of enterprise-wide AI strategy and governance, serving as the agency's primary technical authority on artificial intelligence to independently advise executives on AI capabilities, risks, and compliance requirements in order to guide secure, mission-aligned adoption.<br>\n<br>\n<strong>2.) </strong>Managing the implementation, customization, and optimization of enterprise AI tools and platforms, integrating Microsoft 365, cloud services, and secure APIs at scale to ensure interoperability, data protection, and adherence to NIST, FedRAMP, privacy, and agency-specific governance.<br>\n<br>\n<strong>3.) </strong>Conducting complex technical evaluations and security assessments of AI services, independently identifying vulnerabilities, addressing security findings, and applying Zero Trust and federal cybersecurity principles to strengthen the agency's overall security posture.<br>\n<br>\n<strong>AND</strong><br>\n<br>\n<strong>4.</strong>) Developing and lead agency-wide AI training, documentation, and knowledge-transfer programs, creating SOPs, user guidance, and tailored curricula to enhance workforce readiness and improve mission delivery through AI-enabled workflows.</p>\n\n<p>Experience refers to paid and unpaid experience, including volunteer work done through national service programs (e.g., Peace Corps, AmeriCorps) and other organizations (e.g., professional; philanthropic; religious; spiritual; community, student, social). Volunteer work helps build critical competencies, knowledge, and skills, and can provide valuable training and experience that translates directly to paid employment. You will receive credit for all qualifying experience, including volunteer experience.</p>",
+  "title": "IT Specialist (Artificial Intelligence) DIRECT HIRE",
+  "validThrough": "2026-11-05"
+}

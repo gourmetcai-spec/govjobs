@@ -1,0 +1,32 @@
+{
+  "@context": "http://www.schema.org",
+  "@type": "JobPosting",
+  "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": {
+      "@type": "QuantitativeValue",
+      "value": 46085.0,
+      "unitText": "YEAR"
+    }
+  },
+  "datePosted": "10/26/2026",
+  "description": "This is a public notice flyer to notify interested applicants of anticipated vacancies through the DHA for STRL Mission Support. Applications will not be accepted through this flyer. Interested applicants must follow the directions in the \"How to Apply\" section of this flyer to be considered. There may or may not be actual vacancies filled from this flyer. <strong>Notice of Result letters will not be sent to applicants who respond to this flyer.</strong>",
+  "educationRequirements": "<b>In lieu of specialized experience, you may qualify with the following education or combination of both education and experience: </b><br>\n<br>\n4-year course of study leading to a bachelor's degree",
+  "employmentType": "OTHER",
+  "hiringOrganization": "NAVAL RESEARCH LABORATORY",
+  "jobLocation": [
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Naval Research Laboratory",
+        "addressRegion": "DC "
+      }
+    }
+  ],
+  "responsibilities": "",
+  "qualifications": "Your resume must also demonstrate at least one year of generalized experience at or equivalent to the GS-1/4 grade level or NO-01 pay band in the Federal service or equivalent experience in the private or public sector. Generalized experience must demonstrate the following: 1) Analyzing problems to identify significant factors, gather pertinent data, and recognize solutions; 2) Planning and organizing work; and 3) Communicating effectively orally and in writing.<br>\n<br>\nAdditional qualification information can be found from the following Office of Personnel Management website: <a href=\"https://www.opm.gov/policy-data-oversight/classification-qualifications/general-schedule-qualification-standards/#url=GS-ADMIN\">https://www.opm.gov/policy-data-oversight/classification-qualifications/general-schedule-qualification-standards/#url=GS-ADMIN</a><br>\n<br>\nExperience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., professional, philanthropic, religious, spiritual, community, student, social). Volunteer work helps build critical competencies, knowledge, and skills and can provide valuable training and experience that translates directly to paid employment.",
+  "title": "FINANCIAL & ADMIN MANAGEMENT SPECIALIST",
+  "validThrough": "2026-11-09"
+}

@@ -1,0 +1,86 @@
+{
+  "title": "INTERDISCIPLINARY ENGINEER/SCIENTIST",
+  "requisition_id": "DE-13106413-27-HR",
+  "canonical_url": "https://www.usajobs.gov/job/891264500",
+  "application_url": "https://www.usajobs.gov/job/891264500",
+  "posted_date": "2026-11-03",
+  "posted_date_evidence": "Official JobPosting.datePosted and native PositionStartDate",
+  "close_date": "2026-11-20",
+  "deadline_timezone": null,
+  "deadline_time": null,
+  "deadline_source": "https://www.usajobs.gov/job/891264500",
+  "deadline_verified": true,
+  "early_closure_conditions": [],
+  "rolling_cutoff": null,
+  "location": "Patuxent River, MD",
+  "remote_restrictions": "Offered DMV work location; verify telework/attendance and screening conditions in announcement.",
+  "salary": "Starting at $132,368 Per year (DP 5)",
+  "retrieved_at": "2026-11-04T01:27:13.427519+00:00",
+  "control_number": "891264500",
+  "fit": "Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.",
+  "gaps": "Verify qualifying coursework and calculus credits against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them. Possible companion route(s): 679c7a53c9858c65, 8134528cbc827a16. Reconcile exact vacancy before submitting; no duplicate applications.",
+  "requirements_confirmed_unmet": [],
+  "requirements_unverified": [
+    "Verify qualifying coursework and calculus credits against the exact qualification clause; not established by the baseline alone.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.",
+    "Possible companion route(s): 679c7a53c9858c65, 8134528cbc827a16. Reconcile exact vacancy before submitting; no duplicate applications."
+  ],
+  "preferred_requirements_note": "See official qualifications/education sections; missing evidence does not establish an unmet requirement.",
+  "hiring_paths": [
+    "Open to the public"
+  ],
+  "open_evidence": "Official announcement downloaded successfully; validThrough and native open-status evidence retained.",
+  "discovery_window": [
+    "2026-09-03",
+    "2026-11-03"
+  ],
+  "employer": "Naval Air Systems Command",
+  "status": "needs_verification",
+  "aliases": [],
+  "id": "d3afad935e7c347a",
+  "application_directory": "applications/2026-11-03__naval-air-systems-command__interdisciplinary-engineer-scientist__d3afad935e7c347a",
+  "step": 1,
+  "selected": false,
+  "submitted": false,
+  "artifacts": {
+    "resume_markdown": {
+      "path": "applications/2026-11-03__naval-air-systems-command__interdisciplinary-engineer-scientist__d3afad935e7c347a/resume-xuewu-cai__naval-air-systems-command__interdisciplinary-engineer-scientist__891264500.md",
+      "sha256": "f9751882a8e323ec20ee9ebbd2e873b6d4e8686dfdcb3490d054dff68a0871c7"
+    },
+    "resume_pdf": {
+      "path": "applications/2026-11-03__naval-air-systems-command__interdisciplinary-engineer-scientist__d3afad935e7c347a/resume-xuewu-cai__naval-air-systems-command__interdisciplinary-engineer-scientist__891264500.pdf",
+      "sha256": "d592b64174330f47bb111f85dcf22888dc201a8ac9e4052ba378f9ea778907c3"
+    }
+  },
+  "artifact_versions": [
+    {
+      "revision_id": "2026-11-04T01:27:13.427519+00:00",
+      "artifacts": {
+        "resume_markdown": {
+          "path": "applications/2026-11-03__naval-air-systems-command__interdisciplinary-engineer-scientist__d3afad935e7c347a/resume-xuewu-cai__naval-air-systems-command__interdisciplinary-engineer-scientist__891264500.md",
+          "sha256": "f9751882a8e323ec20ee9ebbd2e873b6d4e8686dfdcb3490d054dff68a0871c7"
+        },
+        "resume_pdf": {
+          "path": "applications/2026-11-03__naval-air-systems-command__interdisciplinary-engineer-scientist__d3afad935e7c347a/resume-xuewu-cai__naval-air-systems-command__interdisciplinary-engineer-scientist__891264500.pdf",
+          "sha256": "d592b64174330f47bb111f85dcf22888dc201a8ac9e4052ba378f9ea778907c3"
+        }
+      },
+      "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a"
+    }
+  ],
+  "resume_status": "prepared_with_attention",
+  "resume_review": "Two rendered pages reviewed; all 77 distinct page images inspected across seven boards covering 166 pages. Text bounds, all 20 baseline experience bullets, updated title, neutral metadata and artifact hashes passed. Candidate qualifications remain unverified.",
+  "required_answers_pending": [
+    "Verify qualifying coursework and calculus credits against the exact qualification clause; not established by the baseline alone.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "confirmed_unmet_requirements": [],
+  "qualifications_verified": false,
+  "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a",
+  "resume_format": "restored_two_page",
+  "current_resume_naming": "unversioned",
+  "possible_companion_job_ids": [
+    "679c7a53c9858c65",
+    "8134528cbc827a16"
+  ]
+}

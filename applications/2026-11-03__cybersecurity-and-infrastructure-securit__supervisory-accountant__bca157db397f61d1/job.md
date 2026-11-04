@@ -1,0 +1,978 @@
+# Supervisory Accountant
+
+{
+  "title": "Supervisory Accountant",
+  "requisition_id": "OCFO-ST-13090653-27-MB",
+  "canonical_url": "https://www.usajobs.gov/job/891491200",
+  "application_url": "https://www.usajobs.gov/job/891491200",
+  "posted_date": "2026-11-03",
+  "posted_date_evidence": "Official JobPosting.datePosted and native PositionStartDate",
+  "close_date": "2026-11-09",
+  "deadline_timezone": "America/New_York",
+  "deadline_time": "23:59",
+  "deadline_source": "https://www.usajobs.gov/job/891491200",
+  "deadline_verified": true,
+  "early_closure_conditions": [],
+  "rolling_cutoff": null,
+  "location": "Arlington, VA",
+  "remote_restrictions": "Offered DMV work location; verify telework/attendance and screening conditions in announcement.",
+  "salary": "Starting at $143,913 Per year (GS 14)",
+  "retrieved_at": "2026-11-04T01:27:13.427519+00:00",
+  "control_number": "891491200",
+  "fit": "Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.",
+  "gaps": "Hiring-path eligibility unverified: Competitive service, Career transition (CTAP, ICTAP, RPL), Land and base management, Veterans, Military spouses, Individuals with disabilities, Family of overseas employees, Peace Corps & AmeriCorps Vista, Special authorities. Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Verify qualifying coursework and calculus credits against the exact qualification clause; not established by the baseline alone. Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.",
+  "requirements_confirmed_unmet": [],
+  "requirements_unverified": [
+    "Hiring-path eligibility unverified: Competitive service, Career transition (CTAP, ICTAP, RPL), Land and base management, Veterans, Military spouses, Individuals with disabilities, Family of overseas employees, Peace Corps & AmeriCorps Vista, Special authorities. Confirm qualifying status before application; absence from baseline is not proof of ineligibility.",
+    "Verify qualifying coursework and calculus credits against the exact qualification clause; not established by the baseline alone.",
+    "Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "preferred_requirements_note": "See official qualifications/education sections; missing evidence does not establish an unmet requirement.",
+  "hiring_paths": [
+    "Competitive service",
+    "Career transition (CTAP, ICTAP, RPL)",
+    "Land and base management",
+    "Veterans",
+    "Military spouses",
+    "Individuals with disabilities",
+    "Family of overseas employees",
+    "Peace Corps & AmeriCorps Vista",
+    "Special authorities"
+  ],
+  "open_evidence": "Official announcement downloaded successfully; validThrough and native open-status evidence retained.",
+  "discovery_window": [
+    "2026-09-03",
+    "2026-11-03"
+  ]
+}
+
+## Summary
+
+The Cybersecurity and Infrastructure Security Agency (CISA) is the Nation's risk advisor, working with partners to defend against today's threats and collaborating with industry to build a more secure and resilient infrastructure for the future.
+
+## Duties
+
+Typical work assignments include, but are not limited to:
+Evaluates program effectiveness by means of program accomplishment, quality and quantity of work produced, established performance standards, procedural, policy and regulatory compliance and technical competence.
+Implements planning strategies and controls for submission of data, including recommending protocols for the basis of budget requests/expenditures, audit and program resource requests/allocations and decisions.
+Responsible for issuance, maintenance, and accuracy of fiscal policy and procedures.
+Reviews fiscal operating policies and procedures, and applicable laws, regulations, and program guidelines of field office support staff for the purpose of determining conformity to federal requirements.
+Drafts and fianlizes instructions, procedures, manuals, etc., for leadership approval involving proposed fiscal system(s) or correction to any deficiencies in teh accounting system.
+Military Spouses & US Foreign Service Spouses Only: This position is remote work and telework eligible consistent with the Agency's telework and remote work program policy. Applicants who live within the local commuting area (i.e., a 50-mile or less radius from Glebe Road, Arlington VA (not driving distance)) are eligible for 100% telework in accordance with agency policy.
+
+## Qualifications
+
+Do NOT copy and paste the duties, specialized experience, or occupational assessment questionnaire from this announcement into your resume as that will not be considered a demonstration of your qualifications for this position. Your resume must describe your work and experience, in your own words.
+To be considered minimally qualified for this position, you must demonstrate that you have the required education and experience for the respective grade level in which you are applying.
+Applicants must demonstrate that they meet the Basic Requirements AND Minimum Qualification requirements as listed below.
+BASIC REQUIREMENTS:
+A. Degree: Bachelor's or higher degree from an accredited institution that included a major field of study in accounting; or a degree in a related field such as business administration, finance, or public administration that included or was supplemented by 24 semester hours or 36 quarter hours in accounting. The 24 semester hours or 36 quarter hours may include up to 6 semester hours or 9 quarter hours of credit in business law. (Note: You must attach a copy of your transcripts).
+OR
+B. Combination of education and experience: A combination of education and experience with at least 4 years of experience in accounting, or an equivalent combination of accounting experience, college-level education, and training that provided professional accounting knowledge AND include one of the following: (1) 24 semester hours or 36 quarter hours in accounting or auditing courses of appropriate type and quality. This can include up to 6 semester hours or 9 quarter hours of business law; (2) A certificate as Certified Public Accountant or a Certified Internal Auditor, obtained through written examination; or (3) Completion of the requirements for a degree that included substantial course work in accounting or auditing, e.g., 15 semester hours or 22.5 quarter hours, but that does not fully satisfy the 24 semester hour or 36 quarter hour requirement of statement A above, provided that (a) I have successfully worked at the full-performance level in accounting, auditing, or a related field, e.g., valuation engineering or financial institution examining; (b) a panel of at least two higher level professional accountants or auditors has determined that I have demonstrated a good knowledge of accounting and of related and underlying fields that equals in breadth, depth, currency, and level of advancement that which is normally associated with successful completion of the 4-year course of study described in statement A above; and (c) except for literal nonconformance to the requirement of 24 semester hours or 36 quarter hours in accounting, my education, training, and experience fully meet the specified requirements. (Note: You must attach a copy of your transcripts and/or certificate).
+IN ADDITION TO MEETING THE BASIC REQUIREMENTS ABOVE, YOU MUST ALSO MEET THE FOLLOWING MINIMUM QUALIFICATIONS:
+You qualify at the GS-14 grade level, if you have:
+EXPERIENCE: At least one (1) year of specialized experience at the GS-13 grade level (or equivalent) performing all the following duties:
+Mastery knowledge and skill of financial management concepts, principles, practices, laws, regulations and accounting policies, systems and procedures to provide staff direction and guidance;
+Ability to apply a high level of sound, independent judgment in the solution of financial related issues, questions, and problems related to the agency management program and develop methods to monitor and measure risk, compliance, and assurance efforts;
+Provides broad administrative and policy direction to standardize business processes, specifically as it relates to internal controls, and the financial statement audit. This includes the drafting of Directives, Standard Operating Procedures, and desk guides;
+Reviews fiscal related submissions for substance, and conformance with instructions, completeness, accuracy, and appropriate authorizations; AND
+Supervises a staff engaged in substantive professional, technical or administrative work. Supervisory functions include responsibility for ensuring timely performance of satisfactory volumes and quality of work, acceptance, amendment, or rejection of work.
+Experience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., Peace Corps, AmeriCorps) and other organizations (e.g., professional; philanthropic; religious; spiritual; community, student, social). Volunteer work helps build critical competencies, knowledge, and skills and can provide valuable training and experience that translates directly to paid employment. You will receive credit for all qualifying experience, including volunteer experience.
+Time-in-Grade Requirements: Under competitive merit promotion procedures, any individual who is currently holding, or who has held within the previous 52 weeks, a General Schedule (GS) position under a non-temporary appointment in the competitive or excepted service, must meet "time-in-grade" requirements (have served 52 weeks at the next lower grade of the grade for which you are applying). NOTE: Current or former GS federal civilian employees, within the previous 52 weeks, applying for a position under the Veterans Employment Opportunities Act (VEOA) must meet time-in-grade requirements.
+Time After Competitive Appointment: By the closing date specified in this job announcement, current Federal civilian employees must wait at least 90 days after their latest non-temporary appointment from a competitive service referral certificate before promotion, transfer, reinstatement, reassignment, or detail.
+All qualification requirements, including Time-in-Grade, must be met by the closing date of this announcement. Qualification AND Time-in-Grade claims will be subject to verification.
+
+## Education
+
+If you are using your education to meet all or part of the qualification requirements specified in the "Qualifications" section of this announcement, you MUST submit a copy of your transcripts or equivalent with your application. Unofficial transcripts will be accepted that include your name, the name of the educational institution, course title(s), number of credits, grade, and date of completion. An official transcript will be required if you are selected. Failure to submit the required transcript may result in an ineligible determination.
+NOTE: When academic credit is expressed in contract months, units, or other terms that differ from conventional semester or quarter hours, it is the responsibility of the applicant to provide an interpretation of such credits from the appropriate institution in order to equate them to the specified semester or quarter hours.
+Education must be from an accredited institution recognized by the U.S. Department of Education in order for it to be credited towards qualifications. Therefore, provide only the attendance and/or degrees from schools accredited by accrediting institutions recognized by the U.S. Department of Education.
+Graduate Education: One academic year of graduate education is the number of credits hours your graduate school has determined to represent one academic year of full-time study. Such study may have been performed on a full-time or part-time basis. If you cannot obtain your graduate school's definition of one year of graduate study, 18 semester hours (or 27 quarter hours) should be considered as satisfying the requirement for one year of full-time graduate study.
+Foreign Education: Education completed in foreign colleges or universities may be used to meet the qualification requirements. You must show the education credentials have been evaluated by a private U.S. organization that specializes in interpretation of foreign educational credentials and such education has been deemed equivalent to that gained in an accredited U.S. education program. It is your responsibility to provide such evidence with your application. See Recognition of Foreign Qualifications for more information.
+
+## Full rendered official announcement
+
+USAJOBS - Job Announcement
+
+ Skip to main content
+
+ An official website of the United States government
+
+Official websites use .gov
+
+A .gov website belongs to an official government organization in the United States.
+
+Secure .gov websites use HTTPS
+ A lock ( LockA locked padlock ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.
+
+ MENU
+
+ Sign in
+
+ My jobs
+
+ Profile
+
+ Resumes & documents
+
+ Notifications
+
+ Talent networks
+
+ Sign out
+
+ My jobs
+
+ Profile
+
+ Resumes & documents
+
+ Notifications
+
+ Talent networks
+
+ Sign out
+
+ Events
+
+ Help Center
+
+ Search
+
+ Back to results
+
+ Apply
+
+ Supervisory Accountant
+
+Department of Homeland Security
+
+Cybersecurity and Infrastructure Security Agency
+
+Office of the Chief Financial Officer
+
+Apply
+
+ Print
+
+ Share
+
+ Save
+
+ Summary
+
+ This job is open to
+
+ Duties
+
+ Requirements
+
+ How you will be evaluated
+
+ Required documents
+
+ How to apply
+
+Summary
+
+The Cybersecurity and Infrastructure Security Agency (CISA) is the Nation's risk advisor, working with partners to defend against today's threats and collaborating with industry to build a more secure and resilient infrastructure for the future.
+
+ Learn more about this agency
+
+Summary
+
+The Cybersecurity and Infrastructure Security Agency (CISA) is the Nation's risk advisor, working with partners to defend against today's threats and collaborating with industry to build a more secure and resilient infrastructure for the future.
+
+ Learn more about this agency
+
+Overview
+
+ Help
+
+Accepting applications
+
+Location
+
+1 vacancy in the following locations:
+
+ Military Spouses and U.S. Foreign Service Spouses Only
+
+Location Negotiable After Selection
+
+ Arlington, VA
+
+ No matching locations found.
+
+Work site options
+
+Telework eligible
+
+Yes—as determined by the agency policy.
+
+Remote job
+
+No
+
+Relocation expenses reimbursed
+
+ No
+
+Salary
+
+ $143,913 - $187,093 per year
+
+Pay scale & grade
+
+GS 14
+
+Promotion potential
+
+None
+
+ Learn more about pay scale and grade
+
+ Pay scale and grade determines the salary of the job.
+
+Work schedule
+
+Full-time
+
+Travel Required
+
+Occasional travel - You may be expected to travel for this position.
+
+Appointment type
+
+Permanent
+
+Occupations and job series
+
+ 0510 Accounting
+
+Supervisory status
+
+Yes
+
+Federal service type
+
+This job is in the Competitive Service
+
+Represented by a union
+
+No
+
+Drug test
+
+Yes
+
+Security clearance
+
+Not Required
+
+Position sensitivity and risk
+
+Moderate Risk (MR)
+
+ Jobs require a
+ background check and some require a
+ security clearance. The type depends on the job.
+
+Background check type
+
+ Credentialing
+
+ Suitability/Fitness
+
+Financial disclosure required
+
+No
+
+ Some jobs require
+ financial disclosure to identify conflicts of interests.
+
+Announcement number
+
+OCFO-ST-13090653-27-MB
+
+Control number
+
+891491200
+
+This job is open to
+
+ Help
+
+Federal employees - Competitive service
+
+ Current federal employees whose agencies follow the U.S. Office of Personnel Management's hiring rules and pay scales.
+
+Career transition (CTAP, ICTAP, RPL)
+
+ Federal employees whose job, agency or department was eliminated and are eligible for priority over other applicants.
+
+Land and base management
+
+ Current or former employees of a base management agency.
+
+Veterans
+
+ Veterans of the U.S. Armed Forces or a spouse, widow, widower or parent of a veteran, who may be eligible for derived preference
+
+Military spouses
+
+ Military spouses of active duty service members or whose spouse is 100 percent disabled or died on active duty.
+
+Individuals with disabilities
+
+ Individuals who are eligible under Schedule A.
+
+Family of overseas employees
+
+ Family members of a federal employee or uniformed service member who is or was, working overseas.
+
+Peace Corps & AmeriCorps Vista
+
+ Individuals who have served at least 2 years with the Peace Corps or 1 year with AmeriCorps VISTA.
+
+Special authorities
+
+ Individuals eligible under a special authority not listed in another hiring path.
+
+Clarification from the agency
+
+• Current or former competitive service federal employees with career or career-conditional tenure • Surplus or Displaced (CTAP or ICTAP) • Land Management • Individuals with Disabilities • Military Spouses • Veterans Employment Opportunity Act (VEOA) • Veterans Recruitment Appointment (VRA) • 30% or More Disabled Veterans • Peace Corps & AmeriCorps VISTA • Interchange Agreements with Other Merit Systems • Foreign Service Employees • Certain Former Overseas Employees
+
+Videos
+
+Duties
+
+ Help
+
+ Typical work assignments include, but are not limited to:
+
+Evaluates program effectiveness by means of program accomplishment, quality and quantity of work produced, established performance standards, procedural, policy and regulatory compliance and technical competence.
+
+Implements planning strategies and controls for submission of data, including recommending protocols for the basis of budget requests/expenditures, audit and program resource requests/allocations and decisions.
+
+Responsible for issuance, maintenance, and accuracy of fiscal policy and procedures.
+
+Reviews fiscal operating policies and procedures, and applicable laws, regulations, and program guidelines of field office support staff for the purpose of determining conformity to federal requirements.
+
+Drafts and fianlizes instructions, procedures, manuals, etc., for leadership approval involving proposed fiscal system(s) or correction to any deficiencies in teh accounting system.
+
+Military Spouses & US Foreign Service Spouses Only: This position is remote work and telework eligible consistent with the Agency's telework and remote work program policy. Applicants who live within the local commuting area (i.e., a 50-mile or less radius from Glebe Road, Arlington VA (not driving distance)) are eligible for 100% telework in accordance with agency policy.
+
+Requirements
+
+ Help
+
+Conditions of employment
+
+You must be a U.S. citizen.
+
+Complete the initial online assessment and USA Hire Assessment, if required.
+
+Selective Service - Males born after 12/31/59 must be registered or exempt from Selective Service see http://www.sss.gov/
+
+All Federal employees are required to participate in Direct Deposit/ Electronic Funds Transfer for salary payments.
+
+DHS uses e-Verify, an Internet-based system, to confirm the eligibility of all newly hired employees to work in the United States. Learn more about E-Verify, including your rights and responsibilities.
+
+You must be able to obtain and maintain a security clearance suitable for Federal employment as determined by a background investigation. This may include a credit check, a review of financial issues, as well as certain criminal offenses and illegal use or possession of drugs.
+
+Current Federal employees must meet time-in-grade requirements.
+
+This position may be designated as essential personnel. Essential personnel must be able to serve during continuity of operation events without regard to declarations of liberal leave or government closures due to weather, protests, and acts of terrorism or lack of funding. Failure to report for or remain in this position may result in disciplinary or adverse action in accordance with applicable laws, rules, and regulations (5 U.S.C. 7501-7533 and 5 CFR Part 752, as applicable).
+
+This position requires a pre-employment drug test. All applicants tentatively selected for this position will be required to submit to a drug test to screen for illicit/illegal drug use prior to receiving a final offer of employment. A final offer of employment is contingent upon a negative.
+
+Qualifications
+
+ Do NOT copy and paste the duties, specialized experience, or occupational assessment questionnaire from this announcement into your resume as that will not be considered a demonstration of your qualifications for this position. Your resume must describe your work and experience, in your own words.
+
+To be considered minimally qualified for this position, you must demonstrate that you have the required education and experience for the respective grade level in which you are applying.
+
+Applicants must demonstrate that they meet the Basic Requirements AND Minimum Qualification requirements as listed below.
+
+BASIC REQUIREMENTS:
+
+A. Degree: Bachelor's or higher degree from an accredited institution that included a major field of study in accounting; or a degree in a related field such as business administration, finance, or public administration that included or was supplemented by 24 semester hours or 36 quarter hours in accounting. The 24 semester hours or 36 quarter hours may include up to 6 semester hours or 9 quarter hours of credit in business law. (Note: You must attach a copy of your transcripts).
+
+OR
+
+B. Combination of education and experience: A combination of education and experience with at least 4 years of experience in accounting, or an equivalent combination of accounting experience, college-level education, and training that provided professional accounting knowledge AND include one of the following: (1) 24 semester hours or 36 quarter hours in accounting or auditing courses of appropriate type and quality. This can include up to 6 semester hours or 9 quarter hours of business law; (2) A certificate as Certified Public Accountant or a Certified Internal Auditor, obtained through written examination; or (3) Completion of the requirements for a degree that included substantial course work in accounting or auditing, e.g., 15 semester hours or 22.5 quarter hours, but that does not fully satisfy the 24 semester hour or 36 quarter hour requirement of statement A above, provided that (a) I have successfully worked at the full-performance level in accounting, auditing, or a related field, e.g., valuation engineering or financial institution examining; (b) a panel of at least two higher level professional accountants or auditors has determined that I have demonstrated a good knowledge of accounting and of related and underlying fields that equals in breadth, depth, currency, and level of advancement that which is normally associated with successful completion of the 4-year course of study described in statement A above; and (c) except for literal nonconformance to the requirement of 24 semester hours or 36 quarter hours in accounting, my education, training, and experience fully meet the specified requirements. (Note: You must attach a copy of your transcripts and/or certificate).
+
+IN ADDITION TO MEETING THE BASIC REQUIREMENTS ABOVE, YOU MUST ALSO MEET THE FOLLOWING MINIMUM QUALIFICATIONS:
+
+You qualify at the GS-14 grade level, if you have:
+
+EXPERIENCE: At least one (1) year of specialized experience at the GS-13 grade level (or equivalent) performing all the following duties:
+
+Mastery knowledge and skill of financial management concepts, principles, practices, laws, regulations and accounting policies, systems and procedures to provide staff direction and guidance;
+
+Ability to apply a high level of sound, independent judgment in the solution of financial related issues, questions, and problems related to the agency management program and develop methods to monitor and measure risk, compliance, and assurance efforts;
+
+Provides broad administrative and policy direction to standardize business processes, specifically as it relates to internal controls, and the financial statement audit. This includes the drafting of Directives, Standard Operating Procedures, and desk guides;
+
+Reviews fiscal related submissions for substance, and conformance with instructions, completeness, accuracy, and appropriate authorizations; AND
+
+Supervises a staff engaged in substantive professional, technical or administrative work. Supervisory functions include responsibility for ensuring timely performance of satisfactory volumes and quality of work, acceptance, amendment, or rejection of work.
+
+Experience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., Peace Corps, AmeriCorps) and other organizations (e.g., professional; philanthropic; religious; spiritual; community, student, social). Volunteer work helps build critical competencies, knowledge, and skills and can provide valuable training and experience that translates directly to paid employment. You will receive credit for all qualifying experience, including volunteer experience.
+
+Time-in-Grade Requirements: Under competitive merit promotion procedures, any individual who is currently holding, or who has held within the previous 52 weeks, a General Schedule (GS) position under a non-temporary appointment in the competitive or excepted service, must meet "time-in-grade" requirements (have served 52 weeks at the next lower grade of the grade for which you are applying). NOTE: Current or former GS federal civilian employees, within the previous 52 weeks, applying for a position under the Veterans Employment Opportunities Act (VEOA) must meet time-in-grade requirements.
+
+Time After Competitive Appointment: By the closing date specified in this job announcement, current Federal civilian employees must wait at least 90 days after their latest non-temporary appointment from a competitive service referral certificate before promotion, transfer, reinstatement, reassignment, or detail.
+
+All qualification requirements, including Time-in-Grade, must be met by the closing date of this announcement. Qualification AND Time-in-Grade claims will be subject to verification.
+
+Education
+
+ If you are using your education to meet all or part of the qualification requirements specified in the "Qualifications" section of this announcement, you MUST submit a copy of your transcripts or equivalent with your application. Unofficial transcripts will be accepted that include your name, the name of the educational institution, course title(s), number of credits, grade, and date of completion. An official transcript will be required if you are selected. Failure to submit the required transcript may result in an ineligible determination.
+
+NOTE: When academic credit is expressed in contract months, units, or other terms that differ from conventional semester or quarter hours, it is the responsibility of the applicant to provide an interpretation of such credits from the appropriate institution in order to equate them to the specified semester or quarter hours.
+
+Education must be from an accredited institution recognized by the U.S. Department of Education in order for it to be credited towards qualifications. Therefore, provide only the attendance and/or degrees from schools accredited by accrediting institutions recognized by the U.S. Department of Education.
+
+Graduate Education: One academic year of graduate education is the number of credits hours your graduate school has determined to represent one academic year of full-time study. Such study may have been performed on a full-time or part-time basis. If you cannot obtain your graduate school's definition of one year of graduate study, 18 semester hours (or 27 quarter hours) should be considered as satisfying the requirement for one year of full-time graduate study.
+
+Foreign Education: Education completed in foreign colleges or universities may be used to meet the qualification requirements. You must show the education credentials have been evaluated by a private U.S. organization that specializes in interpretation of foreign educational credentials and such education has been deemed equivalent to that gained in an accredited U.S. education program. It is your responsibility to provide such evidence with your application. See Recognition of Foreign Qualifications for more information.
+
+Additional information
+
+Other incentives may be authorized.
+
+If you receive a conditional offer of employment for this position, you will be required to complete an Optional Form 306, Declaration for Federal Employment, and to sign and certify the accuracy of all information in your application, prior to entry on duty. False statements on any part of the application may result in withdrawal of offer of employment, dismissal after beginning work, fine, or imprisonment.
+
+Additional vacancies may be filled with this announcement.
+
+A one-year probationary period may be required during which we will evaluate your fitness and whether your continued employment advances the public interest. We may consider your performance and conduct, the needs and interests of the agency, whether your continued employment would advance organizational goals of the agency or the Government, and whether your continued employment would advance the efficiency of the Federal service. Upon completion of your probationary period your employment will be terminated unless you receive certification, in writing, that your continued employment advances the public interest.
+
+Military Spouses & US Foreign Service Spouses Only: The actual salary will be adjusted based on the grade, step, and locality for the selectee's geographic location. The remote worker's locality pay is based on the location of the employee's residence. General Schedule (GS) locality pay tables may be found at Salaries & Wages.
+
+Under provisions of the Civil Service Reform Act, first time supervisors and/or managers will be required to serve a one-year probationary period. You may also be required to complete an appropriate supervisory training course within one year of assignment to this position.
+
+Reasonable Accommodation (RA) Requests: If you believe you have a disability (i.e., physical or mental), covered by the Rehabilitation Act of 1973 as amended that would interfere with completing the USA Hire Competency Based Assessments, you will be granted the opportunity to request a RA in your online application. Requests for RA for the USA Hire Competency Based Assessments and appropriate supporting documentation for RA must be received prior to starting the USA Hire Competency Based Assessments. Decisions on requests for RA are made on a case-by-case basis. If you meet the minimum qualifications of the position, after notification of the adjudication of your request, you will receive an email invitation to complete the USA Hire Competency Based Assessments, based on your adjudication decision. You must complete all assessments within 48 hours of receiving the URL to access the USA Hire Competency Based Assessments, if you received the link after the close of the announcement. To determine if you need a RA, please review the Procedures for Requesting a Reasonable Accommodation for Online Assessments.
+
+Current or Former Political Appointees: The Office of Personnel Management (OPM) must authorize employment offers made to current or former political appointees. If you are currently, or have been within the last 5 years, a political Schedule A, Schedule C, Non-career SES or Presidential Appointee employee in the Executive Branch, you must disclose this information to the Human Resources Office.
+
+ Expand Hide  additional information
+
+Candidates should be committed to improving the efficiency of the Federal government, passionate about the ideals of our American republic, and committed to upholding the rule of law and the United States Constitution.
+
+Benefits
+
+ Help
+
+ A career with the U.S. government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding. Opens in a new windowLearn more about federal benefits.
+
+ Review our benefits
+
+Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time or intermittent. Contact the hiring agency for more information on the specific benefits offered.
+
+How you will be evaluated
+
+You will be evaluated for this job based on how well you meet the qualifications above.
+
+ Your qualifications will be evaluated based on your application materials (e.g., resume, supporting documents), your responses on the application questionnaire, and your responses to all assessments required for this position.
+
+You will be assessed on the following competencies (knowledge, skills, abilities, and other characteristics):
+
+Accountability
+Customer Service
+Decisiveness
+Flexibility
+Interpersonal Skills
+Problem Solving
+Resilience
+
+Overstating your qualifications and/or experience in your application materials or application questionnaire may result in your removal from consideration. Cheating on an assessment may also result in your removal from consideration.
+
+For Competitive Merit Promotion and Veterans Employment Opportunities Act (VEOA) Applicants: The highest rated candidates will be referred to the hiring agency.
+
+For Non-competitive Appointment Eligibles: All qualified candidates will be referred to the hiring agency.
+
+Interagency/Career Transition Assistance Program (I/CTAP) Eligibles: If you have never worked for the federal government, you are not I/CTAP eligible. View information about I/CTAP eligibility on OPM's Career Transition Resources website. To be considered well-qualified under I/CTAP, you must be rated at a minimum score of 85 for this position. In addition, you must submit the supporting documents listed under the required documents section of this job announcement.
+
+Veterans Employment Opportunities Act (VEOA): To be eligible for a VEOA appointment, the veteran must 1) be a preference eligible; or 2) be a veteran separated after 3 or more years of continuous active service performed under honorable conditions. In addition, you must submit the supporting documents listed under the required documents section of this announcement. (Note: Veteran's preference does not apply under Merit Promotion procedures.)
+
+The Department of Homeland Security encourages persons with disabilities to apply, to include persons with intellectual, severe physical or psychiatric disabilities, as defined by 5 CFR 213.3102(u), and or Disabled Veterans with a compensable service-connected disability of 30 percent or more as defined by 5 CFR 315.707. Veterans, Peace Corps, VISTA volunteers, and persons with disabilities possess a wealth of unique talents, experiences, and competencies that can be invaluable to the DHS mission. If you are a member of one of these groups, you may not have to compete with the public for federal jobs. To determine your eligibility for non-competitive appointment and to understand the required documentation, click on the links above or contact the servicing Human Resources Office listed at the bottom of this announcement.
+
+To preview the application questionnaire, click here: https://apply.usastaffing.gov/ViewQuestionnaire/13090653
+
+Benefits
+
+ Help
+
+ A career with the U.S. government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding. Opens in a new windowLearn more about federal benefits.
+
+ Review our benefits
+
+Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time or intermittent. Contact the hiring agency for more information on the specific benefits offered.
+
+Required documents
+
+Required Documents
+
+ Help
+
+ All documents, including transcripts, must be in English.
+
+1. RESUME: Limit your resume to no more than two pages. The USAJOBS database will not allow an applicant to submit an application that includes a resume over two pages. Be clear and specific in describing your job-related qualifications, as HR cannot make assumptions regarding your experience. For qualification determination, you MUST include dates of employment (month and year) and hours worked per week. For Federal civilian service, you MUST include your series and grade. Do NOT include photographs, social media links (e.g., LinkedIn, GitHub), inappropriate content, or other personal or sensitive information such as date of birth, social security number, gender, religious affiliation. IF INCLUDED YOUR RESUME WILL NOT BE CONSIDERED.
+
+2. COMPLETE APPLICATION QUESTIONNAIRE AND ONLINE USA HIRE ASSESSMENTS
+
+If you are requesting a reasonable accommodation for the USA Hire Assessments, submit a Reasonable Accommodation Request and provide documentation to support your request.
+
+3. OTHER SUPPORTING DOCUMENTS (only submit if applicable):
+
+CURRENT OR FORMER FEDERAL CIVILIAN EMPLOYEE: Submit a copy of your most recent SF-50, Notification of Personnel Action which shows the grade, step, tenure (block 24) "1" (Career) or "2" (Career-Conditional), and position occupied (block 34) "1" (Competitive Service). Schedule Policy/Career employees submit a copy of your initial appointment SF-50 and proof of competitive status. Provide proof of permanent appointment if applying based on an Interchange Agreement. If applying for a higher grade, provide a SF-50 which shows the length of time you have been in your current/highest grade or promotion potential held. You may need to provide more than one (1) SF-50,if your SF-50 does not clearly demonstrate that you meet the one-year time-in-grade requirement(examples of appropriate SF-50s include Appointment/Conversion, Within-Grade/Range Increases and Promotion actions). NOTE: Pay adjustments and awards are NOT acceptable.
+
+QUALIFYING BASED ON EDUCATION: Submit a copy of your transcripts from an accredited institution. Unofficial transcripts will be accepted that includes your name, educational institution name, declared degree program, course title(s), credits completed, grade, date of completion, Grade Point Average (GPA), and date of degree conferral. If selected, an official transcript will be required.
+
+VETERAN DOCUMENTATION: Submit a copy of your DD-214, Certificate of Release or Discharge from Active Duty (Member Copy 4 or equivalent).
+
+ACTIVE DUTY SERVICE MEMBERS: If applying based on eligibility under the Veterans Opportunity to Work (VOW) Act, you must submit certification from the Armed Forces that you will be discharged or released from active duty within 120 days from the date on the certification. This must indicate your dates of active service, rank/grade, expected character of service (i.e., honorable or general) and type of separation (i.e., separation or retirement). NOTE: The VOW Act provides tentative preference. If selected, a DD-214 must be provided prior to appointment.
+
+10-POINT VETERANS' PREFERENCE: Submit a SF-15 and provide an official document from the Department of Veterans Affairs or from a branch of the Armed Forces certifying your overall compensable service-connected disability rating (NOTE: Your overall percentage must be clearly shown), and/or any other associated documentation based on your preference.
+
+NONCOMPETITIVE OR SPECIAL HIRING AUTHORITIES: (e.g.,Military Spouses, Individuals with Disabilities, Peace Corps & AmeriCorps VISTA, Land Management, Former Overseas Employees, etc.) Submit documentation of proof that supports your eligibility.
+
+INTERAGENCY/CAREER TRANSITION ASSISTANCE PROGRAM (I/CTAP): Submit a copy of the following:
+
+Reduction in Force (RIF) separation notice, notice of proposed removal for failure to relocate, notice of disability annuity termination, or certification from the National Guard Bureau or Military Department that you are eligible for disability retirement;
+
+SF-50 "Notification of Personnel Action'', documenting your RIF separation, noting your position, grade level, and duty location, and/or Agency certification of inability to place you through reemployment priority list (RPL), etc.;
+
+Latest performance appraisal including your rating; AND
+
+Any documentation from your agency that shows your current promotion potential.
+
+CURRENT OR FORMER POLITICAL SCHEDULE A, SCHEDULE C, NON-CAREER SES OR PRESIDENTIAL APPOINTEE EMPLOYEE: Submit a copy of your applicable SF-50, along with a statement that provides the following information regarding your most recent political appointment:
+
+Position title;
+
+Type of appointment (Schedule A, Schedule C, Non-career SES, or Presidential Appointee);
+
+Agency; AND
+
+Beginning and ending dates of appointment.
+
+How to Apply
+
+ Help
+
+Please read the entire announcement and all the instructions before you begin an application. To apply for this position, you must complete all required questionnaires, assessments, and submit the documentation specified in the Required Documents section below.
+
+A complete application package must be submitted by 11:59 PM (EST) on 11/09/2026 to receive consideration. It is your responsibility to ensure all required documents have been submitted.
+
+The application process is as follows:
+
+To begin, click Apply to access the online application. You will need to be logged into your USAJOBS account to apply. If you do not have a USAJOBS account, you will need to create one before beginning the application.
+
+Answer the questions presented in the application and attach all necessary supporting documentation. Only resumes up to a total of two pages will be accepted. Applicants with resumes exceeding two pages will be removed from consideration. If you submit multiple versions of your resume, only the most recent version, based on the submission date and/or time, will be reviewed for qualification determinations.
+
+Click Submit Application prior to 11:59 PM (EST) on 11/09/2026.
+
+If you are required to complete any USA Hire Assessments, you will be notified after submitting your application. The notification will be provided in your application submission screen and via email. The notification will include your unique assessment access link to the USA Hire system and the completion deadline. Additionally, in USAJOBS you can click "Track this application" to return to your assessment completion notice.
+
+Access USA Hire using your unique assessment link. Access is granted through your USAJOBS login credentials.
+
+Review all instructions prior to beginning your assessments. You will have the opportunity to request a testing accommodation before beginning the assessments should you have a disability covered under the Rehabilitation Act of 1973 as amended.
+
+Set aside about 1 hour to take the USA Hire assessments; however, most applicants complete the assessments in less time. If you need to stop the assessments and continue later, you can re-use your unique assessment link.
+
+Your responses to the USA Hire Assessments will be reused for one year (in most cases) from the date you complete an assessment. If future applications you submit require completion of the same assessments, your responses will be automatically reused.
+
+Visit the USA Hire Applicant Resource Center for practice assessments and assessment preparation resources.
+
+To update your application, including supporting documentation: You may update your application documents and some questions related to your personal information at any time during the announcement open period. However, you will not be able to make changes to questions related to assessing the minimum qualifications and competencies (knowledge, skills, abilities and other characteristics) mentioned in the "How You Will Be Evaluated" section above. To make an allowed update to your application, return to your USAJOBS account. There you will find a record of your application, the application status, and an option to Edit my application. This option will no longer be available once the announcement has closed.
+
+To verify the status of your application, log into your USAJOBS account at https://usajobs.gov, all your applications will appear on the Welcome screen. The Application Status will appear along with the date your application was last updated. For information on what each Application Status means, visit: https://help.usajobs.gov/how-to/application/status.
+
+Shared Certificate: After CISA completes its hiring, the resumes of the remaining candidates referred for selection consideration may be shared with other DHS Components. During the application process, you may choose to opt-in if you would like your name, application material, and assessment results to be shared. There is no guarantee of further consideration, and you continue to explore other job opportunity announcements.
+
+Agency contact information
+
+ Michele Byers
+
+Email
+
+ michele.byers@associates.cisa.dhs.gov
+
+Address
+
+ Cybersecurity and Infrastructure Security Agency
+
+ 1110 N Glebe Rd
+
+ Arlington, VA 22201
+
+ US
+
+Next steps
+
+Your status will be updated on USAJOBS throughout the process. We expect to make a job offer within 30-60 days after the deadline for applications. If you are determined qualified, you may be referred to the hiring manager for consideration and may be called for an in-person or phone panel interview. If you are selected, we will conduct a suitability/security background investigation.
+
+Any offers of employment made pursuant to this announcement will be consistent with all applicable authorities, including Presidential Memoranda, Executive Orders, interpretive U.S. Office of Management and Budget (OMB) and U.S. Office of Personnel Management (OPM) guidance, and Office of Management and Budget plans and policies concerning hiring. These authorities are subject to change.
+
+Notice to Applicants - The Cybersecurity and Infrastructure Security Agency (CISA) is subject to the provisions of the Fair Chance to Compete for Jobs Act of 2019. Unless excluded by law, all CISA hiring officials and agency representatives are statutorily prohibited from asking applicants to disclose their criminal history record information prior to receiving a conditional offer of employment. Applicants may submit a complaint, or any other information, to the CISA Office of the Chief Human Capital Officer Human Capital Policy and Programs Subdivision at email cisa.ochco.pa@cisa.dhs.gov within 30 calendar days of the date of the alleged non-compliance by a CISA hiring manager or agency representative.
+
+Thank you for your interest in the Department of Homeland Security, Cybersecurity and Infrastructure Security Agency!
+
+Fair and transparent
+
+The Federal hiring process is set up to be fair and transparent. Please read the following guidance.
+
+ Criminal history inquiries
+
+ Equal Employment Opportunity (EEO) Policy
+
+ Financial suitability
+
+ New employee probationary period
+
+ Privacy Act
+
+ Reasonable accommodation policy
+
+ Selective Service
+
+ Signature and false statements
+
+ Social security number request
+
+Required Documents
+
+ Help
+
+ All documents, including transcripts, must be in English.
+
+1. RESUME: Limit your resume to no more than two pages. The USAJOBS database will not allow an applicant to submit an application that includes a resume over two pages. Be clear and specific in describing your job-related qualifications, as HR cannot make assumptions regarding your experience. For qualification determination, you MUST include dates of employment (month and year) and hours worked per week. For Federal civilian service, you MUST include your series and grade. Do NOT include photographs, social media links (e.g., LinkedIn, GitHub), inappropriate content, or other personal or sensitive information such as date of birth, social security number, gender, religious affiliation. IF INCLUDED YOUR RESUME WILL NOT BE CONSIDERED.
+
+2. COMPLETE APPLICATION QUESTIONNAIRE AND ONLINE USA HIRE ASSESSMENTS
+
+If you are requesting a reasonable accommodation for the USA Hire Assessments, submit a Reasonable Accommodation Request and provide documentation to support your request.
+
+3. OTHER SUPPORTING DOCUMENTS (only submit if applicable):
+
+CURRENT OR FORMER FEDERAL CIVILIAN EMPLOYEE: Submit a copy of your most recent SF-50, Notification of Personnel Action which shows the grade, step, tenure (block 24) "1" (Career) or "2" (Career-Conditional), and position occupied (block 34) "1" (Competitive Service). Schedule Policy/Career employees submit a copy of your initial appointment SF-50 and proof of competitive status. Provide proof of permanent appointment if applying based on an Interchange Agreement. If applying for a higher grade, provide a SF-50 which shows the length of time you have been in your current/highest grade or promotion potential held. You may need to provide more than one (1) SF-50,if your SF-50 does not clearly demonstrate that you meet the one-year time-in-grade requirement(examples of appropriate SF-50s include Appointment/Conversion, Within-Grade/Range Increases and Promotion actions). NOTE: Pay adjustments and awards are NOT acceptable.
+
+QUALIFYING BASED ON EDUCATION: Submit a copy of your transcripts from an accredited institution. Unofficial transcripts will be accepted that includes your name, educational institution name, declared degree program, course title(s), credits completed, grade, date of completion, Grade Point Average (GPA), and date of degree conferral. If selected, an official transcript will be required.
+
+VETERAN DOCUMENTATION: Submit a copy of your DD-214, Certificate of Release or Discharge from Active Duty (Member Copy 4 or equivalent).
+
+ACTIVE DUTY SERVICE MEMBERS: If applying based on eligibility under the Veterans Opportunity to Work (VOW) Act, you must submit certification from the Armed Forces that you will be discharged or released from active duty within 120 days from the date on the certification. This must indicate your dates of active service, rank/grade, expected character of service (i.e., honorable or general) and type of separation (i.e., separation or retirement). NOTE: The VOW Act provides tentative preference. If selected, a DD-214 must be provided prior to appointment.
+
+10-POINT VETERANS' PREFERENCE: Submit a SF-15 and provide an official document from the Department of Veterans Affairs or from a branch of the Armed Forces certifying your overall compensable service-connected disability rating (NOTE: Your overall percentage must be clearly shown), and/or any other associated documentation based on your preference.
+
+NONCOMPETITIVE OR SPECIAL HIRING AUTHORITIES: (e.g.,Military Spouses, Individuals with Disabilities, Peace Corps & AmeriCorps VISTA, Land Management, Former Overseas Employees, etc.) Submit documentation of proof that supports your eligibility.
+
+INTERAGENCY/CAREER TRANSITION ASSISTANCE PROGRAM (I/CTAP): Submit a copy of the following:
+
+Reduction in Force (RIF) separation notice, notice of proposed removal for failure to relocate, notice of disability annuity termination, or certification from the National Guard Bureau or Military Department that you are eligible for disability retirement;
+
+SF-50 "Notification of Personnel Action'', documenting your RIF separation, noting your position, grade level, and duty location, and/or Agency certification of inability to place you through reemployment priority list (RPL), etc.;
+
+Latest performance appraisal including your rating; AND
+
+Any documentation from your agency that shows your current promotion potential.
+
+CURRENT OR FORMER POLITICAL SCHEDULE A, SCHEDULE C, NON-CAREER SES OR PRESIDENTIAL APPOINTEE EMPLOYEE: Submit a copy of your applicable SF-50, along with a statement that provides the following information regarding your most recent political appointment:
+
+Position title;
+
+Type of appointment (Schedule A, Schedule C, Non-career SES, or Presidential Appointee);
+
+Agency; AND
+
+Beginning and ending dates of appointment.
+
+How to Apply
+
+ Help
+
+Please read the entire announcement and all the instructions before you begin an application. To apply for this position, you must complete all required questionnaires, assessments, and submit the documentation specified in the Required Documents section below.
+
+A complete application package must be submitted by 11:59 PM (EST) on 11/09/2026 to receive consideration. It is your responsibility to ensure all required documents have been submitted.
+
+The application process is as follows:
+
+To begin, click Apply to access the online application. You will need to be logged into your USAJOBS account to apply. If you do not have a USAJOBS account, you will need to create one before beginning the application.
+
+Answer the questions presented in the application and attach all necessary supporting documentation. Only resumes up to a total of two pages will be accepted. Applicants with resumes exceeding two pages will be removed from consideration. If you submit multiple versions of your resume, only the most recent version, based on the submission date and/or time, will be reviewed for qualification determinations.
+
+Click Submit Application prior to 11:59 PM (EST) on 11/09/2026.
+
+If you are required to complete any USA Hire Assessments, you will be notified after submitting your application. The notification will be provided in your application submission screen and via email. The notification will include your unique assessment access link to the USA Hire system and the completion deadline. Additionally, in USAJOBS you can click "Track this application" to return to your assessment completion notice.
+
+Access USA Hire using your unique assessment link. Access is granted through your USAJOBS login credentials.
+
+Review all instructions prior to beginning your assessments. You will have the opportunity to request a testing accommodation before beginning the assessments should you have a disability covered under the Rehabilitation Act of 1973 as amended.
+
+Set aside about 1 hour to take the USA Hire assessments; however, most applicants complete the assessments in less time. If you need to stop the assessments and continue later, you can re-use your unique assessment link.
+
+Your responses to the USA Hire Assessments will be reused for one year (in most cases) from the date you complete an assessment. If future applications you submit require completion of the same assessments, your responses will be automatically reused.
+
+Visit the USA Hire Applicant Resource Center for practice assessments and assessment preparation resources.
+
+To update your application, including supporting documentation: You may update your application documents and some questions related to your personal information at any time during the announcement open period. However, you will not be able to make changes to questions related to assessing the minimum qualifications and competencies (knowledge, skills, abilities and other characteristics) mentioned in the "How You Will Be Evaluated" section above. To make an allowed update to your application, return to your USAJOBS account. There you will find a record of your application, the application status, and an option to Edit my application. This option will no longer be available once the announcement has closed.
+
+To verify the status of your application, log into your USAJOBS account at https://usajobs.gov, all your applications will appear on the Welcome screen. The Application Status will appear along with the date your application was last updated. For information on what each Application Status means, visit: https://help.usajobs.gov/how-to/application/status.
+
+Shared Certificate: After CISA completes its hiring, the resumes of the remaining candidates referred for selection consideration may be shared with other DHS Components. During the application process, you may choose to opt-in if you would like your name, application material, and assessment results to be shared. There is no guarantee of further consideration, and you continue to explore other job opportunity announcements.
+
+ Expand Hide  how to apply
+
+Agency contact information
+
+ Michele Byers
+
+Email
+
+ michele.byers@associates.cisa.dhs.gov
+
+Address
+
+ Cybersecurity and Infrastructure Security Agency
+
+ 1110 N Glebe Rd
+
+ Arlington, VA 22201
+
+ US
+
+Next steps
+
+Your status will be updated on USAJOBS throughout the process. We expect to make a job offer within 30-60 days after the deadline for applications. If you are determined qualified, you may be referred to the hiring manager for consideration and may be called for an in-person or phone panel interview. If you are selected, we will conduct a suitability/security background investigation.
+
+Any offers of employment made pursuant to this announcement will be consistent with all applicable authorities, including Presidential Memoranda, Executive Orders, interpretive U.S. Office of Management and Budget (OMB) and U.S. Office of Personnel Management (OPM) guidance, and Office of Management and Budget plans and policies concerning hiring. These authorities are subject to change.
+
+Notice to Applicants - The Cybersecurity and Infrastructure Security Agency (CISA) is subject to the provisions of the Fair Chance to Compete for Jobs Act of 2019. Unless excluded by law, all CISA hiring officials and agency representatives are statutorily prohibited from asking applicants to disclose their criminal history record information prior to receiving a conditional offer of employment. Applicants may submit a complaint, or any other information, to the CISA Office of the Chief Human Capital Officer Human Capital Policy and Programs Subdivision at email cisa.ochco.pa@cisa.dhs.gov within 30 calendar days of the date of the alleged non-compliance by a CISA hiring manager or agency representative.
+
+Thank you for your interest in the Department of Homeland Security, Cybersecurity and Infrastructure Security Agency!
+
+ Expand Hide  next steps
+
+Fair and transparent
+
+The Federal hiring process is set up to be fair and transparent. Please read the following guidance.
+
+ Criminal history inquiries
+
+ Equal Employment Opportunity (EEO) Policy
+
+ Financial suitability
+
+ New employee probationary period
+
+ Privacy Act
+
+ Reasonable accommodation policy
+
+ Selective Service
+
+ Signature and false statements
+
+ Social security number request
+
+ Cybersecurity and Infrastructure Security Agency
+
+ The Department of Homeland Security (DHS) is calling on those who want to help protect American interests and secure our Nation. DHS Components work collectively to prevent terrorism; secure borders and our transportation systems; protect the President and other dignitaries; enforce and administer immigration laws; safeguard cyberspace; and ensure resilience to disasters. We achieve these vital missions through a diverse workforce spanning hundreds of occupations. Make an impact; join DHS.
+
+The Cybersecurity and Infrastructure Security Agency (CISA) leads the national effort to defend critical infrastructure against the threats of today, while working with partners across all levels of government and in the private sector to secure against the evolving risks of tomorrow. CISA's mission includes protecting the Federal Government's networks and physical infrastructure, to helping entities in the public and private sectors manage potential risk, to enhancing public safety communications at all levels of government. CISA's multi-faceted mission is home to a wide range of career fields including cybersecurity, program management, business administration, communications, and data science.
+
+Joining CISA means being part of the team focused on securing the Nation's physical and cyber infrastructure against threats to public health and safety, economy, and national security; we Defend Today, Secure Tomorrow.
+
+Agency contact information
+
+ Michele Byers
+
+Email
+
+ michele.byers@associates.cisa.dhs.gov
+
+Address
+
+ Cybersecurity and Infrastructure Security Agency
+
+ 1110 N Glebe Rd
+
+ Arlington, VA 22201
+
+ US
+
+Visit our careers page
+
+ Learn more about what it's like to work at Cybersecurity and Infrastructure Security Agency, what the agency does, and about the types of careers this agency offers.
+
+ https://www.cisa.gov/careers
+
+Summary
+
+The Cybersecurity and Infrastructure Security Agency (CISA) is the Nation's risk advisor, working with partners to defend against today's threats and collaborating with industry to build a more secure and resilient infrastructure for the future.
+
+ Learn more about this agency
+
+Overview
+
+ Help
+
+Accepting applications
+
+Location
+
+1 vacancy in the following locations:
+
+ Military Spouses and U.S. Foreign Service Spouses Only
+
+Location Negotiable After Selection
+
+ Arlington, VA
+
+ No matching locations found.
+
+Work site options
+
+Telework eligible
+
+Yes—as determined by the agency policy.
+
+Remote job
+
+No
+
+Relocation expenses reimbursed
+
+ No
+
+Salary
+
+ $143,913 - $187,093 per year
+
+Pay scale & grade
+
+GS 14
+
+Promotion potential
+
+None
+
+ Learn more about pay scale and grade
+
+ Pay scale and grade determines the salary of the job.
+
+Work schedule
+
+Full-time
+
+Travel Required
+
+Occasional travel - You may be expected to travel for this position.
+
+Appointment type
+
+Permanent
+
+Occupations and job series
+
+ 0510 Accounting
+
+Supervisory status
+
+Yes
+
+Federal service type
+
+This job is in the Competitive Service
+
+Represented by a union
+
+No
+
+Drug test
+
+Yes
+
+Security clearance
+
+Not Required
+
+Position sensitivity and risk
+
+Moderate Risk (MR)
+
+ Jobs require a
+ background check and some require a
+ security clearance. The type depends on the job.
+
+Background check type
+
+ Credentialing
+
+ Suitability/Fitness
+
+Financial disclosure required
+
+No
+
+ Some jobs require
+ financial disclosure to identify conflicts of interests.
+
+Announcement number
+
+OCFO-ST-13090653-27-MB
+
+Control number
+
+891491200
+
+ Previous result
+
+Next result
+
+Your session is about to expire!
+
+ Your USAJOBS session will expire due to inactivity in 8 minutes.
+ Any unsaved data will be lost if you allow the session to expire.
+ Click the button below to continue your session.
+
+ Sign out
+ Stay signed in
+
+ Return to top
+
+USAJOBS is a Opens in a new windowUnited States Office of Personnel Management website.
+
+ (Opens in a new window) OPM on LinkedIn
+
+ (Opens in a new window) OPM YouTube channel
+
+ (Opens in a new window) OPM on X
+
+Opens in a new windowEEO Policy Statement
+
+Opens in a new windowReasonable Accommodation Policy Statement
+
+Veterans Information
+
+Opens in a new windowLegal and Regulatory Guidance
+
+About USAJOBS
+
+Opens in a new windowAccessibility
+
+Opens in a new windowFOIA
+
+Opens in a new windowInspector general
+
+Opens in a new windowNo Fear Act Data
+
+Opens in a new windowPrivacy policy
+
+Opens in a new windowReports and publications
+
+Opens in a new windowTerms and conditions
+
+Opens in a new windowUSA.gov

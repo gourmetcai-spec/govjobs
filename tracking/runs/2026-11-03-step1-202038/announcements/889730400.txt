@@ -1,0 +1,761 @@
+USAJOBS - Job Announcement
+
+ Skip to main content
+
+ An official website of the United States government
+
+Official websites use .gov
+
+A .gov website belongs to an official government organization in the United States.
+
+Secure .gov websites use HTTPS
+ A lock ( LockA locked padlock ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.
+
+ MENU
+
+ Sign in
+
+ My jobs
+
+ Profile
+
+ Resumes & documents
+
+ Notifications
+
+ Talent networks
+
+ Sign out
+
+ My jobs
+
+ Profile
+
+ Resumes & documents
+
+ Notifications
+
+ Talent networks
+
+ Sign out
+
+ Events
+
+ Help Center
+
+ Search
+
+ Back to results
+
+ Apply
+
+ Supervisory Information Technology Specialist (SYSANALYSIS)
+
+Department of Agriculture
+
+Forest Service
+
+Apply
+
+ Print
+
+ Share
+
+ Save
+
+ Summary
+
+ This job is open to
+
+ Duties
+
+ Requirements
+
+ How you will be evaluated
+
+ Required documents
+
+ How to apply
+
+Summary
+
+This position is located with the Chief Information Office. Incumbent leads by example in defining an organizational culture to ensure that all employees, partners, and stakeholders are treated with respect and civility, and ensures that CIO staff cultivates partnerships with its customers and stakeholders.
+
+For additional information about the duties of this position, please contact Benjamin Moreau at Benjamin.Moreau@usda.gov
+
+USDA Employees: Please refer to the Next Steps section.
+
+ Learn more about this agency
+
+Summary
+
+This position is located with the Chief Information Office. Incumbent leads by example in defining an organizational culture to ensure that all employees, partners, and stakeholders are treated with respect and civility, and ensures that CIO staff cultivates partnerships with its customers and stakeholders.
+
+For additional information about the duties of this position, please contact Benjamin Moreau at Benjamin.Moreau@usda.gov
+
+USDA Employees: Please refer to the Next Steps section.
+
+ Learn more about this agency
+
+Overview
+
+ Help
+
+Accepting applications
+
+Location
+
+1 vacancy in the following location:
+
+ Location Negotiable After Selection
+
+ No matching locations found.
+
+Work site options
+
+Telework eligible
+
+No
+
+Remote job
+
+No
+
+Relocation expenses reimbursed
+
+ No
+
+Salary
+
+ $147,945 - $192,331 per year
+
+Salary is listed as Rest of United Stated (RUS) locality. Final salary will be determined at the time of selection dependent on the duty location.
+
+Pay scale & grade
+
+GS 15
+
+Promotion potential
+
+None
+
+ Learn more about pay scale and grade
+
+ Pay scale and grade determines the salary of the job.
+
+Work schedule
+
+Full-time
+
+Travel Required
+
+Occasional travel - You may be expected to travel for this position.
+
+Appointment type
+
+Permanent
+
+Occupations and job series
+
+ 2210 Information Technology Management
+
+Supervisory status
+
+Yes
+
+Federal service type
+
+This job is in the Competitive Service
+
+Represented by a union
+
+No
+
+Drug test
+
+No
+
+Security clearance
+
+Not Required
+
+Position sensitivity and risk
+
+High Risk (HR)
+
+ Jobs require a
+ background check and some require a
+ security clearance. The type depends on the job.
+
+Background check type
+
+ Credentialing
+
+ Suitability/Fitness
+
+Financial disclosure required
+
+Yes
+
+ Some jobs require
+ financial disclosure to identify conflicts of interests.
+
+Announcement number
+
+27-CIO-2210-13097893FS-MG
+
+Control number
+
+889730400
+
+This job is open to
+
+ Help
+
+Internal to an agency
+
+ Current federal employees of the hiring agency that posted the job announcement.
+
+Career transition (CTAP, ICTAP, RPL)
+
+ Federal employees whose job, agency or department was eliminated and are eligible for priority over other applicants.
+
+Land and base management
+
+ Current or former employees of a base management agency.
+
+Clarification from the agency
+
+Applications will be accepted only from current permanent Forest Service (FS) employees with competitive status; Land Management eligible candidates whose last appointment was with the FS; and CTAP/RPL eligible candidates.
+
+Videos
+
+Duties
+
+ Help
+
+Incumbent is a member of the senior leadership team in the CIO serving the NRE Assistant CIO (ACIO).
+
+The incumbent is responsible for the delivery of IT infrastructure services and manages a full range of activities which ensure the operational effectiveness and excellence of the business unit in the delivery of platforms and services.
+
+Determining broad functional assignments for subordinate staff who operate, maintain and support Forest Service infrastructure services.
+
+Providing trusted advice on the relationship of major policy decisions, proposed changes from legislation or regulation on IT delivery, budget or staffing levels and their impact on program objectives affecting the NRE IT portfolio and CIO programs.
+
+Prepares written analysis regarding USDA policies, directives, and positions on difficult or complex business and/or information technology issues.
+
+Requirements
+
+ Help
+
+Conditions of employment
+
+ Conditions of Employment:
+
+Must be a U.S. Citizen or National.
+
+Males born after 12/31/1959 must be Selective Service registered or exempt.
+
+Subject to satisfactory adjudication of background investigation and/or fingerprint check.
+
+Per Public Law 104-134 all Federal employees are required to have federal payments made by direct deposit to their financial institution.
+
+Successfully pass the E-Verify employment verification check. To learn more about E-Verify, including your rights and responsibilities, visit e-verify.gov
+
+The U.S. Government utilizes Trusted Workforce 2.0 to implement Continuous Vetting (CV) as a-whole-of government approach to personnel security. If selected for this position, you will be subject to continuous automated record checks of criminal, financial, and public record databases throughout your period of eligibility or employment, replacing traditional periodic reinvestigations.
+
+As a condition of employment for accepting this position, you will be required to serve a 1-year probationary period during which we will evaluate your fitness and whether your continued employment advances the public interest. In determining if your employment advances the public interest, we may consider: your performance and conduct; the needs and interests of the agency; whether your continued employment would advance organizational goals of the agency or the Government; and whether your continued employment would advance the efficiency of the Federal service. Upon completion of your probationary period your employment will be terminated unless you receive certification, in writing, that your continued employment advances the public interest.
+
+Subject to one-year supervisory/managerial probationary period (unless prior service is creditable). New USDA supervisors must successfully complete all components of the required new supervisory training program before the end of their probationary period.
+
+Selectee is subject to financial disclosure requirements and must submit form OGE-450, Confidential Financial Disclosure Report, within 30 days of appointment and annually thereafter.
+
+Qualifications
+
+ In order to qualify, you must meet the eligibility and qualifications requirements as defined below by the closing date of the announcement. For more information on the qualifications for this position, visit the Office of Personnel Management's General Schedule Qualification Standards.
+
+Your application and resume must clearly show that you possess the experience requirements. Transcripts must be provided for qualifications based on education. Provide course descriptions as necessary.
+
+Specialized Experience Requirement:For the GS-15 level: Applicants must have one-year of specialized experience equivalent to the GS-14. Qualifying specialized experience is defined as three or more of the following: Leading a multidisciplinary team responsible for planning and implementing upgrades to enterprise IT infrastructure services across a geographically dispersed agency environment; and/or Serving as a technical advisor to senior executives on integrating major IT programs with enterprise governance processes; and/or Managing the full lifecycle of complex IT programs supporting national mission delivery, including requirements development, acquisition planning, implementation oversight, and performance evaluation; and/or Supervising teams responsible for delivering critical IT infrastructure operations, including hosting, platforms, storage, and enterprise web services; and/or Providing coaching, performance feedback, and conflict resolution support to subordinate supervisors and technical staff.
+
+AND
+
+Information Technology (IT) related experience and your resume must also demonstrate each of the nine competencies listed below:
+
+Attention to Detail - Is thorough when performing work and conscientious about attending to detail.
+
+Customer Service - Works with clients and customers (that is, any individuals who use or receive the services or products that your work unit produces, including the general public, individuals who work in the agency, other agencies, or organizations outside the Government) to assess their needs, provide information or assistance, resolve their problems, or satisfy their expectations; knows about available products and services; is committed to providing quality products and services.
+
+Decision Making- Makes sound, well-informed, and objective decisions; perceives the impact and implications of decisions; commits to action, even in uncertain situations, to accomplish organizational goals; causes change.
+
+Information Management- Identifies a need for and knows where or how to gather information; organizes and maintains information or information management systems.
+
+Interpersonal Skills- Shows understanding, friendliness, courtesy, tact, empathy, concern, and politeness to others; develops and maintains effective relationships with others; may include effectively dealing with individuals who are difficult, hostile, or distressed; relates well to people from varied backgrounds and different situations
+
+Oral Communication - Expresses information (for example, ideas or facts) to individuals or groups effectively, taking into account the audience and nature of the information (for example, technical, sensitive, controversial); makes clear and convincing oral presentations; listens to others, attends to nonverbal cues, and responds appropriately.
+
+Problem Solving - Identifies problems; determines accuracy and relevance of information; uses sound judgment to generate and evaluate alternatives, and to make recommendations.
+
+Teamwork- Encourages and facilitates cooperation, pride, trust, and group identity; fosters commitment and team spirit; works with others to achieve goals.
+
+Technical Competence- Uses knowledge that is acquired through formal training or on-the-job experience to perform one's job; works with, understands, and evaluates technical information related to the job; advises others on technical issues.
+
+To receive consideration for this position, you must meet all qualification requirements by the closing date of the announcement.
+
+Experience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., Peace Corps, AmeriCorps) and other organizations (e.g., professional; philanthropic; religious; spiritual; community, student, social). Volunteer work helps build critical competencies, knowledge, and skills and can provide valuable training and experience that translates directly to paid employment. You will receive credit for all qualifying experience, including volunteer experience.
+
+TIME IN GRADE REQUIREMENT: If you are a current federal employee in the General Schedule (GS) pay plan and applying for a promotion opportunity, you must meet time-in-grade (TIG) requirements of 52 weeks of service at the next lower grade level in the normal line of progression for the position being filled. This requirement must be met by the closing date of this announcement.
+
+Education
+
+ There is no substitution of education for specialized experience.
+
+Additional information
+
+Career Transition Assistance Plan (CTAP) or Reemployment Priority List (RPL): To exercise selection priority for this vacancy, CTAP/RPL candidates must meet the basic eligibility requirements and all selective factors. CTAP candidates must be rated and determined to be well qualified (or above) based on an evaluation of the competencies listed in the How You Will Be Evaluated section. When assessed through a score-based category rating method, CTAP applicants must receive a rating of at least 85 out of a possible 100.
+
+Land Management Workforce Flexibility Act (LMWFA) provides current or former temporary and term employees the opportunity to compete for permanent competitive service positions. Individuals must have more than 24 months of service without a break between appointments of two or more years and the last temporary or term appointment must have been with the Forest Service. Service must be in the competitive service and have been at a successful level of performance or better. Part-time and intermittent service will be credited only for time actually worked. Non-pay status such as leave without pay is credited for up to six months in a calendar year; anything beyond six months is not credited. Applicants are responsible for providing sufficient information/documentation to determine if the 24 month criteria is met.
+
+This position is not eligible for telework.
+
+The Forest Service may use certain incentives and hiring flexibilities, currently offered by the Federal government, to attract highly qualified candidates. Additional Information is available on the OPM Website.
+
+This is a non-bargaining unit position.
+
+Forest Service daycare facilities may be available.
+
+Government Housing may be available.
+
+Position(s) will be located at a Forest Service office, except Atlanta, Georgia; Milwaukee, Wisconsin; and Portland, Oregon. Final determination of the duty station(s) will be made by the selecting official at the time of the job offer. Pay rates vary depending on location. The salary shown is for the Rest of the U.S. See OPM.gov for additional information on pay rates.
+
+We may select from this announcement or any other source to fill one or more vacancies. Multiple positions may be filled from this announcement.
+
+ Expand Hide  additional information
+
+Candidates should be committed to improving the efficiency of the Federal government, passionate about the ideals of our American republic, and committed to upholding the rule of law and the United States Constitution.
+
+Benefits
+
+ Help
+
+ A career with the U.S. government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding. Opens in a new windowLearn more about federal benefits.
+
+Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time or intermittent. Contact the hiring agency for more information on the specific benefits offered.
+
+How you will be evaluated
+
+You will be evaluated for this job based on how well you meet the qualifications above.
+
+ You will be evaluated based on your qualifications for this position as evidenced by the experience, education, and training you described in your application package, as well as the responses to the Assessment Questionnaire to determine the degree to which you possess the competencies listed below:
+
+Attention to Detail
+Customer Service
+Decision Making
+Information Management
+Interpersonal Skills
+Oral Communication
+Problem Solving
+Teamwork
+Technical Competence
+
+Your application, including the online Assessment Questionnaire, will be reviewed to determine if you meet (a) minimum qualification requirements and (b) the resume supports the answers provided to the job-specific questions. Your resume must clearly support your responses to all the questions addressing experience and education relevant to this position.
+
+If you meet the qualification requirements and are determined to be among the best qualified, you will be referred to the hiring manager for consideration. Noncompetitive candidates and applicants under some special hiring authorities must meet minimum qualifications to be referred.
+
+Accomplishment Record Review: If you are found minimally qualified, a rating panel will review your resume and Accomplishment Record narratives.
+
+Note: If, after reviewing your resume and/or supporting documentation, a determination is made that you inflated your qualifications and or experience, your rating may be lowered to more accurately reflect the submitted documentation. Please follow all instructions carefully. Errors or omissions may affect your rating. Providing inaccurate information on Federal documents could be grounds for non-selection or disciplinary action.
+
+To view the application form, visit: https://apply.usastaffing.gov/ViewQuestionnaire/13097893
+
+Your application will be reviewed to verify that you meet the eligibility and qualification requirements for the position prior to issuing referral lists to the selecting official. If further evaluation or interviews are required, you will be contacted. Log in to your USAJOBS account to check your application status.
+
+You must choose to turn on email notifications in your USAJOBS profile if you want to receive important email notifications that may impact your applicant experience (e.g. If you start an application and do not submit it prior to the closing date, USAJOBS will send an email reminder that the closing date is approaching and your application is in an incomplete status).
+
+Benefits
+
+ Help
+
+ A career with the U.S. government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding. Opens in a new windowLearn more about federal benefits.
+
+Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time or intermittent. Contact the hiring agency for more information on the specific benefits offered.
+
+Required documents
+
+Required Documents
+
+ Help
+
+ The following documents are required for your applicant package to be complete. Encrypted documents will not be accepted. Failure to submit required, legible documents may result in loss of consideration.
+
+Resume that includes: Personal Information: name, address, contact information; Education; Work Experience related to this position as described in the major duties including work schedule, hours worked per week, dates of employment; title, series, grade (if applicable); other qualifications. Resume cannot exceed 2 pages.
+
+If education is required or being used to qualify, you must submit a copy of your college transcripts. An unofficial copy is sufficient with the application if it includes your name and the necessary course information; however, if you are selected, official transcripts will be required prior to entering on duty. Education must have been successfully obtained from an accredited school, college or university. If any education was completed at a foreign institute, you must submit with your application evidence that the institute was appropriately accredited by an accrediting body recognized by the U.S. Department of Education as equivalent to U.S. education standards. There are private organizations that specialize in this evaluation and a fee is normally associated with this service. For a list of private organizations that evaluate education, visit the NACES website. All transcripts must be in English or include an English translation.
+
+Current Forest Service employees:
+
+Most recent non-award Notification of Personnel Action (SF-50) showing you are/were in the competitive service, highest grade held (or promotion potential) on a permanent basis, position title, series and grade AND
+
+Most recent performance appraisal (dated within 18 months) showing the official rating of record, signed by a supervisor, or statement why the performance appraisal is unavailable. A performance plan is not an acceptable substitute.
+
+Surplus or displaced employees eligible for CTAP, RPL, or ICTAP priority must provide: proof of eligibility (RIF separation notice, notice of proposed removal for declining a transfer of function or directed reassignment to another commuting area, notice of disability annuity termination), SF-50 documenting separation (as applicable), current performance appraisal with rating of at least "Fully Successful" or equivalent, and your most recent SF-50 noting position, grade level, and duty location with your application per 5 CFR 330.
+
+Land Management Workforce Flexibility Act: Copies of Notification of Personnel Action(s) (SF-50) showing the employee served in eligible appointment(s) for a period(s) of more than 24 mos w/o a break between appointments of two+ years. Include initial hire actions, extensions, conversions and separation Sf-50s for each period. Submit performance rating(s) showing acceptable performance for each period counted towards eligibility signed by supervisor(s). If documentation does not exist for one or more periods, submit a statement from supervisor(s) indicating acceptable performance. Applicants who do not have performance documentation for any period shall provide a reason why the documentation is not available and statement that performance for all periods was at an acceptable level.
+
+How to Apply
+
+ Help
+
+Please view Tips for Applicants - a guide to the Forest Service application process.
+
+Please read the entire announcement and all instructions before you begin. You must complete this application process and submit all required documents electronically by 11:59p.m. Eastern Time (ET) on the closing date of this announcement.
+
+Applying online is highly encouraged. We are available to assist you during business hours (7:00 a.m. - 3:30 p.m., Mountain Time Zone, Monday - Friday). If applying online poses a hardship, contact the Agency Contact listed below well before the closing date for an alternate method. All hardship application packages must be complete and submitted no later than noon ET on the closing date of the announcement to be entered into the system prior to its closing. Resumes must not exceed two pages.
+
+This agency provides reasonable accommodation to applicants with disabilities on a case-by-case basis; contact the Agency Contact to request this.
+
+To begin, click "Apply Online" and follow the instructions to complete the Assessment Questionnaire and attach your resume and all required documents.
+
+Please verify that documents you are uploading from USAJOBs transfer into the Agency's staffing system as there is a limitation to the number of documents that can be transferred. However, once in the Agency's staffing system, you will have the opportunity to upload additional documents. Uploaded documents must be less than 5MB and in one of the following document formats: GIF, JPG, JPEG, PNG, RTF, PDF, TXT or Word (DOC or DOCX). Do not upload Adobe Portfolio documents because they are not viewable. Encrypted documents will not be accepted. Failure to submit required, legible documents may result in loss of consideration. Please ensure your resume does not exceed two pages. Applicants who submit a resume that exceeds two pages will be removed from consideration.
+
+Our office cannot be responsible for incompatible software, your system failure, etc.
+
+Agency contact information
+
+ HRM Contact Center
+
+Phone
+
+ 1-877-372-7248 X2
+
+Email
+
+ HRM_Contact_Center@usda.gov
+
+Address
+
+ USDA Forest Service HRM Contact Center
+
+ DO NOT MAIL IN APPLICATIONS, SEE INSTRUCTIONS IN THE ANNOUNCEMENT.
+
+ Albuquerque, NM 87109
+
+ US
+
+Next steps
+
+Employees of the following USDA agencies who apply for this position, whose current permanent grade is equal to the grade of the advertised position, and whose selection would result in a relocation outside the commuting area of their current duty station may not currently be considered for selection to this position: Agricultural Research Service; Economic Research Service; National Institute of Food and Agriculture, National Agricultural Statistics Service; United States Forest Service; Food and Nutrition Administration; Foreign Agricultural Service; Rural Development and component organizations; the Farm Production and Conservation (FPAC) mission area, to include the FPAC Business Center, the Natural Resources Conservation Service, the Risk Management Agency, and Farm Service Agency and Farm Service Agency County employees; Office of the General Counsel; and Office of the Assistant Secretary for Civil Rights. This guidance is in alignment with the court order dated October 13, 2026, in American Federation of Government Employees, AFL-CIO, et al. v. United States Department of Agriculture, Case No. 26-cv-09976-VC (N.D. Calif.).
+
+Under the Fair Chance Act, agencies are not allowed to request information about an applicant's criminal history until a conditional offer of employment has been made, except as allowed for access to classified information; assignment to national security duties or positions; acceptance or retention in the armed forces; or recruitment of a Federal law enforcement officer. An applicant may submit a complaint, or any other information related to an organization's alleged noncompliance with the Fair Chance Act. The complaint must be submitted within 30 calendar days of the date of the alleged noncompliance. To make a Fair Chance Act inquiry or complaint, send an email with the appropriate information to sm.fs.hrm_elr@usda.gov, subject line: Fair Chance Act.
+
+Fair and transparent
+
+The Federal hiring process is set up to be fair and transparent. Please read the following guidance.
+
+ Criminal history inquiries
+
+ Equal Employment Opportunity (EEO) Policy
+
+ Financial suitability
+
+ New employee probationary period
+
+ Privacy Act
+
+ Reasonable accommodation policy
+
+ Selective Service
+
+ Signature and false statements
+
+ Social security number request
+
+Required Documents
+
+ Help
+
+ The following documents are required for your applicant package to be complete. Encrypted documents will not be accepted. Failure to submit required, legible documents may result in loss of consideration.
+
+Resume that includes: Personal Information: name, address, contact information; Education; Work Experience related to this position as described in the major duties including work schedule, hours worked per week, dates of employment; title, series, grade (if applicable); other qualifications. Resume cannot exceed 2 pages.
+
+If education is required or being used to qualify, you must submit a copy of your college transcripts. An unofficial copy is sufficient with the application if it includes your name and the necessary course information; however, if you are selected, official transcripts will be required prior to entering on duty. Education must have been successfully obtained from an accredited school, college or university. If any education was completed at a foreign institute, you must submit with your application evidence that the institute was appropriately accredited by an accrediting body recognized by the U.S. Department of Education as equivalent to U.S. education standards. There are private organizations that specialize in this evaluation and a fee is normally associated with this service. For a list of private organizations that evaluate education, visit the NACES website. All transcripts must be in English or include an English translation.
+
+Current Forest Service employees:
+
+Most recent non-award Notification of Personnel Action (SF-50) showing you are/were in the competitive service, highest grade held (or promotion potential) on a permanent basis, position title, series and grade AND
+
+Most recent performance appraisal (dated within 18 months) showing the official rating of record, signed by a supervisor, or statement why the performance appraisal is unavailable. A performance plan is not an acceptable substitute.
+
+Surplus or displaced employees eligible for CTAP, RPL, or ICTAP priority must provide: proof of eligibility (RIF separation notice, notice of proposed removal for declining a transfer of function or directed reassignment to another commuting area, notice of disability annuity termination), SF-50 documenting separation (as applicable), current performance appraisal with rating of at least "Fully Successful" or equivalent, and your most recent SF-50 noting position, grade level, and duty location with your application per 5 CFR 330.
+
+Land Management Workforce Flexibility Act: Copies of Notification of Personnel Action(s) (SF-50) showing the employee served in eligible appointment(s) for a period(s) of more than 24 mos w/o a break between appointments of two+ years. Include initial hire actions, extensions, conversions and separation Sf-50s for each period. Submit performance rating(s) showing acceptable performance for each period counted towards eligibility signed by supervisor(s). If documentation does not exist for one or more periods, submit a statement from supervisor(s) indicating acceptable performance. Applicants who do not have performance documentation for any period shall provide a reason why the documentation is not available and statement that performance for all periods was at an acceptable level.
+
+How to Apply
+
+ Help
+
+Please view Tips for Applicants - a guide to the Forest Service application process.
+
+Please read the entire announcement and all instructions before you begin. You must complete this application process and submit all required documents electronically by 11:59p.m. Eastern Time (ET) on the closing date of this announcement.
+
+Applying online is highly encouraged. We are available to assist you during business hours (7:00 a.m. - 3:30 p.m., Mountain Time Zone, Monday - Friday). If applying online poses a hardship, contact the Agency Contact listed below well before the closing date for an alternate method. All hardship application packages must be complete and submitted no later than noon ET on the closing date of the announcement to be entered into the system prior to its closing. Resumes must not exceed two pages.
+
+This agency provides reasonable accommodation to applicants with disabilities on a case-by-case basis; contact the Agency Contact to request this.
+
+To begin, click "Apply Online" and follow the instructions to complete the Assessment Questionnaire and attach your resume and all required documents.
+
+Please verify that documents you are uploading from USAJOBs transfer into the Agency's staffing system as there is a limitation to the number of documents that can be transferred. However, once in the Agency's staffing system, you will have the opportunity to upload additional documents. Uploaded documents must be less than 5MB and in one of the following document formats: GIF, JPG, JPEG, PNG, RTF, PDF, TXT or Word (DOC or DOCX). Do not upload Adobe Portfolio documents because they are not viewable. Encrypted documents will not be accepted. Failure to submit required, legible documents may result in loss of consideration. Please ensure your resume does not exceed two pages. Applicants who submit a resume that exceeds two pages will be removed from consideration.
+
+Our office cannot be responsible for incompatible software, your system failure, etc.
+
+ Expand Hide  how to apply
+
+Agency contact information
+
+ HRM Contact Center
+
+Phone
+
+ 1-877-372-7248 X2
+
+Email
+
+ HRM_Contact_Center@usda.gov
+
+Address
+
+ USDA Forest Service HRM Contact Center
+
+ DO NOT MAIL IN APPLICATIONS, SEE INSTRUCTIONS IN THE ANNOUNCEMENT.
+
+ Albuquerque, NM 87109
+
+ US
+
+Next steps
+
+Employees of the following USDA agencies who apply for this position, whose current permanent grade is equal to the grade of the advertised position, and whose selection would result in a relocation outside the commuting area of their current duty station may not currently be considered for selection to this position: Agricultural Research Service; Economic Research Service; National Institute of Food and Agriculture, National Agricultural Statistics Service; United States Forest Service; Food and Nutrition Administration; Foreign Agricultural Service; Rural Development and component organizations; the Farm Production and Conservation (FPAC) mission area, to include the FPAC Business Center, the Natural Resources Conservation Service, the Risk Management Agency, and Farm Service Agency and Farm Service Agency County employees; Office of the General Counsel; and Office of the Assistant Secretary for Civil Rights. This guidance is in alignment with the court order dated October 13, 2026, in American Federation of Government Employees, AFL-CIO, et al. v. United States Department of Agriculture, Case No. 26-cv-09976-VC (N.D. Calif.).
+
+Under the Fair Chance Act, agencies are not allowed to request information about an applicant's criminal history until a conditional offer of employment has been made, except as allowed for access to classified information; assignment to national security duties or positions; acceptance or retention in the armed forces; or recruitment of a Federal law enforcement officer. An applicant may submit a complaint, or any other information related to an organization's alleged noncompliance with the Fair Chance Act. The complaint must be submitted within 30 calendar days of the date of the alleged noncompliance. To make a Fair Chance Act inquiry or complaint, send an email with the appropriate information to sm.fs.hrm_elr@usda.gov, subject line: Fair Chance Act.
+
+ Expand Hide  next steps
+
+Fair and transparent
+
+The Federal hiring process is set up to be fair and transparent. Please read the following guidance.
+
+ Criminal history inquiries
+
+ Equal Employment Opportunity (EEO) Policy
+
+ Financial suitability
+
+ New employee probationary period
+
+ Privacy Act
+
+ Reasonable accommodation policy
+
+ Selective Service
+
+ Signature and false statements
+
+ Social security number request
+
+ Forest Service
+
+ A career with the Forest Service will challenge you to manage and care for more than 193 million acres of our nation's most magnificent lands, conduct research through a network of forest and range experiment stations and the Forest Products Laboratory, and provide assistance to State and private forestry agencies.
+
+It's an awesome responsibility - but the rewards are as limitless as the views.
+
+Agency contact information
+
+ HRM Contact Center
+
+Phone
+
+ 1-877-372-7248 X2
+
+Email
+
+ HRM_Contact_Center@usda.gov
+
+Address
+
+ USDA Forest Service HRM Contact Center
+
+ DO NOT MAIL IN APPLICATIONS, SEE INSTRUCTIONS IN THE ANNOUNCEMENT.
+
+ Albuquerque, NM 87109
+
+ US
+
+Summary
+
+This position is located with the Chief Information Office. Incumbent leads by example in defining an organizational culture to ensure that all employees, partners, and stakeholders are treated with respect and civility, and ensures that CIO staff cultivates partnerships with its customers and stakeholders.
+
+For additional information about the duties of this position, please contact Benjamin Moreau at Benjamin.Moreau@usda.gov
+
+USDA Employees: Please refer to the Next Steps section.
+
+ Learn more about this agency
+
+Overview
+
+ Help
+
+Accepting applications
+
+Location
+
+1 vacancy in the following location:
+
+ Location Negotiable After Selection
+
+ No matching locations found.
+
+Work site options
+
+Telework eligible
+
+No
+
+Remote job
+
+No
+
+Relocation expenses reimbursed
+
+ No
+
+Salary
+
+ $147,945 - $192,331 per year
+
+Salary is listed as Rest of United Stated (RUS) locality. Final salary will be determined at the time of selection dependent on the duty location.
+
+Pay scale & grade
+
+GS 15
+
+Promotion potential
+
+None
+
+ Learn more about pay scale and grade
+
+ Pay scale and grade determines the salary of the job.
+
+Work schedule
+
+Full-time
+
+Travel Required
+
+Occasional travel - You may be expected to travel for this position.
+
+Appointment type
+
+Permanent
+
+Occupations and job series
+
+ 2210 Information Technology Management
+
+Supervisory status
+
+Yes
+
+Federal service type
+
+This job is in the Competitive Service
+
+Represented by a union
+
+No
+
+Drug test
+
+No
+
+Security clearance
+
+Not Required
+
+Position sensitivity and risk
+
+High Risk (HR)
+
+ Jobs require a
+ background check and some require a
+ security clearance. The type depends on the job.
+
+Background check type
+
+ Credentialing
+
+ Suitability/Fitness
+
+Financial disclosure required
+
+Yes
+
+ Some jobs require
+ financial disclosure to identify conflicts of interests.
+
+Announcement number
+
+27-CIO-2210-13097893FS-MG
+
+Control number
+
+889730400
+
+ Previous result
+
+Next result
+
+Your session is about to expire!
+
+ Your USAJOBS session will expire due to inactivity in 8 minutes.
+ Any unsaved data will be lost if you allow the session to expire.
+ Click the button below to continue your session.
+
+ Sign out
+ Stay signed in
+
+ Return to top
+
+USAJOBS is a Opens in a new windowUnited States Office of Personnel Management website.
+
+ (Opens in a new window) OPM on LinkedIn
+
+ (Opens in a new window) OPM YouTube channel
+
+ (Opens in a new window) OPM on X
+
+Opens in a new windowEEO Policy Statement
+
+Opens in a new windowReasonable Accommodation Policy Statement
+
+Veterans Information
+
+Opens in a new windowLegal and Regulatory Guidance
+
+About USAJOBS
+
+Opens in a new windowAccessibility
+
+Opens in a new windowFOIA
+
+Opens in a new windowInspector general
+
+Opens in a new windowNo Fear Act Data
+
+Opens in a new windowPrivacy policy
+
+Opens in a new windowReports and publications
+
+Opens in a new windowTerms and conditions
+
+Opens in a new windowUSA.gov

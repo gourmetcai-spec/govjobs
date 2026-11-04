@@ -1,0 +1,743 @@
+USAJOBS - Job Announcement
+
+ Skip to main content
+
+ An official website of the United States government
+
+Official websites use .gov
+
+A .gov website belongs to an official government organization in the United States.
+
+Secure .gov websites use HTTPS
+ A lock ( LockA locked padlock ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.
+
+ MENU
+
+ Sign in
+
+ My jobs
+
+ Profile
+
+ Resumes & documents
+
+ Notifications
+
+ Talent networks
+
+ Sign out
+
+ My jobs
+
+ Profile
+
+ Resumes & documents
+
+ Notifications
+
+ Talent networks
+
+ Sign out
+
+ Events
+
+ Help Center
+
+ Search
+
+ Back to results
+
+ Apply
+
+ Data Scientist Specialist
+
+Office of the Inspector General, USPS
+
+Apply
+
+ Print
+
+ Share
+
+ Save
+
+ Summary
+
+ This job is open to
+
+ Duties
+
+ Requirements
+
+ How you will be evaluated
+
+ Required documents
+
+ How to apply
+
+Summary
+
+*PLEASE NOTE THAT THIS VACANCY ANNOUNCEMENT IS ONLY OPEN TO CURRENT UNITED STATES POSTAL SERVICE OFFICE OF INSPECTOR GENERAL, UNITED STATES POSTAL SERVICE, UNITED STATES POSTAL INSPECTION SERVICE AND POSTAL REGULATORY COMMISSION EMPLOYEES. OTHER APPLICANTS WILL NOT BE CONSIDERED.
+
+This announcement provides the opportunity for a reassignment/promotion to the Data Scientist Specialist position in our Research & Insights Solution Center, located in Arlington, VA.
+
+ Learn more about this agency
+
+Summary
+
+*PLEASE NOTE THAT THIS VACANCY ANNOUNCEMENT IS ONLY OPEN TO CURRENT UNITED STATES POSTAL SERVICE OFFICE OF INSPECTOR GENERAL, UNITED STATES POSTAL SERVICE, UNITED STATES POSTAL INSPECTION SERVICE AND POSTAL REGULATORY COMMISSION EMPLOYEES. OTHER APPLICANTS WILL NOT BE CONSIDERED.
+
+This announcement provides the opportunity for a reassignment/promotion to the Data Scientist Specialist position in our Research & Insights Solution Center, located in Arlington, VA.
+
+ Learn more about this agency
+
+Overview
+
+ Help
+
+Accepting applications
+
+This job will close when we have received 100 applications which may be sooner than the closing date. Learn more
+
+Location
+
+1 vacancy in the following location:
+
+ Arlington, VA
+
+ No matching locations found.
+
+Work site options
+
+Telework eligible
+
+Yes—as determined by the agency policy.
+
+Remote job
+
+No
+
+Relocation expenses reimbursed
+
+ No
+
+Salary
+
+ $143,913 - $187,093 per year
+
+Pay scale & grade
+
+GG 14
+
+Promotion potential
+
+14
+
+ Learn more about pay scale and grade
+
+ Pay scale and grade determines the salary of the job.
+
+Work schedule
+
+Full-time
+
+Travel Required
+
+Occasional travel - You may be expected to travel for this position.
+
+Appointment type
+
+Permanent
+
+Occupations and job series
+
+ 2210 Information Technology Management
+
+Supervisory status
+
+No
+
+Federal service type
+
+This job is in the Excepted Service
+
+Represented by a union
+
+No
+
+Drug test
+
+Yes
+
+Security clearance
+
+Other
+
+Financial disclosure required
+
+No
+
+ Some jobs require
+ financial disclosure to identify conflicts of interests.
+
+Announcement number
+
+IA-27-13A-13102706-PC
+
+Control number
+
+890454800
+
+This job is open to
+
+ Help
+
+Internal to an agency
+
+ Current federal employees of the hiring agency that posted the job announcement.
+
+Clarification from the agency
+
+Current United States Postal Service Office of Inspector General, United States Postal Service and United States Postal Inspection Service and Postal Regulatory Commission Employees only.
+
+Videos
+
+Duties
+
+ Help
+
+ The RISC Directorate conducts innovative research and analysis on Postal Service operations in support of auditors and agents. Our team develops analytical products that facilitate lead generation and provide critical insights for audit and investigative activities. Our methods frequently involve statistics or complex, multi-step analyses of large and disparate data systems. This position is with RISC's Strategic Foresight & Oversight (SFO) team, which provides proactive oversight and insight into postal operations, finances, and emerging market risks. Through qualitative and quantitative analysis of USPS and postal/parcel market data, the SFO develops postal and industry intelligence and provides senior OIG leadership with awareness and clear options regarding emerging issues of strategic importance. Bring your skills and voice to our team!
+
+The successful candidate will work extensively in a collaborative, team environment that involves audit and investigative clients, subject matter experts, project team leaders, and executive stakeholders. RISC's work has a strong customer focus, requiring effective written and verbal communication skills to understand the needs of the client and to give structure to complex problems with undefined or ambiguous solutions. Our team requires candidates with strong analytical skills to develop fitting methodologies that maximize the impact for the client and allow successful project execution. The candidate will exhibit effective communication skills which include the documentation of analytical methodologies and briefings and presentations of technical content to executive leadership, stakeholders, peers, and other audiences.
+
+The USPS OIG uses a Pay Banding system, which is equivalent to the Federal GS scale. Grade and salary determinations will be made based upon a candidate's education and professional experience.
+
+This position is being advertised at the Specialist Band level, equivalent to a GS-14. The salary range for this position is $143,913.00 - $187,093.00. The salary figures include locality pay.
+
+Please note that the duties and responsibilities associated with this position may vary based upon the agency's needs at the time of hire. The following description of major duties and responsibilities is only intended to give applicants a general overview of the expectations.
+
+Works independently and within teams to use the necessary data extraction, manipulation, and aggregation techniques to prepare, clean, normalize, and validate data related to varied projects and tasks.
+
+Independently research, extracts, evaluates, interprets, and visualizes data and information as actionable intelligence for auditors and investigators to detect, prevent, and respond to fraud, waste, and abuse.
+
+Advises on the potential benefits/uses of automation to improve the efficiency of program operations.
+
+Designs experiments, tests hypotheses, and builds scalable models using data science and artificial intelligence (e.g. machine learning) methods.
+
+Designs, develops, and adapts mathematical, statistical, econometric, and other analytical solutions for audit, investigation, research, and support functions.
+
+Leads artificial intelligence activities such as natural language processing, predictive analytics, and machine learning model development, training, evaluation, testing, refinement, deployment, and maintenance.
+
+Translates complex technical findings into an easily understood narrative.
+
+Prepares comprehensive documentation for requirements, test plans, user manuals, technical diagrams, and training materials.
+
+Develops project communications and maintains effective working relationships between project teams, stakeholders, and management.
+
+Provides advice on issues affecting projects, such as data access, quality, and storage.
+
+Contributes to and presents training and conference materials to large audiences.
+
+Independently performs comprehensive and efficient data collection and analysis of a variety of data sources to develop trends, descriptive statistics, or other insights.
+
+Uses expert level knowledge to identify and develop sources of information from structured and unstructured data, criminal intelligence databases, public information sources, internal Postal Service databases, reference manuals, and audit and law enforcement reports.
+
+Uses relational databases, data lakes, data lake houses, and other data environments to create a variety of analytic products such as business intelligence tools, summary tables, comparison graphs, or temporal, association, and link analysis charts.
+
+Interacts with other agencies and builds relationships with peers to share information and learn the latest developments in analytical tools and techniques.
+
+Develops substantial knowledge of database applications and environments and shares expertise with coworkers in support of agency goals and objectives.
+
+Requirements
+
+ Help
+
+Conditions of employment
+
+Must be a U.S. citizen
+
+Must be able to pass a drug screening
+
+Must be able to pass a background investigation
+
+Must be able to obtain and maintain Moderate Background Investigation security clearance
+
+Must be able to obtain and maintain a government-issued credit card
+
+May be required to successfully complete a 12-month probationary period
+
+Qualifications
+
+ MINIMUM QUALIFICATIONS
+
+You must meet ALL of the minimum qualifications listed below.
+
+Bachelor's degree from an accredited college or university
+
+AND
+
+Must have 2 years of specialized experience with query language (e.g., SQL), programming languages (e.g., Python), business intelligence tools (e.g., Power BI), and analytics platforms (e.g., Databricks)
+
+AND
+
+Must have at least one year of specialized experience equivalent to the GS-13 that includes organizing and analyzing large amounts of structured and unstructured data sets using data analytics tools; developing and implementing data collection and analysis tools while utilizing programming languages and environments (e.g. Python, Databricks, etc.); and using Python and analytics software to develop complex analytics, predictive modeling, and artificial intelligence solutions
+
+DESIRABLE QUALIFICATIONS
+
+Knowledge and experience in the law enforcement and/or audit industry
+
+Knowledge and experience using cloud computing platforms such as Azure
+
+Knowledge and experience with relational databases and structured query language (SQL)
+
+EVALUATION FACTORS
+
+You must have the experience, knowledge and skills as listed in EACH of the evaluation factors. Failure to demonstrate that you meet all of the evaluation factor requirements as listed below will result in a score of zero (0); an ineligible status, and you will not be referred for further consideration. Include your major accomplishments relevant to the position requirements in your resume.
+
+Mastery and application of advanced data mining and artificial intelligence principles, concepts, methods, standards, and practices to develop related products and solutions and to interpret and implement related policies, procedures, and governance strategies
+
+Advanced experience using Python and analytics software to develop complex analytics and artificial intelligence solutions
+
+Experience planning, conducting, and leading complex analytical projects
+
+Experience defining problems, assessing alternatives, and recommending solutions for complex data and analysis issues
+
+Extensive experience ingesting, transforming, analyzing, and visualizing large, disparate data sets
+
+Ability to communicate effectively, both orally and in writing, complex business and technical information
+
+You will no longer be considered for this position if you: fail to respond to all of the questions in the self-assessment questionnaire; or receive a zero (0) rating on any evaluation factor.
+
+Failure to demonstrate that you meet all evaluation factor requirements will result in a score of zero (0). Upon receipt of a zero score, you will be deemed "not minimally qualified," and you will not be referred for further consideration.
+
+Candidates will be evaluated on the skills that they possess that are directly related to the duties of the position and the experience, education and training that indicate the applicant's ability to acquire the particular knowledge and skills needed to perform the duties of the position. Only those candidates who meet all qualification and eligibility requirements and who submit the required information by 11:59 PM EST on 11/12/2026 will be considered.
+
+Education
+
+ Education must be accredited by an institution recognized by the U.S. Department of Education. Applicants can verify accreditation here: https://www.ed.gov/laws-and-policy/higher-education-laws-and-policy/college-accreditation.
+
+Special Instructions for Candidates with Foreign Education:
+
+Education completed outside the United States must be deemed equivalent to that gained in U.S. education programs. You must submit all necessary documents to a private U.S. credential evaluation service to interpret equivalency of your education against courses given in U.S. accredited colleges and universities.
+
+For further information visit: https://sites.ed.gov/international/recognition-of-foreign-qualifications.
+
+Additional information
+
+Please contact an internal Human Resources Representative if you have any questions about your USPS OIG Employee Benefits.
+
+This agency provides Reasonable Accommodations to applicants with disabilities. If you require accommodations for any part of the application and/or hiring process, please send an email to jobs@uspsoig.gov. The decision on granting an accommodation request will be made on a case by case basis.
+
+ Expand Hide  additional information
+
+Candidates should be committed to improving the efficiency of the Federal government, passionate about the ideals of our American republic, and committed to upholding the rule of law and the United States Constitution.
+
+Benefits
+
+ Help
+
+ A career with the U.S. government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding. Opens in a new windowLearn more about federal benefits.
+
+ Review our benefits
+
+Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time or intermittent. Contact the hiring agency for more information on the specific benefits offered.
+
+How you will be evaluated
+
+You will be evaluated for this job based on how well you meet the qualifications above.
+
+ The Human Resources Office will review your resume and supporting documentation to ensure that you meet the minimum qualifications required for this position.
+
+You will no longer be considered for this position if you:
+
+Receive a zero (0) rating on any evaluation factor
+
+Fail to attach all required documentation
+
+Submit a resume that exceeds the two-page limit
+
+If your application materials indicate that you are not minimally-qualified for this position
+
+If you fail to qualify on the interview
+
+Only the top-rated candidates will be referred to a review official or the selecting official for further consideration. Top-rated applicants may be required to participate in an interview. Your rating may be further adjusted or rated as ineligible by the review official or the selecting official based on your interview performance. Once all applicant scores are finalized, the selecting official will make a final decision. NOTE: If you receive a zero (0) rating on any evaluation factor or on the interview, you will be considered NOT MINIMALLY QUALIFIED for the position and rated ineligible.
+
+Applicants for this position may be interviewed one or more times as part of the hiring process. During interviews, applicants may not use any AI tool or virtual assistant (such as ChatGPT) to help them answer questions, except for accessibility tools used as part of a reasonable accommodation. Applicants who fail to follow these rules will be disqualified from the hiring process.
+
+Benefits
+
+ Help
+
+ A career with the U.S. government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding. Opens in a new windowLearn more about federal benefits.
+
+ Review our benefits
+
+Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time or intermittent. Contact the hiring agency for more information on the specific benefits offered.
+
+Required documents
+
+Required Documents
+
+ Help
+
+ You must submit all required documents by 11:59 PM EST on the closing date of this announcement, Vacancy Announcement 13102706, by closing date 11/12/2026.
+
+1. RESUME - IMPORTANT UPDATE: Your resume must not exceed two (2) pages. You will no longer be considered for this announcement if your resume exceeds the two-page limit. It is essential that your resume and supporting documentation provide sufficient information to substantiate your qualifications for the announced position (categorize as "Resume"). Additional guidance on writing a federal resume can be found at: USAJOBS Help Center - How do I write a resume for a federal job?
+
+Make sure your page margins are 0.5 inches. The recommended font styles are Sans-Serif, Calibri, Helvetica, Arial, Verdana, Open Sans, Source Sans Pro, Roboto or Noto Sans. Consider using 14-point size font for titles and 10-point for the main text in your resume. Your resume must be 5MB or less. We recommend saving and uploading your resume as a PDF to maintain formatting and number of pages. The resume builder can help you create a resume using these recommendations and uses the information in your USAJOBS profile to help you get started.
+
+2. COMPLETE OCCUPATIONAL QUESTIONNAIRE. Click the "Apply Online" button and follow the prompts to complete the Occupational Questionnaire. (Required: You must click on "Submit My Answers" button at the end of the Questionnaire to complete this process)
+
+3. SF-50. You can access your Form 50 by logging into LiteBlue.usps.gov and accessing your eOPF.
+
+4. UPLOAD SUPPORTING DOCUMENTS which may include:
+
+Certificates or Licenses, if applicable. Upload and save as "Certificates or Licenses" document.
+
+ If you are relying on your education to meet qualification requirements:
+
+ Education must be accredited by an accrediting institution recognized by the U.S. Department of Education in order for it to be credited towards qualifications. Therefore, provide only the attendance and/or degrees from
+ schools accredited by accrediting institutions recognized by the U.S. Department of Education.
+
+ Failure to provide all of the required information as stated in this vacancy announcement may result in an ineligible rating or may affect the overall rating.
+
+How to Apply
+
+ Help
+
+To apply for this position, you must complete the online application and submit the documentation specified in the Required Documents section.
+
+IMPORTANT UPDATE: Your resume must not exceed two (2) pages. You will no longer be considered for this announcement if your resume exceeds the two-page limit.
+
+The complete application package must be submitted by 11:59 PM (EST) on the closing date, 11/12/2026, to receive consideration.
+
+To begin, click Apply Online to access an online application. Follow the prompts to select your USAJOBS resume and/or other supporting documents.
+
+You will need to be logged into your USAJOBS account or you may need to create a new account. You will be taken to an online application. Complete the online application, verify the required documentation, and submit the application.
+
+You will receive an email notification when your application has been received for the announcement.
+
+To verify the status of your application, log into your USAJOBS account, https://my.usajobs.gov/Account/Login, select the Application Status link and then select the More Information link for this position. The Application Status page will display the status of your application, the documentation received and processed, and your responses submitted to the online application. Your uploaded documents may take several hours to clear the virus scan process.
+
+You are strongly urged to read and print the entire vacancy announcement.
+
+Agency contact information
+
+ Vacancy Inquiries
+
+Email
+
+ jobs@uspsoig.gov
+
+Address
+
+ AIG Research Insight Solution Center
+
+ 1735 North Lynn Street
+
+ Arlington, VA 22209
+
+ US
+
+Next steps
+
+Once the Occupational Questionnaire has been received you will receive an acknowledgement e-mail that your submission was successful. After a review of your application package has been completed, you will be notified of your rating and/or referral to the Selecting Official.
+
+Fair and transparent
+
+The Federal hiring process is set up to be fair and transparent. Please read the following guidance.
+
+ Criminal history inquiries
+
+ Equal Employment Opportunity (EEO) Policy
+
+ Financial suitability
+
+ New employee probationary period
+
+ Privacy Act
+
+ Reasonable accommodation policy
+
+ Selective Service
+
+ Signature and false statements
+
+ Social security number request
+
+Required Documents
+
+ Help
+
+ You must submit all required documents by 11:59 PM EST on the closing date of this announcement, Vacancy Announcement 13102706, by closing date 11/12/2026.
+
+1. RESUME - IMPORTANT UPDATE: Your resume must not exceed two (2) pages. You will no longer be considered for this announcement if your resume exceeds the two-page limit. It is essential that your resume and supporting documentation provide sufficient information to substantiate your qualifications for the announced position (categorize as "Resume"). Additional guidance on writing a federal resume can be found at: USAJOBS Help Center - How do I write a resume for a federal job?
+
+Make sure your page margins are 0.5 inches. The recommended font styles are Sans-Serif, Calibri, Helvetica, Arial, Verdana, Open Sans, Source Sans Pro, Roboto or Noto Sans. Consider using 14-point size font for titles and 10-point for the main text in your resume. Your resume must be 5MB or less. We recommend saving and uploading your resume as a PDF to maintain formatting and number of pages. The resume builder can help you create a resume using these recommendations and uses the information in your USAJOBS profile to help you get started.
+
+2. COMPLETE OCCUPATIONAL QUESTIONNAIRE. Click the "Apply Online" button and follow the prompts to complete the Occupational Questionnaire. (Required: You must click on "Submit My Answers" button at the end of the Questionnaire to complete this process)
+
+3. SF-50. You can access your Form 50 by logging into LiteBlue.usps.gov and accessing your eOPF.
+
+4. UPLOAD SUPPORTING DOCUMENTS which may include:
+
+Certificates or Licenses, if applicable. Upload and save as "Certificates or Licenses" document.
+
+ If you are relying on your education to meet qualification requirements:
+
+ Education must be accredited by an accrediting institution recognized by the U.S. Department of Education in order for it to be credited towards qualifications. Therefore, provide only the attendance and/or degrees from
+ schools accredited by accrediting institutions recognized by the U.S. Department of Education.
+
+ Failure to provide all of the required information as stated in this vacancy announcement may result in an ineligible rating or may affect the overall rating.
+
+How to Apply
+
+ Help
+
+To apply for this position, you must complete the online application and submit the documentation specified in the Required Documents section.
+
+IMPORTANT UPDATE: Your resume must not exceed two (2) pages. You will no longer be considered for this announcement if your resume exceeds the two-page limit.
+
+The complete application package must be submitted by 11:59 PM (EST) on the closing date, 11/12/2026, to receive consideration.
+
+To begin, click Apply Online to access an online application. Follow the prompts to select your USAJOBS resume and/or other supporting documents.
+
+You will need to be logged into your USAJOBS account or you may need to create a new account. You will be taken to an online application. Complete the online application, verify the required documentation, and submit the application.
+
+You will receive an email notification when your application has been received for the announcement.
+
+To verify the status of your application, log into your USAJOBS account, https://my.usajobs.gov/Account/Login, select the Application Status link and then select the More Information link for this position. The Application Status page will display the status of your application, the documentation received and processed, and your responses submitted to the online application. Your uploaded documents may take several hours to clear the virus scan process.
+
+You are strongly urged to read and print the entire vacancy announcement.
+
+ Expand Hide  how to apply
+
+Agency contact information
+
+ Vacancy Inquiries
+
+Email
+
+ jobs@uspsoig.gov
+
+Address
+
+ AIG Research Insight Solution Center
+
+ 1735 North Lynn Street
+
+ Arlington, VA 22209
+
+ US
+
+Next steps
+
+Once the Occupational Questionnaire has been received you will receive an acknowledgement e-mail that your submission was successful. After a review of your application package has been completed, you will be notified of your rating and/or referral to the Selecting Official.
+
+ Expand Hide  next steps
+
+Fair and transparent
+
+The Federal hiring process is set up to be fair and transparent. Please read the following guidance.
+
+ Criminal history inquiries
+
+ Equal Employment Opportunity (EEO) Policy
+
+ Financial suitability
+
+ New employee probationary period
+
+ Privacy Act
+
+ Reasonable accommodation policy
+
+ Selective Service
+
+ Signature and false statements
+
+ Social security number request
+
+ Office of the Inspector General, USPS
+
+ America's postal system is one of the government's most trusted entities. The US Postal Service Office of Inspector General, an independent agency within the Postal Service, employs over 1,000 auditors, criminal investigators, and professional support personnel stationed in over ninety locations. The OIG plays a key role in maintaining the integrity and accountability of America's postal service, its revenue and assets, and its employees.
+
+The OIG is focused on understanding and utilizing data to develop processes, tools, and products to help identify fraud, waste, and abuse. Additionally, we make data-driven decisions using key performance indicators and metrics to produce innovative approaches to improve processes, increase visibility in oversight activities, and gain insights into emerging risks and trends. With the fast-moving changes in technology and Postal Service operations, the OIG always strives to utilize data insights to ensure we have the skills and resources to meet those new challenges.
+
+Agency contact information
+
+ Vacancy Inquiries
+
+Email
+
+ jobs@uspsoig.gov
+
+Address
+
+ AIG Research Insight Solution Center
+
+ 1735 North Lynn Street
+
+ Arlington, VA 22209
+
+ US
+
+Visit our careers page
+
+ Learn more about what it's like to work at Office of the Inspector General, USPS, what the agency does, and about the types of careers this agency offers.
+
+ https://www.uspsoig.gov/employment
+
+Summary
+
+*PLEASE NOTE THAT THIS VACANCY ANNOUNCEMENT IS ONLY OPEN TO CURRENT UNITED STATES POSTAL SERVICE OFFICE OF INSPECTOR GENERAL, UNITED STATES POSTAL SERVICE, UNITED STATES POSTAL INSPECTION SERVICE AND POSTAL REGULATORY COMMISSION EMPLOYEES. OTHER APPLICANTS WILL NOT BE CONSIDERED.
+
+This announcement provides the opportunity for a reassignment/promotion to the Data Scientist Specialist position in our Research & Insights Solution Center, located in Arlington, VA.
+
+ Learn more about this agency
+
+Overview
+
+ Help
+
+Accepting applications
+
+This job will close when we have received 100 applications which may be sooner than the closing date. Learn more
+
+Location
+
+1 vacancy in the following location:
+
+ Arlington, VA
+
+ No matching locations found.
+
+Work site options
+
+Telework eligible
+
+Yes—as determined by the agency policy.
+
+Remote job
+
+No
+
+Relocation expenses reimbursed
+
+ No
+
+Salary
+
+ $143,913 - $187,093 per year
+
+Pay scale & grade
+
+GG 14
+
+Promotion potential
+
+14
+
+ Learn more about pay scale and grade
+
+ Pay scale and grade determines the salary of the job.
+
+Work schedule
+
+Full-time
+
+Travel Required
+
+Occasional travel - You may be expected to travel for this position.
+
+Appointment type
+
+Permanent
+
+Occupations and job series
+
+ 2210 Information Technology Management
+
+Supervisory status
+
+No
+
+Federal service type
+
+This job is in the Excepted Service
+
+Represented by a union
+
+No
+
+Drug test
+
+Yes
+
+Security clearance
+
+Other
+
+Financial disclosure required
+
+No
+
+ Some jobs require
+ financial disclosure to identify conflicts of interests.
+
+Announcement number
+
+IA-27-13A-13102706-PC
+
+Control number
+
+890454800
+
+ Previous result
+
+Next result
+
+Your session is about to expire!
+
+ Your USAJOBS session will expire due to inactivity in 8 minutes.
+ Any unsaved data will be lost if you allow the session to expire.
+ Click the button below to continue your session.
+
+ Sign out
+ Stay signed in
+
+ Return to top
+
+USAJOBS is a Opens in a new windowUnited States Office of Personnel Management website.
+
+ (Opens in a new window) OPM on LinkedIn
+
+ (Opens in a new window) OPM YouTube channel
+
+ (Opens in a new window) OPM on X
+
+Opens in a new windowEEO Policy Statement
+
+Opens in a new windowReasonable Accommodation Policy Statement
+
+Veterans Information
+
+Opens in a new windowLegal and Regulatory Guidance
+
+About USAJOBS
+
+Opens in a new windowAccessibility
+
+Opens in a new windowFOIA
+
+Opens in a new windowInspector general
+
+Opens in a new windowNo Fear Act Data
+
+Opens in a new windowPrivacy policy
+
+Opens in a new windowReports and publications
+
+Opens in a new windowTerms and conditions
+
+Opens in a new windowUSA.gov

@@ -1,0 +1,32 @@
+{
+  "@context": "http://www.schema.org",
+  "@type": "JobPosting",
+  "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": {
+      "@type": "QuantitativeValue",
+      "value": 143913.0,
+      "unitText": "YEAR"
+    }
+  },
+  "datePosted": "10/21/2026",
+  "description": "This position is located in the Office of the Chief Financial Officer, Division of Budget.<br>\nThe supervisor is Karenina Scott.<br>\nThis position is subject to Confidential Financial Disclosure reporting requirements. This position is subject to security ownership restriction reporting requirements.",
+  "educationRequirements": "<br>\nThere are no education requirements for this position.",
+  "employmentType": "OTHER",
+  "hiringOrganization": "Division of Budget",
+  "jobLocation": [
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Rockville",
+        "addressRegion": "MD "
+      }
+    }
+  ],
+  "responsibilities": "The successful candidate will perform the full range of Senior Financial Analyst (TL) duties.<br>\n<br>\nSuch duties include but are not limited to:\n<ul>\n\t<li>Serves as a senior financial management authority within FCAB, leading agency-wide budget execution and oversee NRC resources.</li>\n\t<li>Directs budget activities across Prior Year, Budget Year, and Budget Year+1 cycles to support agency programs and priorities.</li>\n\t<li>Oversees financial controls, commitments and obligations, accounting string validation, and funding realignments to ensure accurate and compliant financial operations.</li>\n\t<li>Applies data analytics and business intelligence tools to enhance financial reporting, support decision-making, and improve operational effectiveness.</li>\n\t<li>Advises senior leadership on budget execution, resource allocation, and financial management strategies.</li>\n\t<li>Communicates complex financial information and collaborates with stakeholders across the agency to support mission objectives.</li>\n</ul>",
+  "qualifications": "In order to qualify for this position, you must have at least one year of specialized experience at the next lower grade level (GG-13) in the Federal service or equivalent experience in the private or public sector.<br>\n<br>\n<strong>SPECIALIZED EXPERIENCE</strong> is defined as experience leading agency-wide budget execution, funds control, and financial management operations across multiple fiscal year cycles. This experience must include applying data analytics, financial modeling, business intelligence tools (such as Power BI, Tableau, or advanced spreadsheet applications) to analyze complex financial data, monitor commitments and obligations, and provide strategic insights to executive leadership.<br>\n<br>\nThe ideal candidate will be able to demonstrate the following:\n<ul>\n\t<li>Knowledge and experience with Federal budget execution principles, fiscal law, and agencywide funds control</li>\n\t<li>Ability to research, analyze, and interpret data from financial reports to identify anomalies, evaluate fiscal issues, and draw accurate conclusions</li>\n\t<li>Experience utilizing data analytics, business intelligence tools, and advanced financial systems to drive strategic insights and decision-making</li>\n\t<li>Strong administrative, leadership, and team coordination skills sufficient to direct a team, manage priorities, and foster continuous learning.</li>\n\t<li>Advanced communication and interpersonal skills to present complex financial information clearly and collaborate effectively across all organizational levels.</li>\n</ul>\n\n<p><strong>PLEASE BE CLEAR AND CONCISE. WE WILL NOT MAKE ASSUMPTIONS REGARDING YOUR EXPERIENCE.</strong></p>",
+  "title": "Senior Financial Analyst (Team Leader)",
+  "validThrough": "2026-11-04"
+}

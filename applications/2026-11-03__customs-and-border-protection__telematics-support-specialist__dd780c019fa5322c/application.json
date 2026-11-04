@@ -1,0 +1,85 @@
+{
+  "title": "Telematics Support Specialist",
+  "requisition_id": "SMP-13097580-CJH",
+  "canonical_url": "https://www.usajobs.gov/job/890755200",
+  "application_url": "https://www.usajobs.gov/job/890755200",
+  "posted_date": "2026-11-03",
+  "posted_date_evidence": "Official JobPosting.datePosted and native PositionStartDate",
+  "close_date": "2026-11-09",
+  "deadline_timezone": "America/New_York",
+  "deadline_time": "23:59",
+  "deadline_source": "https://www.usajobs.gov/job/890755200",
+  "deadline_verified": true,
+  "early_closure_conditions": [],
+  "rolling_cutoff": null,
+  "location": "Washington, DC",
+  "remote_restrictions": "Offered DMV work location; verify telework/attendance and screening conditions in announcement.",
+  "salary": "Starting at $89,508 Per year (GS 12)",
+  "retrieved_at": "2026-11-04T01:27:13.427519+00:00",
+  "control_number": "890755200",
+  "fit": "Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.",
+  "gaps": "Hiring-path eligibility unverified: Competitive service, Career transition (CTAP, ICTAP, RPL), Land and base management, Veterans, Military spouses. Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.",
+  "requirements_confirmed_unmet": [],
+  "requirements_unverified": [
+    "Hiring-path eligibility unverified: Competitive service, Career transition (CTAP, ICTAP, RPL), Land and base management, Veterans, Military spouses. Confirm qualifying status before application; absence from baseline is not proof of ineligibility.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "preferred_requirements_note": "See official qualifications/education sections; missing evidence does not establish an unmet requirement.",
+  "hiring_paths": [
+    "Competitive service",
+    "Career transition (CTAP, ICTAP, RPL)",
+    "Land and base management",
+    "Veterans",
+    "Military spouses"
+  ],
+  "open_evidence": "Official announcement downloaded successfully; validThrough and native open-status evidence retained.",
+  "discovery_window": [
+    "2026-09-03",
+    "2026-11-03"
+  ],
+  "employer": "Customs and Border Protection",
+  "status": "needs_verification",
+  "aliases": [],
+  "id": "dd780c019fa5322c",
+  "application_directory": "applications/2026-11-03__customs-and-border-protection__telematics-support-specialist__dd780c019fa5322c",
+  "step": 1,
+  "selected": false,
+  "submitted": false,
+  "artifacts": {
+    "resume_markdown": {
+      "path": "applications/2026-11-03__customs-and-border-protection__telematics-support-specialist__dd780c019fa5322c/resume-xuewu-cai__customs-and-border-protection__telematics-support-specialist__890755200.md",
+      "sha256": "c22bb1979614d380c15c579cbc31bafc659b33664c05005f9273996cc714ee00"
+    },
+    "resume_pdf": {
+      "path": "applications/2026-11-03__customs-and-border-protection__telematics-support-specialist__dd780c019fa5322c/resume-xuewu-cai__customs-and-border-protection__telematics-support-specialist__890755200.pdf",
+      "sha256": "851159ebaa9341486260b7ed48cb6a10f3f0ca9f8369dfeedd934b60217e766a"
+    }
+  },
+  "artifact_versions": [
+    {
+      "revision_id": "2026-11-04T01:27:13.427519+00:00",
+      "artifacts": {
+        "resume_markdown": {
+          "path": "applications/2026-11-03__customs-and-border-protection__telematics-support-specialist__dd780c019fa5322c/resume-xuewu-cai__customs-and-border-protection__telematics-support-specialist__890755200.md",
+          "sha256": "c22bb1979614d380c15c579cbc31bafc659b33664c05005f9273996cc714ee00"
+        },
+        "resume_pdf": {
+          "path": "applications/2026-11-03__customs-and-border-protection__telematics-support-specialist__dd780c019fa5322c/resume-xuewu-cai__customs-and-border-protection__telematics-support-specialist__890755200.pdf",
+          "sha256": "851159ebaa9341486260b7ed48cb6a10f3f0ca9f8369dfeedd934b60217e766a"
+        }
+      },
+      "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a"
+    }
+  ],
+  "resume_status": "prepared_with_attention",
+  "resume_review": "Two rendered pages reviewed; all 77 distinct page images inspected across seven boards covering 166 pages. Text bounds, all 20 baseline experience bullets, updated title, neutral metadata and artifact hashes passed. Candidate qualifications remain unverified.",
+  "required_answers_pending": [
+    "Hiring-path eligibility unverified: Competitive service, Career transition (CTAP, ICTAP, RPL), Land and base management, Veterans, Military spouses. Confirm qualifying status before application; absence from baseline is not proof of ineligibility.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "confirmed_unmet_requirements": [],
+  "qualifications_verified": false,
+  "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a",
+  "resume_format": "restored_two_page",
+  "current_resume_naming": "unversioned"
+}

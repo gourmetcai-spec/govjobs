@@ -1,0 +1,81 @@
+{
+  "title": "IT Cybersecurity Specialist (CYBERMGT)",
+  "requisition_id": "27-CR-13102748-DH",
+  "canonical_url": "https://www.usajobs.gov/job/891266900",
+  "application_url": "https://www.usajobs.gov/job/891266900",
+  "posted_date": "2026-11-03",
+  "posted_date_evidence": "Official JobPosting.datePosted and native PositionStartDate",
+  "close_date": "2026-11-09",
+  "deadline_timezone": "America/New_York",
+  "deadline_time": "23:59",
+  "deadline_source": "https://www.usajobs.gov/job/891266900",
+  "deadline_verified": true,
+  "early_closure_conditions": [],
+  "rolling_cutoff": null,
+  "location": "Washington, DC",
+  "remote_restrictions": "Offered DMV work location; verify telework/attendance and screening conditions in announcement.",
+  "salary": "Starting at $169,279 Per year (GS 15)",
+  "retrieved_at": "2026-11-04T01:27:13.427519+00:00",
+  "control_number": "891266900",
+  "fit": "Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.",
+  "gaps": "Verify NIST/security-control experience against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.",
+  "requirements_confirmed_unmet": [],
+  "requirements_unverified": [
+    "Verify NIST/security-control experience against the exact qualification clause; not established by the baseline alone.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "preferred_requirements_note": "See official qualifications/education sections; missing evidence does not establish an unmet requirement.",
+  "hiring_paths": [
+    "Open to the public"
+  ],
+  "open_evidence": "Official announcement downloaded successfully; validThrough and native open-status evidence retained.",
+  "discovery_window": [
+    "2026-09-03",
+    "2026-11-03"
+  ],
+  "employer": "Department of Energy Headquarters",
+  "status": "needs_verification",
+  "aliases": [],
+  "id": "d9edc9fee1452596",
+  "application_directory": "applications/2026-11-03__department-of-energy-headquarters__it-cybersecurity-specialist-cybermgt__d9edc9fee1452596",
+  "step": 1,
+  "selected": false,
+  "submitted": false,
+  "artifacts": {
+    "resume_markdown": {
+      "path": "applications/2026-11-03__department-of-energy-headquarters__it-cybersecurity-specialist-cybermgt__d9edc9fee1452596/resume-xuewu-cai__department-of-energy-headquarters__it-cybersecurity-specialist-cybermgt__891266900.md",
+      "sha256": "22479c81ed9fca904bac629d1c008f87612a95ab077b9639f49bd196f11b234a"
+    },
+    "resume_pdf": {
+      "path": "applications/2026-11-03__department-of-energy-headquarters__it-cybersecurity-specialist-cybermgt__d9edc9fee1452596/resume-xuewu-cai__department-of-energy-headquarters__it-cybersecurity-specialist-cybermgt__891266900.pdf",
+      "sha256": "41aa167794aab8036ab41a68b4ab741a32e8a17cdd41451e590037b48e1621f7"
+    }
+  },
+  "artifact_versions": [
+    {
+      "revision_id": "2026-11-04T01:27:13.427519+00:00",
+      "artifacts": {
+        "resume_markdown": {
+          "path": "applications/2026-11-03__department-of-energy-headquarters__it-cybersecurity-specialist-cybermgt__d9edc9fee1452596/resume-xuewu-cai__department-of-energy-headquarters__it-cybersecurity-specialist-cybermgt__891266900.md",
+          "sha256": "22479c81ed9fca904bac629d1c008f87612a95ab077b9639f49bd196f11b234a"
+        },
+        "resume_pdf": {
+          "path": "applications/2026-11-03__department-of-energy-headquarters__it-cybersecurity-specialist-cybermgt__d9edc9fee1452596/resume-xuewu-cai__department-of-energy-headquarters__it-cybersecurity-specialist-cybermgt__891266900.pdf",
+          "sha256": "41aa167794aab8036ab41a68b4ab741a32e8a17cdd41451e590037b48e1621f7"
+        }
+      },
+      "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a"
+    }
+  ],
+  "resume_status": "prepared_with_attention",
+  "resume_review": "Two rendered pages reviewed; all 77 distinct page images inspected across seven boards covering 166 pages. Text bounds, all 20 baseline experience bullets, updated title, neutral metadata and artifact hashes passed. Candidate qualifications remain unverified.",
+  "required_answers_pending": [
+    "Verify NIST/security-control experience against the exact qualification clause; not established by the baseline alone.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "confirmed_unmet_requirements": [],
+  "qualifications_verified": false,
+  "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a",
+  "resume_format": "restored_two_page",
+  "current_resume_naming": "unversioned"
+}

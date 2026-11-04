@@ -1,0 +1,86 @@
+{
+  "title": "IT Specialist (Data Engineer)",
+  "requisition_id": "270006DE-13103716-CS",
+  "canonical_url": "https://www.usajobs.gov/job/891337300",
+  "application_url": "https://www.usajobs.gov/job/891337300",
+  "posted_date": "2026-11-03",
+  "posted_date_evidence": "Official JobPosting.datePosted and native PositionStartDate",
+  "close_date": "2026-11-13",
+  "deadline_timezone": "America/New_York",
+  "deadline_time": "23:59",
+  "deadline_source": "https://www.usajobs.gov/job/891337300",
+  "deadline_verified": true,
+  "early_closure_conditions": [],
+  "rolling_cutoff": null,
+  "location": "Washington, DC; Baltimore, MD; Richmond, VA; Roanoke, VA",
+  "remote_restrictions": "Offered DMV work location; verify telework/attendance and screening conditions in announcement.",
+  "salary": "Starting at $90,925 Per year (GS 13)",
+  "retrieved_at": "2026-11-04T01:27:13.427519+00:00",
+  "control_number": "891337300",
+  "fit": "Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.",
+  "gaps": "Confirm the announcement-specific specialized experience, grade-equivalent scope and mandatory conditions against your actual work history. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them. Possible companion route(s): bd1bfb118d09f54e. Reconcile exact vacancy before submitting; no duplicate applications.",
+  "requirements_confirmed_unmet": [],
+  "requirements_unverified": [
+    "Confirm the announcement-specific specialized experience, grade-equivalent scope and mandatory conditions against your actual work history.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.",
+    "Possible companion route(s): bd1bfb118d09f54e. Reconcile exact vacancy before submitting; no duplicate applications."
+  ],
+  "preferred_requirements_note": "See official qualifications/education sections; missing evidence does not establish an unmet requirement.",
+  "hiring_paths": [
+    "Open to the public",
+    "Career transition (CTAP, ICTAP, RPL)"
+  ],
+  "open_evidence": "Official announcement downloaded successfully; validThrough and native open-status evidence retained.",
+  "discovery_window": [
+    "2026-09-03",
+    "2026-11-03"
+  ],
+  "employer": "Railroad Retirement Board",
+  "status": "needs_verification",
+  "aliases": [],
+  "id": "9a9d816e41ac8549",
+  "application_directory": "applications/2026-11-03__railroad-retirement-board__it-specialist-data-engineer__9a9d816e41ac8549",
+  "step": 1,
+  "selected": false,
+  "submitted": false,
+  "artifacts": {
+    "resume_markdown": {
+      "path": "applications/2026-11-03__railroad-retirement-board__it-specialist-data-engineer__9a9d816e41ac8549/resume-xuewu-cai__railroad-retirement-board__it-specialist-data-engineer__891337300.md",
+      "sha256": "4b260dcd222ac2552ab23116d9df9907f3afc44338b11910aaf61690bc87e812"
+    },
+    "resume_pdf": {
+      "path": "applications/2026-11-03__railroad-retirement-board__it-specialist-data-engineer__9a9d816e41ac8549/resume-xuewu-cai__railroad-retirement-board__it-specialist-data-engineer__891337300.pdf",
+      "sha256": "583a92c6506b66cb3fa0ace95159a7fac04b52f89c4b8846718e66d19a3e35eb"
+    }
+  },
+  "artifact_versions": [
+    {
+      "revision_id": "2026-11-04T01:27:13.427519+00:00",
+      "artifacts": {
+        "resume_markdown": {
+          "path": "applications/2026-11-03__railroad-retirement-board__it-specialist-data-engineer__9a9d816e41ac8549/resume-xuewu-cai__railroad-retirement-board__it-specialist-data-engineer__891337300.md",
+          "sha256": "4b260dcd222ac2552ab23116d9df9907f3afc44338b11910aaf61690bc87e812"
+        },
+        "resume_pdf": {
+          "path": "applications/2026-11-03__railroad-retirement-board__it-specialist-data-engineer__9a9d816e41ac8549/resume-xuewu-cai__railroad-retirement-board__it-specialist-data-engineer__891337300.pdf",
+          "sha256": "583a92c6506b66cb3fa0ace95159a7fac04b52f89c4b8846718e66d19a3e35eb"
+        }
+      },
+      "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a"
+    }
+  ],
+  "resume_status": "prepared_with_attention",
+  "resume_review": "Two rendered pages reviewed; all 77 distinct page images inspected across seven boards covering 166 pages. Text bounds, all 20 baseline experience bullets, updated title, neutral metadata and artifact hashes passed. Candidate qualifications remain unverified.",
+  "required_answers_pending": [
+    "Confirm the announcement-specific specialized experience, grade-equivalent scope and mandatory conditions against your actual work history.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "confirmed_unmet_requirements": [],
+  "qualifications_verified": false,
+  "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a",
+  "resume_format": "restored_two_page",
+  "current_resume_naming": "unversioned",
+  "possible_companion_job_ids": [
+    "bd1bfb118d09f54e"
+  ]
+}

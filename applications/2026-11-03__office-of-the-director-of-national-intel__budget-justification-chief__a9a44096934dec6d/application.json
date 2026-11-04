@@ -1,0 +1,85 @@
+{
+  "title": "Budget Justification Chief",
+  "requisition_id": "27-13109089-DNI/ICCFO",
+  "canonical_url": "https://www.usajobs.gov/job/891509800",
+  "application_url": "https://www.usajobs.gov/job/891509800",
+  "posted_date": "2026-11-03",
+  "posted_date_evidence": "Official JobPosting.datePosted and native PositionStartDate",
+  "close_date": "2026-11-18",
+  "deadline_timezone": "America/New_York",
+  "deadline_time": "23:59",
+  "deadline_source": "https://www.usajobs.gov/job/891509800",
+  "deadline_verified": true,
+  "early_closure_conditions": [
+    "This job will close when we have received 100 applications which may be sooner than the closing date. Learn more"
+  ],
+  "rolling_cutoff": null,
+  "location": "McLean, VA",
+  "remote_restrictions": "Offered DMV work location; verify telework/attendance and screening conditions in announcement.",
+  "salary": "Starting at $169,279 Per year (GS 15)",
+  "retrieved_at": "2026-11-04T01:27:13.427519+00:00",
+  "control_number": "891509800",
+  "fit": "Enterprise forecasting, capital planning, portfolio risk/valuation, financial reporting and leadership overlap. Exact federal accounting, budget, investment governance and grade-equivalent requirements remain unverified.",
+  "gaps": "Verify OMB/federal budget procedures against the exact qualification clause; not established by the baseline alone. Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.",
+  "requirements_confirmed_unmet": [],
+  "requirements_unverified": [
+    "Verify OMB/federal budget procedures against the exact qualification clause; not established by the baseline alone.",
+    "Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "preferred_requirements_note": "See official qualifications/education sections; missing evidence does not establish an unmet requirement.",
+  "hiring_paths": [
+    "Open to the public"
+  ],
+  "open_evidence": "Official announcement downloaded successfully; validThrough and native open-status evidence retained.",
+  "discovery_window": [
+    "2026-09-03",
+    "2026-11-03"
+  ],
+  "employer": "Office of the Director of National Intelligence",
+  "status": "needs_verification",
+  "aliases": [],
+  "id": "a9a44096934dec6d",
+  "application_directory": "applications/2026-11-03__office-of-the-director-of-national-intel__budget-justification-chief__a9a44096934dec6d",
+  "step": 1,
+  "selected": false,
+  "submitted": false,
+  "artifacts": {
+    "resume_markdown": {
+      "path": "applications/2026-11-03__office-of-the-director-of-national-intel__budget-justification-chief__a9a44096934dec6d/resume-xuewu-cai__office-of-the-director-of-national-intel__budget-justification-chief__891509800.md",
+      "sha256": "3080accbf590197d5b5ca7aa9f1875ab84f273fb3a4615d6cd8ae2f5da139353"
+    },
+    "resume_pdf": {
+      "path": "applications/2026-11-03__office-of-the-director-of-national-intel__budget-justification-chief__a9a44096934dec6d/resume-xuewu-cai__office-of-the-director-of-national-intel__budget-justification-chief__891509800.pdf",
+      "sha256": "4f3a0a5eb510db30e2d70b69cec112e6ae092e401b1d22a160380a38a9af0fe8"
+    }
+  },
+  "artifact_versions": [
+    {
+      "revision_id": "2026-11-04T01:27:13.427519+00:00",
+      "artifacts": {
+        "resume_markdown": {
+          "path": "applications/2026-11-03__office-of-the-director-of-national-intel__budget-justification-chief__a9a44096934dec6d/resume-xuewu-cai__office-of-the-director-of-national-intel__budget-justification-chief__891509800.md",
+          "sha256": "3080accbf590197d5b5ca7aa9f1875ab84f273fb3a4615d6cd8ae2f5da139353"
+        },
+        "resume_pdf": {
+          "path": "applications/2026-11-03__office-of-the-director-of-national-intel__budget-justification-chief__a9a44096934dec6d/resume-xuewu-cai__office-of-the-director-of-national-intel__budget-justification-chief__891509800.pdf",
+          "sha256": "4f3a0a5eb510db30e2d70b69cec112e6ae092e401b1d22a160380a38a9af0fe8"
+        }
+      },
+      "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a"
+    }
+  ],
+  "resume_status": "prepared_with_attention",
+  "resume_review": "Two rendered pages reviewed; all 77 distinct page images inspected across seven boards covering 166 pages. Text bounds, all 20 baseline experience bullets, updated title, neutral metadata and artifact hashes passed. Candidate qualifications remain unverified.",
+  "required_answers_pending": [
+    "Verify OMB/federal budget procedures against the exact qualification clause; not established by the baseline alone.",
+    "Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "confirmed_unmet_requirements": [],
+  "qualifications_verified": false,
+  "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a",
+  "resume_format": "restored_two_page",
+  "current_resume_naming": "unversioned"
+}

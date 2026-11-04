@@ -1,0 +1,32 @@
+{
+  "@context": "http://www.schema.org",
+  "@type": "JobPosting",
+  "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": {
+      "@type": "QuantitativeValue",
+      "value": 102415.0,
+      "unitText": "YEAR"
+    }
+  },
+  "datePosted": "10/29/2026",
+  "description": "This is a public notice flyer to notify interested applicants of anticipated vacancies. Applications will not be accepted through this flyer. Interested applicants must follow the directions in the \"How to Apply\" section of this flyer to be considered. There may or may not be actual vacancies filled from this flyer. Notice of Result letters will not be sent to applicants who respond to this flyer.<br>",
+  "educationRequirements": "This job does not have an education qualification requirement.",
+  "employmentType": "OTHER",
+  "hiringOrganization": "MARCORSYSCOM",
+  "jobLocation": [
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Quantico",
+        "addressRegion": "VA "
+      }
+    }
+  ],
+  "responsibilities": "",
+  "qualifications": "Your resume must also demonstrate at least one year of specialized experience at or equivalent to the <strong>GS-11</strong> grade level or <strong>NH-02</strong> pay band in the Federal service or equivalent experience in the private or public sector. Specialized experience must demonstrate the following:<br>\n<br>\n<strong><strong>1. Expert knowledge and skill in the application of concepts, principles, practices, laws, and regulations of budgeting and/or financing and their relation to subordinate and senior levels.<br>\n2. Knowledge of and skill in executing the programming, planning, budget, and execution ) PPBE phase for acquistion programs.<br>\n3. Knowledge of and skill to apply appropriation usage for the Research, Development, Testing and Evaluation (RDT&E), Procurement, and Operations and Maintenance appropriations.<br>\n4. Expert knowledge of and skill in applying fiscal law, financial principals and procedures, processes and financial systems.<br>\n5. Skill to communicate effectively, both orally and in writing to senior leadership and peers within the command.</strong></strong><br>\n<br>\nAdditional qualification information can be found from the following Office of Personnel Management website: <a href=\"https://www.opm.gov/policy-data-oversight/classification-qualifications/general-schedule-qualification-standards/0500/financial-administration-and-program-series-0501/\">https://www.opm.gov/policy-data-oversight/classification-qualifications/general-schedule-qualification-standards/0500/financial-administration-and-program-series-0501/</a><br>\n<br>\nExperience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., professional, philanthropic, religious, spiritual, community, student, social). Volunteer work helps build critical competencies, knowledge, and skills and can provide valuable training and experience that translates directly to paid employment.",
+  "title": "FINANCIAL MANAGEMENT SPECIALIST",
+  "validThrough": "2027-01-29"
+}

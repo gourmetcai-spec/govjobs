@@ -1,0 +1,48 @@
+{
+  "@context": "http://www.schema.org",
+  "@type": "JobPosting",
+  "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": {
+      "@type": "QuantitativeValue",
+      "value": 107428.0,
+      "unitText": "YEAR"
+    }
+  },
+  "datePosted": "11/03/2026",
+  "description": "This position is located in the National Oceanic and Atmospheric Administration (NOAA), Office of the Chief Information Officer (OCIO), N-Wave, with one vacancy in Boulder, CO; Indianapolis, IN; or Silver Spring, MD.<br>\n<br>\nThis position is also announced under vacancy number CIO NWAVE-27-13107422-DE, which is open to all US Citizens or Nationals. You must apply to both announcements if you want to be considered for both.",
+  "educationRequirements": "<p>Substitution of education for specialized experience is not applicable to this vacancy.</p>",
+  "employmentType": "OTHER",
+  "hiringOrganization": "NOAA Office of Human Capital Services (OHCS)",
+  "jobLocation": [
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Boulder",
+        "addressRegion": "CO "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Indianapolis",
+        "addressRegion": "IN "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Silver Spring",
+        "addressRegion": "MD "
+      }
+    }
+  ],
+  "responsibilities": "<p>As an IT Specialist (Network Services), you will perform the following duties:</p>\n\n<ul>\n\t<li>Initiate engineering research, architecture design, identification, procurement, and deployment of Information Technology (IT)-related hardware, software, high-capacity transport circuits, and cloud connectivity service at the enterprise level. Structure strategic direction, technical governance, and contract oversight for N-Wave contract personnel, commercial telecommunications carriers, and Cloud Service Providers (CSPs) to streamline end-to-end service delivery across N-Wave infrastructure and hybrid cloud offerings.</li>\n\t<li>Support executive-level architecture and design reviews with N-Wave engineering leads, cloud teams, and senior line office stakeholders to establish technical approaches for complex service requests. Share communication with executive National Oceanic and Atmospheric Administration (NOAA) leadership across Line Offices. Synthesize complex networking, optical transport, and cloud-edge realities into strategic roadmaps, briefings, and decision memos in support of NOAA Chief Information Officer enterprise goals.</li>\n\t<li>Show skill in applying, enterprise-level IT and network infrastructure. Structure projects using program and portfolio management frameworks, including Waterfall, Hybrid, and Agile methodologies. Standards for enterprise network and cybersecurity compliance are applied. Show advanced technical knowledge and broad operational experience in Wide Area Networking (WAN), high-capacity optical transport, and direct-connect cloud connectivity.</li>\n</ul>\n<u><strong>POSITION REQUIREMENTS:</strong></u>\n\n<ul>\n\t<li>This is a Critical sensitive, ADP position. A Top Secret security clearance is required.</li>\n</ul>\n<strong>Throughout the recruitment and hiring process we will be communicating with you via email; therefore, it is imperative that the email address you provide when applying for this vacancy remains active. Should your email address change, please notify the point of contact identified in the vacancy announcement as soon as possible so that we can update our system.</strong>",
+  "qualifications": "<p>Qualification requirements in the vacancy announcements are based on the U.S. Office of Personnel Management (OPM) Qualification Standards Handbook, which contains federal qualification standards. This handbook is available on the Office of Personnel Management's website located at: <a href=\"https://www.opm.gov/policy-data-oversight/classification-qualifications/general-schedule-qualification-standards/#url=Overview\" rel=\"noreferrer\" title=\"OPM Qualification Standards\">https://www.opm.gov/policy-data-oversight/classification-qualifications/general-schedule-qualification-standards/</a><br>\n<br>\n<strong>EDUCATION:</strong> There is no positive education requirement for this position.<br>\n<br>\n<strong>SPECIALIZED EXPERIENCE: </strong>Applicants must possess one year of specialized experience equivalent in difficulty and responsibility to the next lower grade level in the Federal Service. Specialized experience is experience that has equipped the applicant with the particular competencies/knowledge, skills and abilities to successfully perform the duties of the position. This experience need not have been in the federal government.<br>\n<br>\nExperience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., Peace Corps, AmeriCorps) and other organizations e.g., professional; philanthropic, religious; spiritual; community, student, social). Volunteer work helps build critical competencies; knowledge, and skills and can provide valuable training and experience that translates directly to paid employment. You will receive credit for all qualifying experience, including volunteer experience.<br>\n </p>\n\n<p><b><u>To qualify for the 2210 series:</u></b><br>\n<b>IT COMPETENCIES: </b>For all positions individuals qualifying based on experience must have IT-related experience demonstrating each of the four competencies listed below. The employing agency is responsible for identifying the specific level of proficiency required for each competency at each grade level based on the requirements of the position being filled.</p>\n\n<ul>\n\t<li><b>Attention to Detail </b>- Is thorough when performing work and conscientious about attending to detail.</li>\n\t<li><b>Customer Service </b>- Works with clients and customers (that is, any individuals who use or receive the services or products that your work unit produces, including the general public, individuals who work in the agency, other agencies, or organizations outside the Government) to assess their needs, provide information or assistance, resolve their problems, or satisfy their expectations; knows about available products and services; is committed to providing quality products and services.</li>\n\t<li><b>Oral Communication </b>- Expresses information (for example, ideas or facts) to individuals or groups effectively, taking into account the audience and nature of the information (for example, technical, sensitive, controversial); makes clear and convincing oral presentations; listens to others, attends to nonverbal cues, and responds appropriately.</li>\n\t<li><b>Problem Solving </b>- Identifies problems; determines accuracy and relevance of information; uses sound judgment to generate and evaluate alternatives, and to make recommendations.</li>\n</ul>\n\n<p><strong>AND<br>\n<br>\n<u>To qualify at the ZP-4 or GS-13 level:</u><br>\nSPECIALIZED EXPERIENCE: </strong>In addition to meeting the IT Competencies above, applicants must also possess one full year (52 weeks) of specialized experience equivalent to the ZP-3 or GS-12 in the Federal service. Specialized experience MUST include all of the following:</p>\n\n<ul>\n\t<li>Aiding in the deployment of IT related hardware, software and cloud connectivity services;</li>\n\t<li>Coordinating the maintenance and upgrade of IT transport or cloud infrastructure; and</li>\n\t<li>Providing IT related advice or guidance to personnel across enterprise telecommunications networks or cloud environments.</li>\n</ul>",
+  "title": "IT Specialist (Network Services)",
+  "validThrough": "2026-11-09"
+}

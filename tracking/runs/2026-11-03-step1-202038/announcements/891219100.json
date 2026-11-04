@@ -1,0 +1,32 @@
+{
+  "@context": "http://www.schema.org",
+  "@type": "JobPosting",
+  "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": {
+      "@type": "QuantitativeValue",
+      "value": 102415.0,
+      "unitText": "YEAR"
+    }
+  },
+  "datePosted": "11/03/2026",
+  "description": "This is a public notice flyer to notify interested applicants of anticipated vacancies. Applications will not be accepted through this flyer. Interested applicants must follow the directions in the \"How to Apply\" section of this flyer to be considered. There may or may not be actual vacancies filled from this flyer. Notice of Result letters will not be sent to applicants who respond to this flyer.<br>",
+  "educationRequirements": "This job does not have an education qualification requirement.",
+  "employmentType": "OTHER",
+  "hiringOrganization": "CWG-SIX",
+  "jobLocation": [
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Fort Meade Naval Facilities",
+        "addressRegion": "MD "
+      }
+    }
+  ],
+  "responsibilities": "",
+  "qualifications": "Your resume must demonstrate at least one year of specialized experience at or equivalent to the <strong>GG</strong><strong>/GS-11</strong> grade level or pay band in the Federal service or equivalent experience in the private or public sector. Specialized experience must demonstrate the following:\n<ol>\n\t<li>Complete assignments regarding routine tasks in the collection and analysis of financial data necessary to complete budget formulation data calls and budget execution exhibits;</li>\n\t<li>Utilize knowledge of financial management systems to assist in maintaining financial accounts and managing all assigned obligation documents;</li>\n\t<li>Review and evaluate financial program execution to ensure compliance with Financial Management Regulations (FMR).</li>\n</ol>\n<br>\nExperience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., professional, philanthropic, religious, spiritual, community, student, social). Volunteer work helps build critical competencies, knowledge, and skills and can provide valuable training and experience that translates directly to paid employment.",
+  "title": "Financial Management Specialist",
+  "validThrough": "2026-11-16"
+}

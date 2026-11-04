@@ -1,0 +1,188 @@
+# Sr. Project Portfolio Manager - MFS
+
+{
+  "title": "Sr. Project Portfolio Manager - MFS",
+  "requisition_id": "R025881",
+  "canonical_url": "https://bd.wd104.myworkdayjobsgov.com/frb/job/Federal-Reserve-Board/Sr-Project-Portfolio-Manager---MFS_R025881",
+  "application_url": "https://bd.wd104.myworkdayjobsgov.com/frb/job/Federal-Reserve-Board/Sr-Project-Portfolio-Manager---MFS_R025881",
+  "posted_date": "2026-10-09",
+  "posted_date_evidence": "Official Workday startDate",
+  "close_date": null,
+  "deadline_timezone": null,
+  "deadline_time": null,
+  "deadline_source": "https://bd.wd104.myworkdayjobsgov.com/frb/job/Federal-Reserve-Board/Sr-Project-Portfolio-Manager---MFS_R025881",
+  "deadline_verified": false,
+  "early_closure_conditions": [],
+  "rolling_cutoff": null,
+  "location": "Washington, DC",
+  "remote_restrictions": "Offered DMV work location; verify telework/attendance and screening conditions in announcement.",
+  "salary": null,
+  "retrieved_at": "2026-11-04T01:27:13.427519+00:00",
+  "control_number": "R025881",
+  "fit": "Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.",
+  "gaps": "Federal Reserve Board role: confirm the exact minimum years, domain expertise and required versus preferred qualifications against the saved official description. Unknown deadline means verify promptly; never assume open-ended hiring. Verify OMB/federal budget procedures against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.",
+  "requirements_confirmed_unmet": [],
+  "requirements_unverified": [
+    "Federal Reserve Board role: confirm the exact minimum years, domain expertise and required versus preferred qualifications against the saved official description. Unknown deadline means verify promptly; never assume open-ended hiring.",
+    "Verify OMB/federal budget procedures against the exact qualification clause; not established by the baseline alone.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "preferred_requirements_note": "See official qualifications/education sections; missing evidence does not establish an unmet requirement.",
+  "hiring_paths": [
+    "See Board qualifications; internship enrollment requirements remain unverified"
+  ],
+  "open_evidence": "Official announcement downloaded successfully; validThrough and native open-status evidence retained.",
+  "discovery_window": [
+    "2026-09-03",
+    "2026-11-03"
+  ]
+}
+
+## Summary
+
+Always verify and apply to jobs on the official Federal Reserve Board career site or through verified Federal Reserve Board social media channels.
+Minimum Education
+Bachelor's degree or equivalent experience
+Minimum Experience
+8
+Summary
+The Senior Project Portfolio Manager, reporting to the Division Director and Chief Financial Officer (CFO), plans, budgets, and reports on complex projects to meet the strategic business objectives and goals of the division. The incumbent oversees a collection (portfolio) of projects and programs to ensure they align with an organization's overarching strategic goals and maximize return on investment. This role focuses on strategic selection, prioritization, governance, and resource allocation across multiple initiatives rather than managing individual tasks. coordinates cross-functional Board and System teams through meetings and progress measurement activities, which bring projects to completion on time, on budget, and with quality outcomes in support of division goals and objectives. This position coordinates multiple projects simultaneously in a fast-paced, high-visibility environment. Intervenes in various types of issues as appropriate to reach resolution. The Senior Project Portfolio Manager advises the CFO on appropriate courses of action to ensure cost, performance, and schedule goals are achieved successfully. The Senior Portfolio Manager is accountable for timely and accurate portfolio reporting, including measuring costs, schedules, and performance against an approved baseline.
+Duties and Responsibilities
+Project Coordination & Execution:  Coordinates complex, highly visible projects in a matrixed environment. Coordinates resources across business and functional units to ensure projects meet milestones, quality standards, schedules, and budgets. Projects major milestones throughout the project lifecycle and monitors progress against established timelines.
+Portfolio Management & Governance:  Manages portfolio of projects from initiation through delivery in compliance with Board project management guidelines. Evaluates projects at intake and recommends prioritization against division strategy and capacity. Identifies and resolves competing demands for funding and staffing resources across projects. Administers stage-gate reviews and recommends continuation, re-scoping, or termination based on resource allocation. Aggregates risk and interdependency exposure across the portfolio and tracks realization of benefits.
+Performance Measurement & Financial Controls:   Establishes and maintains approved performance measurement baseline of cost, schedule, and scope for each project. Measures performance using earned value management or equivalent techniques; calculates variances and performance indices; maintains estimates at completion; and administers baseline change control. Coordinates financial management, acquisition strategy, and logistical support. Develops financial controls and tracking mechanisms to ensure fiscal accountability and compliance with budgetary constraints.
+Portfolio Reporting & Escalation:  Owns accuracy and integrity of portfolio reporting. Defines reporting standards, data definitions, and cadence. Reconciles cost data to Board's financial system of record. Independently verifies percent complete and milestone completion. Uses scorecards and dashboards to keep management informed and escalates to Chief Financial Officer when variance crosses established thresholds.
+Analysis, Risk Management & Strategic Recommendations:  Plans, conducts, and directs complex reviews of portfolio deliverables, processes, and outcomes. Identifies and balances project risks, selects alternatives, and plans how to accomplish goals within established guidelines. Develops risk mitigation strategies and contingency plans. Conducts analysis and recommends courses of action to ensure outcomes consistent with scope, budget, and timeline. Briefs CFO on project status, critical issues, and strategic decisions requiring executive input.
+Stakeholder Collaboration & Change Management:  Serves as central point of communication for project status, progress, issues, and risks. Collaborates with and develops strong working relationships with business analysts, business teams, and technical staff. Acts as intermediary between groups, builds consensus, and translates requirements. Creates and manages implementation plans, coordinates training, and manages stakeholder analysis process. Partners with service providers, business leaders, and stakeholders to promote shared understanding of dependencies and supports execution of division change management methodology.
+Contract & Vendor Management:  Reports on controls to ensure contracts are executed in accordance with terms and conditions. Monitors quality assurance plans to ensure contracted services meet expectations. Works with Procurement and the COR to ensure vendor compliance with contract provisions.
+Business Alignment & Professional Development:  Shares accountability with business sponsors to ensure projects meet Board's and division's business goals and objectives. Applies Board project management guidelines in establishing metrics for measuring outcomes. Develops own professional and technical knowledge through online resources, conferences, professional relationships, formal training, and certifications where appropriate.
+FR-28 Minimum Qualifications:
+Certifications: Required formal certification in project management such as Certified Project Management Professional (PMP); Preferred Program Management Professional (PgMP), Portfolio Management Professional (PfMP) and/or Earned Value Professional (EVP) or equivalent cost and schedule control credential; Must have ability or obtain within 12 months, Contracting Officer’s Representative certification (COR).
+Portfolio & Project Management Expertise: Requires very strong portfolio/project management and analytical skills. Thorough knowledge of leading industry practices and methodologies related to portfolio/project management, budget reporting, and schedule management. Demonstrated accountability for a portfolio of at least eight concurrent projects or an aggregate value of at least $25M.
+Earned Value Management & Performance Measurement: Working knowledge of earned value management or equivalent integrated cost and schedule control discipline, including performance measurement baselines, variance analysis, cost and schedule performance indices, estimates at completion, and baseline change control. Demonstrated experience establishing performance measurement baselines and reporting cost and schedule variance to executive leadership.
+Executive Reporting & Data Integrity: Demonstrated ability to construct and validate executive-level portfolio reporting, including reconciling project cost data to the authoritative financial system of record and independently testing the reliability of reported progress before it is briefed. Proficiency with enterprise project and portfolio management, scheduling, and financial systems, and the ability to build and sustain recurring reporting drawn directly from those systems.
+Risk & Issue Management: Understands how to mitigate project and application risk. Must drive resolution of project risks and issues and escalate when required. Resolves project conflicts and handles conflicting information and requirements effectively.
+Communication & Stakeholder Engagement: Must possess clear, concise, and effective verbal and written communication, including the ability to effectively communicate with technical personnel, business customers, and management at all levels. Ability to read communication styles of team members and contractors from a broad spectrum of disciplines and negotiate as needed. Ability to elicit cooperation from a wide variety of sources, including upper management, clients, and other divisions.
+Adaptability & Priority Management: Can promptly and efficiently conform to shifting priorities, project adjustments, demands, and timelines through analytical and problem-solving capabilities. Excellent time management and organizational skills required. Demonstrated ability to handle multiple tasks, competing priorities, and challenging situations professionally.
+Technical & Business Acumen: Quickly learns and assimilates complex technical and business requirement information with the ability to apply this knowledge in solving customer business problems.
+Leadership & Accountability: Demonstrates leadership and willingness to take accountability for results. Strong leadership and project management skills in managing technical staff and projects. Demonstrated commitment to a strong customer service philosophy required.undefined.
+This position requires an on-site presence in Washington, DC.
+The expected salary range for this role is $144,500 - $276,400. Final offers are determined by experience and education, as well as internal and external factors
+Job Type:Regular
+Job Exempt:Yes
+Relocation Provided:
+Yes
+Compensation Grade(s):FR PAY GRADE 28
+Pay:$144,500 - $276,400
+Rehabilitation Act
+The Board complies with the Rehabilitation Act of 1973, as amended, and provides job applicants with disabilities reasonable accommodations to assist them in applying for jobs at the Board.  If you have a disability and would like to request an accommodation in order to apply for a job at the Board, please call 202-452-3880 or e-mail FRBRecruiting@frb.gov.
+Equal Opportunity Employer
+We are an Equal Opportunity Employer and do not discriminate against any employee or applicant for employment on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, genetic information, or application, membership, or service in the uniformed services.
+Privacy
+You may review the Federal Reserve Board's Privacy Act Notice at https://www.federalreserve.gov/careers/files/fr1273.pdf.
+Paperwork Reduction Act
+OMB No. 7100-0181
+Approval Expires October 31, 2029
+Public reporting burden for this collection of information is estimated to average 0.26-0.71 hours per response, including the time to gather and maintain data in the required form and to review instructions and complete the information collection. Send comments regarding this burden estimate or any other aspect of this collection of information, including suggestions for reducing this burden to: Secretary, Board of Governors of the Federal Reserve System, Washington, DC 20551; and to the Office of Management and Budget, Paperwork Reduction Project (7100–0181), Washington, DC 20503. The Federal Reserve may not conduct or sponsor, and an organization (or a person) is not required to respond to a collection of information unless it displays a currently valid OMB control number.
+
+## Duties
+
+
+
+## Qualifications
+
+Always verify and apply to jobs on the official Federal Reserve Board career site or through verified Federal Reserve Board social media channels.
+Minimum Education
+Bachelor's degree or equivalent experience
+Minimum Experience
+8
+Summary
+The Senior Project Portfolio Manager, reporting to the Division Director and Chief Financial Officer (CFO), plans, budgets, and reports on complex projects to meet the strategic business objectives and goals of the division. The incumbent oversees a collection (portfolio) of projects and programs to ensure they align with an organization's overarching strategic goals and maximize return on investment. This role focuses on strategic selection, prioritization, governance, and resource allocation across multiple initiatives rather than managing individual tasks. coordinates cross-functional Board and System teams through meetings and progress measurement activities, which bring projects to completion on time, on budget, and with quality outcomes in support of division goals and objectives. This position coordinates multiple projects simultaneously in a fast-paced, high-visibility environment. Intervenes in various types of issues as appropriate to reach resolution. The Senior Project Portfolio Manager advises the CFO on appropriate courses of action to ensure cost, performance, and schedule goals are achieved successfully. The Senior Portfolio Manager is accountable for timely and accurate portfolio reporting, including measuring costs, schedules, and performance against an approved baseline.
+Duties and Responsibilities
+Project Coordination & Execution:  Coordinates complex, highly visible projects in a matrixed environment. Coordinates resources across business and functional units to ensure projects meet milestones, quality standards, schedules, and budgets. Projects major milestones throughout the project lifecycle and monitors progress against established timelines.
+Portfolio Management & Governance:  Manages portfolio of projects from initiation through delivery in compliance with Board project management guidelines. Evaluates projects at intake and recommends prioritization against division strategy and capacity. Identifies and resolves competing demands for funding and staffing resources across projects. Administers stage-gate reviews and recommends continuation, re-scoping, or termination based on resource allocation. Aggregates risk and interdependency exposure across the portfolio and tracks realization of benefits.
+Performance Measurement & Financial Controls:   Establishes and maintains approved performance measurement baseline of cost, schedule, and scope for each project. Measures performance using earned value management or equivalent techniques; calculates variances and performance indices; maintains estimates at completion; and administers baseline change control. Coordinates financial management, acquisition strategy, and logistical support. Develops financial controls and tracking mechanisms to ensure fiscal accountability and compliance with budgetary constraints.
+Portfolio Reporting & Escalation:  Owns accuracy and integrity of portfolio reporting. Defines reporting standards, data definitions, and cadence. Reconciles cost data to Board's financial system of record. Independently verifies percent complete and milestone completion. Uses scorecards and dashboards to keep management informed and escalates to Chief Financial Officer when variance crosses established thresholds.
+Analysis, Risk Management & Strategic Recommendations:  Plans, conducts, and directs complex reviews of portfolio deliverables, processes, and outcomes. Identifies and balances project risks, selects alternatives, and plans how to accomplish goals within established guidelines. Develops risk mitigation strategies and contingency plans. Conducts analysis and recommends courses of action to ensure outcomes consistent with scope, budget, and timeline. Briefs CFO on project status, critical issues, and strategic decisions requiring executive input.
+Stakeholder Collaboration & Change Management:  Serves as central point of communication for project status, progress, issues, and risks. Collaborates with and develops strong working relationships with business analysts, business teams, and technical staff. Acts as intermediary between groups, builds consensus, and translates requirements. Creates and manages implementation plans, coordinates training, and manages stakeholder analysis process. Partners with service providers, business leaders, and stakeholders to promote shared understanding of dependencies and supports execution of division change management methodology.
+Contract & Vendor Management:  Reports on controls to ensure contracts are executed in accordance with terms and conditions. Monitors quality assurance plans to ensure contracted services meet expectations. Works with Procurement and the COR to ensure vendor compliance with contract provisions.
+Business Alignment & Professional Development:  Shares accountability with business sponsors to ensure projects meet Board's and division's business goals and objectives. Applies Board project management guidelines in establishing metrics for measuring outcomes. Develops own professional and technical knowledge through online resources, conferences, professional relationships, formal training, and certifications where appropriate.
+FR-28 Minimum Qualifications:
+Certifications: Required formal certification in project management such as Certified Project Management Professional (PMP); Preferred Program Management Professional (PgMP), Portfolio Management Professional (PfMP) and/or Earned Value Professional (EVP) or equivalent cost and schedule control credential; Must have ability or obtain within 12 months, Contracting Officer’s Representative certification (COR).
+Portfolio & Project Management Expertise: Requires very strong portfolio/project management and analytical skills. Thorough knowledge of leading industry practices and methodologies related to portfolio/project management, budget reporting, and schedule management. Demonstrated accountability for a portfolio of at least eight concurrent projects or an aggregate value of at least $25M.
+Earned Value Management & Performance Measurement: Working knowledge of earned value management or equivalent integrated cost and schedule control discipline, including performance measurement baselines, variance analysis, cost and schedule performance indices, estimates at completion, and baseline change control. Demonstrated experience establishing performance measurement baselines and reporting cost and schedule variance to executive leadership.
+Executive Reporting & Data Integrity: Demonstrated ability to construct and validate executive-level portfolio reporting, including reconciling project cost data to the authoritative financial system of record and independently testing the reliability of reported progress before it is briefed. Proficiency with enterprise project and portfolio management, scheduling, and financial systems, and the ability to build and sustain recurring reporting drawn directly from those systems.
+Risk & Issue Management: Understands how to mitigate project and application risk. Must drive resolution of project risks and issues and escalate when required. Resolves project conflicts and handles conflicting information and requirements effectively.
+Communication & Stakeholder Engagement: Must possess clear, concise, and effective verbal and written communication, including the ability to effectively communicate with technical personnel, business customers, and management at all levels. Ability to read communication styles of team members and contractors from a broad spectrum of disciplines and negotiate as needed. Ability to elicit cooperation from a wide variety of sources, including upper management, clients, and other divisions.
+Adaptability & Priority Management: Can promptly and efficiently conform to shifting priorities, project adjustments, demands, and timelines through analytical and problem-solving capabilities. Excellent time management and organizational skills required. Demonstrated ability to handle multiple tasks, competing priorities, and challenging situations professionally.
+Technical & Business Acumen: Quickly learns and assimilates complex technical and business requirement information with the ability to apply this knowledge in solving customer business problems.
+Leadership & Accountability: Demonstrates leadership and willingness to take accountability for results. Strong leadership and project management skills in managing technical staff and projects. Demonstrated commitment to a strong customer service philosophy required.undefined.
+This position requires an on-site presence in Washington, DC.
+The expected salary range for this role is $144,500 - $276,400. Final offers are determined by experience and education, as well as internal and external factors
+Job Type:Regular
+Job Exempt:Yes
+Relocation Provided:
+Yes
+Compensation Grade(s):FR PAY GRADE 28
+Pay:$144,500 - $276,400
+Rehabilitation Act
+The Board complies with the Rehabilitation Act of 1973, as amended, and provides job applicants with disabilities reasonable accommodations to assist them in applying for jobs at the Board.  If you have a disability and would like to request an accommodation in order to apply for a job at the Board, please call 202-452-3880 or e-mail FRBRecruiting@frb.gov.
+Equal Opportunity Employer
+We are an Equal Opportunity Employer and do not discriminate against any employee or applicant for employment on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, genetic information, or application, membership, or service in the uniformed services.
+Privacy
+You may review the Federal Reserve Board's Privacy Act Notice at https://www.federalreserve.gov/careers/files/fr1273.pdf.
+Paperwork Reduction Act
+OMB No. 7100-0181
+Approval Expires October 31, 2029
+Public reporting burden for this collection of information is estimated to average 0.26-0.71 hours per response, including the time to gather and maintain data in the required form and to review instructions and complete the information collection. Send comments regarding this burden estimate or any other aspect of this collection of information, including suggestions for reducing this burden to: Secretary, Board of Governors of the Federal Reserve System, Washington, DC 20551; and to the Office of Management and Budget, Paperwork Reduction Project (7100–0181), Washington, DC 20503. The Federal Reserve may not conduct or sponsor, and an organization (or a person) is not required to respond to a collection of information unless it displays a currently valid OMB control number.
+
+## Education
+
+See official minimum education and qualifications in description.
+
+## Full rendered official announcement
+
+Always verify and apply to jobs on the official Federal Reserve Board career site or through verified Federal Reserve Board social media channels.
+Minimum Education
+Bachelor's degree or equivalent experience
+Minimum Experience
+8
+Summary
+The Senior Project Portfolio Manager, reporting to the Division Director and Chief Financial Officer (CFO), plans, budgets, and reports on complex projects to meet the strategic business objectives and goals of the division. The incumbent oversees a collection (portfolio) of projects and programs to ensure they align with an organization's overarching strategic goals and maximize return on investment. This role focuses on strategic selection, prioritization, governance, and resource allocation across multiple initiatives rather than managing individual tasks. coordinates cross-functional Board and System teams through meetings and progress measurement activities, which bring projects to completion on time, on budget, and with quality outcomes in support of division goals and objectives. This position coordinates multiple projects simultaneously in a fast-paced, high-visibility environment. Intervenes in various types of issues as appropriate to reach resolution. The Senior Project Portfolio Manager advises the CFO on appropriate courses of action to ensure cost, performance, and schedule goals are achieved successfully. The Senior Portfolio Manager is accountable for timely and accurate portfolio reporting, including measuring costs, schedules, and performance against an approved baseline.
+Duties and Responsibilities
+Project Coordination & Execution:  Coordinates complex, highly visible projects in a matrixed environment. Coordinates resources across business and functional units to ensure projects meet milestones, quality standards, schedules, and budgets. Projects major milestones throughout the project lifecycle and monitors progress against established timelines.
+Portfolio Management & Governance:  Manages portfolio of projects from initiation through delivery in compliance with Board project management guidelines. Evaluates projects at intake and recommends prioritization against division strategy and capacity. Identifies and resolves competing demands for funding and staffing resources across projects. Administers stage-gate reviews and recommends continuation, re-scoping, or termination based on resource allocation. Aggregates risk and interdependency exposure across the portfolio and tracks realization of benefits.
+Performance Measurement & Financial Controls:   Establishes and maintains approved performance measurement baseline of cost, schedule, and scope for each project. Measures performance using earned value management or equivalent techniques; calculates variances and performance indices; maintains estimates at completion; and administers baseline change control. Coordinates financial management, acquisition strategy, and logistical support. Develops financial controls and tracking mechanisms to ensure fiscal accountability and compliance with budgetary constraints.
+Portfolio Reporting & Escalation:  Owns accuracy and integrity of portfolio reporting. Defines reporting standards, data definitions, and cadence. Reconciles cost data to Board's financial system of record. Independently verifies percent complete and milestone completion. Uses scorecards and dashboards to keep management informed and escalates to Chief Financial Officer when variance crosses established thresholds.
+Analysis, Risk Management & Strategic Recommendations:  Plans, conducts, and directs complex reviews of portfolio deliverables, processes, and outcomes. Identifies and balances project risks, selects alternatives, and plans how to accomplish goals within established guidelines. Develops risk mitigation strategies and contingency plans. Conducts analysis and recommends courses of action to ensure outcomes consistent with scope, budget, and timeline. Briefs CFO on project status, critical issues, and strategic decisions requiring executive input.
+Stakeholder Collaboration & Change Management:  Serves as central point of communication for project status, progress, issues, and risks. Collaborates with and develops strong working relationships with business analysts, business teams, and technical staff. Acts as intermediary between groups, builds consensus, and translates requirements. Creates and manages implementation plans, coordinates training, and manages stakeholder analysis process. Partners with service providers, business leaders, and stakeholders to promote shared understanding of dependencies and supports execution of division change management methodology.
+Contract & Vendor Management:  Reports on controls to ensure contracts are executed in accordance with terms and conditions. Monitors quality assurance plans to ensure contracted services meet expectations. Works with Procurement and the COR to ensure vendor compliance with contract provisions.
+Business Alignment & Professional Development:  Shares accountability with business sponsors to ensure projects meet Board's and division's business goals and objectives. Applies Board project management guidelines in establishing metrics for measuring outcomes. Develops own professional and technical knowledge through online resources, conferences, professional relationships, formal training, and certifications where appropriate.
+FR-28 Minimum Qualifications:
+Certifications: Required formal certification in project management such as Certified Project Management Professional (PMP); Preferred Program Management Professional (PgMP), Portfolio Management Professional (PfMP) and/or Earned Value Professional (EVP) or equivalent cost and schedule control credential; Must have ability or obtain within 12 months, Contracting Officer’s Representative certification (COR).
+Portfolio & Project Management Expertise: Requires very strong portfolio/project management and analytical skills. Thorough knowledge of leading industry practices and methodologies related to portfolio/project management, budget reporting, and schedule management. Demonstrated accountability for a portfolio of at least eight concurrent projects or an aggregate value of at least $25M.
+Earned Value Management & Performance Measurement: Working knowledge of earned value management or equivalent integrated cost and schedule control discipline, including performance measurement baselines, variance analysis, cost and schedule performance indices, estimates at completion, and baseline change control. Demonstrated experience establishing performance measurement baselines and reporting cost and schedule variance to executive leadership.
+Executive Reporting & Data Integrity: Demonstrated ability to construct and validate executive-level portfolio reporting, including reconciling project cost data to the authoritative financial system of record and independently testing the reliability of reported progress before it is briefed. Proficiency with enterprise project and portfolio management, scheduling, and financial systems, and the ability to build and sustain recurring reporting drawn directly from those systems.
+Risk & Issue Management: Understands how to mitigate project and application risk. Must drive resolution of project risks and issues and escalate when required. Resolves project conflicts and handles conflicting information and requirements effectively.
+Communication & Stakeholder Engagement: Must possess clear, concise, and effective verbal and written communication, including the ability to effectively communicate with technical personnel, business customers, and management at all levels. Ability to read communication styles of team members and contractors from a broad spectrum of disciplines and negotiate as needed. Ability to elicit cooperation from a wide variety of sources, including upper management, clients, and other divisions.
+Adaptability & Priority Management: Can promptly and efficiently conform to shifting priorities, project adjustments, demands, and timelines through analytical and problem-solving capabilities. Excellent time management and organizational skills required. Demonstrated ability to handle multiple tasks, competing priorities, and challenging situations professionally.
+Technical & Business Acumen: Quickly learns and assimilates complex technical and business requirement information with the ability to apply this knowledge in solving customer business problems.
+Leadership & Accountability: Demonstrates leadership and willingness to take accountability for results. Strong leadership and project management skills in managing technical staff and projects. Demonstrated commitment to a strong customer service philosophy required.undefined.
+This position requires an on-site presence in Washington, DC.
+The expected salary range for this role is $144,500 - $276,400. Final offers are determined by experience and education, as well as internal and external factors
+Job Type:Regular
+Job Exempt:Yes
+Relocation Provided:
+Yes
+Compensation Grade(s):FR PAY GRADE 28
+Pay:$144,500 - $276,400
+Rehabilitation Act
+The Board complies with the Rehabilitation Act of 1973, as amended, and provides job applicants with disabilities reasonable accommodations to assist them in applying for jobs at the Board.  If you have a disability and would like to request an accommodation in order to apply for a job at the Board, please call 202-452-3880 or e-mail FRBRecruiting@frb.gov.
+Equal Opportunity Employer
+We are an Equal Opportunity Employer and do not discriminate against any employee or applicant for employment on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, genetic information, or application, membership, or service in the uniformed services.
+Privacy
+You may review the Federal Reserve Board's Privacy Act Notice at https://www.federalreserve.gov/careers/files/fr1273.pdf.
+Paperwork Reduction Act
+OMB No. 7100-0181
+Approval Expires October 31, 2029
+Public reporting burden for this collection of information is estimated to average 0.26-0.71 hours per response, including the time to gather and maintain data in the required form and to review instructions and complete the information collection. Send comments regarding this burden estimate or any other aspect of this collection of information, including suggestions for reducing this burden to: Secretary, Board of Governors of the Federal Reserve System, Washington, DC 20551; and to the Office of Management and Budget, Paperwork Reduction Project (7100–0181), Washington, DC 20503. The Federal Reserve may not conduct or sponsor, and an organization (or a person) is not required to respond to a collection of information unless it displays a currently valid OMB control number.

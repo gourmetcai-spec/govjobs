@@ -1,0 +1,828 @@
+USAJOBS - Job Announcement
+
+ Skip to main content
+
+ An official website of the United States government
+
+Official websites use .gov
+
+A .gov website belongs to an official government organization in the United States.
+
+Secure .gov websites use HTTPS
+ A lock ( LockA locked padlock ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.
+
+ MENU
+
+ Sign in
+
+ My jobs
+
+ Profile
+
+ Resumes & documents
+
+ Notifications
+
+ Talent networks
+
+ Sign out
+
+ My jobs
+
+ Profile
+
+ Resumes & documents
+
+ Notifications
+
+ Talent networks
+
+ Sign out
+
+ Events
+
+ Help Center
+
+ Search
+
+ Back to results
+
+ Apply
+
+ Data Scientist
+
+Department of Commerce
+
+Bureau of Economic Analysis
+
+Apply
+
+ Print
+
+ Share
+
+ Save
+
+ Summary
+
+ This job is open to
+
+ Duties
+
+ Requirements
+
+ How you will be evaluated
+
+ Required documents
+
+ How to apply
+
+Summary
+
+This vacancy is for a Data Scientist position in the Industry Economics Division located at the Bureau of Economic Analysis.
+
+This Job Opportunity Announcement may be used to fill other Data Scientist, ZP-1560-3 positions within the Bureau of Economic Analysis in the same geographical location with the same qualifications and specialized experience.
+
+ Learn more about this agency
+
+Summary
+
+This vacancy is for a Data Scientist position in the Industry Economics Division located at the Bureau of Economic Analysis.
+
+This Job Opportunity Announcement may be used to fill other Data Scientist, ZP-1560-3 positions within the Bureau of Economic Analysis in the same geographical location with the same qualifications and specialized experience.
+
+ Learn more about this agency
+
+Overview
+
+ Help
+
+Accepting applications
+
+Location
+
+Few vacancies in the following location:
+
+ Suitland, MD
+
+ No matching locations found.
+
+Work site options
+
+Telework eligible
+
+Yes—as determined by the agency policy.
+
+Remote job
+
+No
+
+Relocation expenses reimbursed
+
+ No
+
+Salary
+
+ $85,447 - $133,142 per year
+
+Pay scale & grade
+
+ZP 3
+
+Promotion potential
+
+None
+
+ Learn more about pay scale and grade
+
+ Pay scale and grade determines the salary of the job.
+
+Work schedule
+
+Full-time
+
+Travel Required
+
+Not required
+
+Appointment type
+
+Permanent
+
+Occupations and job series
+
+ 1560 Data Science Series
+
+Supervisory status
+
+No
+
+Federal service type
+
+This job is in the Competitive Service
+
+Represented by a union
+
+No
+
+Drug test
+
+No
+
+Security clearance
+
+Other
+
+Position sensitivity and risk
+
+Moderate Risk (MR)
+
+ Jobs require a
+ background check and some require a
+ security clearance. The type depends on the job.
+
+Background check type
+
+ Credentialing
+
+ Suitability/Fitness
+
+Financial disclosure required
+
+No
+
+ Some jobs require
+ financial disclosure to identify conflicts of interests.
+
+Announcement number
+
+27-BEA-13101182-DHA-JW
+
+Control number
+
+890697100
+
+This job is open to
+
+ Help
+
+The public
+
+ U.S. Citizens, Nationals or those who owe allegiance to the U.S.
+
+Career transition (CTAP, ICTAP, RPL)
+
+ Federal employees whose job, agency or department was eliminated and are eligible for priority over other applicants.
+
+Clarification from the agency
+
+All qualified United States citizens.
+
+Duties
+
+ Help
+
+Independently perform technical duties related to the operation, development, and maintenance of a SQL-based central processing system.
+
+Communicate economic and statistical information in writing and in person to high-level stakeholders internal and external to the agency.
+
+Perform analysis of statistical data for accuracy, quality, and consistency, across Divisions/Directorates.
+
+Requirements
+
+ Help
+
+Conditions of employment
+
+Applicants must meet all qualification requirements by the closing date of this announcement.
+
+U.S. Citizen
+
+Suitable for Federal employment.
+
+Registered for Selective Service if applicable. (www.sss.gov)
+
+A one-year probationary period may be required.
+
+Relocation expenses may not be paid.
+
+This is a NON-BARGAINING unit position.
+
+Qualifications
+
+Minimum Education Requirement:
+
+A. Degree: Mathematics, statistics, computer science, data science or field directly related to the position. The degree must be in a major field of study (at least at the baccalaureate level) that is appropriate for the position.
+
+OR
+
+B. Combination of education and experience: Courses equivalent to a major field of study (30 semester hours) as shown in paragraph A above, plus additional education or appropriate experience.
+
+AND
+
+Specialized Experience:
+
+In addition to meeting the Basic Entry Requirements above, applicants must have the experience listed below.
+
+For the Band 3 (GS-11), you must have one year of experience at a level of difficulty and responsibility equivalent to the Band 2 (GS-9) in the Federal service. Experience for this position includes: Examples of specialized experience include analyzing and/or manipulating economic statistics; creating data reports and visualizations; maintaining SQL-based central processing systems; writing and debugging computer code; and communicating technical concepts to both technical and non-technical stakeholders. This work must have been conducted using at least two of the following tools: SQL, SAS, Stata, R, Python, Tableau, or Power BI.
+
+OR
+
+Education: 3 years of progressively higher level graduate education leading to a Ph.D. degree or Ph.D. or equivalent doctoral degree.
+
+OR
+
+Possess a combination of education and experience.
+
+Experience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., Peace Corps, AmeriCorps) and other organizations (e.g., professional; philanthropic; religious; spiritual; community, student, social). Volunteer work helps build critical competencies, knowledge, and skills and can provide valuable training and experience that translates directly to paid employment. You will receive credit for all qualifying experience, including volunteer.
+
+After you submit this application, you will receive an e-mail informing you that a USA Hire assessment is required. You will have 48 hours from the closing date of this announcement, 11/12/2026, to complete the assessment as this assessment is part of your application.
+
+Additional information
+
+Applicants who apply under this Job Opportunity Announcement may opt-in (at their request) to allow the sharing of their resume, cover letter, transcripts, certifications, and other associated documents and applicable personal information shared with other Department of Commerce (DOC) Bureaus/Offices who have vacancies within the same occupational series, grade and pay band (or its equivalent), and full performance level in the same duty location or commuting area of the duty location listed on the Job Opportunity Announcement. Applicants that apply for General Schedule (GS) positions can be considered for pay band positions under one of the DOC's alternative personnel systems (i.e., Commerce Alternative Personnel System (CAPS), or Alternative Personnel Management System (APMS)) that have the equivalent GS grade level and full performance level, and similarly, CAPS and APMS applicants may be considered for GS positions or one of DOC's alternative personnel systems. Upon acceptance of a position, the employee will be subject to the corresponding pay system (i.e., GS, CAPS or APMS). Applying to this announcement does not replace the need to apply to other job opportunity announcements for which they wish to receive consideration.
+
+The Department of Commerce provides reasonable accommodations to applicants with disabilities. If you need a reasonable accommodation for any part of the application and hiring process, please notify the Human Resources Office. The decision on granting reasonable accommodation will be on a case-by-case basis. TTY users can contact the Human Resources Office via the Federal Relay Service, 1-800-877-8339.
+
+Individuals who have received a Voluntary Separation Incentive Payment, otherwise known as a buyout, must repay that incentive if they are reemployed by the Federal Government within five years of separation.
+
+This announcement is issued under "direct-hire" authority. Consistent with 5 U.S.0 3304(a)(3) and OPM regulations (5 CFR 337 Subpart B) on direct-hire: All candidates who meet all the qualification and other eligibility requirements may be referred for consideration. Competitive examining rules providing for rating and ranking and veterans' preference do not apply.
+
+ Expand Hide  additional information
+
+Candidates should be committed to improving the efficiency of the Federal government, passionate about the ideals of our American republic, and committed to upholding the rule of law and the United States Constitution.
+
+Benefits
+
+ Help
+
+ A career with the U.S. government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding. Opens in a new windowLearn more about federal benefits.
+
+Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time or intermittent. Contact the hiring agency for more information on the specific benefits offered.
+
+How you will be evaluated
+
+You will be evaluated for this job based on how well you meet the qualifications above.
+
+Your resume, optional cover letter and supporting documentation will be reviewed to determine if you meet the minimum qualification requirements for the position. Under the provisions of the Direct-Hire Authority (DHA), rating, ranking and veterans' preference does not apply. All applicants who meet the minimum qualification requirements, as defined in the job opportunity announcement, will be referred for selection consideration. While veterans' preference does not apply in DHA, preference eligible are encouraged to submit their supporting documentation (DD-214 stating disposition of discharge or character of service, VA letter, SF-15, etc).
+
+You will be assessed on the following competencies (knowledge, skills, abilities, and other characteristics):
+
+Accountability
+Attention to Detail
+Customer Service
+Decision Making
+Flexibility
+Integrity/Honesty
+Interpersonal Skills
+Learning
+Reasoning
+Self-Management
+Stress Tolerance
+Teamwork
+
+Online Assessment: Applicants must complete the online USA Hire Competency Based Assessments measuring critical general competencies required to perform the job. Examples used in the assessment may include general situations not directly related to this position.
+
+Overstating your qualifications and/or experience in your application materials or application questionnaire may result in your removal from consideration. Cheating on an assessment may also result in your removal from consideration.
+
+CTAP and ICTAP candidates: CTAP and ICTAP candidates will be eligible for selection priority if it is determined that they have exceeded the minimum qualifications for the position by attaining at least a rating of 85 out of 100. Information about CTAP and ICTAP eligibility is on the Office of Personnel Management's Career Transition Resources website at: The Employee's Guide to Career Transition.
+
+We recommend that you preview the online questions for this announcement before you start the application process. Do NOT include the following types of information in your application if included on your resume you will not be considered for this position:
+
+Social Security Number (SSN)
+
+Date of Birth (DOB)
+
+Photos of yourself
+
+Personal information: such as age, gender, religious affiliation, etc.
+
+To preview the application questionnaire, click the following link: https://apply.usastaffing.gov/ViewQuestionnaire/13101182.
+
+Benefits
+
+ Help
+
+ A career with the U.S. government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding. Opens in a new windowLearn more about federal benefits.
+
+Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time or intermittent. Contact the hiring agency for more information on the specific benefits offered.
+
+Required documents
+
+Required Documents
+
+ Help
+
+A complete application consists of the following:
+
+Resume: Your resume must not exceed two (2) pages. If your resume exceeds the two-page limit, you will be deemed disqualified and removed from consideration. Your resume must include your educational and relevant work experience for the position for which you are applying to include the title and dates (mm/yy) of employment along with the number of hours worked per week. If your resume does not contain this information, your application may be marked as incomplete, and you will not receive consideration for this position.
+
+Veterans' Preference Documentation: Please indicate on your resume the type of veterans' preference you are claiming and provide the appropriate supporting documentation (DD-214 stating disposition of discharge or character of service, VA letter, SF-15, etc.) to validate your claim. Previous versions of the SF-15 will not be accepted. For more information regarding eligibility requirements, please go to: http://www.fedshirevets.gov/job/vetpref/index.aspx.
+
+Career Transition Assistance Plan (CTAP) and Interagency Career Transition Assistance Plan (ICTAP) documentation, if applicable:
+
+CTAP applicants MUST submit the following documents:
+
+A copy of your RIF separation notice, notice of proposed removal for declining a directed geographic relocation outside of the local commuting area; a Certificate of Expected Separation (CES); or certification that you are in a surplus organization or occupation (this could be a position abolishment letter, a notice of eligibility for discontinued service retirement, or similar notice);
+
+A copy of your SF-50 "Notification of Personnel Action", noting current position, grade/band level, and duty location;
+
+A copy of your latest performance appraisal including your rating; and
+
+Any documentation from your bureau/operating unit that shows your current promotion potential.
+
+ICTAP applicants MUST submit the following documents:
+
+A copy of your RIF separation notice, notice of proposed removal for declining a directed geographic relocation outside of the local commuting area, notice of disability annuity termination, certification from your former agency that it cannot place you after your recovery from a work-related compensable injury; or certification from the National Guard Bureau or Military Department that you are eligible for disability retirement.
+
+A copy of your SF-50 "Notification of Personnel Action", documenting your RIF separation, noting your position, grade/band level, and duty location, and/or Agency certification of inability to place you through RPL, etc.;
+
+A copy of your latest performance appraisal including your rating; and
+
+Any documentation from your agency that shows your current promotion potential.
+
+Education Documentation: If this position requires proof of higher education, or you are substituting education for experience, you must submit an unofficial transcript or a list of courses that includes the following information: name of accredited institution, grades earned, completion dates, and quarter and semester hours earned. This also applies to Bureau of Economic Analysis employees. Education completed in foreign colleges or universities may be used to meet the requirements. Please refer to OPM's Qualification Policy for more information.
+
+You are not required to submit official documents at this time; copies are sufficient.
+
+Special Instructions for Foreign Education: Qualifying education from colleges and universities in foreign countries must be evaluated in terms of equivalency to that acquired in U.S. colleges and universities. Applicants educated in whole or in part in foreign countries must submit sufficient evidence, including transcripts, to an accredited private organization for an equivalency evaluation of course work and degree. You must provide a copy of the letter containing the results of the equivalency evaluation with a course-by-course listing along with your application. Failure to provide such documentation when requested will result in lost consideration. For further information on the evaluation of foreign education, refer to the U.S. Department of Education's web site at Academic and Professional Mobility | International Affairs Office (ed.gov).
+
+NOTE: You will not be considered if you fail to provide all required documents.
+
+Resume
+Transcript
+
+ If you are relying on your education to meet qualification requirements:
+
+ Education must be accredited by an accrediting institution recognized by the U.S. Department of Education in order for it to be credited towards qualifications. Therefore, provide only the attendance and/or degrees from
+ schools accredited by accrediting institutions recognized by the U.S. Department of Education.
+
+ Failure to provide all of the required information as stated in this vacancy announcement may result in an ineligible rating or may affect the overall rating.
+
+How to Apply
+
+ Help
+
+Please read the entire announcement and all the instructions before you begin an application. To apply and be considered for this position, you must complete all required questionnaires, assessments and submit all required documentation as specified in the How to Apply and Required Documents section. The complete application package must be submitted by 11:59 PM (ET) on 11/12/2026 to receive consideration. The application process is as follows:
+
+Click the Apply Online button.
+
+Answer the questions presented in the application and attach all necessary supporting documentation.
+
+Click the Submit Application button prior to 11:59 PM (ET) on the announcement closing date.
+
+If you are required to complete any USA Hire Assessments, you will be notified after submitting your application. The notification will be provided in your application submission screen and via email. The notification will include your unique assessment access link to the USA Hire system and the completion deadline. Additionally, in USAJOBS you can click "Track this application" to return to your assessment completion notice.
+
+Access USA Hire using your unique assessment link. Access is granted through your USAJOBS login credentials.
+
+Review all instructions prior to beginning your assessments. You will have the opportunity to request a testing accommodation before beginning the assessments should you have a disability covered under the Rehabilitation Act of 1973 as amended.
+
+Set aside about two (2) hours to take the USA Hire Assessments; however, most applicants complete the assessments in less time. If you need to stop the assessments and continue later, you can re-use your unique assessment link.
+
+Your responses to the USA Hire Assessments will be reused for one year (in most cases) from the date you complete an assessment. If future applications you submit require completion of the same assessments, your responses will be automatically reused.
+
+Visit the USA Hire Applicant Resource Center for practice assessments and assessment preparation resources.
+
+To update your application, including supporting documentation: During the announcement open period, return to your USA JOBS account, find your application record, and click Edit my application. This option will no longer be available once the announcement has closed.
+
+To view the announcement status or your application status: Visit USAJOBS Help Center - How to see your application and job status.
+Applicants are strongly encouraged to apply online; however, if you are unable to apply online, please email the agency contact.
+
+Agency contact information
+
+ Jakira Williams
+
+Phone
+
+ 301-763-2301
+
+Email
+
+ jakira.t.williams@census.gov
+
+Address
+
+ Bureau of Economic Analysis
+
+ 4600 Silver Hill Road
+
+ Washington, DC 20233
+
+ US
+
+Next steps
+
+You will be notified of your application status through USAJOBS at four points during the hiring process, as applicable. You can check the status of your application by accessing the USAJOBS website at http://usajobs.gov and clicking on "Applications." The status will be visible next to the corresponding positions. The four points of notification are:
+
+Application Received or Application Incomplete;
+
+Minimum Qualification Requirement Met or Minimum Qualification Requirement Not Met;
+
+Referred or Not Referred; and
+
+Selected or Not Selected.
+
+By submitting your application, you are certifying the accuracy of the information contained in your application. If you make a false statement in any part of your application, you may not be hired; you may be terminated after you begin work; or, you may be fined or jailed. After making a tentative job offer, we will conduct a suitability/security background investigation.
+
+You will be required to submit official documentation prior to appointment. The agency will then verify the information provided on your application (i.e., degree, veterans' preference, disability, etc.).
+
+Fair and transparent
+
+The Federal hiring process is set up to be fair and transparent. Please read the following guidance.
+
+ Criminal history inquiries
+
+ Equal Employment Opportunity (EEO) Policy
+
+ Financial suitability
+
+ New employee probationary period
+
+ Privacy Act
+
+ Reasonable accommodation policy
+
+ Selective Service
+
+ Signature and false statements
+
+ Social security number request
+
+Required Documents
+
+ Help
+
+A complete application consists of the following:
+
+Resume: Your resume must not exceed two (2) pages. If your resume exceeds the two-page limit, you will be deemed disqualified and removed from consideration. Your resume must include your educational and relevant work experience for the position for which you are applying to include the title and dates (mm/yy) of employment along with the number of hours worked per week. If your resume does not contain this information, your application may be marked as incomplete, and you will not receive consideration for this position.
+
+Veterans' Preference Documentation: Please indicate on your resume the type of veterans' preference you are claiming and provide the appropriate supporting documentation (DD-214 stating disposition of discharge or character of service, VA letter, SF-15, etc.) to validate your claim. Previous versions of the SF-15 will not be accepted. For more information regarding eligibility requirements, please go to: http://www.fedshirevets.gov/job/vetpref/index.aspx.
+
+Career Transition Assistance Plan (CTAP) and Interagency Career Transition Assistance Plan (ICTAP) documentation, if applicable:
+
+CTAP applicants MUST submit the following documents:
+
+A copy of your RIF separation notice, notice of proposed removal for declining a directed geographic relocation outside of the local commuting area; a Certificate of Expected Separation (CES); or certification that you are in a surplus organization or occupation (this could be a position abolishment letter, a notice of eligibility for discontinued service retirement, or similar notice);
+
+A copy of your SF-50 "Notification of Personnel Action", noting current position, grade/band level, and duty location;
+
+A copy of your latest performance appraisal including your rating; and
+
+Any documentation from your bureau/operating unit that shows your current promotion potential.
+
+ICTAP applicants MUST submit the following documents:
+
+A copy of your RIF separation notice, notice of proposed removal for declining a directed geographic relocation outside of the local commuting area, notice of disability annuity termination, certification from your former agency that it cannot place you after your recovery from a work-related compensable injury; or certification from the National Guard Bureau or Military Department that you are eligible for disability retirement.
+
+A copy of your SF-50 "Notification of Personnel Action", documenting your RIF separation, noting your position, grade/band level, and duty location, and/or Agency certification of inability to place you through RPL, etc.;
+
+A copy of your latest performance appraisal including your rating; and
+
+Any documentation from your agency that shows your current promotion potential.
+
+Education Documentation: If this position requires proof of higher education, or you are substituting education for experience, you must submit an unofficial transcript or a list of courses that includes the following information: name of accredited institution, grades earned, completion dates, and quarter and semester hours earned. This also applies to Bureau of Economic Analysis employees. Education completed in foreign colleges or universities may be used to meet the requirements. Please refer to OPM's Qualification Policy for more information.
+
+You are not required to submit official documents at this time; copies are sufficient.
+
+Special Instructions for Foreign Education: Qualifying education from colleges and universities in foreign countries must be evaluated in terms of equivalency to that acquired in U.S. colleges and universities. Applicants educated in whole or in part in foreign countries must submit sufficient evidence, including transcripts, to an accredited private organization for an equivalency evaluation of course work and degree. You must provide a copy of the letter containing the results of the equivalency evaluation with a course-by-course listing along with your application. Failure to provide such documentation when requested will result in lost consideration. For further information on the evaluation of foreign education, refer to the U.S. Department of Education's web site at Academic and Professional Mobility | International Affairs Office (ed.gov).
+
+NOTE: You will not be considered if you fail to provide all required documents.
+
+Resume
+Transcript
+
+ If you are relying on your education to meet qualification requirements:
+
+ Education must be accredited by an accrediting institution recognized by the U.S. Department of Education in order for it to be credited towards qualifications. Therefore, provide only the attendance and/or degrees from
+ schools accredited by accrediting institutions recognized by the U.S. Department of Education.
+
+ Failure to provide all of the required information as stated in this vacancy announcement may result in an ineligible rating or may affect the overall rating.
+
+How to Apply
+
+ Help
+
+Please read the entire announcement and all the instructions before you begin an application. To apply and be considered for this position, you must complete all required questionnaires, assessments and submit all required documentation as specified in the How to Apply and Required Documents section. The complete application package must be submitted by 11:59 PM (ET) on 11/12/2026 to receive consideration. The application process is as follows:
+
+Click the Apply Online button.
+
+Answer the questions presented in the application and attach all necessary supporting documentation.
+
+Click the Submit Application button prior to 11:59 PM (ET) on the announcement closing date.
+
+If you are required to complete any USA Hire Assessments, you will be notified after submitting your application. The notification will be provided in your application submission screen and via email. The notification will include your unique assessment access link to the USA Hire system and the completion deadline. Additionally, in USAJOBS you can click "Track this application" to return to your assessment completion notice.
+
+Access USA Hire using your unique assessment link. Access is granted through your USAJOBS login credentials.
+
+Review all instructions prior to beginning your assessments. You will have the opportunity to request a testing accommodation before beginning the assessments should you have a disability covered under the Rehabilitation Act of 1973 as amended.
+
+Set aside about two (2) hours to take the USA Hire Assessments; however, most applicants complete the assessments in less time. If you need to stop the assessments and continue later, you can re-use your unique assessment link.
+
+Your responses to the USA Hire Assessments will be reused for one year (in most cases) from the date you complete an assessment. If future applications you submit require completion of the same assessments, your responses will be automatically reused.
+
+Visit the USA Hire Applicant Resource Center for practice assessments and assessment preparation resources.
+
+To update your application, including supporting documentation: During the announcement open period, return to your USA JOBS account, find your application record, and click Edit my application. This option will no longer be available once the announcement has closed.
+
+To view the announcement status or your application status: Visit USAJOBS Help Center - How to see your application and job status.
+Applicants are strongly encouraged to apply online; however, if you are unable to apply online, please email the agency contact.
+
+ Expand Hide  how to apply
+
+Agency contact information
+
+ Jakira Williams
+
+Phone
+
+ 301-763-2301
+
+Email
+
+ jakira.t.williams@census.gov
+
+Address
+
+ Bureau of Economic Analysis
+
+ 4600 Silver Hill Road
+
+ Washington, DC 20233
+
+ US
+
+Next steps
+
+You will be notified of your application status through USAJOBS at four points during the hiring process, as applicable. You can check the status of your application by accessing the USAJOBS website at http://usajobs.gov and clicking on "Applications." The status will be visible next to the corresponding positions. The four points of notification are:
+
+Application Received or Application Incomplete;
+
+Minimum Qualification Requirement Met or Minimum Qualification Requirement Not Met;
+
+Referred or Not Referred; and
+
+Selected or Not Selected.
+
+By submitting your application, you are certifying the accuracy of the information contained in your application. If you make a false statement in any part of your application, you may not be hired; you may be terminated after you begin work; or, you may be fined or jailed. After making a tentative job offer, we will conduct a suitability/security background investigation.
+
+You will be required to submit official documentation prior to appointment. The agency will then verify the information provided on your application (i.e., degree, veterans' preference, disability, etc.).
+
+ Expand Hide  next steps
+
+Fair and transparent
+
+The Federal hiring process is set up to be fair and transparent. Please read the following guidance.
+
+ Criminal history inquiries
+
+ Equal Employment Opportunity (EEO) Policy
+
+ Financial suitability
+
+ New employee probationary period
+
+ Privacy Act
+
+ Reasonable accommodation policy
+
+ Selective Service
+
+ Signature and false statements
+
+ Social security number request
+
+ Bureau of Economic Analysis
+
+ The Bureau of Economic Analysis (BEA), a bureau of the U.S. Department of Commerce, is one of the world's leading statistical agencies. BEA produces many of the nation's most closely watched economic indicators, including GDP, Personal Income, Corporate Profits and Trade in Goods and Services. BEA's data products influence decisions made by government officials, businesses, and households alike.
+
+As an employer of choice, employee engagement and satisfaction are consistently high at BEA, and we are committed to our workforce. The Department of Commerce is regularly ranked in the top five best large agencies and BEA ranks among the highest in the department.
+
+Don't settle for less. Work for an agency that invests in its most valuable asset, its workforce. Learn the BEA way!
+
+Agency contact information
+
+ Jakira Williams
+
+Phone
+
+ 301-763-2301
+
+Email
+
+ jakira.t.williams@census.gov
+
+Address
+
+ Bureau of Economic Analysis
+
+ 4600 Silver Hill Road
+
+ Washington, DC 20233
+
+ US
+
+Summary
+
+This vacancy is for a Data Scientist position in the Industry Economics Division located at the Bureau of Economic Analysis.
+
+This Job Opportunity Announcement may be used to fill other Data Scientist, ZP-1560-3 positions within the Bureau of Economic Analysis in the same geographical location with the same qualifications and specialized experience.
+
+ Learn more about this agency
+
+Overview
+
+ Help
+
+Accepting applications
+
+Location
+
+Few vacancies in the following location:
+
+ Suitland, MD
+
+ No matching locations found.
+
+Work site options
+
+Telework eligible
+
+Yes—as determined by the agency policy.
+
+Remote job
+
+No
+
+Relocation expenses reimbursed
+
+ No
+
+Salary
+
+ $85,447 - $133,142 per year
+
+Pay scale & grade
+
+ZP 3
+
+Promotion potential
+
+None
+
+ Learn more about pay scale and grade
+
+ Pay scale and grade determines the salary of the job.
+
+Work schedule
+
+Full-time
+
+Travel Required
+
+Not required
+
+Appointment type
+
+Permanent
+
+Occupations and job series
+
+ 1560 Data Science Series
+
+Supervisory status
+
+No
+
+Federal service type
+
+This job is in the Competitive Service
+
+Represented by a union
+
+No
+
+Drug test
+
+No
+
+Security clearance
+
+Other
+
+Position sensitivity and risk
+
+Moderate Risk (MR)
+
+ Jobs require a
+ background check and some require a
+ security clearance. The type depends on the job.
+
+Background check type
+
+ Credentialing
+
+ Suitability/Fitness
+
+Financial disclosure required
+
+No
+
+ Some jobs require
+ financial disclosure to identify conflicts of interests.
+
+Announcement number
+
+27-BEA-13101182-DHA-JW
+
+Control number
+
+890697100
+
+ Previous result
+
+Next result
+
+Your session is about to expire!
+
+ Your USAJOBS session will expire due to inactivity in 8 minutes.
+ Any unsaved data will be lost if you allow the session to expire.
+ Click the button below to continue your session.
+
+ Sign out
+ Stay signed in
+
+ Return to top
+
+USAJOBS is a Opens in a new windowUnited States Office of Personnel Management website.
+
+ (Opens in a new window) OPM on LinkedIn
+
+ (Opens in a new window) OPM YouTube channel
+
+ (Opens in a new window) OPM on X
+
+Opens in a new windowEEO Policy Statement
+
+Opens in a new windowReasonable Accommodation Policy Statement
+
+Veterans Information
+
+Opens in a new windowLegal and Regulatory Guidance
+
+About USAJOBS
+
+Opens in a new windowAccessibility
+
+Opens in a new windowFOIA
+
+Opens in a new windowInspector general
+
+Opens in a new windowNo Fear Act Data
+
+Opens in a new windowPrivacy policy
+
+Opens in a new windowReports and publications
+
+Opens in a new windowTerms and conditions
+
+Opens in a new windowUSA.gov

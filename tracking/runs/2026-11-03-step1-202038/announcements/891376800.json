@@ -1,0 +1,56 @@
+{
+  "@context": "http://www.schema.org",
+  "@type": "JobPosting",
+  "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": {
+      "@type": "QuantitativeValue",
+      "value": 129096.0,
+      "unitText": "YEAR"
+    }
+  },
+  "datePosted": "11/03/2026",
+  "description": "This position is part of the Department of War (DoW), Missile Defense Agency (MDA). The incumbent will be responsible for serving as a program analyst for broad subject matter area in information technology including enterprise resource planning capabilities, communications, architecture, and systems planning.<br>\n<br>",
+  "educationRequirements": "Substitution of education may not be used in lieu of specialized experience for this grade level.<br>\n<br>\nAll materials must be submitted by the closing date of the announcement.",
+  "employmentType": "OTHER",
+  "hiringOrganization": "Missile Defense Agency",
+  "jobLocation": [
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Redstone Arsenal",
+        "addressRegion": "AL "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Colorado Springs",
+        "addressRegion": "CO "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Dahlgren",
+        "addressRegion": "VA "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Fort Belvoir",
+        "addressRegion": "VA "
+      }
+    }
+  ],
+  "responsibilities": "<strong>Salary Ranges are the following unless statutory/regulatory rates prevail.</strong><br>\nFor the Redstone Arsenal, AL Location: $130,987 to $197,200 (includes 21.91% locality)<br>\nFor the Fort Belvoir, VA and/or Dahlgren Location: $143,913-$197,200 (includes 33.94% locality)<br>\nFor the Colorado Springs, CO Location: $129,096 to $197,200 (includes 20.15% locality)<br>\n<br>\nAs a Program Analyst at the NH-0343-4 broadband level, some of your typical work assignments may include:\n<ul>\n\t<li>Supporting FMS management with coordinating and overseeing financial system accesses and interfaces, establishing policy and standard operating procedures for both internal and external organizational structures.</li>\n\t<li>Serving as the senior program analyst and technical advisor for broad IT subject matter areas, including Enterprise Resource Planning (ERP) capabilities, systems architecture, and communications planning. Defining, validating, and prioritizing internal and external financial system requirements; leading strategic development and implementation initiatives across the enterprise.</li>\n\t<li>Directing financial data integrity initiatives, serving as the senior analyst for troubleshooting critical errors and resolving systemic discrepancies across complex MDA and external financial systems.</li>\n\t<li>Leading and overseeing strategic FMS Case closure activities, ensuring complete alignment of multi-layered financial systems, overseeing complex interface balancing, and certifying final reports for interim closed cases.</li>\n\t<li>Monitoring and certifying enterprise-level financial system reconciliations and corrective actions, ensuring absolute regulatory compliance of FMS accounts with DFAS Security Assistance (SA) and MDA.</li>\n</ul>",
+  "qualifications": "You may qualify at the NH-04 Broadband Level, if you fulfill the following qualifications:<br>\n<br>\nOne year of specialized experience equivalent to the NH-03/GS-13 grade level in the Federal service as listed below and must meet 3 of the 5 specialized experience listed below to be qualified:\n<ul>\n\t<li class=\"MsoNoSpacing\">Leads enterprise-wide financial systems modernization by directing the planning, integration, and continuous deployment of complex Enterprise Resource Planning (ERP) and financial management systems across cross-functional teams.</li>\n\t<li class=\"MsoNoSpacing\">Serves as senior technical advisor, delivering strategic briefings to executive leadership to remediate critical system defects and optimize financial operations.</li>\n\t<li class=\"MsoNoSpacing\">Directs Foreign Military Sales (FMS) financial reconciliation and case closeout, orchestrating cross-functional stakeholder communication to systematically identify and resolve complex accounting variances in full compliance with the Security Assistance Management Manual (SAMM).</li>\n\t<li class=\"MsoNoSpacing\">Reconciles complex delivery reporting data against financial systems (e.g., Defense Integrated Financial System - DIFS) to maintain precise billing accuracy.</li>\n\t<li class=\"MsoNoSpacing\">Resolves systemic billing discrepancies and data interface errors between logistics feeders and accounting networks to enable seamless, timely case closure.</li>\n</ul>\nExperience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., Peace Corps, AmeriCorps) and other organizations (e.g., professional; philanthropic; religious; spiritual; community, student, social). Volunteer work helps build critical competencies, knowledge, and skills and can provide valuable training and experience that translates directly to paid employment. You will receive credit for all qualifying experience, including volunteer experience.<br>",
+  "title": "Program Analyst",
+  "validThrough": "2026-11-09"
+}

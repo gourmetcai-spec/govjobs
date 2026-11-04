@@ -1,0 +1,85 @@
+{
+  "title": "Information Technology Specialist (Applications Software)",
+  "requisition_id": "DACA-27-13104377-MP",
+  "canonical_url": "https://www.usajobs.gov/job/891460300",
+  "application_url": "https://www.usajobs.gov/job/891460300",
+  "posted_date": "2026-11-03",
+  "posted_date_evidence": "Official JobPosting.datePosted and native PositionStartDate",
+  "close_date": "2026-11-06",
+  "deadline_timezone": "America/New_York",
+  "deadline_time": "23:59",
+  "deadline_source": "https://www.usajobs.gov/job/891460300",
+  "deadline_verified": true,
+  "early_closure_conditions": [],
+  "rolling_cutoff": null,
+  "location": "Fort Belvoir, VA",
+  "remote_restrictions": "Offered DMV work location; verify telework/attendance and screening conditions in announcement.",
+  "salary": "Starting at $89,508 Per year (GS 12)",
+  "retrieved_at": "2026-11-04T01:27:13.427519+00:00",
+  "control_number": "891460300",
+  "fit": "Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.",
+  "gaps": "Hiring-path eligibility unverified: Competitive service, Career transition (CTAP, ICTAP, RPL), Land and base management, Veterans, Military spouses. Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.",
+  "requirements_confirmed_unmet": [],
+  "requirements_unverified": [
+    "Hiring-path eligibility unverified: Competitive service, Career transition (CTAP, ICTAP, RPL), Land and base management, Veterans, Military spouses. Confirm qualifying status before application; absence from baseline is not proof of ineligibility.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "preferred_requirements_note": "See official qualifications/education sections; missing evidence does not establish an unmet requirement.",
+  "hiring_paths": [
+    "Competitive service",
+    "Career transition (CTAP, ICTAP, RPL)",
+    "Land and base management",
+    "Veterans",
+    "Military spouses"
+  ],
+  "open_evidence": "Official announcement downloaded successfully; validThrough and native open-status evidence retained.",
+  "discovery_window": [
+    "2026-09-03",
+    "2026-11-03"
+  ],
+  "employer": "US Army Civilian Human Resources Agency",
+  "status": "needs_verification",
+  "aliases": [],
+  "id": "0efa99eb9804aac0",
+  "application_directory": "applications/2026-11-03__us-army-civilian-human-resources-agency__information-technology-specialist-applications-software__0efa99eb9804aac0",
+  "step": 1,
+  "selected": false,
+  "submitted": false,
+  "artifacts": {
+    "resume_markdown": {
+      "path": "applications/2026-11-03__us-army-civilian-human-resources-agency__information-technology-specialist-applications-software__0efa99eb9804aac0/resume-xuewu-cai__us-army-civilian-human-resources-agency__information-technology-specialist-applications-software__891460300.md",
+      "sha256": "eb5bb4aa5e782543e70af0498c8906c2ed6468560565b1f367422a8819cb91be"
+    },
+    "resume_pdf": {
+      "path": "applications/2026-11-03__us-army-civilian-human-resources-agency__information-technology-specialist-applications-software__0efa99eb9804aac0/resume-xuewu-cai__us-army-civilian-human-resources-agency__information-technology-specialist-applications-software__891460300.pdf",
+      "sha256": "144bb0d79cf93a1f06f9166af389783a467b2c598590fa553634567b4ec18c22"
+    }
+  },
+  "artifact_versions": [
+    {
+      "revision_id": "2026-11-04T01:27:13.427519+00:00",
+      "artifacts": {
+        "resume_markdown": {
+          "path": "applications/2026-11-03__us-army-civilian-human-resources-agency__information-technology-specialist-applications-software__0efa99eb9804aac0/resume-xuewu-cai__us-army-civilian-human-resources-agency__information-technology-specialist-applications-software__891460300.md",
+          "sha256": "eb5bb4aa5e782543e70af0498c8906c2ed6468560565b1f367422a8819cb91be"
+        },
+        "resume_pdf": {
+          "path": "applications/2026-11-03__us-army-civilian-human-resources-agency__information-technology-specialist-applications-software__0efa99eb9804aac0/resume-xuewu-cai__us-army-civilian-human-resources-agency__information-technology-specialist-applications-software__891460300.pdf",
+          "sha256": "144bb0d79cf93a1f06f9166af389783a467b2c598590fa553634567b4ec18c22"
+        }
+      },
+      "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a"
+    }
+  ],
+  "resume_status": "prepared_with_attention",
+  "resume_review": "Two rendered pages reviewed; all 77 distinct page images inspected across seven boards covering 166 pages. Text bounds, all 20 baseline experience bullets, updated title, neutral metadata and artifact hashes passed. Candidate qualifications remain unverified.",
+  "required_answers_pending": [
+    "Hiring-path eligibility unverified: Competitive service, Career transition (CTAP, ICTAP, RPL), Land and base management, Veterans, Military spouses. Confirm qualifying status before application; absence from baseline is not proof of ineligibility.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "confirmed_unmet_requirements": [],
+  "qualifications_verified": false,
+  "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a",
+  "resume_format": "restored_two_page",
+  "current_resume_naming": "unversioned"
+}

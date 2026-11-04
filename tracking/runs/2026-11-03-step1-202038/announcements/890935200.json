@@ -1,0 +1,32 @@
+{
+  "@context": "http://www.schema.org",
+  "@type": "JobPosting",
+  "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": {
+      "@type": "QuantitativeValue",
+      "value": 111146.0,
+      "unitText": "YEAR"
+    }
+  },
+  "datePosted": "11/02/2026",
+  "description": "This position is located in the Office of Finance - Financial Systems Division. As an IT Specialist the incumbent is primarily responsible for the design, development, deployment, customer support, and maintenance of the custom financial applications and the integration with Odyssey, the Agency's financial management system.<br>\n<br>",
+  "educationRequirements": "<p>This job does not have an education qualification requirement.</p>",
+  "employmentType": "OTHER",
+  "hiringOrganization": "Office of Finance",
+  "jobLocation": [
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Washington",
+        "addressRegion": "DC "
+      }
+    }
+  ],
+  "responsibilities": "<p>The Information Technology Specialist (Applications Software) performs the following major duties:</p>\n\n<ul>\n\t<li>Works with a specialized group of programmers and functionals on complex, multifaceted prototype systems such as leading a multi-functional development project in software analysis, design, development, testing, and implementation for a new system or major enhancement to an existing system.</li>\n\t<li>Updates and modifies existing applications, designs new applications, and has continuing responsibility for testing and maintenance of automation programs.</li>\n\t<li>Applies expertise to the design and implementation of new requirements and modifications to existing systems as well as reprogramming.</li>\n\t<li>Defines customer and stakeholder needs and constraints, provides customer support, clarifies objectives, develops resource requirements and applies system architecture principles to develop and manage technical requirements and achieve the appropriate balance among resources, schedule and technical requirements.</li>\n\t<li>Performs project and/or contract management duties.</li>\n\t<li>Formulates, plans, implements, manages, tracks and evaluates IT support projects and their associated requirements and risks.</li>\n\t<li>Assists in preparing technical specifications, reports and statements of work, evaluating proposals, providing technical guidance to contractors, resolving technical problem areas, observing progress and evaluating performance.</li>\n\t<li>Ensures the rigorous application of information security/information assurance policies, principles, and practices in the delivery of systems administration services for a major segment of an agency, such as geographical regions.</li>\n\t<li>Serves as the focal point for guiding the development of Internet based systems. Provides technical expertise in analyzing, diagnosing, and resolving problems in support of Web applications.</li>\n\t<li>Performs duties such as mapping overall Web design and structure; ensuring Web site functionality, integrity, and security; and directing ongoing maintenance and enhancement efforts.</li>\n</ul>",
+  "qualifications": "<p>Applicants must meet all qualification requirements prior to the closing date of this announcement, 11/16/2026<strong>. </strong>You will receive credit for all qualifying experience demonstrated in your resume, including volunteer work. Qualification claims are subject to verification. This vacancy is being announced at one grade level.<br>\n<br>\n<strong>Specialized Experience at the FP-03</strong> <strong>(GS-13) Level:</strong> To qualify for this position at the <strong>FP-03</strong> level, you must have at least one year of specialized experience equivalent to the next lower level in the normal line of progression, <strong>FP-04</strong> or<strong> GS-11/12</strong>. This experience must be directly related to the work of the position and must have equipped you with the knowledge, skills, and abilities necessary to successfully perform the duties of the role. <strong>Specialized experience includes all of the following:</strong></p>\n\n<ul>\n\t<li>Designing and maintaining .NET, SQL Server, and Oracle-based financial applications.</li>\n\t<li>Leading development projects using Agile, DevOps, and system integration practices.</li>\n\t<li>Administering and securing IT systems, including troubleshooting, customer and web application support.</li>\n</ul>\n\n<p><strong>~AND~</strong></p>\n\n<p><strong>Time-in-Grade Requirements: </strong>Current or former Federal employees, including Peace Corps employees, must meet applicable Time-in-Grade requirements to be eligible for this position. For positions above the FP-09 (GS-05) level, you must have completed at least one year (52 weeks) at the next lower grade in the normal line of progression for the position to which you are applying.<br>\n<br>\nAll current or former Federal employees, including internal employees, must provide a copy of their SF-50(s), \"Notification of Personnel Action,\" to demonstrate that you meet Time-in-Grade requirements. For more information, refer to the \"Required Documents\" section below.</p>\n\n<p><strong>Please note:</strong></p>\n\n<ul>\n\t<li>Experience that satisfies the Specialized Experience requirements must be clearly documented in your resume. Failure to provide this information may result in disqualification. Please review the \"Required Documents\" section of this announcement for further information on resume requirements.</li>\n\t<li>Specialized experience may be gained in the public sector, private sector, or through volunteer service (e.g., National Service programs such as Peace Corps or AmeriCorps, or other organizations such as professional, philanthropic, religious, spiritual, community, student, or social groups).</li>\n\t<li>One year of experience refers to full-time work. Part-time work will be credited on a prorated basis.</li>\n\t<li>For more details on qualification requirements, refer to the OPM Qualifications Standards Handbook for General Schedule Positions, available on <a href=\"http://www.opm.gov/policy-data-oversight/classification-qualifications/\">the OPM web site</a>.</li>\n</ul>",
+  "title": "Information Technology Specialist (Applications Software)",
+  "validThrough": "2026-11-16"
+}

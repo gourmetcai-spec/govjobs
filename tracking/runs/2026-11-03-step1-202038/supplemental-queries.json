@@ -1,0 +1,156 @@
+[
+  {
+    "name": "supp-0-java",
+    "payload": {
+      "Keyword": "Java",
+      "LocationName": [
+        "Maryland",
+        "Virginia",
+        "District of Columbia"
+      ]
+    }
+  },
+  {
+    "name": "supp-1-python",
+    "payload": {
+      "Keyword": "Python",
+      "LocationName": [
+        "Maryland",
+        "Virginia",
+        "District of Columbia"
+      ]
+    }
+  },
+  {
+    "name": "supp-2-cloud-engineer",
+    "payload": {
+      "Keyword": "cloud engineer",
+      "LocationName": [
+        "Maryland",
+        "Virginia",
+        "District of Columbia"
+      ]
+    }
+  },
+  {
+    "name": "supp-3-platform-engineer",
+    "payload": {
+      "Keyword": "platform engineer",
+      "LocationName": [
+        "Maryland",
+        "Virginia",
+        "District of Columbia"
+      ]
+    }
+  },
+  {
+    "name": "supp-4-sde",
+    "payload": {
+      "Keyword": "SDE",
+      "LocationName": [
+        "Maryland",
+        "Virginia",
+        "District of Columbia"
+      ]
+    }
+  },
+  {
+    "name": "supp-5-backend-engineer",
+    "payload": {
+      "Keyword": "backend engineer",
+      "LocationName": [
+        "Maryland",
+        "Virginia",
+        "District of Columbia"
+      ]
+    }
+  },
+  {
+    "name": "supp-6-generative-ai",
+    "payload": {
+      "Keyword": "generative AI",
+      "LocationName": [
+        "Maryland",
+        "Virginia",
+        "District of Columbia"
+      ]
+    }
+  },
+  {
+    "name": "supp-7-llm-engineer",
+    "payload": {
+      "Keyword": "LLM engineer",
+      "LocationName": [
+        "Maryland",
+        "Virginia",
+        "District of Columbia"
+      ]
+    }
+  },
+  {
+    "name": "supp-8-financial-technology",
+    "payload": {
+      "Keyword": "financial technology",
+      "LocationName": [
+        "Maryland",
+        "Virginia",
+        "District of Columbia"
+      ]
+    }
+  },
+  {
+    "name": "supp-9-structured-finance",
+    "payload": {
+      "Keyword": "structured finance",
+      "LocationName": [
+        "Maryland",
+        "Virginia",
+        "District of Columbia"
+      ]
+    }
+  },
+  {
+    "name": "supp-10-asset-management",
+    "payload": {
+      "Keyword": "asset management",
+      "LocationName": [
+        "Maryland",
+        "Virginia",
+        "District of Columbia"
+      ]
+    }
+  },
+  {
+    "name": "supp-11-trading-systems",
+    "payload": {
+      "Keyword": "trading systems",
+      "LocationName": [
+        "Maryland",
+        "Virginia",
+        "District of Columbia"
+      ]
+    }
+  },
+  {
+    "name": "supp-12-fintech",
+    "payload": {
+      "Keyword": "fintech",
+      "LocationName": [
+        "Maryland",
+        "Virginia",
+        "District of Columbia"
+      ]
+    }
+  },
+  {
+    "name": "supp-13-stacr",
+    "payload": {
+      "Keyword": "STACR",
+      "LocationName": [
+        "Maryland",
+        "Virginia",
+        "District of Columbia"
+      ]
+    }
+  }
+]

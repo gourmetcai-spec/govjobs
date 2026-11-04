@@ -1,0 +1,32 @@
+{
+  "@context": "http://www.schema.org",
+  "@type": "JobPosting",
+  "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": {
+      "@type": "QuantitativeValue",
+      "value": 127646.0,
+      "unitText": "YEAR"
+    }
+  },
+  "datePosted": "10/28/2026",
+  "description": "You will serve as a FINANCIAL MANAGER in the Finance Department of the Operational Test and Evaluation Force (OPTEVFOR) of COMOPTEVFOR.",
+  "educationRequirements": "This job does not have an education qualification requirement.",
+  "employmentType": "OTHER",
+  "hiringOrganization": "COMOPTEVFOR",
+  "jobLocation": [
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Naval Base, Norfolk",
+        "addressRegion": "VA "
+      }
+    }
+  ],
+  "responsibilities": "",
+  "qualifications": "Your resume must demonstrate at least one year of specialized experience at or equivalent to the GS-13 grade level or pay band in the Federal service or equivalent experience in the private or public sector. Specialized experience must demonstrate the following:\n<ol>\n\t<li>Possessing prior comptroller or deputy comptroller experience with advanced financial-management expertise;</li>\n\t<li>Applying expert knowledge of Appropriations Law (31 U.S.C.), Purpose/Time/Amount statutes, the Antideficiency Act, and the Bona Fide Needs Rule while also possessing a deep familiarity with Financial Improvement and Audit Remediation (FIAR) standards, OMB Circular A-123 (Management's Responsibility for Enterprise Risk Management and Internal Control), and resolving Notices of Finding and Recommendations (NFRs);</li>\n\t<li>Leading Planning, Programming, Budgeting, and Execution activities, including Program Objective Memorandum development, Budget Estimate Submission preparation, and Congressional enactment execution;</li>\n\t<li>Administering multi-year, diverse appropriations across an Echelon II portfolio, preferably including research, development, test, and evaluation funding; and</li>\n\t<li>Supervising and exercising Executive Decisional Authority: Ability to manage multidisciplinary teams (budget analysts, accountants, auditors, and civilian personnel resource managers) and advise Flag Officers / SES executives on fiscal risk and resource allocation.</li>\n</ol>\n<br>\nAdditional qualification information can be found from the following Office of Personnel Management web site: <a href=\"https://www.opm.gov/policy-data-oversight/classification-qualifications/general-schedule-qualification-standards/#url=List-by-Occupational-Series\">https://www.opm.gov/policy-data-oversight/classification-qualifications/general-schedule-qualification-standards/#url=List-by-Occupational-Series</a><br>\n<br>\nExperience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., professional, philanthropic, religious, spiritual, community, student, social). Volunteer work helps build critical competencies, knowledge, and skills and can provide valuable training and experience that translates directly to paid employment.",
+  "title": "FINANCIAL MANAGER",
+  "validThrough": "2026-11-02"
+}

@@ -1,0 +1,32 @@
+{
+  "@context": "http://www.schema.org",
+  "@type": "JobPosting",
+  "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": {
+      "@type": "QuantitativeValue",
+      "value": 127646.0,
+      "unitText": "YEAR"
+    }
+  },
+  "datePosted": "11/03/2026",
+  "description": "This position is located in the Office of the Force Comptroller (N02F), Commander,Submarine Force Atlantic (COMSUBLANT), Norfolk, Virginia.",
+  "educationRequirements": "",
+  "employmentType": "OTHER",
+  "hiringOrganization": "COMSUBFOR",
+  "jobLocation": [
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Naval Base, Norfolk",
+        "addressRegion": "VA "
+      }
+    }
+  ],
+  "responsibilities": "",
+  "qualifications": "Your resume must demonstrate at least one year of specialized experience at or equivalent to the GS-13 grade level or pay band in the Federal service or equivalent experience in the private or public sector. Specialized experience must demonstrate the following: <br>\n1. Experience in applying Federal financial management laws, regulations, and guidance from GAO, OMB, Treasury, and DoW; serves as a subject-matter authority and advisor on the interpretation and application of financial policy<br>\n2. Experience and knowledge of DOW/DON financial management regulations, enterprise business systems, appropriations law, and audit requirements sufficient to develop new or modified financial management policies, procedures, and internal control frameworks.<br>\n3. Experience with Federal budget formulation, execution, accounting, and reporting; skilled at assessing enterprise financial risk, evaluating long-term strategic fiscal impacts, and designing innovative mitigation strategies.<br>\n4. Experience with complex financial studies across budget and accounting systems. Skilled in resolving issues with incomplete data/evolving rules for massive, high-profile programs of national significance & Congressional interest.<br>\n5. Experience and expert ability to extract, integrate, and aggregate large volumes of financial and programmatic data from multiple enterprise systems to identify systemic weaknesses, emerging risks, and cross-functional impacts.<br>\n6. Experience and knowledge of organizational missions, strategic objectives, and funding architectures sufficient to align financial policy and execution with enterprise priorities.<br>\n7. Ability to advise senior leaders on high-impact financial matters. Exercise authoritative judgment where guidance is vague, conflicting, or silent, making precedent-setting decisions for major programs.<br>\n<br>\nAdditional qualification information can be found from the following Office of Personnel Management web site: <a href=\"https://www.opm.gov/policy-data-oversight/classification-qualifications/general-schedule-qualification-standards/#url=List-by-Occupational-Series\">https://www.opm.gov/policy-data-oversight/classification-qualifications/general-schedule-qualification-standards/#url=List-by-Occupational-Series</a><br>\n<br>\nExperience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., professional, philanthropic, religious, spiritual, community, student, social). Volunteer work helps build critical competencies, knowledge, and skills and can provide valuable training and experience that translates directly to paid employment.",
+  "title": "SUPERVISORY FINANCIAL MANAGEMENT ANALYST",
+  "validThrough": "2026-11-09"
+}

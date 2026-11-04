@@ -1,0 +1,88 @@
+{
+  "title": "Summer 2027 Intern, Regulation & Policy- Division of Supervision & Regulation",
+  "requisition_id": "R025980",
+  "canonical_url": "https://bd.wd104.myworkdayjobsgov.com/frb/job/Federal-Reserve-Board/Summer-2027-Intern--Regulation---Policy--Division-of-Supervision---Regulation_R025980",
+  "application_url": "https://bd.wd104.myworkdayjobsgov.com/frb/job/Federal-Reserve-Board/Summer-2027-Intern--Regulation---Policy--Division-of-Supervision---Regulation_R025980",
+  "posted_date": "2026-10-23",
+  "posted_date_evidence": "Official Federal Reserve Board Workday jobPostingInfo.startDate; retrieved source retained.",
+  "close_date": "2026-11-09",
+  "deadline_timezone": null,
+  "deadline_time": null,
+  "deadline_source": "https://bd.wd104.myworkdayjobsgov.com/frb/job/Federal-Reserve-Board/Summer-2027-Intern--Regulation---Policy--Division-of-Supervision---Regulation_R025980",
+  "deadline_verified": true,
+  "early_closure_conditions": [],
+  "rolling_cutoff": null,
+  "location": "Washington, DC",
+  "remote_restrictions": "Federal Reserve Board work location; Board headquarters is Washington DC. Confirm team-specific on-site/hybrid policy in official description; do not assume remote work.",
+  "salary": null,
+  "retrieved_at": "2026-11-04T01:27:13.427519+00:00",
+  "control_number": "R025980",
+  "fit": "Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.",
+  "gaps": "Federal Reserve Board role: confirm the exact minimum years, domain expertise and required versus preferred qualifications against the saved official description. Unknown deadline means verify promptly; never assume open-ended hiring. Mandatory current student enrollment and return-to-study requirements are unverified; confirm enrollment, degree level, program dates and GPA where required. Internship is lower priority for this senior candidate; missing evidence is not confirmed ineligibility. Verify OMB/federal budget procedures against the exact qualification clause; not established by the baseline alone. Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.",
+  "requirements_confirmed_unmet": [],
+  "requirements_unverified": [
+    "Federal Reserve Board role: confirm the exact minimum years, domain expertise and required versus preferred qualifications against the saved official description. Unknown deadline means verify promptly; never assume open-ended hiring.",
+    "Mandatory current student enrollment and return-to-study requirements are unverified; confirm enrollment, degree level, program dates and GPA where required. Internship is lower priority for this senior candidate; missing evidence is not confirmed ineligibility.",
+    "Verify OMB/federal budget procedures against the exact qualification clause; not established by the baseline alone.",
+    "Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "preferred_requirements_note": "See official qualifications/education sections; missing evidence does not establish an unmet requirement.",
+  "hiring_paths": [
+    "See Board qualifications; internship enrollment requirements remain unverified"
+  ],
+  "open_evidence": "Official Federal Reserve Board careers feed: canApply=true and posted=true; source jobPostingInfo retained.",
+  "discovery_window": [
+    "2026-09-03",
+    "2026-11-03"
+  ],
+  "employer": "Board of Governors of the Federal Reserve System",
+  "status": "needs_verification",
+  "aliases": [],
+  "id": "3fadb1ffe1dd3e97",
+  "application_directory": "applications/2026-11-03__board-of-governors-of-the-federal-reserv__summer-2027-intern-regulation-policy-division-of-supervision-reg__3fadb1ffe1dd3e97",
+  "step": 1,
+  "selected": false,
+  "submitted": false,
+  "artifacts": {
+    "resume_markdown": {
+      "path": "applications/2026-11-03__board-of-governors-of-the-federal-reserv__summer-2027-intern-regulation-policy-division-of-supervision-reg__3fadb1ffe1dd3e97/resume-xuewu-cai__board-of-governors-of-the-federal-reserv__summer-2027-intern-regulation-policy-division-of-supervision-reg__r025980.md",
+      "sha256": "8f33dcbd69840f598c63fd5f2c785cfbbc65d54e2a50c597a99126450ac23f78"
+    },
+    "resume_pdf": {
+      "path": "applications/2026-11-03__board-of-governors-of-the-federal-reserv__summer-2027-intern-regulation-policy-division-of-supervision-reg__3fadb1ffe1dd3e97/resume-xuewu-cai__board-of-governors-of-the-federal-reserv__summer-2027-intern-regulation-policy-division-of-supervision-reg__r025980.pdf",
+      "sha256": "48a64b9c39a7113eea0bf90258baed0d829c1e436cdaf5b5ebe27caeb0e5cfa8"
+    }
+  },
+  "artifact_versions": [
+    {
+      "revision_id": "2026-11-04T01:27:13.427519+00:00",
+      "artifacts": {
+        "resume_markdown": {
+          "path": "applications/2026-11-03__board-of-governors-of-the-federal-reserv__summer-2027-intern-regulation-policy-division-of-supervision-reg__3fadb1ffe1dd3e97/resume-xuewu-cai__board-of-governors-of-the-federal-reserv__summer-2027-intern-regulation-policy-division-of-supervision-reg__r025980.md",
+          "sha256": "8f33dcbd69840f598c63fd5f2c785cfbbc65d54e2a50c597a99126450ac23f78"
+        },
+        "resume_pdf": {
+          "path": "applications/2026-11-03__board-of-governors-of-the-federal-reserv__summer-2027-intern-regulation-policy-division-of-supervision-reg__3fadb1ffe1dd3e97/resume-xuewu-cai__board-of-governors-of-the-federal-reserv__summer-2027-intern-regulation-policy-division-of-supervision-reg__r025980.pdf",
+          "sha256": "48a64b9c39a7113eea0bf90258baed0d829c1e436cdaf5b5ebe27caeb0e5cfa8"
+        }
+      },
+      "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a"
+    }
+  ],
+  "resume_status": "prepared_with_attention",
+  "resume_review": "Two rendered pages reviewed; all 77 distinct page images inspected across seven boards covering 166 pages. Text bounds, all 20 baseline experience bullets, updated title, neutral metadata and artifact hashes passed. Candidate qualifications remain unverified.",
+  "required_answers_pending": [
+    "Federal Reserve Board role: confirm the exact minimum years, domain expertise and required versus preferred qualifications against the saved official description. Unknown deadline means verify promptly; never assume open-ended hiring.",
+    "Mandatory current student enrollment and return-to-study requirements are unverified; confirm enrollment, degree level, program dates and GPA where required. Internship is lower priority for this senior candidate; missing evidence is not confirmed ineligibility.",
+    "Verify OMB/federal budget procedures against the exact qualification clause; not established by the baseline alone.",
+    "Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "confirmed_unmet_requirements": [],
+  "qualifications_verified": false,
+  "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a",
+  "resume_format": "restored_two_page",
+  "current_resume_naming": "unversioned",
+  "priority": "lower"
+}

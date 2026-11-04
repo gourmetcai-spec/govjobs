@@ -1,0 +1,64 @@
+{
+  "@context": "http://www.schema.org",
+  "@type": "JobPosting",
+  "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": {
+      "@type": "QuantitativeValue",
+      "value": 125776.0,
+      "unitText": "YEAR"
+    }
+  },
+  "datePosted": "11/03/2026",
+  "description": "The position description number for this position is <strong>PD06C122S</strong>. A summary of the major duties are listed below. You may also view the full position description on the Agency intranet at the following link: <a href=\"http://pdtext.personnel.ba.ssa.gov/\">PD Search</a><br>\n<br>\nResponsible for guiding technical IT specialists at the GS-13 level and below and contractors in one or more areas of specialization: data storage management, computer environmental support, computer hardware support, imaging, open, and mainframe systems for hardware and software.",
+  "educationRequirements": "This job does not have an education qualification requirement.",
+  "employmentType": "OTHER",
+  "hiringOrganization": "CIO - SOHE",
+  "jobLocation": [
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Denver",
+        "addressRegion": "CO "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Urbana",
+        "addressRegion": "MD "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Woodlawn",
+        "addressRegion": "MD "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Durham",
+        "addressRegion": "NC "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Wilkes Barre",
+        "addressRegion": "PA "
+      }
+    }
+  ],
+  "responsibilities": "",
+  "qualifications": "<b>Resumes exceeding two pages in length will not be considered. Visit the 'Required Documents' section below for more information.</b><br>\n<br>\n<strong>YOUR RESUME OR SSA-45 MUST INCLUDE YOUR OFFICIAL DUTY STATION AND YOUR ORGANIZATION (I.E., SECURITY AND RESILIENCY) OR YOU MAY BE FOUND INELIGIBLE.<br>\n<br>\nTo qualify for the 2210 IT Specialist series</strong>, the applicant must demonstrate the following competencies:<br>\n<br>\n<strong>Attention to Detail (Level 4, Advanced) -</strong> Is thorough when performing work and conscientious about attending to detail.<br>\n<br>\n<strong>Customer Service (Level 4, Advanced) - </strong>Works with clients and customers (that is, any individuals who use or receive the services or products that your work unit produces, including the general public, individuals who work in the agency, other agencies, or organizations outside the Government) to assess their needs, provide information or assistance, resolve their problems, or satisfy their expectations; knows about available products and services; is committed to providing quality products and services.<br>\n<br>\n<strong>Decision Making</strong> <strong>(Level 3, Intermediate) </strong>- Makes sound, well-informed, and objective decisions; perceives the impact and implications of decisions; commits to action, even in uncertain situations, to accomplish organizational goals; causes change.<br>\n<br>\n<strong>Information Management (Level 4, Advanced) - </strong>Identifies a need for and knows where or how to gather information; organizes and maintains information or information management systems.<br>\n<br>\n<strong>Interpersonal Skills (Level 4, Advanced) -</strong> Shows understanding, friendliness, courtesy, tact, empathy, concern, and politeness to others; develops and maintains effective relationships with others; may include effectively dealing with individuals who are difficult, hostile, or distressed; relates well to people from varied backgrounds and different situations.<br>\n<br>\n<strong>Oral Communication</strong> <strong>(Level 3, Intermediate) </strong>- Expresses information (for example, ideas or facts) to individuals or groups effectively, taking into account the audience and nature of the information (for example, technical, sensitive, controversial); makes clear and convincing oral presentations; listens to others, attends to nonverbal cues, and responds appropriately.<br>\n<br>\n<strong>Problem Solving (Level 4, Advanced) - </strong>Identifies problems; determines accuracy and relevance of information; uses sound judgment to generate and evaluate alternatives, and to make recommendations.<br>\n<br>\n<strong>Teamwork (Level 4, Advanced) -</strong> Encourages and facilitates cooperation, pride, trust, and group identity; fosters commitment and team spirit; works with others to achieve goals.<br>\n<br>\n<strong>Technical Competence</strong> <strong>(Level 4, Advanced) </strong>- Uses knowledge that is acquired through formal training or on-the-job experience to perform one's job; works with, understands, and evaluates technical information related to the job; advises others on technical issues.<br>\n<br>\n<strong>Specialized Experience: </strong>Applicants must have specialized experience that is directly related to the work of the position and have equipped them with the competencies required to successfully perform the duties of the role. These knowledge, skills, and abilities/competencies are normally attained through the equivalent of one year of specialized experience equivalent to the next lower grade level of the position being filled.<br>\n<br>\nTo qualify at the GS-14 level, you must have specialized experience at the GS-13 level, or equivalent. This experience must demonstrate proficiency in three of the following:\n<ul>\n\t<li>Experience directing staff that supports enterprise SAN, NAS, storage arrays, and data protection platforms.</li>\n</ul>\n\n<ul>\n\t<li>Experience directing staff that supports ServiceNow enterprise operations including ITSM, ITOM, CMDB, Discovery, Incident, Problem, Change, and automation modules.</li>\n</ul>\n\n<ul>\n\t<li>Experience overseeing troubleshooting, incident response, performance tuning, and lifecycle planning for storage systems.</li>\n</ul>\n\n<ul>\n\t<li>Experience using Argent monitoring for servers, applications, performance events, and alerting workflows.</li>\n</ul>\n\n<ul>\n\t<li>Experience coordinating vendor support for SAN/NAS platforms, storage monitoring tools, and distributed systems integration.</li>\n</ul>\n\n<ul>\n\t<li>Experience coordinating vendor support for platform upgrades, module deployments, incident/problem triage, and monitoring tuning.</li>\n</ul>\n\n<ul>\n\t<li>Experience leading storage modernization efforts, migrations, platform upgrades, and resiliency improvements or workflow automation, monitoring standards, and observability tools.</li>\n</ul>\n<br>\n<br>\n<strong>The specialized experience is REQUIRED and must be explicitly documented/described in your resume, or you will be disqualified from further consideration.</strong><br>\n<br>\nQualification standards and additional information for this position can be found here: <a href=\"https://www.opm.gov/policy-data-oversight/classification-qualifications/competency-based-policy/general-schedule/2200/2210-competency-based-policy/competency-based-qualification-standard/\">Competency-Based Qualification Standard for the Information Technology Management Series, 2210</a><br>\n<br>\n<strong>NOTE</strong>: You cannot be credited for experience unless you clearly show your grade level at the time the experience was gained, as well as the dates you were at that grade level. If you combine career-ladder experience into a single description of duties, you may be eliminated from consideration based on failure to clearly document the required experience at the required grade level for the required period of time.<br>\n<br>\n<strong>Qualification requirements must be met by the closing date of this announcement.</strong><br>\n<br>\nApplicants for promotion must have 52 weeks at <strong>GS-</strong><strong>13</strong>.<br>\n<br>\n<strong>Time in grade requirement must be met by the closing date of this announcement. </strong>",
+  "title": "Supervisory IT Specialist (SYSADM)",
+  "validThrough": "2026-11-09"
+}

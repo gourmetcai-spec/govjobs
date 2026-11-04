@@ -1,0 +1,40 @@
+{
+  "@context": "http://www.schema.org",
+  "@type": "JobPosting",
+  "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": {
+      "@type": "QuantitativeValue",
+      "value": 143913.0,
+      "unitText": "YEAR"
+    }
+  },
+  "datePosted": "11/03/2026",
+  "description": "This position is part of the U.S. International Development Finance Corporation (DFC),US International Development Finance Corporation. As the Director, Portfolio Analytics, you will be responsible for building, operating, and continuously improving the analytical infrastructure and reporting frameworks that underpin DFC's portfolio management capabilities.",
+  "educationRequirements": "This job does not have an education qualification requirement.",
+  "employmentType": "OTHER",
+  "hiringOrganization": "International Development Finance Corporation",
+  "jobLocation": [
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Washington",
+        "addressRegion": "DC "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "New York",
+        "addressRegion": "NY "
+      }
+    }
+  ],
+  "responsibilities": "This position serves as the Director, Portfolio Analytics and is responsible for building, operating, and continuously improving the analytical infrastructure and reporting frameworks that underpin DFC's portfolio management capabilities.<br>\n<br>\nAs a Portfolio Analytics Specialist, (Director, Portfolio Analytics), you will:\n<ul>\n\t<li>Lead the design, development, and ongoing operation of a comprehensive portfolio analytics function spanning DFC's full suite of financial products.</li>\n\t<li>Establish robust performance measurement frameworks, risk analytics capabilities, data governance standards, and reporting infrastructure that enables senior leaders to assess the health, risk profile, and policy impact of DFC's portfolio.</li>\n\t<li>Serve in a foundational role in standing up the Office of Portfolio Management's (OPM) systems, processes, and Analytics team.</li>\n\t<li>Serve as a key internal and external subject-matter expert on portfolio analytics, valuation, and risk measurement across complex multi-asset, multi-instrument portfolios.</li>\n\t<li>Supervise, mentor, and develop professional staff and oversee the work of contractors and consultants engaged in portfolio analytics activities</li>\n</ul>\n<b><u>Please Note</u>: </b>This is not a Bargaining unit position.",
+  "qualifications": "<strong>Applicants must meet all eligibility and qualification requirements no later than the closing date of this announcement.</strong><br>\n<br>\nOne year of specialized experience equivalent to the GS-13 grade level in the Federal service that demonstrates your experience in all of the following:\n<ol>\n\t<li>Experience designing or implementing portfolio-wide investment performance measurement, risk analytics, or reporting frameworks for investment portfolios;</li>\n\t<li>Experience developing or maintaining financial valuation and performance models for equity, debt, or private and illiquid assets;</li>\n\t<li>Experience establishing or maintaining financial data governance standards or financial analytics infrastructure;</li>\n\t<li>Experience communicating complex financial information to senior leaders; AND</li>\n\t<li>Experience presenting complex financial information in a variety of formats (i.e., reports, presentations, etc.)</li>\n</ol>\nNote: Education is not substitutional at this grade level.<br>\n<br>\nExperience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., Peace Corps, AmeriCorps) and other organizations (e.g., professional; philanthropic; religious; spiritual; community, student, social). Volunteer work helps build critical competencies, knowledge, and skills and can provide valuable training and experience that translates directly to paid employment. You will receive credit for all qualifying experience, including volunteer experience.<br>\n<br>\n<strong>This position is being advertised concurrently with vacancy announcement 27-OPM-ST-13100534-CH </strong><strong>using Merit Promotion (MP) procedures.</strong> If interested, refer to that announcement to determine if you meet MP requirements and can apply to that announcement. NOTE: You must apply separately to each announcement in order to be considered under both.<br>\n<br>\nThis announcement may be used to fill similar positions, if additional vacancies occur.",
+  "title": "DIRECTOR, PORTFOLIO ANALYTICS",
+  "validThrough": "2026-11-23"
+}

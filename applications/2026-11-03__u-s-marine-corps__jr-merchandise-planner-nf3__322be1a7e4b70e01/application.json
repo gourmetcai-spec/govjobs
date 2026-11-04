@@ -1,0 +1,81 @@
+{
+  "title": "JR MERCHANDISE PLANNER NF3",
+  "requisition_id": "79421",
+  "canonical_url": "https://www.usajobs.gov/job/891369800",
+  "application_url": "https://www.usajobs.gov/job/891369800",
+  "posted_date": "2026-11-03",
+  "posted_date_evidence": "Official JobPosting.datePosted and native PositionStartDate",
+  "close_date": "2026-11-17",
+  "deadline_timezone": "America/New_York",
+  "deadline_time": "23:59",
+  "deadline_source": "https://www.usajobs.gov/job/891369800",
+  "deadline_verified": true,
+  "early_closure_conditions": [],
+  "rolling_cutoff": null,
+  "location": "Quantico, VA",
+  "remote_restrictions": "Offered DMV work location; verify telework/attendance and screening conditions in announcement.",
+  "salary": "Starting at $46,000 Per year (NF 3)",
+  "retrieved_at": "2026-11-04T01:27:13.427519+00:00",
+  "control_number": "891369800",
+  "fit": "Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.",
+  "gaps": "Confirm the announcement-specific specialized experience, grade-equivalent scope and mandatory conditions against your actual work history. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.",
+  "requirements_confirmed_unmet": [],
+  "requirements_unverified": [
+    "Confirm the announcement-specific specialized experience, grade-equivalent scope and mandatory conditions against your actual work history.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "preferred_requirements_note": "See official qualifications/education sections; missing evidence does not establish an unmet requirement.",
+  "hiring_paths": [
+    "Open to the public"
+  ],
+  "open_evidence": "Official announcement downloaded successfully; validThrough and native open-status evidence retained.",
+  "discovery_window": [
+    "2026-09-03",
+    "2026-11-03"
+  ],
+  "employer": "U.S. Marine Corps",
+  "status": "needs_verification",
+  "aliases": [],
+  "id": "322be1a7e4b70e01",
+  "application_directory": "applications/2026-11-03__u-s-marine-corps__jr-merchandise-planner-nf3__322be1a7e4b70e01",
+  "step": 1,
+  "selected": false,
+  "submitted": false,
+  "artifacts": {
+    "resume_markdown": {
+      "path": "applications/2026-11-03__u-s-marine-corps__jr-merchandise-planner-nf3__322be1a7e4b70e01/resume-xuewu-cai__u-s-marine-corps__jr-merchandise-planner-nf3__891369800.md",
+      "sha256": "e4f65f356a276de29219898b9b9097864a61fb5f09ee6d1f7b1788ce8e3558b1"
+    },
+    "resume_pdf": {
+      "path": "applications/2026-11-03__u-s-marine-corps__jr-merchandise-planner-nf3__322be1a7e4b70e01/resume-xuewu-cai__u-s-marine-corps__jr-merchandise-planner-nf3__891369800.pdf",
+      "sha256": "2b3b492e03c28dbab89847977f0719fed1d1434b3221cba138ea0a7555b1a238"
+    }
+  },
+  "artifact_versions": [
+    {
+      "revision_id": "2026-11-04T01:27:13.427519+00:00",
+      "artifacts": {
+        "resume_markdown": {
+          "path": "applications/2026-11-03__u-s-marine-corps__jr-merchandise-planner-nf3__322be1a7e4b70e01/resume-xuewu-cai__u-s-marine-corps__jr-merchandise-planner-nf3__891369800.md",
+          "sha256": "e4f65f356a276de29219898b9b9097864a61fb5f09ee6d1f7b1788ce8e3558b1"
+        },
+        "resume_pdf": {
+          "path": "applications/2026-11-03__u-s-marine-corps__jr-merchandise-planner-nf3__322be1a7e4b70e01/resume-xuewu-cai__u-s-marine-corps__jr-merchandise-planner-nf3__891369800.pdf",
+          "sha256": "2b3b492e03c28dbab89847977f0719fed1d1434b3221cba138ea0a7555b1a238"
+        }
+      },
+      "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a"
+    }
+  ],
+  "resume_status": "prepared_with_attention",
+  "resume_review": "Two rendered pages reviewed; all 77 distinct page images inspected across seven boards covering 166 pages. Text bounds, all 20 baseline experience bullets, updated title, neutral metadata and artifact hashes passed. Candidate qualifications remain unverified.",
+  "required_answers_pending": [
+    "Confirm the announcement-specific specialized experience, grade-equivalent scope and mandatory conditions against your actual work history.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "confirmed_unmet_requirements": [],
+  "qualifications_verified": false,
+  "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a",
+  "resume_format": "restored_two_page",
+  "current_resume_naming": "unversioned"
+}

@@ -1,0 +1,741 @@
+USAJOBS - Job Announcement
+
+ Skip to main content
+
+ An official website of the United States government
+
+Official websites use .gov
+
+A .gov website belongs to an official government organization in the United States.
+
+Secure .gov websites use HTTPS
+ A lock ( LockA locked padlock ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.
+
+ MENU
+
+ Sign in
+
+ My jobs
+
+ Profile
+
+ Resumes & documents
+
+ Notifications
+
+ Talent networks
+
+ Sign out
+
+ My jobs
+
+ Profile
+
+ Resumes & documents
+
+ Notifications
+
+ Talent networks
+
+ Sign out
+
+ Events
+
+ Help Center
+
+ Search
+
+ Back to results
+
+ Apply
+
+ INTERDISCIPLINARY (DATA SCIENTIST/ECONOMIST)
+
+Pension Benefit Guaranty Corporation
+
+Office of Policy and External Affairs (OPEA), Policy Research and Analysis Department (PRAD)
+
+Apply
+
+ Print
+
+ Share
+
+ Save
+
+ Summary
+
+ This job is open to
+
+ Duties
+
+ Requirements
+
+ How you will be evaluated
+
+ Required documents
+
+ How to apply
+
+Summary
+
+This position is located in the Pension Benefit Guaranty Corporation's (PBGC), Office of Policy and External Affairs (OPEA), Policy Research and Analysis Department (PRAD).
+
+More than one selection may be made from this vacancy announcement.
+
+ Learn more about this agency
+
+Summary
+
+This position is located in the Pension Benefit Guaranty Corporation's (PBGC), Office of Policy and External Affairs (OPEA), Policy Research and Analysis Department (PRAD).
+
+More than one selection may be made from this vacancy announcement.
+
+ Learn more about this agency
+
+Overview
+
+ Help
+
+Accepting applications
+
+Location
+
+ Washington, DC
+
+1 vacancy
+
+ No matching locations found.
+
+Work site options
+
+Telework eligible
+
+Yes—as determined by the agency policy.
+
+Remote job
+
+No
+
+Relocation expenses reimbursed
+
+ Yes—Recruitment incentives may be authorized for this position, if applicable.
+
+Salary
+
+ $121,785 - $187,093 per year
+
+Pay scale & grade
+
+GS 13 - 14
+
+Promotion potential
+
+14
+
+ Learn more about pay scale and grade
+
+ Pay scale and grade determines the salary of the job.
+
+Work schedule
+
+Full-time
+
+Travel Required
+
+Occasional travel - You may be expected to travel for this position.
+
+Appointment type
+
+Permanent
+
+Occupations and job series
+
+ 0110 Economist
+
+ 1560 Data Science Series
+
+Supervisory status
+
+No
+
+Federal service type
+
+This job is in the Competitive Service
+
+Represented by a union
+
+Yes
+
+Drug test
+
+No
+
+Security clearance
+
+Other
+
+Position sensitivity and risk
+
+Moderate Risk (MR)
+
+ Jobs require a
+ background check and some require a
+ security clearance. The type depends on the job.
+
+Background check type
+
+ Credentialing
+
+ Suitability/Fitness
+
+Financial disclosure required
+
+No
+
+ Some jobs require
+ financial disclosure to identify conflicts of interests.
+
+Announcement number
+
+OPEA PRAD-RAPI-27-13106007
+
+Control number
+
+891340900
+
+This job is open to
+
+ Help
+
+The public
+
+ U.S. Citizens, Nationals or those who owe allegiance to the U.S.
+
+Clarification from the agency
+
+Applications will be accepted from any U.S. citizen. Direct Hire Authority will be used to fill this position, Veterans Preference and traditional rating and ranking of applicants does not apply to this vacancy.
+
+Duties
+
+ Help
+
+The candidate selected for this position will:
+
+Provide professional and scientific expertise to ingest, analyze, correlate, and conduct trend analytics, from past and current assessments, on data using Economics capabilities leveraging data tools, collecting and managing data, and evaluating alternatives to assess projected capabilities for future mission support.
+
+Prepare data-centric projects to provide insight and informed decisions for mission-oriented programs utilizing a wide range of technical competencies such as statistical theory, coding languages, data mining, and other existing and evolving data-related technologies including Super Intelligence ("SI") as well as reporting and visualization techniques through the creation of graphs, tables, charts, etc. for various research projects or reporting of information to government officials, within PBGC or to the general public.
+
+Explore novel methods of retrieving data including the incorporation of SI enabled automation where feasible and develop innovative recommendations to management and senior leadership as a means for making data driven decisions such as modification of processes and policies.
+
+Identify and assess the validity and reliability of relevant data sources to meet project needs to include the following: collate, clean, transform, analyze, develop, integrate and standardize structured and unstructured data from various sources in preparation for use and analysis within PRAD.
+
+Requirements
+
+ Help
+
+Conditions of employment
+
+You must be a U.S citizen.
+
+You may undergo a personnel security background investigation.
+
+Selective Service registration required for male applicants, unless exempt.
+
+1-year probationary period required unless met during prior Federal service.
+
+Go through a Personal Identity Verification (PIV) process that requires two forms of identification from the Form I-9. Federal law requires verification of the identity and employment eligibility of all new hires in the U.S.
+
+Complete a Declaration for Federal Employment to determine your suitability for Federal employment, at the time requested by the agency.
+
+Selected applicants will be required to complete an online onboarding process.
+
+Qualifications
+
+All qualification and eligibility requirements must be met by the announcement closing date.
+
+To meet the minimum qualifications for this position, you must meet the specialized experience qualifications for the grade at which you are requesting consideration.
+
+Specialized Experience:
+
+For GS-13:
+
+Applicants must have at least one year of specialized experience at the GS-12 grade level in the Federal service or equivalent to the GS-12 grade level in the private sector using original research, current economic theory and current statistical and econometric methods to analyze current policy, legislative and regulatory issues.
+
+Examples include: Using algorithmic and programmatic approaches incorporating SI enabled automation to clean, manipulate, and sub-set (i.e., shrinking a large database to benefit information storage) data for the purposes of analysis. Developing novel ways to analyze and identify trends and patterns in data using advanced mathematical, statistical, and / or algorithmic techniques. Conducting independent research into questions of economic significance and using advanced statistical and econometric techniques. Developing research studies or analytical projects to address relevant problems, using scientific methods. Researching relevant Internal Revenue Code, and policy issues related to defined benefit plan financial accounting and disclosure.
+
+For GS-14:
+
+Applicants must have at least one year of specialized experience at the GS-13 grade level in the Federal service or equivalent to the GS-13 grade level in the private sector using original research, current economic theory and current statistical and econometric methods to analyze current policy, legislative and regulatory issues.
+
+Examples include: Using algorithmic and programmatic approaches incorporating SI enabled automation to clean, manipulate, and sub-set (i.e., shrinking a large database to benefit information storage) data for the purposes of analysis. Developing novel ways to analyze and identify trends and patterns in data using advanced mathematical, statistical, and / or algorithmic techniques. Conducting independent research into questions of economic significance and using advanced statistical and econometric techniques. Developing research studies or analytical projects to address relevant problems, using scientific methods. Researching relevant Internal Revenue Code, and policy issues related to defined benefit plan financial accounting and disclosure.
+
+Education
+
+In order to qualify for this position, you must possess the following education:
+
+To qualify for the Data Scientist GS-1560 series, you must have:
+
+A. Degree: Mathematics, statistics, computer science, data science or field directly related to the position. The degree must be in a major field of study (at least at the baccalaureate level) that is appropriate for the position.
+
+OR
+
+B. Combination of education and experience: Courses equivalent to a major field of study (30 semester hours) as shown in paragraph A above, plus additional education or appropriate experience.
+
+To qualify for the Economist GS-0110 series, you must have:
+
+A. Degree: economics, that included at least 21 semester hours in economics and 3 semester hours in statistics, accounting, or calculus.
+
+OR
+
+B. Combination of education and experience: courses equivalent to a major in economics, as shown in A above, plus experience or additional education.
+
+You must submit transcripts to verify that you meet the education requirement.
+
+Additional information
+
+To be considered under a special hiring authority such as the Schedule A appointing authority for persons with disabilities; the direct-hire authority to appoint veterans with service-connected disabilities of 30 percent or more; Peace Corps or VISTA service; or another excepted service/special hire authority, you must submit documentation to support your claim for eligibility with your application package.
+
+PBGC encourages qualified applicants with disabilities to apply. If you are requiring reasonable accommodations, please contact PBGC's Reasonable Accommodation Coordinator, Denorse Prince, at (202) 286-4026 or prince.denorse@pbgc.gov. If you are deaf, hard of hearing, or have a speech disability, please dial 7-1-1 to access telecommunications relay services.
+
+All Veterans are encouraged to visit CareerOne for resume writing tips and skill conversion terms.
+
+If you believe that you have been subjected to discrimination, you may contact the PBGC Office of Equal Employment Opportunity (OEEO): OEEO Main Office Phone: 202-229-4363
+
+Email: EEO@PBGC.gov
+
+ Expand Hide  additional information
+
+Candidates should be committed to improving the efficiency of the Federal government, passionate about the ideals of our American republic, and committed to upholding the rule of law and the United States Constitution.
+
+Benefits
+
+ Help
+
+ A career with the U.S. government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding. Opens in a new windowLearn more about federal benefits.
+
+Visit PBGC Benefits for information on our Agency Benefits offered.
+
+Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time or intermittent. Contact the hiring agency for more information on the specific benefits offered.
+
+How you will be evaluated
+
+You will be evaluated for this job based on how well you meet the qualifications above.
+
+THIS VACANCY ANNOUNCEMENT IS BEING ADVERTISED UNDER THE DIRECT HIRE APPOINTING AUTHORITY.
+
+There will be no applicant self-assessment or rating and ranking process.
+
+You will be evaluated for this job based on whether you meet the minimum qualification requirements listed above.
+
+Under the provisions of the Direct-Hire Appointing Authority, veterans' preference does not apply.
+
+We will review your resume and supporting documentation to ensure you meet the minimum qualification requirements.
+
+Benefits
+
+ Help
+
+ A career with the U.S. government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding. Opens in a new windowLearn more about federal benefits.
+
+Visit PBGC Benefits for information on our Agency Benefits offered.
+
+Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time or intermittent. Contact the hiring agency for more information on the specific benefits offered.
+
+Required documents
+
+Required Documents
+
+ Help
+
+RESUME: You must submit a resume. Your resume must include your name and contact information and should clearly show your possession of the specialized experience and KSAs so that we can determine your qualifications for this position. Your resume should be specific to the position you are applying for, relating your skills and experience to those noted in the job posting.
+
+Please limit your resume to two pages. If more than two pages are submitted, only the first two pages will be reviewed by Human Resources and the hiring manager to determine your eligibility/qualifications.
+
+PLEASE DO NOT include photographs, hypertext/hyperlinks, or other inappropriate material or content. This information will not be used to make eligibility or qualification determinations.
+
+COVER LETTER (OPTIONAL): Your cover letter should state your interest in this position and the strengths that you feel will make you an asset to the Pension Benefit Guaranty Corporation. We will not use your cover letter to determine your qualifications; however, your cover letter will go to the Selecting Official along with your resume if you are referred.
+
+SF-50 (NOTIFICATION OF PERSONNEL ACTION): All status candidates or reinstatement eligibles must submit an SF-50.
+
+DO NOT submit Award SF-50's and/or General Adjustment SF-50's as they cannot be used to prove time-in-grade.
+
+Submit your most recent NON-AWARD SF-50. The SF-50 must indicate proof of status and should identify your position title, series, grade, step, salary, tenure and type of service (Competitive or Excepted); also include your SF-50 reflecting when you entered your highest grade (e.g. Promotion, Appointment, etc.) in order to verify time-in-grade requirements.
+
+Please note that it may be necessary to submit more than one SF-50 to show that all requirements have been met.
+
+TRANSCRIPT(S) (REQUIRED): This position has a positive education requirement. You must submit transcript to verify that you meet the requirement. Information on the specific education requirement can be found under the Education in the vacancy announcement. Your transcripts should include course titles, school name/location, date completed, grades, and number of credits earned. Applicants who obtained their qualifying education outside of the U.S. and its territories must provide proof that their degrees have been validated as equivalent to a degree conferred by a college or university in the U.S. Unofficial transcripts may be submitted with your application; however, you must bring official transcripts with your first day if you are hired. Please see the Education section of this announcement for additional information.
+
+FOREIGN EDUCATION: If you are using education completed in foreign colleges or universities to meet the qualification requirements, you must show that the education credentials have been evaluated by a private organization that specializes in interpretation of foreign education programs and such education has been deemed equivalent to that gained in an accredited U.S. education program; or full credit has been given for the courses at a U.S. accredited college or university.
+
+Interagency Career Transition Assistance Programs: CTAP and ICTAP candidates must submit documents showing eligibility for selection priority (e.g., RIF separation notice, Certificate of Expected Separation, or other proof of eligibility for priority selection); an SF-50 showing the current (or former) position, grade level, promotion potential, and duty location; and the most current performance appraisal including the performance rating.
+
+Failure to provide all of the required information as stated in this vacancy announcement may result in an ineligible rating or may affect the overall rating.
+
+ If you are relying on your education to meet qualification requirements:
+
+ Education must be accredited by an accrediting institution recognized by the U.S. Department of Education in order for it to be credited towards qualifications. Therefore, provide only the attendance and/or degrees from
+ schools accredited by accrediting institutions recognized by the U.S. Department of Education.
+
+ Failure to provide all of the required information as stated in this vacancy announcement may result in an ineligible rating or may affect the overall rating.
+
+How to Apply
+
+ Help
+
+In order to be considered, submit all of the required information (including your supplemental documentation) before midnight EST on the closing date.
+
+If you are not able to apply online or require reasonable accommodations, contact Cecilia Mendozaon (202) 229-3713or at scd@pbgc.gov no later than 5:00 p.m. on the day before the closing date of this vacancy announcement. If you are deaf, hard of hearing, or have a speech disability, please dial 7-1-1 to access telecommunications relay services.
+
+Please complete all the steps in the online application process at USAJOBS (www.usajobs.gov). You may make updates to your information at any time prior to midnight EST on the closing date of this announcement.
+
+Register with USAJOBS, which will store your information and resume. You will only need to complete this step once.
+
+Locate and review the vacancy announcement on USAJOBS. Click the "Apply" link and then select a resume to submit with your application. If you do not have a resume to select, or you want to upload a new one, click "Add Resume" and upload your resume. You can also click "Edit" to edit an already-uploaded resume. Once you have selected a resume, click "Save and Continue."
+
+Add or remove your supporting documents.
+
+Once you have attached your resume and supporting documents, review your application package to ensure that they have been attached, then check the box next to "I acknowledge that I have reviewed my resume and document(s)." Then Click "Save and Continue."
+
+Complete the "Include Personal Information" page and click "Save and Continue,"
+
+On the "Continue Application with Agency" page, read the terms and certify by checking the box if you agree. Then click "Continue to Agency Site." This will take you to the application for the position.
+
+Click "Apply to this Vacancy."
+
+Complete or review the eligibility questions, which determine the types of positions you are eligible for.
+
+Specify which series, grade(s), and location(s) you wish to be considered for.
+
+Complete the online vacancy questions, then click "Finish". You will continue to the Vacancy Documents page.
+
+Review your attached documents from USAJobs. If there are other documents that you need to attach, upload those here as well.
+
+You will then see a summary of your application, including the documents that you submitted. You are strongly encouraged to save or print a copy of this page as proof of submission and receipt of your application and documents.
+
+To finish, click "Submit Application."
+
+Agency contact information
+
+ PBGC Staffing & Classification Div
+
+Email
+
+ scd@pbgc.gov
+
+Next steps
+
+You are encouraged to complete your USAJOBS personal account completely to receive notifications at each point in the recruiting process. Utilizing this option allows you to review and track the status of your application and receive email notifications from the hiring office.You may check the status of your applications by clicking on the My USAJOBS tab at the USAJOBS website.
+
+Fair and transparent
+
+The Federal hiring process is set up to be fair and transparent. Please read the following guidance.
+
+ Criminal history inquiries
+
+ Equal Employment Opportunity (EEO) Policy
+
+ Financial suitability
+
+ New employee probationary period
+
+ Privacy Act
+
+ Reasonable accommodation policy
+
+ Selective Service
+
+ Signature and false statements
+
+ Social security number request
+
+Required Documents
+
+ Help
+
+RESUME: You must submit a resume. Your resume must include your name and contact information and should clearly show your possession of the specialized experience and KSAs so that we can determine your qualifications for this position. Your resume should be specific to the position you are applying for, relating your skills and experience to those noted in the job posting.
+
+Please limit your resume to two pages. If more than two pages are submitted, only the first two pages will be reviewed by Human Resources and the hiring manager to determine your eligibility/qualifications.
+
+PLEASE DO NOT include photographs, hypertext/hyperlinks, or other inappropriate material or content. This information will not be used to make eligibility or qualification determinations.
+
+COVER LETTER (OPTIONAL): Your cover letter should state your interest in this position and the strengths that you feel will make you an asset to the Pension Benefit Guaranty Corporation. We will not use your cover letter to determine your qualifications; however, your cover letter will go to the Selecting Official along with your resume if you are referred.
+
+SF-50 (NOTIFICATION OF PERSONNEL ACTION): All status candidates or reinstatement eligibles must submit an SF-50.
+
+DO NOT submit Award SF-50's and/or General Adjustment SF-50's as they cannot be used to prove time-in-grade.
+
+Submit your most recent NON-AWARD SF-50. The SF-50 must indicate proof of status and should identify your position title, series, grade, step, salary, tenure and type of service (Competitive or Excepted); also include your SF-50 reflecting when you entered your highest grade (e.g. Promotion, Appointment, etc.) in order to verify time-in-grade requirements.
+
+Please note that it may be necessary to submit more than one SF-50 to show that all requirements have been met.
+
+TRANSCRIPT(S) (REQUIRED): This position has a positive education requirement. You must submit transcript to verify that you meet the requirement. Information on the specific education requirement can be found under the Education in the vacancy announcement. Your transcripts should include course titles, school name/location, date completed, grades, and number of credits earned. Applicants who obtained their qualifying education outside of the U.S. and its territories must provide proof that their degrees have been validated as equivalent to a degree conferred by a college or university in the U.S. Unofficial transcripts may be submitted with your application; however, you must bring official transcripts with your first day if you are hired. Please see the Education section of this announcement for additional information.
+
+FOREIGN EDUCATION: If you are using education completed in foreign colleges or universities to meet the qualification requirements, you must show that the education credentials have been evaluated by a private organization that specializes in interpretation of foreign education programs and such education has been deemed equivalent to that gained in an accredited U.S. education program; or full credit has been given for the courses at a U.S. accredited college or university.
+
+Interagency Career Transition Assistance Programs: CTAP and ICTAP candidates must submit documents showing eligibility for selection priority (e.g., RIF separation notice, Certificate of Expected Separation, or other proof of eligibility for priority selection); an SF-50 showing the current (or former) position, grade level, promotion potential, and duty location; and the most current performance appraisal including the performance rating.
+
+Failure to provide all of the required information as stated in this vacancy announcement may result in an ineligible rating or may affect the overall rating.
+
+ If you are relying on your education to meet qualification requirements:
+
+ Education must be accredited by an accrediting institution recognized by the U.S. Department of Education in order for it to be credited towards qualifications. Therefore, provide only the attendance and/or degrees from
+ schools accredited by accrediting institutions recognized by the U.S. Department of Education.
+
+ Failure to provide all of the required information as stated in this vacancy announcement may result in an ineligible rating or may affect the overall rating.
+
+How to Apply
+
+ Help
+
+In order to be considered, submit all of the required information (including your supplemental documentation) before midnight EST on the closing date.
+
+If you are not able to apply online or require reasonable accommodations, contact Cecilia Mendozaon (202) 229-3713or at scd@pbgc.gov no later than 5:00 p.m. on the day before the closing date of this vacancy announcement. If you are deaf, hard of hearing, or have a speech disability, please dial 7-1-1 to access telecommunications relay services.
+
+Please complete all the steps in the online application process at USAJOBS (www.usajobs.gov). You may make updates to your information at any time prior to midnight EST on the closing date of this announcement.
+
+Register with USAJOBS, which will store your information and resume. You will only need to complete this step once.
+
+Locate and review the vacancy announcement on USAJOBS. Click the "Apply" link and then select a resume to submit with your application. If you do not have a resume to select, or you want to upload a new one, click "Add Resume" and upload your resume. You can also click "Edit" to edit an already-uploaded resume. Once you have selected a resume, click "Save and Continue."
+
+Add or remove your supporting documents.
+
+Once you have attached your resume and supporting documents, review your application package to ensure that they have been attached, then check the box next to "I acknowledge that I have reviewed my resume and document(s)." Then Click "Save and Continue."
+
+Complete the "Include Personal Information" page and click "Save and Continue,"
+
+On the "Continue Application with Agency" page, read the terms and certify by checking the box if you agree. Then click "Continue to Agency Site." This will take you to the application for the position.
+
+Click "Apply to this Vacancy."
+
+Complete or review the eligibility questions, which determine the types of positions you are eligible for.
+
+Specify which series, grade(s), and location(s) you wish to be considered for.
+
+Complete the online vacancy questions, then click "Finish". You will continue to the Vacancy Documents page.
+
+Review your attached documents from USAJobs. If there are other documents that you need to attach, upload those here as well.
+
+You will then see a summary of your application, including the documents that you submitted. You are strongly encouraged to save or print a copy of this page as proof of submission and receipt of your application and documents.
+
+To finish, click "Submit Application."
+
+ Expand Hide  how to apply
+
+Agency contact information
+
+ PBGC Staffing & Classification Div
+
+Email
+
+ scd@pbgc.gov
+
+Next steps
+
+You are encouraged to complete your USAJOBS personal account completely to receive notifications at each point in the recruiting process. Utilizing this option allows you to review and track the status of your application and receive email notifications from the hiring office.You may check the status of your applications by clicking on the My USAJOBS tab at the USAJOBS website.
+
+ Expand Hide  next steps
+
+Fair and transparent
+
+The Federal hiring process is set up to be fair and transparent. Please read the following guidance.
+
+ Criminal history inquiries
+
+ Equal Employment Opportunity (EEO) Policy
+
+ Financial suitability
+
+ New employee probationary period
+
+ Privacy Act
+
+ Reasonable accommodation policy
+
+ Selective Service
+
+ Signature and false statements
+
+ Social security number request
+
+ Pension Benefit Guaranty Corporation
+
+Are you looking for challenging, compelling, and important work? The Pension Benefit Guaranty Corporation (PBGC) seeks to attract and retain a high-performing and diverse workforce to apply their talents and skills in accounting, auditing, business, finance, law, actuarial science, and information technology. PBGC has a distinguished and vital mission to protect the retirement income of over 31 million Americans in single employer and multiemployer pension plans.
+
+PBGC ranked number two among small agencies for "Best Places to Work in the Federal Government for 2024." PBGC cultivates a diverse and inclusive work environment that promotes collaboration, flexibility, and fairness, so all employees can contribute their full potential to accomplish PBGC's important mission!
+
+Agency contact information
+
+ PBGC Staffing & Classification Div
+
+Email
+
+ scd@pbgc.gov
+
+Summary
+
+This position is located in the Pension Benefit Guaranty Corporation's (PBGC), Office of Policy and External Affairs (OPEA), Policy Research and Analysis Department (PRAD).
+
+More than one selection may be made from this vacancy announcement.
+
+ Learn more about this agency
+
+Overview
+
+ Help
+
+Accepting applications
+
+Location
+
+ Washington, DC
+
+1 vacancy
+
+ No matching locations found.
+
+Work site options
+
+Telework eligible
+
+Yes—as determined by the agency policy.
+
+Remote job
+
+No
+
+Relocation expenses reimbursed
+
+ Yes—Recruitment incentives may be authorized for this position, if applicable.
+
+Salary
+
+ $121,785 - $187,093 per year
+
+Pay scale & grade
+
+GS 13 - 14
+
+Promotion potential
+
+14
+
+ Learn more about pay scale and grade
+
+ Pay scale and grade determines the salary of the job.
+
+Work schedule
+
+Full-time
+
+Travel Required
+
+Occasional travel - You may be expected to travel for this position.
+
+Appointment type
+
+Permanent
+
+Occupations and job series
+
+ 0110 Economist
+
+ 1560 Data Science Series
+
+Supervisory status
+
+No
+
+Federal service type
+
+This job is in the Competitive Service
+
+Represented by a union
+
+Yes
+
+Drug test
+
+No
+
+Security clearance
+
+Other
+
+Position sensitivity and risk
+
+Moderate Risk (MR)
+
+ Jobs require a
+ background check and some require a
+ security clearance. The type depends on the job.
+
+Background check type
+
+ Credentialing
+
+ Suitability/Fitness
+
+Financial disclosure required
+
+No
+
+ Some jobs require
+ financial disclosure to identify conflicts of interests.
+
+Announcement number
+
+OPEA PRAD-RAPI-27-13106007
+
+Control number
+
+891340900
+
+ Previous result
+
+Next result
+
+Your session is about to expire!
+
+ Your USAJOBS session will expire due to inactivity in 8 minutes.
+ Any unsaved data will be lost if you allow the session to expire.
+ Click the button below to continue your session.
+
+ Sign out
+ Stay signed in
+
+ Return to top
+
+USAJOBS is a Opens in a new windowUnited States Office of Personnel Management website.
+
+ (Opens in a new window) OPM on LinkedIn
+
+ (Opens in a new window) OPM YouTube channel
+
+ (Opens in a new window) OPM on X
+
+Opens in a new windowEEO Policy Statement
+
+Opens in a new windowReasonable Accommodation Policy Statement
+
+Veterans Information
+
+Opens in a new windowLegal and Regulatory Guidance
+
+About USAJOBS
+
+Opens in a new windowAccessibility
+
+Opens in a new windowFOIA
+
+Opens in a new windowInspector general
+
+Opens in a new windowNo Fear Act Data
+
+Opens in a new windowPrivacy policy
+
+Opens in a new windowReports and publications
+
+Opens in a new windowTerms and conditions
+
+Opens in a new windowUSA.gov

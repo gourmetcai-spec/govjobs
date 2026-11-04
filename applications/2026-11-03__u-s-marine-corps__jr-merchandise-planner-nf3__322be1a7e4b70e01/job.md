@@ -1,0 +1,668 @@
+# JR MERCHANDISE PLANNER NF3
+
+{
+  "title": "JR MERCHANDISE PLANNER NF3",
+  "requisition_id": "79421",
+  "canonical_url": "https://www.usajobs.gov/job/891369800",
+  "application_url": "https://www.usajobs.gov/job/891369800",
+  "posted_date": "2026-11-03",
+  "posted_date_evidence": "Official JobPosting.datePosted and native PositionStartDate",
+  "close_date": "2026-11-17",
+  "deadline_timezone": "America/New_York",
+  "deadline_time": "23:59",
+  "deadline_source": "https://www.usajobs.gov/job/891369800",
+  "deadline_verified": true,
+  "early_closure_conditions": [],
+  "rolling_cutoff": null,
+  "location": "Quantico, VA",
+  "remote_restrictions": "Offered DMV work location; verify telework/attendance and screening conditions in announcement.",
+  "salary": "Starting at $46,000 Per year (NF 3)",
+  "retrieved_at": "2026-11-04T01:27:13.427519+00:00",
+  "control_number": "891369800",
+  "fit": "Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.",
+  "gaps": "Confirm the announcement-specific specialized experience, grade-equivalent scope and mandatory conditions against your actual work history. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.",
+  "requirements_confirmed_unmet": [],
+  "requirements_unverified": [
+    "Confirm the announcement-specific specialized experience, grade-equivalent scope and mandatory conditions against your actual work history.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "preferred_requirements_note": "See official qualifications/education sections; missing evidence does not establish an unmet requirement.",
+  "hiring_paths": [
+    "Open to the public"
+  ],
+  "open_evidence": "Official announcement downloaded successfully; validThrough and native open-status evidence retained.",
+  "discovery_window": [
+    "2026-09-03",
+    "2026-11-03"
+  ]
+}
+
+## Summary
+
+Marine Corps Community Services (MCCS) is looking for the best and brightest to join our Team!  MCCS is a comprehensive program that supports and enhances the quality of life for Marines, their families, and others in the Marine Corps Community. We offer a team oriented environment comprised of military personnel, civilian employees, contractors and volunteers who keep the organization functioning smoothly and effectively.
+
+## Duties
+
+Develops and ensures accuracy of seasonal merchandise financial plans down to the store level in the Statistical Analysis System or SAS, the internal planning system based on agreed upon goals with the Buyer, Divisional Merchandise Manager and General Merchandise Manager (GMM).
+Partners with Merchandising team in planning and developing strategy for the merchandise financial plans to include sales volume, inventory turn, gross margins, receipts, markdowns, and markups.
+Leads the Merchandising team through the weekly and monthly Open-to-Buy process to review current business in relation to the merchandise financial plan. Provides recommendations to improve business conditions regarding sales and inventory while analyzing trends and forecasting appropriately.
+Works with the merchandising staff to initiate in-season financial plan revisions in response to positive or negative trends in business.
+Oversees the markdown process to include prior month forecasting, in-month management and future season forecasts by department and at the total level.
+Works with the Merchandising staff to appropriately address issues affecting profitability throughout the season to include markdowns, shrink, initial markups, etc.
+Works with business operations and the merchandising staff to ensure the new store/remodel process is planned with appropriate assortments on the front-end.
+Develop Assortment Plans and works with the merchandising staff to develop and review stock assortment to compare against historical performance and future trends. Provides output documents and buy plans to assist merchandising staff with purchases.
+Executes reporting that provides senior management with snapshots of actual performance by all plan components on a daily/weekly/monthly basis.
+Gathers pertinent data to evaluate needs; conducts historical and trend research, reviews reports, and directives.  Conducts and organizes portions of analytical studies and analyses for MCCS retail programs and services. Make recommendations on corrective actions and conduct follow-up meetings.
+Works with Replenishment Analysts and Planogram Specialists to ensure accuracy and appropriate execution of replenishment and planograms in accordance with financial goals.  Reviews initial product category setup of automatic replenishment as well as periodic maintenance reviews and call to attention any significant variances that would risk plan achievement. Conducts presentations using a variety of techniques and methods.  Prepares correspondence, briefs, action documents, routing sheets, point papers, slide presentations and training sessions.
+Provides World Class Customer Service with an emphasis on courtesy. Assists partners and communicates positively in a friendly manner. Take action to solve problems quickly.  Alerts the higher-level supervisor, or proper point of contact for help when problems arise. Adheres to safety regulations and standards.  Promptly reports any observed workplace hazards, and any injury, occupational illness, and/or property damage resulting from workplace mishaps to the immediate supervisor.  Adheres to established standards of actively supporting the principles of the EEO program and prevention of sexual harassment.
+May work a fluctuating work schedule to complete work assignments outside of the typical work week and work hours.
+Performs other related duties as assigned.
+
+## Qualifications
+
+At least one year of experience demonstrating the execution of pre-season merchandise plans, departmental open to buys and analysis against all merchandise plan components throughout a fiscal year.  kill to plan and develop pre-season strategy for seasonal merchandise financial plans to include reference sales volume, inventory turn, gross margins, receipts, markdowns, and markups.
+Ability to become familiar and comply with DoD, Department of the Navy, and Marine Corps directives, policies, and regulations covering retail operations.  Intermediate working knowledge of Microsoft Office software including Excel, Word, and Power Point.
+
+## Education
+
+
+
+## Full rendered official announcement
+
+USAJOBS - Job Announcement
+
+ Skip to main content
+
+ An official website of the United States government
+
+Official websites use .gov
+
+A .gov website belongs to an official government organization in the United States.
+
+Secure .gov websites use HTTPS
+ A lock ( LockA locked padlock ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.
+
+ MENU
+
+ Sign in
+
+ My jobs
+
+ Profile
+
+ Resumes & documents
+
+ Notifications
+
+ Talent networks
+
+ Sign out
+
+ My jobs
+
+ Profile
+
+ Resumes & documents
+
+ Notifications
+
+ Talent networks
+
+ Sign out
+
+ Events
+
+ Help Center
+
+ Search
+
+ Back to results
+
+ JR MERCHANDISE PLANNER NF3
+
+Department of the Navy
+
+U.S. Marine Corps
+
+BUSINESS AND SUPPORT SERVICES
+
+ Print
+
+ Share
+
+ Save
+
+ Summary
+
+ This job is open to
+
+ Duties
+
+ Requirements
+
+ How you will be evaluated
+
+ Required documents
+
+ How to apply
+
+Summary
+
+Marine Corps Community Services (MCCS) is looking for the best and brightest to join our Team! MCCS is a comprehensive program that supports and enhances the quality of life for Marines, their families, and others in the Marine Corps Community. We offer a team oriented environment comprised of military personnel, civilian employees, contractors and volunteers who keep the organization functioning smoothly and effectively.
+
+ Learn more about this agency
+
+Summary
+
+Marine Corps Community Services (MCCS) is looking for the best and brightest to join our Team! MCCS is a comprehensive program that supports and enhances the quality of life for Marines, their families, and others in the Marine Corps Community. We offer a team oriented environment comprised of military personnel, civilian employees, contractors and volunteers who keep the organization functioning smoothly and effectively.
+
+ Learn more about this agency
+
+Overview
+
+ Help
+
+Accepting applications
+
+Location
+
+1 vacancy in the following location:
+
+ Quantico, VA
+
+1 vacancy
+
+ No matching locations found.
+
+Work site options
+
+Telework eligible
+
+No
+
+Relocation expenses reimbursed
+
+ No
+
+Salary
+
+ $46,000 - $66,000 per year
+
+Pay scale & grade
+
+NF 03
+
+Promotion potential
+
+NA
+
+ Learn more about pay scale and grade
+
+ Pay scale and grade determines the salary of the job.
+
+Work schedule
+
+Full-time
+
+Travel Required
+
+25% or less - Varies
+
+Appointment type
+
+Permanent - Regular
+
+Occupations and job series
+
+ 0343 Management And Program Analysis
+
+Supervisory status
+
+No
+
+Federal service type
+
+This job is in the Competitive Service
+
+Drug test
+
+No
+
+Security clearance
+
+Not Required
+
+Announcement number
+
+79421
+
+Control number
+
+891369800
+
+This job is open to
+
+ Help
+
+The public
+
+ U.S. Citizens, Nationals or those who owe allegiance to the U.S.
+
+Clarification from the agency
+
+Open to Public
+
+Duties
+
+ Help
+
+Develops and ensures accuracy of seasonal merchandise financial plans down to the store level in the Statistical Analysis System or SAS, the internal planning system based on agreed upon goals with the Buyer, Divisional Merchandise Manager and General Merchandise Manager (GMM).
+Partners with Merchandising team in planning and developing strategy for the merchandise financial plans to include sales volume, inventory turn, gross margins, receipts, markdowns, and markups.
+Leads the Merchandising team through the weekly and monthly Open-to-Buy process to review current business in relation to the merchandise financial plan. Provides recommendations to improve business conditions regarding sales and inventory while analyzing trends and forecasting appropriately.
+Works with the merchandising staff to initiate in-season financial plan revisions in response to positive or negative trends in business.
+Oversees the markdown process to include prior month forecasting, in-month management and future season forecasts by department and at the total level.
+Works with the Merchandising staff to appropriately address issues affecting profitability throughout the season to include markdowns, shrink, initial markups, etc.
+Works with business operations and the merchandising staff to ensure the new store/remodel process is planned with appropriate assortments on the front-end.
+Develop Assortment Plans and works with the merchandising staff to develop and review stock assortment to compare against historical performance and future trends. Provides output documents and buy plans to assist merchandising staff with purchases.
+Executes reporting that provides senior management with snapshots of actual performance by all plan components on a daily/weekly/monthly basis.
+Gathers pertinent data to evaluate needs; conducts historical and trend research, reviews reports, and directives.  Conducts and organizes portions of analytical studies and analyses for MCCS retail programs and services. Make recommendations on corrective actions and conduct follow-up meetings.
+Works with Replenishment Analysts and Planogram Specialists to ensure accuracy and appropriate execution of replenishment and planograms in accordance with financial goals.  Reviews initial product category setup of automatic replenishment as well as periodic maintenance reviews and call to attention any significant variances that would risk plan achievement. Conducts presentations using a variety of techniques and methods.  Prepares correspondence, briefs, action documents, routing sheets, point papers, slide presentations and training sessions.
+Provides World Class Customer Service with an emphasis on courtesy. Assists partners and communicates positively in a friendly manner. Take action to solve problems quickly.  Alerts the higher-level supervisor, or proper point of contact for help when problems arise. Adheres to safety regulations and standards.  Promptly reports any observed workplace hazards, and any injury, occupational illness, and/or property damage resulting from workplace mishaps to the immediate supervisor.  Adheres to established standards of actively supporting the principles of the EEO program and prevention of sexual harassment.
+May work a fluctuating work schedule to complete work assignments outside of the typical work week and work hours.
+Performs other related duties as assigned.
+
+Requirements
+
+ Help
+
+Conditions of employment
+
+See Duties and Qualifications
+
+ EVALUATIONS:
+
+Qualifications
+
+At least one year of experience demonstrating the execution of pre-season merchandise plans, departmental open to buys and analysis against all merchandise plan components throughout a fiscal year.  kill to plan and develop pre-season strategy for seasonal merchandise financial plans to include reference sales volume, inventory turn, gross margins, receipts, markdowns, and markups.
+Ability to become familiar and comply with DoD, Department of the Navy, and Marine Corps directives, policies, and regulations covering retail operations.  Intermediate working knowledge of Microsoft Office software including Excel, Word, and Power Point.
+
+Additional information
+
+GENERAL INFORMATION: Applicants are assured of equal consideration regardless of race, age, color, religion, national origin, sex, GINA, political affiliation, membership or non-membership in an employee organization, marital status, physical handicap which has no bearing on the ability to perform the duties of the position. This agency provides reasonable accommodations to applicants with disabilities. If you need a reasonable accommodation for any part of the application and hiring process, please notify the agency. The decision on granting reasonable accommodation will be on a case-by-case basis.
+It is Department of Navy (DON) policy to provide a workplace free of discrimination and retaliation. The DON No Fear Act policy link is provided for your review: https://www.secnav.navy.mil/donhr/Site/Pages/No-Fear-Act.aspx
+As part of the employment process, Human Resources Division may obtain a Criminal Record Check and/or an Investigative Consumer Report. Employment is contingent upon the successful completion of a National Agency Check and Inquiries (NACI). For all positions requiring access to firearms or ammunition, the Federal Government is prohibited from employing individuals in these positions who have ever been convicted of a misdemeanor crime of domestic violence, or a felony crime of domestic violence adjudged on or after 27 November 2002. Selectees for such positions must submit a completed DD Form 2760, Qualification to Possess Firearms or Ammunition, before a final job offer can be made.
+Direct Deposit of total NET pay is mandatory as a condition of employment for all appointments to positions within MCCS.
+Required Documents:
+           *Education/certification certificate(s), if applicable.
+           *If prior military, DD214 Member Copy
+           *Resume that does not exceed 2 pages
+           **IMPORTANT: To align with the Merit Hiring Plan, Federal Agencies will not accept resumes that exceed two pages. Accordingly, the NAF HRO will only consider resumes that are two pages or fewer. Resumes exceeding this limit will not be referred and will be deemed ineligible for consideration.
+This activity is a Drug-free workplace. The use of illegal drugs by NAF employees, whether on or off duty, cannot and will not be tolerated. Federal employees have a right to a safe and secure workplace, and Marines, sailors, and their family members have a right to a reliable and productive Federal workforce.
+Involuntarily separated members of the armed forces and eligible family members applying through the Transition Assistance Program must submit a written request/statement (may be obtained from the MCCS Human Resources Office) and present ID card with "TA" stamped in red on front of card.
+INDIVIDUALS SELECTED FROM THIS ANNOUNCEMENT MAY BE CHANGED TO PART-TIME OR FULL-TIME AT MANAGEMENT'S DISCRETION WITHOUT FURTHER COMPETITION.
+ALL ONLINE APPLICATIONS MUST BE RECEIVED BY 1159PM EASTERN TIME (ET) ON THE CLOSING DATE LISTED IN THE JOB POSTING.
+
+ Expand Hide  additional information
+
+Candidates should be committed to improving the efficiency of the Federal government, passionate about the ideals of our American republic, and committed to upholding the rule of law and the United States Constitution.
+
+Benefits
+
+ Help
+
+ A career with the U.S. government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding. Opens in a new windowLearn more about federal benefits.
+
+The Federal government offers a number of exceptional benefits to its employees. Benefits you get to enjoy while working at MCCS include but are not limited to:
+•      Stability of Federal Civilian Service
+•      People with passion for doing work that matters
+•      Quality of Work Life Balance
+•      Competitive Pay
+•      Comprehensive Benefit Packages
+•      Marine Corps Exchange and Base Facility Privileges
+
+ Review our benefits
+
+Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time or intermittent. Contact the hiring agency for more information on the specific benefits offered.
+
+How you will be evaluated
+
+You will be evaluated for this job based on how well you meet the qualifications above.
+
+ Your application/resume and supporting documentation will be used to determine whether you meet the job qualifications listed on this announcement. This vacancy will be filled by the best qualified applicant as determined by the selecting official.
+
+Benefits
+
+ Help
+
+ A career with the U.S. government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding. Opens in a new windowLearn more about federal benefits.
+
+The Federal government offers a number of exceptional benefits to its employees. Benefits you get to enjoy while working at MCCS include but are not limited to:
+•      Stability of Federal Civilian Service
+•      People with passion for doing work that matters
+•      Quality of Work Life Balance
+•      Competitive Pay
+•      Comprehensive Benefit Packages
+•      Marine Corps Exchange and Base Facility Privileges
+
+ Review our benefits
+
+Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time or intermittent. Contact the hiring agency for more information on the specific benefits offered.
+
+Required documents
+
+Required Documents
+
+ Help
+
+ Varies - Review "OTHER INFORMATION"
+
+ If you are relying on your education to meet qualification requirements:
+
+ Education must be accredited by an accrediting institution recognized by the U.S. Department of Education in order for it to be credited towards qualifications. Therefore, provide only the attendance and/or degrees from
+ schools accredited by accrediting institutions recognized by the U.S. Department of Education.
+
+ Failure to provide all of the required information as stated in this vacancy announcement may result in an ineligible rating or may affect the overall rating.
+
+How to Apply
+
+ Help
+
+All applications must be submitted online via the MCCS Careers website.
+Resumes/applications emailed or mailed will not be considered for this vacancy announcement.  To be considered for employment, the application or resume must be submitted online by 11:59 PM (ET) on the closing date of the announcement. Resume with personal photo will not be considered for this vacancy.
+Note: To check the status of your application or return to a previous or incomplete application, log into your MCCS user account and review your application status.
+
+Agency contact information
+
+ BUSINESS AND SUPPORT SERVICES
+
+Phone
+
+ 703/432-0435
+
+Email
+
+ hqhr.vacancies@usmc-mccs.org
+
+Address
+
+ BUSINESS AND SUPPORT SERVICES
+
+ DIVISION
+
+3044 CATLIN AVE
+
+ QUANTICO, VA 22134-5003
+
+ USA
+
+Next steps
+
+All applicants who submit an application via our Careers page at https://careers.usmc-mccs.org will be able to view their application status online.
+
+Fair and transparent
+
+The Federal hiring process is set up to be fair and transparent. Please read the following guidance.
+
+ Criminal history inquiries
+
+ Equal Employment Opportunity (EEO) Policy
+
+ Financial suitability
+
+ New employee probationary period
+
+ Privacy Act
+
+ Reasonable accommodation policy
+
+ Selective Service
+
+ Signature and false statements
+
+ Social security number request
+
+Required Documents
+
+ Help
+
+ Varies - Review "OTHER INFORMATION"
+
+ If you are relying on your education to meet qualification requirements:
+
+ Education must be accredited by an accrediting institution recognized by the U.S. Department of Education in order for it to be credited towards qualifications. Therefore, provide only the attendance and/or degrees from
+ schools accredited by accrediting institutions recognized by the U.S. Department of Education.
+
+ Failure to provide all of the required information as stated in this vacancy announcement may result in an ineligible rating or may affect the overall rating.
+
+How to Apply
+
+ Help
+
+All applications must be submitted online via the MCCS Careers website.
+Resumes/applications emailed or mailed will not be considered for this vacancy announcement.  To be considered for employment, the application or resume must be submitted online by 11:59 PM (ET) on the closing date of the announcement. Resume with personal photo will not be considered for this vacancy.
+Note: To check the status of your application or return to a previous or incomplete application, log into your MCCS user account and review your application status.
+
+ Expand Hide  how to apply
+
+Agency contact information
+
+ BUSINESS AND SUPPORT SERVICES
+
+Phone
+
+ 703/432-0435
+
+Email
+
+ hqhr.vacancies@usmc-mccs.org
+
+Address
+
+ BUSINESS AND SUPPORT SERVICES
+
+ DIVISION
+
+3044 CATLIN AVE
+
+ QUANTICO, VA 22134-5003
+
+ USA
+
+Next steps
+
+All applicants who submit an application via our Careers page at https://careers.usmc-mccs.org will be able to view their application status online.
+
+ Expand Hide  next steps
+
+Fair and transparent
+
+The Federal hiring process is set up to be fair and transparent. Please read the following guidance.
+
+ Criminal history inquiries
+
+ Equal Employment Opportunity (EEO) Policy
+
+ Financial suitability
+
+ New employee probationary period
+
+ Privacy Act
+
+ Reasonable accommodation policy
+
+ Selective Service
+
+ Signature and false statements
+
+ Social security number request
+
+ U.S. Marine Corps
+
+ Serving Those Who Serve
+
+Agency contact information
+
+ BUSINESS AND SUPPORT SERVICES
+
+Phone
+
+ 703/432-0435
+
+Email
+
+ hqhr.vacancies@usmc-mccs.org
+
+Address
+
+ BUSINESS AND SUPPORT SERVICES
+
+ DIVISION
+
+3044 CATLIN AVE
+
+ QUANTICO, VA 22134-5003
+
+ USA
+
+Visit our careers page
+
+ Learn more about what it's like to work at U.S. Marine Corps, what the agency does, and about the types of careers this agency offers.
+
+ https://careers.usmc-mccs.org
+
+Summary
+
+Marine Corps Community Services (MCCS) is looking for the best and brightest to join our Team! MCCS is a comprehensive program that supports and enhances the quality of life for Marines, their families, and others in the Marine Corps Community. We offer a team oriented environment comprised of military personnel, civilian employees, contractors and volunteers who keep the organization functioning smoothly and effectively.
+
+ Learn more about this agency
+
+Overview
+
+ Help
+
+Accepting applications
+
+Location
+
+1 vacancy in the following location:
+
+ Quantico, VA
+
+1 vacancy
+
+ No matching locations found.
+
+Work site options
+
+Telework eligible
+
+No
+
+Relocation expenses reimbursed
+
+ No
+
+Salary
+
+ $46,000 - $66,000 per year
+
+Pay scale & grade
+
+NF 03
+
+Promotion potential
+
+NA
+
+ Learn more about pay scale and grade
+
+ Pay scale and grade determines the salary of the job.
+
+Work schedule
+
+Full-time
+
+Travel Required
+
+25% or less - Varies
+
+Appointment type
+
+Permanent - Regular
+
+Occupations and job series
+
+ 0343 Management And Program Analysis
+
+Supervisory status
+
+No
+
+Federal service type
+
+This job is in the Competitive Service
+
+Drug test
+
+No
+
+Security clearance
+
+Not Required
+
+Announcement number
+
+79421
+
+Control number
+
+891369800
+
+ Previous result
+
+Next result
+
+Your session is about to expire!
+
+ Your USAJOBS session will expire due to inactivity in 8 minutes.
+ Any unsaved data will be lost if you allow the session to expire.
+ Click the button below to continue your session.
+
+ Sign out
+ Stay signed in
+
+ Return to top
+
+USAJOBS is a Opens in a new windowUnited States Office of Personnel Management website.
+
+ (Opens in a new window) OPM on LinkedIn
+
+ (Opens in a new window) OPM YouTube channel
+
+ (Opens in a new window) OPM on X
+
+Opens in a new windowEEO Policy Statement
+
+Opens in a new windowReasonable Accommodation Policy Statement
+
+Veterans Information
+
+Opens in a new windowLegal and Regulatory Guidance
+
+About USAJOBS
+
+Opens in a new windowAccessibility
+
+Opens in a new windowFOIA
+
+Opens in a new windowInspector general
+
+Opens in a new windowNo Fear Act Data
+
+Opens in a new windowPrivacy policy
+
+Opens in a new windowReports and publications
+
+Opens in a new windowTerms and conditions
+
+Opens in a new windowUSA.gov

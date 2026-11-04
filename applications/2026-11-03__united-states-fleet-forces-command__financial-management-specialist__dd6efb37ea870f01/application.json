@@ -1,0 +1,81 @@
+{
+  "title": "Financial Management Specialist",
+  "requisition_id": "ST-13107268-27-LE",
+  "canonical_url": "https://www.usajobs.gov/job/891219100",
+  "application_url": "https://www.usajobs.gov/job/891219100",
+  "posted_date": "2026-11-03",
+  "posted_date_evidence": "Official JobPosting.datePosted and native PositionStartDate",
+  "close_date": "2026-11-16",
+  "deadline_timezone": null,
+  "deadline_time": null,
+  "deadline_source": "https://www.usajobs.gov/job/891219100",
+  "deadline_verified": true,
+  "early_closure_conditions": [],
+  "rolling_cutoff": null,
+  "location": "Fort Meade Naval Facilities, MD",
+  "remote_restrictions": "Offered DMV work location; verify telework/attendance and screening conditions in announcement.",
+  "salary": "Starting at $102,415 Per year (GG 12)",
+  "retrieved_at": "2026-11-04T01:27:13.427519+00:00",
+  "control_number": "891219100",
+  "fit": "Financial forecasting, capital/ROE, quantitative risk and engineering leadership overlap; federal budget/accounting/policy specialties remain attention items.",
+  "gaps": "Hiring-path eligibility unverified: Internal to an agency. Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.",
+  "requirements_confirmed_unmet": [],
+  "requirements_unverified": [
+    "Hiring-path eligibility unverified: Internal to an agency. Confirm qualifying status before application; absence from baseline is not proof of ineligibility.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "preferred_requirements_note": "See official qualifications/education sections; missing evidence does not establish an unmet requirement.",
+  "hiring_paths": [
+    "Internal to an agency"
+  ],
+  "open_evidence": "Official announcement downloaded successfully; validThrough and native open-status evidence retained.",
+  "discovery_window": [
+    "2026-09-03",
+    "2026-11-03"
+  ],
+  "employer": "United States Fleet Forces Command",
+  "status": "needs_verification",
+  "aliases": [],
+  "id": "dd6efb37ea870f01",
+  "application_directory": "applications/2026-11-03__united-states-fleet-forces-command__financial-management-specialist__dd6efb37ea870f01",
+  "step": 1,
+  "selected": false,
+  "submitted": false,
+  "artifacts": {
+    "resume_markdown": {
+      "path": "applications/2026-11-03__united-states-fleet-forces-command__financial-management-specialist__dd6efb37ea870f01/resume-xuewu-cai__united-states-fleet-forces-command__financial-management-specialist__891219100.md",
+      "sha256": "7fcf568f994f7d3fa501248416c3b7319c8c4ebb15e1be95f4f3048ada87c744"
+    },
+    "resume_pdf": {
+      "path": "applications/2026-11-03__united-states-fleet-forces-command__financial-management-specialist__dd6efb37ea870f01/resume-xuewu-cai__united-states-fleet-forces-command__financial-management-specialist__891219100.pdf",
+      "sha256": "2a4563730a75a32a4b6ea08a4935748e06bd971712712df9b409181d9b7974d3"
+    }
+  },
+  "artifact_versions": [
+    {
+      "revision_id": "2026-11-04T01:27:13.427519+00:00",
+      "artifacts": {
+        "resume_markdown": {
+          "path": "applications/2026-11-03__united-states-fleet-forces-command__financial-management-specialist__dd6efb37ea870f01/resume-xuewu-cai__united-states-fleet-forces-command__financial-management-specialist__891219100.md",
+          "sha256": "7fcf568f994f7d3fa501248416c3b7319c8c4ebb15e1be95f4f3048ada87c744"
+        },
+        "resume_pdf": {
+          "path": "applications/2026-11-03__united-states-fleet-forces-command__financial-management-specialist__dd6efb37ea870f01/resume-xuewu-cai__united-states-fleet-forces-command__financial-management-specialist__891219100.pdf",
+          "sha256": "2a4563730a75a32a4b6ea08a4935748e06bd971712712df9b409181d9b7974d3"
+        }
+      },
+      "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a"
+    }
+  ],
+  "resume_status": "prepared_with_attention",
+  "resume_review": "Two rendered pages reviewed; all 77 distinct page images inspected across seven boards covering 166 pages. Text bounds, all 20 baseline experience bullets, updated title, neutral metadata and artifact hashes passed. Candidate qualifications remain unverified.",
+  "required_answers_pending": [
+    "Hiring-path eligibility unverified: Internal to an agency. Confirm qualifying status before application; absence from baseline is not proof of ineligibility.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "confirmed_unmet_requirements": [],
+  "qualifications_verified": false,
+  "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a",
+  "resume_format": "restored_two_page",
+  "current_resume_naming": "unversioned"
+}

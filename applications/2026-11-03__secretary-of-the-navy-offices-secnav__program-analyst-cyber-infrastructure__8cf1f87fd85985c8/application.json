@@ -1,0 +1,87 @@
+{
+  "title": "PROGRAM ANALYST (CYBER INFRASTRUCTURE)",
+  "requisition_id": "ST-13094938-27-LSH",
+  "canonical_url": "https://www.usajobs.gov/job/889812300",
+  "application_url": "https://www.usajobs.gov/job/889812300",
+  "posted_date": "2026-10-26",
+  "posted_date_evidence": "Official JobPosting.datePosted and native PositionStartDate",
+  "close_date": "2026-11-03",
+  "deadline_timezone": "America/New_York",
+  "deadline_time": "23:59",
+  "deadline_source": "https://www.usajobs.gov/job/889812300",
+  "deadline_verified": true,
+  "early_closure_conditions": [],
+  "rolling_cutoff": null,
+  "location": "Pentagon, Arlington, VA",
+  "remote_restrictions": "Offered DMV work location; verify telework/attendance and screening conditions in announcement.",
+  "salary": "Starting at $143,913 Per year (GS 14)",
+  "retrieved_at": "2026-11-04T01:27:13.427519+00:00",
+  "control_number": "889812300",
+  "fit": "Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.",
+  "gaps": "Hiring-path eligibility unverified: Internal to an agency, Career transition (CTAP, ICTAP, RPL), Land and base management, Veterans, Military spouses, Individuals with disabilities, Special authorities. Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.",
+  "requirements_confirmed_unmet": [],
+  "requirements_unverified": [
+    "Hiring-path eligibility unverified: Internal to an agency, Career transition (CTAP, ICTAP, RPL), Land and base management, Veterans, Military spouses, Individuals with disabilities, Special authorities. Confirm qualifying status before application; absence from baseline is not proof of ineligibility.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "preferred_requirements_note": "See official qualifications/education sections; missing evidence does not establish an unmet requirement.",
+  "hiring_paths": [
+    "Internal to an agency",
+    "Career transition (CTAP, ICTAP, RPL)",
+    "Land and base management",
+    "Veterans",
+    "Military spouses",
+    "Individuals with disabilities",
+    "Special authorities"
+  ],
+  "open_evidence": "Official announcement downloaded successfully; validThrough and native open-status evidence retained.",
+  "discovery_window": [
+    "2026-09-03",
+    "2026-11-03"
+  ],
+  "employer": "Secretary of the Navy Offices (SECNAV)",
+  "status": "needs_verification",
+  "aliases": [],
+  "id": "8cf1f87fd85985c8",
+  "application_directory": "applications/2026-11-03__secretary-of-the-navy-offices-secnav__program-analyst-cyber-infrastructure__8cf1f87fd85985c8",
+  "step": 1,
+  "selected": false,
+  "submitted": false,
+  "artifacts": {
+    "resume_markdown": {
+      "path": "applications/2026-11-03__secretary-of-the-navy-offices-secnav__program-analyst-cyber-infrastructure__8cf1f87fd85985c8/resume-xuewu-cai__secretary-of-the-navy-offices-secnav__program-analyst-cyber-infrastructure__889812300.md",
+      "sha256": "c14d9ebdc600206afe7b0f1b470b9553ae3fbc314f71743b38e1189ae221b5b8"
+    },
+    "resume_pdf": {
+      "path": "applications/2026-11-03__secretary-of-the-navy-offices-secnav__program-analyst-cyber-infrastructure__8cf1f87fd85985c8/resume-xuewu-cai__secretary-of-the-navy-offices-secnav__program-analyst-cyber-infrastructure__889812300.pdf",
+      "sha256": "5637ded8506c52634b64795a00a1625f86b8e9222546ad2cf6d8b6b180d3ac10"
+    }
+  },
+  "artifact_versions": [
+    {
+      "revision_id": "2026-11-04T01:27:13.427519+00:00",
+      "artifacts": {
+        "resume_markdown": {
+          "path": "applications/2026-11-03__secretary-of-the-navy-offices-secnav__program-analyst-cyber-infrastructure__8cf1f87fd85985c8/resume-xuewu-cai__secretary-of-the-navy-offices-secnav__program-analyst-cyber-infrastructure__889812300.md",
+          "sha256": "c14d9ebdc600206afe7b0f1b470b9553ae3fbc314f71743b38e1189ae221b5b8"
+        },
+        "resume_pdf": {
+          "path": "applications/2026-11-03__secretary-of-the-navy-offices-secnav__program-analyst-cyber-infrastructure__8cf1f87fd85985c8/resume-xuewu-cai__secretary-of-the-navy-offices-secnav__program-analyst-cyber-infrastructure__889812300.pdf",
+          "sha256": "5637ded8506c52634b64795a00a1625f86b8e9222546ad2cf6d8b6b180d3ac10"
+        }
+      },
+      "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a"
+    }
+  ],
+  "resume_status": "prepared_with_attention",
+  "resume_review": "Two rendered pages reviewed; all 77 distinct page images inspected across seven boards covering 166 pages. Text bounds, all 20 baseline experience bullets, updated title, neutral metadata and artifact hashes passed. Candidate qualifications remain unverified.",
+  "required_answers_pending": [
+    "Hiring-path eligibility unverified: Internal to an agency, Career transition (CTAP, ICTAP, RPL), Land and base management, Veterans, Military spouses, Individuals with disabilities, Special authorities. Confirm qualifying status before application; absence from baseline is not proof of ineligibility.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "confirmed_unmet_requirements": [],
+  "qualifications_verified": false,
+  "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a",
+  "resume_format": "restored_two_page",
+  "current_resume_naming": "unversioned"
+}

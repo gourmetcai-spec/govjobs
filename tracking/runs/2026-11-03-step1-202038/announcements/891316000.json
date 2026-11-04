@@ -1,0 +1,32 @@
+{
+  "@context": "http://www.schema.org",
+  "@type": "JobPosting",
+  "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": {
+      "@type": "QuantitativeValue",
+      "value": 143913.0,
+      "unitText": "YEAR"
+    }
+  },
+  "datePosted": "10/26/2026",
+  "description": "6-12 month non-reimbursable assignment. <b>The only compensation for this assignment is the federal salary you are already receiving.</b><br>\nCISA<br>\nSenior ICAM Technical Lead<br>\nSeries Requested: TCT-II Staff Cybersecurity Specialist or 2210<br>\nSecurity Clearance: Public Trust<br>\nVirtual/Remote: No<br>\nOnly current, full-time federal employees are eligible.<br>\nResumes are reviewed every 30 days until selection/closing date.<br>\nThis is a Detail, not a Developmental Rotation.<br>\nSupervisory approval form must be signed.<br>",
+  "educationRequirements": "<strong>EDUCATIONAL SUBSTITUTION:</strong> There is no educational substitution for this position.",
+  "employmentType": "OTHER",
+  "hiringOrganization": "Department of Homeland Security Headquarters",
+  "jobLocation": [
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Arlington",
+        "addressRegion": "VA "
+      }
+    }
+  ],
+  "responsibilities": "Provides senior technical leadership for enterprise ICAM programs, including identity governance, privileged access management, authentication, federation, and Zero Trust initiatives.<br>\n<br>\nCollaborates across organizations to develop strategy, modernize identity services, implement secure access solutions, and advance cybersecurity capabilities supporting mission and enterprise objectives.",
+  "qualifications": "<strong>Qualifications required:</strong>\n<ol>\n\t<li>10+ years of cybersecurity, IAM, or ICAM experience.</li>\n\t<li>Experience leading enterprise identity modernization initiatives.</li>\n\t<li>Experience operating in federal environments.</li>\n\t<li>Experience serving as a technical lead, architect, or senior engineer.</li>\n\t<li>Demonstrated ownership of strategy, roadmap development, and execution.</li>\n\t<li>Experience supporting federal cybersecurity, Zero Trust, and compliance requirements.</li>\n\t<li>Core ICAM Technical Expertise Required in Areas of: Identity Governance & Administration (IGA); Privileged Access Management (PAM); Access Management and Federation; Authentication and MFA; PKI and Certificate Management; Credential Lifecycle Management; Role-Based and Attribute-Based Access Control; Zero Trust Architecture.</li>\n\t<li>Technologies which must have strong hands on experience: Microsoft Entra ID; Okta; SailPoint / IGA; CyberArk / PAM; PKI and certificate services; Federation (SAML, OIDC, OAuth); Zero Trust identity architectures; Lightweight Directory Access Protocol; Cloud identity services (Azure, AWS)</li>\n\t<li>Certifications Required (at least one of the following): Certified Identity and Access Management (CIAM); Certified Information Systems Security Professional (CISSP); CompTIA Security +</li>\n\t<li>Competencies: Define technical roadmaps; Lead cross-functional teams without formal supervisory authority; Oversee modernization efforts; Mentor engineers and administrators; Communicate effectively with senior leadership and executive stakeholders; Drive automation and process improvement; Translate mission requirements into technical solutions</li>\n</ol>\n<b>Please read the following important information to ensure we have everything we need to consider your application:</b><br>\nIt is your responsibility to ensure that you submit appropriate documentation prior to the closing date. Your resume serves as the basis for qualification determinations and must highlight your most relevant and significant experience as it relates to this Joint Duty assignment opportunity announcement.<br>\n<br>\nBe clear and specific when describing your work history since human resources cannot make assumptions regarding your experience. Your application will be rated based on your resume.<br>\n<br>\n<b>Please ensure EACH work history includes ALL of the following information:</b>\n\n<ol>\n\t<li>Job Title (Include series and grade of Federal Job)</li>\n\t<li>Duties (Be specific in describing your duties)</li>\n\t<li>Name of Federal agency</li>\n\t<li>Supervisor name, email, and phone number</li>\n\t<li>Start and end dates including month and year (e.g. June 2007 to April 2008)</li>\n</ol>",
+  "title": "Senior ICAM Technical Lead",
+  "validThrough": "2027-04-25"
+}

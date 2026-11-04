@@ -12,6 +12,17 @@
       "sha256": "6abbe87579575dfccfe931ec8f79b06021a3e1c40bd35b707f3c312922ffde3e"
     },
     {
+      "id": "b18c6406641a1530",
+      "employer": "Air Combat Command",
+      "title": "IT CYBERSECURITY SPECIALIST (SYSANALYSIS/NETWORK)",
+      "status": "needs_verification",
+      "resume_status": "prepared_with_attention",
+      "version_label": "current",
+      "source": "applications/2026-11-03__air-combat-command__it-cybersecurity-specialist-sysanalysis-network__b18c6406641a1530/resume-xuewu-cai__air-combat-command__it-cybersecurity-specialist-sysanalysis-network__891290800.pdf",
+      "path": "resumes/b18c6406641a1530__resume-xuewu-cai__air-combat-command__it-cybersecurity-specialist-sysanalysis-network__891290800.pdf",
+      "sha256": "afe248a7085f511ddf98d378fe0e28092054bc6ce4c9916ebd0de8a75852a13c"
+    },
+    {
       "id": "ad591bc1dc25f6c5",
       "employer": "Air Force Civilian Career Training",
       "title": "Computer Scientist",
@@ -70,7 +81,7 @@
       "id": "d1d8504c423b7a72",
       "employer": "Air Force District of Washington",
       "title": "SUPERVISORY IT SPECIALIST (PLCYPLN/ENTARCH)",
-      "status": "needs_verification",
+      "status": "closed",
       "resume_status": "prepared_with_attention",
       "version_label": "current",
       "source": "applications/2026-11-02__air-force-district-of-washington__supervisory-it-specialist-plcypln-entarch__d1d8504c423b7a72/resume-xuewu-cai__air-force-district-of-washington__supervisory-it-specialist-plcypln-entarch__889585100.pdf",
@@ -109,6 +120,281 @@
       "source": "applications/2026-11-01__architect-of-the-capitol__business-financial-analyst__412d3b1f8d050ddc/resume-xuewu-cai__architect-of-the-capitol__business-financial-analyst__889349900.pdf",
       "path": "resumes/412d3b1f8d050ddc__resume-xuewu-cai__architect-of-the-capitol__business-financial-analyst__889349900.pdf",
       "sha256": "7d80893c525b22dbc3a3006a15b370c47580f6e8fe4f2f075b21e57bec537677"
+    },
+    {
+      "id": "3aa986eb85c024ef",
+      "employer": "Board of Governors of the Federal Reserve System",
+      "title": "Business Management Analyst, Office of Deputy Director, Regulation & Policy - Division of Supervision & Regulation",
+      "status": "needs_verification",
+      "resume_status": "prepared_with_attention",
+      "version_label": "current",
+      "source": "applications/2026-11-03__board-of-governors-of-the-federal-reserv__business-management-analyst-office-of-deputy-director-regulation__3aa986eb85c024ef/resume-xuewu-cai__board-of-governors-of-the-federal-reserv__business-management-analyst-office-of-deputy-director-regulation__r025936.pdf",
+      "path": "resumes/3aa986eb85c024ef__resume-xuewu-cai__board-of-governors-of-the-federal-reserv__business-management-analyst-office-of-deputy-director-regulation__r025936.pdf",
+      "sha256": "b81f142a6f8d4e6d581e5c7e2be152e9c9a62c6df1255f5dea095208b41727de"
+    },
+    {
+      "id": "26492eab9f69e5ce",
+      "employer": "Board of Governors of the Federal Reserve System",
+      "title": "Financial Institution & Policy Analyst, Mergers & Acquisitions - Division of Supervision & Regulation",
+      "status": "needs_verification",
+      "resume_status": "prepared_with_attention",
+      "version_label": "current",
+      "source": "applications/2026-11-03__board-of-governors-of-the-federal-reserv__financial-institution-policy-analyst-mergers-acquisitions-divisi__26492eab9f69e5ce/resume-xuewu-cai__board-of-governors-of-the-federal-reserv__financial-institution-policy-analyst-mergers-acquisitions-divisi__r026010.pdf",
+      "path": "resumes/26492eab9f69e5ce__resume-xuewu-cai__board-of-governors-of-the-federal-reserv__financial-institution-policy-analyst-mergers-acquisitions-divisi__r026010.pdf",
+      "sha256": "c12046f8f1599c023cccfe5d4f1cbc4418534369647a133efffca6af5237aa2e"
+    },
+    {
+      "id": "53df9061ab56f1f1",
+      "employer": "Board of Governors of the Federal Reserve System",
+      "title": "Financial Institution Policy Analyst, Supervision Support Office - Supervision & Regulation",
+      "status": "needs_verification",
+      "resume_status": "prepared_with_attention",
+      "version_label": "current",
+      "source": "applications/2026-11-03__board-of-governors-of-the-federal-reserv__financial-institution-policy-analyst-supervision-support-office__53df9061ab56f1f1/resume-xuewu-cai__board-of-governors-of-the-federal-reserv__financial-institution-policy-analyst-supervision-support-office__r025987.pdf",
+      "path": "resumes/53df9061ab56f1f1__resume-xuewu-cai__board-of-governors-of-the-federal-reserv__financial-institution-policy-analyst-supervision-support-office__r025987.pdf",
+      "sha256": "9fb22b6b01ee5ee5d086279e77a2216e9a64c7189787ae5c9629b9ac48a20a53"
+    },
+    {
+      "id": "c114df1e4857e0e9",
+      "employer": "Board of Governors of the Federal Reserve System",
+      "title": "Financial Institution Policy Analyst, Supervision Support Office - Supervision & Regulation",
+      "status": "needs_verification",
+      "resume_status": "prepared_with_attention",
+      "version_label": "current",
+      "source": "applications/2026-11-03__board-of-governors-of-the-federal-reserv__financial-institution-policy-analyst-supervision-support-office__c114df1e4857e0e9/resume-xuewu-cai__board-of-governors-of-the-federal-reserv__financial-institution-policy-analyst-supervision-support-office__r025954.pdf",
+      "path": "resumes/c114df1e4857e0e9__resume-xuewu-cai__board-of-governors-of-the-federal-reserv__financial-institution-policy-analyst-supervision-support-office__r025954.pdf",
+      "sha256": "16a671cd866e6487c095274a1eef8cb7d8b97939b59a45efc8ff9c6f2bf9dd0d"
+    },
+    {
+      "id": "921a29971a4bfa6a",
+      "employer": "Board of Governors of the Federal Reserve System",
+      "title": "IT Systems Engineer Summer Intern",
+      "status": "needs_verification",
+      "resume_status": "prepared_with_attention",
+      "version_label": "current",
+      "source": "applications/2026-11-03__board-of-governors-of-the-federal-reserv__it-systems-engineer-summer-intern__921a29971a4bfa6a/resume-xuewu-cai__board-of-governors-of-the-federal-reserv__it-systems-engineer-summer-intern__r025885.pdf",
+      "path": "resumes/921a29971a4bfa6a__resume-xuewu-cai__board-of-governors-of-the-federal-reserv__it-systems-engineer-summer-intern__r025885.pdf",
+      "sha256": "6ba6181c9a3b5da3f9c0abce4d2710a2bec0bcd55c6825dd757884eeadc0d2ec"
+    },
+    {
+      "id": "a773d00677bab564",
+      "employer": "Board of Governors of the Federal Reserve System",
+      "title": "Network Engineer - Information Technology",
+      "status": "needs_verification",
+      "resume_status": "prepared_with_attention",
+      "version_label": "current",
+      "source": "applications/2026-11-03__board-of-governors-of-the-federal-reserv__network-engineer-information-technology__a773d00677bab564/resume-xuewu-cai__board-of-governors-of-the-federal-reserv__network-engineer-information-technology__r025594.pdf",
+      "path": "resumes/a773d00677bab564__resume-xuewu-cai__board-of-governors-of-the-federal-reserv__network-engineer-information-technology__r025594.pdf",
+      "sha256": "4b85e4adda076438fc3116df1c5a2a664e4c3f4823c9208ef57fce14c4d2195d"
+    },
+    {
+      "id": "dece88f346eab881",
+      "employer": "Board of Governors of the Federal Reserve System",
+      "title": "Principal Cloud Architect - IT",
+      "status": "needs_verification",
+      "resume_status": "prepared_with_attention",
+      "version_label": "current",
+      "source": "applications/2026-11-03__board-of-governors-of-the-federal-reserv__principal-cloud-architect-it__dece88f346eab881/resume-xuewu-cai__board-of-governors-of-the-federal-reserv__principal-cloud-architect-it__r025422.pdf",
+      "path": "resumes/dece88f346eab881__resume-xuewu-cai__board-of-governors-of-the-federal-reserv__principal-cloud-architect-it__r025422.pdf",
+      "sha256": "f06d44d803ab81b1e0ee005d4c60680c6a338978243b2201cc284610c8e415be"
+    },
+    {
+      "id": "c70fbd3a57458102",
+      "employer": "Board of Governors of the Federal Reserve System",
+      "title": "Principal Cybersecurity Analyst - Principal Cybersecurity Incident Response Lead - IT",
+      "status": "needs_verification",
+      "resume_status": "prepared_with_attention",
+      "version_label": "current",
+      "source": "applications/2026-11-03__board-of-governors-of-the-federal-reserv__principal-cybersecurity-analyst-principal-cybersecurity-incident__c70fbd3a57458102/resume-xuewu-cai__board-of-governors-of-the-federal-reserv__principal-cybersecurity-analyst-principal-cybersecurity-incident__r025663.pdf",
+      "path": "resumes/c70fbd3a57458102__resume-xuewu-cai__board-of-governors-of-the-federal-reserv__principal-cybersecurity-analyst-principal-cybersecurity-incident__r025663.pdf",
+      "sha256": "57397721358456ae2bcc38aeb0c103b90a13bb253fdb40ccbe91625e66de1a8d"
+    },
+    {
+      "id": "3e43a91ec5a4d557",
+      "employer": "Board of Governors of the Federal Reserve System",
+      "title": "Senior Associate Director - FS",
+      "status": "needs_verification",
+      "resume_status": "prepared_with_attention",
+      "version_label": "current",
+      "source": "applications/2026-11-03__board-of-governors-of-the-federal-reserv__senior-associate-director-fs__3e43a91ec5a4d557/resume-xuewu-cai__board-of-governors-of-the-federal-reserv__senior-associate-director-fs__r025906.pdf",
+      "path": "resumes/3e43a91ec5a4d557__resume-xuewu-cai__board-of-governors-of-the-federal-reserv__senior-associate-director-fs__r025906.pdf",
+      "sha256": "b12d06b77f4f04c1793e49e98bfcfbc40bc2a77636e46934c7e157cf45681002"
+    },
+    {
+      "id": "400a019e90ab7a66",
+      "employer": "Board of Governors of the Federal Reserve System",
+      "title": "Senior OIG Manager, Analytics, Innovation, and Technology (OIG)",
+      "status": "needs_verification",
+      "resume_status": "prepared_with_attention",
+      "version_label": "current",
+      "source": "applications/2026-11-03__board-of-governors-of-the-federal-reserv__senior-oig-manager-analytics-innovation-and-technology-oig__400a019e90ab7a66/resume-xuewu-cai__board-of-governors-of-the-federal-reserv__senior-oig-manager-analytics-innovation-and-technology-oig__r025914.pdf",
+      "path": "resumes/400a019e90ab7a66__resume-xuewu-cai__board-of-governors-of-the-federal-reserv__senior-oig-manager-analytics-innovation-and-technology-oig__r025914.pdf",
+      "sha256": "b36e610b3800773952581e4f4aa964914426320c3c6865893a995a85af673888"
+    },
+    {
+      "id": "8379ea4fb40d9009",
+      "employer": "Board of Governors of the Federal Reserve System",
+      "title": "Senior/Lead A Data Scientist - AI Program Office – Information Technology",
+      "status": "needs_verification",
+      "resume_status": "prepared_with_attention",
+      "version_label": "current",
+      "source": "applications/2026-11-03__board-of-governors-of-the-federal-reserv__senior-lead-a-data-scientist-ai-program-office-information-techn__8379ea4fb40d9009/resume-xuewu-cai__board-of-governors-of-the-federal-reserv__senior-lead-a-data-scientist-ai-program-office-information-techn__r025812.pdf",
+      "path": "resumes/8379ea4fb40d9009__resume-xuewu-cai__board-of-governors-of-the-federal-reserv__senior-lead-a-data-scientist-ai-program-office-information-techn__r025812.pdf",
+      "sha256": "74229ebe86c5ab8ac13db90cf343b93d216ad3af04ea53058209a58fa911be33"
+    },
+    {
+      "id": "e83dfc4e1075139c",
+      "employer": "Board of Governors of the Federal Reserve System",
+      "title": "Sr Financial Institution & Policy Analyst II, Service Provider Supervision - Division of Supervision & Regulation",
+      "status": "needs_verification",
+      "resume_status": "prepared_with_attention",
+      "version_label": "current",
+      "source": "applications/2026-11-03__board-of-governors-of-the-federal-reserv__sr-financial-institution-policy-analyst-ii-service-provider-supe__e83dfc4e1075139c/resume-xuewu-cai__board-of-governors-of-the-federal-reserv__sr-financial-institution-policy-analyst-ii-service-provider-supe__r025916.pdf",
+      "path": "resumes/e83dfc4e1075139c__resume-xuewu-cai__board-of-governors-of-the-federal-reserv__sr-financial-institution-policy-analyst-ii-service-provider-supe__r025916.pdf",
+      "sha256": "6c0829118d72cebfb21fe174ef882720ad081cc89053d60dcddbbca444235ac9"
+    },
+    {
+      "id": "f2297d1867e0752c",
+      "employer": "Board of Governors of the Federal Reserve System",
+      "title": "Sr. Financial Institution & Policy Analyst, Mergers & Acquisitions - Division of Supervision & Regulation",
+      "status": "needs_verification",
+      "resume_status": "prepared_with_attention",
+      "version_label": "current",
+      "source": "applications/2026-11-03__board-of-governors-of-the-federal-reserv__sr-financial-institution-policy-analyst-mergers-acquisitions-div__f2297d1867e0752c/resume-xuewu-cai__board-of-governors-of-the-federal-reserv__sr-financial-institution-policy-analyst-mergers-acquisitions-div__r025997.pdf",
+      "path": "resumes/f2297d1867e0752c__resume-xuewu-cai__board-of-governors-of-the-federal-reserv__sr-financial-institution-policy-analyst-mergers-acquisitions-div__r025997.pdf",
+      "sha256": "87386491eaafc80cb0d61caf805537b51f047be93f46418894ffbfce64c6a36c"
+    },
+    {
+      "id": "4176220939260488",
+      "employer": "Board of Governors of the Federal Reserve System",
+      "title": "Sr. Project Portfolio Manager - MFS",
+      "status": "needs_verification",
+      "resume_status": "prepared_with_attention",
+      "version_label": "current",
+      "source": "applications/2026-11-03__board-of-governors-of-the-federal-reserv__sr-project-portfolio-manager-mfs__4176220939260488/resume-xuewu-cai__board-of-governors-of-the-federal-reserv__sr-project-portfolio-manager-mfs__r025881.pdf",
+      "path": "resumes/4176220939260488__resume-xuewu-cai__board-of-governors-of-the-federal-reserv__sr-project-portfolio-manager-mfs__r025881.pdf",
+      "sha256": "8fd737180a32334f8ebf95a7d625bf43e58311eadcb44ac459bdfe9d222e933c"
+    },
+    {
+      "id": "28a86de9e810e9ef",
+      "employer": "Board of Governors of the Federal Reserve System",
+      "title": "Sr./Lead Financial Institution & Policy Analyst- Reserve Bank Oversight- DCCA",
+      "status": "needs_verification",
+      "resume_status": "prepared_with_attention",
+      "version_label": "current",
+      "source": "applications/2026-11-03__board-of-governors-of-the-federal-reserv__sr-lead-financial-institution-policy-analyst-reserve-bank-oversi__28a86de9e810e9ef/resume-xuewu-cai__board-of-governors-of-the-federal-reserv__sr-lead-financial-institution-policy-analyst-reserve-bank-oversi__r025992.pdf",
+      "path": "resumes/28a86de9e810e9ef__resume-xuewu-cai__board-of-governors-of-the-federal-reserv__sr-lead-financial-institution-policy-analyst-reserve-bank-oversi__r025992.pdf",
+      "sha256": "bd10d4529a94a54b01c2e927cbc0a4e45e02bb8ef2715ed1d9f0eee4cb715d96"
+    },
+    {
+      "id": "e5fca4a7a7d42cc8",
+      "employer": "Board of Governors of the Federal Reserve System",
+      "title": "Summer 2027 Graduate Intern – Super Intelligence (SI) Connectors Platform Engineer (MCP and RAG) – IT",
+      "status": "needs_verification",
+      "resume_status": "prepared_with_attention",
+      "version_label": "current",
+      "source": "applications/2026-11-03__board-of-governors-of-the-federal-reserv__summer-2027-graduate-intern-super-intelligence-si-connectors-pla__e5fca4a7a7d42cc8/resume-xuewu-cai__board-of-governors-of-the-federal-reserv__summer-2027-graduate-intern-super-intelligence-si-connectors-pla__r025978.pdf",
+      "path": "resumes/e5fca4a7a7d42cc8__resume-xuewu-cai__board-of-governors-of-the-federal-reserv__summer-2027-graduate-intern-super-intelligence-si-connectors-pla__r025978.pdf",
+      "sha256": "eebf1553df10063c17fb9976e7d116e8d7a726c654cb05f8022d10cb5926d71e"
+    },
+    {
+      "id": "f3509554397704d9",
+      "employer": "Board of Governors of the Federal Reserve System",
+      "title": "Summer 2027 Intern -  PSO Workforce Analytics - MFS",
+      "status": "needs_verification",
+      "resume_status": "prepared_with_attention",
+      "version_label": "current",
+      "source": "applications/2026-11-03__board-of-governors-of-the-federal-reserv__summer-2027-intern-pso-workforce-analytics-mfs__f3509554397704d9/resume-xuewu-cai__board-of-governors-of-the-federal-reserv__summer-2027-intern-pso-workforce-analytics-mfs__r025945.pdf",
+      "path": "resumes/f3509554397704d9__resume-xuewu-cai__board-of-governors-of-the-federal-reserv__summer-2027-intern-pso-workforce-analytics-mfs__r025945.pdf",
+      "sha256": "3c010c7a60f2c0b7819acd306d5fc45fb15ae47b271371a2df65ee7dd80d5398"
+    },
+    {
+      "id": "729088a3c686d36a",
+      "employer": "Board of Governors of the Federal Reserve System",
+      "title": "Summer 2027 Intern – Super Intelligence (SI) Governance and PMO – IT",
+      "status": "needs_verification",
+      "resume_status": "prepared_with_attention",
+      "version_label": "current",
+      "source": "applications/2026-11-03__board-of-governors-of-the-federal-reserv__summer-2027-intern-super-intelligence-si-governance-and-pmo-it__729088a3c686d36a/resume-xuewu-cai__board-of-governors-of-the-federal-reserv__summer-2027-intern-super-intelligence-si-governance-and-pmo-it__r025977.pdf",
+      "path": "resumes/729088a3c686d36a__resume-xuewu-cai__board-of-governors-of-the-federal-reserv__summer-2027-intern-super-intelligence-si-governance-and-pmo-it__r025977.pdf",
+      "sha256": "7a7b4ff373fdc0dbfdeef35f4187d6c7af8a3c3bae5ec61e42830558ef47f352"
+    },
+    {
+      "id": "73ede70fe273e7e2",
+      "employer": "Board of Governors of the Federal Reserve System",
+      "title": "Summer 2027 Intern – Super Intelligence (SI) Innovation and Engineering – IT",
+      "status": "needs_verification",
+      "resume_status": "prepared_with_attention",
+      "version_label": "current",
+      "source": "applications/2026-11-03__board-of-governors-of-the-federal-reserv__summer-2027-intern-super-intelligence-si-innovation-and-engineer__73ede70fe273e7e2/resume-xuewu-cai__board-of-governors-of-the-federal-reserv__summer-2027-intern-super-intelligence-si-innovation-and-engineer__r025976.pdf",
+      "path": "resumes/73ede70fe273e7e2__resume-xuewu-cai__board-of-governors-of-the-federal-reserv__summer-2027-intern-super-intelligence-si-innovation-and-engineer__r025976.pdf",
+      "sha256": "a2e727d8a67d7ae1da17d26b9d5428ea3141b8802253c6a0e1950499a949093f"
+    },
+    {
+      "id": "3fadb1ffe1dd3e97",
+      "employer": "Board of Governors of the Federal Reserve System",
+      "title": "Summer 2027 Intern, Regulation & Policy- Division of Supervision & Regulation",
+      "status": "needs_verification",
+      "resume_status": "prepared_with_attention",
+      "version_label": "current",
+      "source": "applications/2026-11-03__board-of-governors-of-the-federal-reserv__summer-2027-intern-regulation-policy-division-of-supervision-reg__3fadb1ffe1dd3e97/resume-xuewu-cai__board-of-governors-of-the-federal-reserv__summer-2027-intern-regulation-policy-division-of-supervision-reg__r025980.pdf",
+      "path": "resumes/3fadb1ffe1dd3e97__resume-xuewu-cai__board-of-governors-of-the-federal-reserv__summer-2027-intern-regulation-policy-division-of-supervision-reg__r025980.pdf",
+      "sha256": "48a64b9c39a7113eea0bf90258baed0d829c1e436cdaf5b5ebe27caeb0e5cfa8"
+    },
+    {
+      "id": "6299d82269c49966",
+      "employer": "Board of Governors of the Federal Reserve System",
+      "title": "Summer Intern, Financial Accounting Policy and Reporting",
+      "status": "needs_verification",
+      "resume_status": "prepared_with_attention",
+      "version_label": "current",
+      "source": "applications/2026-11-03__board-of-governors-of-the-federal-reserv__summer-intern-financial-accounting-policy-and-reporting__6299d82269c49966/resume-xuewu-cai__board-of-governors-of-the-federal-reserv__summer-intern-financial-accounting-policy-and-reporting__r025924.pdf",
+      "path": "resumes/6299d82269c49966__resume-xuewu-cai__board-of-governors-of-the-federal-reserv__summer-intern-financial-accounting-policy-and-reporting__r025924.pdf",
+      "sha256": "336b5025a658ba8ff4ce2c7bea27ef601fdb3374442fd4ba1b74915230896a6c"
+    },
+    {
+      "id": "b149b288243d5b26",
+      "employer": "Board of Governors of the Federal Reserve System",
+      "title": "Summer Intern, Retail Payments",
+      "status": "needs_verification",
+      "resume_status": "prepared_with_attention",
+      "version_label": "current",
+      "source": "applications/2026-11-03__board-of-governors-of-the-federal-reserv__summer-intern-retail-payments__b149b288243d5b26/resume-xuewu-cai__board-of-governors-of-the-federal-reserv__summer-intern-retail-payments__r025986.pdf",
+      "path": "resumes/b149b288243d5b26__resume-xuewu-cai__board-of-governors-of-the-federal-reserv__summer-intern-retail-payments__r025986.pdf",
+      "sha256": "7e3dac21e837d85edd8cf46e714dd6250eae4c48beb84ff51a0426ddcfc9df5b"
+    },
+    {
+      "id": "3a778f3bef92f819",
+      "employer": "Board of Governors of the Federal Reserve System",
+      "title": "Year-Round Graduate Intern, Digital Innovation Studies",
+      "status": "needs_verification",
+      "resume_status": "prepared_with_attention",
+      "version_label": "current",
+      "source": "applications/2026-11-03__board-of-governors-of-the-federal-reserv__year-round-graduate-intern-digital-innovation-studies__3a778f3bef92f819/resume-xuewu-cai__board-of-governors-of-the-federal-reserv__year-round-graduate-intern-digital-innovation-studies__r025918.pdf",
+      "path": "resumes/3a778f3bef92f819__resume-xuewu-cai__board-of-governors-of-the-federal-reserv__year-round-graduate-intern-digital-innovation-studies__r025918.pdf",
+      "sha256": "d739cad71f1454378a174defaec815bf5c207d0fed9f14fa50fcd3d7839bd1f9"
+    },
+    {
+      "id": "8feef52a82eb0808",
+      "employer": "Board of Governors of the Federal Reserve System",
+      "title": "Year-Round Graduate Intern, GSIB - Division of Supervision & Regulation",
+      "status": "needs_verification",
+      "resume_status": "prepared_with_attention",
+      "version_label": "current",
+      "source": "applications/2026-11-03__board-of-governors-of-the-federal-reserv__year-round-graduate-intern-gsib-division-of-supervision-regulati__8feef52a82eb0808/resume-xuewu-cai__board-of-governors-of-the-federal-reserv__year-round-graduate-intern-gsib-division-of-supervision-regulati__r025917.pdf",
+      "path": "resumes/8feef52a82eb0808__resume-xuewu-cai__board-of-governors-of-the-federal-reserv__year-round-graduate-intern-gsib-division-of-supervision-regulati__r025917.pdf",
+      "sha256": "deb9dcc255ad17ed1aa212920a85ec219f8621e2aae9da2b9aaedc3e6363058d"
+    },
+    {
+      "id": "042fecf3500029e1",
+      "employer": "Bureau of Economic Analysis",
+      "title": "Data Scientist",
+      "status": "needs_verification",
+      "resume_status": "prepared_with_attention",
+      "version_label": "current",
+      "source": "applications/2026-11-03__bureau-of-economic-analysis__data-scientist__042fecf3500029e1/resume-xuewu-cai__bureau-of-economic-analysis__data-scientist__890697100.pdf",
+      "path": "resumes/042fecf3500029e1__resume-xuewu-cai__bureau-of-economic-analysis__data-scientist__890697100.pdf",
+      "sha256": "5ac9636e6732f1dca586a97044707580b780906110bd97e2b1f61070979797c6"
     },
     {
       "id": "c86b64e1edca692e",
@@ -188,6 +474,17 @@
       "sha256": "eb77b8388a8c0bea627ed41a0d3ebe72a1e944902148a9ebf7df05ba5a91e3bf"
     },
     {
+      "id": "9a820fb33545dbf5",
+      "employer": "Bureau of Economic Analysis",
+      "title": "Supervisory Accountant",
+      "status": "needs_verification",
+      "resume_status": "prepared_with_attention",
+      "version_label": "current",
+      "source": "applications/2026-11-03__bureau-of-economic-analysis__supervisory-accountant__9a820fb33545dbf5/resume-xuewu-cai__bureau-of-economic-analysis__supervisory-accountant__891342400.pdf",
+      "path": "resumes/9a820fb33545dbf5__resume-xuewu-cai__bureau-of-economic-analysis__supervisory-accountant__891342400.pdf",
+      "sha256": "94098bb06fb759196ded85c948740f3041ef7f8c31d1a54b9d4a7921c9d5536c"
+    },
+    {
       "id": "adc9dc1d969f25e8",
       "employer": "Bureau of the Fiscal Service",
       "title": "Business Systems Analyst",
@@ -224,7 +521,7 @@
       "id": "db34cdb1ec37ce24",
       "employer": "Centers for Medicare & Medicaid Services",
       "title": "IT SPECIALIST (SYSANALYSIS)",
-      "status": "needs_verification",
+      "status": "closed",
       "resume_status": "prepared_with_attention",
       "version_label": "current",
       "source": "applications/2026-11-02__centers-for-medicare-medicaid-services__it-specialist-sysanalysis__db34cdb1ec37ce24/resume-xuewu-cai__centers-for-medicare-medicaid-services__it-specialist-sysanalysis__890139900.pdf",
@@ -265,6 +562,17 @@
       "sha256": "52d975c0a3892d43b048790b9b8f7a91eb727c86bc5d4280f9c35c0b6903f3db"
     },
     {
+      "id": "b5660971d142dae3",
+      "employer": "Citizenship and Immigration Services",
+      "title": "Supervisory Management and Program Analyst",
+      "status": "needs_verification",
+      "resume_status": "prepared_with_attention",
+      "version_label": "current",
+      "source": "applications/2026-11-03__citizenship-and-immigration-services__supervisory-management-and-program-analyst__b5660971d142dae3/resume-xuewu-cai__citizenship-and-immigration-services__supervisory-management-and-program-analyst__891357100.pdf",
+      "path": "resumes/b5660971d142dae3__resume-xuewu-cai__citizenship-and-immigration-services__supervisory-management-and-program-analyst__891357100.pdf",
+      "sha256": "f9c22b5a4f3f71d2f7879204a03b238bb1be469a269b84c3bebf000434c0f35b"
+    },
+    {
       "id": "f720af72449c48a0",
       "employer": "Commodity Futures Trading Commission",
       "title": "Systems Risk Analyst",
@@ -276,6 +584,50 @@
       "sha256": "db247d1f3bb93299febae52822f36bfd2cdbaaabff7165d74075ad0b0d695421"
     },
     {
+      "id": "db7ddc787fce4dc8",
+      "employer": "Customs and Border Protection",
+      "title": "Management and Program Analyst",
+      "status": "needs_verification",
+      "resume_status": "prepared_with_attention",
+      "version_label": "current",
+      "source": "applications/2026-11-03__customs-and-border-protection__management-and-program-analyst__db7ddc787fce4dc8/resume-xuewu-cai__customs-and-border-protection__management-and-program-analyst__890446100.pdf",
+      "path": "resumes/db7ddc787fce4dc8__resume-xuewu-cai__customs-and-border-protection__management-and-program-analyst__890446100.pdf",
+      "sha256": "977cae0f4b3780708d7dbcaaafc0163b667b7a40b313d48bff8b30fd0cdfef9f"
+    },
+    {
+      "id": "dd780c019fa5322c",
+      "employer": "Customs and Border Protection",
+      "title": "Telematics Support Specialist",
+      "status": "needs_verification",
+      "resume_status": "prepared_with_attention",
+      "version_label": "current",
+      "source": "applications/2026-11-03__customs-and-border-protection__telematics-support-specialist__dd780c019fa5322c/resume-xuewu-cai__customs-and-border-protection__telematics-support-specialist__890755200.pdf",
+      "path": "resumes/dd780c019fa5322c__resume-xuewu-cai__customs-and-border-protection__telematics-support-specialist__890755200.pdf",
+      "sha256": "851159ebaa9341486260b7ed48cb6a10f3f0ca9f8369dfeedd934b60217e766a"
+    },
+    {
+      "id": "bca157db397f61d1",
+      "employer": "Cybersecurity and Infrastructure Security Agency",
+      "title": "Supervisory Accountant",
+      "status": "needs_verification",
+      "resume_status": "prepared_with_attention",
+      "version_label": "current",
+      "source": "applications/2026-11-03__cybersecurity-and-infrastructure-securit__supervisory-accountant__bca157db397f61d1/resume-xuewu-cai__cybersecurity-and-infrastructure-securit__supervisory-accountant__891491200.pdf",
+      "path": "resumes/bca157db397f61d1__resume-xuewu-cai__cybersecurity-and-infrastructure-securit__supervisory-accountant__891491200.pdf",
+      "sha256": "5c41bc97cf0e041e772344d2db2b26bb02caca2db22f6ebdd8909b748472f7d5"
+    },
+    {
+      "id": "f1a1beb378c44e42",
+      "employer": "Defense Commissary Agency",
+      "title": "ACCOUNTING OFFICER",
+      "status": "needs_verification",
+      "resume_status": "prepared_with_attention",
+      "version_label": "current",
+      "source": "applications/2026-11-03__defense-commissary-agency__accounting-officer__f1a1beb378c44e42/resume-xuewu-cai__defense-commissary-agency__accounting-officer__891349500.pdf",
+      "path": "resumes/f1a1beb378c44e42__resume-xuewu-cai__defense-commissary-agency__accounting-officer__891349500.pdf",
+      "sha256": "aebfadb9adcfd293757944a60f273693d78dcdb874d0d17b3315e24192b82493"
+    },
+    {
       "id": "961ae27a765b61e6",
       "employer": "Defense Commissary Agency",
       "title": "FINANCIAL ANALYST (INTERNAL CONTROLS)",
@@ -285,6 +637,17 @@
       "source": "applications/2026-11-02__defense-commissary-agency__financial-analyst-internal-controls__961ae27a765b61e6/resume-xuewu-cai__defense-commissary-agency__financial-analyst-internal-controls__891102000.pdf",
       "path": "resumes/961ae27a765b61e6__resume-xuewu-cai__defense-commissary-agency__financial-analyst-internal-controls__891102000.pdf",
       "sha256": "78ac2570ddb59e4860bec9fbe5214954940e515321de481f819a5d2cf2cd59c2"
+    },
+    {
+      "id": "0cab414137098a27",
+      "employer": "Defense Counterintelligence and Security Agency",
+      "title": "DATA SCIENTIST (DATA ARCHITECT/DATA ENGINEER/AI-ML SPECIALIST)",
+      "status": "needs_verification",
+      "resume_status": "prepared_with_attention",
+      "version_label": "current",
+      "source": "applications/2026-11-03__defense-counterintelligence-and-security__data-scientist-data-architect-data-engineer-ai-ml-specialist__0cab414137098a27/resume-xuewu-cai__defense-counterintelligence-and-security__data-scientist-data-architect-data-engineer-ai-ml-specialist__891384700.pdf",
+      "path": "resumes/0cab414137098a27__resume-xuewu-cai__defense-counterintelligence-and-security__data-scientist-data-architect-data-engineer-ai-ml-specialist__891384700.pdf",
+      "sha256": "9070085c9dc3dc7d2f83d6f71c1a0209f3f495b06d04a6e84989fe1b1a188394"
     },
     {
       "id": "5d826ecdc9c699de",
@@ -320,6 +683,17 @@
       "sha256": "e6adbaf869444fdf2d02e72e4a477db919a82348d85082f40ded3215f981fc33"
     },
     {
+      "id": "fb0be6fd08fbe8ed",
+      "employer": "Defense Information Systems Agency",
+      "title": "IT CYBERSECURITY SPECIALIST (CUSTSPT/INFOSEC)",
+      "status": "needs_verification",
+      "resume_status": "prepared_with_attention",
+      "version_label": "current",
+      "source": "applications/2026-11-03__defense-information-systems-agency__it-cybersecurity-specialist-custspt-infosec__fb0be6fd08fbe8ed/resume-xuewu-cai__defense-information-systems-agency__it-cybersecurity-specialist-custspt-infosec__891292000.pdf",
+      "path": "resumes/fb0be6fd08fbe8ed__resume-xuewu-cai__defense-information-systems-agency__it-cybersecurity-specialist-custspt-infosec__891292000.pdf",
+      "sha256": "6af029fefa4292af50b35859d2db194ee69caccf27f2a0a1e4f2c94dcf29c6bc"
+    },
+    {
       "id": "2f9408fd1b445f89",
       "employer": "Defense Information Systems Agency",
       "title": "IT PROJECT MANAGER (PLCYPLN)",
@@ -342,6 +716,17 @@
       "sha256": "e6057797bb3bbe009a0441a6643b1c5a989fab580662a02fa4901057aa7bccb1"
     },
     {
+      "id": "8a7e420a96e906ae",
+      "employer": "Defense Information Systems Agency",
+      "title": "SUPV IT SPECIALIST (PLCYPLN)",
+      "status": "needs_verification",
+      "resume_status": "prepared_with_attention",
+      "version_label": "current",
+      "source": "applications/2026-11-03__defense-information-systems-agency__supv-it-specialist-plcypln__8a7e420a96e906ae/resume-xuewu-cai__defense-information-systems-agency__supv-it-specialist-plcypln__891345800.pdf",
+      "path": "resumes/8a7e420a96e906ae__resume-xuewu-cai__defense-information-systems-agency__supv-it-specialist-plcypln__891345800.pdf",
+      "sha256": "7033ee37899675734f253fd96c0c04f92d98ea5b461d01c9b6b77eb3b26740be"
+    },
+    {
       "id": "a9a9cabfedf30b5b",
       "employer": "Defense Logistics Agency",
       "title": "IT Specialist (APPSW)",
@@ -353,10 +738,32 @@
       "sha256": "cdc1be53e569487cf4a728389168178b41496bf5b1e49610c61476e060eba8b3"
     },
     {
+      "id": "184b95bc841157b6",
+      "employer": "Defense Logistics Agency",
+      "title": "IT Specialist (APPSW/OS)",
+      "status": "needs_verification",
+      "resume_status": "prepared_with_attention",
+      "version_label": "current",
+      "source": "applications/2026-11-03__defense-logistics-agency__it-specialist-appsw-os__184b95bc841157b6/resume-xuewu-cai__defense-logistics-agency__it-specialist-appsw-os__891347400.pdf",
+      "path": "resumes/184b95bc841157b6__resume-xuewu-cai__defense-logistics-agency__it-specialist-appsw-os__891347400.pdf",
+      "sha256": "632cda6304b159f84ad9afacdf3c826570c5fb017e9c014524c549e56f01f040"
+    },
+    {
+      "id": "7ebdcbd7d2b7939a",
+      "employer": "Defense Logistics Agency",
+      "title": "Operations Research Analyst",
+      "status": "needs_verification",
+      "resume_status": "prepared_with_attention",
+      "version_label": "current",
+      "source": "applications/2026-11-03__defense-logistics-agency__operations-research-analyst__7ebdcbd7d2b7939a/resume-xuewu-cai__defense-logistics-agency__operations-research-analyst__891388900.pdf",
+      "path": "resumes/7ebdcbd7d2b7939a__resume-xuewu-cai__defense-logistics-agency__operations-research-analyst__891388900.pdf",
+      "sha256": "d896507af36e3a0697bea40054b5faee073262b991e6cb39aff9ada054735232"
+    },
+    {
       "id": "646337038fc77897",
       "employer": "Defense Media Activity",
       "title": "Supervisory IT Specialist (PLCYPLN)",
-      "status": "needs_verification",
+      "status": "closed",
       "resume_status": "prepared_with_attention",
       "version_label": "current",
       "source": "applications/2026-11-02__defense-media-activity__supervisory-it-specialist-plcypln__646337038fc77897/resume-xuewu-cai__defense-media-activity__supervisory-it-specialist-plcypln__889314000.pdf",
@@ -397,6 +804,50 @@
       "sha256": "49a7a255919ccd712f70df13b6358cbc7dee33639f711a57ca1a15b07aaf06c4"
     },
     {
+      "id": "e1bc20b30211d256",
+      "employer": "Department of Energy Headquarters",
+      "title": "Accountant - Recent Graduate",
+      "status": "needs_verification",
+      "resume_status": "prepared_with_attention",
+      "version_label": "current",
+      "source": "applications/2026-11-03__department-of-energy-headquarters__accountant-recent-graduate__e1bc20b30211d256/resume-xuewu-cai__department-of-energy-headquarters__accountant-recent-graduate__891272200.pdf",
+      "path": "resumes/e1bc20b30211d256__resume-xuewu-cai__department-of-energy-headquarters__accountant-recent-graduate__891272200.pdf",
+      "sha256": "a0870ee3640f9898ba4662c826cad2686daa04494bea7f432344493b072407c7"
+    },
+    {
+      "id": "d31c737b2a9cc2c0",
+      "employer": "Department of Energy Headquarters",
+      "title": "Budget Analyst - Recent Graduate",
+      "status": "needs_verification",
+      "resume_status": "prepared_with_attention",
+      "version_label": "current",
+      "source": "applications/2026-11-03__department-of-energy-headquarters__budget-analyst-recent-graduate__d31c737b2a9cc2c0/resume-xuewu-cai__department-of-energy-headquarters__budget-analyst-recent-graduate__891270900.pdf",
+      "path": "resumes/d31c737b2a9cc2c0__resume-xuewu-cai__department-of-energy-headquarters__budget-analyst-recent-graduate__891270900.pdf",
+      "sha256": "6fb92cbbef33247f9bf2c80d6ed4d84356786051d40492d149952797b16ad0ae"
+    },
+    {
+      "id": "d9edc9fee1452596",
+      "employer": "Department of Energy Headquarters",
+      "title": "IT Cybersecurity Specialist (CYBERMGT)",
+      "status": "needs_verification",
+      "resume_status": "prepared_with_attention",
+      "version_label": "current",
+      "source": "applications/2026-11-03__department-of-energy-headquarters__it-cybersecurity-specialist-cybermgt__d9edc9fee1452596/resume-xuewu-cai__department-of-energy-headquarters__it-cybersecurity-specialist-cybermgt__891266900.pdf",
+      "path": "resumes/d9edc9fee1452596__resume-xuewu-cai__department-of-energy-headquarters__it-cybersecurity-specialist-cybermgt__891266900.pdf",
+      "sha256": "41aa167794aab8036ab41a68b4ab741a32e8a17cdd41451e590037b48e1621f7"
+    },
+    {
+      "id": "883b0f18dc5dd84a",
+      "employer": "Department of Homeland Security Headquarters",
+      "title": "Senior ICAM Technical Lead",
+      "status": "needs_verification",
+      "resume_status": "prepared_with_attention",
+      "version_label": "current",
+      "source": "applications/2026-11-03__department-of-homeland-security-headquar__senior-icam-technical-lead__883b0f18dc5dd84a/resume-xuewu-cai__department-of-homeland-security-headquar__senior-icam-technical-lead__891316000.pdf",
+      "path": "resumes/883b0f18dc5dd84a__resume-xuewu-cai__department-of-homeland-security-headquar__senior-icam-technical-lead__891316000.pdf",
+      "sha256": "667e7a9624b8247c5938eb971dddc91980e986ff29a94455216323069d6256fb"
+    },
+    {
       "id": "0449d4d561730d31",
       "employer": "Department of State Headquarters",
       "title": "Data Scientist",
@@ -411,7 +862,7 @@
       "id": "3421ec0cbcf07ae5",
       "employer": "Department of State Headquarters",
       "title": "Financial Management Specialist",
-      "status": "needs_verification",
+      "status": "closed",
       "resume_status": "prepared_with_attention",
       "version_label": "current",
       "source": "applications/2026-11-02__department-of-state-headquarters__financial-management-specialist__3421ec0cbcf07ae5/resume-xuewu-cai__department-of-state-headquarters__financial-management-specialist__890281500.pdf",
@@ -422,7 +873,7 @@
       "id": "d78419e053f71328",
       "employer": "Department of State Headquarters",
       "title": "Information Technology Specialist",
-      "status": "needs_verification",
+      "status": "closed",
       "resume_status": "prepared_with_attention",
       "version_label": "current",
       "source": "applications/2026-11-02__department-of-state-headquarters__information-technology-specialist__d78419e053f71328/resume-xuewu-cai__department-of-state-headquarters__information-technology-specialist__890259900.pdf",
@@ -439,6 +890,28 @@
       "source": "applications/2026-11-02__deputy-assistant-secretary-for-finance__supervisory-financial-analyst__7decc95769165737/resume-xuewu-cai__deputy-assistant-secretary-for-finance__supervisory-financial-analyst__890686800.pdf",
       "path": "resumes/7decc95769165737__resume-xuewu-cai__deputy-assistant-secretary-for-finance__supervisory-financial-analyst__890686800.pdf",
       "sha256": "2ed902ca7d7762bb50e738d996b3eac2d41ae4fb85614d64428173bd71808d63"
+    },
+    {
+      "id": "26649c2992fac570",
+      "employer": "Development Finance Corporation",
+      "title": "DIRECTOR, PORTFOLIO ANALYTICS",
+      "status": "needs_verification",
+      "resume_status": "prepared_with_attention",
+      "version_label": "current",
+      "source": "applications/2026-11-03__development-finance-corporation__director-portfolio-analytics__26649c2992fac570/resume-xuewu-cai__development-finance-corporation__director-portfolio-analytics__891275000.pdf",
+      "path": "resumes/26649c2992fac570__resume-xuewu-cai__development-finance-corporation__director-portfolio-analytics__891275000.pdf",
+      "sha256": "fd19bbd5f621bb30227004c3f2eae72e3c6102c1595749665cf4322c80a62ca9"
+    },
+    {
+      "id": "bbf94fee5f7f30af",
+      "employer": "Development Finance Corporation",
+      "title": "DIRECTOR, PORTFOLIO ANALYTICS",
+      "status": "needs_verification",
+      "resume_status": "prepared_with_attention",
+      "version_label": "current",
+      "source": "applications/2026-11-03__development-finance-corporation__director-portfolio-analytics__bbf94fee5f7f30af/resume-xuewu-cai__development-finance-corporation__director-portfolio-analytics__891288700.pdf",
+      "path": "resumes/bbf94fee5f7f30af__resume-xuewu-cai__development-finance-corporation__director-portfolio-analytics__891288700.pdf",
+      "sha256": "f322648fbfe5ecc90289d294411682b15b0fdfb66731c645eb3d36de87f2f4e7"
     },
     {
       "id": "2429f59832bb79a2",
@@ -606,6 +1079,28 @@
       "sha256": "d7d173c3ffde9698faa759a970bf259bdb6fe8833988c52017557b2cbfb6f86a"
     },
     {
+      "id": "0e9417e28b71720f",
+      "employer": "Federal Transit Administration",
+      "title": "Program Analyst - DIRECT HIRE",
+      "status": "needs_verification",
+      "resume_status": "prepared_with_attention",
+      "version_label": "current",
+      "source": "applications/2026-11-03__federal-transit-administration__program-analyst-direct-hire__0e9417e28b71720f/resume-xuewu-cai__federal-transit-administration__program-analyst-direct-hire__891220800.pdf",
+      "path": "resumes/0e9417e28b71720f__resume-xuewu-cai__federal-transit-administration__program-analyst-direct-hire__891220800.pdf",
+      "sha256": "e06ea6dd0085ee02d89fdca873d7ae67b9b84fa82361a49eebf65fe7e71b8e24"
+    },
+    {
+      "id": "2303f31bc640d743",
+      "employer": "Federal Transit Administration",
+      "title": "Senior Program Manager",
+      "status": "needs_verification",
+      "resume_status": "prepared_with_attention",
+      "version_label": "current",
+      "source": "applications/2026-11-03__federal-transit-administration__senior-program-manager__2303f31bc640d743/resume-xuewu-cai__federal-transit-administration__senior-program-manager__891445900.pdf",
+      "path": "resumes/2303f31bc640d743__resume-xuewu-cai__federal-transit-administration__senior-program-manager__891445900.pdf",
+      "sha256": "862e7ff2da5dca8e430f6dbb4b0cea3a5ecf7eb39c4f48608627e8153c842a1b"
+    },
+    {
       "id": "e764c582e8de8364",
       "employer": "Forest Service",
       "title": "Supervisory Information Technology Specialist (SYSANALYSIS)",
@@ -697,7 +1192,7 @@
       "id": "a831f3575bd04487",
       "employer": "Immediate Office of the Chief of Naval Operations",
       "title": "FINANCIAL MANAGEMENT ANALYST",
-      "status": "needs_verification",
+      "status": "closed",
       "resume_status": "prepared_with_attention",
       "version_label": "current",
       "source": "applications/2026-11-02__immediate-office-of-the-chief-of-naval-o__financial-management-analyst__a831f3575bd04487/resume-xuewu-cai__immediate-office-of-the-chief-of-naval-o__financial-management-analyst__890243000.pdf",
@@ -708,7 +1203,7 @@
       "id": "6aef35ff9790625f",
       "employer": "Immediate Office of the Chief of Naval Operations",
       "title": "FINANCIAL MANAGER",
-      "status": "needs_verification",
+      "status": "closed",
       "resume_status": "prepared_with_attention",
       "version_label": "current",
       "source": "applications/2026-11-02__immediate-office-of-the-chief-of-naval-o__financial-manager__6aef35ff9790625f/resume-xuewu-cai__immediate-office-of-the-chief-of-naval-o__financial-manager__890639100.pdf",
@@ -782,6 +1277,61 @@
       "sha256": "7b0c334a9e1b7104cd57e96b5c53dea0ec73f53e857d5623d371da4102b179ad"
     },
     {
+      "id": "d33d1b720ac4505c",
+      "employer": "Internal Revenue Service",
+      "title": "Program Evaluation and Risk Analyst",
+      "status": "needs_verification",
+      "resume_status": "prepared_with_attention",
+      "version_label": "current",
+      "source": "applications/2026-11-03__internal-revenue-service__program-evaluation-and-risk-analyst__d33d1b720ac4505c/resume-xuewu-cai__internal-revenue-service__program-evaluation-and-risk-analyst__891239200.pdf",
+      "path": "resumes/d33d1b720ac4505c__resume-xuewu-cai__internal-revenue-service__program-evaluation-and-risk-analyst__891239200.pdf",
+      "sha256": "f93d4b010af599cc130b471a4d8200c9737dabc9a6c1dbedc418f4d553c0907a"
+    },
+    {
+      "id": "7922ff3ed8078eab",
+      "employer": "Internal Revenue Service",
+      "title": "Senior Stakeholder Relationship Tax Consultant (Relationship Manager)",
+      "status": "needs_verification",
+      "resume_status": "prepared_with_attention",
+      "version_label": "current",
+      "source": "applications/2026-11-03__internal-revenue-service__senior-stakeholder-relationship-tax-consultant-relationship-mana__7922ff3ed8078eab/resume-xuewu-cai__internal-revenue-service__senior-stakeholder-relationship-tax-consultant-relationship-mana__891347500.pdf",
+      "path": "resumes/7922ff3ed8078eab__resume-xuewu-cai__internal-revenue-service__senior-stakeholder-relationship-tax-consultant-relationship-mana__891347500.pdf",
+      "sha256": "43249ece103486c5573fee6fac2ecc39137a8e55eb14a7b9e703b853b3a65945"
+    },
+    {
+      "id": "a840e842464cc6a8",
+      "employer": "Internal Revenue Service",
+      "title": "Senior Stakeholder Relationship Tax Consultant (Relationship Manager)",
+      "status": "needs_verification",
+      "resume_status": "prepared_with_attention",
+      "version_label": "current",
+      "source": "applications/2026-11-03__internal-revenue-service__senior-stakeholder-relationship-tax-consultant-relationship-mana__a840e842464cc6a8/resume-xuewu-cai__internal-revenue-service__senior-stakeholder-relationship-tax-consultant-relationship-mana__891327400.pdf",
+      "path": "resumes/a840e842464cc6a8__resume-xuewu-cai__internal-revenue-service__senior-stakeholder-relationship-tax-consultant-relationship-mana__891327400.pdf",
+      "sha256": "d6160cfb3e0be6e52b835d8500c2bafd86bd0fe95afc4349dde72d0a3600aef9"
+    },
+    {
+      "id": "3cc56f18c1f5ee95",
+      "employer": "Internal Revenue Service",
+      "title": "Supervisory Associate Advocate",
+      "status": "needs_verification",
+      "resume_status": "prepared_with_attention",
+      "version_label": "current",
+      "source": "applications/2026-11-03__internal-revenue-service__supervisory-associate-advocate__3cc56f18c1f5ee95/resume-xuewu-cai__internal-revenue-service__supervisory-associate-advocate__891382600.pdf",
+      "path": "resumes/3cc56f18c1f5ee95__resume-xuewu-cai__internal-revenue-service__supervisory-associate-advocate__891382600.pdf",
+      "sha256": "ddaf09dffb8330df30b5d9cb02b52f23c091a35ef35a4aacb4bca97ab5d655db"
+    },
+    {
+      "id": "a41456f283adfb74",
+      "employer": "Internal Revenue Service",
+      "title": "Taxpayer Advocate Group Manager",
+      "status": "needs_verification",
+      "resume_status": "prepared_with_attention",
+      "version_label": "current",
+      "source": "applications/2026-11-03__internal-revenue-service__taxpayer-advocate-group-manager__a41456f283adfb74/resume-xuewu-cai__internal-revenue-service__taxpayer-advocate-group-manager__891477900.pdf",
+      "path": "resumes/a41456f283adfb74__resume-xuewu-cai__internal-revenue-service__taxpayer-advocate-group-manager__891477900.pdf",
+      "sha256": "136256c89d370f2a018cc4d673746efe51fa7a9459eddb40610fc68e3b3eee18"
+    },
+    {
       "id": "dc6a76103ddb491c",
       "employer": "Joint Activities",
       "title": "OPERATIONS RESEARCH ANALYST",
@@ -802,6 +1352,17 @@
       "source": "applications/2026-11-02__military-treatment-facilities-under-dha__financial-management-analyst__8c33a2095137f94d/resume-xuewu-cai__military-treatment-facilities-under-dha__financial-management-analyst__890804700.pdf",
       "path": "resumes/8c33a2095137f94d__resume-xuewu-cai__military-treatment-facilities-under-dha__financial-management-analyst__890804700.pdf",
       "sha256": "7aba059d21ca842acaefbe6fe5ef0fbb205640a2259413e54b83d66aa23edd4d"
+    },
+    {
+      "id": "02916059c277e630",
+      "employer": "Military Treatment Facilities under DHA",
+      "title": "IT Specialist (PLCYPLN/INFOSEC)",
+      "status": "needs_verification",
+      "resume_status": "prepared_with_attention",
+      "version_label": "current",
+      "source": "applications/2026-11-03__military-treatment-facilities-under-dha__it-specialist-plcypln-infosec__02916059c277e630/resume-xuewu-cai__military-treatment-facilities-under-dha__it-specialist-plcypln-infosec__891283100.pdf",
+      "path": "resumes/02916059c277e630__resume-xuewu-cai__military-treatment-facilities-under-dha__it-specialist-plcypln-infosec__891283100.pdf",
+      "sha256": "c9d1dda70dd78f13db13edbf207fcd2e9ef98ab8b74a5e3ac6ca9af280f1c2b7"
     },
     {
       "id": "e1953172ea90c8a7",
@@ -826,6 +1387,17 @@
       "sha256": "a7805c2f45b404a57ec4f7db90e4f2f84d95b12b064f49a9a281691eff922e6d"
     },
     {
+      "id": "5dde911707efd5f7",
+      "employer": "Missile Defense Agency",
+      "title": "Program Analyst",
+      "status": "needs_verification",
+      "resume_status": "prepared_with_attention",
+      "version_label": "current",
+      "source": "applications/2026-11-03__missile-defense-agency__program-analyst__5dde911707efd5f7/resume-xuewu-cai__missile-defense-agency__program-analyst__891376800.pdf",
+      "path": "resumes/5dde911707efd5f7__resume-xuewu-cai__missile-defense-agency__program-analyst__891376800.pdf",
+      "sha256": "e6d0059dc9604229977ed7d48a53afb7e3ea340394192f272155a553d868be14"
+    },
+    {
       "id": "e13c4bb3d7bd5fcc",
       "employer": "National Gallery of Art",
       "title": "Information Technology Specialist",
@@ -835,6 +1407,17 @@
       "source": "applications/2026-11-02__national-gallery-of-art__information-technology-specialist__e13c4bb3d7bd5fcc/resume-xuewu-cai__national-gallery-of-art__information-technology-specialist__890928300.pdf",
       "path": "resumes/e13c4bb3d7bd5fcc__resume-xuewu-cai__national-gallery-of-art__information-technology-specialist__890928300.pdf",
       "sha256": "6f5f82eb07523168fba898fe5765f2b69186c2dbf196083a0163fe18d7e1fdb6"
+    },
+    {
+      "id": "73b70c24cb32ee8b",
+      "employer": "National Geospatial-Intelligence Agency",
+      "title": "Data Engineer (Open Continuous)",
+      "status": "needs_verification",
+      "resume_status": "prepared_with_attention",
+      "version_label": "current",
+      "source": "applications/2026-11-03__national-geospatial-intelligence-agency__data-engineer-open-continuous__73b70c24cb32ee8b/resume-xuewu-cai__national-geospatial-intelligence-agency__data-engineer-open-continuous__889388600.pdf",
+      "path": "resumes/73b70c24cb32ee8b__resume-xuewu-cai__national-geospatial-intelligence-agency__data-engineer-open-continuous__889388600.pdf",
+      "sha256": "091188ce212c70ea3490ee25b2c5bab77f4652ba5aad9a54e999bc9c290eabd6"
     },
     {
       "id": "e839d2d84ae5afac",
@@ -848,15 +1431,81 @@
       "sha256": "7f410134d888462969f6cd4f0a6f76ee2d7c13b5987ca5425e874f95ab43caa2"
     },
     {
+      "id": "48983eef0d034601",
+      "employer": "National Oceanic and Atmospheric Administration",
+      "title": "IT Specialist (Network Services)",
+      "status": "needs_verification",
+      "resume_status": "prepared_with_attention",
+      "version_label": "current",
+      "source": "applications/2026-11-03__national-oceanic-and-atmospheric-adminis__it-specialist-network-services__48983eef0d034601/resume-xuewu-cai__national-oceanic-and-atmospheric-adminis__it-specialist-network-services__891319900.pdf",
+      "path": "resumes/48983eef0d034601__resume-xuewu-cai__national-oceanic-and-atmospheric-adminis__it-specialist-network-services__891319900.pdf",
+      "sha256": "9f7f39d93bf50e1ad52bed5f26b28789ec04bc1b001e41ccfcec776422f98732"
+    },
+    {
+      "id": "f16f4d7b8176bd05",
+      "employer": "National Oceanic and Atmospheric Administration",
+      "title": "IT Specialist (Network Services)",
+      "status": "needs_verification",
+      "resume_status": "prepared_with_attention",
+      "version_label": "current",
+      "source": "applications/2026-11-03__national-oceanic-and-atmospheric-adminis__it-specialist-network-services__f16f4d7b8176bd05/resume-xuewu-cai__national-oceanic-and-atmospheric-adminis__it-specialist-network-services__891320000.pdf",
+      "path": "resumes/f16f4d7b8176bd05__resume-xuewu-cai__national-oceanic-and-atmospheric-adminis__it-specialist-network-services__891320000.pdf",
+      "sha256": "9f1c00db1710add311bac19c0feaab9528b9ba5f8caa8316226a8c6711405367"
+    },
+    {
+      "id": "b9d0897c0455dc7b",
+      "employer": "Naval Air Systems Command",
+      "title": "COMPUTER SCIENTIST",
+      "status": "needs_verification",
+      "resume_status": "prepared_with_attention",
+      "version_label": "current",
+      "source": "applications/2026-11-03__naval-air-systems-command__computer-scientist__b9d0897c0455dc7b/resume-xuewu-cai__naval-air-systems-command__computer-scientist__891187100.pdf",
+      "path": "resumes/b9d0897c0455dc7b__resume-xuewu-cai__naval-air-systems-command__computer-scientist__891187100.pdf",
+      "sha256": "d9f8c61efa112907066f6c525323b778d65c680bae387f1db3b2edebad8e197b"
+    },
+    {
       "id": "ff041cce574de473",
       "employer": "Naval Air Systems Command",
       "title": "FINANCIAL MANAGEMENT ANALYST",
-      "status": "needs_verification",
+      "status": "closed",
       "resume_status": "prepared_with_attention",
       "version_label": "current",
       "source": "applications/2026-11-02__naval-air-systems-command__financial-management-analyst__ff041cce574de473/resume-xuewu-cai__naval-air-systems-command__financial-management-analyst__890119500.pdf",
       "path": "resumes/ff041cce574de473__resume-xuewu-cai__naval-air-systems-command__financial-management-analyst__890119500.pdf",
       "sha256": "587385c50f2c9cad7a0f73c1e4c171afa17d5e5a21ebc74369a6fa9049e25b30"
+    },
+    {
+      "id": "5eb2f66dd105f41f",
+      "employer": "Naval Air Systems Command",
+      "title": "INTERDISCIPLINARY ENGINEER",
+      "status": "needs_verification",
+      "resume_status": "prepared_with_attention",
+      "version_label": "current",
+      "source": "applications/2026-11-03__naval-air-systems-command__interdisciplinary-engineer__5eb2f66dd105f41f/resume-xuewu-cai__naval-air-systems-command__interdisciplinary-engineer__891290300.pdf",
+      "path": "resumes/5eb2f66dd105f41f__resume-xuewu-cai__naval-air-systems-command__interdisciplinary-engineer__891290300.pdf",
+      "sha256": "1129885a6eb3cf817b274160e2b17fc7aa58d540e9dff9c63a95ba1b2600d8ca"
+    },
+    {
+      "id": "ece184f68cf508b3",
+      "employer": "Naval Air Systems Command",
+      "title": "INTERDISCIPLINARY ENGINEER",
+      "status": "needs_verification",
+      "resume_status": "prepared_with_attention",
+      "version_label": "current",
+      "source": "applications/2026-11-03__naval-air-systems-command__interdisciplinary-engineer__ece184f68cf508b3/resume-xuewu-cai__naval-air-systems-command__interdisciplinary-engineer__891296600.pdf",
+      "path": "resumes/ece184f68cf508b3__resume-xuewu-cai__naval-air-systems-command__interdisciplinary-engineer__891296600.pdf",
+      "sha256": "cc3bafc2c8711df75433fbe6625690319e802a60e945e4ca649453f40f7bae4f"
+    },
+    {
+      "id": "2b463fb25f9d9425",
+      "employer": "Naval Air Systems Command",
+      "title": "INTERDISCIPLINARY ENGINEER/ PHYSICIST",
+      "status": "needs_verification",
+      "resume_status": "prepared_with_attention",
+      "version_label": "current",
+      "source": "applications/2026-11-03__naval-air-systems-command__interdisciplinary-engineer-physicist__2b463fb25f9d9425/resume-xuewu-cai__naval-air-systems-command__interdisciplinary-engineer-physicist__891354400.pdf",
+      "path": "resumes/2b463fb25f9d9425__resume-xuewu-cai__naval-air-systems-command__interdisciplinary-engineer-physicist__891354400.pdf",
+      "sha256": "47ec0152f6022e50fe3588bdc871a9b37c7e42dbb5127322c4c63ad6dd16c4e2"
     },
     {
       "id": "679c7a53c9858c65",
@@ -881,6 +1530,28 @@
       "sha256": "882d8b106d2c5598b9fbc3d226454ea523deca3dad7a3e6efc6614f11a0b69bc"
     },
     {
+      "id": "d3afad935e7c347a",
+      "employer": "Naval Air Systems Command",
+      "title": "INTERDISCIPLINARY ENGINEER/SCIENTIST",
+      "status": "needs_verification",
+      "resume_status": "prepared_with_attention",
+      "version_label": "current",
+      "source": "applications/2026-11-03__naval-air-systems-command__interdisciplinary-engineer-scientist__d3afad935e7c347a/resume-xuewu-cai__naval-air-systems-command__interdisciplinary-engineer-scientist__891264500.pdf",
+      "path": "resumes/d3afad935e7c347a__resume-xuewu-cai__naval-air-systems-command__interdisciplinary-engineer-scientist__891264500.pdf",
+      "sha256": "d592b64174330f47bb111f85dcf22888dc201a8ac9e4052ba378f9ea778907c3"
+    },
+    {
+      "id": "dcc17f5e4f76a7e1",
+      "employer": "Naval Air Systems Command",
+      "title": "IT SPECIALIST (APPSW)",
+      "status": "needs_verification",
+      "resume_status": "prepared_with_attention",
+      "version_label": "current",
+      "source": "applications/2026-11-03__naval-air-systems-command__it-specialist-appsw__dcc17f5e4f76a7e1/resume-xuewu-cai__naval-air-systems-command__it-specialist-appsw__891344800.pdf",
+      "path": "resumes/dcc17f5e4f76a7e1__resume-xuewu-cai__naval-air-systems-command__it-specialist-appsw__891344800.pdf",
+      "sha256": "c3844310b672d923846e14caaf36d0120642a2f94642c7d9f95ec7a4505920a5"
+    },
+    {
       "id": "2f86f87ca7246127",
       "employer": "Naval Air Systems Command",
       "title": "IT SPECIALIST (PLCYPLN)",
@@ -903,6 +1574,17 @@
       "sha256": "73b1577f65d17ec38675795f48ea315011110a96a2d70bad05dfbc249db24295"
     },
     {
+      "id": "b440e4c2e92a1220",
+      "employer": "Naval Facilities Engineering Systems Command",
+      "title": "FINANCIAL MANAGEMENT ANALYST",
+      "status": "needs_verification",
+      "resume_status": "prepared_with_attention",
+      "version_label": "current",
+      "source": "applications/2026-11-03__naval-facilities-engineering-systems-com__financial-management-analyst__b440e4c2e92a1220/resume-xuewu-cai__naval-facilities-engineering-systems-com__financial-management-analyst__890832000.pdf",
+      "path": "resumes/b440e4c2e92a1220__resume-xuewu-cai__naval-facilities-engineering-systems-com__financial-management-analyst__890832000.pdf",
+      "sha256": "3977c8e2a5494db02fab05a4501f5ee654b426c525a1dc86864274cda05702dc"
+    },
+    {
       "id": "66c5f64fa0b81d56",
       "employer": "Naval Special Warfare Command",
       "title": "SUPERVISORY FINANCIAL MANAGEMENT ANALYST",
@@ -923,6 +1605,28 @@
       "source": "applications/2026-11-02__naval-supply-systems-command__supervisory-it-specialist-plcypln__5e1c3dbbced9909a/resume-xuewu-cai__naval-supply-systems-command__supervisory-it-specialist-plcypln__890448300.pdf",
       "path": "resumes/5e1c3dbbced9909a__resume-xuewu-cai__naval-supply-systems-command__supervisory-it-specialist-plcypln__890448300.pdf",
       "sha256": "86302c2d6e3a57ac882d30f1a29b2178f8f66f48fae2a1ca9d113efbbe9bd8f3"
+    },
+    {
+      "id": "6a6ba531cbe948e4",
+      "employer": "Naval Systems Management Activity",
+      "title": "FINANCIAL MANAGEMENT ANALYST",
+      "status": "needs_verification",
+      "resume_status": "prepared_with_attention",
+      "version_label": "current",
+      "source": "applications/2026-11-03__naval-systems-management-activity__financial-management-analyst__6a6ba531cbe948e4/resume-xuewu-cai__naval-systems-management-activity__financial-management-analyst__891472900.pdf",
+      "path": "resumes/6a6ba531cbe948e4__resume-xuewu-cai__naval-systems-management-activity__financial-management-analyst__891472900.pdf",
+      "sha256": "476e7e262e9c8d0953e6572a9319e6edc8acb32efddd1b4f16b3507cf30d4e26"
+    },
+    {
+      "id": "ede4f82b5c6f8324",
+      "employer": "Naval Systems Management Activity",
+      "title": "IT SPECIALIST (NETWORK/ENTARCH)",
+      "status": "needs_verification",
+      "resume_status": "prepared_with_attention",
+      "version_label": "current",
+      "source": "applications/2026-11-03__naval-systems-management-activity__it-specialist-network-entarch__ede4f82b5c6f8324/resume-xuewu-cai__naval-systems-management-activity__it-specialist-network-entarch__890954100.pdf",
+      "path": "resumes/ede4f82b5c6f8324__resume-xuewu-cai__naval-systems-management-activity__it-specialist-network-entarch__890954100.pdf",
+      "sha256": "3828d65d2b15072cc06955cc9cc0608bbb5387cee910ebba0216a5453a4c60dc"
     },
     {
       "id": "8efc2d80781bcd7c",
@@ -961,7 +1665,7 @@
       "id": "a397af38cd85379a",
       "employer": "Office of Naval Research",
       "title": "FINANCIAL AND ADMINISTRATIVE MANAGEMENT SPECIALIST",
-      "status": "needs_verification",
+      "status": "closed",
       "resume_status": "prepared_with_attention",
       "version_label": "current",
       "source": "applications/2026-11-02__office-of-naval-research__financial-and-administrative-management-specialist__a397af38cd85379a/resume-xuewu-cai__office-of-naval-research__financial-and-administrative-management-specialist__889661400.pdf",
@@ -989,6 +1693,28 @@
       "source": "applications/2026-11-02__office-of-personnel-management__it-software-engineer-tech-force__fe55fae01e64d7cf/resume-xuewu-cai__office-of-personnel-management__it-software-engineer-tech-force__888508400.pdf",
       "path": "resumes/fe55fae01e64d7cf__resume-xuewu-cai__office-of-personnel-management__it-software-engineer-tech-force__888508400.pdf",
       "sha256": "f0678891e882d735db95dc3716e81a76c5e313cdf58978a9e09ff79dc1d5de8e"
+    },
+    {
+      "id": "541b867e85a582e1",
+      "employer": "Office of Personnel Management",
+      "title": "Supervisory Budget Analyst",
+      "status": "needs_verification",
+      "resume_status": "prepared_with_attention",
+      "version_label": "current",
+      "source": "applications/2026-11-03__office-of-personnel-management__supervisory-budget-analyst__541b867e85a582e1/resume-xuewu-cai__office-of-personnel-management__supervisory-budget-analyst__891415200.pdf",
+      "path": "resumes/541b867e85a582e1__resume-xuewu-cai__office-of-personnel-management__supervisory-budget-analyst__891415200.pdf",
+      "sha256": "88cd07e5e420cc79946b21d3ed4f475b2624446dd195b046d2e1c6ad36881d00"
+    },
+    {
+      "id": "a9a44096934dec6d",
+      "employer": "Office of the Director of National Intelligence",
+      "title": "Budget Justification Chief",
+      "status": "needs_verification",
+      "resume_status": "prepared_with_attention",
+      "version_label": "current",
+      "source": "applications/2026-11-03__office-of-the-director-of-national-intel__budget-justification-chief__a9a44096934dec6d/resume-xuewu-cai__office-of-the-director-of-national-intel__budget-justification-chief__891509800.pdf",
+      "path": "resumes/a9a44096934dec6d__resume-xuewu-cai__office-of-the-director-of-national-intel__budget-justification-chief__891509800.pdf",
+      "sha256": "4f3a0a5eb510db30e2d70b69cec112e6ae092e401b1d22a160380a38a9af0fe8"
     },
     {
       "id": "383ae9483775ba0f",
@@ -1022,6 +1748,17 @@
       "source": "applications/2026-11-02__office-of-the-director-of-national-intel__financial-manager-execution-team__0ed79a84c3456654/resume-xuewu-cai__office-of-the-director-of-national-intel__financial-manager-execution-team__886558900.pdf",
       "path": "resumes/0ed79a84c3456654__resume-xuewu-cai__office-of-the-director-of-national-intel__financial-manager-execution-team__886558900.pdf",
       "sha256": "84e3ed511aa04bd11735fb061cda7acb1d67a77098611535987229e2c2dfb80a"
+    },
+    {
+      "id": "71a900912646410e",
+      "employer": "Office of the Inspector General",
+      "title": "IT Development and Analysis (Enterprise Applications Engineer)",
+      "status": "needs_verification",
+      "resume_status": "prepared_with_attention",
+      "version_label": "current",
+      "source": "applications/2026-11-03__office-of-the-inspector-general__it-development-and-analysis-enterprise-applications-engineer__71a900912646410e/resume-xuewu-cai__office-of-the-inspector-general__it-development-and-analysis-enterprise-applications-engineer__891335300.pdf",
+      "path": "resumes/71a900912646410e__resume-xuewu-cai__office-of-the-inspector-general__it-development-and-analysis-enterprise-applications-engineer__891335300.pdf",
+      "sha256": "3309538e9012a4cc93890bdb1ca9260e99a62af92871f5cb4f7c1098cb6830e3"
     },
     {
       "id": "3adbdea33c928019",
@@ -1090,10 +1827,43 @@
       "sha256": "b1bdcf1142ca2f25abb68110e7bf1867c4aab569d4107a849ca0727b593f319c"
     },
     {
+      "id": "950f39a4c23b500e",
+      "employer": "Pension Benefit Guaranty Corporation",
+      "title": "INTERDISCIPLINARY (DATA SCIENTIST/ECONOMIST)",
+      "status": "needs_verification",
+      "resume_status": "prepared_with_attention",
+      "version_label": "current",
+      "source": "applications/2026-11-03__pension-benefit-guaranty-corporation__interdisciplinary-data-scientist-economist__950f39a4c23b500e/resume-xuewu-cai__pension-benefit-guaranty-corporation__interdisciplinary-data-scientist-economist__891340900.pdf",
+      "path": "resumes/950f39a4c23b500e__resume-xuewu-cai__pension-benefit-guaranty-corporation__interdisciplinary-data-scientist-economist__891340900.pdf",
+      "sha256": "991d3f23d3f3ad6d400799303e8e38fbf1f552986bc864e3c3a4f03c4ac49409"
+    },
+    {
+      "id": "9a9d816e41ac8549",
+      "employer": "Railroad Retirement Board",
+      "title": "IT Specialist (Data Engineer)",
+      "status": "needs_verification",
+      "resume_status": "prepared_with_attention",
+      "version_label": "current",
+      "source": "applications/2026-11-03__railroad-retirement-board__it-specialist-data-engineer__9a9d816e41ac8549/resume-xuewu-cai__railroad-retirement-board__it-specialist-data-engineer__891337300.pdf",
+      "path": "resumes/9a9d816e41ac8549__resume-xuewu-cai__railroad-retirement-board__it-specialist-data-engineer__891337300.pdf",
+      "sha256": "583a92c6506b66cb3fa0ace95159a7fac04b52f89c4b8846718e66d19a3e35eb"
+    },
+    {
+      "id": "bd1bfb118d09f54e",
+      "employer": "Railroad Retirement Board",
+      "title": "IT Specialist (Data Engineer)",
+      "status": "needs_verification",
+      "resume_status": "prepared_with_attention",
+      "version_label": "current",
+      "source": "applications/2026-11-03__railroad-retirement-board__it-specialist-data-engineer__bd1bfb118d09f54e/resume-xuewu-cai__railroad-retirement-board__it-specialist-data-engineer__891337400.pdf",
+      "path": "resumes/bd1bfb118d09f54e__resume-xuewu-cai__railroad-retirement-board__it-specialist-data-engineer__891337400.pdf",
+      "sha256": "10c0b2ae041fb078fc4dc6f37c59998d79a36de44d04e7e7efd082b22ff4fb83"
+    },
+    {
       "id": "7bb064a63f4b534c",
       "employer": "Risk Management Agency",
       "title": "Risk Management Specialist",
-      "status": "needs_verification",
+      "status": "closed",
       "resume_status": "prepared_with_attention",
       "version_label": "current",
       "source": "applications/2026-11-02__risk-management-agency__risk-management-specialist__7bb064a63f4b534c/resume-xuewu-cai__risk-management-agency__risk-management-specialist__889890900.pdf",
@@ -1123,6 +1893,17 @@
       "sha256": "71aca33c5c009fb83a73b73f4b5c26b6c69363a554d3abaef179ad176314c186"
     },
     {
+      "id": "8cf1f87fd85985c8",
+      "employer": "Secretary of the Navy Offices (SECNAV)",
+      "title": "PROGRAM ANALYST (CYBER INFRASTRUCTURE)",
+      "status": "needs_verification",
+      "resume_status": "prepared_with_attention",
+      "version_label": "current",
+      "source": "applications/2026-11-03__secretary-of-the-navy-offices-secnav__program-analyst-cyber-infrastructure__8cf1f87fd85985c8/resume-xuewu-cai__secretary-of-the-navy-offices-secnav__program-analyst-cyber-infrastructure__889812300.pdf",
+      "path": "resumes/8cf1f87fd85985c8__resume-xuewu-cai__secretary-of-the-navy-offices-secnav__program-analyst-cyber-infrastructure__889812300.pdf",
+      "sha256": "5637ded8506c52634b64795a00a1625f86b8e9222546ad2cf6d8b6b180d3ac10"
+    },
+    {
       "id": "faa484188f9b969a",
       "employer": "Securities and Exchange Commission",
       "title": "Financial Economist",
@@ -1145,15 +1926,59 @@
       "sha256": "38b584f3da936e51304d3b9d24896f54f1f1e0cd44d2e84592ed454b3912eec0"
     },
     {
+      "id": "a1c8e0fa9c727f35",
+      "employer": "Securities and Exchange Commission",
+      "title": "Web Developer",
+      "status": "needs_verification",
+      "resume_status": "prepared_with_attention",
+      "version_label": "current",
+      "source": "applications/2026-11-03__securities-and-exchange-commission__web-developer__a1c8e0fa9c727f35/resume-xuewu-cai__securities-and-exchange-commission__web-developer__891498900.pdf",
+      "path": "resumes/a1c8e0fa9c727f35__resume-xuewu-cai__securities-and-exchange-commission__web-developer__891498900.pdf",
+      "sha256": "a8e4a8e73a49ce3761a14ac4e6611efdbb7626b2f342cdd6e94e8f30d796c34c"
+    },
+    {
+      "id": "24e16b875d4a2dad",
+      "employer": "Smithsonian Institution ",
+      "title": "IT Specialist",
+      "status": "needs_verification",
+      "resume_status": "prepared_with_attention",
+      "version_label": "current",
+      "source": "applications/2026-11-03__smithsonian-institution__it-specialist__24e16b875d4a2dad/resume-xuewu-cai__smithsonian-institution__it-specialist__891321200.pdf",
+      "path": "resumes/24e16b875d4a2dad__resume-xuewu-cai__smithsonian-institution__it-specialist__891321200.pdf",
+      "sha256": "05523e49cbc2338e6321343390e223b640e4f85102ee3f509774132a833846d1"
+    },
+    {
+      "id": "e3f945b0251dce78",
+      "employer": "Smithsonian Institution ",
+      "title": "IT Specialist",
+      "status": "needs_verification",
+      "resume_status": "prepared_with_attention",
+      "version_label": "current",
+      "source": "applications/2026-11-03__smithsonian-institution__it-specialist__e3f945b0251dce78/resume-xuewu-cai__smithsonian-institution__it-specialist__891321000.pdf",
+      "path": "resumes/e3f945b0251dce78__resume-xuewu-cai__smithsonian-institution__it-specialist__891321000.pdf",
+      "sha256": "e8ead822c38ccaaa7a4f64335c67df40b6189bd9a8a7c27e2ae05b7a89742639"
+    },
+    {
       "id": "b6f24c3fd93797f0",
       "employer": "Social Security Administration",
       "title": "Head of Tech Finance",
-      "status": "needs_verification",
+      "status": "closed",
       "resume_status": "prepared_with_attention",
       "version_label": "current",
       "source": "applications/2026-11-01__social-security-administration__head-of-tech-finance__b6f24c3fd93797f0/resume-xuewu-cai__social-security-administration__head-of-tech-finance__889254700.pdf",
       "path": "resumes/b6f24c3fd93797f0__resume-xuewu-cai__social-security-administration__head-of-tech-finance__889254700.pdf",
       "sha256": "6ca42faa4c9ac05e3bb63c136f9dc3e6773c3dd050efc5a47f2340ff185242fb"
+    },
+    {
+      "id": "9a0ef43328ec4c22",
+      "employer": "Social Security Administration",
+      "title": "Supervisory IT Specialist (SYSADM)",
+      "status": "needs_verification",
+      "resume_status": "prepared_with_attention",
+      "version_label": "current",
+      "source": "applications/2026-11-03__social-security-administration__supervisory-it-specialist-sysadm__9a0ef43328ec4c22/resume-xuewu-cai__social-security-administration__supervisory-it-specialist-sysadm__891247900.pdf",
+      "path": "resumes/9a0ef43328ec4c22__resume-xuewu-cai__social-security-administration__supervisory-it-specialist-sysadm__891247900.pdf",
+      "sha256": "5b77aead6bcb52d19bcd1b76dd703e08b4dcbc81a13ac84ed29885a4640720eb"
     },
     {
       "id": "df682049884eb4a2",
@@ -1189,15 +2014,37 @@
       "sha256": "3a4f216ff6ea0257eae57b457dee6c8e1db0270785f1fb254ce9ccb03b03ad19"
     },
     {
+      "id": "f722facd9ea10338",
+      "employer": "Treasury, Departmental Offices",
+      "title": "Senior Cybersecurity Specialist",
+      "status": "needs_verification",
+      "resume_status": "prepared_with_attention",
+      "version_label": "current",
+      "source": "applications/2026-11-03__treasury-departmental-offices__senior-cybersecurity-specialist__f722facd9ea10338/resume-xuewu-cai__treasury-departmental-offices__senior-cybersecurity-specialist__891340600.pdf",
+      "path": "resumes/f722facd9ea10338__resume-xuewu-cai__treasury-departmental-offices__senior-cybersecurity-specialist__891340600.pdf",
+      "sha256": "8a8525f28d8e438f986f109f01427b91a1f2e45708cbf221b8ddd38b003440dc"
+    },
+    {
       "id": "55ed282f8e415eed",
       "employer": "Treasury, Departmental Offices",
       "title": "Senior Financial Stability Policy Advisor",
-      "status": "needs_verification",
+      "status": "closed",
       "resume_status": "prepared_with_attention",
       "version_label": "current",
       "source": "applications/2026-11-02__treasury-departmental-offices__senior-financial-stability-policy-advisor__55ed282f8e415eed/resume-xuewu-cai__treasury-departmental-offices__senior-financial-stability-policy-advisor__890259600.pdf",
       "path": "resumes/55ed282f8e415eed__resume-xuewu-cai__treasury-departmental-offices__senior-financial-stability-policy-advisor__890259600.pdf",
       "sha256": "c41b815385a703bc8823601b1cb158ade417ef761e99d1af2b415a4059d0ca1d"
+    },
+    {
+      "id": "d6a7dd0b9fb087e2",
+      "employer": "U.S. Army Corps of Engineers",
+      "title": "Civilian Pay Specialist",
+      "status": "needs_verification",
+      "resume_status": "prepared_with_attention",
+      "version_label": "current",
+      "source": "applications/2026-11-03__u-s-army-corps-of-engineers__civilian-pay-specialist__d6a7dd0b9fb087e2/resume-xuewu-cai__u-s-army-corps-of-engineers__civilian-pay-specialist__891174100.pdf",
+      "path": "resumes/d6a7dd0b9fb087e2__resume-xuewu-cai__u-s-army-corps-of-engineers__civilian-pay-specialist__891174100.pdf",
+      "sha256": "a7dcdb3ba94b2137582e650a0555bb610444409e14e33f1a35f9ae61a0ef48e8"
     },
     {
       "id": "5af6ab5231566c5c",
@@ -1288,6 +2135,28 @@
       "sha256": "83b1472e626f072ed36adda9c3f27215ac5b40c0021842cf4d1e0570202de51d"
     },
     {
+      "id": "322be1a7e4b70e01",
+      "employer": "U.S. Marine Corps",
+      "title": "JR MERCHANDISE PLANNER NF3",
+      "status": "needs_verification",
+      "resume_status": "prepared_with_attention",
+      "version_label": "current",
+      "source": "applications/2026-11-03__u-s-marine-corps__jr-merchandise-planner-nf3__322be1a7e4b70e01/resume-xuewu-cai__u-s-marine-corps__jr-merchandise-planner-nf3__891369800.pdf",
+      "path": "resumes/322be1a7e4b70e01__resume-xuewu-cai__u-s-marine-corps__jr-merchandise-planner-nf3__891369800.pdf",
+      "sha256": "2b3b492e03c28dbab89847977f0719fed1d1434b3221cba138ea0a7555b1a238"
+    },
+    {
+      "id": "0efa99eb9804aac0",
+      "employer": "US Army Civilian Human Resources Agency",
+      "title": "Information Technology Specialist (Applications Software)",
+      "status": "needs_verification",
+      "resume_status": "prepared_with_attention",
+      "version_label": "current",
+      "source": "applications/2026-11-03__us-army-civilian-human-resources-agency__information-technology-specialist-applications-software__0efa99eb9804aac0/resume-xuewu-cai__us-army-civilian-human-resources-agency__information-technology-specialist-applications-software__891460300.pdf",
+      "path": "resumes/0efa99eb9804aac0__resume-xuewu-cai__us-army-civilian-human-resources-agency__information-technology-specialist-applications-software__891460300.pdf",
+      "sha256": "144bb0d79cf93a1f06f9166af389783a467b2c598590fa553634567b4ec18c22"
+    },
+    {
       "id": "dcba9f7b8bcbff94",
       "employer": "United States Army Installation Management Command",
       "title": "Financial Manager NF-04",
@@ -1313,7 +2182,7 @@
       "id": "152d65ca43c79388",
       "employer": "United States Fleet Forces Command",
       "title": "FINANCIAL MANAGEMENT ANALYST",
-      "status": "needs_verification",
+      "status": "closed",
       "resume_status": "prepared_with_attention",
       "version_label": "current",
       "source": "applications/2026-11-02__united-states-fleet-forces-command__financial-management-analyst__152d65ca43c79388/resume-xuewu-cai__united-states-fleet-forces-command__financial-management-analyst__890195900.pdf",
@@ -1335,7 +2204,7 @@
       "id": "88696fa38e9b21ee",
       "employer": "United States Fleet Forces Command",
       "title": "FINANCIAL MANAGEMENT ANALYST",
-      "status": "needs_verification",
+      "status": "closed",
       "resume_status": "prepared_with_attention",
       "version_label": "current",
       "source": "applications/2026-11-02__united-states-fleet-forces-command__financial-management-analyst__88696fa38e9b21ee/resume-xuewu-cai__united-states-fleet-forces-command__financial-management-analyst__890209700.pdf",
@@ -1352,6 +2221,28 @@
       "source": "applications/2026-11-02__united-states-fleet-forces-command__financial-management-analyst__9a55088713f12ed3/resume-xuewu-cai__united-states-fleet-forces-command__financial-management-analyst__890983000.pdf",
       "path": "resumes/9a55088713f12ed3__resume-xuewu-cai__united-states-fleet-forces-command__financial-management-analyst__890983000.pdf",
       "sha256": "7c5ac92555b88cf5995f2b3d75e4dac311d018ed7d2db7a790b1830b1d1839b7"
+    },
+    {
+      "id": "dd6efb37ea870f01",
+      "employer": "United States Fleet Forces Command",
+      "title": "Financial Management Specialist",
+      "status": "needs_verification",
+      "resume_status": "prepared_with_attention",
+      "version_label": "current",
+      "source": "applications/2026-11-03__united-states-fleet-forces-command__financial-management-specialist__dd6efb37ea870f01/resume-xuewu-cai__united-states-fleet-forces-command__financial-management-specialist__891219100.pdf",
+      "path": "resumes/dd6efb37ea870f01__resume-xuewu-cai__united-states-fleet-forces-command__financial-management-specialist__891219100.pdf",
+      "sha256": "2a4563730a75a32a4b6ea08a4935748e06bd971712712df9b409181d9b7974d3"
+    },
+    {
+      "id": "e967180ed7edcc32",
+      "employer": "United States Fleet Forces Command",
+      "title": "INFORMATION TECHNOLOGY SPECIALIST (SECURITY)",
+      "status": "needs_verification",
+      "resume_status": "prepared_with_attention",
+      "version_label": "current",
+      "source": "applications/2026-11-03__united-states-fleet-forces-command__information-technology-specialist-security__e967180ed7edcc32/resume-xuewu-cai__united-states-fleet-forces-command__information-technology-specialist-security__891389500.pdf",
+      "path": "resumes/e967180ed7edcc32__resume-xuewu-cai__united-states-fleet-forces-command__information-technology-specialist-security__891389500.pdf",
+      "sha256": "c15f023c3a582479b185f3ac8757b14aa6b54a16395799cff1f19b41442c5980"
     },
     {
       "id": "656578176df828c4",
@@ -1374,6 +2265,28 @@
       "source": "applications/2026-11-02__united-states-fleet-forces-command__it-specialist-infosec-plcypln__7e203cb6bf5e84f4/resume-xuewu-cai__united-states-fleet-forces-command__it-specialist-infosec-plcypln__890647200.pdf",
       "path": "resumes/7e203cb6bf5e84f4__resume-xuewu-cai__united-states-fleet-forces-command__it-specialist-infosec-plcypln__890647200.pdf",
       "sha256": "5f1f6e9f48282f997d104ae5508741e63ead4a81fcbb3c6c4a5732b6079e2868"
+    },
+    {
+      "id": "b6e38ce4261424f2",
+      "employer": "United States Fleet Forces Command",
+      "title": "SUPERVISORY FINANCIAL MANAGEMENT ANALYST",
+      "status": "needs_verification",
+      "resume_status": "prepared_with_attention",
+      "version_label": "current",
+      "source": "applications/2026-11-03__united-states-fleet-forces-command__supervisory-financial-management-analyst__b6e38ce4261424f2/resume-xuewu-cai__united-states-fleet-forces-command__supervisory-financial-management-analyst__891165800.pdf",
+      "path": "resumes/b6e38ce4261424f2__resume-xuewu-cai__united-states-fleet-forces-command__supervisory-financial-management-analyst__891165800.pdf",
+      "sha256": "3071af905ddfba25dea42d2f305c34c24c23eb7fdd8088b9276519a9eef7067b"
+    },
+    {
+      "id": "201031e1846f815c",
+      "employer": "United States Fleet Forces Command",
+      "title": "SUPERVISORY INFORMATION TECHNOLOGY SPECIALIST (SECURITY)",
+      "status": "needs_verification",
+      "resume_status": "prepared_with_attention",
+      "version_label": "current",
+      "source": "applications/2026-11-03__united-states-fleet-forces-command__supervisory-information-technology-specialist-security__201031e1846f815c/resume-xuewu-cai__united-states-fleet-forces-command__supervisory-information-technology-specialist-security__891251300.pdf",
+      "path": "resumes/201031e1846f815c__resume-xuewu-cai__united-states-fleet-forces-command__supervisory-information-technology-specialist-security__891251300.pdf",
+      "sha256": "65961a8fcbf519f1f46b9d95a903fe5a6a99c99b3455d33c9d1695279a2ca10c"
     },
     {
       "id": "16f54e578b2089d3",

@@ -38,3 +38,7 @@ Education requirements do not apply to this vacancy announcement.
 ### Preparation and tailoring
 
 Generated one current unversioned Markdown/PDF pair in the restored two-page layout. Summary themes and Freddie Mac bullet order emphasize only baseline-supported concepts present in this announcement. No requirement is copied as a new claim. Preserved prior PDF versions and approval evidence; no new v2/compact alternative created. Neutral PDF title/author; no editing or targeting labels. Candidate hours/week, exact days, GPA/transcripts, hiring status and declarations remain pending where required. No application selected, uploaded or submitted.
+
+## Availability refresh — 2026-11-03
+
+Closed: official announcement deadline has passed. Evidence: /Volumes/WD512x2/home/gourmetcai/project/govjobs/tracking/runs/2026-11-03-step1-202038/announcements/890259900.json. No application submitted.

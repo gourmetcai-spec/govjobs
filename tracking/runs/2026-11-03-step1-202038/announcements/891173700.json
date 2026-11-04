@@ -1,0 +1,32 @@
+{
+  "@context": "http://www.schema.org",
+  "@type": "JobPosting",
+  "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": {
+      "@type": "QuantitativeValue",
+      "value": 169279.0,
+      "unitText": "YEAR"
+    }
+  },
+  "datePosted": "11/03/2026",
+  "description": "View <a href=\"https://www.dhs.gov/homeland-security-careers/common-terms-announcements\">Common Definitions</a> of terms found in this announcement.<br>\n<br>\n<strong>Organizational Location:</strong> This position is located in the Department of Homeland Security, U.S. Immigration and Customs Enforcement, Homeland Security Investigations, in Washington, District of Columbia.<br>\n<br>\nThis announcement may be used to fill additional vacancies within the National Capital Region.<br>\n<br>\nThis is a non-bargaining unit position.",
+  "educationRequirements": "This job does not have an education qualification requirement.",
+  "employmentType": "OTHER",
+  "hiringOrganization": "DAD INVESTIGATIVE SERVICES",
+  "jobLocation": [
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Washington",
+        "addressRegion": "DC "
+      }
+    }
+  ],
+  "responsibilities": "As a Management and Program Analyst (Senior Program Advisor), at the full performance level you will perform the following duties:\n<ul>\n\t<li>Direct, implement, coordinate and/or oversee a variety of management programs impacting Homeland Security Investigations;</li>\n\t<li>Provide direct support to headquarters management staff in all matters relating to national law enforcement programs to meet mission requirements;</li>\n\t<li>Plan, develop and coordinate planning management through briefings, presentations and conferences for executive management; and</li>\n\t<li>Develop policies, issuances and directives.</li>\n</ul>",
+  "qualifications": "<i>Please limit your resume to 2 pages. If more than 2 pages are submitted, only the first 2 pages will be reviewed to determine your eligibility/qualifications.</i><br>\n<br>\n<b>IN DESCRIBING YOUR EXPERIENCE, PLEASE BE CLEAR AND SPECIFIC. WE WILL NOT MAKE ASSUMPTIONS REGARDING YOUR EXPERIENCE.</b><br>\n<b>Do not</b> copy and paste the duties, specialized experience, or occupational assessment questionnaire from this announcement into your resume as that will not be considered a demonstration of your qualifications for this position.<br>\n<br>\nYou qualify for the GS-15 grade level if you possess one (1) year of specialized experience at the GS-14 grade level or equivalent performing duties such as:\n<ul>\n\t<li>Serving as an expert analyst and/or advisor to executive management on a major mission or administrative program and when representing DHS at meetings and conferences;</li>\n\t<li>Determining the applicability and effect of new or proposed legislation, executive orders, agency directives, and other agency decisions on organizational operations, managerial programs and requirements;</li>\n\t<li>Directing, implementing, coordinating, and overseeing a major segment of an agency-wide or department-wide program;</li>\n\t<li>Coordinating activities of staff; advise and provide analytical support on problem definitions, planning methodologies, policies and procedures; and</li>\n\t<li>Developing and coordinating planning management through briefings, presentations and conferences for executive management.</li>\n</ul>\n<strong>Qualification requirements must be met by the closing date of this announcement. Qualification claims will be subject to verification.</strong><br>\n<br>\n<strong>National Service Experience (i.e., volunteer experience)</strong>: Experience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., Peace Corps, AmeriCorps) and other organizations (e.g., professional; philanthropic; religious; spiritual; community, student, social). Volunteer work helps build critical competencies, knowledge, and skills and can provide valuable training and experience that translates directly to paid employment. You will receive credit for all qualifying experience, including volunteer experience.<br>\n<br>\n<strong>Current or Former Political Appointees:</strong> The Office of Personnel Management (OPM) must authorize employment offers made to current or former political appointees. If you are currently, or have been within the last 5 years, a political Schedule A, Schedule C, Non-career SES or Presidential Appointee employee in the Executive Branch, you must disclose this information to the Human Resources Office.<br>\n<br>\nThe Department of Homeland Security encourages persons with disabilities to apply, to include persons with intellectual, severe physical or psychiatric disabilities, as defined by 5 CFR 213.3102(u), and/or Disabled Veterans with a compensable service-connected disability of 30 percent or more as defined by 5 CFR 315.707. <a href=\"https://www.fedshirevets.gov/job-seekers/special-hiring-authorities/#content\">Veterans</a>, <a href=\"https://www.peacecorps.gov/returned-volunteers/careers/noncompetitive-eligibility/\">Peace Corps</a>, <a href=\"https://www.vistacampus.gov/after-vista/career\">VISTA volunteers</a>, and <a href=\"http://www.opm.gov/policy-data-oversight/disability-employment/\">persons with disabilities</a> possess a wealth of unique talents, experiences, and competencies that can be invaluable to the DHS mission. If you are a member of one of these groups, you may not have to compete with the public for federal jobs. To determine your eligibility for non-competitive appointment and to understand the required documentation, click on the links above or contact the Servicing Human Resources Office listed at the bottom of this announcement.<br>\n<br>\n<strong>This announcement may be used to fill additional vacancies within the National Capital Region.  </strong>",
+  "title": "Management and Program Analyst (Senior Program Advisor)",
+  "validThrough": "2026-11-07"
+}

@@ -1,0 +1,32 @@
+{
+  "@context": "http://www.schema.org",
+  "@type": "JobPosting",
+  "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": {
+      "@type": "QuantitativeValue",
+      "value": 85447.0,
+      "unitText": "YEAR"
+    }
+  },
+  "datePosted": "10/28/2026",
+  "description": "This vacancy is for a <strong>Data Scientist</strong> position in the <strong>Industry Economics Division </strong>located at the Bureau of Economic Analysis.<br>\n<br>\nThis Job Opportunity Announcement may be used to fill other Data Scientist, ZP-1560-3 positions within the Bureau of Economic Analysis in the same geographical location with the same qualifications and specialized experience.",
+  "educationRequirements": "",
+  "employmentType": "OTHER",
+  "hiringOrganization": "Bureau of Economic Analysis",
+  "jobLocation": [
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Suitland",
+        "addressRegion": "MD "
+      }
+    }
+  ],
+  "responsibilities": "",
+  "qualifications": "<p><strong>Minimum Education Requirement: </strong></p>\n\n<p>A. Degree: Mathematics, statistics, computer science, data science or field directly related to the position. The degree must be in a major field of study (at least at the baccalaureate level) that is appropriate for the position.<br>\n<br>\n<strong>OR</strong></p>\n\n<p>B. Combination of education and experience: Courses equivalent to a major field of study (30 semester hours) as shown in paragraph A above, plus additional education or appropriate experience.<br>\n<br>\nAND<br>\n<br>\n<strong>Specialized Experience:</strong><br>\nIn addition to meeting the Basic Entry Requirements above, applicants must have the experience listed below.<br>\n<br>\nFor the <strong>Band 3 (GS-11)</strong>, you must have one year of experience at a level of difficulty and responsibility equivalent to the <strong>Band 2 (GS-9)</strong> in the Federal service. Experience for this position includes: Examples of specialized experience include analyzing and/or manipulating economic statistics; creating data reports and visualizations; maintaining SQL-based central processing systems; writing and debugging computer code; and communicating technical concepts to both technical and non-technical stakeholders. This work must have been conducted using at least two of the following tools: SQL, SAS, Stata, R, Python, Tableau, or Power BI.<br>\n<br>\nOR<br>\n<br>\n<strong>Education: </strong>3 years of progressively higher level graduate education leading to a Ph.D. degree <em>or</em> Ph.D. or equivalent doctoral degree.<br>\n<br>\nOR <br>\n<br>\nPossess a combination of education and experience.<br>\n<br>\nExperience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., Peace Corps, AmeriCorps) and other organizations (e.g., professional; philanthropic; religious; spiritual; community, student, social). Volunteer work helps build critical competencies, knowledge, and skills and can provide valuable training and experience that translates directly to paid employment. You will receive credit for all qualifying experience, including volunteer.<br>\n<br>\nAfter you submit this application, you will receive an e-mail informing you that a USA Hire assessment is required. You will have 48 hours from the closing date of this announcement, 11/12/2026, to complete the assessment as this assessment is part of your application.</p>",
+  "title": "Data Scientist",
+  "validThrough": "2026-11-12"
+}

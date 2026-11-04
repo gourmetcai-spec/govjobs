@@ -1,0 +1,48 @@
+{
+  "@context": "http://www.schema.org",
+  "@type": "JobPosting",
+  "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": {
+      "@type": "QuantitativeValue",
+      "value": 76463.0,
+      "unitText": "YEAR"
+    }
+  },
+  "datePosted": "09/04/2026",
+  "description": "Click on \"Learn more about this agency\" button below to view <strong>Eligibilities</strong> being considered and other <strong>IMPORTANT</strong> information.<br>\n<br>\nThe primary purpose of this position is to serve as a senior Information Technology (IT) Systems Analyst in planning, designing, and implementing IT systems to meet the business requirements of customer organizations.",
+  "educationRequirements": "<strong>ARE YOU USING YOUR EDUCATION TO QUALIFY</strong>? If position has a positive degree requirement or education forms the basis for qualifications, you <b>MUST</b> submit transcriptswith the application. Official transcripts are not required at the time of application; however, if position has a positive degree requirement, qualifying based on education alone or in combination with experience; transcripts must be verified prior to appointment. An accrediting institution recognized by the U.S. Department of Education must accredit education. Click <a href=\"https://ope.ed.gov/dapip/#/home\">here</a> to check accreditation.<br>\n<br>\n<br>\n<strong>FOREIGN EDUCATION:</strong> Education completed in foreign colleges or universities may be used to meet the requirements. You must show proof the education credentials have been deemed to be at least equivalent to that gained in conventional U.S. education program. It is your responsibility to provide such evidence when applying.",
+  "employmentType": "OTHER",
+  "hiringOrganization": "AF Life Cycle Management Center",
+  "jobLocation": [
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Wright-Patterson AFB",
+        "addressRegion": "OH "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Hill AFB",
+        "addressRegion": "UT "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Reston",
+        "addressRegion": "VA "
+      }
+    }
+  ],
+  "responsibilities": "<ul>\n\t<li>Directs and designs compliant cyber, IT, and knowledge management systems that align with AF/DoD regulations while integrating emerging technologies to improve application efficiency and mission performance.</li>\n\t<li>Coordinates policies with external agencies and leads multi-disciplined teams, representing the organization to senior leadership and contractor entities to build strong working relationships.</li>\n\t<li>Serves as senior technical advisor to guide leadership on policy impacts, provide procurement oversight, and deliver detailed lifecycle cost analyses and justifications for funding submissions.</li>\n\t<li>Leads specialized IT projects, resolves complex technical conflicts with stakeholders, and briefs management on long- and short-range strategic planning for IT acquisitions.</li>\n</ul>",
+  "qualifications": "Experience requirements are described in the Office of Personnel Management (OPM) Qualification Standards for General Schedule Positions, Information Technology Management.<br>\n<br>\n<a href=\"https://www.opm.gov/policy-data-oversight/classification-qualifications/competency-based-policy/general-schedule/2200/2210-competency-based-policy/competency-based-qualification-standard/\"><b>INDIVIDUAL OCCUPATIONAL REQUIREMENTS</b></a><br>\n<br>\n<strong>SPECIALIZED EXPERIENCE</strong>: Applicants must have IT-related experience demonstrating each of the following four competencies: Attention to Detail, Customer Service, Oral Communication, Problem Solving AND have, or within 120 days of the closing date of this announcement will have, at least 1 year (52 weeks) of specialized experience which is equivalent to Federal experience at the next lower grade (GS-11), level, pay band (NH-02), or equivalent (pay schedule, pay band, etc). Specialized experience is described as: assisted with researching, developing, and recommending new and innovative IT corporate acquisition policies, practices, and processes; aided in preparing technical specifications and supporting documentation which are incorporated into contracts and purchase orders; assisting with analyzing for optimum approaches to meet user requirements and prepares trade-off analysis for alternate design concepts.<br>\n<br>\nNOTE: Due to the use of 120-day rosters, this period of experience may be completed within 120 days of the closing date of this announcement.<br>\n<br>\n<strong>KNOWLEDGE, SKILLS AND ABILITIES (KSAs):</strong> Your qualifications will be evaluated on the basis of your level of knowledge, skills, abilities and/or competencies in the following areas:\n<ul>\n\t<li>Expert knowledge of the principles, methods, and techniques of IT assessment, planning, management, monitoring, and evaluation as well as knowledge of the principles, methods, or tools for developing, scheduling, coordinating, managing IT projects and resources, monitoring and inspecting costs, work, and contractor performance. Experience performing duties as the Contracting Officer's Technical Representative. Ability to lead and manage information systems planning, development, implementation, operation, and maintenance. DoD 8570 IAT II or III certification and CISSP is highly desired.</li>\n\t<li>Knowledge of the principles, methods, and tools for the coordinated management of IT Programs to include providing oversight of multiple IT projects, integrating dependent schedules and deliverables, and related activities such as life cycle management and program governance.</li>\n\t<li>Knowledge of principles and methods to identify, analyze, specify, design, and manage functional and infrastructure requirements; includes translating functional requirements into technical requirements used for logical design or alternative technologies or approaches. Ability to research and analyze external products to determine their potential for meeting mission requirements and business needs.</li>\n\t<li>Knowledge of concepts, practices, and techniques used to identify, engage, influence and monitor relationships with individuals and groups connected to IT work/development efforts. Includes those who are actively involved, those who exert influence over the process and its results and those who have a vested interest in the outcome. Ability to work effectively with customers to assess their requirements then provide information, expertise, and assistance to satisfy those needs.</li>\n\t<li>Knowledge of organizational mission and function and how to work effectively within its social, political, and technological systems to achieve measurable high-quality, timely, and cost-effective results. Ability to determine objectives, make sound, well-informed, and objective decisions, set priorities, cause change, and accomplish organizational goals.</li>\n\t<li>Ability to analyze complexities of existing technology, review/revise/develop policy, initiate plans for enhancements, and provide management sufficient technical and cost analysis information, through written documentation and oral briefings, to render informed judgements.</li>\n</ul>\n<br>\n<br>\n<strong>PART-TIME OR UNPAID EXPERIENCE</strong>: Credit will be given for appropriate unpaid and or part-time work. You must clearly identify the duties and responsibilities in each position held and the total number of hours per week.<br>\n<br>\n<strong>VOLUNTEER WORK EXPERIENCE</strong>: Refers to paid and unpaid experience, including volunteer work done through National Service Programs (i.e., Peace Corps, AmeriCorps) and other organizations (e.g., professional; philanthropic; religious; spiritual; community; student and social). Volunteer work helps build critical competencies, knowledge and skills that can provide valuable training and experience that translates directly to paid employment.You will receive credit for all qualifying experience, including volunteer experience.",
+  "title": "Information Technology Specialist (SysAnalysis) Direct Hire Authority",
+  "validThrough": "2027-01-06"
+}

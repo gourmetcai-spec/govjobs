@@ -1,0 +1,32 @@
+{
+  "@context": "http://www.schema.org",
+  "@type": "JobPosting",
+  "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": {
+      "@type": "QuantitativeValue",
+      "value": 143913.0,
+      "unitText": "YEAR"
+    }
+  },
+  "datePosted": "11/03/2026",
+  "description": "You will serve as a Computer Scientist in the Digital Analytics Inf & Tech Adv Group, Digital Networks & Applications Dept of NAVAIRWARCENAC DIV.",
+  "educationRequirements": "Applicants must meet the following positive education qualifications requirements of the Office of Personnel Management (OPM) Qualifications Standards Manual: Applicants must possess<br>\n<br>\nBachelor's degree in computer science<br>\n<br>\n<strong>or</strong><br>\n<br>\nBachelor's degree with 30 semester hours in a combination of mathematics, statistics, and computer science. At least 15 of the 30 semester hours must have included any combination of statistics and mathematics that included differential and integral calculus. All academic degrees and course work must be from accredited or pre-accredited institutions.",
+  "employmentType": "OTHER",
+  "hiringOrganization": "NAVAIRWARCENAC DIV",
+  "jobLocation": [
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Patuxent River",
+        "addressRegion": "MD "
+      }
+    }
+  ],
+  "responsibilities": "",
+  "qualifications": "In addition to the Basic Requirements for this position, your resume must also demonstrate at least one year of specialized experience at or equivalent to the (GS-13) grade level or (DP-04) pay band in the Federal service or equivalent experience in the private or public sector. Specialized experience includes: 1) Demonstrating thorough understanding of network architecture specifically related to RDT&E; 2) Working in network, storage, and compute with cloud and on prem experience; 3) Solving problems independently and articulating solutions to senior leadership; 4) Networking across centers and creating a central RDT&E solution; 5) Exhibiting investment experience and business acumen skills.<br>\n<br>\nAdditional qualification information can be found from the following Office of Personnel Management website:<br>\n<a href=\"https://www.opm.gov/policy-data-oversight/classification-qualifications/general-schedule-qualification-standards/#url=List-by-Occupational-Series\">https://www.opm.gov/policy-data-oversight/classification-qualifications/general-schedule-qualification-standards/#url=List-by-Occupational-Series</a><br>\n<br>\nExperience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., professional, philanthropic, religious, spiritual, community, student, social). Volunteer work helps build critical competencies, knowledge, and skills and can provide valuable training and experience that translates directly to paid employment.",
+  "title": "COMPUTER SCIENTIST",
+  "validThrough": "2026-11-10"
+}

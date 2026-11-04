@@ -1,0 +1,902 @@
+USAJOBS - Job Announcement
+
+ Skip to main content
+
+ An official website of the United States government
+
+Official websites use .gov
+
+A .gov website belongs to an official government organization in the United States.
+
+Secure .gov websites use HTTPS
+ A lock ( LockA locked padlock ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.
+
+ MENU
+
+ Sign in
+
+ My jobs
+
+ Profile
+
+ Resumes & documents
+
+ Notifications
+
+ Talent networks
+
+ Sign out
+
+ My jobs
+
+ Profile
+
+ Resumes & documents
+
+ Notifications
+
+ Talent networks
+
+ Sign out
+
+ Events
+
+ Help Center
+
+ Search
+
+ Back to results
+
+ Apply
+
+ Information Technology Specialist (Applications Software)
+
+Peace Corps
+
+Department of Administration and Management / Office of Finance
+
+Apply
+
+ Print
+
+ Share
+
+ Save
+
+ Summary
+
+ This job is open to
+
+ Duties
+
+ Requirements
+
+ How you will be evaluated
+
+ Required documents
+
+ How to apply
+
+Summary
+
+This position is located in the Office of Finance - Financial Systems Division. As an IT Specialist the incumbent is primarily responsible for the design, development, deployment, customer service and maintenance of the custom financial applications and the integration with Odyssey, the Agency's financial management system. The supported Financial Systems are comprised of custom .NET applications, SQL Server databases, and Oracle E-Business Suite.
+
+ Learn more about this agency
+
+Summary
+
+This position is located in the Office of Finance - Financial Systems Division. As an IT Specialist the incumbent is primarily responsible for the design, development, deployment, customer service and maintenance of the custom financial applications and the integration with Odyssey, the Agency's financial management system. The supported Financial Systems are comprised of custom .NET applications, SQL Server databases, and Oracle E-Business Suite.
+
+ Learn more about this agency
+
+Overview
+
+ Help
+
+Accepting applications
+
+This job will close when we have received 100 applications which may be sooner than the closing date. Learn more
+
+Location
+
+1 vacancy in the following location:
+
+ Washington, DC
+
+ No matching locations found.
+
+Work site options
+
+Telework eligible
+
+Yes—as determined by the agency policy.
+
+Remote job
+
+No
+
+Relocation expenses reimbursed
+
+ No
+
+Salary
+
+ $111,146 - $163,222 per year
+
+Pay scale & grade
+
+FP 3
+
+Promotion potential
+
+None
+
+ Learn more about pay scale and grade
+
+ Pay scale and grade determines the salary of the job.
+
+Work schedule
+
+Full-time
+
+Travel Required
+
+Occasional travel - You may be expected to travel for this position.
+
+Appointment type
+
+Term - Five years; eligible for additional reappointments in terms of up to five years, per 22 USC §2506 (a)(8).
+
+Occupations and job series
+
+ 2210 Information Technology Management
+
+Supervisory status
+
+No
+
+Federal service type
+
+This job is in the Excepted Service
+
+Represented by a union
+
+Yes
+
+Drug test
+
+No
+
+Security clearance
+
+Not Required
+
+Position sensitivity and risk
+
+Moderate Risk (MR)
+
+ Jobs require a
+ background check and some require a
+ security clearance. The type depends on the job.
+
+Background check type
+
+ Suitability/Fitness
+
+Financial disclosure required
+
+No
+
+ Some jobs require
+ financial disclosure to identify conflicts of interests.
+
+Announcement number
+
+26-13099475-JE
+
+Control number
+
+890935000
+
+This job is open to
+
+ Help
+
+The public
+
+ U.S. Citizens, Nationals or those who owe allegiance to the U.S.
+
+Clarification from the agency
+
+United States citizens.
+
+Videos
+
+Duties
+
+ Help
+
+The Information Technology Specialist (Applications Software) performs the following major duties:
+
+Works with a specialized group of programmers and functionals on complex, multifaceted prototype systems,
+
+ such as leading a multi-functional development project in software analysis, design, development, testing, and implementation for a new system or major enhancement to an existing system.
+
+Updates and modifies existing applications, designs new applications, and has continuing responsibility for testing and maintenance of automation programs.
+
+Applies expertise to the design and implementation of new requirements and modifications to existing systems as well as reprogramming.
+
+Defines customer and stakeholder needs and constraints, provides customer support, clarifies objectives, develops resource requirements and applies system architecture principles to develop and manage technical requirements and achieve the appropriate balance among resources, schedule and technical requirements.
+
+Performs project and/or contract management duties.
+
+Formulates, plans, implements, manages, tracks and evaluates IT support projects and their associated requirements and risks.
+
+Assists in preparing technical specifications, reports and statements of work, evaluating proposals, providing technical guidance to contractors, resolving technical problem areas, observing progress and evaluating performance.
+
+Ensures the rigorous application of information security/information assurance policies, principles, and practices in the delivery of systems administration services for a major segment of an agency, such as geographical regions.
+
+Serves as the focal point for guiding the development of Internet based systems. Provides technical expertise in analyzing, diagnosing, and resolving problems in support of Web applications.
+
+Performs duties such as mapping overall Web design and structure; ensuring Web site functionality, integrity, and security; and directing ongoing maintenance and enhancement efforts.
+
+Requirements
+
+ Help
+
+Conditions of employment
+
+Applicants selected for this position are subject to the following Conditions of Employment:
+
+You must be a U.S. citizen and at least 18 years old.
+
+Males born after December 31, 1959, must be registered with Selective Service (see www.sss.gov).
+
+Prior to employment, Peace Corps will review records for Returned Peace Corps Volunteers and former employees, as required by statutes 5 USC 3322 and 22 USC 2507b.
+
+You must submit a signed statement acknowledging adherence to the Peace Corps Conditions of Employment before your first day.
+
+You must successfully complete a Public Trust background investigation.
+
+A one-year probationary period may be required. This requirement is not applicable to current agency US Direct Hire employees who have completed a probationary period or current Experts who have served for more that 12 months.
+
+This position is eligible for additional reappointments, per 22 USC §2506 (a)(8). The initial appointment is a term of five years and subsequent reappointments are in terms of up to five years.
+
+Qualifications
+
+Applicants must meet all qualification requirements prior to the closing date of this announcement, 11/16/2026. You will receive credit for all qualifying experience demonstrated in your resume, including volunteer work. Qualification claims are subject to verification. This vacancy is being announced at one grade level.
+
+Specialized Experience at the FP-03 (GS-13) Level: To qualify for this position at the FP-03 level, you must have at least one year of specialized experience equivalent to the next lower level in the normal line of progression, FP-04 or GS-11/12. This experience must be directly related to the work of the position and must have equipped you with the knowledge, skills, and abilities necessary to successfully perform the duties of the role. Specialized experience includes all of the following:
+
+Designing and maintaining .NET, SQL Server, and Oracle-based financial applications.
+
+Leading development projects using Agile, DevOps, and system integration practices.
+
+Administering and securing IT systems, including troubleshooting, customer and web application support.
+
+Education cannot be substituted for experience at this grade level.
+
+Please note:
+
+Experience that satisfies the Specialized Experience requirements must be clearly documented in your resume. Failure to provide this information may result in disqualification. Please review the "Required Documents" section of this announcement for further information on resume requirements.
+
+Specialized experience may be gained in the public sector, private sector, or through volunteer service (e.g., National Service programs such as Peace Corps or AmeriCorps, or other organizations such as professional, philanthropic, religious, spiritual, community, student, or social groups).
+
+One year of experience refers to full-time work. Part-time work will be credited on a prorated basis.
+
+For more details on qualification requirements, refer to the OPM Qualifications Standards Handbook for General Schedule Positions, available on the OPM web site.
+
+Education
+
+This job does not have an education qualification requirement.
+
+Additional information
+
+Position Information:
+
+This is a bargaining unit position.
+
+The minimum and maximum salaries listed on this announcement includes locality pay.
+
+Peace Corps Information:
+
+This is a federal civilian position in the Excepted Service, and the incumbent will serve as a member of the Foreign Service.
+
+Peace Corps employees are paid under the Foreign Personnel (FP) pay system, which differs from the General Schedule (GS) pay system. In the FP pay system, lower grade level numbers indicate higher levels of responsibility and pay. The FP-09 is the lowest, entry-level, grade and the FP-01 is the highest, senior-level, grade.
+
+If you are a current federal employee, your agency may grant you reemployment rights in accordance with Section 310 of the Foreign Service Act, 22 USC 3950. You must request and be granted reemployment rights prior to separation from your current federal agency.
+
+If this is your first federal appointment, you may request credit for prior applicable non-federal service toward your leave Service Computation Date. Approval of credit must be granted prior to your first federal appointment and is subject to agency review and documentation requirements.
+
+This position is eligible for situational telework only.
+
+The Peace Corps uses E-Verify to confirm the eligibility of all newly hired employees to work in the United States. Learn more about E-Verify, including your rights and responsibilities.
+
+The Peace Corps is a drug-free workplace.
+
+Additional hiring needs may be filled through this vacancy.
+
+Intelligence Background Information: Peace Corps Manual Section 611 is applicable to this position:
+
+This prohibits the employment of certain persons previously engaged in intelligence activities or connected with intelligence agencies within the past 10 years.
+
+If you have ever worked for the Central Intelligence Agency (CIA), you are not eligible for employment at the Peace Corps in any capacity, and you should not apply for employment at the Peace Corps.
+
+Acceptance of employment with Peace Corps precludes employment by certain intelligence organizations for a specific period after Peace Corps employment ceases.
+
+Applicants who indicate on the announcement questionnaire that they, or a family member, have an intelligence connection will be required to submit a completed Intelligence Background Questionnaire. The Peace Corps Office of Human Resources will provide instructions for submitting this form after the closing date of the announcement. Failure to provide the completed questionnaire will result in disqualification from further consideration. If you have any type of possible intelligence connection, your application will not be processed until this form is submitted.
+
+Except when the CIA or the National Security Agency (NSA) is involved (see below), if your connection with an Intelligence Agency involves an immediate family member who is employed or has been employed in intelligence, the immediate family member should complete the form.
+
+If you have an immediate family member who is employed or has been employed with the CIA, please contact your family member in person (not by phone, email, social networking, or any other means that is not in person) and ask him or her to contact the Office of General Counsel at the CIA.
+
+If you or an immediate family member have been employed by or associated with the NSA, you or your family member must contact the NSA Prepublication Review Office at (443) 634-4095.
+
+ Expand Hide  additional information
+
+Candidates should be committed to improving the efficiency of the Federal government, passionate about the ideals of our American republic, and committed to upholding the rule of law and the United States Constitution.
+
+Benefits
+
+ Help
+
+ A career with the U.S. government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding. Opens in a new windowLearn more about federal benefits.
+
+Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time or intermittent. Contact the hiring agency for more information on the specific benefits offered.
+
+How you will be evaluated
+
+You will be evaluated for this job based on how well you meet the qualifications above.
+
+You will be evaluated based on how well you meet the qualifications listed in this vacancy announcement. Your qualifications will be evaluated based on your application materials, your responses on the application questionnaire and all assessments required for this position. Please follow all instructions carefully. Errors or missing information may affect our ability to verify your eligibility or qualifications. We use a multi-step application review process:
+
+USA Hire Assessment: If you are required to complete any USA Hire Assessments, you will be notified after submitting your application:
+
+The USA Hire Assessment includes a cut score based on the minimum level of required proficiency in these critical general competencies. You must meet or exceed the cut score to be considered. You will not be considered for the position if you score below the cut score or fail to complete the assessment.
+
+Refer to the "How to Apply" section for more information on USA Hire Assessments.
+
+Eligibility: We review your resume and supporting documents to confirm you meet the eligibility requirements of the position.
+
+You will be rated ineligible if:
+
+You are outside of the area of consideration (i.e., who may apply). Refer to the "This job is open to" section for more information about the area of consideration. Refer to the "Required Documents" section for more information about the documentation required to verify your eligibility to apply.
+
+Minimum Qualifications, Rating and Ranking: After we determine you meet the eligibility requirements, we assess your experience by comparing your resume to the specialized experience required for the grade level(s) to which you applied.
+
+You will be disqualified if:
+
+Your resume does not demonstrate that you possess the minimum qualifications. Refer to the "Specialized Experience" listed in the "Qualifications" section for more information about the minimum qualifications.
+
+You inflate or falsify qualifications, education, or experience on your resume.
+
+Referral and Selection: Highly qualified applicants are referred to the selecting official. The selecting official may:
+
+Conduct a structured interview.
+
+Check your references.
+
+Request a writing sample or conduct an additional job-related assessment.
+
+You will be assessed on the following competencies:
+
+Accountability
+Attention to Detail
+Customer Service
+Decision Making
+Flexibility
+Influencing/Negotiating
+Integrity/Honesty
+Interpersonal Skills
+Learning
+Reading Comprehension
+Reasoning
+Self-Management
+Stress Tolerance
+Teamwork
+
+Your application will be evaluated under the Category Rating method based on your assessment. If, after review, a determination is made that you have inflated your qualifications and or experience your score can and will be adjusted to more accurately reflect your abilities. If you meet basic requirements, your application will be evaluated and placed into one of three categories - Best Qualified, Well Qualified, and Qualified
+
+Candidates eligible for veterans' preference will be placed ahead of other candidates in the appropriate category for which they have been rated. Preference eligibles who have a compensable service-connected disability of at least 10 percent and who meet Minimum Qualification Requirements will automatically be placed in the Best Qualified Category.
+
+You may preview the application questionnaire for this vacancy here: https://apply.usastaffing.gov/ViewQuestionnaire/13099475
+
+Benefits
+
+ Help
+
+ A career with the U.S. government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding. Opens in a new windowLearn more about federal benefits.
+
+Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time or intermittent. Contact the hiring agency for more information on the specific benefits offered.
+
+Required documents
+
+Required Documents
+
+ Help
+
+Your complete application includes your resume, your responses to the online questionnaire, and documents which establish your eligibility to apply. If you fail to provide any of these items, your application will be marked as incomplete, and you will be disqualified from further consideration.
+
+All required documents listed below, as applicable to you, must be submitted by 11:59 p.m. Eastern Time (ET) on the closing date of this announcement, 11/16/2026.
+
+1) Resume - All applicants must submit a detailed resume that includes all relevant work experience (paid and unpaid), job titles, and duties performed:
+
+You must limit your resume to no more than 2 pages. If more than 2 pages are submitted, only the first 2 pages will be reviewed to determine eligibility and qualifications.
+
+The resume must be uploaded under the "Resume" document type in the application system.
+
+You may submit only one resume. If multiple resumes are submitted, only the latest submission in the "Resume" document type will be reviewed.
+
+The following information must be included for each position listed in your resume:
+
+Name of the employer
+
+Official position title
+
+Start and end dates of employment (including month, day, and year)
+
+If you are a current federal employee or former federal employee, you must include your pay plan, series, and grade level (e.g. GS-0201-09)
+
+A detailed list of duties and accomplishments
+
+Resumes that do not contain the required details may be considered incomplete and could result in disqualification from further consideration.
+
+TIP: To ensure your resume includes all required information, use the Resume Builder in USAJOBS.
+
+If your resume includes a photograph or other inappropriate material or content, you will be disqualified from further consideration.
+
+2) Proof of Eligibility to Apply - Your application must include documentation that demonstrates you are eligible to apply for this vacancy. You must meet the requirements of at least one of the hiring authorities listed in the "Who May Apply" section of this announcement to receive further consideration. Proof of eligibility includes:
+
+Veterans' Preference Documentation - If you are claiming Veterans' Preference, you must upload all required documentation with your application. For details on Veteran's Preference, visit FedsHireVets. Documents required to verify Veterans' Preference include:
+
+DD-214 - Must be the member 4 copy, showing dates of service, character of service, and discharge type.
+
+If you are a Veteran with a service-connected disability rating of 30% or more, you must also submit:
+
+SF-15 (Application for 10-point Veterans' Preference)
+
+VA Letter stating your disability rating.
+
+How to Apply
+
+ Help
+
+To apply for this position, you must complete the online questionnaire and submit the documentation specified in the "Required Documents" section of this announcement. The complete application must be submitted by 11:59 PM (ET) on 11/16/2026 to receive consideration.
+
+To submit your application:
+
+Click the Apply Online button.
+
+Answer the questions presented in the application and attach all necessary supporting documentation.
+
+Click the Submit Application button prior to 11:59 PM (ET) on the announcement closing date.
+
+If you are required to complete any USA Hire Assessments, you will be notified after submitting your application. The notification will be provided in your application submission screen and via email. The notification will include your unique assessment access link to the USA Hire system and the completion deadline. Additionally, in USAJOBS you can click "Track this application" to return to your assessment completion notice.
+
+Access USA Hire using your unique assessment link. Access is granted through your USAJOBS login credentials.
+
+Review all instructions prior to beginning your assessments. You will have the opportunity to request a testing accommodation before beginning the assessments should you have a disability covered under the Rehabilitation Act of 1973 as amended.
+
+Set aside about two (2) hours to take the USA Hire Assessments; however, most applicants complete the assessments in less time. If you need to stop the assessments and continue later, you can re-use your unique assessment link.
+
+Your responses to the USA Hire Assessments will be reused for one year (in most cases) from the date you complete an assessment. If future applications you submit require completion of the same assessments, your responses will be automatically reused.
+
+Visit the USA Hire Applicant Resource Center for practice assessments and assessment preparation resources at https://support-usahire.opm.gov/hc/en-us.
+
+Please note:
+
+It is your responsibility to ensure your application package (resume, supporting documents, and questionnaire responses) is complete, accurate, and submitted by the closing date.
+
+We will not modify answers or documents submitted by an applicant.
+
+Additional information on how to submit your online application may be found on the USAJOBS Help Center.
+
+To update your application, including supporting documentation: During the announcement open period, return to your USAJOBS account, find your application record, and click Edit my application. This option will no longer be available once the announcement has closed.
+
+Reasonable Accommodation (RA) Requests: If you believe you have a disability (i.e., physical or mental), covered by the Rehabilitation Act of 1973 as amended that would interfere with completing the USA Hire Competency Based Assessments, you will be granted the opportunity to request a RA in your online application. Requests for RA for the USA Hire Competency Based Assessments and appropriate supporting documentation for RA must be received prior to starting the USA Hire Competency Based Assessments. Decisions on requests for RA are made on a case-by-case basis. If you meet the minimum qualifications of the position, after notification of the adjudication of your request, you will receive an email invitation to complete the USA Hire Competency Based Assessments, based on your adjudication decision. You must complete all assessments within 48 hours of receiving the URL to access the USA Hire Competency Based Assessments if you received the link after the close of the announcement. To determine if you need a RA, please review the Procedures for Requesting a Reasonable Accommodation for Online Assessments. (https://appsupport-usastaffing.opm.gov/hc/en-us/sections/45063131363475-Reasonable-Accommodation-Information)
+
+Likewise, the Peace Corps provides reasonable accommodation to applicants with disabilities. If you need a reasonable accommodation for any other part of the hiring process, please contact the Office of Civil Rights at 202-692-2139. Decisions on granting reasonable accommodation are made on a case-by-case basis.
+
+Agency contact information
+
+ Peace Corps Jobs
+
+Email
+
+ peacecorpsjobs@peacecorps.gov
+
+Address
+
+ Office of Finance
+
+ 1275 First St. NE
+
+ Washington, DC 20526
+
+ US
+
+Next steps
+
+Once your online application is submitted, you will receive a confirmation notification by email.
+
+Your application will be evaluated once the announcement closes.
+
+You will receive another notification about the status of your application, after we have completed our review.
+
+You may check the status of your application at any time by logging into your USAJOBS account and by going to the "My Account" tab and clicking on "Application Status". For a more detailed update of your application status, you may go to "more information" under the individual vacancy.
+
+If you are determined to be ineligible or not qualified, you will be disqualified from further consideration.
+
+If you are among the top qualified candidates, your application may be referred to the Selecting Official for further consideration.
+
+USAJOBS has added an alert setting to their system to provide status updates for applicants. You can elect to activate the status updates from your USAJOBS profile at any point during the application process.
+
+Fair and transparent
+
+The Federal hiring process is set up to be fair and transparent. Please read the following guidance.
+
+ Criminal history inquiries
+
+ Equal Employment Opportunity (EEO) Policy
+
+ Financial suitability
+
+ New employee probationary period
+
+ Privacy Act
+
+ Reasonable accommodation policy
+
+ Selective Service
+
+ Signature and false statements
+
+ Social security number request
+
+Required Documents
+
+ Help
+
+Your complete application includes your resume, your responses to the online questionnaire, and documents which establish your eligibility to apply. If you fail to provide any of these items, your application will be marked as incomplete, and you will be disqualified from further consideration.
+
+All required documents listed below, as applicable to you, must be submitted by 11:59 p.m. Eastern Time (ET) on the closing date of this announcement, 11/16/2026.
+
+1) Resume - All applicants must submit a detailed resume that includes all relevant work experience (paid and unpaid), job titles, and duties performed:
+
+You must limit your resume to no more than 2 pages. If more than 2 pages are submitted, only the first 2 pages will be reviewed to determine eligibility and qualifications.
+
+The resume must be uploaded under the "Resume" document type in the application system.
+
+You may submit only one resume. If multiple resumes are submitted, only the latest submission in the "Resume" document type will be reviewed.
+
+The following information must be included for each position listed in your resume:
+
+Name of the employer
+
+Official position title
+
+Start and end dates of employment (including month, day, and year)
+
+If you are a current federal employee or former federal employee, you must include your pay plan, series, and grade level (e.g. GS-0201-09)
+
+A detailed list of duties and accomplishments
+
+Resumes that do not contain the required details may be considered incomplete and could result in disqualification from further consideration.
+
+TIP: To ensure your resume includes all required information, use the Resume Builder in USAJOBS.
+
+If your resume includes a photograph or other inappropriate material or content, you will be disqualified from further consideration.
+
+2) Proof of Eligibility to Apply - Your application must include documentation that demonstrates you are eligible to apply for this vacancy. You must meet the requirements of at least one of the hiring authorities listed in the "Who May Apply" section of this announcement to receive further consideration. Proof of eligibility includes:
+
+Veterans' Preference Documentation - If you are claiming Veterans' Preference, you must upload all required documentation with your application. For details on Veteran's Preference, visit FedsHireVets. Documents required to verify Veterans' Preference include:
+
+DD-214 - Must be the member 4 copy, showing dates of service, character of service, and discharge type.
+
+If you are a Veteran with a service-connected disability rating of 30% or more, you must also submit:
+
+SF-15 (Application for 10-point Veterans' Preference)
+
+VA Letter stating your disability rating.
+
+How to Apply
+
+ Help
+
+To apply for this position, you must complete the online questionnaire and submit the documentation specified in the "Required Documents" section of this announcement. The complete application must be submitted by 11:59 PM (ET) on 11/16/2026 to receive consideration.
+
+To submit your application:
+
+Click the Apply Online button.
+
+Answer the questions presented in the application and attach all necessary supporting documentation.
+
+Click the Submit Application button prior to 11:59 PM (ET) on the announcement closing date.
+
+If you are required to complete any USA Hire Assessments, you will be notified after submitting your application. The notification will be provided in your application submission screen and via email. The notification will include your unique assessment access link to the USA Hire system and the completion deadline. Additionally, in USAJOBS you can click "Track this application" to return to your assessment completion notice.
+
+Access USA Hire using your unique assessment link. Access is granted through your USAJOBS login credentials.
+
+Review all instructions prior to beginning your assessments. You will have the opportunity to request a testing accommodation before beginning the assessments should you have a disability covered under the Rehabilitation Act of 1973 as amended.
+
+Set aside about two (2) hours to take the USA Hire Assessments; however, most applicants complete the assessments in less time. If you need to stop the assessments and continue later, you can re-use your unique assessment link.
+
+Your responses to the USA Hire Assessments will be reused for one year (in most cases) from the date you complete an assessment. If future applications you submit require completion of the same assessments, your responses will be automatically reused.
+
+Visit the USA Hire Applicant Resource Center for practice assessments and assessment preparation resources at https://support-usahire.opm.gov/hc/en-us.
+
+Please note:
+
+It is your responsibility to ensure your application package (resume, supporting documents, and questionnaire responses) is complete, accurate, and submitted by the closing date.
+
+We will not modify answers or documents submitted by an applicant.
+
+Additional information on how to submit your online application may be found on the USAJOBS Help Center.
+
+To update your application, including supporting documentation: During the announcement open period, return to your USAJOBS account, find your application record, and click Edit my application. This option will no longer be available once the announcement has closed.
+
+Reasonable Accommodation (RA) Requests: If you believe you have a disability (i.e., physical or mental), covered by the Rehabilitation Act of 1973 as amended that would interfere with completing the USA Hire Competency Based Assessments, you will be granted the opportunity to request a RA in your online application. Requests for RA for the USA Hire Competency Based Assessments and appropriate supporting documentation for RA must be received prior to starting the USA Hire Competency Based Assessments. Decisions on requests for RA are made on a case-by-case basis. If you meet the minimum qualifications of the position, after notification of the adjudication of your request, you will receive an email invitation to complete the USA Hire Competency Based Assessments, based on your adjudication decision. You must complete all assessments within 48 hours of receiving the URL to access the USA Hire Competency Based Assessments if you received the link after the close of the announcement. To determine if you need a RA, please review the Procedures for Requesting a Reasonable Accommodation for Online Assessments. (https://appsupport-usastaffing.opm.gov/hc/en-us/sections/45063131363475-Reasonable-Accommodation-Information)
+
+Likewise, the Peace Corps provides reasonable accommodation to applicants with disabilities. If you need a reasonable accommodation for any other part of the hiring process, please contact the Office of Civil Rights at 202-692-2139. Decisions on granting reasonable accommodation are made on a case-by-case basis.
+
+ Expand Hide  how to apply
+
+Agency contact information
+
+ Peace Corps Jobs
+
+Email
+
+ peacecorpsjobs@peacecorps.gov
+
+Address
+
+ Office of Finance
+
+ 1275 First St. NE
+
+ Washington, DC 20526
+
+ US
+
+Next steps
+
+Once your online application is submitted, you will receive a confirmation notification by email.
+
+Your application will be evaluated once the announcement closes.
+
+You will receive another notification about the status of your application, after we have completed our review.
+
+You may check the status of your application at any time by logging into your USAJOBS account and by going to the "My Account" tab and clicking on "Application Status". For a more detailed update of your application status, you may go to "more information" under the individual vacancy.
+
+If you are determined to be ineligible or not qualified, you will be disqualified from further consideration.
+
+If you are among the top qualified candidates, your application may be referred to the Selecting Official for further consideration.
+
+USAJOBS has added an alert setting to their system to provide status updates for applicants. You can elect to activate the status updates from your USAJOBS profile at any point during the application process.
+
+ Expand Hide  next steps
+
+Fair and transparent
+
+The Federal hiring process is set up to be fair and transparent. Please read the following guidance.
+
+ Criminal history inquiries
+
+ Equal Employment Opportunity (EEO) Policy
+
+ Financial suitability
+
+ New employee probationary period
+
+ Privacy Act
+
+ Reasonable accommodation policy
+
+ Selective Service
+
+ Signature and false statements
+
+ Social security number request
+
+ Peace Corps
+
+ The Peace Corps shares a unique relationship with the people and communities in the countries in which we work. For more than 60 years, Peace Corps has worked alongside people and communities of partnering countries by putting purpose, passion, and skills to work for America and the world. Peace Corps brings together skilled, committed Volunteers with welcoming host communities for service opportunities in approximately 60 countries across the globe. Volunteers live and work side-by-side with community members on locally prioritized projects, building relationships, exchanging cultures and knowledge, and helping transform lives.
+
+Come work alongside motivated and engaged employees who are passionate about the Peace Corps' mission. Be part of a team that supports Volunteers and host communities across the globe.
+
+Top Three Reasons to Work for the Peace Corps:
+
+The Peace Corps has a unique global mission, perhaps the best of any federal agency - putting purpose, passion, and skills to work for America and the world.
+
+Benefits include competitive salaries with annual step increases as opposed to the General Schedule, which has longer waiting periods between step increases.
+
+Peace Corps employees earn non-competitive eligibility (NCE) after three years of service. The Peace Corps Manual offers more information about NCE.
+
+Agency contact information
+
+ Peace Corps Jobs
+
+Email
+
+ peacecorpsjobs@peacecorps.gov
+
+Address
+
+ Office of Finance
+
+ 1275 First St. NE
+
+ Washington, DC 20526
+
+ US
+
+Visit our careers page
+
+ Learn more about what it's like to work at Peace Corps, what the agency does, and about the types of careers this agency offers.
+
+ https://www.peacecorps.gov/
+
+Summary
+
+This position is located in the Office of Finance - Financial Systems Division. As an IT Specialist the incumbent is primarily responsible for the design, development, deployment, customer service and maintenance of the custom financial applications and the integration with Odyssey, the Agency's financial management system. The supported Financial Systems are comprised of custom .NET applications, SQL Server databases, and Oracle E-Business Suite.
+
+ Learn more about this agency
+
+Overview
+
+ Help
+
+Accepting applications
+
+This job will close when we have received 100 applications which may be sooner than the closing date. Learn more
+
+Location
+
+1 vacancy in the following location:
+
+ Washington, DC
+
+ No matching locations found.
+
+Work site options
+
+Telework eligible
+
+Yes—as determined by the agency policy.
+
+Remote job
+
+No
+
+Relocation expenses reimbursed
+
+ No
+
+Salary
+
+ $111,146 - $163,222 per year
+
+Pay scale & grade
+
+FP 3
+
+Promotion potential
+
+None
+
+ Learn more about pay scale and grade
+
+ Pay scale and grade determines the salary of the job.
+
+Work schedule
+
+Full-time
+
+Travel Required
+
+Occasional travel - You may be expected to travel for this position.
+
+Appointment type
+
+Term - Five years; eligible for additional reappointments in terms of up to five years, per 22 USC §2506 (a)(8).
+
+Occupations and job series
+
+ 2210 Information Technology Management
+
+Supervisory status
+
+No
+
+Federal service type
+
+This job is in the Excepted Service
+
+Represented by a union
+
+Yes
+
+Drug test
+
+No
+
+Security clearance
+
+Not Required
+
+Position sensitivity and risk
+
+Moderate Risk (MR)
+
+ Jobs require a
+ background check and some require a
+ security clearance. The type depends on the job.
+
+Background check type
+
+ Suitability/Fitness
+
+Financial disclosure required
+
+No
+
+ Some jobs require
+ financial disclosure to identify conflicts of interests.
+
+Announcement number
+
+26-13099475-JE
+
+Control number
+
+890935000
+
+ Previous result
+
+Next result
+
+Your session is about to expire!
+
+ Your USAJOBS session will expire due to inactivity in 8 minutes.
+ Any unsaved data will be lost if you allow the session to expire.
+ Click the button below to continue your session.
+
+ Sign out
+ Stay signed in
+
+ Return to top
+
+USAJOBS is a Opens in a new windowUnited States Office of Personnel Management website.
+
+ (Opens in a new window) OPM on LinkedIn
+
+ (Opens in a new window) OPM YouTube channel
+
+ (Opens in a new window) OPM on X
+
+Opens in a new windowEEO Policy Statement
+
+Opens in a new windowReasonable Accommodation Policy Statement
+
+Veterans Information
+
+Opens in a new windowLegal and Regulatory Guidance
+
+About USAJOBS
+
+Opens in a new windowAccessibility
+
+Opens in a new windowFOIA
+
+Opens in a new windowInspector general
+
+Opens in a new windowNo Fear Act Data
+
+Opens in a new windowPrivacy policy
+
+Opens in a new windowReports and publications
+
+Opens in a new windowTerms and conditions
+
+Opens in a new windowUSA.gov

@@ -1,0 +1,88 @@
+{
+  "title": "Summer Intern, Financial Accounting Policy and Reporting",
+  "requisition_id": "R025924",
+  "canonical_url": "https://bd.wd104.myworkdayjobsgov.com/frb/job/Federal-Reserve-Board/Summer-Intern--Financial-Accounting-Policy-and-Reporting_R025924",
+  "application_url": "https://bd.wd104.myworkdayjobsgov.com/frb/job/Federal-Reserve-Board/Summer-Intern--Financial-Accounting-Policy-and-Reporting_R025924",
+  "posted_date": "2026-10-21",
+  "posted_date_evidence": "Official Federal Reserve Board Workday jobPostingInfo.startDate; retrieved source retained.",
+  "close_date": "2026-11-13",
+  "deadline_timezone": null,
+  "deadline_time": null,
+  "deadline_source": "https://bd.wd104.myworkdayjobsgov.com/frb/job/Federal-Reserve-Board/Summer-Intern--Financial-Accounting-Policy-and-Reporting_R025924",
+  "deadline_verified": true,
+  "early_closure_conditions": [],
+  "rolling_cutoff": null,
+  "location": "Washington, DC",
+  "remote_restrictions": "Federal Reserve Board work location; Board headquarters is Washington DC. Confirm team-specific on-site/hybrid policy in official description; do not assume remote work.",
+  "salary": null,
+  "retrieved_at": "2026-11-04T01:27:13.427519+00:00",
+  "control_number": "R025924",
+  "fit": "Enterprise forecasting, capital planning, portfolio risk/valuation, financial reporting and leadership overlap. Exact federal accounting, budget, investment governance and grade-equivalent requirements remain unverified.",
+  "gaps": "Federal Reserve Board role: confirm the exact minimum years, domain expertise and required versus preferred qualifications against the saved official description. Unknown deadline means verify promptly; never assume open-ended hiring. Mandatory current student enrollment and return-to-study requirements are unverified; confirm enrollment, degree level, program dates and GPA where required. Internship is lower priority for this senior candidate; missing evidence is not confirmed ineligibility. Verify OMB/federal budget procedures against the exact qualification clause; not established by the baseline alone. Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.",
+  "requirements_confirmed_unmet": [],
+  "requirements_unverified": [
+    "Federal Reserve Board role: confirm the exact minimum years, domain expertise and required versus preferred qualifications against the saved official description. Unknown deadline means verify promptly; never assume open-ended hiring.",
+    "Mandatory current student enrollment and return-to-study requirements are unverified; confirm enrollment, degree level, program dates and GPA where required. Internship is lower priority for this senior candidate; missing evidence is not confirmed ineligibility.",
+    "Verify OMB/federal budget procedures against the exact qualification clause; not established by the baseline alone.",
+    "Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "preferred_requirements_note": "See official qualifications/education sections; missing evidence does not establish an unmet requirement.",
+  "hiring_paths": [
+    "See Board qualifications; internship enrollment requirements remain unverified"
+  ],
+  "open_evidence": "Official Federal Reserve Board careers feed: canApply=true and posted=true; source jobPostingInfo retained.",
+  "discovery_window": [
+    "2026-09-03",
+    "2026-11-03"
+  ],
+  "employer": "Board of Governors of the Federal Reserve System",
+  "status": "needs_verification",
+  "aliases": [],
+  "id": "6299d82269c49966",
+  "application_directory": "applications/2026-11-03__board-of-governors-of-the-federal-reserv__summer-intern-financial-accounting-policy-and-reporting__6299d82269c49966",
+  "step": 1,
+  "selected": false,
+  "submitted": false,
+  "artifacts": {
+    "resume_markdown": {
+      "path": "applications/2026-11-03__board-of-governors-of-the-federal-reserv__summer-intern-financial-accounting-policy-and-reporting__6299d82269c49966/resume-xuewu-cai__board-of-governors-of-the-federal-reserv__summer-intern-financial-accounting-policy-and-reporting__r025924.md",
+      "sha256": "bb08ad1669281a789ada53b299471b4ca1cb3318585cbd25d0eba77aa8ff6b6a"
+    },
+    "resume_pdf": {
+      "path": "applications/2026-11-03__board-of-governors-of-the-federal-reserv__summer-intern-financial-accounting-policy-and-reporting__6299d82269c49966/resume-xuewu-cai__board-of-governors-of-the-federal-reserv__summer-intern-financial-accounting-policy-and-reporting__r025924.pdf",
+      "sha256": "336b5025a658ba8ff4ce2c7bea27ef601fdb3374442fd4ba1b74915230896a6c"
+    }
+  },
+  "artifact_versions": [
+    {
+      "revision_id": "2026-11-04T01:27:13.427519+00:00",
+      "artifacts": {
+        "resume_markdown": {
+          "path": "applications/2026-11-03__board-of-governors-of-the-federal-reserv__summer-intern-financial-accounting-policy-and-reporting__6299d82269c49966/resume-xuewu-cai__board-of-governors-of-the-federal-reserv__summer-intern-financial-accounting-policy-and-reporting__r025924.md",
+          "sha256": "bb08ad1669281a789ada53b299471b4ca1cb3318585cbd25d0eba77aa8ff6b6a"
+        },
+        "resume_pdf": {
+          "path": "applications/2026-11-03__board-of-governors-of-the-federal-reserv__summer-intern-financial-accounting-policy-and-reporting__6299d82269c49966/resume-xuewu-cai__board-of-governors-of-the-federal-reserv__summer-intern-financial-accounting-policy-and-reporting__r025924.pdf",
+          "sha256": "336b5025a658ba8ff4ce2c7bea27ef601fdb3374442fd4ba1b74915230896a6c"
+        }
+      },
+      "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a"
+    }
+  ],
+  "resume_status": "prepared_with_attention",
+  "resume_review": "Two rendered pages reviewed; all 77 distinct page images inspected across seven boards covering 166 pages. Text bounds, all 20 baseline experience bullets, updated title, neutral metadata and artifact hashes passed. Candidate qualifications remain unverified.",
+  "required_answers_pending": [
+    "Federal Reserve Board role: confirm the exact minimum years, domain expertise and required versus preferred qualifications against the saved official description. Unknown deadline means verify promptly; never assume open-ended hiring.",
+    "Mandatory current student enrollment and return-to-study requirements are unverified; confirm enrollment, degree level, program dates and GPA where required. Internship is lower priority for this senior candidate; missing evidence is not confirmed ineligibility.",
+    "Verify OMB/federal budget procedures against the exact qualification clause; not established by the baseline alone.",
+    "Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "confirmed_unmet_requirements": [],
+  "qualifications_verified": false,
+  "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a",
+  "resume_format": "restored_two_page",
+  "current_resume_naming": "unversioned",
+  "priority": "lower"
+}

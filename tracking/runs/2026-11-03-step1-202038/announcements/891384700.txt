@@ -1,0 +1,937 @@
+USAJOBS - Job Announcement
+
+ Skip to main content
+
+ An official website of the United States government
+
+Official websites use .gov
+
+A .gov website belongs to an official government organization in the United States.
+
+Secure .gov websites use HTTPS
+ A lock ( LockA locked padlock ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.
+
+ MENU
+
+ Sign in
+
+ My jobs
+
+ Profile
+
+ Resumes & documents
+
+ Notifications
+
+ Talent networks
+
+ Sign out
+
+ My jobs
+
+ Profile
+
+ Resumes & documents
+
+ Notifications
+
+ Talent networks
+
+ Sign out
+
+ Events
+
+ Help Center
+
+ Search
+
+ Back to results
+
+ Apply
+
+ DATA SCIENTIST (DATA ARCHITECT/DATA ENGINEER/AI-ML SPECIALIST)
+
+Department of Defense
+
+Defense Counterintelligence and Security Agency
+
+DCSA
+
+Apply
+
+ Print
+
+ Share
+
+ Save
+
+ Summary
+
+ This job is open to
+
+ Duties
+
+ Requirements
+
+ How you will be evaluated
+
+ Required documents
+
+ How to apply
+
+Summary
+
+DCSA Acquisition and Technology, National Background Investigation Services (NBIS) is seeking a non-supervisory Data Scientist (Data Architect/Data Engineer/AI-ML Specialist). The incumbent will provide support, guidance and expertise in various Data Scientist functions. Performs a variety of duties that involve knowledge of a wide variety of Data Scientist applications, environments, and methods. Visit www.dcsa.mil.
+
+ Learn more about this agency
+
+Summary
+
+DCSA Acquisition and Technology, National Background Investigation Services (NBIS) is seeking a non-supervisory Data Scientist (Data Architect/Data Engineer/AI-ML Specialist). The incumbent will provide support, guidance and expertise in various Data Scientist functions. Performs a variety of duties that involve knowledge of a wide variety of Data Scientist applications, environments, and methods. Visit www.dcsa.mil.
+
+ Learn more about this agency
+
+Overview
+
+ Help
+
+Accepting applications
+
+This job will close when we have received 100 applications which may be sooner than the closing date. Learn more
+
+Location
+
+2 vacancies in the following locations:
+
+ Hanover, MD
+
+ Boyers, PA
+
+ Quantico, VA
+
+ Stafford, VA
+
+ No matching locations found.
+
+Work site options
+
+Telework eligible
+
+Yes—as determined by the agency policy.
+
+Remote job
+
+No
+
+Relocation expenses reimbursed
+
+ Yes—You may qualify for reimbursement of relocation expenses in accordance with agency policy.
+
+Salary
+
+ $105,262 - $160,933 per year
+
+Minimum and maximum salary encompasses the 2026 target local market pay for DCIPS STEM/CYBER work roles.
+
+Pay scale & grade
+
+GG 11 - 12
+
+Promotion potential
+
+13
+
+ Learn more about pay scale and grade
+
+ Pay scale and grade determines the salary of the job.
+
+Work schedule
+
+Full-time
+
+Travel Required
+
+25% or less - You may be expected to travel for this position.
+
+Appointment type
+
+Permanent
+
+Occupations and job series
+
+ 1560 Data Science Series
+
+Supervisory status
+
+No
+
+Federal service type
+
+This job is in the Excepted Service
+
+Represented by a union
+
+No
+
+Drug test
+
+Yes
+
+Security clearance
+
+Sensitive Compartmented Information
+
+Position sensitivity and risk
+
+Special-Sensitive (SS)/High Risk
+
+ Jobs require a
+ background check and some require a
+ security clearance. The type depends on the job.
+
+Background check type
+
+ National security
+
+Financial disclosure required
+
+No
+
+ Some jobs require
+ financial disclosure to identify conflicts of interests.
+
+Announcement number
+
+DCSA-27-13107666-P
+
+Control number
+
+891384700
+
+This job is open to
+
+ Help
+
+The public
+
+ U.S. Citizens, Nationals or those who owe allegiance to the U.S.
+
+National Guard and reserves
+
+ Current members, those who want to join or transitioning military members.
+
+Special authorities
+
+ Individuals eligible under a special authority not listed in another hiring path.
+
+Clarification from the agency
+
+This announcement is open to: All U.S. Citizens; Retained Grade Preference (RGP) eligibles, and Military Reserve and National Guard Technician eligibles may also apply.
+
+Videos
+
+Duties
+
+ Help
+
+ This position may be filled at either GG-11 or GG-12 grade level, please indicate the grade for which you want to be considered. Incumbent may be advanced non-competitively to the established target grade upon meeting developmental benchmarks, performance requirements, and other requirements, as applicable established for the career program or specifically for the incumbent.
+
+As a DATA SCIENTIST (DATA ARCHITECT/DATA ENGINEER/AI-ML SPECIALIST) you will be responsible for the following duties:
+
+GG-11:
+
+Assists in performing professional work in data science, intelligence, artificial intelligence/machine learning (AI/ML), and system analysis.
+
+Applies standard analytic methods (such as regression and decision trees) to improve data reliability and quality.
+
+Helps identify, collect, and analyze data to effectively support and advance projects or programs.
+
+Collaborates with team members to ensure data accuracy and consistent reporting.
+
+GG-12:
+
+Independently performs professional work in data science, intelligence, artificial intelligence/machine learning (AI/ML), and system analysis.
+
+Selects and applies appropriate analytic methods to improve data reliability and quality.
+
+Identifies, collects, and analyzes data to effectively support and advance projects or programs.
+
+Collaborates with stakeholders to ensure data accuracy and informs management of anticipated revisions to methodologies or procedures.
+
+The Office Under Secretary of Defense for Intelligence and Security established a Targeted Local Market Supplement (TLMS) for certain Science, Technology, Engineering, Mathematics, and Cyber positions within the Defense Civilian Intelligence Personnel System. Eligibility for the TLMS is based on cyber work roles within certain occupational series and on the work performed. This vacancy is designated as a STEM and/or Cyber position and pay for the incumbent will be based on the STEM and Cyber Pay Table.
+
+In accordance with DoDD 8140.01/DoDI 8140.02, the position compliance requirement details are outlined in the Defense Cyber Workforce Annex (attached). Any Information Technology/Security certifications / education specified in the DCWF Annex as defined by DoD 8140-M within six months of appointment date. The incumbent must sign a Statement of Understanding regarding the certification requirements and maintaining the appropriate certification is a condition of employment.
+
+Requirements
+
+ Help
+
+Conditions of employment
+
+Must be a US citizen
+
+Selective Service Requirement: Males born after 12-31-59 must be registered for Selective Service. For more information http://www.sss.gov
+
+Resume and supporting documents received by 11:59PM EST will be considered
+
+This is a Drug Testing designated position
+
+Position is a (DCIPS) position in the Excepted Service under U.S.C. 1601
+
+Work Schedule: Full Time
+
+Overtime: Occasionally
+
+Tour of Duty: Flexible
+
+PCS (Permanent Change of Station): Not Authorized
+
+Fair Labor Standards Act (FLSA): Exempt
+
+Financial Disclosure: Not Required
+
+Telework Eligibility: Supervisors may approve situational telework on a case-by-case, temporary basis for limited situations.
+
+If selected, the incumbent must obtain and maintain appropriate security clearance as indicated in job announcement.
+
+Qualifications
+
+ This position has a Basic Requirement for the 1560:
+
+Degree: Mathematics, statistics, computer science, data science or field directly related to the position. The degree must be in a major field of study (at least at the baccalaureate level) that is appropriate for the position.
+
+or
+
+Combination of education and experience: Courses equivalent to a major field of study (30 semester hours) as shown in paragraph A above, plus additional education or appropriate experience.
+
+*NOTE: Failure to provide transcripts will result in you being rated ineligible for this position.
+
+The experience described in your resume will be evaluated and screened from the Office of Personnel Management's (OPMs) basic qualifications requirements. See: Data Science Series 1560 for OPM qualification standards, competencies and specialized experience needed to perform the duties of the position as described in the MAJOR DUTIES and QUALIFICATIONS sections of this announcement by 11/13/2026
+
+Applicant must have directly applicable experience that demonstrates the possession of the knowledge, skills, abilities and competencies necessary for immediate success in the position. Qualifying experience may have been acquired in any public or private sector job, but will clearly demonstrate past experience in the application of the particular competencies/knowledge, skills and abilities necessary to successfully perform the duties of the position.
+
+For the GG-11
+
+You must have specialized experience sufficient to demonstrate that you have acquired all the competencies necessary to perform at a level equivalent in difficulty, responsibility, and complexity to the next lower grade GS/GG-09 in the Federal service and are prepared to take on greater responsibility.
+
+Generally, this would include one year or more of such specialized experience.
+
+Specialized experience for this position includes:
+
+Assisting in applying statistical, machine learning, natural language processing, or other advanced analytical methods to solve problems involving structured and unstructured data.
+
+Supporting the design, development, and validation of predictive models, quantitative analyses, and data-driven decision-support products under guidance.
+
+Independently executing components of data analysis projects from problem definition through data acquisition, preparation, and modeling (using SQL, Python, Power BI, or other tools).
+
+For the GG-12
+
+You must have specialized experience sufficient to demonstrate that you have acquired all the competencies necessary to perform at a level equivalent in difficulty, responsibility, and complexity to the next lower grade GS/GG-11 in the Federal service and are prepared to take on greater responsibility.
+
+Generally, this would include one year or more of such specialized experience.
+
+Specialized experience for this position includes:
+
+Applying statistical, machine learning, natural language processing, or other advanced analytical methods to solve complex problems involving structured and unstructured data.
+
+Designing, developing, and refining predictive models, quantitative analyses, and data-driven decision-support products.
+
+Leading components of data analysis projects from problem definition through data acquisition, preparation, and modeling.
+
+Specifically you will be evaluated on the following competencies:
+
+Data Mining - Computing process of discovering patterns in a large data set involving methods at the intersection of machine learning, statistics, and database systems.
+
+Data Management - Knowledge of the principles, procedures, and tools of data management, such as modeling techniques, data backup, data recovery, data dictionaries, data warehousing, data mining, data disposal, and data standardization processes.
+
+Software and Programming - Leverage and optimize the use of existing OIG specific software (such as Cloudera Data Platform, Cloudera Data Flow (Apache Nifi), Tableau, DataWalk), while recommending future software mix. Understand a variety of programming languages (such as Java/Javascript, Scala, Python, C/C#/C++, R) as needed to meet software and business needs.Understand a variety of data warehousing platforms (such as Cloudera/Hive, Oracle, SQL, MySQL, NoSQL), big data software (such as Tableau, DataWalk, Apache Hadoop/Spark, ArcGIS), and data science project management and version control applications (such as JIRA, Agile).
+
+Qualitative / Quantitative Analysis - Developing and applying quantitative and qualitative analytic methods to identify, collect, process, and analyze large data sets.
+
+Education
+
+ If substituting education for experience at the GG-11 level, you must possess a Ph.D. or equivalent doctoral degree or 3 full years of progressively higher graduate education leading to such a degree, OR LL.M., if related.
+
+Superior Academic Achievement does not apply to DCIPS positions.
+
+If substituting education for experience, transcripts MUST be provided. Failure to provide transcripts will result in you being rated ineligible for this position.
+
+Foreign Education: For further information, click on the following link:
+
+https://sites.ed.gov/international/recognition-of-foreign-qualifications/
+
+Additional information
+
+VETERANS PREFERENCE/CURRENT OR FORMER FEDERAL
+
+In accordance with DoD Instruction 1400.25, Volume 2005, veterans preference is not required to be applied when considering candidates with prior Federal competitive or excepted service who have completed a probationary or trial period and have not been separated for cause. Therefore, veterans preference will not be applied to applicants with current federal service, or former federal civilian service meeting the above criteria.
+
+Re-employed Annuitant: This position does not meet criteria for re-employed annuitant. The DoD criteria for hiring Re-employed Annuitants can be found at: https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/140025/1400.25-V300.pdf
+
+Applicants selected from this announcement may be required to serve a two-year trial period.
+
+If selected, Federal employees currently serving in the competitive service must acknowledge that they will voluntarily leave the competitive service by accepting an offer of employment for a DCIPS excepted service positions.
+
+If selected, non-DCIPS candidates must acknowledge in writing that the position they have been selected for is in the excepted service and covered by DCIPS.
+
+All Defense Intelligence positions under the Defense Civilian Intelligence Personnel System (DCIPS) are in the excepted service by specific statue, 10 U.S.C. 1601. This position is in the excepted service and does not confer competitive status.
+
+For more information on the DCIPS occupational structure click here.
+
+For more information about career advancement in DCIPS click here.
+
+ACQUISITION POSITION: This position requires a Defense Acquisition Workforce Improvement Act (DAWIA) Engineering & Technical Management, Foundational level. Certification prior to hiring is not essential but must be accomplished within 3 years (36 months) after entry into this position. For information regarding the DAWIA Back to Basics please visit: Home (dau.edu) or Back to Basics - Helpful Resources (dau.edu)
+
+DAWIA (Back to Basics) Certification: NON-CAP: Position requires DoD Acquisition Foundational certification in Engineering & Technical Management within required timeframes. Selectee must also achieve 80 hours of Continuous Learning Points (CLPs) every 2-years. Click here for more details and Resources.
+
+This position is subject to an initial drug screening, and random testing thereafter. A negative drug test result must be received by HR within 30 calendar days after the EOD (i.e., start date). The selectee's inability successfully pass; or refusal to conduct the test may result in: 1) the tentative or FJO being withdrawn during the recruitment process; or 2) subsequently being removed from Federal service for failure to meet a condition of employment.
+
+You may be required to sign a "Drug Test Statement of Understanding" if you are selected for this position.
+
+ Expand Hide  additional information
+
+Candidates should be committed to improving the efficiency of the Federal government, passionate about the ideals of our American republic, and committed to upholding the rule of law and the United States Constitution.
+
+Benefits
+
+ Help
+
+ A career with the U.S. government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding. Opens in a new windowLearn more about federal benefits.
+
+ Review our benefits
+
+Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time or intermittent. Contact the hiring agency for more information on the specific benefits offered.
+
+How you will be evaluated
+
+You will be evaluated for this job based on how well you meet the qualifications above.
+
+ You will be evaluated based on how well you meet the qualifications listed in this vacancy announcement. Your qualifications will be evaluated based on your application materials (e.g., resume, supporting documents), the responses you provide on the application questionnaire.
+
+EXCEPTED SERVICE PILOT REVIEW: Once the application process is complete, a review of your application will be made to ensure you meet the qualification requirements listed on this announcement. All applicants who meet the basic qualification requirements will be forwarded to the Selecting Official for consideration.
+
+You should list any relevant performance appraisals and incentive awards in your resume as that information may be taken into consideration during the selection process. If selected, you may be required to provide supporting documentation.
+
+Top ranked candidates will be referred to the selecting official for further review and consideration.
+
+A review of your resume and supporting documentation will be made and compared against your responses to the Assessment Questionnaire to determine if you are qualified for this job. If your resume is incomplete or does not support the responses provided in the Assessment Questionnaire, or if you fail to submit all required documentation, you will be rated 'ineligible', 'not qualified'.
+
+Please follow all instructions carefully. Errors or omissions may affect your rating or consideration for employment.
+
+All eligibility and qualifications requirements must be met by the closing date of this announcement.
+
+Benefits
+
+ Help
+
+ A career with the U.S. government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding. Opens in a new windowLearn more about federal benefits.
+
+ Review our benefits
+
+Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time or intermittent. Contact the hiring agency for more information on the specific benefits offered.
+
+Required documents
+
+Required Documents
+
+ Help
+
+ The documents you are required to submit vary based on the authority you are using to apply (i.e., applying as a veteran, applying as a current permanent Federal employee, applying as a reinstatement, etc.). Your complete application includes your COMPLETE resume, your responses to the online questionnaire, and documents which prove your eligibility to apply. If you fail to provide these documents, you will be marked as having an incomplete application package and you will not be considered any further.
+
+The following documents are REQUIRED:
+
+1. Your resume:
+
+IMPORTANT UPDATE: Your resume must not exceed two (2) pages. If your resume exceeds the two-page limit, you will be removed from consideration for this announcement. The resume and required supporting documentation should provide the minimum qualifications and relevant experience for the announced position. Must include the work schedule, hours worked per week, dates of employment, and duties performed. If multiple resumes are submitted by an applicant, only the last resume submitted will be reviewed for qualifications and referred for selection consideration, if eligible. The resume must not be more than 5MB and should be saved and uploaded as a PDF to maintain formatting and number of pages. We also accept GIF, JPG, JPEG, PNG, RTF, TXT, PDF, ODT or Word (DOC or DOCX). We do not accept PDF portfolio files. Page margins should be 0.5 inches, and font styles must be legible. Consider using 14-point size font for titles and 10-point for the main text. We recommend using a font like Lato, if available. Other widely available options are Calibri, Helvetica, Arial, Verdana, Open San Source Sans Pro, Roboto or Noro Sans.
+
+Additional guidance on writing a federal resume can be found at: USAJOBS Help Center - How do I write a resume for a federal job? The resume builder can help you create a resume using these recommendations and uses the information in your USAJOBS profile to help you get started.
+
+If you submit more than one copy of your resume, only the most recent version will be reviewed. The latest timestamp will be used to determine which version of your resume is "most recent."
+
+If your resume includes a photograph or other inappropriate material or content, it will not be used to make eligibility and qualification determinations and you will not be considered for this vacancy.
+
+Narrative responses in the assessment questionnaire do not replace content in your resume or vise a versa. Experience must be described in both places for qualification determinations.
+
+Resumes should NOT include: Classified information/SSN/Photo of yourself/personal information (gender, religion, affiliation etc., Encrypted digitally signed docs). Resumes with this prohibited information will be automatically ineligible for consideration.
+
+For qualifications determinations your resume must contain the dates of employment (i.e., Month/Year to present. Hours per Week).
+
+If your resume does not clearly outline details for each position as noted, you may be deemed "not referred" for this position.
+
+Additional guidance on writing a federal resume can be found at: USAJOBS Help Center - How do I write a resume for a federal job? The resume builder can help you create a resume using these recommendations and uses the information in your USAJOBS profile to help you get started.
+
+2. Transcripts:
+
+This position has a degree or education requirement so you are required to submit a copy of your transcript. We accept unofficial transcripts, as long as they contain your name, the name of the school, the date and degree that was awarded, and the list of classes and credits earned.
+
+College transcript (s), required if qualifying based on education. We accept unofficial transcripts, as long as they contain your name, the name of the school, the date and degree that was awarded, and the list of classes and credits earned.
+
+3. SF50
+
+All current and former civilian Federal employees must submit a copy of your MOST RECENT SF50 (Notification of Personnel Action) showing your tenure, grade and step, salary, and type of position occupied (i.e., Excepted or Competitive); or similar Notification of Personnel Action documentation, i.e., Transcript of Service, Form 1150, etc. Failure to provide latest SF50 may result in you being rated ineligible for this position.
+
+4. Veteran's Documents:
+
+If applying using veteran's preference or under a Veteran's hiring authority you must submit the following documents: DD214 showing character of service, SF-15 Form and VA letter showing final percentage, or certification of expected discharge or release from active duty.
+
+NOTE: Active duty military members are not eligible for appointment unless currently on terminal leave.
+PLEASE REVIEW THE BELOW LINK FOR OTHER SUPPORTING DOCUMENTS needed for proof of eligibility:
+
+https://www.dla.mil/Portals/104/Documents/Careers/downloads/DODCustomersRequiredSupportingDocumentation.pdf
+
+ If you are relying on your education to meet qualification requirements:
+
+ Education must be accredited by an accrediting institution recognized by the U.S. Department of Education in order for it to be credited towards qualifications. Therefore, provide only the attendance and/or degrees from
+ schools accredited by accrediting institutions recognized by the U.S. Department of Education.
+
+ Failure to provide all of the required information as stated in this vacancy announcement may result in an ineligible rating or may affect the overall rating.
+
+How to Apply
+
+ Help
+
+To apply for this position, you must complete the online application and submit the documentation specified in the Required Documents section below.
+
+The complete application package must be submitted by 11:59 PM (EST) on the closing date to receive consideration.
+
+To begin, click Apply Online to access an online application. Follow the prompts to select your USAJOBS resume and/or other supporting documents. You will need to be logged into your USAJOBS account or you may need to create a new account.
+
+You will be taken to an online application. Complete the online application, verify the required documentation, and submit the application. NOTE: Resumes up to a total of two pages will be accepted. Resumes exceeding two pages will be removed from consideration.
+
+You will receive an email notification when your application has been received for the announcement.
+
+To verify the status of your application, log into your USAJOBS account, https://www.usajobs.gov, select the Application Status link and then select the More Information link for this position. The Application Status page will display the status of your application, the documentation received and processed, and your responses submitted to the online application. Your uploaded documents may take several hours to clear the virus scan process.
+
+To preview the questionnaire, please go to https://apply.usastaffing.gov/ViewQuestionnaire/13107666.
+
+Please review the General Application Information and Definitions at:
+
+https://www.dla.mil/Portals/104/Documents/Careers/downloads/DoDGenAppInfo%2012-1-2020.pdf?ver=ECNbdsHtGilTd3OENN4A0Q%3d%3d
+
+As required by 5 C.F.R. § 302.106., DLA will provide Section 508 conformant ICT to employees with disabilities. All ICT interfaces with the public related to vacancy announcements and career transition opportunities must conform to the applicable requirements in the current ICT Standards and Guidelines (36 C.F.R. § 1194).
+
+Agency contact information
+
+ DCSA Servicing Team
+
+Phone
+
+ 614-693-4444
+
+Email
+
+ DHRS-DDCSA@dla.mil
+
+Address
+
+ Defense Counterintelligence and Security Agency
+
+ 27130 Telegraph Road
+
+ Quantico, VA 22134
+
+ US
+
+Next steps
+
+Once you successfully complete the application process, you will receive a notification of receipt. Your application package will be reviewed to ensure you meet the basic eligibility and qualifications requirements, and you will receive a notification. A review will be made of your online questionnaire and the documentation you submitted to support your responses. A list of qualified applicants will be created and sent to the selecting official. All applicants reviewed and/or referred will receive a notification letter.
+
+The selecting official may choose to conduct interviews, and once the selection is made, you will receive a notification of the decision.
+
+*NOTE: If you submit a resume but no questionnaire, you cannot be considered for the position. If you submit a questionnaire but no resume, you cannot be considered for the position. Your application will be appropriately documented and you will be removed from further competition against this announcement.
+
+REGARDING INTERVIEWS: Interviews may be required for this position. Accommodations may be made to conduct telephonic interviews to preclude travel hardships for applicants. Note: Declining to be interviewed or failure to report for a scheduled interview will be considered as a declination for further consideration for employment against this vacancy.
+
+The Defense Counterintelligence and Security Agency provides reasonable accommodations to applicants with disabilities. If you need a reasonable accommodation for any part of the application and hiring process, please notify the point of contact for this job announcement. Your requests for reasonable accommodation will be addressed on a case-by-case basis.
+
+This announcement may be used to fill additional vacancies.
+
+Fair and transparent
+
+The Federal hiring process is set up to be fair and transparent. Please read the following guidance.
+
+ Criminal history inquiries
+
+ Equal Employment Opportunity (EEO) Policy
+
+ Financial suitability
+
+ New employee probationary period
+
+ Privacy Act
+
+ Reasonable accommodation policy
+
+ Selective Service
+
+ Signature and false statements
+
+ Social security number request
+
+Required Documents
+
+ Help
+
+ The documents you are required to submit vary based on the authority you are using to apply (i.e., applying as a veteran, applying as a current permanent Federal employee, applying as a reinstatement, etc.). Your complete application includes your COMPLETE resume, your responses to the online questionnaire, and documents which prove your eligibility to apply. If you fail to provide these documents, you will be marked as having an incomplete application package and you will not be considered any further.
+
+The following documents are REQUIRED:
+
+1. Your resume:
+
+IMPORTANT UPDATE: Your resume must not exceed two (2) pages. If your resume exceeds the two-page limit, you will be removed from consideration for this announcement. The resume and required supporting documentation should provide the minimum qualifications and relevant experience for the announced position. Must include the work schedule, hours worked per week, dates of employment, and duties performed. If multiple resumes are submitted by an applicant, only the last resume submitted will be reviewed for qualifications and referred for selection consideration, if eligible. The resume must not be more than 5MB and should be saved and uploaded as a PDF to maintain formatting and number of pages. We also accept GIF, JPG, JPEG, PNG, RTF, TXT, PDF, ODT or Word (DOC or DOCX). We do not accept PDF portfolio files. Page margins should be 0.5 inches, and font styles must be legible. Consider using 14-point size font for titles and 10-point for the main text. We recommend using a font like Lato, if available. Other widely available options are Calibri, Helvetica, Arial, Verdana, Open San Source Sans Pro, Roboto or Noro Sans.
+
+Additional guidance on writing a federal resume can be found at: USAJOBS Help Center - How do I write a resume for a federal job? The resume builder can help you create a resume using these recommendations and uses the information in your USAJOBS profile to help you get started.
+
+If you submit more than one copy of your resume, only the most recent version will be reviewed. The latest timestamp will be used to determine which version of your resume is "most recent."
+
+If your resume includes a photograph or other inappropriate material or content, it will not be used to make eligibility and qualification determinations and you will not be considered for this vacancy.
+
+Narrative responses in the assessment questionnaire do not replace content in your resume or vise a versa. Experience must be described in both places for qualification determinations.
+
+Resumes should NOT include: Classified information/SSN/Photo of yourself/personal information (gender, religion, affiliation etc., Encrypted digitally signed docs). Resumes with this prohibited information will be automatically ineligible for consideration.
+
+For qualifications determinations your resume must contain the dates of employment (i.e., Month/Year to present. Hours per Week).
+
+If your resume does not clearly outline details for each position as noted, you may be deemed "not referred" for this position.
+
+Additional guidance on writing a federal resume can be found at: USAJOBS Help Center - How do I write a resume for a federal job? The resume builder can help you create a resume using these recommendations and uses the information in your USAJOBS profile to help you get started.
+
+2. Transcripts:
+
+This position has a degree or education requirement so you are required to submit a copy of your transcript. We accept unofficial transcripts, as long as they contain your name, the name of the school, the date and degree that was awarded, and the list of classes and credits earned.
+
+College transcript (s), required if qualifying based on education. We accept unofficial transcripts, as long as they contain your name, the name of the school, the date and degree that was awarded, and the list of classes and credits earned.
+
+3. SF50
+
+All current and former civilian Federal employees must submit a copy of your MOST RECENT SF50 (Notification of Personnel Action) showing your tenure, grade and step, salary, and type of position occupied (i.e., Excepted or Competitive); or similar Notification of Personnel Action documentation, i.e., Transcript of Service, Form 1150, etc. Failure to provide latest SF50 may result in you being rated ineligible for this position.
+
+4. Veteran's Documents:
+
+If applying using veteran's preference or under a Veteran's hiring authority you must submit the following documents: DD214 showing character of service, SF-15 Form and VA letter showing final percentage, or certification of expected discharge or release from active duty.
+
+NOTE: Active duty military members are not eligible for appointment unless currently on terminal leave.
+PLEASE REVIEW THE BELOW LINK FOR OTHER SUPPORTING DOCUMENTS needed for proof of eligibility:
+
+https://www.dla.mil/Portals/104/Documents/Careers/downloads/DODCustomersRequiredSupportingDocumentation.pdf
+
+ If you are relying on your education to meet qualification requirements:
+
+ Education must be accredited by an accrediting institution recognized by the U.S. Department of Education in order for it to be credited towards qualifications. Therefore, provide only the attendance and/or degrees from
+ schools accredited by accrediting institutions recognized by the U.S. Department of Education.
+
+ Failure to provide all of the required information as stated in this vacancy announcement may result in an ineligible rating or may affect the overall rating.
+
+How to Apply
+
+ Help
+
+To apply for this position, you must complete the online application and submit the documentation specified in the Required Documents section below.
+
+The complete application package must be submitted by 11:59 PM (EST) on the closing date to receive consideration.
+
+To begin, click Apply Online to access an online application. Follow the prompts to select your USAJOBS resume and/or other supporting documents. You will need to be logged into your USAJOBS account or you may need to create a new account.
+
+You will be taken to an online application. Complete the online application, verify the required documentation, and submit the application. NOTE: Resumes up to a total of two pages will be accepted. Resumes exceeding two pages will be removed from consideration.
+
+You will receive an email notification when your application has been received for the announcement.
+
+To verify the status of your application, log into your USAJOBS account, https://www.usajobs.gov, select the Application Status link and then select the More Information link for this position. The Application Status page will display the status of your application, the documentation received and processed, and your responses submitted to the online application. Your uploaded documents may take several hours to clear the virus scan process.
+
+To preview the questionnaire, please go to https://apply.usastaffing.gov/ViewQuestionnaire/13107666.
+
+Please review the General Application Information and Definitions at:
+
+https://www.dla.mil/Portals/104/Documents/Careers/downloads/DoDGenAppInfo%2012-1-2020.pdf?ver=ECNbdsHtGilTd3OENN4A0Q%3d%3d
+
+As required by 5 C.F.R. § 302.106., DLA will provide Section 508 conformant ICT to employees with disabilities. All ICT interfaces with the public related to vacancy announcements and career transition opportunities must conform to the applicable requirements in the current ICT Standards and Guidelines (36 C.F.R. § 1194).
+
+ Expand Hide  how to apply
+
+Agency contact information
+
+ DCSA Servicing Team
+
+Phone
+
+ 614-693-4444
+
+Email
+
+ DHRS-DDCSA@dla.mil
+
+Address
+
+ Defense Counterintelligence and Security Agency
+
+ 27130 Telegraph Road
+
+ Quantico, VA 22134
+
+ US
+
+Next steps
+
+Once you successfully complete the application process, you will receive a notification of receipt. Your application package will be reviewed to ensure you meet the basic eligibility and qualifications requirements, and you will receive a notification. A review will be made of your online questionnaire and the documentation you submitted to support your responses. A list of qualified applicants will be created and sent to the selecting official. All applicants reviewed and/or referred will receive a notification letter.
+
+The selecting official may choose to conduct interviews, and once the selection is made, you will receive a notification of the decision.
+
+*NOTE: If you submit a resume but no questionnaire, you cannot be considered for the position. If you submit a questionnaire but no resume, you cannot be considered for the position. Your application will be appropriately documented and you will be removed from further competition against this announcement.
+
+REGARDING INTERVIEWS: Interviews may be required for this position. Accommodations may be made to conduct telephonic interviews to preclude travel hardships for applicants. Note: Declining to be interviewed or failure to report for a scheduled interview will be considered as a declination for further consideration for employment against this vacancy.
+
+The Defense Counterintelligence and Security Agency provides reasonable accommodations to applicants with disabilities. If you need a reasonable accommodation for any part of the application and hiring process, please notify the point of contact for this job announcement. Your requests for reasonable accommodation will be addressed on a case-by-case basis.
+
+This announcement may be used to fill additional vacancies.
+
+ Expand Hide  next steps
+
+Fair and transparent
+
+The Federal hiring process is set up to be fair and transparent. Please read the following guidance.
+
+ Criminal history inquiries
+
+ Equal Employment Opportunity (EEO) Policy
+
+ Financial suitability
+
+ New employee probationary period
+
+ Privacy Act
+
+ Reasonable accommodation policy
+
+ Selective Service
+
+ Signature and false statements
+
+ Social security number request
+
+ Defense Counterintelligence and Security Agency
+
+Our Mission
+
+Through vetting, industry engagement, education, and counterintelligence and insider threat support, secure the trustworthiness of the United States Government's workforce, the integrity of its cleared contractor support, and the uncompromised nature of its technologies, services, and supply chains.
+
+Our Vision
+
+DCSA's elite security experts illuminate national security risks to empower faster, smarter decision-making that protects American innovation and resilience to enable mission success.
+
+DCSA Strategic Execution Plan
+
+The Defense Counterintelligence and Security Agency stands at the intersection of government-wide trusted workforce, national security, and industrial base protection. Guided by the Secretary of War's National Defense Strategy, Deputy Secretary's Warfighting Acquisition Transformation efforts, and Trusted Workforce 2.0, our mission is to deliver data-driven, threat-informed, and customer-trusted security services at scale.
+
+The FY2026 - 2028 DCSA Strategic Execution Plan defines six strategic priorities for the agency:
+
+Deliver NBIS
+
+Deploy NI2 to Modernize Industrial Security
+
+Modernize and Sustain Trusted Workforce Determinations
+
+Rebuild the Workforce Compact
+
+Operate as a Customer-Centric Business
+
+Drive Audit-Ready Integration and Agency Efficiency with AI
+
+Agency contact information
+
+ DCSA Servicing Team
+
+Phone
+
+ 614-693-4444
+
+Email
+
+ DHRS-DDCSA@dla.mil
+
+Address
+
+ Defense Counterintelligence and Security Agency
+
+ 27130 Telegraph Road
+
+ Quantico, VA 22134
+
+ US
+
+Visit our careers page
+
+ Learn more about what it's like to work at Defense Counterintelligence and Security Agency, what the agency does, and about the types of careers this agency offers.
+
+ http://www.dcsa.mil
+
+Summary
+
+DCSA Acquisition and Technology, National Background Investigation Services (NBIS) is seeking a non-supervisory Data Scientist (Data Architect/Data Engineer/AI-ML Specialist). The incumbent will provide support, guidance and expertise in various Data Scientist functions. Performs a variety of duties that involve knowledge of a wide variety of Data Scientist applications, environments, and methods. Visit www.dcsa.mil.
+
+ Learn more about this agency
+
+Overview
+
+ Help
+
+Accepting applications
+
+This job will close when we have received 100 applications which may be sooner than the closing date. Learn more
+
+Location
+
+2 vacancies in the following locations:
+
+ Hanover, MD
+
+ Boyers, PA
+
+ Quantico, VA
+
+ Stafford, VA
+
+ No matching locations found.
+
+Work site options
+
+Telework eligible
+
+Yes—as determined by the agency policy.
+
+Remote job
+
+No
+
+Relocation expenses reimbursed
+
+ Yes—You may qualify for reimbursement of relocation expenses in accordance with agency policy.
+
+Salary
+
+ $105,262 - $160,933 per year
+
+Minimum and maximum salary encompasses the 2026 target local market pay for DCIPS STEM/CYBER work roles.
+
+Pay scale & grade
+
+GG 11 - 12
+
+Promotion potential
+
+13
+
+ Learn more about pay scale and grade
+
+ Pay scale and grade determines the salary of the job.
+
+Work schedule
+
+Full-time
+
+Travel Required
+
+25% or less - You may be expected to travel for this position.
+
+Appointment type
+
+Permanent
+
+Occupations and job series
+
+ 1560 Data Science Series
+
+Supervisory status
+
+No
+
+Federal service type
+
+This job is in the Excepted Service
+
+Represented by a union
+
+No
+
+Drug test
+
+Yes
+
+Security clearance
+
+Sensitive Compartmented Information
+
+Position sensitivity and risk
+
+Special-Sensitive (SS)/High Risk
+
+ Jobs require a
+ background check and some require a
+ security clearance. The type depends on the job.
+
+Background check type
+
+ National security
+
+Financial disclosure required
+
+No
+
+ Some jobs require
+ financial disclosure to identify conflicts of interests.
+
+Announcement number
+
+DCSA-27-13107666-P
+
+Control number
+
+891384700
+
+ Previous result
+
+Next result
+
+Your session is about to expire!
+
+ Your USAJOBS session will expire due to inactivity in 8 minutes.
+ Any unsaved data will be lost if you allow the session to expire.
+ Click the button below to continue your session.
+
+ Sign out
+ Stay signed in
+
+ Return to top
+
+USAJOBS is a Opens in a new windowUnited States Office of Personnel Management website.
+
+ (Opens in a new window) OPM on LinkedIn
+
+ (Opens in a new window) OPM YouTube channel
+
+ (Opens in a new window) OPM on X
+
+Opens in a new windowEEO Policy Statement
+
+Opens in a new windowReasonable Accommodation Policy Statement
+
+Veterans Information
+
+Opens in a new windowLegal and Regulatory Guidance
+
+About USAJOBS
+
+Opens in a new windowAccessibility
+
+Opens in a new windowFOIA
+
+Opens in a new windowInspector general
+
+Opens in a new windowNo Fear Act Data
+
+Opens in a new windowPrivacy policy
+
+Opens in a new windowReports and publications
+
+Opens in a new windowTerms and conditions
+
+Opens in a new windowUSA.gov

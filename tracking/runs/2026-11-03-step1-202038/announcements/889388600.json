@@ -1,0 +1,40 @@
+{
+  "@context": "http://www.schema.org",
+  "@type": "JobPosting",
+  "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": {
+      "@type": "QuantitativeValue",
+      "value": 76573,
+      "unitText": "YEAR"
+    }
+  },
+  "datePosted": "10/19/2026",
+  "description": "<p>Data Engineers develop, construct, test, optimize, and maintain microservice architectures. Data engineers employ Continuous Integration (CI)/Continuous Deployment (CD) methods to deploy containerized solutions and data pipelines to support various capabilities (e.g., machine learning/AI models, data cleaning and preparation). They solve problems associated with data access and integration. They c</p>",
+  "educationRequirements": "",
+  "employmentType": "OTHER",
+  "hiringOrganization": "NATIONAL GEOSPATIAL-INTELLIGENCE AGENCY",
+  "jobLocation": [
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Saint Louis",
+        "addressRegion": "MO "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Springfield",
+        "addressRegion": "VA "
+      }
+    }
+  ],
+  "responsibilities": "<p>ADDITIONAL INFORMATION: This Open Continuous Job Announcement is used in building a pool of qualified applicants. There is no immediate job opening. Applications will be reviewed only when staffing needs arise. <br><br>There will be multiple selections and placements for agency allocation as positions open. The jobs range from analytic operations teams working with GEOINT mission partners to build data pipelines with data holdings and structuring data for integration into enterprise systems to specific teams creating machine ready data for SI models and systems to deliver on enterprise and disparate systems on different data fabrics.<br><br>Specific duties range from data management across different systems to deploying GEOINT mission data. Other responsibilities include quality assurance across deployed systems along with integrating new datasets into already developed workflows. Data Engineers work on teams with mission partners to include analysts and/or data professionals depending on the office structure.<br><br>Additional duties include: Utilize a variety of languages and tools (e.g., scripting languages) to build data pipelines to pull together information from different source systems, Collaborate with data architects, modelers, and IT team members on project goals; ensure systems meet Agency requirements and industry practices, design, construct, install, test, and maintain highly scalable data management systems and develop data set processes for data discovery, modeling, mining, and production<br><br>This position may be eligible for a RECRUITMENT INCENTIVE: selected candidates may be offered an incentive as part of the offer of employment. To receive the incentive, selected candidates must be eligible under 5 CFR Part 575, Subpart A, upon issuance of the Final Offer Letter. Changes in federal employment status prior to issuance of the Final Offer Letter may affect eligibility. To receive the incentive, selected candidates will be required to sign a service agreement to stay within the position at NGA for the agreed upon time. If the service agreement is terminated before its completion, the employee may be required to  repay a pro rata share amount of the incentive to the government. Additional information regarding recruitment incentives for current federal employees can be found in DoDI 1400.25, Volume 2006.</p>",
+  "qualifications": "<p>MANDATORY QUALIFICATION CRITERIA: For this particular job, applicants must meet all competencies reflected under the Mandatory Qualification Criteria to include education (if required). Online resumes must demonstrate qualification by providing specific examples and associated results, in response to the announcement's mandatory criteria specified in this vacancy announcement: <br><br>Experience identifying and translating customer needs to create data products that satisfy customer requirements.<br>Demonstrated ability to develop, modify, or evaluate data and data structures.<br>Demonstrated experience utilizing standards and best practices for data interfaces such as extract-transform-load (ETL) and application programming interfaces (API).<br>Demonstrated experience working with data storage, access and exchange technologies, e.g. S3, FTP WFS, FeatureServer, Elasticsearch, SDK, etc.<br>Demonstrated proficiency in applied programming and/or manipulation of data with any programing language such as Python, R, or Java.<br><br>EDUCATION REQUIREMENT: A. Education: Bachelor's degree from an accredited college or university in Computer Science, Data Science, Engineering, Information Science, Information Systems Management, Mathematics, Operations Research, Physical Sciences, Statistics, Technology Management, or a degree that provided a minimum of 24 semester hours in one or more of the fields identified above and required the development or adaptation of applications, systems, or networks. -OR- B. Combination of Education and Experience: A minimum of 24 semester (36 quarter) hours of coursework in any area listed in option A, plus experience in experience in designing, implementing, and maintaining scalable data pipelines, ETL processes, and data integration solutions, or in a related field that demonstrates the ability to successfully perform the duties associated with this work. As a rule, every 30 semester (45 quarter) hours of coursework is equivalent to one year of experience. Candidates should show that their combination of education and experience totals 4 years. -OR- C. Experience: A minimum of 4 years of experience in experience in designing, implementing, and maintaining scalable data pipelines, ETL processes, and data integration solutions, or in a related field that demonstrates the ability to successfully perform the duties associated with this work.  -AND- IT-related experience demonstrating each of the four competencies: Attention to Detail, Customer Service, Oral Communication, and Problem Solving.</p><p>DESIRABLE QUALIFICATION CRITERIA: In addition to the mandatory qualifications, experience in the following is desired: <br><br>Demonstrated experience recommending courses of action in alignment with information and technology strategic guidance and data security best practices.<br>Demonstrated experience implementing, configuring, or designing databases with one or more current database technologies. e.g., relational (Oracle, MySQL, Postgresql, etc.), noSQL (MongoDB, Accumulo, Elastic, etc.), graph (Allegrograph, JanusGraphy, Neo4J, etc.).<br>Demonstrated experience with coding and scripting languages such as Python, JSON, BASH, and/or PowerShell.<br>Certification in cloud native services such as Amazon Web Services (AWS), containers, Kubernetes, DevSecOps pipeline tooling, and/or microservices architecture</p>",
+  "title": "Data Engineer (Open Continuous)",
+  "validThrough": "2027-09-30"
+}

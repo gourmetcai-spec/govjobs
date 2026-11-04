@@ -1,0 +1,264 @@
+{
+  "@context": "http://www.schema.org",
+  "@type": "JobPosting",
+  "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": {
+      "@type": "QuantitativeValue",
+      "value": 106437.0,
+      "unitText": "YEAR"
+    }
+  },
+  "datePosted": "11/03/2026",
+  "description": "<b>WHAT IS </b><b><b><b><b><b><b><b><b>TAXPAYER SERVICES</b></b></b></b></b></b></b></b><b>? </b><br>\nA description of the business units can be found at: <a href=\"https://www.jobs.irs.gov/about/who/business-divisions\">https://www.jobs.irs.gov/about/who/business-divisions</a>\n<ul>\n\t<li>Position(s) are to be filled in following area(s):\n\t<ul>\n\t\t<li>Taxpayer Services - Operation Support Business Systems Modernization (BSM)</li>\n\t</ul>\n\t</li>\n</ul>\n<b>REVIEW THE ADDITIONAL INFORMATION BELOW FOR FURTHER DETAILS</b>",
+  "educationRequirements": "A college or university degree generally must be from an accredited (or pre-accredited) college or university recognized by the U.S. Department of Education. For a list of schools which meet these criteria, please refer to <a href=\"http://ope.ed.gov/accreditation/search.aspx\" target=\"_blank\">Department of Education Accreditation page</a>.<br>\n<br>\n<strong>FOREIGN EDUCATION: </strong>Education completed in foreign colleges or universities may be used to meet the requirements. You must show proof the education credentials have been deemed to be at least equivalent to that gained in conventional U.S. education program. It is your responsibility to provide such evidence when applying. Click <a href=\"https://www.opm.gov/policy-data-oversight/classification-qualifications/general-schedule-qualification-policies/#url=General-Policies\">here</a> (Section 3, Explanation of Terms) or <a href=\"https://sites.ed.gov/international/recognition-of-foreign-qualifications/\">here</a> for Foreign Education Credentialing instructions.<br>\n<br>\nWe recommend choosing an evaluator from a member organization of one of the following national associations of credential evaluation services: <a aria-label=\"Link National Association of Credential Evaluation Services (NACES)\" href=\"https://naces.org/\" id=\"menurkvc\" rel=\"noreferrer noopener\" target=\"_blank\" title=\"https://naces.org/\">National Association of Credential Evaluation Services (NACES)</a> or <a aria-label=\"Link Association of International Credentials Evaluators (AICE)\" href=\"https://aice-eval.org/\" id=\"menurkve\" rel=\"noreferrer noopener\" target=\"_blank\" title=\"https://aice-eval.org/\">Association of International Credentials Evaluators (AICE)</a>.",
+  "employmentType": "OTHER",
+  "hiringOrganization": "TS - Operation Support",
+  "jobLocation": [
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Fresno",
+        "addressRegion": "CA "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Oakland",
+        "addressRegion": "CA "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Denver",
+        "addressRegion": "CO "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Washington",
+        "addressRegion": "DC "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Jacksonville",
+        "addressRegion": "FL "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Atlanta",
+        "addressRegion": "GA "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Indianapolis",
+        "addressRegion": "IN "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Covington",
+        "addressRegion": "KY "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Andover",
+        "addressRegion": "MA "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Baltimore",
+        "addressRegion": "MD "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Lanham",
+        "addressRegion": "MD "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Kansas City",
+        "addressRegion": "MO "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Saint Louis",
+        "addressRegion": "MO "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Cheektowaga",
+        "addressRegion": "NY "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Holtsville",
+        "addressRegion": "NY "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Cleveland",
+        "addressRegion": "OH "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Portland",
+        "addressRegion": "OR "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Philadelphia",
+        "addressRegion": "PA "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Pittsburgh",
+        "addressRegion": "PA "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Bayamon",
+        "addressRegion": "PR "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Franklin",
+        "addressRegion": "TN "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Memphis",
+        "addressRegion": "TN "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Austin",
+        "addressRegion": "TX "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Austin",
+        "addressRegion": "TX "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Dallas",
+        "addressRegion": "TX "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Ogden",
+        "addressRegion": "UT "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Ogden",
+        "addressRegion": "UT "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Richmond",
+        "addressRegion": "VA "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Seattle",
+        "addressRegion": "WA "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Martinsburg",
+        "addressRegion": "WV "
+      }
+    }
+  ],
+  "responsibilities": "The following are the duties of this position at the full working level. If this vacancy includes more than one grade and you are selected at a lower grade level, you will have the opportunity to learn to perform these duties and receive training to help you grow in this position.\n<ul>\n\t<li>Advises and assists top level management on changes to and formulation and implementation of policies for programs, processes, and initiatives to help improve the effectiveness and efficiency of agency strategies and nation-wide operations.</li>\n\t<li>Assesses existing and proposed programs and activities to determine their investment potential and contribution to the achievement of the mission and strategic goals. Identifies business, technological, and financial risks within ongoing programs and opportunities directly and indirectly involved in meeting established agency goals and objectives, and serves as a consultant to help prepare, execute, revise, and monitor management policies.</li>\n\t<li>Plans, conducts, and completes policy and management analyses of complex issues and operations to provide senior executives with accurate and timely data, policy options, and recommendations and works with them to develop and implement policy changes that will help them carry out their strategic thinking and decision making responsibilities.</li>\n\t<li>Uses information technology hardware and software to gather and interpret data and prepare reports, spreadsheets, flow charts, policy statements, action plans, milestones, and illustrated presentations for delivery to key strategic leaders.</li>\n\t<li>Serves as project leader and member on a number of teams that collaboratively plan, develop, complete, and deliver work under stringent deadlines and towards group objectives.</li>\n</ul>\n<b>STANDARD POSITION DESCRIPTIONS (SPD): </b>PD92892<br>\nVisit the IRS <a href=\"https://irsgov.sharepoint.com/sites/Talent_Acquisition_PMC_SPDLibrary\">SPD Library</a> to access the position descriptions. ",
+  "qualifications": "<p>Federal experience is not required. Experience may have been gained in the public sector, private sector or through <a href=\"https://home.treasury.gov/about/careers-at-treasury/how-to-apply/resume-tips\">Volunteer Service</a>. One year of experience refers to full-time work; part-timework is considered on a prorated basis. <strong>To ensure full credit for your work experience, please indicate dates of employment by month/day/year, and indicate number of hours worked per week, on your resume.</strong><br>\n<br>\nYou must meet the following requirements by the closing date of this announcement.<br>\n<br>\n<strong>SPECIALIZED EXPERIENCE GS-13</strong>: You must have one (1) year of specialized experience at a level of difficulty and responsibility equal to the GS-12 grade level in the Federal service. Specialized experience for this position includes:</p>\n\n<ul>\n\t<li>Managing multiple assignments that required a wide range of knowledge of program oversight.</li>\n\t<li>Utilizing qualitative and quantitative methods, planning policies and procedures, negotiation techniques, and oral and written communications.</li>\n\t<li>Utilizing computer applications to prepare written reports, spreadsheets, and flowcharts.</li>\n\t<li>Utilizing a range of project management principles, practices, methods, and techniques.</li>\n\t<li>Conducting analysis of issues broad in nature and/or of strategic importance.</li>\n\t<li>Developing new approaches and/or refining existing techniques, and/or developing and implementing policies with organizational impact.</li>\n</ul>\n\n<p><strong>AND</strong><br>\n<br>\n<strong>You must also meet the following requirement(s):</strong></p>\n\n<ul>\n\t<li><b>TIME AFTER COMPETITIVE APPOINTMENT (TACA):</b> By the closing date (or if this is an open continuous announcement, by the cut-off date) specified in this job announcement, current civilian employees must have completed at least 90 days of federal civilian service since their latest non-temporary appointment from a competitive referral certificate, known as <a href=\"https://www.govregs.com/regulations/expand/title5_chapterI_part330_subpartE_section330.502\">time after competitive appointment</a>. For this requirement, a competitive appointment is one where you applied to and were appointed from an announcement open to \"All US Citizens\"</li>\n\t<li><b>TIME IN GRADE (TIG): </b>For positions above the GS-05,applicants must meet applicable time-in-\u00adgrade requirements to be considered eligible. One year (52 weeks) at the next lower grade level is required to meet the time-in-grade requirements for the grade you are applying for. For positions at the GS-05, you cannot advance to the GS-05 if you have held a GS-02 in the past 52 weeks. There is no TIG restriction for GS-02, 03 or 04 positions.</li>\n</ul>\n\n<p>For more information on qualifications please refer to<strong> <a href=\"https://www.opm.gov/policy-data-oversight/classification-qualifications/general-schedule-qualification-standards/\" target=\"_blank\">OPM's Qualifications Standards</a></strong>. </p>",
+  "title": "Program Evaluation and Risk Analyst",
+  "validThrough": "2026-11-12"
+}

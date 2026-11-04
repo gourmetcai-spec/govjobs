@@ -1,0 +1,40 @@
+{
+  "@context": "http://www.schema.org",
+  "@type": "JobPosting",
+  "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": {
+      "@type": "QuantitativeValue",
+      "value": 143913.0,
+      "unitText": "YEAR"
+    }
+  },
+  "datePosted": "11/03/2026",
+  "description": "As a Supervisory Budget Analyst with the U.S. Office of Personnel Management, Office of the Chief Financial Officer, Budget Office, you will direct budget formulation, justification, and execution activities; oversee funds control and financial analysis; advise leadership on budgetary matters; coordinate resource planning; and supervise staff responsible for supporting agency budget operations.",
+  "educationRequirements": "This job does not have an education qualification requirement.",
+  "employmentType": "OTHER",
+  "hiringOrganization": "OPM Human Resources",
+  "jobLocation": [
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Washington",
+        "addressRegion": "DC "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Parkersburg",
+        "addressRegion": "WV "
+      }
+    }
+  ],
+  "responsibilities": "<ul>\n\t<li>\n\t<p>Direct budget formulation, justification, and execution activities, including funds control, resource planning, allocations, apportionments, and financial forecasting for assigned programs.</p>\n\t</li>\n\t<li>\n\t<p>Analyze budget requests, program plans, financial estimates, and resource requirements; develop recommendations to support management decisions and agency priorities.</p>\n\t</li>\n\t<li>\n\t<p>Prepare and review budget submissions, justifications, financial reports, and supporting materials for senior leadership, the Office of Management and Budget, and Congress.</p>\n\t</li>\n\t<li>\n\t<p>Conduct financial analyses, cost-benefit studies, and budget forecasts; monitor expenditures, cash flow, and funding requirements to identify and resolve resource issues.</p>\n\t</li>\n\t<li>\n\t<p>Interpret and apply budget laws, regulations, policies, and guidance; develop budget procedures and advise management and program officials on financial matters.</p>\n\t</li>\n\t<li>\n\t<p>Coordinate with program managers and stakeholders to evaluate funding priorities, negotiate resource requirements, and recommend budgetary actions.</p>\n\t</li>\n\t<li>\n\t<p>Supervise employees by assigning work, establishing priorities, evaluating performance, providing technical guidance, and identifying employee training and development needs.</p>\n\t</li>\n</ul>",
+  "qualifications": "For the GS14: You must have at least one year of specialized experience comparable in scope and responsibility to the GS-13 grade level in the federal service (obtained either in the private or public sectors) performing <strong>ALL</strong> of the following:\n<ul>\n\t<li>Leading the resolution of complex budgetary issues through cost-benefit and long-range analyses;</li>\n\t<li>Providing technical advice on budget execution operations, annual budget requirements, annual obligations, and operating costs;</li>\n\t<li>Monitoring an organization's execution of obligations and expenditures against operating plans in order to identify anomalies and deficits</li>\n\t<li>Preparing and delivering briefings and presentations for regular budget projection meetings; AND</li>\n\t<li>Writing budget justifications for OMB, Congress or comparable oversight bodies.</li>\n</ul>\n<strong>Merit promotion applicants must meet time-in-grade requirement as defined in 5 CFR 300, Subpart F.</strong> One year at the GS-13 level is required to meet the time-in-grade requirements for the GS 14 level.<br>\n<br>\nYou must meet all qualification and eligibility requirements within 30 days of the closing date of this announcement.<br>\n<br>\nExperience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., Peace Corps, AmeriCorps) and other organizations (e.g., professional; philanthropic; religious; spiritual; community, student, social). Volunteer work helps build critical competencies, knowledge, and skills and can provide valuable training and experience that translates directly to paid employment. You will receive credit for all qualifying experience, including volunteer experience.",
+  "title": "Supervisory Budget Analyst",
+  "validThrough": "2026-11-17"
+}

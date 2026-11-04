@@ -1,0 +1,32 @@
+{
+  "@context": "http://www.schema.org",
+  "@type": "JobPosting",
+  "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": {
+      "@type": "QuantitativeValue",
+      "value": 102415.0,
+      "unitText": "YEAR"
+    }
+  },
+  "datePosted": "11/03/2026",
+  "description": "<strong>Reemployed annuitant:</strong> This vacancy does not meet the criteria for appointment of annuitants.<br>\n<br>\nThis job announcement uses the USA Hire Assessment to evaluate applicants. For more information, visit <a href=\"https://support-usahire.opm.gov/hc/en-us\">USA Hire Assessment</a>.",
+  "educationRequirements": "<strong>Substitution of Education for Specialized Experience:</strong> There is no substitution of education for experience at this grade level.",
+  "employmentType": "OTHER",
+  "hiringOrganization": "DCAA - HEADQUARTERS",
+  "jobLocation": [
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Fort Belvoir",
+        "addressRegion": "VA "
+      }
+    }
+  ],
+  "responsibilities": "",
+  "qualifications": "<p>You may qualify for consideration if meeting time-in grade, specialized experience, education requirement, 90 days after competitive appointment requirement, and all other qualification requirements within 30 calendar days after the closing date of the announcement, unless otherwise indicated on the announcement.<br>\n<br>\nYou must meet the minimum qualification requirements as stated in the Office of Personnel Management (OPM) Operating Manual, Qualification Standards for General Schedule Positions, www.opm.gov/qualifications/Standards/group-stds/gs-prof.asp<br>\n<br>\n<strong>Basic Requirement: </strong><br>\n<br>\n<strong>Specialized Experience:</strong><br>\nYou must have one year of specialized experience at the GS-11 or equivalent level. <u><strong>Specialized experience must be documented in your resume.</strong></u><b>Specialized experience is defined as:</b> adapting analytical and evaluative techniques to assess and improve the travel program workflows, workload, processing, and system errors; OR applying statutory authorities to oversee or sustain travel systems (such as the Defense Travel System); OR utilizing methodologies to guide system lifecycle documentation and change management; assess findings from complex or incomplete travel and financial records to formulate recommendations and briefings for management.</p>\n\n<p><strong>Definition of Well Qualified</strong>: Demonstrating proficiency in qualitative and quantitative analytical techniques to measure and resolve agency-wide travel workflow deficiencies; applying statutory travel authorities such as the Joint Travel Regulations (JTR), and DoD Financial Management Regulations (DoD FMR) to oversee travel system sustainment, debt processing, and GTCC compliance; managing change management and lifecycle documentation for travel capability deployments; and creating actionable solutions from incomplete or conflicting data to deliver and defend strategic recommendations to leadership.<br>\n<br>\n<strong>Volunteer Experience</strong>: Experience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., Peace Corps, AmeriCorps) and other organizations (e.g., professional, philanthropic, religious, spiritual, community, student, social). Volunteer work helps build critical competencies, knowledge, and skills, and can provide valuable training and experience that translates to paid employment. You will receive credit for all qualifying experience, including volunteer experience.</p>",
+  "title": "Management Analyst (Travel Management Analyst)",
+  "validThrough": "2026-11-17"
+}

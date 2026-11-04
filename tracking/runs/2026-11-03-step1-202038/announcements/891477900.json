@@ -1,0 +1,48 @@
+{
+  "@context": "http://www.schema.org",
+  "@type": "JobPosting",
+  "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": {
+      "@type": "QuantitativeValue",
+      "value": 106437.0,
+      "unitText": "YEAR"
+    }
+  },
+  "datePosted": "11/03/2026",
+  "description": "<b>WHAT IS <b><b><b>NATIONAL TAXPAYER ADVOCATE SERVICE</b></b></b></b><b>?</b><br>\nA description of the business units can be found at: <a href=\"https://www.jobs.irs.gov/about/who/business-divisions\">https://www.jobs.irs.gov/about/who/business-divisions</a>\n<ul>\n\t<li><strong>Position(s) are to be filled in following area(s):</strong>\n\t<ul>\n\t\t<li>TAS - Deputy National Taxpayer Advocate</li>\n\t</ul>\n\t</li>\n</ul>\n<br>\n<b>REVIEW THE ADDITIONAL INFORMATION BELOW FOR FURTHER DETAILS</b>",
+  "educationRequirements": "A college or university degree generally must be from an accredited (or pre-accredited) college or university recognized by the U.S. Department of Education. For a list of schools which meet these criteria, please refer to <a href=\"http://ope.ed.gov/accreditation/search.aspx\" target=\"_blank\">Department of Education Accreditation page</a>.<br>\n<br>\n<strong>FOREIGN EDUCATION: </strong>Education completed in foreign colleges or universities may be used to meet the requirements. You must show proof the education credentials have been deemed to be at least equivalent to that gained in conventional U.S. education program. It is your responsibility to provide such evidence when applying. Click <a href=\"https://www.opm.gov/policy-data-oversight/classification-qualifications/general-schedule-qualification-policies/#url=General-Policies\">here</a> (Section 3, Explanation of Terms) or <a href=\"https://sites.ed.gov/international/recognition-of-foreign-qualifications/\">here</a> for Foreign Education Credentialing instructions.<br>\n<br>\nWe recommend choosing an evaluator from a member organization of one of the following national associations of credential evaluation services: <a aria-label=\"Link National Association of Credential Evaluation Services (NACES)\" href=\"https://naces.org/\" id=\"menurnsn\" rel=\"noreferrer noopener\" target=\"_blank\" title=\"https://naces.org/\">National Association of Credential Evaluation Services (NACES)</a> or <a aria-label=\"Link Association of International Credentials Evaluators (AICE)\" href=\"https://aice-eval.org/\" id=\"menurnsp\" rel=\"noreferrer noopener\" target=\"_blank\" title=\"https://aice-eval.org/\">Association of International Credentials Evaluators (AICE)</a>.",
+  "employmentType": "OTHER",
+  "hiringOrganization": "TAS - Deputy National Taxpayer Advocate",
+  "jobLocation": [
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Kansas City",
+        "addressRegion": "MO "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Oklahoma City",
+        "addressRegion": "OK "
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Richmond",
+        "addressRegion": "VA "
+      }
+    }
+  ],
+  "responsibilities": "<p><strong>General Manager Duties:</strong><br>\n<br>\n<strong>As a Front Line Manager you will:</strong></p>\n\n<ul>\n\t<li>Plan work to be accomplished by subordinates, sets and adjusts short-term priorities and prepares schedules for completion of work.</li>\n\t<li>Assign work to subordinates based on priorities, selective consideration of the difficulty and requirements of assignments, and the capabilities of employees.</li>\n\t<li>Evaluate work performance of subordinates and makes recommendations for outstanding performance recognition and/or disciplinary action.</li>\n\t<li>Give advice, counsel or instruction to employees on work and administrative matters.</li>\n\t<li>Interview candidates for positions within the organization/unit and recommend appointment, promotion or reassignment to such positions.</li>\n\t<li>Hear and resolve complaints from employees, refer group grievances and/or more serious unresolved complaints as appropriate.</li>\n\t<li>Effect minor disciplinary measures, such as warnings and reprimands, recommend other actions in more serious cases.</li>\n\t<li>Identify developmental and training needs of employees, providing or arranging for needed development and training.</li>\n\t<li>Initiate ways to improve production, work processes and/or to increase the quality of the work directed.</li>\n</ul>\n<strong>The following are the job specific duties of this position. You will have the opportunity to learn to perform these duties and receive training to help you grow in this position.</strong>\n\n<ul>\n\t<li>Plans, directs, and coordinates the work of a team responsible for resolving complex taxpayer advocacy cases.</li>\n\t<li>Establishes priorities, assigns workload, and monitors case progress to ensure timely and effective resolution of taxpayer issues involving hardship or systemic IRS problems.</li>\n\t<li>Integrates cross-functional knowledge of IRS processes and procedures to facilitate case resolution across multiple IRS operating divisions.</li>\n\t<li>Ensures alignment with TAS program objectives, policies, and national priorities while managing resources to optimize program effectiveness.</li>\n</ul>\n<b>STANDARD POSITION DESCRIPTIONS (SPD): </b>PD26168<br>\nVisit the IRS <a href=\"https://irsgov.sharepoint.com/sites/Talent_Acquisition_PMC_SPDLibrary\">SPD Library</a> to access the position descriptions.",
+  "qualifications": "<p>Federal experience is not required. Experience may have been gained in the public sector, private sector or through <a href=\"https://home.treasury.gov/about/careers-at-treasury/how-to-apply/resume-tips\">Volunteer Service</a>. One year of experience refers to full-time work; part-timework is considered on a prorated basis. <strong>To ensure full credit for your work experience, please indicate dates of employment by month/day/year, and indicate number of hours worked per week, on your resume.</strong><br>\n<br>\nYou must meet the following requirements by the closing date of this announcement.<br>\n<br>\n<strong>SPECIALIZED EXPERIENCE IR-05: </strong>You must have one (1) year of specialized experience at a level of difficulty and responsibility equivalent to the next lower level within the payband (IR-06) or GS grade (GS-12) in the normal line of progression in the Federal service that demonstrates the required managerial skills and technical competence required to perform the job. To be qualified for this position your experience must include:</p>\n\n<ul>\n\t<li>Experience working effectively within an organizational environment while building productive working relationships with internal and external stakeholders and showing awareness and sensitivity to taxpayer circumstances and concerns.</li>\n\t<li>Experience assisting with the resolution of tax-related issues by applying established tax laws, policies, and procedures to support fair and consistent outcomes.</li>\n\t<li>Experience applying and following established policies, procedures, and guidelines within a structured organization.</li>\n\t<li>Experience collaborating with others on projects or initiatives that involve coordination across teams or functional areas.</li>\n</ul>\n\n<p><strong>AND</strong><br>\n<br>\n<strong>You must also meet the following requirement(s):</strong></p>\n\n<ul>\n\t<li><b>TIME AFTER COMPETITIVE APPOINTMENT (TACA):</b> By the closing date (or if this is an open continuous announcement, by the cut-off date) specified in this job announcement, current civilian employees must have completed at least 90 days of federal civilian service since their latest non-temporary appointment from a competitive referral certificate, known as <a href=\"https://www.govregs.com/regulations/expand/title5_chapterI_part330_subpartE_section330.502\">time after competitive appointment</a>. For this requirement, a competitive appointment is one where you applied to and were appointed from an announcement open to \"All US Citizens\".</li>\n</ul>\n\n<p>For more information on qualifications please refer to<strong> <a href=\"https://www.opm.gov/policy-data-oversight/classification-qualifications/general-schedule-qualification-standards/\" target=\"_blank\">OPM's Qualifications Standards</a></strong>.<br>\nGo to <strong><a href=\"https://www.jobs.irs.gov/sites/default/files/wysiwyg-uploads/files/IRSDownloads/Understanding_the_IRS_PaybandsREV.pdf\" target=\"_blank\">Understanding the IRS Paybands</a></strong> for GS/IR conversion.</p>",
+  "title": "Taxpayer Advocate Group Manager",
+  "validThrough": "2026-11-09"
+}

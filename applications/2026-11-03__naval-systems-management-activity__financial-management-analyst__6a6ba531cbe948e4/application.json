@@ -1,0 +1,81 @@
+{
+  "title": "FINANCIAL MANAGEMENT ANALYST",
+  "requisition_id": "ST-13108613-27-MAJ",
+  "canonical_url": "https://www.usajobs.gov/job/891472900",
+  "application_url": "https://www.usajobs.gov/job/891472900",
+  "posted_date": "2026-11-03",
+  "posted_date_evidence": "Official JobPosting.datePosted and native PositionStartDate",
+  "close_date": "2026-11-05",
+  "deadline_timezone": "America/New_York",
+  "deadline_time": "23:59",
+  "deadline_source": "https://www.usajobs.gov/job/891472900",
+  "deadline_verified": true,
+  "early_closure_conditions": [],
+  "rolling_cutoff": null,
+  "location": "Joint Base Anacostia-Bolling, DC",
+  "remote_restrictions": "Offered DMV work location; verify telework/attendance and screening conditions in announcement.",
+  "salary": "Starting at $70,623 Per year (GS 9)",
+  "retrieved_at": "2026-11-04T01:27:13.427519+00:00",
+  "control_number": "891472900",
+  "fit": "Financial forecasting, capital/ROE, quantitative risk and engineering leadership overlap; federal budget/accounting/policy specialties remain attention items.",
+  "gaps": "Hiring-path eligibility unverified: Special authorities. Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.",
+  "requirements_confirmed_unmet": [],
+  "requirements_unverified": [
+    "Hiring-path eligibility unverified: Special authorities. Confirm qualifying status before application; absence from baseline is not proof of ineligibility.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "preferred_requirements_note": "See official qualifications/education sections; missing evidence does not establish an unmet requirement.",
+  "hiring_paths": [
+    "Special authorities"
+  ],
+  "open_evidence": "Official announcement downloaded successfully; validThrough and native open-status evidence retained.",
+  "discovery_window": [
+    "2026-09-03",
+    "2026-11-03"
+  ],
+  "employer": "Naval Systems Management Activity",
+  "status": "needs_verification",
+  "aliases": [],
+  "id": "6a6ba531cbe948e4",
+  "application_directory": "applications/2026-11-03__naval-systems-management-activity__financial-management-analyst__6a6ba531cbe948e4",
+  "step": 1,
+  "selected": false,
+  "submitted": false,
+  "artifacts": {
+    "resume_markdown": {
+      "path": "applications/2026-11-03__naval-systems-management-activity__financial-management-analyst__6a6ba531cbe948e4/resume-xuewu-cai__naval-systems-management-activity__financial-management-analyst__891472900.md",
+      "sha256": "3062e36dfdfa7e95f10e0e3aecaf18269966cc6e0d222de2dbd72f74f239e8ae"
+    },
+    "resume_pdf": {
+      "path": "applications/2026-11-03__naval-systems-management-activity__financial-management-analyst__6a6ba531cbe948e4/resume-xuewu-cai__naval-systems-management-activity__financial-management-analyst__891472900.pdf",
+      "sha256": "476e7e262e9c8d0953e6572a9319e6edc8acb32efddd1b4f16b3507cf30d4e26"
+    }
+  },
+  "artifact_versions": [
+    {
+      "revision_id": "2026-11-04T01:27:13.427519+00:00",
+      "artifacts": {
+        "resume_markdown": {
+          "path": "applications/2026-11-03__naval-systems-management-activity__financial-management-analyst__6a6ba531cbe948e4/resume-xuewu-cai__naval-systems-management-activity__financial-management-analyst__891472900.md",
+          "sha256": "3062e36dfdfa7e95f10e0e3aecaf18269966cc6e0d222de2dbd72f74f239e8ae"
+        },
+        "resume_pdf": {
+          "path": "applications/2026-11-03__naval-systems-management-activity__financial-management-analyst__6a6ba531cbe948e4/resume-xuewu-cai__naval-systems-management-activity__financial-management-analyst__891472900.pdf",
+          "sha256": "476e7e262e9c8d0953e6572a9319e6edc8acb32efddd1b4f16b3507cf30d4e26"
+        }
+      },
+      "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a"
+    }
+  ],
+  "resume_status": "prepared_with_attention",
+  "resume_review": "Two rendered pages reviewed; all 77 distinct page images inspected across seven boards covering 166 pages. Text bounds, all 20 baseline experience bullets, updated title, neutral metadata and artifact hashes passed. Candidate qualifications remain unverified.",
+  "required_answers_pending": [
+    "Hiring-path eligibility unverified: Special authorities. Confirm qualifying status before application; absence from baseline is not proof of ineligibility.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "confirmed_unmet_requirements": [],
+  "qualifications_verified": false,
+  "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a",
+  "resume_format": "restored_two_page",
+  "current_resume_naming": "unversioned"
+}

@@ -1,0 +1,32 @@
+{
+  "@context": "http://www.schema.org",
+  "@type": "JobPosting",
+  "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": {
+      "@type": "QuantitativeValue",
+      "value": 121785.0,
+      "unitText": "YEAR"
+    }
+  },
+  "datePosted": "11/03/2026",
+  "description": "<p>This position is located in the Pension Benefit Guaranty Corporation's (PBGC), Office of Policy and External Affairs (OPEA), Policy Research and Analysis Department (PRAD).</p>\n\n<p>More than one selection may be made from this vacancy announcement.</p>",
+  "educationRequirements": "<p>In order to qualify for this position, you must possess the following education:<br>\n<br>\n<strong>To qualify for the Data Scientist GS-1560 series,</strong> you must have:<br>\nA. Degree: Mathematics, statistics, computer science, data science or field directly related to the position. The degree must be in a major field of study (at least at the baccalaureate level) that is appropriate for the position.<br>\n<br>\nOR<br>\n<br>\nB. Combination of education and experience: Courses equivalent to a major field of study (30 semester hours) as shown in paragraph A above, plus additional education or appropriate experience.<br>\n<br>\n<br>\n<br>\n<strong>To qualify for the Economist GS-0110 series</strong>, you must have:<br>\nA. Degree: economics, that included at least 21 semester hours in economics and 3 semester hours in statistics, accounting, or calculus.<br>\n<br>\nOR<br>\n<br>\nB. Combination of education and experience: courses equivalent to a major in economics, as shown in A above, plus experience or additional education.<br>\n<br>\nYou must submit transcripts to verify that you meet the education requirement.<br>\n </p>",
+  "employmentType": "OTHER",
+  "hiringOrganization": "Office of Policy and External Affairs Research, Analysis, and Policy Integration",
+  "jobLocation": [
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Washington",
+        "addressRegion": "DC "
+      }
+    }
+  ],
+  "responsibilities": "<p>The candidate selected for this position will:</p>\n\n<ul>\n\t<li class=\"Default\">Provide professional and scientific expertise to ingest, analyze, correlate, and conduct trend analytics, from past and current assessments, on data using Economics capabilities leveraging data tools, collecting and managing data, and evaluating alternatives to assess projected capabilities for future mission support.</li>\n\t<li class=\"Default\">Prepare data-centric projects to provide insight and informed decisions for mission-oriented programs utilizing a wide range of technical competencies such as statistical theory, coding languages, data mining, and other existing and evolving data-related technologies including Super Intelligence (\"SI\") as well as reporting and visualization techniques through the creation of graphs, tables, charts, etc. for various research projects or reporting of information to government officials, within PBGC or to the general public.</li>\n\t<li class=\"Default\">Explore novel methods of retrieving data including the incorporation of SI enabled automation where feasible and develop innovative recommendations to management and senior leadership as a means for making data driven decisions such as modification of processes and policies.</li>\n\t<li class=\"Default\">Identify and assess the validity and reliability of relevant data sources to meet project needs to include the following: collate, clean, transform, analyze, develop, integrate and standardize structured and unstructured data from various sources in preparation for use and analysis within PRAD.</li>\n</ul>\n\n",
+  "qualifications": "<p><strong>All qualification and eligibility requirements must be met </strong><strong>by the announcement closing date.</strong></p>\n\n<p>To meet the minimum qualifications for this position, you must meet the specialized experience qualifications for the grade at which you are requesting consideration.<br>\n<br>\n<strong>Specialized Experience:</strong><br>\n<br>\n<strong>For GS-13:</strong><br>\nApplicants must have at least one year of specialized experience at the GS-12 grade level in the Federal service or equivalent to the GS-12 grade level in the private sector using original research, current economic theory and current statistical and econometric methods to analyze current policy, legislative and regulatory issues.<br>\n<br>\n<strong>Examples include:</strong> Using algorithmic and programmatic approaches incorporating SI enabled automation to clean, manipulate, and sub-set (i.e., shrinking a large database to benefit information storage) data for the purposes of analysis. Developing novel ways to analyze and identify trends and patterns in data using advanced mathematical, statistical, and / or algorithmic techniques. Conducting independent research into questions of economic significance and using advanced statistical and econometric techniques. Developing research studies or analytical projects to address relevant problems, using scientific methods. Researching relevant Internal Revenue Code, and policy issues related to defined benefit plan financial accounting and disclosure.<br>\n<br>\n<strong>For GS-14:</strong><br>\nApplicants must have at least one year of specialized experience at the GS-13 grade level in the Federal service or equivalent to the GS-13 grade level in the private sector using original research, current economic theory and current statistical and econometric methods to analyze current policy, legislative and regulatory issues.<br>\n<br>\n<strong>Examples include:</strong> Using algorithmic and programmatic approaches incorporating SI enabled automation to clean, manipulate, and sub-set (i.e., shrinking a large database to benefit information storage) data for the purposes of analysis. Developing novel ways to analyze and identify trends and patterns in data using advanced mathematical, statistical, and / or algorithmic techniques. Conducting independent research into questions of economic significance and using advanced statistical and econometric techniques. Developing research studies or analytical projects to address relevant problems, using scientific methods. Researching relevant Internal Revenue Code, and policy issues related to defined benefit plan financial accounting and disclosure.</p>",
+  "title": "INTERDISCIPLINARY (DATA SCIENTIST/ECONOMIST)",
+  "validThrough": "2026-11-19"
+}

@@ -15,10 +15,10 @@
   "location": "Fort Meade, MD",
   "remote_restrictions": "Offered DMV work location; verify telework/attendance and screening conditions in announcement.",
   "salary": "Starting at $143,913 Per year (GS 14)",
-  "retrieved_at": "2026-11-02T23:14:54.501767+00:00",
+  "retrieved_at": "2026-11-04T01:28:10.217064+00:00",
   "control_number": "889314000",
   "fit": "Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.",
-  "gaps": "Confirm the announcement-specific specialized experience, grade-equivalent scope and mandatory conditions against your actual work history. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.",
+  "gaps": "Confirm the announcement-specific specialized experience, grade-equivalent scope and mandatory conditions against your actual work history. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them. Closed: official closing date 2026-11-02 has passed; do not start Step 2 unless agency verifies reopening.",
   "requirements_confirmed_unmet": [],
   "requirements_unverified": [
     "Confirm the announcement-specific specialized experience, grade-equivalent scope and mandatory conditions against your actual work history.",
@@ -32,11 +32,11 @@
   ],
   "open_evidence": "Official announcement downloaded successfully; validThrough and native open-status evidence retained.",
   "discovery_window": [
-    "2026-09-02",
-    "2026-11-02"
+    "2026-09-03",
+    "2026-11-03"
   ],
   "employer": "Defense Media Activity",
-  "status": "needs_verification",
+  "status": "closed",
   "aliases": [],
   "id": "646337038fc77897",
   "application_directory": "applications/2026-11-02__defense-media-activity__supervisory-it-specialist-plcypln__646337038fc77897",
@@ -81,5 +81,9 @@
   "resume_format": "restored_two_page",
   "current_resume_naming": "unversioned",
   "clearance_requirement": "Secret",
-  "public_hiring_route_evidence": true
+  "public_hiring_route_evidence": true,
+  "last_checked_at": "2026-11-04T01:28:10.217064+00:00",
+  "availability_check_source": "/Volumes/WD512x2/home/gourmetcai/project/govjobs/tracking/runs/2026-11-03-step1-202038/announcements/889314000.html",
+  "availability_check": "Closed: official announcement deadline has passed",
+  "closure_reason": "Official announcement closing date 2026-11-02 has passed, or announcement expressly states closure."
 }

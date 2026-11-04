@@ -1,0 +1,32 @@
+{
+  "@context": "http://www.schema.org",
+  "@type": "JobPosting",
+  "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": {
+      "@type": "QuantitativeValue",
+      "value": 132437.0,
+      "unitText": "YEAR"
+    }
+  },
+  "datePosted": "11/03/2026",
+  "description": "See below for important information regarding this job.<br>\n<br>\nAdditional vacancies may be filled from this announcement.",
+  "educationRequirements": "<p>Substitution of education may not be used in lieu of specialized experience for this grade level.</p>",
+  "employmentType": "OTHER",
+  "hiringOrganization": "PH0000 DEFENSE CONTRACT MGT - HEADQUARTERS",
+  "jobLocation": [
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Fort Lee",
+        "addressRegion": "VA "
+      }
+    }
+  ],
+  "responsibilities": "",
+  "qualifications": "To qualify for a Management and Program Analyst (Actions Officer), your resume and supporting documentation must support:<br>\n<br>\nSpecialized Experience: One year of specialized experience that equipped you with the competencies to successfully perform the duties of the position and is directly in, or related to, this position. To qualify for the NH-04 level, specialized experience must be at the NH-03 or GS-13 grade level or equivalent under other pay systems in the Federal service, military or private sector. Applicants must meet eligibility requirements including time-after-competitive appointment, minimum qualifications, and any other regulatory requirements by the cut-off/closing date of the announcement. Creditable specialized experience includes:\n<ul>\n\t<li>Applying comprehensive knowledge of DoD acquisition and life cycle management policies, procedures, and practices to execute defense programs.</li>\n\t<li>Stratifying resources, planning and executing budgets, analyzing financial impacts, and forecasting long-term funding requirements within established constraints.</li>\n\t<li>Orchestrating complex, multi-faceted projects and studies from conception through completion.</li>\n\t<li>Synthesizing complex rules and regulations to analyze problems, synthesize findings, and deliver actionable recommendations.</li>\n\t<li>Advising stakeholders, maintain strong working relations, and engage customers with a high degree of tact and diplomacy.</li>\n\t<li>Delivering clear, concise, and persuasive written and oral communications to diverse audiences.</li>\n</ul>\n<br>",
+  "title": "Management and Program Analyst (Actions Officer)",
+  "validThrough": "2026-11-16"
+}

@@ -1,0 +1,32 @@
+{
+  "@context": "http://www.schema.org",
+  "@type": "JobPosting",
+  "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": {
+      "@type": "QuantitativeValue",
+      "value": 143913.0,
+      "unitText": "YEAR"
+    }
+  },
+  "datePosted": "11/03/2026",
+  "description": "<strong>This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. </strong><br>\n<br>\nIt is in the Supervision/Management Work Category at the Senior Work Level within the CES Occupational Structure. It is located in the DISA- DBC/SERVICES DEVELOPMENT DIRECTORATE.",
+  "educationRequirements": "<strong>There is no substitution of education for the</strong> <strong>qualifying experienceat the GG-14 grade level.</strong>",
+  "employmentType": "OTHER",
+  "hiringOrganization": "DISA - DBC/SERVICES DEVELOPMENT DIRECTORATE",
+  "jobLocation": [
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Fort Meade",
+        "addressRegion": "MD "
+      }
+    }
+  ],
+  "responsibilities": "",
+  "qualifications": "In order to qualify for this position, you must meet the requirements described below.<br>\n<br>\n<strong><u>Basic Requirements:</u></strong><br>\n<br>\n<b>Attention to Detail -</b> experience reviewing my own information technology-related work or data and have been responsible for reviewing the work of others to ensure accuracy, completeness, and consistency with standards.<br>\n<b>Customer Service -</b> developing and maintaining relationships with customers, anticipating and assessing the current and future information technology needs of customers, and developing or identifying information technology products or services that are tailored to meet customer needs.<br>\n<b>Oral Communication -</b> briefing senior-level management and IT staff on the status of information technology systems, projects, or daily operations, including the communication of complex technical information to a non-technical audience.<br>\n<b>Problem Solving -</b> identifying alternatives to address unique, highly complex, or sensitive information technology-related issues. I have anticipated information technology-related problems and have identified and evaluated potential sources of information to generate alternative solutions.<br>\n<br>\n<u><strong>Qualifying Experience: </strong></u><br>\nTo qualify at the GG-14, your resume must describe at least one year of experience that demonstrates the competencies necessary for immediate success in the position. Experience refers to any paid or unpaid experience, including volunteer work and Military service, that would be considered equivalent to work normally performed at the next lower grade level in the federal service.<br>\n<br>\nFor this position, qualifying experience is defined as:\n<p><strong>Experience leading technical teams in the design, test, and deployment of complex software systems in Agile or DevSecOps environments; OR managing continuous integration/continuous deployment (CI/CD) pipelines and early cybersecurity and software assurance practices; OR advising senior leaders on technical strategy, rapid software releases, and transitioning enterprise capabilities to long-term sustainment.</strong></p>\n<br>\nCandidates must describe how they meet the qualifying experience and/or selective placement factor(s) within the body of their resume. All qualifications must be met within 30 days after the closing date of this announcement.",
+  "title": "SUPV IT SPECIALIST (PLCYPLN)",
+  "validThrough": "2026-11-13"
+}

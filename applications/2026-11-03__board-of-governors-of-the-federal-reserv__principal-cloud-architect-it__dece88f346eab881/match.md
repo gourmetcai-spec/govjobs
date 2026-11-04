@@ -1,0 +1,82 @@
+
+## Step 1 refresh and local preparation — 2026-11-03
+
+Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.
+
+### Supported candidate evidence
+
+Freddie Mac Director, Financial Engineering/Inv&Capital Market (May 2014–present): CRT modeling, enterprise forecasting, CECL/capital planning/DFAST, portfolio risk and transaction economics. Campbell: Java/Portware/FIX trading platforms, market data/database integration, Monte Carlo/bootstrapping, volatility/correlation forecasting and SEC/CFTC/OPERA reporting. Aquilent: Java/Linux integration and visualization portals. Degrees and factual scope preserved from the updated baseline.
+
+### Requirements needing confirmation
+
+- Federal Reserve Board role: confirm the exact minimum years, domain expertise and required versus preferred qualifications against the saved official description. Unknown deadline means verify promptly; never assume open-ended hiring.
+- Verify OMB/federal budget procedures against the exact qualification clause; not established by the baseline alone.
+- Verify NIST/security-control experience against the exact qualification clause; not established by the baseline alone.
+- Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
+
+### Confirmed unmet requirements
+
+None established from affirmative user evidence. Unknown experience/credentials remain unverified. This is preparation, not a verified agency eligibility determination.
+
+### Exact qualification and education clauses
+
+Always verify and apply to jobs on the official Federal Reserve Board career site or through verified Federal Reserve Board social media channels.
+Minimum Education
+Bachelor's degree or equivalent experience
+Minimum Experience
+8
+Summary
+Directs others and/or contributes to project planning, defining, designing, managing, and supporting cloud computing applications. Decides the Board and division’s technological and cloud-based needs and suggests solutions that meet them based on the costs-benefits analysis and/or the cost model. Directs the delivery of cloud deployments and collaborates with development teams and other personnel to streamline application services. Directs the process for and/or develops repeatable patterns and ensures consistency in the solution design and adoption process. Independently drives technical and architectural decisions to improve enterprise cloud services from both underlying cloud infrastructure hosting platform and application perspectives. Serves as a cloud technology champion and influencer to work multi-functionally to develop critical initiatives, architecture patterns, refine program and product frameworks, and facilitate the Board and divisions’ strategic priorities. Shows subject matter expertise in cloud architecture and related disciplines. Works with internal teams and external parties as a subject matter expert in this area to enable and improve solution design and delivery around data.
+Duties and Responsibilities
+Independently advises leadership and other key stakeholders on leading cloud practices, architectural approaches, technology and business requirements, industry trends, and the broader Federal Reserve Board architecture landscape. Directs the process for and/or participates in creating and suggesting solutions that deliver business outcomes.
+Makes decisions that provide direction for the technical architecture and roadmap for cloud capabilities and migrations. Has expert skill in developing and propagating adoption of developing standards, frameworks, patterns, and processes to benefit the Board and/or division and manages the implementation and technical solutions and knowledge of standards and practices which impact cloud technology (such as NIST, ISO).
+Directs more junior staff and/or develops cloud architecture across diverse areas including organizational structure, application development, identity and access management, network and data management, integrations, and security. Reviews and approves the process of and/or participates in the development of architectural artifacts to lead the delivery of a successful implementation of cloud practices and solutions. Ensures compliance of solutions to architectural standards.
+Mentors more junior staff and/or provides designs for engineers on projects on how to deliver programmatic elements of the implementation of the cloud architecture.
+Independently architects cloud-native, hybrid, or multi-cloud solutions to meet the Board and divisions’ needs. Focuses on secure and scalable architecture needs, including how scalable a system’s infrastructure is to accommodate growth, reducing costs, planning migrations, etc.
+Utilizes expert knowledge of cloud architecture and technologies to lead trainings, workshops for team members and/or communities of practice. Independently engages with technical stakeholders in the Division and across other divisions to help them understand how their systems work.
+As a technical expert, decides the technical direction of the team and integration with the Board and/or division. Mentors other technical and development team members in new technologies associated with evolving architecture to help them deliver the best solutions given the cloud environment and technical needs of the division.
+Researches and stays up to date on the current cloud platform and the latest available cloud technologies and providers, different methods for building products in a cloud native manner, and on the appropriate use cases of cloud technology over on-premises technology. Acts as a visionary by leading the direction for the analysis of the technology environment to detect deficiencies, gaps, and opportunities. Independently works with leadership to prioritize, initiate, and implement technology efforts aimed at finding more efficient solutions to common problems.
+Guides the migration, management, and modernization of cloud processes and procedures in collaboration with cloud engineers, architects, and cybersecurity professionals to ensure the integrity of the solutions meet enterprise standards and policies.
+Has expert knowledge of cost-benefits analysis and methods for conducting them. Directs conducting of Analysis of Alternative (AoA) to evaluate different systems architecture designs including the cost-benefits.
+KNOWLEDGE, SKILLS AND ABILITIES
+•    Must have expert knowledge of the industry and/or Federal Reserve technology and solution development methodologies, standards, and architecture frameworks.
+•    Excellent organizational, project management and problem-solving skills.
+•    Must possess an expert level of clear, concise, and effective verbal and written communication, including the ability to effectively explain complex technical information to technical and non-technical contacts, business customers, and senior management.
+•    Has demonstrated expert experience in data architecture, modeling, integration, design, data flow management, data security, cloud technology, and quality engineering to implement various cloud architecture.
+•    Must demonstrate success in planning and support of cloud-centric integration.
+PROBLEM SOLVING
+Excellent initiative, innovative thinking skills, and the ability to analyze details and adopt a big-picture view.  Works cross-functionally to solve highly visible and complex problems and implement changes, exercising tact to ensure cooperation between clients and staff. Analyzes decisions and actions for their support of the division’s and/or the Board’s strategic direction. Independently exercises considerable judgment in addressing issues arising from data and product management projects and works with senior management to resolve the most highly visible, complex problems.
+COMPLEXITY
+Exhibits expert technical competence across a broad and diverse range of subject areas. Data architecture design efforts have the potential to significantly shape technology roadmaps and implementations.  Mentors more junior staff through and/or directs large division projects and may work on projects across the Federal Reserve System. Serves as an authoritative source in multiple defined technical domains and possess a strong working knowledge regarding broad industry segments. Extensively probes and analyzes problems to determine their nature and scope through use of data collection and advanced analytical skills.
+IMPACT OF ACTIONS
+Responsibilities extend from intra-divisional to System-wide. The work is essential to the Board's missions and has a direct effect on many persons at the Board, throughout the System, and at all associated non-governmental/governmental agencies. Assigned tasks are major and of highest complexity in scope and mistakes could result in schedule delays, the loss of productivity for the user community, and/or diminished reputation for the division, Board or Federal Reserve System. Establishes criteria for work performed; formulates projects; assesses system performance; and investigates unusual conditions or problems that affect the system. Work performed at this level may affect the availability and performance of the entire computer resource for extended periods of time. Performs analysis of new technologies which may be employed throughout the Board and provides recommendations.
+COMMUNICATIONS
+Requires expert communications skills. Contacts are often with division leadership, but also with staff at all levels; a significant degree of coordination and contact with other units/sections/divisions may also be required. Must be able to explain to cross-team or cross-divisional partners items of high levels of complexity. Regularly interacts directly with officers and managers to direct a wide variety of programs and issues. Utilizes skills in negotiation and persuasion in performing duties and influencing support for change. Must be able to construct clear and concise written work and applies an increasingly advanced understanding of grammar, sentence structure, and intended audience(s) to the process of writing and editing such work. Must work well in group settings and express oneself clearly, both orally and in writing. Possesses the ability to exercise judgement, initiative, and confidentiality in all areas of responsibilities.
+Job Type:Regular
+Job Exempt:Yes
+Relocation Provided:
+Yes
+Compensation Grade(s):FR PAY GRADE 28
+Pay:$144,500 - 210,000
+Rehabilitation Act
+The Board complies with the Rehabilitation Act of 1973, as amended, and provides job applicants with disabilities reasonable accommodations to assist them in applying for jobs at the Board.  If you have a disability and would like to request an accommodation in order to apply for a job at the Board, please call 202-452-3880 or e-mail FRBRecruiting@frb.gov.
+Equal Opportunity Employer
+We are an Equal Opportunity Employer and do not discriminate against any employee or applicant for employment on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, genetic information, or application, membership, or service in the uniformed services.
+Privacy
+You may review the Federal Reserve Board's Privacy Act Notice at https://www.federalreserve.gov/careers/files/fr1273.pdf.
+Paperwork Reduction Act
+OMB No. 7100-0181
+Approval Expires October 31, 2029
+Public reporting burden for this collection of information is estimated to average 0.26-0.71 hours per response, including the time to gather and maintain data in the required form and to review instructions and complete the information collection. Send comments regarding this burden estimate or any other aspect of this collection of information, including suggestions for reducing this burden to: Secretary, Board of Governors of the Federal Reserve System, Washington, DC 20551; and to the Office of Management and Budget, Paperwork Reduction Project (7100–0181), Washington, DC 20503. The Federal Reserve may not conduct or sponsor, and an organization (or a person) is not required to respond to a collection of information unless it displays a currently valid OMB control number.
+
+See official minimum education and qualifications in description.
+
+### Preparation and tailoring
+
+Generated one current unversioned Markdown/PDF pair in the restored two-page layout. Summary themes and Freddie Mac bullet order emphasize only baseline-supported concepts present in this announcement. No requirement is copied as a new claim. Preserved prior PDF versions and approval evidence; no new v2/compact alternative created. Neutral PDF title/author; no editing or targeting labels. Candidate hours/week, exact days, GPA/transcripts, hiring status and declarations remain pending where required. No application selected, uploaded or submitted.
+
+## Final verification and role review — 2026-11-03
+
+Two rendered pages reviewed; all 77 distinct page images inspected across seven boards covering 166 pages. Text bounds, all 20 baseline experience bullets, updated title, neutral metadata and artifact hashes passed. Candidate qualifications remain unverified.
+
+Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.

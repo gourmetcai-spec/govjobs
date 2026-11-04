@@ -1,0 +1,32 @@
+{
+  "@context": "http://www.schema.org",
+  "@type": "JobPosting",
+  "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": {
+      "@type": "QuantitativeValue",
+      "value": 143913.0,
+      "unitText": "YEAR"
+    }
+  },
+  "datePosted": "11/03/2026",
+  "description": "<p>This position is located at Departmental Offices, Domestic Finance - Financial Institutions, Office of Cybersecurity and Critical Infrastructure Protection (OCCIP). As a Senior Cybersecurity Specialist, you will serve as a senior technical advisor and recognized subject matter expert on cybersecurity and critical infrastructure protection matters affecting the financial services sector.</p>",
+  "educationRequirements": "This job does not have an education qualification requirement.",
+  "employmentType": "OTHER",
+  "hiringOrganization": "Domestic Finance - Financial Institutions",
+  "jobLocation": [
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Washington",
+        "addressRegion": "DC "
+      }
+    }
+  ],
+  "responsibilities": "As a Senior Cybersecurity Specialist, you will:\n<ul>\n\t<li>Provide strategic leadership in advancing the office's resilience mission and serves as a senior advisor on cybersecurity and critical infrastructure risks affecting the financial services sector.</li>\n\t<li>Serve as a cybersecurity subject matter expert for executive-level committees and working groups comprised of federal and private-sector stakeholders. Independently develops strategic work plans, establishes objectives, directs analytical efforts, builds consensus among diverse stakeholders, and delivers recommendations, policies, and products to senior leadership and parent committees.</li>\n\t<li>Develop and oversee Treasury's participation in national cyber incident response activities, cybersecurity information-sharing programs, and critical infrastructure protection initiatives.</li>\n</ul>",
+  "qualifications": "You must meet the following requirements within 30 days of the closing date of this announcement.<br>\n<br>\n<u><b>SPECIALIZED EXPERIENCE:</b></u>For the GS-14 grade level, you must have one year (52 full weeks) of specialized experience at a level of difficulty and responsibility equivalent to the GS-13 grade level in the Federal service<strong>.</strong> Specialized Experience for this position includes:\n<ul>\n\t<li>Providing technical advice and guidance on cybersecurity, cyber risk management, or critical infrastructure protection matters for senior leadership;<strong> AND</strong></li>\n\t<li>Developing, implementing, or evaluating cybersecurity policies, strategies, plans, or risk management initiatives to strengthen organizational or critical infrastructure security and resilience; <strong>AND</strong></li>\n\t<li>Coordinating cybersecurity activities with internal and external stakeholders to identify and address cyber threats, vulnerabilities, incident response, or resilience issues.</li>\n</ul>\nThe experience may have been gained in either the public, private sector or <a href=\"https://help.usajobs.gov/how-to/account/documents/resume/build/experience\">volunteer service</a>. One year of experience refers to full-time work; part-time work is considered on a prorated basis. To ensure full credit for your work experience, please indicate dates of employment by month/day/year, and indicate number of hours worked per week on your resum\u00e9.<br>\n<br>\n<b>In addition to meeting specialized experience, individuals must meet proficiency levels in each of the following competencies: </b><br>\nAttention to Detail, Customer Service, Decision Making, Information Management, Interpersonal Skills, Oral Communication, Problem Solving, Teamwork, and Technical Competence.<br>\n<br>\nA<b> Structured Interview </b>may be used to determine if you meet the required proficiency levels.<br>\nYou will be interviewed about past experience or hypothetical situations.<br>\n<br>\n<b>For the required proficiency levels and competency definitions, please see the following link: </b><a href=\"https://www.opm.gov/policy-data-oversight/classification-qualifications/competency-based-policy/general-schedule/2200/2210-competency-based-policy/competency-based-qualification-standard/\" target=\"_blank\" title=\"https://www.opm.gov/policy-data-oversight/classification-qualifications/competency-based-policy/general-schedule/2200/2210-competency-based-policy/competency-based-qualification-standard/\"><b>Competency-Based Qualification Standard for the Information Technology Management Series, 2210</b></a>\n\n<p>TIME-IN-GRADE: In addition to the above requirements, you must meet the following time-in-grade requirement, if applicable: For the GS-14, you must have been at the GS-13 level for 52 weeks.<br>\n<br>\nTIME AFTER COMPETITIVE APPOINTMENT: Candidates who are current Federal employees serving on a non-temporary competitive appointment must have served at least three months in that appointment.</p>",
+  "title": "Senior Cybersecurity Specialist",
+  "validThrough": "2026-11-09"
+}

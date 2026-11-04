@@ -1,0 +1,32 @@
+{
+  "@context": "http://www.schema.org",
+  "@type": "JobPosting",
+  "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": {
+      "@type": "QuantitativeValue",
+      "value": 121785.0,
+      "unitText": "YEAR"
+    }
+  },
+  "datePosted": "10/26/2026",
+  "description": "This position is located in the Drug Enforcement Administration (DEA), Special Operations Division (OS), Office of the ASAC for Administration (OSO), Administrative and Fiscal Unit (OSOA).<br>\n<br>\nThis position(s) primary purpose is to serve as the principal financial management advisor to the Program Manager, Special Agent in Charge, and Assistant Special Agent in Charge on the formulation, execution, and control of the division's financial resources.",
+  "educationRequirements": "Education requirements do not apply to this vacancy announcement.<br>",
+  "employmentType": "OTHER",
+  "hiringOrganization": "Drug Enforcement Administration",
+  "jobLocation": [
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Chantilly",
+        "addressRegion": "VA "
+      }
+    }
+  ],
+  "responsibilities": "As a Financial Management Specialist, your typical work assignments may include:\n<ul>\n\t<li>Constructs quarterly continuing resolution models and restricted spending plans when full-year appropriations bills are delayed, establishing controlled spending levels that sustain mission-critical operations within the rate of operations authorized under the continuing resolution.</li>\n\t<li>Oversees the formal distribution of approved appropriations to respective programs and sets funding templates in UFMS to control distributed funding levels and avoid overspending against allotted amounts.</li>\n\t<li>Exercises delegated allowance approver authority at the highest level within the Administrative and Fiscal Unit, serving as the approving official for transactions that commit, obligate, and disburse SOD funds.</li>\n\t<li>Identifies funding trends, execution risks, projected shortfalls, and resource requirements; and recommends corrective actions and funding adjustments to support mission objectives.</li>\n</ul>",
+  "qualifications": "For more information on eligibility requirements see: <a href=\"https://www.dea.gov/how-to-apply/employment-eligibility\">DEA Employment Eligibility</a><br>\n<br>\nApplicants must meet all of the required qualification requirements described below by the closing of this announcement.<br>\n<br>\nApplicants applying for the <strong>GS-13</strong> must meet one of the following requirements:<br>\n<br>\nA. Have at least one full year of qualifying specialized experience that is at least equivalent in difficulty and complexity to work performed at the <strong>GS-12</strong> grade level and your experience includes performing <b>at least three</b> of the tasks below as part of your regular duties. <em>Specialized experience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., Peace Corps, AmeriCorps) and other organizations (e.g., professional; philanthropic; religious; spiritual; community, student, social). Volunteer work helps build critical competencies, knowledge, and skills and can provide valuable training and experience that translates directly to paid employment. You will receive credit for all qualifying experience, including volunteer experience.</em><br>\n<br>\nQualifying experience must demonstrate the following: <strong>1) Developing operating budgets to meet programmatic and operational requirements; 2) Allocating approved appropriations and/or establishing funding controls in Unified Financial Management Systems (UFMS); 3) Approving financial transactions, evaluating discrepancies, and implementing corrective actions; and 4) Advising stakeholders on funding availability and fiscal requirements.</strong><br>\n<br>\nAdditional information on the position qualification requirements are located in the Office of Personnel Management's (OPM) <a href=\"https://www.opm.gov/policy-data-oversight/classification-qualifications/general-schedule-qualification-standards/\">Qualifications Standards Handbook</a>.<br>\n<br>\n<strong>Time-In-Grade Requirement</strong>: Applicants must meet time-in-grade and time after competitive appointment requirements by the closing date of this announcement.",
+  "title": "Financial Management Specialist",
+  "validThrough": "2026-11-11"
+}

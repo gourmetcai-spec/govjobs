@@ -1,0 +1,86 @@
+{
+  "title": "Senior ICAM Technical Lead",
+  "requisition_id": "JDP-13101657-26-DJ",
+  "canonical_url": "https://www.usajobs.gov/job/891316000",
+  "application_url": "https://www.usajobs.gov/job/891316000",
+  "posted_date": "2026-10-26",
+  "posted_date_evidence": "Official JobPosting.datePosted and native PositionStartDate",
+  "close_date": "2027-04-25",
+  "deadline_timezone": "America/New_York",
+  "deadline_time": "23:59",
+  "deadline_source": "https://www.usajobs.gov/job/891316000",
+  "deadline_verified": true,
+  "early_closure_conditions": [
+    "This job will close when we have received 100 applications which may be sooner than the closing date. Learn more"
+  ],
+  "rolling_cutoff": null,
+  "location": "Arlington, VA",
+  "remote_restrictions": "Offered DMV work location; verify telework/attendance and screening conditions in announcement.",
+  "salary": "Starting at $143,913 Per year (GS 14)",
+  "retrieved_at": "2026-11-04T01:27:13.427519+00:00",
+  "control_number": "891316000",
+  "fit": "Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.",
+  "gaps": "Hiring-path eligibility unverified: Competitive service, Excepted service. Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Verify stated security certification requirements against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.",
+  "requirements_confirmed_unmet": [],
+  "requirements_unverified": [
+    "Hiring-path eligibility unverified: Competitive service, Excepted service. Confirm qualifying status before application; absence from baseline is not proof of ineligibility.",
+    "Verify stated security certification requirements against the exact qualification clause; not established by the baseline alone.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "preferred_requirements_note": "See official qualifications/education sections; missing evidence does not establish an unmet requirement.",
+  "hiring_paths": [
+    "Competitive service",
+    "Excepted service"
+  ],
+  "open_evidence": "Official announcement downloaded successfully; validThrough and native open-status evidence retained.",
+  "discovery_window": [
+    "2026-09-03",
+    "2026-11-03"
+  ],
+  "employer": "Department of Homeland Security Headquarters",
+  "status": "needs_verification",
+  "aliases": [],
+  "id": "883b0f18dc5dd84a",
+  "application_directory": "applications/2026-11-03__department-of-homeland-security-headquar__senior-icam-technical-lead__883b0f18dc5dd84a",
+  "step": 1,
+  "selected": false,
+  "submitted": false,
+  "artifacts": {
+    "resume_markdown": {
+      "path": "applications/2026-11-03__department-of-homeland-security-headquar__senior-icam-technical-lead__883b0f18dc5dd84a/resume-xuewu-cai__department-of-homeland-security-headquar__senior-icam-technical-lead__891316000.md",
+      "sha256": "032ca4bd42d1c056ed96b842a79c6a5b3cc0f8631965ff0e2782175e9e7868d6"
+    },
+    "resume_pdf": {
+      "path": "applications/2026-11-03__department-of-homeland-security-headquar__senior-icam-technical-lead__883b0f18dc5dd84a/resume-xuewu-cai__department-of-homeland-security-headquar__senior-icam-technical-lead__891316000.pdf",
+      "sha256": "667e7a9624b8247c5938eb971dddc91980e986ff29a94455216323069d6256fb"
+    }
+  },
+  "artifact_versions": [
+    {
+      "revision_id": "2026-11-04T01:27:13.427519+00:00",
+      "artifacts": {
+        "resume_markdown": {
+          "path": "applications/2026-11-03__department-of-homeland-security-headquar__senior-icam-technical-lead__883b0f18dc5dd84a/resume-xuewu-cai__department-of-homeland-security-headquar__senior-icam-technical-lead__891316000.md",
+          "sha256": "032ca4bd42d1c056ed96b842a79c6a5b3cc0f8631965ff0e2782175e9e7868d6"
+        },
+        "resume_pdf": {
+          "path": "applications/2026-11-03__department-of-homeland-security-headquar__senior-icam-technical-lead__883b0f18dc5dd84a/resume-xuewu-cai__department-of-homeland-security-headquar__senior-icam-technical-lead__891316000.pdf",
+          "sha256": "667e7a9624b8247c5938eb971dddc91980e986ff29a94455216323069d6256fb"
+        }
+      },
+      "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a"
+    }
+  ],
+  "resume_status": "prepared_with_attention",
+  "resume_review": "Two rendered pages reviewed; all 77 distinct page images inspected across seven boards covering 166 pages. Text bounds, all 20 baseline experience bullets, updated title, neutral metadata and artifact hashes passed. Candidate qualifications remain unverified.",
+  "required_answers_pending": [
+    "Hiring-path eligibility unverified: Competitive service, Excepted service. Confirm qualifying status before application; absence from baseline is not proof of ineligibility.",
+    "Verify stated security certification requirements against the exact qualification clause; not established by the baseline alone.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "confirmed_unmet_requirements": [],
+  "qualifications_verified": false,
+  "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a",
+  "resume_format": "restored_two_page",
+  "current_resume_naming": "unversioned"
+}

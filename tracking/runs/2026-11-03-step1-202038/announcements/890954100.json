@@ -1,0 +1,32 @@
+{
+  "@context": "http://www.schema.org",
+  "@type": "JobPosting",
+  "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": {
+      "@type": "QuantitativeValue",
+      "value": 143913.0,
+      "unitText": "YEAR"
+    }
+  },
+  "datePosted": "11/03/2026",
+  "description": "You will serve as a IT Specialist (NETWORK/ENTARCH) of NAVAL SYSTEMS MANAGEMENT ACTIVITY.<br>\n<br>\n???????This position is in the excepted service and does not confer competitive status.",
+  "educationRequirements": "This job does not have an education qualification requirement.",
+  "employmentType": "OTHER",
+  "hiringOrganization": "NAVAL SYSTEMS MANAGEMENT ACTIVITY",
+  "jobLocation": [
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Joint Base Anacostia-Bolling",
+        "addressRegion": "DC "
+      }
+    }
+  ],
+  "responsibilities": "",
+  "qualifications": "Your resume must demonstrate at least one year of information technology related experience in the federal service or private or public sector demonstrating the following four competencies, as defined: 1. Attention to Detail - Is thorough when performing work and conscientious about attending to detail. 2. Customer Service - Works with clients and customers (that is, any individuals who use or receive the services or products that your work unit produces, including the general public, individuals who work in the agency, other agencies, or organizations outside the Government) to assess their needs, provide information or assistance, resolve their problems, or satisfy their expectations; knows about available products and services; is committed to providing quality products and services. 3. Oral Communication - Expresses information (for example, ideas or facts) to individuals or groups effectively, taking into account the audience and nature of the information (for example, technical, sensitive, controversial); makes clear and convincing oral presentations; listens to others, attends to nonverbal cues, and responds appropriately. 4. Problem Solving - Identifies problems; determines accuracy and relevance of information; uses sound judgment to generate and evaluate alternatives, and to make recommendations. In addition to my experience demonstrating the four competencies above, I have one year of specialized experience equivalent to the next lower grade level (GS-13) or pay band in the federal service or equivalent experience in the private or public sector. Specialized experience includes duties related to the following: 1) Serve as the technical lead and Subject Matter Expert (SME) for Enterprise Network Engineering and Unified Communications projects and initiatives for the organization; 3) Design network and communications services, recommend selects devices and services, and evaluate vendor recommendations to ensure they will integrate and operate properly in the Enterprise Network, in compliance with required security policies and guidelines; 3) Develop and maintain reference models and diagrams of the enterprise physical and virtual network infrastructure; and maintains the information in the IT repository; And 4) Manages Information Systems projects throughout the systems lifecycle.<br>\n<br>\nAdditional qualification information can be found from the following Office of Personnel Management web site: <a href=\"https://www.opm.gov/policy-data-oversight/classification-qualifications/general-schedule-qualification-standards/#url=List-by-Occupational-Series\">https://www.opm.gov/policy-data-oversight/classification-qualifications/general-schedule-qualification-standards/#url=List-by-Occupational-Series</a><br>\n<br>\nExperience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., professional, philanthropic, religious, spiritual, community, student, social). Volunteer work helps build critical competencies, knowledge, and skills and can provide valuable training and experience that translates directly to paid employment.",
+  "title": "IT SPECIALIST (NETWORK/ENTARCH)",
+  "validThrough": "2026-11-05"
+}

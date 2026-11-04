@@ -1,8 +1,8 @@
 # Unsubmitted jobs — review and attention items
 
-Last refresh: 2026-11-02 22:44:05 EST. Verification status is preserved; unknown qualifications or dates do not block preparation.
+Last refresh: 2026-11-03 20:29:31 EST. Verification status is preserved; unknown qualifications or dates do not block preparation.
 
-121 unsubmitted position(s). Existing exclusion decisions must be rechecked under the current preparation policy on the next Step 1.
+204 unsubmitted position(s). Existing exclusion decisions must be rechecked under the current preparation policy on the next Step 1.
 
 ## Preparation candidates
 
@@ -17,6 +17,18 @@ Last refresh: 2026-11-02 22:44:05 EST. Verification status is preserved; unknown
 - Attention: Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
 - Next action: Complete remaining independent preparation; user selection is required for Step 2.
 - [Official job](https://www.usajobs.gov/job/887355600)
+
+### Air Combat Command — IT CYBERSECURITY SPECIALIST (SYSANALYSIS/NETWORK)
+
+- Stable ID: `b18c6406641a1530`
+- Location: Langley AFB, VA
+- Role / supported fit: Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.
+- Deadline: 2026-11-09
+- Status: needs_verification; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/b18c6406641a1530__resume-xuewu-cai__air-combat-command__it-cybersecurity-specialist-sysanalysis-network__891290800.pdf)
+- Attention: Hiring-path eligibility unverified: Competitive service, Excepted service, Career transition (CTAP, ICTAP, RPL), Land and base management, Veterans, Military spouses. Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Verify qualifying coursework and calculus credits against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
+- Next action: Complete remaining independent preparation; user selection is required for Step 2.
+- [Official job](https://www.usajobs.gov/job/891290800)
 
 ### Air Force Civilian Career Training — Computer Scientist
 
@@ -78,18 +90,6 @@ Last refresh: 2026-11-02 22:44:05 EST. Verification status is preserved; unknown
 - Next action: Complete remaining independent preparation; user selection is required for Step 2.
 - [Official job](https://www.usajobs.gov/job/891032400)
 
-### Air Force District of Washington — SUPERVISORY IT SPECIALIST (PLCYPLN/ENTARCH)
-
-- Stable ID: `d1d8504c423b7a72`
-- Location: Andrews AFB, MD
-- Role / supported fit: Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.
-- Deadline: 2026-11-02
-- Status: needs_verification; resume: prepared_with_attention
-- Current resume: [PDF](../resumes/d1d8504c423b7a72__resume-xuewu-cai__air-force-district-of-washington__supervisory-it-specialist-plcypln-entarch__889585100.pdf)
-- Attention: Hiring-path eligibility unverified: Competitive service, Excepted service, Career transition (CTAP, ICTAP, RPL), Land and base management, Veterans, Military spouses. Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
-- Next action: Complete remaining independent preparation; user selection is required for Step 2.
-- [Official job](https://www.usajobs.gov/job/889585100)
-
 ### Air Force Materiel Command — Information Technology (IT) Specialist (APPSW/DATAMGT) - Direct Hiring Authority
 
 - Stable ID: `bd9aa196936b1d25`
@@ -125,6 +125,306 @@ Last refresh: 2026-11-02 22:44:05 EST. Verification status is preserved; unknown
 - Attention: Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
 - Next action: Complete remaining independent preparation; user selection is required for Step 2.
 - [Official job](https://www.usajobs.gov/job/889349900)
+
+### Board of Governors of the Federal Reserve System — Business Management Analyst, Office of Deputy Director, Regulation & Policy - Division of Supervision & Regulation
+
+- Stable ID: `3aa986eb85c024ef`
+- Location: Washington, DC
+- Role / supported fit: Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.
+- Deadline: 2026-11-13
+- Status: needs_verification; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/3aa986eb85c024ef__resume-xuewu-cai__board-of-governors-of-the-federal-reserv__business-management-analyst-office-of-deputy-director-regulation__r025936.pdf)
+- Attention: Federal Reserve Board role: confirm the exact minimum years, domain expertise and required versus preferred qualifications against the saved official description. Unknown deadline means verify promptly; never assume open-ended hiring. Verify OMB/federal budget procedures against the exact qualification clause; not established by the baseline alone. Verify SharePoint application/administration experience against the exact qualification clause; not established by the baseline alone. Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
+- Next action: Complete remaining independent preparation; user selection is required for Step 2.
+- [Official job](https://bd.wd104.myworkdayjobsgov.com/frb/job/Federal-Reserve-Board/Business-Management-Analyst--Office-of-Deputy-Director--Regulation---Policy---Division-of-Supervision---Regulation_R025936)
+
+### Board of Governors of the Federal Reserve System — Financial Institution & Policy Analyst, Mergers & Acquisitions - Division of Supervision & Regulation
+
+- Stable ID: `26492eab9f69e5ce`
+- Location: Washington, DC
+- Role / supported fit: Financial forecasting, capital/ROE, quantitative risk and engineering leadership overlap; federal budget/accounting/policy specialties remain attention items.
+- Deadline: 2026-11-13
+- Status: needs_verification; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/26492eab9f69e5ce__resume-xuewu-cai__board-of-governors-of-the-federal-reserv__financial-institution-policy-analyst-mergers-acquisitions-divisi__r026010.pdf)
+- Attention: Federal Reserve Board role: confirm the exact minimum years, domain expertise and required versus preferred qualifications against the saved official description. Unknown deadline means verify promptly; never assume open-ended hiring. Verify OMB/federal budget procedures against the exact qualification clause; not established by the baseline alone. Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
+- Next action: Complete remaining independent preparation; user selection is required for Step 2.
+- [Official job](https://bd.wd104.myworkdayjobsgov.com/frb/job/Federal-Reserve-Board/Financial-Institution---Policy-Analyst--Mergers---Acquisitions---Division-of-Supervision---Regulation_R026010)
+
+### Board of Governors of the Federal Reserve System — Financial Institution Policy Analyst, Supervision Support Office - Supervision & Regulation
+
+- Stable ID: `53df9061ab56f1f1`
+- Location: Washington, DC
+- Role / supported fit: Financial forecasting, capital/ROE, quantitative risk and engineering leadership overlap; federal budget/accounting/policy specialties remain attention items.
+- Deadline: 2026-11-09
+- Status: needs_verification; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/53df9061ab56f1f1__resume-xuewu-cai__board-of-governors-of-the-federal-reserv__financial-institution-policy-analyst-supervision-support-office__r025987.pdf)
+- Attention: Federal Reserve Board role: confirm the exact minimum years, domain expertise and required versus preferred qualifications against the saved official description. Unknown deadline means verify promptly; never assume open-ended hiring. Verify OMB/federal budget procedures against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them. Possible companion route(s): c114df1e4857e0e9. Reconcile exact vacancy before submitting; no duplicate applications.
+- Next action: Complete remaining independent preparation; user selection is required for Step 2.
+- [Official job](https://bd.wd104.myworkdayjobsgov.com/frb/job/Federal-Reserve-Board/Financial-Institution-Policy-Analyst--Supervision-Support-Office---Supervision---Regulation_R025987)
+
+### Board of Governors of the Federal Reserve System — Financial Institution Policy Analyst, Supervision Support Office - Supervision & Regulation
+
+- Stable ID: `c114df1e4857e0e9`
+- Location: Washington, DC
+- Role / supported fit: Financial forecasting, capital/ROE, quantitative risk and engineering leadership overlap; federal budget/accounting/policy specialties remain attention items.
+- Deadline: 2026-11-09
+- Status: needs_verification; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/c114df1e4857e0e9__resume-xuewu-cai__board-of-governors-of-the-federal-reserv__financial-institution-policy-analyst-supervision-support-office__r025954.pdf)
+- Attention: Federal Reserve Board role: confirm the exact minimum years, domain expertise and required versus preferred qualifications against the saved official description. Unknown deadline means verify promptly; never assume open-ended hiring. Verify OMB/federal budget procedures against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them. Possible companion route(s): 53df9061ab56f1f1. Reconcile exact vacancy before submitting; no duplicate applications.
+- Next action: Complete remaining independent preparation; user selection is required for Step 2.
+- [Official job](https://bd.wd104.myworkdayjobsgov.com/frb/job/Federal-Reserve-Board/Fin-Inst-Policy-Analyst-II--Supervision-Support-Office---Division-of-Supervision---Regulation_R025954)
+
+### Board of Governors of the Federal Reserve System — IT Systems Engineer Summer Intern
+
+- Stable ID: `921a29971a4bfa6a`
+- Location: Washington, DC
+- Role / supported fit: Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.
+- Deadline: Unknown — needs attention
+- Status: needs_verification; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/921a29971a4bfa6a__resume-xuewu-cai__board-of-governors-of-the-federal-reserv__it-systems-engineer-summer-intern__r025885.pdf)
+- Attention: Federal Reserve Board role: confirm the exact minimum years, domain expertise and required versus preferred qualifications against the saved official description. Unknown deadline means verify promptly; never assume open-ended hiring. Mandatory current student enrollment and return-to-study requirements are unverified; confirm enrollment, degree level, program dates and GPA where required. Internship is lower priority for this senior candidate; missing evidence is not confirmed ineligibility. Verify OMB/federal budget procedures against the exact qualification clause; not established by the baseline alone. Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
+- Next action: Complete remaining independent preparation; user selection is required for Step 2.
+- [Official job](https://bd.wd104.myworkdayjobsgov.com/frb/job/Federal-Reserve-Board/IT-Systems-Engineer-Summer-Intern_R025885)
+
+### Board of Governors of the Federal Reserve System — Network Engineer - Information Technology
+
+- Stable ID: `a773d00677bab564`
+- Location: Washington, DC
+- Role / supported fit: Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.
+- Deadline: Unknown — needs attention
+- Status: needs_verification; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/a773d00677bab564__resume-xuewu-cai__board-of-governors-of-the-federal-reserv__network-engineer-information-technology__r025594.pdf)
+- Attention: Federal Reserve Board role: confirm the exact minimum years, domain expertise and required versus preferred qualifications against the saved official description. Unknown deadline means verify promptly; never assume open-ended hiring. Verify OMB/federal budget procedures against the exact qualification clause; not established by the baseline alone. Verify disaster-recovery evaluation experience against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
+- Next action: Complete remaining independent preparation; user selection is required for Step 2.
+- [Official job](https://bd.wd104.myworkdayjobsgov.com/frb/job/Federal-Reserve-Board/Network-Engineer---Information-Technology_R025594)
+
+### Board of Governors of the Federal Reserve System — Principal Cloud Architect - IT
+
+- Stable ID: `dece88f346eab881`
+- Location: Washington, DC
+- Role / supported fit: Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.
+- Deadline: Unknown — needs attention
+- Status: needs_verification; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/dece88f346eab881__resume-xuewu-cai__board-of-governors-of-the-federal-reserv__principal-cloud-architect-it__r025422.pdf)
+- Attention: Federal Reserve Board role: confirm the exact minimum years, domain expertise and required versus preferred qualifications against the saved official description. Unknown deadline means verify promptly; never assume open-ended hiring. Verify OMB/federal budget procedures against the exact qualification clause; not established by the baseline alone. Verify NIST/security-control experience against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
+- Next action: Complete remaining independent preparation; user selection is required for Step 2.
+- [Official job](https://bd.wd104.myworkdayjobsgov.com/frb/job/Federal-Reserve-Board/Principal-Cloud-Architect---IT_R025422)
+
+### Board of Governors of the Federal Reserve System — Principal Cybersecurity Analyst - Principal Cybersecurity Incident Response Lead - IT
+
+- Stable ID: `c70fbd3a57458102`
+- Location: Washington, DC
+- Role / supported fit: Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.
+- Deadline: Unknown — needs attention
+- Status: needs_verification; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/c70fbd3a57458102__resume-xuewu-cai__board-of-governors-of-the-federal-reserv__principal-cybersecurity-analyst-principal-cybersecurity-incident__r025663.pdf)
+- Attention: Federal Reserve Board role: confirm the exact minimum years, domain expertise and required versus preferred qualifications against the saved official description. Unknown deadline means verify promptly; never assume open-ended hiring. Verify OMB/federal budget procedures against the exact qualification clause; not established by the baseline alone. Verify security-clearance eligibility against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
+- Next action: Complete remaining independent preparation; user selection is required for Step 2.
+- [Official job](https://bd.wd104.myworkdayjobsgov.com/frb/job/Federal-Reserve-Board/Principal-Cybersecurity-Analyst---Principal-Cybersecurity-Incident-Response-Lead---IT_R025663)
+
+### Board of Governors of the Federal Reserve System — Senior Associate Director - FS
+
+- Stable ID: `3e43a91ec5a4d557`
+- Location: Washington, DC
+- Role / supported fit: Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.
+- Deadline: Unknown — needs attention
+- Status: needs_verification; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/3e43a91ec5a4d557__resume-xuewu-cai__board-of-governors-of-the-federal-reserv__senior-associate-director-fs__r025906.pdf)
+- Attention: Federal Reserve Board role: confirm the exact minimum years, domain expertise and required versus preferred qualifications against the saved official description. Unknown deadline means verify promptly; never assume open-ended hiring. Verify OMB/federal budget procedures against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
+- Next action: Complete remaining independent preparation; user selection is required for Step 2.
+- [Official job](https://bd.wd104.myworkdayjobsgov.com/frb/job/Federal-Reserve-Board/Senior-Associate-Director---FS_R025906)
+
+### Board of Governors of the Federal Reserve System — Senior OIG Manager, Analytics, Innovation, and Technology (OIG)
+
+- Stable ID: `400a019e90ab7a66`
+- Location: Washington, DC
+- Role / supported fit: Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.
+- Deadline: Unknown — needs attention
+- Status: needs_verification; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/400a019e90ab7a66__resume-xuewu-cai__board-of-governors-of-the-federal-reserv__senior-oig-manager-analytics-innovation-and-technology-oig__r025914.pdf)
+- Attention: Federal Reserve Board role: confirm the exact minimum years, domain expertise and required versus preferred qualifications against the saved official description. Unknown deadline means verify promptly; never assume open-ended hiring. Verify OMB/federal budget procedures against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
+- Next action: Complete remaining independent preparation; user selection is required for Step 2.
+- [Official job](https://bd.wd104.myworkdayjobsgov.com/frb/job/Federal-Reserve-Board/Senior-OIG-Manager--Analytics--Innovation--and-Technology--OIG-_R025914)
+
+### Board of Governors of the Federal Reserve System — Senior/Lead A Data Scientist - AI Program Office – Information Technology
+
+- Stable ID: `8379ea4fb40d9009`
+- Location: Washington, DC
+- Role / supported fit: Mathematics/CS education, Monte Carlo/statistical research, forecasting and decision-support modeling overlap; specialized domain/AI requirements need confirmation.
+- Deadline: Unknown — needs attention
+- Status: needs_verification; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/8379ea4fb40d9009__resume-xuewu-cai__board-of-governors-of-the-federal-reserv__senior-lead-a-data-scientist-ai-program-office-information-techn__r025812.pdf)
+- Attention: Federal Reserve Board role: confirm the exact minimum years, domain expertise and required versus preferred qualifications against the saved official description. Unknown deadline means verify promptly; never assume open-ended hiring. Verify OMB/federal budget procedures against the exact qualification clause; not established by the baseline alone. Verify production ML/AI scope against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
+- Next action: Complete remaining independent preparation; user selection is required for Step 2.
+- [Official job](https://bd.wd104.myworkdayjobsgov.com/frb/job/Federal-Reserve-Board/Senior-Lead-A-Data-Scientist---AI-Program-Office---Information-Technology_R025812)
+
+### Board of Governors of the Federal Reserve System — Sr Financial Institution & Policy Analyst II, Service Provider Supervision - Division of Supervision & Regulation
+
+- Stable ID: `e83dfc4e1075139c`
+- Location: Washington, DC
+- Role / supported fit: Financial forecasting, capital/ROE, quantitative risk and engineering leadership overlap; federal budget/accounting/policy specialties remain attention items.
+- Deadline: 2026-11-10
+- Status: needs_verification; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/e83dfc4e1075139c__resume-xuewu-cai__board-of-governors-of-the-federal-reserv__sr-financial-institution-policy-analyst-ii-service-provider-supe__r025916.pdf)
+- Attention: Federal Reserve Board role: confirm the exact minimum years, domain expertise and required versus preferred qualifications against the saved official description. Unknown deadline means verify promptly; never assume open-ended hiring. Verify OMB/federal budget procedures against the exact qualification clause; not established by the baseline alone. Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
+- Next action: Complete remaining independent preparation; user selection is required for Step 2.
+- [Official job](https://bd.wd104.myworkdayjobsgov.com/frb/job/Federal-Reserve-Board/Sr-Financial-Institution---Policy-Analyst-II--Service-Provider-Supervision---Division-of-Supervision---Regulation_R025916-1)
+
+### Board of Governors of the Federal Reserve System — Sr. Financial Institution & Policy Analyst, Mergers & Acquisitions - Division of Supervision & Regulation
+
+- Stable ID: `f2297d1867e0752c`
+- Location: Washington, DC
+- Role / supported fit: Financial forecasting, capital/ROE, quantitative risk and engineering leadership overlap; federal budget/accounting/policy specialties remain attention items.
+- Deadline: Unknown — needs attention
+- Status: needs_verification; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/f2297d1867e0752c__resume-xuewu-cai__board-of-governors-of-the-federal-reserv__sr-financial-institution-policy-analyst-mergers-acquisitions-div__r025997.pdf)
+- Attention: Federal Reserve Board role: confirm the exact minimum years, domain expertise and required versus preferred qualifications against the saved official description. Unknown deadline means verify promptly; never assume open-ended hiring. Verify OMB/federal budget procedures against the exact qualification clause; not established by the baseline alone. Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
+- Next action: Complete remaining independent preparation; user selection is required for Step 2.
+- [Official job](https://bd.wd104.myworkdayjobsgov.com/frb/job/Federal-Reserve-Board/Sr-Financial-Institution---Policy-Analyst--Mergers---Acquisitions---Division-of-Supervision---Regulation_R025997)
+
+### Board of Governors of the Federal Reserve System — Sr. Project Portfolio Manager - MFS
+
+- Stable ID: `4176220939260488`
+- Location: Washington, DC
+- Role / supported fit: Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.
+- Deadline: Unknown — needs attention
+- Status: needs_verification; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/4176220939260488__resume-xuewu-cai__board-of-governors-of-the-federal-reserv__sr-project-portfolio-manager-mfs__r025881.pdf)
+- Attention: Federal Reserve Board role: confirm the exact minimum years, domain expertise and required versus preferred qualifications against the saved official description. Unknown deadline means verify promptly; never assume open-ended hiring. Verify OMB/federal budget procedures against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
+- Next action: Complete remaining independent preparation; user selection is required for Step 2.
+- [Official job](https://bd.wd104.myworkdayjobsgov.com/frb/job/Federal-Reserve-Board/Sr-Project-Portfolio-Manager---MFS_R025881)
+
+### Board of Governors of the Federal Reserve System — Sr./Lead Financial Institution & Policy Analyst- Reserve Bank Oversight- DCCA
+
+- Stable ID: `28a86de9e810e9ef`
+- Location: Washington, DC
+- Role / supported fit: Financial forecasting, capital/ROE, quantitative risk and engineering leadership overlap; federal budget/accounting/policy specialties remain attention items.
+- Deadline: 2026-11-17
+- Status: needs_verification; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/28a86de9e810e9ef__resume-xuewu-cai__board-of-governors-of-the-federal-reserv__sr-lead-financial-institution-policy-analyst-reserve-bank-oversi__r025992.pdf)
+- Attention: Federal Reserve Board role: confirm the exact minimum years, domain expertise and required versus preferred qualifications against the saved official description. Unknown deadline means verify promptly; never assume open-ended hiring. Verify OMB/federal budget procedures against the exact qualification clause; not established by the baseline alone. Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
+- Next action: Complete remaining independent preparation; user selection is required for Step 2.
+- [Official job](https://bd.wd104.myworkdayjobsgov.com/frb/job/Federal-Reserve-Board/Sr-Lead-Financial-Institution---Policy-Analyst--Reserve-Bank-Oversight--DCCA_R025992)
+
+### Board of Governors of the Federal Reserve System — Summer 2027 Graduate Intern – Super Intelligence (SI) Connectors Platform Engineer (MCP and RAG) – IT
+
+- Stable ID: `e5fca4a7a7d42cc8`
+- Location: Washington, DC
+- Role / supported fit: Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.
+- Deadline: Unknown — needs attention
+- Status: needs_verification; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/e5fca4a7a7d42cc8__resume-xuewu-cai__board-of-governors-of-the-federal-reserv__summer-2027-graduate-intern-super-intelligence-si-connectors-pla__r025978.pdf)
+- Attention: Federal Reserve Board role: confirm the exact minimum years, domain expertise and required versus preferred qualifications against the saved official description. Unknown deadline means verify promptly; never assume open-ended hiring. Mandatory current student enrollment and return-to-study requirements are unverified; confirm enrollment, degree level, program dates and GPA where required. Internship is lower priority for this senior candidate; missing evidence is not confirmed ineligibility. Verify OMB/federal budget procedures against the exact qualification clause; not established by the baseline alone. Verify required GPA evidence against the exact qualification clause; not established by the baseline alone. Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
+- Next action: Complete remaining independent preparation; user selection is required for Step 2.
+- [Official job](https://bd.wd104.myworkdayjobsgov.com/frb/job/Federal-Reserve-Board/Summer-2027-Graduate-Intern---Super-Intelligence--SI--Connectors-Platform-Engineer--MCP-and-RAG----IT_R025978)
+
+### Board of Governors of the Federal Reserve System — Summer 2027 Intern -  PSO Workforce Analytics - MFS
+
+- Stable ID: `f3509554397704d9`
+- Location: Washington, DC
+- Role / supported fit: Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.
+- Deadline: Unknown — needs attention
+- Status: needs_verification; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/f3509554397704d9__resume-xuewu-cai__board-of-governors-of-the-federal-reserv__summer-2027-intern-pso-workforce-analytics-mfs__r025945.pdf)
+- Attention: Federal Reserve Board role: confirm the exact minimum years, domain expertise and required versus preferred qualifications against the saved official description. Unknown deadline means verify promptly; never assume open-ended hiring. Mandatory current student enrollment and return-to-study requirements are unverified; confirm enrollment, degree level, program dates and GPA where required. Internship is lower priority for this senior candidate; missing evidence is not confirmed ineligibility. Verify OMB/federal budget procedures against the exact qualification clause; not established by the baseline alone. Verify SharePoint application/administration experience against the exact qualification clause; not established by the baseline alone. Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone. Verify ETL/data-workflow experience against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
+- Next action: Complete remaining independent preparation; user selection is required for Step 2.
+- [Official job](https://bd.wd104.myworkdayjobsgov.com/frb/job/Federal-Reserve-Board/Summer-2027-Intern----PSO-Workforce-Analytics---MFS_R025945)
+
+### Board of Governors of the Federal Reserve System — Summer 2027 Intern – Super Intelligence (SI) Governance and PMO – IT
+
+- Stable ID: `729088a3c686d36a`
+- Location: Washington, DC
+- Role / supported fit: Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.
+- Deadline: Unknown — needs attention
+- Status: needs_verification; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/729088a3c686d36a__resume-xuewu-cai__board-of-governors-of-the-federal-reserv__summer-2027-intern-super-intelligence-si-governance-and-pmo-it__r025977.pdf)
+- Attention: Federal Reserve Board role: confirm the exact minimum years, domain expertise and required versus preferred qualifications against the saved official description. Unknown deadline means verify promptly; never assume open-ended hiring. Mandatory current student enrollment and return-to-study requirements are unverified; confirm enrollment, degree level, program dates and GPA where required. Internship is lower priority for this senior candidate; missing evidence is not confirmed ineligibility. Verify OMB/federal budget procedures against the exact qualification clause; not established by the baseline alone. Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
+- Next action: Complete remaining independent preparation; user selection is required for Step 2.
+- [Official job](https://bd.wd104.myworkdayjobsgov.com/frb/job/Federal-Reserve-Board/Summer-2027-Intern---Super-Intelligence--SI--Governance-and-PMO---IT_R025977)
+
+### Board of Governors of the Federal Reserve System — Summer 2027 Intern – Super Intelligence (SI) Innovation and Engineering – IT
+
+- Stable ID: `73ede70fe273e7e2`
+- Location: Washington, DC
+- Role / supported fit: Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.
+- Deadline: Unknown — needs attention
+- Status: needs_verification; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/73ede70fe273e7e2__resume-xuewu-cai__board-of-governors-of-the-federal-reserv__summer-2027-intern-super-intelligence-si-innovation-and-engineer__r025976.pdf)
+- Attention: Federal Reserve Board role: confirm the exact minimum years, domain expertise and required versus preferred qualifications against the saved official description. Unknown deadline means verify promptly; never assume open-ended hiring. Mandatory current student enrollment and return-to-study requirements are unverified; confirm enrollment, degree level, program dates and GPA where required. Internship is lower priority for this senior candidate; missing evidence is not confirmed ineligibility. Verify OMB/federal budget procedures against the exact qualification clause; not established by the baseline alone. Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone. Verify production ML/AI scope against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
+- Next action: Complete remaining independent preparation; user selection is required for Step 2.
+- [Official job](https://bd.wd104.myworkdayjobsgov.com/frb/job/Federal-Reserve-Board/Summer-2027-Intern---Super-Intelligence--SI--Innovation-and-Engineering---IT_R025976)
+
+### Board of Governors of the Federal Reserve System — Summer 2027 Intern, Regulation & Policy- Division of Supervision & Regulation
+
+- Stable ID: `3fadb1ffe1dd3e97`
+- Location: Washington, DC
+- Role / supported fit: Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.
+- Deadline: 2026-11-09
+- Status: needs_verification; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/3fadb1ffe1dd3e97__resume-xuewu-cai__board-of-governors-of-the-federal-reserv__summer-2027-intern-regulation-policy-division-of-supervision-reg__r025980.pdf)
+- Attention: Federal Reserve Board role: confirm the exact minimum years, domain expertise and required versus preferred qualifications against the saved official description. Unknown deadline means verify promptly; never assume open-ended hiring. Mandatory current student enrollment and return-to-study requirements are unverified; confirm enrollment, degree level, program dates and GPA where required. Internship is lower priority for this senior candidate; missing evidence is not confirmed ineligibility. Verify OMB/federal budget procedures against the exact qualification clause; not established by the baseline alone. Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
+- Next action: Complete remaining independent preparation; user selection is required for Step 2.
+- [Official job](https://bd.wd104.myworkdayjobsgov.com/frb/job/Federal-Reserve-Board/Summer-2027-Intern--Regulation---Policy--Division-of-Supervision---Regulation_R025980)
+
+### Board of Governors of the Federal Reserve System — Summer Intern, Financial Accounting Policy and Reporting
+
+- Stable ID: `6299d82269c49966`
+- Location: Washington, DC
+- Role / supported fit: Enterprise forecasting, capital planning, portfolio risk/valuation, financial reporting and leadership overlap. Exact federal accounting, budget, investment governance and grade-equivalent requirements remain unverified.
+- Deadline: 2026-11-13
+- Status: needs_verification; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/6299d82269c49966__resume-xuewu-cai__board-of-governors-of-the-federal-reserv__summer-intern-financial-accounting-policy-and-reporting__r025924.pdf)
+- Attention: Federal Reserve Board role: confirm the exact minimum years, domain expertise and required versus preferred qualifications against the saved official description. Unknown deadline means verify promptly; never assume open-ended hiring. Mandatory current student enrollment and return-to-study requirements are unverified; confirm enrollment, degree level, program dates and GPA where required. Internship is lower priority for this senior candidate; missing evidence is not confirmed ineligibility. Verify OMB/federal budget procedures against the exact qualification clause; not established by the baseline alone. Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
+- Next action: Complete remaining independent preparation; user selection is required for Step 2.
+- [Official job](https://bd.wd104.myworkdayjobsgov.com/frb/job/Federal-Reserve-Board/Summer-Intern--Financial-Accounting-Policy-and-Reporting_R025924)
+
+### Board of Governors of the Federal Reserve System — Summer Intern, Retail Payments
+
+- Stable ID: `b149b288243d5b26`
+- Location: Washington, DC
+- Role / supported fit: Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.
+- Deadline: 2026-11-14
+- Status: needs_verification; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/b149b288243d5b26__resume-xuewu-cai__board-of-governors-of-the-federal-reserv__summer-intern-retail-payments__r025986.pdf)
+- Attention: Federal Reserve Board role: confirm the exact minimum years, domain expertise and required versus preferred qualifications against the saved official description. Unknown deadline means verify promptly; never assume open-ended hiring. Mandatory current student enrollment and return-to-study requirements are unverified; confirm enrollment, degree level, program dates and GPA where required. Internship is lower priority for this senior candidate; missing evidence is not confirmed ineligibility. Verify OMB/federal budget procedures against the exact qualification clause; not established by the baseline alone. Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
+- Next action: Complete remaining independent preparation; user selection is required for Step 2.
+- [Official job](https://bd.wd104.myworkdayjobsgov.com/frb/job/Federal-Reserve-Board/Summer-Intern--Retail-Payments_R025986)
+
+### Board of Governors of the Federal Reserve System — Year-Round Graduate Intern, Digital Innovation Studies
+
+- Stable ID: `3a778f3bef92f819`
+- Location: Washington, DC
+- Role / supported fit: Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.
+- Deadline: 2026-11-13
+- Status: needs_verification; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/3a778f3bef92f819__resume-xuewu-cai__board-of-governors-of-the-federal-reserv__year-round-graduate-intern-digital-innovation-studies__r025918.pdf)
+- Attention: Federal Reserve Board role: confirm the exact minimum years, domain expertise and required versus preferred qualifications against the saved official description. Unknown deadline means verify promptly; never assume open-ended hiring. Mandatory current student enrollment and return-to-study requirements are unverified; confirm enrollment, degree level, program dates and GPA where required. Internship is lower priority for this senior candidate; missing evidence is not confirmed ineligibility. Verify OMB/federal budget procedures against the exact qualification clause; not established by the baseline alone. Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone. Verify production ML/AI scope against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
+- Next action: Complete remaining independent preparation; user selection is required for Step 2.
+- [Official job](https://bd.wd104.myworkdayjobsgov.com/frb/job/Federal-Reserve-Board/Year-Round-Graduate-Intern--Digital-Innovation-Studies_R025918)
+
+### Board of Governors of the Federal Reserve System — Year-Round Graduate Intern, GSIB - Division of Supervision & Regulation
+
+- Stable ID: `8feef52a82eb0808`
+- Location: Washington, DC
+- Role / supported fit: Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.
+- Deadline: 2026-11-04
+- Status: needs_verification; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/8feef52a82eb0808__resume-xuewu-cai__board-of-governors-of-the-federal-reserv__year-round-graduate-intern-gsib-division-of-supervision-regulati__r025917.pdf)
+- Attention: Federal Reserve Board role: confirm the exact minimum years, domain expertise and required versus preferred qualifications against the saved official description. Unknown deadline means verify promptly; never assume open-ended hiring. Mandatory current student enrollment and return-to-study requirements are unverified; confirm enrollment, degree level, program dates and GPA where required. Internship is lower priority for this senior candidate; missing evidence is not confirmed ineligibility. Verify OMB/federal budget procedures against the exact qualification clause; not established by the baseline alone. Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
+- Next action: Complete remaining independent preparation; user selection is required for Step 2.
+- [Official job](https://bd.wd104.myworkdayjobsgov.com/frb/job/Federal-Reserve-Board/Year-Round-Graduate-Intern--GSIB---Division-of-Supervision---Regulation_R025917)
+
+### Bureau of Economic Analysis — Data Scientist
+
+- Stable ID: `042fecf3500029e1`
+- Location: Suitland, MD
+- Role / supported fit: Mathematics/CS education, Monte Carlo/statistical research, forecasting and decision-support modeling overlap; specialized domain/AI requirements need confirmation.
+- Deadline: 2026-11-12
+- Status: needs_verification; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/042fecf3500029e1__resume-xuewu-cai__bureau-of-economic-analysis__data-scientist__890697100.pdf)
+- Attention: Confirm the announcement-specific specialized experience, grade-equivalent scope and mandatory conditions against your actual work history. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
+- Next action: Complete remaining independent preparation; user selection is required for Step 2.
+- [Official job](https://www.usajobs.gov/job/890697100)
 
 ### Bureau of Economic Analysis — Economist
 
@@ -210,6 +510,18 @@ Last refresh: 2026-11-02 22:44:05 EST. Verification status is preserved; unknown
 - Next action: Complete remaining independent preparation; user selection is required for Step 2.
 - [Official job](https://www.usajobs.gov/job/889752600)
 
+### Bureau of Economic Analysis — Supervisory Accountant
+
+- Stable ID: `9a820fb33545dbf5`
+- Location: Suitland, MD
+- Role / supported fit: Enterprise forecasting, capital planning, portfolio risk/valuation, financial reporting and leadership overlap. Exact federal accounting, budget, investment governance and grade-equivalent requirements remain unverified.
+- Deadline: 2026-11-10
+- Status: needs_verification; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/9a820fb33545dbf5__resume-xuewu-cai__bureau-of-economic-analysis__supervisory-accountant__891342400.pdf)
+- Attention: Hiring-path eligibility unverified: Internal to an agency, Career transition (CTAP, ICTAP, RPL). Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Verify qualifying coursework and calculus credits against the exact qualification clause; not established by the baseline alone. Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
+- Next action: Complete remaining independent preparation; user selection is required for Step 2.
+- [Official job](https://www.usajobs.gov/job/891342400)
+
 ### Bureau of the Fiscal Service — Business Systems Analyst
 
 - Stable ID: `adc9dc1d969f25e8`
@@ -246,18 +558,6 @@ Last refresh: 2026-11-02 22:44:05 EST. Verification status is preserved; unknown
 - Next action: Complete remaining independent preparation; user selection is required for Step 2.
 - [Official job](https://www.usajobs.gov/job/891098700)
 
-### Centers for Medicare & Medicaid Services — IT SPECIALIST (SYSANALYSIS)
-
-- Stable ID: `db34cdb1ec37ce24`
-- Location: Woodlawn, MD
-- Role / supported fit: Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.
-- Deadline: 2026-11-02
-- Status: needs_verification; resume: prepared_with_attention
-- Current resume: [PDF](../resumes/db34cdb1ec37ce24__resume-xuewu-cai__centers-for-medicare-medicaid-services__it-specialist-sysanalysis__890139900.pdf)
-- Attention: Hiring-path eligibility unverified: Internal to an agency, Career transition (CTAP, ICTAP, RPL). Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
-- Next action: Complete remaining independent preparation; user selection is required for Step 2.
-- [Official job](https://www.usajobs.gov/job/890139900)
-
 ### Central Intelligence Agency — Data Engineer
 
 - Stable ID: `fa28275048f3ce60`
@@ -269,6 +569,18 @@ Last refresh: 2026-11-02 22:44:05 EST. Verification status is preserved; unknown
 - Attention: Verify required GPA evidence against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them. Official September 1 posting date is confirmed. This existing record is retained although it predates today’s September 2 new-discovery cutoff. GPA and CIA screening requirements remain unverified.
 - Next action: Complete remaining independent preparation; user selection is required for Step 2.
 - [Official job](https://www.usajobs.gov/job/759326100)
+
+### Citizenship and Immigration Services — Supervisory Management and Program Analyst
+
+- Stable ID: `b5660971d142dae3`
+- Location: Camp Springs, MD
+- Role / supported fit: Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.
+- Deadline: 2026-11-09
+- Status: needs_verification; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/b5660971d142dae3__resume-xuewu-cai__citizenship-and-immigration-services__supervisory-management-and-program-analyst__891357100.pdf)
+- Attention: Confirm the announcement-specific specialized experience, grade-equivalent scope and mandatory conditions against your actual work history. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them. Any own-words/no-AI essay certification must be answered personally; no such essays drafted.
+- Next action: Complete remaining independent preparation; user selection is required for Step 2.
+- [Official job](https://www.usajobs.gov/job/891357100)
 
 ### Commodity Futures Trading Commission — Systems Risk Analyst
 
@@ -282,6 +594,54 @@ Last refresh: 2026-11-02 22:44:05 EST. Verification status is preserved; unknown
 - Next action: Complete remaining independent preparation; user selection is required for Step 2.
 - [Official job](https://www.usajobs.gov/job/889991400)
 
+### Customs and Border Protection — Management and Program Analyst
+
+- Stable ID: `db7ddc787fce4dc8`
+- Location: Washington, DC
+- Role / supported fit: Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.
+- Deadline: 2026-11-09
+- Status: needs_verification; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/db7ddc787fce4dc8__resume-xuewu-cai__customs-and-border-protection__management-and-program-analyst__890446100.pdf)
+- Attention: Hiring-path eligibility unverified: Competitive service, Career transition (CTAP, ICTAP, RPL), Land and base management, Veterans, Military spouses. Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
+- Next action: Complete remaining independent preparation; user selection is required for Step 2.
+- [Official job](https://www.usajobs.gov/job/890446100)
+
+### Customs and Border Protection — Telematics Support Specialist
+
+- Stable ID: `dd780c019fa5322c`
+- Location: Washington, DC
+- Role / supported fit: Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.
+- Deadline: 2026-11-09
+- Status: needs_verification; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/dd780c019fa5322c__resume-xuewu-cai__customs-and-border-protection__telematics-support-specialist__890755200.pdf)
+- Attention: Hiring-path eligibility unverified: Competitive service, Career transition (CTAP, ICTAP, RPL), Land and base management, Veterans, Military spouses. Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
+- Next action: Complete remaining independent preparation; user selection is required for Step 2.
+- [Official job](https://www.usajobs.gov/job/890755200)
+
+### Cybersecurity and Infrastructure Security Agency — Supervisory Accountant
+
+- Stable ID: `bca157db397f61d1`
+- Location: Arlington, VA
+- Role / supported fit: Enterprise forecasting, capital planning, portfolio risk/valuation, financial reporting and leadership overlap. Exact federal accounting, budget, investment governance and grade-equivalent requirements remain unverified.
+- Deadline: 2026-11-09
+- Status: needs_verification; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/bca157db397f61d1__resume-xuewu-cai__cybersecurity-and-infrastructure-securit__supervisory-accountant__891491200.pdf)
+- Attention: Hiring-path eligibility unverified: Competitive service, Career transition (CTAP, ICTAP, RPL), Land and base management, Veterans, Military spouses, Individuals with disabilities, Family of overseas employees, Peace Corps & AmeriCorps Vista, Special authorities. Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Verify qualifying coursework and calculus credits against the exact qualification clause; not established by the baseline alone. Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
+- Next action: Complete remaining independent preparation; user selection is required for Step 2.
+- [Official job](https://www.usajobs.gov/job/891491200)
+
+### Defense Commissary Agency — ACCOUNTING OFFICER
+
+- Stable ID: `f1a1beb378c44e42`
+- Location: Fort Lee, VA
+- Role / supported fit: Enterprise forecasting, capital planning, portfolio risk/valuation, financial reporting and leadership overlap. Exact federal accounting, budget, investment governance and grade-equivalent requirements remain unverified.
+- Deadline: 2026-11-16
+- Status: needs_verification; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/f1a1beb378c44e42__resume-xuewu-cai__defense-commissary-agency__accounting-officer__891349500.pdf)
+- Attention: Hiring-path eligibility unverified: Competitive service, Internal to an agency, Career transition (CTAP, ICTAP, RPL), Veterans, Military spouses. Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Verify qualifying coursework and calculus credits against the exact qualification clause; not established by the baseline alone. Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
+- Next action: Complete remaining independent preparation; user selection is required for Step 2.
+- [Official job](https://www.usajobs.gov/job/891349500)
+
 ### Defense Commissary Agency — FINANCIAL ANALYST (INTERNAL CONTROLS)
 
 - Stable ID: `961ae27a765b61e6`
@@ -293,6 +653,18 @@ Last refresh: 2026-11-02 22:44:05 EST. Verification status is preserved; unknown
 - Attention: Hiring-path eligibility unverified: Competitive service, Internal to an agency, Career transition (CTAP, ICTAP, RPL), Veterans, Military spouses. Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
 - Next action: Complete remaining independent preparation; user selection is required for Step 2.
 - [Official job](https://www.usajobs.gov/job/891102000)
+
+### Defense Counterintelligence and Security Agency — DATA SCIENTIST (DATA ARCHITECT/DATA ENGINEER/AI-ML SPECIALIST)
+
+- Stable ID: `0cab414137098a27`
+- Location: Hanover, MD; Quantico, VA; Stafford, VA
+- Role / supported fit: Mathematics/CS education, Monte Carlo/statistical research, forecasting and decision-support modeling overlap; specialized domain/AI requirements need confirmation.
+- Deadline: 2026-11-13
+- Status: needs_verification; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/0cab414137098a27__resume-xuewu-cai__defense-counterintelligence-and-security__data-scientist-data-architect-data-engineer-ai-ml-specialist__891384700.pdf)
+- Attention: Verify production ML/AI scope against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
+- Next action: Complete remaining independent preparation; user selection is required for Step 2.
+- [Official job](https://www.usajobs.gov/job/891384700)
 
 ### Defense Human Resources Activity — Operations Research Analyst
 
@@ -330,6 +702,18 @@ Last refresh: 2026-11-02 22:44:05 EST. Verification status is preserved; unknown
 - Next action: Complete remaining independent preparation; user selection is required for Step 2.
 - [Official job](https://www.usajobs.gov/job/890678600)
 
+### Defense Information Systems Agency — IT CYBERSECURITY SPECIALIST (CUSTSPT/INFOSEC)
+
+- Stable ID: `fb0be6fd08fbe8ed`
+- Location: Fort Meade, MD
+- Role / supported fit: Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.
+- Deadline: 2026-11-12
+- Status: needs_verification; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/fb0be6fd08fbe8ed__resume-xuewu-cai__defense-information-systems-agency__it-cybersecurity-specialist-custspt-infosec__891292000.pdf)
+- Attention: Hiring-path eligibility unverified: Competitive service, Excepted service. Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
+- Next action: Complete remaining independent preparation; user selection is required for Step 2.
+- [Official job](https://www.usajobs.gov/job/891292000)
+
 ### Defense Information Systems Agency — IT PROJECT MANAGER (PLCYPLN)
 
 - Stable ID: `2f9408fd1b445f89`
@@ -354,6 +738,18 @@ Last refresh: 2026-11-02 22:44:05 EST. Verification status is preserved; unknown
 - Next action: Complete remaining independent preparation; user selection is required for Step 2.
 - [Official job](https://www.usajobs.gov/job/891050900)
 
+### Defense Information Systems Agency — SUPV IT SPECIALIST (PLCYPLN)
+
+- Stable ID: `8a7e420a96e906ae`
+- Location: Fort Meade, MD
+- Role / supported fit: Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.
+- Deadline: 2026-11-13
+- Status: needs_verification; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/8a7e420a96e906ae__resume-xuewu-cai__defense-information-systems-agency__supv-it-specialist-plcypln__891345800.pdf)
+- Attention: Hiring-path eligibility unverified: Competitive service, Excepted service. Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
+- Next action: Complete remaining independent preparation; user selection is required for Step 2.
+- [Official job](https://www.usajobs.gov/job/891345800)
+
 ### Defense Logistics Agency — IT Specialist (APPSW)
 
 - Stable ID: `a9a9cabfedf30b5b`
@@ -366,17 +762,29 @@ Last refresh: 2026-11-02 22:44:05 EST. Verification status is preserved; unknown
 - Next action: Complete remaining independent preparation; user selection is required for Step 2.
 - [Official job](https://www.usajobs.gov/job/891164500)
 
-### Defense Media Activity — Supervisory IT Specialist (PLCYPLN)
+### Defense Logistics Agency — IT Specialist (APPSW/OS)
 
-- Stable ID: `646337038fc77897`
-- Location: Fort Meade, MD
+- Stable ID: `184b95bc841157b6`
+- Location: Fort Belvoir, VA; Richmond, VA
 - Role / supported fit: Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.
-- Deadline: 2026-11-02
+- Deadline: 2026-11-13
 - Status: needs_verification; resume: prepared_with_attention
-- Current resume: [PDF](../resumes/646337038fc77897__resume-xuewu-cai__defense-media-activity__supervisory-it-specialist-plcypln__889314000.pdf)
-- Attention: Confirm the announcement-specific specialized experience, grade-equivalent scope and mandatory conditions against your actual work history. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
+- Current resume: [PDF](../resumes/184b95bc841157b6__resume-xuewu-cai__defense-logistics-agency__it-specialist-appsw-os__891347400.pdf)
+- Attention: Hiring-path eligibility unverified: Internal to an agency, Career transition (CTAP, ICTAP, RPL), Veterans, Military spouses, Individuals with disabilities. Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Verify SAP experience against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
 - Next action: Complete remaining independent preparation; user selection is required for Step 2.
-- [Official job](https://www.usajobs.gov/job/889314000)
+- [Official job](https://www.usajobs.gov/job/891347400)
+
+### Defense Logistics Agency — Operations Research Analyst
+
+- Stable ID: `7ebdcbd7d2b7939a`
+- Location: Richmond, VA
+- Role / supported fit: Mathematics/CS education, Monte Carlo/statistical research, forecasting and decision-support modeling overlap; specialized domain/AI requirements need confirmation.
+- Deadline: 2026-11-17
+- Status: needs_verification; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/7ebdcbd7d2b7939a__resume-xuewu-cai__defense-logistics-agency__operations-research-analyst__891388900.pdf)
+- Attention: Verify qualifying coursework and calculus credits against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
+- Next action: Complete remaining independent preparation; user selection is required for Step 2.
+- [Official job](https://www.usajobs.gov/job/891388900)
 
 ### Defense Security Cooperation Agency — Data Scientist
 
@@ -414,6 +822,54 @@ Last refresh: 2026-11-02 22:44:05 EST. Verification status is preserved; unknown
 - Next action: Complete remaining independent preparation; user selection is required for Step 2.
 - [Official job](https://www.usajobs.gov/job/890190800)
 
+### Department of Energy Headquarters — Accountant - Recent Graduate
+
+- Stable ID: `e1bc20b30211d256`
+- Location: Washington, DC; Germantown, MD
+- Role / supported fit: Enterprise forecasting, capital planning, portfolio risk/valuation, financial reporting and leadership overlap. Exact federal accounting, budget, investment governance and grade-equivalent requirements remain unverified.
+- Deadline: 2026-11-17
+- Status: needs_verification; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/e1bc20b30211d256__resume-xuewu-cai__department-of-energy-headquarters__accountant-recent-graduate__891272200.pdf)
+- Attention: Hiring-path eligibility unverified: Recent graduates. Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Verify qualifying coursework and calculus credits against the exact qualification clause; not established by the baseline alone. Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone. Confirm graduate/student hiring-path dates and eligibility; degree completion dates are not in the baseline. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
+- Next action: Complete remaining independent preparation; user selection is required for Step 2.
+- [Official job](https://www.usajobs.gov/job/891272200)
+
+### Department of Energy Headquarters — Budget Analyst - Recent Graduate
+
+- Stable ID: `d31c737b2a9cc2c0`
+- Location: Washington, DC; Germantown, MD
+- Role / supported fit: Enterprise forecasting, capital planning, portfolio risk/valuation, financial reporting and leadership overlap. Exact federal accounting, budget, investment governance and grade-equivalent requirements remain unverified.
+- Deadline: 2026-11-17
+- Status: needs_verification; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/d31c737b2a9cc2c0__resume-xuewu-cai__department-of-energy-headquarters__budget-analyst-recent-graduate__891270900.pdf)
+- Attention: Hiring-path eligibility unverified: Recent graduates. Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone. Confirm graduate/student hiring-path dates and eligibility; degree completion dates are not in the baseline. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
+- Next action: Complete remaining independent preparation; user selection is required for Step 2.
+- [Official job](https://www.usajobs.gov/job/891270900)
+
+### Department of Energy Headquarters — IT Cybersecurity Specialist (CYBERMGT)
+
+- Stable ID: `d9edc9fee1452596`
+- Location: Washington, DC
+- Role / supported fit: Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.
+- Deadline: 2026-11-09
+- Status: needs_verification; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/d9edc9fee1452596__resume-xuewu-cai__department-of-energy-headquarters__it-cybersecurity-specialist-cybermgt__891266900.pdf)
+- Attention: Verify NIST/security-control experience against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
+- Next action: Complete remaining independent preparation; user selection is required for Step 2.
+- [Official job](https://www.usajobs.gov/job/891266900)
+
+### Department of Homeland Security Headquarters — Senior ICAM Technical Lead
+
+- Stable ID: `883b0f18dc5dd84a`
+- Location: Arlington, VA
+- Role / supported fit: Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.
+- Deadline: 2027-04-25
+- Status: needs_verification; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/883b0f18dc5dd84a__resume-xuewu-cai__department-of-homeland-security-headquar__senior-icam-technical-lead__891316000.pdf)
+- Attention: Hiring-path eligibility unverified: Competitive service, Excepted service. Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Verify stated security certification requirements against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
+- Next action: Complete remaining independent preparation; user selection is required for Step 2.
+- [Official job](https://www.usajobs.gov/job/891316000)
+
 ### Department of State Headquarters — Data Scientist
 
 - Stable ID: `0449d4d561730d31`
@@ -426,30 +882,6 @@ Last refresh: 2026-11-02 22:44:05 EST. Verification status is preserved; unknown
 - Next action: Complete remaining independent preparation; user selection is required for Step 2.
 - [Official job](https://www.usajobs.gov/job/891106300)
 
-### Department of State Headquarters — Financial Management Specialist
-
-- Stable ID: `3421ec0cbcf07ae5`
-- Location: Arlington, VA
-- Role / supported fit: Financial forecasting, capital/ROE, quantitative risk and engineering leadership overlap; federal budget/accounting/policy specialties remain attention items.
-- Deadline: 2026-11-02
-- Status: needs_verification; resume: prepared_with_attention
-- Current resume: [PDF](../resumes/3421ec0cbcf07ae5__resume-xuewu-cai__department-of-state-headquarters__financial-management-specialist__890281500.pdf)
-- Attention: Hiring-path eligibility unverified: Competitive service, Career transition (CTAP, ICTAP, RPL), Land and base management, Veterans, Military spouses, Individuals with disabilities, Family of overseas employees, Peace Corps & AmeriCorps Vista, Special authorities. Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
-- Next action: Complete remaining independent preparation; user selection is required for Step 2.
-- [Official job](https://www.usajobs.gov/job/890281500)
-
-### Department of State Headquarters — Information Technology Specialist
-
-- Stable ID: `d78419e053f71328`
-- Location: Washington, DC
-- Role / supported fit: Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.
-- Deadline: 2026-11-02
-- Status: needs_verification; resume: prepared_with_attention
-- Current resume: [PDF](../resumes/d78419e053f71328__resume-xuewu-cai__department-of-state-headquarters__information-technology-specialist__890259900.pdf)
-- Attention: Hiring-path eligibility unverified: Internal to an agency, Career transition (CTAP, ICTAP, RPL). Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
-- Next action: Complete remaining independent preparation; user selection is required for Step 2.
-- [Official job](https://www.usajobs.gov/job/890259900)
-
 ### Deputy Assistant Secretary for Finance — Supervisory Financial Analyst
 
 - Stable ID: `7decc95769165737`
@@ -461,6 +893,30 @@ Last refresh: 2026-11-02 22:44:05 EST. Verification status is preserved; unknown
 - Attention: Hiring-path eligibility unverified: Competitive service, Excepted service, Internal to an agency, Career transition (CTAP, ICTAP, RPL), Land and base management, Veterans, Military spouses, Individuals with disabilities, Family of overseas employees, Peace Corps & AmeriCorps Vista. Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Verify OMB/federal budget procedures against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
 - Next action: Complete remaining independent preparation; user selection is required for Step 2.
 - [Official job](https://www.usajobs.gov/job/890686800)
+
+### Development Finance Corporation — DIRECTOR, PORTFOLIO ANALYTICS
+
+- Stable ID: `26649c2992fac570`
+- Location: Washington, DC
+- Role / supported fit: Enterprise forecasting, capital planning, portfolio risk/valuation, financial reporting and leadership overlap. Exact federal accounting, budget, investment governance and grade-equivalent requirements remain unverified.
+- Deadline: 2026-11-23
+- Status: needs_verification; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/26649c2992fac570__resume-xuewu-cai__development-finance-corporation__director-portfolio-analytics__891275000.pdf)
+- Attention: Confirm portfolio-wide performance/risk frameworks, financial valuation of equity/debt/private assets, financial data governance and communication clauses; baseline CRT valuation and portfolio analytics overlap, but exact specialized experience remains unverified. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them. Possible companion route(s): bbf94fee5f7f30af. Reconcile exact vacancy before submitting; no duplicate applications.
+- Next action: Complete remaining independent preparation; user selection is required for Step 2.
+- [Official job](https://www.usajobs.gov/job/891275000)
+
+### Development Finance Corporation — DIRECTOR, PORTFOLIO ANALYTICS
+
+- Stable ID: `bbf94fee5f7f30af`
+- Location: Washington, DC
+- Role / supported fit: Enterprise forecasting, capital planning, portfolio risk/valuation, financial reporting and leadership overlap. Exact federal accounting, budget, investment governance and grade-equivalent requirements remain unverified.
+- Deadline: 2026-11-23
+- Status: needs_verification; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/bbf94fee5f7f30af__resume-xuewu-cai__development-finance-corporation__director-portfolio-analytics__891288700.pdf)
+- Attention: Confirm portfolio-wide performance/risk frameworks, financial valuation of equity/debt/private assets, financial data governance and communication clauses; baseline CRT valuation and portfolio analytics overlap, but exact specialized experience remains unverified. Hiring-path eligibility unverified: Competitive service, Career transition (CTAP, ICTAP, RPL), Land and base management, Veterans, Military spouses, Individuals with disabilities, Family of overseas employees, Peace Corps & AmeriCorps Vista, Special authorities. Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them. Possible companion route(s): 26649c2992fac570. Reconcile exact vacancy before submitting; no duplicate applications.
+- Next action: Complete remaining independent preparation; user selection is required for Step 2.
+- [Official job](https://www.usajobs.gov/job/891288700)
 
 ### Drug Enforcement Administration — Data Scientist
 
@@ -618,6 +1074,30 @@ Last refresh: 2026-11-02 22:44:05 EST. Verification status is preserved; unknown
 - Next action: Complete remaining independent preparation; user selection is required for Step 2.
 - [Official job](https://www.usajobs.gov/job/891309200)
 
+### Federal Transit Administration — Program Analyst - DIRECT HIRE
+
+- Stable ID: `0e9417e28b71720f`
+- Location: Washington, DC
+- Role / supported fit: Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.
+- Deadline: 2026-11-16
+- Status: needs_verification; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/0e9417e28b71720f__resume-xuewu-cai__federal-transit-administration__program-analyst-direct-hire__891220800.pdf)
+- Attention: Confirm the announcement-specific specialized experience, grade-equivalent scope and mandatory conditions against your actual work history. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
+- Next action: Complete remaining independent preparation; user selection is required for Step 2.
+- [Official job](https://www.usajobs.gov/job/891220800)
+
+### Federal Transit Administration — Senior Program Manager
+
+- Stable ID: `2303f31bc640d743`
+- Location: Washington, DC
+- Role / supported fit: Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.
+- Deadline: 2026-11-12
+- Status: needs_verification; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/2303f31bc640d743__resume-xuewu-cai__federal-transit-administration__senior-program-manager__891445900.pdf)
+- Attention: Confirm the announcement-specific specialized experience, grade-equivalent scope and mandatory conditions against your actual work history. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
+- Next action: Complete remaining independent preparation; user selection is required for Step 2.
+- [Official job](https://www.usajobs.gov/job/891445900)
+
 ### Forest Service — Supervisory Information Technology Specialist (SYSANALYSIS)
 
 - Stable ID: `e764c582e8de8364`
@@ -714,30 +1194,6 @@ Last refresh: 2026-11-02 22:44:05 EST. Verification status is preserved; unknown
 - Next action: Complete remaining independent preparation; user selection is required for Step 2.
 - [Official job](https://www.usajobs.gov/job/890396300)
 
-### Immediate Office of the Chief of Naval Operations — FINANCIAL MANAGEMENT ANALYST
-
-- Stable ID: `a831f3575bd04487`
-- Location: Washington Navy Yard, DC
-- Role / supported fit: Financial forecasting, capital/ROE, quantitative risk and engineering leadership overlap; federal budget/accounting/policy specialties remain attention items.
-- Deadline: 2026-11-02
-- Status: needs_verification; resume: prepared_with_attention
-- Current resume: [PDF](../resumes/a831f3575bd04487__resume-xuewu-cai__immediate-office-of-the-chief-of-naval-o__financial-management-analyst__890243000.pdf)
-- Attention: Hiring-path eligibility unverified: Internal to an agency, Career transition (CTAP, ICTAP, RPL), Land and base management, Veterans, Military spouses, Individuals with disabilities, Special authorities. Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
-- Next action: Complete remaining independent preparation; user selection is required for Step 2.
-- [Official job](https://www.usajobs.gov/job/890243000)
-
-### Immediate Office of the Chief of Naval Operations — FINANCIAL MANAGER
-
-- Stable ID: `6aef35ff9790625f`
-- Location: Naval Base, Norfolk, VA
-- Role / supported fit: Financial forecasting, capital/ROE, quantitative risk and engineering leadership overlap; federal budget/accounting/policy specialties remain attention items.
-- Deadline: 2026-11-02
-- Status: needs_verification; resume: prepared_with_attention
-- Current resume: [PDF](../resumes/6aef35ff9790625f__resume-xuewu-cai__immediate-office-of-the-chief-of-naval-o__financial-manager__890639100.pdf)
-- Attention: Hiring-path eligibility unverified: Internal to an agency, Career transition (CTAP, ICTAP, RPL), Land and base management, Veterans, Military spouses, Individuals with disabilities, Special authorities. Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Verify OMB/federal budget procedures against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
-- Next action: Complete remaining independent preparation; user selection is required for Step 2.
-- [Official job](https://www.usajobs.gov/job/890639100)
-
 ### Immediate Office of the Chief of Naval Operations — OPERATIONS RESEARCH ANALYST
 
 - Stable ID: `366e6614c88da155`
@@ -786,6 +1242,66 @@ Last refresh: 2026-11-02 22:44:05 EST. Verification status is preserved; unknown
 - Next action: Complete remaining independent preparation; user selection is required for Step 2.
 - [Official job](https://www.usajobs.gov/job/890832900)
 
+### Internal Revenue Service — Program Evaluation and Risk Analyst
+
+- Stable ID: `d33d1b720ac4505c`
+- Location: Washington, DC; Baltimore, MD; Lanham, MD; Richmond, VA
+- Role / supported fit: Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.
+- Deadline: 2026-11-12
+- Status: needs_verification; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/d33d1b720ac4505c__resume-xuewu-cai__internal-revenue-service__program-evaluation-and-risk-analyst__891239200.pdf)
+- Attention: Hiring-path eligibility unverified: Internal to an agency, Career transition (CTAP, ICTAP, RPL). Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
+- Next action: Complete remaining independent preparation; user selection is required for Step 2.
+- [Official job](https://www.usajobs.gov/job/891239200)
+
+### Internal Revenue Service — Senior Stakeholder Relationship Tax Consultant (Relationship Manager)
+
+- Stable ID: `7922ff3ed8078eab`
+- Location: Norfolk, VA
+- Role / supported fit: Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.
+- Deadline: 2026-11-09
+- Status: needs_verification; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/7922ff3ed8078eab__resume-xuewu-cai__internal-revenue-service__senior-stakeholder-relationship-tax-consultant-relationship-mana__891347500.pdf)
+- Attention: Hiring-path eligibility unverified: Internal to an agency, Career transition (CTAP, ICTAP, RPL). Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
+- Next action: Complete remaining independent preparation; user selection is required for Step 2.
+- [Official job](https://www.usajobs.gov/job/891347500)
+
+### Internal Revenue Service — Senior Stakeholder Relationship Tax Consultant (Relationship Manager)
+
+- Stable ID: `a840e842464cc6a8`
+- Location: Richmond, VA
+- Role / supported fit: Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.
+- Deadline: 2026-11-09
+- Status: needs_verification; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/a840e842464cc6a8__resume-xuewu-cai__internal-revenue-service__senior-stakeholder-relationship-tax-consultant-relationship-mana__891327400.pdf)
+- Attention: Hiring-path eligibility unverified: Internal to an agency, Career transition (CTAP, ICTAP, RPL). Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
+- Next action: Complete remaining independent preparation; user selection is required for Step 2.
+- [Official job](https://www.usajobs.gov/job/891327400)
+
+### Internal Revenue Service — Supervisory Associate Advocate
+
+- Stable ID: `3cc56f18c1f5ee95`
+- Location: Washington, DC
+- Role / supported fit: Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.
+- Deadline: 2026-11-09
+- Status: needs_verification; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/3cc56f18c1f5ee95__resume-xuewu-cai__internal-revenue-service__supervisory-associate-advocate__891382600.pdf)
+- Attention: Hiring-path eligibility unverified: Internal to an agency, Career transition (CTAP, ICTAP, RPL). Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
+- Next action: Complete remaining independent preparation; user selection is required for Step 2.
+- [Official job](https://www.usajobs.gov/job/891382600)
+
+### Internal Revenue Service — Taxpayer Advocate Group Manager
+
+- Stable ID: `a41456f283adfb74`
+- Location: Richmond, VA
+- Role / supported fit: Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.
+- Deadline: 2026-11-09
+- Status: needs_verification; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/a41456f283adfb74__resume-xuewu-cai__internal-revenue-service__taxpayer-advocate-group-manager__891477900.pdf)
+- Attention: Hiring-path eligibility unverified: Internal to an agency, Career transition (CTAP, ICTAP, RPL). Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
+- Next action: Complete remaining independent preparation; user selection is required for Step 2.
+- [Official job](https://www.usajobs.gov/job/891477900)
+
 ### Joint Activities — OPERATIONS RESEARCH ANALYST
 
 - Stable ID: `dc6a76103ddb491c`
@@ -809,6 +1325,18 @@ Last refresh: 2026-11-02 22:44:05 EST. Verification status is preserved; unknown
 - Attention: Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
 - Next action: Complete remaining independent preparation; user selection is required for Step 2.
 - [Official job](https://www.usajobs.gov/job/890804700)
+
+### Military Treatment Facilities under DHA — IT Specialist (PLCYPLN/INFOSEC)
+
+- Stable ID: `02916059c277e630`
+- Location: Quantico, VA
+- Role / supported fit: Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.
+- Deadline: 2026-11-10
+- Status: needs_verification; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/02916059c277e630__resume-xuewu-cai__military-treatment-facilities-under-dha__it-specialist-plcypln-infosec__891283100.pdf)
+- Attention: Confirm the announcement-specific specialized experience, grade-equivalent scope and mandatory conditions against your actual work history. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
+- Next action: Complete remaining independent preparation; user selection is required for Step 2.
+- [Official job](https://www.usajobs.gov/job/891283100)
 
 ### Military Treatment Facilities under Defense Health Agency — IT Specialist (APPSW/INET)
 
@@ -834,6 +1362,18 @@ Last refresh: 2026-11-02 22:44:05 EST. Verification status is preserved; unknown
 - Next action: Complete remaining independent preparation; user selection is required for Step 2.
 - [Official job](https://www.usajobs.gov/job/891026400)
 
+### Missile Defense Agency — Program Analyst
+
+- Stable ID: `5dde911707efd5f7`
+- Location: Dahlgren, VA; Fort Belvoir, VA
+- Role / supported fit: Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.
+- Deadline: 2026-11-09
+- Status: needs_verification; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/5dde911707efd5f7__resume-xuewu-cai__missile-defense-agency__program-analyst__891376800.pdf)
+- Attention: Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
+- Next action: Complete remaining independent preparation; user selection is required for Step 2.
+- [Official job](https://www.usajobs.gov/job/891376800)
+
 ### National Gallery of Art — Information Technology Specialist
 
 - Stable ID: `e13c4bb3d7bd5fcc`
@@ -845,6 +1385,18 @@ Last refresh: 2026-11-02 22:44:05 EST. Verification status is preserved; unknown
 - Attention: Confirm graduate/student hiring-path dates and eligibility; degree completion dates are not in the baseline. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
 - Next action: Complete remaining independent preparation; user selection is required for Step 2.
 - [Official job](https://www.usajobs.gov/job/890928300)
+
+### National Geospatial-Intelligence Agency — Data Engineer (Open Continuous)
+
+- Stable ID: `73b70c24cb32ee8b`
+- Location: Springfield, VA
+- Role / supported fit: Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.
+- Deadline: 2027-09-30
+- Status: needs_verification; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/73b70c24cb32ee8b__resume-xuewu-cai__national-geospatial-intelligence-agency__data-engineer-open-continuous__889388600.pdf)
+- Attention: Verify qualifying coursework and calculus credits against the exact qualification clause; not established by the baseline alone. Verify ETL/data-workflow experience against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
+- Next action: Complete remaining independent preparation; user selection is required for Step 2.
+- [Official job](https://www.usajobs.gov/job/889388600)
 
 ### National Geospatial-Intelligence Agency — Data Scientist (Open Continuous)
 
@@ -858,17 +1410,77 @@ Last refresh: 2026-11-02 22:44:05 EST. Verification status is preserved; unknown
 - Next action: Complete remaining independent preparation; user selection is required for Step 2.
 - [Official job](https://www.usajobs.gov/job/889388700)
 
-### Naval Air Systems Command — FINANCIAL MANAGEMENT ANALYST
+### National Oceanic and Atmospheric Administration — IT Specialist (Network Services)
 
-- Stable ID: `ff041cce574de473`
-- Location: Patuxent River, MD
-- Role / supported fit: Financial forecasting, capital/ROE, quantitative risk and engineering leadership overlap; federal budget/accounting/policy specialties remain attention items.
-- Deadline: 2026-11-02
+- Stable ID: `48983eef0d034601`
+- Location: Silver Spring, MD
+- Role / supported fit: Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.
+- Deadline: 2026-11-09
 - Status: needs_verification; resume: prepared_with_attention
-- Current resume: [PDF](../resumes/ff041cce574de473__resume-xuewu-cai__naval-air-systems-command__financial-management-analyst__890119500.pdf)
-- Attention: Hiring-path eligibility unverified: Internal to an agency, Career transition (CTAP, ICTAP, RPL), Land and base management, Veterans, Military spouses, Individuals with disabilities, Special authorities. Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
+- Current resume: [PDF](../resumes/48983eef0d034601__resume-xuewu-cai__national-oceanic-and-atmospheric-adminis__it-specialist-network-services__891319900.pdf)
+- Attention: Confirm the announcement-specific specialized experience, grade-equivalent scope and mandatory conditions against your actual work history. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them. Possible companion route(s): f16f4d7b8176bd05. Reconcile exact vacancy before submitting; no duplicate applications.
 - Next action: Complete remaining independent preparation; user selection is required for Step 2.
-- [Official job](https://www.usajobs.gov/job/890119500)
+- [Official job](https://www.usajobs.gov/job/891319900)
+
+### National Oceanic and Atmospheric Administration — IT Specialist (Network Services)
+
+- Stable ID: `f16f4d7b8176bd05`
+- Location: Silver Spring, MD
+- Role / supported fit: Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.
+- Deadline: 2026-11-09
+- Status: needs_verification; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/f16f4d7b8176bd05__resume-xuewu-cai__national-oceanic-and-atmospheric-adminis__it-specialist-network-services__891320000.pdf)
+- Attention: Hiring-path eligibility unverified: Competitive service, Career transition (CTAP, ICTAP, RPL), Land and base management, Veterans, Military spouses, Individuals with disabilities, Family of overseas employees, Peace Corps & AmeriCorps Vista, Special authorities. Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them. Possible companion route(s): 48983eef0d034601. Reconcile exact vacancy before submitting; no duplicate applications.
+- Next action: Complete remaining independent preparation; user selection is required for Step 2.
+- [Official job](https://www.usajobs.gov/job/891320000)
+
+### Naval Air Systems Command — COMPUTER SCIENTIST
+
+- Stable ID: `b9d0897c0455dc7b`
+- Location: Patuxent River, MD
+- Role / supported fit: Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.
+- Deadline: 2026-11-10
+- Status: needs_verification; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/b9d0897c0455dc7b__resume-xuewu-cai__naval-air-systems-command__computer-scientist__891187100.pdf)
+- Attention: Hiring-path eligibility unverified: Internal to an agency, Career transition (CTAP, ICTAP, RPL), Land and base management, Veterans, Military spouses, Individuals with disabilities, Special authorities. Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
+- Next action: Complete remaining independent preparation; user selection is required for Step 2.
+- [Official job](https://www.usajobs.gov/job/891187100)
+
+### Naval Air Systems Command — INTERDISCIPLINARY ENGINEER
+
+- Stable ID: `5eb2f66dd105f41f`
+- Location: Patuxent River, MD
+- Role / supported fit: Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.
+- Deadline: 2026-11-09
+- Status: needs_verification; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/5eb2f66dd105f41f__resume-xuewu-cai__naval-air-systems-command__interdisciplinary-engineer__891290300.pdf)
+- Attention: Confirm the announcement-specific specialized experience, grade-equivalent scope and mandatory conditions against your actual work history. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them. Possible companion route(s): ece184f68cf508b3. Reconcile exact vacancy before submitting; no duplicate applications.
+- Next action: Complete remaining independent preparation; user selection is required for Step 2.
+- [Official job](https://www.usajobs.gov/job/891290300)
+
+### Naval Air Systems Command — INTERDISCIPLINARY ENGINEER
+
+- Stable ID: `ece184f68cf508b3`
+- Location: Patuxent River, MD
+- Role / supported fit: Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.
+- Deadline: 2026-11-09
+- Status: needs_verification; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/ece184f68cf508b3__resume-xuewu-cai__naval-air-systems-command__interdisciplinary-engineer__891296600.pdf)
+- Attention: Confirm the announcement-specific specialized experience, grade-equivalent scope and mandatory conditions against your actual work history. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them. Possible companion route(s): 5eb2f66dd105f41f. Reconcile exact vacancy before submitting; no duplicate applications.
+- Next action: Complete remaining independent preparation; user selection is required for Step 2.
+- [Official job](https://www.usajobs.gov/job/891296600)
+
+### Naval Air Systems Command — INTERDISCIPLINARY ENGINEER/ PHYSICIST
+
+- Stable ID: `2b463fb25f9d9425`
+- Location: Patuxent River, MD
+- Role / supported fit: Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.
+- Deadline: 2026-11-10
+- Status: needs_verification; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/2b463fb25f9d9425__resume-xuewu-cai__naval-air-systems-command__interdisciplinary-engineer-physicist__891354400.pdf)
+- Attention: Confirm the announcement-specific specialized experience, grade-equivalent scope and mandatory conditions against your actual work history. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
+- Next action: Complete remaining independent preparation; user selection is required for Step 2.
+- [Official job](https://www.usajobs.gov/job/891354400)
 
 ### Naval Air Systems Command — INTERDISCIPLINARY ENGINEER/SCIENTIST
 
@@ -894,6 +1506,30 @@ Last refresh: 2026-11-02 22:44:05 EST. Verification status is preserved; unknown
 - Next action: Complete remaining independent preparation; user selection is required for Step 2.
 - [Official job](https://www.usajobs.gov/job/888473900)
 
+### Naval Air Systems Command — INTERDISCIPLINARY ENGINEER/SCIENTIST
+
+- Stable ID: `d3afad935e7c347a`
+- Location: Patuxent River, MD
+- Role / supported fit: Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.
+- Deadline: 2026-11-20
+- Status: needs_verification; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/d3afad935e7c347a__resume-xuewu-cai__naval-air-systems-command__interdisciplinary-engineer-scientist__891264500.pdf)
+- Attention: Verify qualifying coursework and calculus credits against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them. Possible companion route(s): 679c7a53c9858c65, 8134528cbc827a16. Reconcile exact vacancy before submitting; no duplicate applications.
+- Next action: Complete remaining independent preparation; user selection is required for Step 2.
+- [Official job](https://www.usajobs.gov/job/891264500)
+
+### Naval Air Systems Command — IT SPECIALIST (APPSW)
+
+- Stable ID: `dcc17f5e4f76a7e1`
+- Location: Patuxent River, MD
+- Role / supported fit: Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.
+- Deadline: 2026-11-09
+- Status: needs_verification; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/dcc17f5e4f76a7e1__resume-xuewu-cai__naval-air-systems-command__it-specialist-appsw__891344800.pdf)
+- Attention: Hiring-path eligibility unverified: Internal to an agency, Career transition (CTAP, ICTAP, RPL), Land and base management, Veterans, Military spouses, Individuals with disabilities, Special authorities. Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
+- Next action: Complete remaining independent preparation; user selection is required for Step 2.
+- [Official job](https://www.usajobs.gov/job/891344800)
+
 ### Naval Air Systems Command — IT SPECIALIST (PLCYPLN)
 
 - Stable ID: `2f86f87ca7246127`
@@ -918,6 +1554,18 @@ Last refresh: 2026-11-02 22:44:05 EST. Verification status is preserved; unknown
 - Next action: Complete remaining independent preparation; user selection is required for Step 2.
 - [Official job](https://www.usajobs.gov/job/890287800)
 
+### Naval Facilities Engineering Systems Command — FINANCIAL MANAGEMENT ANALYST
+
+- Stable ID: `b440e4c2e92a1220`
+- Location: Washington Navy Yard, DC
+- Role / supported fit: Financial forecasting, capital/ROE, quantitative risk and engineering leadership overlap; federal budget/accounting/policy specialties remain attention items.
+- Deadline: 2026-11-09
+- Status: needs_verification; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/b440e4c2e92a1220__resume-xuewu-cai__naval-facilities-engineering-systems-com__financial-management-analyst__890832000.pdf)
+- Attention: Hiring-path eligibility unverified: Internal to an agency, Career transition (CTAP, ICTAP, RPL), Land and base management, Veterans, Military spouses, Individuals with disabilities, Special authorities. Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
+- Next action: Complete remaining independent preparation; user selection is required for Step 2.
+- [Official job](https://www.usajobs.gov/job/890832000)
+
 ### Naval Special Warfare Command — SUPERVISORY FINANCIAL MANAGEMENT ANALYST
 
 - Stable ID: `66c5f64fa0b81d56`
@@ -941,6 +1589,30 @@ Last refresh: 2026-11-02 22:44:05 EST. Verification status is preserved; unknown
 - Attention: Hiring-path eligibility unverified: Competitive service, Career transition (CTAP, ICTAP, RPL), Land and base management, Veterans, Military spouses, Individuals with disabilities, Special authorities. Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
 - Next action: Complete remaining independent preparation; user selection is required for Step 2.
 - [Official job](https://www.usajobs.gov/job/890448300)
+
+### Naval Systems Management Activity — FINANCIAL MANAGEMENT ANALYST
+
+- Stable ID: `6a6ba531cbe948e4`
+- Location: Joint Base Anacostia-Bolling, DC
+- Role / supported fit: Financial forecasting, capital/ROE, quantitative risk and engineering leadership overlap; federal budget/accounting/policy specialties remain attention items.
+- Deadline: 2026-11-05
+- Status: needs_verification; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/6a6ba531cbe948e4__resume-xuewu-cai__naval-systems-management-activity__financial-management-analyst__891472900.pdf)
+- Attention: Hiring-path eligibility unverified: Special authorities. Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
+- Next action: Complete remaining independent preparation; user selection is required for Step 2.
+- [Official job](https://www.usajobs.gov/job/891472900)
+
+### Naval Systems Management Activity — IT SPECIALIST (NETWORK/ENTARCH)
+
+- Stable ID: `ede4f82b5c6f8324`
+- Location: Joint Base Anacostia-Bolling, DC
+- Role / supported fit: Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.
+- Deadline: 2026-11-05
+- Status: needs_verification; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/ede4f82b5c6f8324__resume-xuewu-cai__naval-systems-management-activity__it-specialist-network-entarch__890954100.pdf)
+- Attention: Hiring-path eligibility unverified: Special authorities. Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
+- Next action: Complete remaining independent preparation; user selection is required for Step 2.
+- [Official job](https://www.usajobs.gov/job/890954100)
 
 ### Nuclear Regulatory Commission — Financial Analyst
 
@@ -978,18 +1650,6 @@ Last refresh: 2026-11-02 22:44:05 EST. Verification status is preserved; unknown
 - Next action: Complete remaining independent preparation; user selection is required for Step 2.
 - [Official job](https://www.usajobs.gov/job/889742300)
 
-### Office of Naval Research — FINANCIAL AND ADMINISTRATIVE MANAGEMENT SPECIALIST
-
-- Stable ID: `a397af38cd85379a`
-- Location: Naval Research Laboratory, DC
-- Role / supported fit: Financial forecasting, capital/ROE, quantitative risk and engineering leadership overlap; federal budget/accounting/policy specialties remain attention items.
-- Deadline: 2026-11-02
-- Status: needs_verification; resume: prepared_with_attention
-- Current resume: [PDF](../resumes/a397af38cd85379a__resume-xuewu-cai__office-of-naval-research__financial-and-administrative-management-specialist__889661400.pdf)
-- Attention: Hiring-path eligibility unverified: Internal to an agency, Career transition (CTAP, ICTAP, RPL), Land and base management, Veterans, Military spouses, Individuals with disabilities, Special authorities. Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
-- Next action: Complete remaining independent preparation; user selection is required for Step 2.
-- [Official job](https://www.usajobs.gov/job/889661400)
-
 ### Office of Naval Research — FINANCIAL MANAGEMENT ANALYST
 
 - Stable ID: `d75a43630041243b`
@@ -1013,6 +1673,30 @@ Last refresh: 2026-11-02 22:44:05 EST. Verification status is preserved; unknown
 - Attention: Confirm the announcement-specific specialized experience, grade-equivalent scope and mandatory conditions against your actual work history. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
 - Next action: Complete remaining independent preparation; user selection is required for Step 2.
 - [Official job](https://www.usajobs.gov/job/888508400)
+
+### Office of Personnel Management — Supervisory Budget Analyst
+
+- Stable ID: `541b867e85a582e1`
+- Location: Washington, DC
+- Role / supported fit: Enterprise forecasting, capital planning, portfolio risk/valuation, financial reporting and leadership overlap. Exact federal accounting, budget, investment governance and grade-equivalent requirements remain unverified.
+- Deadline: 2026-11-17
+- Status: needs_verification; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/541b867e85a582e1__resume-xuewu-cai__office-of-personnel-management__supervisory-budget-analyst__891415200.pdf)
+- Attention: Hiring-path eligibility unverified: Internal to an agency, Career transition (CTAP, ICTAP, RPL). Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Verify OMB/federal budget procedures against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
+- Next action: Complete remaining independent preparation; user selection is required for Step 2.
+- [Official job](https://www.usajobs.gov/job/891415200)
+
+### Office of the Director of National Intelligence — Budget Justification Chief
+
+- Stable ID: `a9a44096934dec6d`
+- Location: McLean, VA
+- Role / supported fit: Enterprise forecasting, capital planning, portfolio risk/valuation, financial reporting and leadership overlap. Exact federal accounting, budget, investment governance and grade-equivalent requirements remain unverified.
+- Deadline: 2026-11-18
+- Status: needs_verification; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/a9a44096934dec6d__resume-xuewu-cai__office-of-the-director-of-national-intel__budget-justification-chief__891509800.pdf)
+- Attention: Verify OMB/federal budget procedures against the exact qualification clause; not established by the baseline alone. Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
+- Next action: Complete remaining independent preparation; user selection is required for Step 2.
+- [Official job](https://www.usajobs.gov/job/891509800)
 
 ### Office of the Director of National Intelligence — Financial Manager
 
@@ -1049,6 +1733,18 @@ Last refresh: 2026-11-02 22:44:05 EST. Verification status is preserved; unknown
 - Attention: Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
 - Next action: Complete remaining independent preparation; user selection is required for Step 2.
 - [Official job](https://www.usajobs.gov/job/886558900)
+
+### Office of the Inspector General — IT Development and Analysis (Enterprise Applications Engineer)
+
+- Stable ID: `71a900912646410e`
+- Location: Washington, DC
+- Role / supported fit: Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.
+- Deadline: 2026-11-18
+- Status: needs_verification; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/71a900912646410e__resume-xuewu-cai__office-of-the-inspector-general__it-development-and-analysis-enterprise-applications-engineer__891335300.pdf)
+- Attention: Verify Power Platform experience against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
+- Next action: Complete remaining independent preparation; user selection is required for Step 2.
+- [Official job](https://www.usajobs.gov/job/891335300)
 
 ### Office of the Inspector General, USPS — Data Scientist Specialist
 
@@ -1122,17 +1818,41 @@ Last refresh: 2026-11-02 22:44:05 EST. Verification status is preserved; unknown
 - Next action: Complete remaining independent preparation; user selection is required for Step 2.
 - [Official job](https://www.usajobs.gov/job/890935200)
 
-### Risk Management Agency — Risk Management Specialist
+### Pension Benefit Guaranty Corporation — INTERDISCIPLINARY (DATA SCIENTIST/ECONOMIST)
 
-- Stable ID: `7bb064a63f4b534c`
-- Location: Location Negotiable After Selection (20 locations)
-- Role / supported fit: Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.
-- Deadline: 2026-11-02
+- Stable ID: `950f39a4c23b500e`
+- Location: Washington, DC
+- Role / supported fit: Financial forecasting, capital/ROE, quantitative risk and engineering leadership overlap; federal budget/accounting/policy specialties remain attention items.
+- Deadline: 2026-11-19
 - Status: needs_verification; resume: prepared_with_attention
-- Current resume: [PDF](../resumes/7bb064a63f4b534c__resume-xuewu-cai__risk-management-agency__risk-management-specialist__889890900.pdf)
-- Attention: Hiring-path eligibility unverified: Internal to an agency, Career transition (CTAP, ICTAP, RPL). Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
+- Current resume: [PDF](../resumes/950f39a4c23b500e__resume-xuewu-cai__pension-benefit-guaranty-corporation__interdisciplinary-data-scientist-economist__891340900.pdf)
+- Attention: Verify economics coursework/credit requirements against the exact qualification clause; not established by the baseline alone. Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
 - Next action: Complete remaining independent preparation; user selection is required for Step 2.
-- [Official job](https://www.usajobs.gov/job/889890900)
+- [Official job](https://www.usajobs.gov/job/891340900)
+
+### Railroad Retirement Board — IT Specialist (Data Engineer)
+
+- Stable ID: `9a9d816e41ac8549`
+- Location: Washington, DC; Baltimore, MD; Richmond, VA; Roanoke, VA
+- Role / supported fit: Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.
+- Deadline: 2026-11-13
+- Status: needs_verification; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/9a9d816e41ac8549__resume-xuewu-cai__railroad-retirement-board__it-specialist-data-engineer__891337300.pdf)
+- Attention: Confirm the announcement-specific specialized experience, grade-equivalent scope and mandatory conditions against your actual work history. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them. Possible companion route(s): bd1bfb118d09f54e. Reconcile exact vacancy before submitting; no duplicate applications.
+- Next action: Complete remaining independent preparation; user selection is required for Step 2.
+- [Official job](https://www.usajobs.gov/job/891337300)
+
+### Railroad Retirement Board — IT Specialist (Data Engineer)
+
+- Stable ID: `bd1bfb118d09f54e`
+- Location: Washington, DC; Baltimore, MD; Richmond, VA; Roanoke, VA
+- Role / supported fit: Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.
+- Deadline: 2026-11-13
+- Status: needs_verification; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/bd1bfb118d09f54e__resume-xuewu-cai__railroad-retirement-board__it-specialist-data-engineer__891337400.pdf)
+- Attention: Hiring-path eligibility unverified: Competitive service, Career transition (CTAP, ICTAP, RPL), Land and base management, Veterans, Military spouses, Family of overseas employees, Peace Corps & AmeriCorps Vista. Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them. Possible companion route(s): 9a9d816e41ac8549. Reconcile exact vacancy before submitting; no duplicate applications.
+- Next action: Complete remaining independent preparation; user selection is required for Step 2.
+- [Official job](https://www.usajobs.gov/job/891337400)
 
 ### STRATEGIC SYSTEMS PROGRAMS (SSP) — BUSINESS FINANCIAL MANAGER
 
@@ -1158,6 +1878,18 @@ Last refresh: 2026-11-02 22:44:05 EST. Verification status is preserved; unknown
 - Next action: Complete remaining independent preparation; user selection is required for Step 2.
 - [Official job](https://www.usajobs.gov/job/889530100)
 
+### Secretary of the Navy Offices (SECNAV) — PROGRAM ANALYST (CYBER INFRASTRUCTURE)
+
+- Stable ID: `8cf1f87fd85985c8`
+- Location: Pentagon, Arlington, VA
+- Role / supported fit: Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.
+- Deadline: 2026-11-03
+- Status: needs_verification; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/8cf1f87fd85985c8__resume-xuewu-cai__secretary-of-the-navy-offices-secnav__program-analyst-cyber-infrastructure__889812300.pdf)
+- Attention: Hiring-path eligibility unverified: Internal to an agency, Career transition (CTAP, ICTAP, RPL), Land and base management, Veterans, Military spouses, Individuals with disabilities, Special authorities. Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
+- Next action: Complete remaining independent preparation; user selection is required for Step 2.
+- [Official job](https://www.usajobs.gov/job/889812300)
+
 ### Securities and Exchange Commission — Financial Economist
 
 - Stable ID: `faa484188f9b969a`
@@ -1182,17 +1914,53 @@ Last refresh: 2026-11-02 22:44:05 EST. Verification status is preserved; unknown
 - Next action: Complete remaining independent preparation; user selection is required for Step 2.
 - [Official job](https://www.usajobs.gov/job/890676500)
 
-### Social Security Administration — Head of Tech Finance
+### Securities and Exchange Commission — Web Developer
 
-- Stable ID: `b6f24c3fd93797f0`
-- Location: Woodlawn, MD
-- Role / supported fit: Financial forecasting, capital/ROE, quantitative risk and engineering leadership overlap; federal budget/accounting/policy specialties remain attention items.
-- Deadline: 2026-11-02
+- Stable ID: `a1c8e0fa9c727f35`
+- Location: Washington, DC
+- Role / supported fit: Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.
+- Deadline: 2026-11-18
 - Status: needs_verification; resume: prepared_with_attention
-- Current resume: [PDF](../resumes/b6f24c3fd93797f0__resume-xuewu-cai__social-security-administration__head-of-tech-finance__889254700.pdf)
-- Attention: Hiring-path eligibility unverified: Competitive service, Excepted service, Senior executives. Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Verify Federal capital planning/CPIC experience against the exact qualification clause; not established by the baseline alone. Verify FITARA experience against the exact qualification clause; not established by the baseline alone. Verify OMB/federal budget procedures against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
+- Current resume: [PDF](../resumes/a1c8e0fa9c727f35__resume-xuewu-cai__securities-and-exchange-commission__web-developer__891498900.pdf)
+- Attention: Hiring-path eligibility unverified: Internal to an agency. Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
 - Next action: Complete remaining independent preparation; user selection is required for Step 2.
-- [Official job](https://www.usajobs.gov/job/889254700)
+- [Official job](https://www.usajobs.gov/job/891498900)
+
+### Smithsonian Institution  — IT Specialist
+
+- Stable ID: `24e16b875d4a2dad`
+- Location: Washington, DC
+- Role / supported fit: Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.
+- Deadline: 2026-11-17
+- Status: needs_verification; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/24e16b875d4a2dad__resume-xuewu-cai__smithsonian-institution__it-specialist__891321200.pdf)
+- Attention: Hiring-path eligibility unverified: Competitive service, Land and base management, Veterans, Military spouses, Individuals with disabilities, Family of overseas employees, Peace Corps & AmeriCorps Vista, Special authorities. Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them. Possible companion route(s): e3f945b0251dce78. Reconcile exact vacancy before submitting; no duplicate applications.
+- Next action: Complete remaining independent preparation; user selection is required for Step 2.
+- [Official job](https://www.usajobs.gov/job/891321200)
+
+### Smithsonian Institution  — IT Specialist
+
+- Stable ID: `e3f945b0251dce78`
+- Location: Washington, DC
+- Role / supported fit: Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.
+- Deadline: 2026-11-17
+- Status: needs_verification; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/e3f945b0251dce78__resume-xuewu-cai__smithsonian-institution__it-specialist__891321000.pdf)
+- Attention: Confirm the announcement-specific specialized experience, grade-equivalent scope and mandatory conditions against your actual work history. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them. Possible companion route(s): 24e16b875d4a2dad. Reconcile exact vacancy before submitting; no duplicate applications.
+- Next action: Complete remaining independent preparation; user selection is required for Step 2.
+- [Official job](https://www.usajobs.gov/job/891321000)
+
+### Social Security Administration — Supervisory IT Specialist (SYSADM)
+
+- Stable ID: `9a0ef43328ec4c22`
+- Location: Urbana, MD; Woodlawn, MD
+- Role / supported fit: Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.
+- Deadline: 2026-11-09
+- Status: needs_verification; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/9a0ef43328ec4c22__resume-xuewu-cai__social-security-administration__supervisory-it-specialist-sysadm__891247900.pdf)
+- Attention: Hiring-path eligibility unverified: Internal to an agency. Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
+- Next action: Complete remaining independent preparation; user selection is required for Step 2.
+- [Official job](https://www.usajobs.gov/job/891247900)
 
 ### Technology Transformation Service — Al Software Engineer
 
@@ -1230,17 +1998,29 @@ Last refresh: 2026-11-02 22:44:05 EST. Verification status is preserved; unknown
 - Next action: Complete remaining independent preparation; user selection is required for Step 2.
 - [Official job](https://www.usajobs.gov/job/890115200)
 
-### Treasury, Departmental Offices — Senior Financial Stability Policy Advisor
+### Treasury, Departmental Offices — Senior Cybersecurity Specialist
 
-- Stable ID: `55ed282f8e415eed`
+- Stable ID: `f722facd9ea10338`
 - Location: Washington, DC
-- Role / supported fit: Financial forecasting, capital/ROE, quantitative risk and engineering leadership overlap; federal budget/accounting/policy specialties remain attention items.
-- Deadline: 2026-11-02
+- Role / supported fit: Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.
+- Deadline: 2026-11-09
 - Status: needs_verification; resume: prepared_with_attention
-- Current resume: [PDF](../resumes/55ed282f8e415eed__resume-xuewu-cai__treasury-departmental-offices__senior-financial-stability-policy-advisor__890259600.pdf)
-- Attention: Hiring-path eligibility unverified: Internal to an agency. Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
+- Current resume: [PDF](../resumes/f722facd9ea10338__resume-xuewu-cai__treasury-departmental-offices__senior-cybersecurity-specialist__891340600.pdf)
+- Attention: Hiring-path eligibility unverified: Internal to an agency, Career transition (CTAP, ICTAP, RPL). Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
 - Next action: Complete remaining independent preparation; user selection is required for Step 2.
-- [Official job](https://www.usajobs.gov/job/890259600)
+- [Official job](https://www.usajobs.gov/job/891340600)
+
+### U.S. Army Corps of Engineers — Civilian Pay Specialist
+
+- Stable ID: `d6a7dd0b9fb087e2`
+- Location: Alexandria, VA
+- Role / supported fit: Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.
+- Deadline: 2026-11-10
+- Status: needs_verification; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/d6a7dd0b9fb087e2__resume-xuewu-cai__u-s-army-corps-of-engineers__civilian-pay-specialist__891174100.pdf)
+- Attention: Hiring-path eligibility unverified: Competitive service, Career transition (CTAP, ICTAP, RPL), Land and base management, Veterans, Military spouses. Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
+- Next action: Complete remaining independent preparation; user selection is required for Step 2.
+- [Official job](https://www.usajobs.gov/job/891174100)
 
 ### U.S. Army Cyber Command — SUPV IT SPECIALIST (NETWORK/PLCYPLN)
 
@@ -1338,6 +2118,30 @@ Last refresh: 2026-11-02 22:44:05 EST. Verification status is preserved; unknown
 - Next action: Complete remaining independent preparation; user selection is required for Step 2.
 - [Official job](https://www.usajobs.gov/job/890332000)
 
+### U.S. Marine Corps — JR MERCHANDISE PLANNER NF3
+
+- Stable ID: `322be1a7e4b70e01`
+- Location: Quantico, VA
+- Role / supported fit: Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.
+- Deadline: 2026-11-17
+- Status: needs_verification; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/322be1a7e4b70e01__resume-xuewu-cai__u-s-marine-corps__jr-merchandise-planner-nf3__891369800.pdf)
+- Attention: Confirm the announcement-specific specialized experience, grade-equivalent scope and mandatory conditions against your actual work history. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
+- Next action: Complete remaining independent preparation; user selection is required for Step 2.
+- [Official job](https://www.usajobs.gov/job/891369800)
+
+### US Army Civilian Human Resources Agency — Information Technology Specialist (Applications Software)
+
+- Stable ID: `0efa99eb9804aac0`
+- Location: Fort Belvoir, VA
+- Role / supported fit: Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.
+- Deadline: 2026-11-06
+- Status: needs_verification; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/0efa99eb9804aac0__resume-xuewu-cai__us-army-civilian-human-resources-agency__information-technology-specialist-applications-software__891460300.pdf)
+- Attention: Hiring-path eligibility unverified: Competitive service, Career transition (CTAP, ICTAP, RPL), Land and base management, Veterans, Military spouses. Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
+- Next action: Complete remaining independent preparation; user selection is required for Step 2.
+- [Official job](https://www.usajobs.gov/job/891460300)
+
 ### United States Army Installation Management Command — Financial Manager NF-04
 
 - Stable ID: `dcba9f7b8bcbff94`
@@ -1364,18 +2168,6 @@ Last refresh: 2026-11-02 22:44:05 EST. Verification status is preserved; unknown
 
 ### United States Fleet Forces Command — FINANCIAL MANAGEMENT ANALYST
 
-- Stable ID: `152d65ca43c79388`
-- Location: Little Creek Amphibious Base, VA
-- Role / supported fit: Financial forecasting, capital/ROE, quantitative risk and engineering leadership overlap; federal budget/accounting/policy specialties remain attention items.
-- Deadline: 2026-11-02
-- Status: needs_verification; resume: prepared_with_attention
-- Current resume: [PDF](../resumes/152d65ca43c79388__resume-xuewu-cai__united-states-fleet-forces-command__financial-management-analyst__890195900.pdf)
-- Attention: Hiring-path eligibility unverified: Internal to an agency, Career transition (CTAP, ICTAP, RPL), Land and base management, Veterans, Military spouses, Individuals with disabilities, Special authorities. Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
-- Next action: Complete remaining independent preparation; user selection is required for Step 2.
-- [Official job](https://www.usajobs.gov/job/890195900)
-
-### United States Fleet Forces Command — FINANCIAL MANAGEMENT ANALYST
-
 - Stable ID: `436289cfa1d82e7e`
 - Location: Fort Meade, MD
 - Role / supported fit: Financial forecasting, capital/ROE, quantitative risk and engineering leadership overlap; federal budget/accounting/policy specialties remain attention items.
@@ -1388,18 +2180,6 @@ Last refresh: 2026-11-02 22:44:05 EST. Verification status is preserved; unknown
 
 ### United States Fleet Forces Command — FINANCIAL MANAGEMENT ANALYST
 
-- Stable ID: `88696fa38e9b21ee`
-- Location: Norfolk, VA
-- Role / supported fit: Financial forecasting, capital/ROE, quantitative risk and engineering leadership overlap; federal budget/accounting/policy specialties remain attention items.
-- Deadline: 2026-11-02
-- Status: needs_verification; resume: prepared_with_attention
-- Current resume: [PDF](../resumes/88696fa38e9b21ee__resume-xuewu-cai__united-states-fleet-forces-command__financial-management-analyst__890209700.pdf)
-- Attention: Hiring-path eligibility unverified: Internal to an agency, Career transition (CTAP, ICTAP, RPL), Land and base management, Veterans, Military spouses, Individuals with disabilities, Special authorities. Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
-- Next action: Complete remaining independent preparation; user selection is required for Step 2.
-- [Official job](https://www.usajobs.gov/job/890209700)
-
-### United States Fleet Forces Command — FINANCIAL MANAGEMENT ANALYST
-
 - Stable ID: `9a55088713f12ed3`
 - Location: Naval Base, Norfolk, VA
 - Role / supported fit: Financial forecasting, capital/ROE, quantitative risk and engineering leadership overlap; federal budget/accounting/policy specialties remain attention items.
@@ -1409,6 +2189,30 @@ Last refresh: 2026-11-02 22:44:05 EST. Verification status is preserved; unknown
 - Attention: Hiring-path eligibility unverified: Internal to an agency, Career transition (CTAP, ICTAP, RPL), Land and base management, Veterans, Military spouses, Individuals with disabilities, Special authorities. Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
 - Next action: Complete remaining independent preparation; user selection is required for Step 2.
 - [Official job](https://www.usajobs.gov/job/890983000)
+
+### United States Fleet Forces Command — Financial Management Specialist
+
+- Stable ID: `dd6efb37ea870f01`
+- Location: Fort Meade Naval Facilities, MD
+- Role / supported fit: Financial forecasting, capital/ROE, quantitative risk and engineering leadership overlap; federal budget/accounting/policy specialties remain attention items.
+- Deadline: 2026-11-16
+- Status: needs_verification; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/dd6efb37ea870f01__resume-xuewu-cai__united-states-fleet-forces-command__financial-management-specialist__891219100.pdf)
+- Attention: Hiring-path eligibility unverified: Internal to an agency. Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
+- Next action: Complete remaining independent preparation; user selection is required for Step 2.
+- [Official job](https://www.usajobs.gov/job/891219100)
+
+### United States Fleet Forces Command — INFORMATION TECHNOLOGY SPECIALIST (SECURITY)
+
+- Stable ID: `e967180ed7edcc32`
+- Location: Andrews AFB, MD
+- Role / supported fit: Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.
+- Deadline: 2026-11-10
+- Status: needs_verification; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/e967180ed7edcc32__resume-xuewu-cai__united-states-fleet-forces-command__information-technology-specialist-security__891389500.pdf)
+- Attention: Confirm the announcement-specific specialized experience, grade-equivalent scope and mandatory conditions against your actual work history. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
+- Next action: Complete remaining independent preparation; user selection is required for Step 2.
+- [Official job](https://www.usajobs.gov/job/891389500)
 
 ### United States Fleet Forces Command — IT SPECIALIST (PLCYPLN)
 
@@ -1434,6 +2238,30 @@ Last refresh: 2026-11-02 22:44:05 EST. Verification status is preserved; unknown
 - Next action: Complete remaining independent preparation; user selection is required for Step 2.
 - [Official job](https://www.usajobs.gov/job/890647200)
 
+### United States Fleet Forces Command — SUPERVISORY FINANCIAL MANAGEMENT ANALYST
+
+- Stable ID: `b6e38ce4261424f2`
+- Location: Naval Base, Norfolk, VA
+- Role / supported fit: Financial forecasting, capital/ROE, quantitative risk and engineering leadership overlap; federal budget/accounting/policy specialties remain attention items.
+- Deadline: 2026-11-09
+- Status: needs_verification; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/b6e38ce4261424f2__resume-xuewu-cai__united-states-fleet-forces-command__supervisory-financial-management-analyst__891165800.pdf)
+- Attention: Hiring-path eligibility unverified: Internal to an agency, Career transition (CTAP, ICTAP, RPL), Land and base management, Veterans, Military spouses, Individuals with disabilities, Special authorities. Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Verify OMB/federal budget procedures against the exact qualification clause; not established by the baseline alone. Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
+- Next action: Complete remaining independent preparation; user selection is required for Step 2.
+- [Official job](https://www.usajobs.gov/job/891165800)
+
+### United States Fleet Forces Command — SUPERVISORY INFORMATION TECHNOLOGY SPECIALIST (SECURITY)
+
+- Stable ID: `201031e1846f815c`
+- Location: Fort Meade, MD
+- Role / supported fit: Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.
+- Deadline: 2026-11-09
+- Status: needs_verification; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/201031e1846f815c__resume-xuewu-cai__united-states-fleet-forces-command__supervisory-information-technology-specialist-security__891251300.pdf)
+- Attention: Hiring-path eligibility unverified: Internal to an agency. Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
+- Next action: Complete remaining independent preparation; user selection is required for Step 2.
+- [Official job](https://www.usajobs.gov/job/891251300)
+
 ### United States Sentencing Commission — Software Engineer and Data Automation Specialist
 
 - Stable ID: `16f54e578b2089d3`
@@ -1457,3 +2285,173 @@ Last refresh: 2026-11-02 22:44:05 EST. Verification status is preserved; unknown
 - Attention: Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.
 - Next action: Complete remaining independent preparation; user selection is required for Step 2.
 - [Official job](https://www.usajobs.gov/job/891088400)
+
+## Recorded exclusions — recheck evidence
+
+### Air Force District of Washington — SUPERVISORY IT SPECIALIST (PLCYPLN/ENTARCH)
+
+- Stable ID: `d1d8504c423b7a72`
+- Location: Andrews AFB, MD
+- Role / supported fit: Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.
+- Deadline: 2026-11-02
+- Status: closed; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/d1d8504c423b7a72__resume-xuewu-cai__air-force-district-of-washington__supervisory-it-specialist-plcypln-entarch__889585100.pdf)
+- Attention: Hiring-path eligibility unverified: Competitive service, Excepted service, Career transition (CTAP, ICTAP, RPL), Land and base management, Veterans, Military spouses. Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them. Closed: official closing date 2026-11-02 has passed; do not start Step 2 unless agency verifies reopening.
+- Next action: Review recorded exclusion evidence; retain only clear exclusions under current policy.
+- [Official job](https://www.usajobs.gov/job/889585100)
+
+### Centers for Medicare & Medicaid Services — IT SPECIALIST (SYSANALYSIS)
+
+- Stable ID: `db34cdb1ec37ce24`
+- Location: Woodlawn, MD
+- Role / supported fit: Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.
+- Deadline: 2026-11-02
+- Status: closed; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/db34cdb1ec37ce24__resume-xuewu-cai__centers-for-medicare-medicaid-services__it-specialist-sysanalysis__890139900.pdf)
+- Attention: Hiring-path eligibility unverified: Internal to an agency, Career transition (CTAP, ICTAP, RPL). Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them. Closed: official closing date 2026-11-02 has passed; do not start Step 2 unless agency verifies reopening.
+- Next action: Review recorded exclusion evidence; retain only clear exclusions under current policy.
+- [Official job](https://www.usajobs.gov/job/890139900)
+
+### Defense Media Activity — Supervisory IT Specialist (PLCYPLN)
+
+- Stable ID: `646337038fc77897`
+- Location: Fort Meade, MD
+- Role / supported fit: Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.
+- Deadline: 2026-11-02
+- Status: closed; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/646337038fc77897__resume-xuewu-cai__defense-media-activity__supervisory-it-specialist-plcypln__889314000.pdf)
+- Attention: Confirm the announcement-specific specialized experience, grade-equivalent scope and mandatory conditions against your actual work history. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them. Closed: official closing date 2026-11-02 has passed; do not start Step 2 unless agency verifies reopening.
+- Next action: Review recorded exclusion evidence; retain only clear exclusions under current policy.
+- [Official job](https://www.usajobs.gov/job/889314000)
+
+### Department of State Headquarters — Financial Management Specialist
+
+- Stable ID: `3421ec0cbcf07ae5`
+- Location: Arlington, VA
+- Role / supported fit: Financial forecasting, capital/ROE, quantitative risk and engineering leadership overlap; federal budget/accounting/policy specialties remain attention items.
+- Deadline: 2026-11-02
+- Status: closed; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/3421ec0cbcf07ae5__resume-xuewu-cai__department-of-state-headquarters__financial-management-specialist__890281500.pdf)
+- Attention: Hiring-path eligibility unverified: Competitive service, Career transition (CTAP, ICTAP, RPL), Land and base management, Veterans, Military spouses, Individuals with disabilities, Family of overseas employees, Peace Corps & AmeriCorps Vista, Special authorities. Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them. Closed: official closing date 2026-11-02 has passed; do not start Step 2 unless agency verifies reopening.
+- Next action: Review recorded exclusion evidence; retain only clear exclusions under current policy.
+- [Official job](https://www.usajobs.gov/job/890281500)
+
+### Department of State Headquarters — Information Technology Specialist
+
+- Stable ID: `d78419e053f71328`
+- Location: Washington, DC
+- Role / supported fit: Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.
+- Deadline: 2026-11-02
+- Status: closed; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/d78419e053f71328__resume-xuewu-cai__department-of-state-headquarters__information-technology-specialist__890259900.pdf)
+- Attention: Hiring-path eligibility unverified: Internal to an agency, Career transition (CTAP, ICTAP, RPL). Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them. Closed: official closing date 2026-11-02 has passed; do not start Step 2 unless agency verifies reopening.
+- Next action: Review recorded exclusion evidence; retain only clear exclusions under current policy.
+- [Official job](https://www.usajobs.gov/job/890259900)
+
+### Immediate Office of the Chief of Naval Operations — FINANCIAL MANAGEMENT ANALYST
+
+- Stable ID: `a831f3575bd04487`
+- Location: Washington Navy Yard, DC
+- Role / supported fit: Financial forecasting, capital/ROE, quantitative risk and engineering leadership overlap; federal budget/accounting/policy specialties remain attention items.
+- Deadline: 2026-11-02
+- Status: closed; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/a831f3575bd04487__resume-xuewu-cai__immediate-office-of-the-chief-of-naval-o__financial-management-analyst__890243000.pdf)
+- Attention: Hiring-path eligibility unverified: Internal to an agency, Career transition (CTAP, ICTAP, RPL), Land and base management, Veterans, Military spouses, Individuals with disabilities, Special authorities. Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them. Closed: official closing date 2026-11-02 has passed; do not start Step 2 unless agency verifies reopening.
+- Next action: Review recorded exclusion evidence; retain only clear exclusions under current policy.
+- [Official job](https://www.usajobs.gov/job/890243000)
+
+### Immediate Office of the Chief of Naval Operations — FINANCIAL MANAGER
+
+- Stable ID: `6aef35ff9790625f`
+- Location: Naval Base, Norfolk, VA
+- Role / supported fit: Financial forecasting, capital/ROE, quantitative risk and engineering leadership overlap; federal budget/accounting/policy specialties remain attention items.
+- Deadline: 2026-11-02
+- Status: closed; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/6aef35ff9790625f__resume-xuewu-cai__immediate-office-of-the-chief-of-naval-o__financial-manager__890639100.pdf)
+- Attention: Hiring-path eligibility unverified: Internal to an agency, Career transition (CTAP, ICTAP, RPL), Land and base management, Veterans, Military spouses, Individuals with disabilities, Special authorities. Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Verify OMB/federal budget procedures against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them. Closed: official closing date 2026-11-02 has passed; do not start Step 2 unless agency verifies reopening.
+- Next action: Review recorded exclusion evidence; retain only clear exclusions under current policy.
+- [Official job](https://www.usajobs.gov/job/890639100)
+
+### Naval Air Systems Command — FINANCIAL MANAGEMENT ANALYST
+
+- Stable ID: `ff041cce574de473`
+- Location: Patuxent River, MD
+- Role / supported fit: Financial forecasting, capital/ROE, quantitative risk and engineering leadership overlap; federal budget/accounting/policy specialties remain attention items.
+- Deadline: 2026-11-02
+- Status: closed; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/ff041cce574de473__resume-xuewu-cai__naval-air-systems-command__financial-management-analyst__890119500.pdf)
+- Attention: Hiring-path eligibility unverified: Internal to an agency, Career transition (CTAP, ICTAP, RPL), Land and base management, Veterans, Military spouses, Individuals with disabilities, Special authorities. Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them. Closed: official closing date 2026-11-02 has passed; do not start Step 2 unless agency verifies reopening.
+- Next action: Review recorded exclusion evidence; retain only clear exclusions under current policy.
+- [Official job](https://www.usajobs.gov/job/890119500)
+
+### Office of Naval Research — FINANCIAL AND ADMINISTRATIVE MANAGEMENT SPECIALIST
+
+- Stable ID: `a397af38cd85379a`
+- Location: Naval Research Laboratory, DC
+- Role / supported fit: Financial forecasting, capital/ROE, quantitative risk and engineering leadership overlap; federal budget/accounting/policy specialties remain attention items.
+- Deadline: 2026-11-02
+- Status: closed; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/a397af38cd85379a__resume-xuewu-cai__office-of-naval-research__financial-and-administrative-management-specialist__889661400.pdf)
+- Attention: Hiring-path eligibility unverified: Internal to an agency, Career transition (CTAP, ICTAP, RPL), Land and base management, Veterans, Military spouses, Individuals with disabilities, Special authorities. Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them. Closed: official closing date 2026-11-02 has passed; do not start Step 2 unless agency verifies reopening.
+- Next action: Review recorded exclusion evidence; retain only clear exclusions under current policy.
+- [Official job](https://www.usajobs.gov/job/889661400)
+
+### Risk Management Agency — Risk Management Specialist
+
+- Stable ID: `7bb064a63f4b534c`
+- Location: Location Negotiable After Selection (20 locations)
+- Role / supported fit: Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.
+- Deadline: 2026-11-02
+- Status: closed; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/7bb064a63f4b534c__resume-xuewu-cai__risk-management-agency__risk-management-specialist__889890900.pdf)
+- Attention: Hiring-path eligibility unverified: Internal to an agency, Career transition (CTAP, ICTAP, RPL). Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them. Closed: official closing date 2026-11-02 has passed; do not start Step 2 unless agency verifies reopening.
+- Next action: Review recorded exclusion evidence; retain only clear exclusions under current policy.
+- [Official job](https://www.usajobs.gov/job/889890900)
+
+### Social Security Administration — Head of Tech Finance
+
+- Stable ID: `b6f24c3fd93797f0`
+- Location: Woodlawn, MD
+- Role / supported fit: Financial forecasting, capital/ROE, quantitative risk and engineering leadership overlap; federal budget/accounting/policy specialties remain attention items.
+- Deadline: 2026-11-02
+- Status: closed; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/b6f24c3fd93797f0__resume-xuewu-cai__social-security-administration__head-of-tech-finance__889254700.pdf)
+- Attention: Hiring-path eligibility unverified: Competitive service, Excepted service, Senior executives. Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Verify Federal capital planning/CPIC experience against the exact qualification clause; not established by the baseline alone. Verify FITARA experience against the exact qualification clause; not established by the baseline alone. Verify OMB/federal budget procedures against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them. Closed: official closing date 2026-11-02 has passed; do not start Step 2 unless agency verifies reopening.
+- Next action: Review recorded exclusion evidence; retain only clear exclusions under current policy.
+- [Official job](https://www.usajobs.gov/job/889254700)
+
+### Treasury, Departmental Offices — Senior Financial Stability Policy Advisor
+
+- Stable ID: `55ed282f8e415eed`
+- Location: Washington, DC
+- Role / supported fit: Financial forecasting, capital/ROE, quantitative risk and engineering leadership overlap; federal budget/accounting/policy specialties remain attention items.
+- Deadline: 2026-11-02
+- Status: closed; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/55ed282f8e415eed__resume-xuewu-cai__treasury-departmental-offices__senior-financial-stability-policy-advisor__890259600.pdf)
+- Attention: Hiring-path eligibility unverified: Internal to an agency. Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them. Closed: official closing date 2026-11-02 has passed; do not start Step 2 unless agency verifies reopening.
+- Next action: Review recorded exclusion evidence; retain only clear exclusions under current policy.
+- [Official job](https://www.usajobs.gov/job/890259600)
+
+### United States Fleet Forces Command — FINANCIAL MANAGEMENT ANALYST
+
+- Stable ID: `152d65ca43c79388`
+- Location: Little Creek Amphibious Base, VA
+- Role / supported fit: Financial forecasting, capital/ROE, quantitative risk and engineering leadership overlap; federal budget/accounting/policy specialties remain attention items.
+- Deadline: 2026-11-02
+- Status: closed; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/152d65ca43c79388__resume-xuewu-cai__united-states-fleet-forces-command__financial-management-analyst__890195900.pdf)
+- Attention: Hiring-path eligibility unverified: Internal to an agency, Career transition (CTAP, ICTAP, RPL), Land and base management, Veterans, Military spouses, Individuals with disabilities, Special authorities. Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them. Closed: official closing date 2026-11-02 has passed; do not start Step 2 unless agency verifies reopening.
+- Next action: Review recorded exclusion evidence; retain only clear exclusions under current policy.
+- [Official job](https://www.usajobs.gov/job/890195900)
+
+### United States Fleet Forces Command — FINANCIAL MANAGEMENT ANALYST
+
+- Stable ID: `88696fa38e9b21ee`
+- Location: Norfolk, VA
+- Role / supported fit: Financial forecasting, capital/ROE, quantitative risk and engineering leadership overlap; federal budget/accounting/policy specialties remain attention items.
+- Deadline: 2026-11-02
+- Status: closed; resume: prepared_with_attention
+- Current resume: [PDF](../resumes/88696fa38e9b21ee__resume-xuewu-cai__united-states-fleet-forces-command__financial-management-analyst__890209700.pdf)
+- Attention: Hiring-path eligibility unverified: Internal to an agency, Career transition (CTAP, ICTAP, RPL), Land and base management, Veterans, Military spouses, Individuals with disabilities, Special authorities. Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them. Closed: official closing date 2026-11-02 has passed; do not start Step 2 unless agency verifies reopening.
+- Next action: Review recorded exclusion evidence; retain only clear exclusions under current policy.
+- [Official job](https://www.usajobs.gov/job/890209700)

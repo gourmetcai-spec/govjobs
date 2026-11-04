@@ -1,0 +1,87 @@
+{
+  "title": "Financial Institution Policy Analyst, Supervision Support Office - Supervision & Regulation",
+  "requisition_id": "R025954",
+  "canonical_url": "https://bd.wd104.myworkdayjobsgov.com/frb/job/Federal-Reserve-Board/Fin-Inst-Policy-Analyst-II--Supervision-Support-Office---Division-of-Supervision---Regulation_R025954",
+  "application_url": "https://bd.wd104.myworkdayjobsgov.com/frb/job/Federal-Reserve-Board/Fin-Inst-Policy-Analyst-II--Supervision-Support-Office---Division-of-Supervision---Regulation_R025954",
+  "posted_date": "2026-10-27",
+  "posted_date_evidence": "Official Federal Reserve Board Workday jobPostingInfo.startDate; retrieved source retained.",
+  "close_date": "2026-11-09",
+  "deadline_timezone": null,
+  "deadline_time": null,
+  "deadline_source": "https://bd.wd104.myworkdayjobsgov.com/frb/job/Federal-Reserve-Board/Fin-Inst-Policy-Analyst-II--Supervision-Support-Office---Division-of-Supervision---Regulation_R025954",
+  "deadline_verified": true,
+  "early_closure_conditions": [],
+  "rolling_cutoff": null,
+  "location": "Washington, DC",
+  "remote_restrictions": "Federal Reserve Board work location; Board headquarters is Washington DC. Confirm team-specific on-site/hybrid policy in official description; do not assume remote work.",
+  "salary": null,
+  "retrieved_at": "2026-11-04T01:27:13.427519+00:00",
+  "control_number": "R025954",
+  "fit": "Financial forecasting, capital/ROE, quantitative risk and engineering leadership overlap; federal budget/accounting/policy specialties remain attention items.",
+  "gaps": "Federal Reserve Board role: confirm the exact minimum years, domain expertise and required versus preferred qualifications against the saved official description. Unknown deadline means verify promptly; never assume open-ended hiring. Verify OMB/federal budget procedures against the exact qualification clause; not established by the baseline alone. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them. Possible companion route(s): 53df9061ab56f1f1. Reconcile exact vacancy before submitting; no duplicate applications.",
+  "requirements_confirmed_unmet": [],
+  "requirements_unverified": [
+    "Federal Reserve Board role: confirm the exact minimum years, domain expertise and required versus preferred qualifications against the saved official description. Unknown deadline means verify promptly; never assume open-ended hiring.",
+    "Verify OMB/federal budget procedures against the exact qualification clause; not established by the baseline alone.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.",
+    "Possible companion route(s): 53df9061ab56f1f1. Reconcile exact vacancy before submitting; no duplicate applications."
+  ],
+  "preferred_requirements_note": "See official qualifications/education sections; missing evidence does not establish an unmet requirement.",
+  "hiring_paths": [
+    "See Board qualifications; internship enrollment requirements remain unverified"
+  ],
+  "open_evidence": "Official Federal Reserve Board careers feed: canApply=true and posted=true; source jobPostingInfo retained.",
+  "discovery_window": [
+    "2026-09-03",
+    "2026-11-03"
+  ],
+  "employer": "Board of Governors of the Federal Reserve System",
+  "status": "needs_verification",
+  "aliases": [],
+  "id": "c114df1e4857e0e9",
+  "application_directory": "applications/2026-11-03__board-of-governors-of-the-federal-reserv__financial-institution-policy-analyst-supervision-support-office__c114df1e4857e0e9",
+  "step": 1,
+  "selected": false,
+  "submitted": false,
+  "artifacts": {
+    "resume_markdown": {
+      "path": "applications/2026-11-03__board-of-governors-of-the-federal-reserv__financial-institution-policy-analyst-supervision-support-office__c114df1e4857e0e9/resume-xuewu-cai__board-of-governors-of-the-federal-reserv__financial-institution-policy-analyst-supervision-support-office__r025954.md",
+      "sha256": "eacb5d4c889d06f01fc31dc5a184f49b5e1c65a0eba7051746f7494af56fb046"
+    },
+    "resume_pdf": {
+      "path": "applications/2026-11-03__board-of-governors-of-the-federal-reserv__financial-institution-policy-analyst-supervision-support-office__c114df1e4857e0e9/resume-xuewu-cai__board-of-governors-of-the-federal-reserv__financial-institution-policy-analyst-supervision-support-office__r025954.pdf",
+      "sha256": "16a671cd866e6487c095274a1eef8cb7d8b97939b59a45efc8ff9c6f2bf9dd0d"
+    }
+  },
+  "artifact_versions": [
+    {
+      "revision_id": "2026-11-04T01:27:13.427519+00:00",
+      "artifacts": {
+        "resume_markdown": {
+          "path": "applications/2026-11-03__board-of-governors-of-the-federal-reserv__financial-institution-policy-analyst-supervision-support-office__c114df1e4857e0e9/resume-xuewu-cai__board-of-governors-of-the-federal-reserv__financial-institution-policy-analyst-supervision-support-office__r025954.md",
+          "sha256": "eacb5d4c889d06f01fc31dc5a184f49b5e1c65a0eba7051746f7494af56fb046"
+        },
+        "resume_pdf": {
+          "path": "applications/2026-11-03__board-of-governors-of-the-federal-reserv__financial-institution-policy-analyst-supervision-support-office__c114df1e4857e0e9/resume-xuewu-cai__board-of-governors-of-the-federal-reserv__financial-institution-policy-analyst-supervision-support-office__r025954.pdf",
+          "sha256": "16a671cd866e6487c095274a1eef8cb7d8b97939b59a45efc8ff9c6f2bf9dd0d"
+        }
+      },
+      "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a"
+    }
+  ],
+  "resume_status": "prepared_with_attention",
+  "resume_review": "Two rendered pages reviewed; all 77 distinct page images inspected across seven boards covering 166 pages. Text bounds, all 20 baseline experience bullets, updated title, neutral metadata and artifact hashes passed. Candidate qualifications remain unverified.",
+  "required_answers_pending": [
+    "Federal Reserve Board role: confirm the exact minimum years, domain expertise and required versus preferred qualifications against the saved official description. Unknown deadline means verify promptly; never assume open-ended hiring.",
+    "Verify OMB/federal budget procedures against the exact qualification clause; not established by the baseline alone.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "confirmed_unmet_requirements": [],
+  "qualifications_verified": false,
+  "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a",
+  "resume_format": "restored_two_page",
+  "current_resume_naming": "unversioned",
+  "possible_companion_job_ids": [
+    "53df9061ab56f1f1"
+  ]
+}

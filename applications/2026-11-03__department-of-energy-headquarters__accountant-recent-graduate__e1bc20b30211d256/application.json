@@ -1,0 +1,89 @@
+{
+  "title": "Accountant - Recent Graduate",
+  "requisition_id": "27-0510-13106590-RG",
+  "canonical_url": "https://www.usajobs.gov/job/891272200",
+  "application_url": "https://www.usajobs.gov/job/891272200",
+  "posted_date": "2026-11-03",
+  "posted_date_evidence": "Official JobPosting.datePosted and native PositionStartDate",
+  "close_date": "2026-11-17",
+  "deadline_timezone": "America/New_York",
+  "deadline_time": "23:59",
+  "deadline_source": "https://www.usajobs.gov/job/891272200",
+  "deadline_verified": true,
+  "early_closure_conditions": [
+    "This job will close when we have received 250 applications which may be sooner than the closing date. Learn more"
+  ],
+  "rolling_cutoff": null,
+  "location": "Washington, DC; Germantown, MD",
+  "remote_restrictions": "Offered DMV work location; verify telework/attendance and screening conditions in announcement.",
+  "salary": "Starting at $50,460 Per year (GS 7-9)",
+  "retrieved_at": "2026-11-04T01:27:13.427519+00:00",
+  "control_number": "891272200",
+  "fit": "Enterprise forecasting, capital planning, portfolio risk/valuation, financial reporting and leadership overlap. Exact federal accounting, budget, investment governance and grade-equivalent requirements remain unverified.",
+  "gaps": "Hiring-path eligibility unverified: Recent graduates. Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Verify qualifying coursework and calculus credits against the exact qualification clause; not established by the baseline alone. Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone. Confirm graduate/student hiring-path dates and eligibility; degree completion dates are not in the baseline. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.",
+  "requirements_confirmed_unmet": [],
+  "requirements_unverified": [
+    "Hiring-path eligibility unverified: Recent graduates. Confirm qualifying status before application; absence from baseline is not proof of ineligibility.",
+    "Verify qualifying coursework and calculus credits against the exact qualification clause; not established by the baseline alone.",
+    "Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone.",
+    "Confirm graduate/student hiring-path dates and eligibility; degree completion dates are not in the baseline.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "preferred_requirements_note": "See official qualifications/education sections; missing evidence does not establish an unmet requirement.",
+  "hiring_paths": [
+    "Recent graduates"
+  ],
+  "open_evidence": "Official announcement downloaded successfully; validThrough and native open-status evidence retained.",
+  "discovery_window": [
+    "2026-09-03",
+    "2026-11-03"
+  ],
+  "employer": "Department of Energy Headquarters",
+  "status": "needs_verification",
+  "aliases": [],
+  "id": "e1bc20b30211d256",
+  "application_directory": "applications/2026-11-03__department-of-energy-headquarters__accountant-recent-graduate__e1bc20b30211d256",
+  "step": 1,
+  "selected": false,
+  "submitted": false,
+  "artifacts": {
+    "resume_markdown": {
+      "path": "applications/2026-11-03__department-of-energy-headquarters__accountant-recent-graduate__e1bc20b30211d256/resume-xuewu-cai__department-of-energy-headquarters__accountant-recent-graduate__891272200.md",
+      "sha256": "640d89fafaa1ee0dbe9ad851c3092868eb1fd16c05f9de693a90ce05f3b5e08b"
+    },
+    "resume_pdf": {
+      "path": "applications/2026-11-03__department-of-energy-headquarters__accountant-recent-graduate__e1bc20b30211d256/resume-xuewu-cai__department-of-energy-headquarters__accountant-recent-graduate__891272200.pdf",
+      "sha256": "a0870ee3640f9898ba4662c826cad2686daa04494bea7f432344493b072407c7"
+    }
+  },
+  "artifact_versions": [
+    {
+      "revision_id": "2026-11-04T01:27:13.427519+00:00",
+      "artifacts": {
+        "resume_markdown": {
+          "path": "applications/2026-11-03__department-of-energy-headquarters__accountant-recent-graduate__e1bc20b30211d256/resume-xuewu-cai__department-of-energy-headquarters__accountant-recent-graduate__891272200.md",
+          "sha256": "640d89fafaa1ee0dbe9ad851c3092868eb1fd16c05f9de693a90ce05f3b5e08b"
+        },
+        "resume_pdf": {
+          "path": "applications/2026-11-03__department-of-energy-headquarters__accountant-recent-graduate__e1bc20b30211d256/resume-xuewu-cai__department-of-energy-headquarters__accountant-recent-graduate__891272200.pdf",
+          "sha256": "a0870ee3640f9898ba4662c826cad2686daa04494bea7f432344493b072407c7"
+        }
+      },
+      "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a"
+    }
+  ],
+  "resume_status": "prepared_with_attention",
+  "resume_review": "Two rendered pages reviewed; all 77 distinct page images inspected across seven boards covering 166 pages. Text bounds, all 20 baseline experience bullets, updated title, neutral metadata and artifact hashes passed. Candidate qualifications remain unverified.",
+  "required_answers_pending": [
+    "Hiring-path eligibility unverified: Recent graduates. Confirm qualifying status before application; absence from baseline is not proof of ineligibility.",
+    "Verify qualifying coursework and calculus credits against the exact qualification clause; not established by the baseline alone.",
+    "Verify required accounting background/coursework against the exact qualification clause; not established by the baseline alone.",
+    "Confirm graduate/student hiring-path dates and eligibility; degree completion dates are not in the baseline.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "confirmed_unmet_requirements": [],
+  "qualifications_verified": false,
+  "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a",
+  "resume_format": "restored_two_page",
+  "current_resume_naming": "unversioned"
+}

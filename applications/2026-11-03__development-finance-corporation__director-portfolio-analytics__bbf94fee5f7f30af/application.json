@@ -1,0 +1,95 @@
+{
+  "title": "DIRECTOR, PORTFOLIO ANALYTICS",
+  "requisition_id": "27-OPM-ST-13100534-CH",
+  "canonical_url": "https://www.usajobs.gov/job/891288700",
+  "application_url": "https://www.usajobs.gov/job/891288700",
+  "posted_date": "2026-11-03",
+  "posted_date_evidence": "Official JobPosting.datePosted and native PositionStartDate",
+  "close_date": "2026-11-23",
+  "deadline_timezone": "America/New_York",
+  "deadline_time": "23:59",
+  "deadline_source": "https://www.usajobs.gov/job/891288700",
+  "deadline_verified": true,
+  "early_closure_conditions": [],
+  "rolling_cutoff": null,
+  "location": "Washington, DC",
+  "remote_restrictions": "Offered DMV work location; verify telework/attendance and screening conditions in announcement.",
+  "salary": "Starting at $143,913 Per year (GS 14)",
+  "retrieved_at": "2026-11-04T01:27:13.427519+00:00",
+  "control_number": "891288700",
+  "fit": "Enterprise forecasting, capital planning, portfolio risk/valuation, financial reporting and leadership overlap. Exact federal accounting, budget, investment governance and grade-equivalent requirements remain unverified.",
+  "gaps": "Confirm portfolio-wide performance/risk frameworks, financial valuation of equity/debt/private assets, financial data governance and communication clauses; baseline CRT valuation and portfolio analytics overlap, but exact specialized experience remains unverified. Hiring-path eligibility unverified: Competitive service, Career transition (CTAP, ICTAP, RPL), Land and base management, Veterans, Military spouses, Individuals with disabilities, Family of overseas employees, Peace Corps & AmeriCorps Vista, Special authorities. Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them. Possible companion route(s): 26649c2992fac570. Reconcile exact vacancy before submitting; no duplicate applications.",
+  "requirements_confirmed_unmet": [],
+  "requirements_unverified": [
+    "Confirm portfolio-wide performance/risk frameworks, financial valuation of equity/debt/private assets, financial data governance and communication clauses; baseline CRT valuation and portfolio analytics overlap, but exact specialized experience remains unverified.",
+    "Hiring-path eligibility unverified: Competitive service, Career transition (CTAP, ICTAP, RPL), Land and base management, Veterans, Military spouses, Individuals with disabilities, Family of overseas employees, Peace Corps & AmeriCorps Vista, Special authorities. Confirm qualifying status before application; absence from baseline is not proof of ineligibility.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.",
+    "Possible companion route(s): 26649c2992fac570. Reconcile exact vacancy before submitting; no duplicate applications."
+  ],
+  "preferred_requirements_note": "See official qualifications/education sections; missing evidence does not establish an unmet requirement.",
+  "hiring_paths": [
+    "Competitive service",
+    "Career transition (CTAP, ICTAP, RPL)",
+    "Land and base management",
+    "Veterans",
+    "Military spouses",
+    "Individuals with disabilities",
+    "Family of overseas employees",
+    "Peace Corps & AmeriCorps Vista",
+    "Special authorities"
+  ],
+  "open_evidence": "Official announcement downloaded successfully; validThrough and native open-status evidence retained.",
+  "discovery_window": [
+    "2026-09-03",
+    "2026-11-03"
+  ],
+  "employer": "Development Finance Corporation",
+  "status": "needs_verification",
+  "aliases": [],
+  "id": "bbf94fee5f7f30af",
+  "application_directory": "applications/2026-11-03__development-finance-corporation__director-portfolio-analytics__bbf94fee5f7f30af",
+  "step": 1,
+  "selected": false,
+  "submitted": false,
+  "artifacts": {
+    "resume_markdown": {
+      "path": "applications/2026-11-03__development-finance-corporation__director-portfolio-analytics__bbf94fee5f7f30af/resume-xuewu-cai__development-finance-corporation__director-portfolio-analytics__891288700.md",
+      "sha256": "ca620211eb3df4904fa02f64520474a62bfc3779bb311028b531b53cb45adf16"
+    },
+    "resume_pdf": {
+      "path": "applications/2026-11-03__development-finance-corporation__director-portfolio-analytics__bbf94fee5f7f30af/resume-xuewu-cai__development-finance-corporation__director-portfolio-analytics__891288700.pdf",
+      "sha256": "f322648fbfe5ecc90289d294411682b15b0fdfb66731c645eb3d36de87f2f4e7"
+    }
+  },
+  "artifact_versions": [
+    {
+      "revision_id": "2026-11-04T01:27:13.427519+00:00",
+      "artifacts": {
+        "resume_markdown": {
+          "path": "applications/2026-11-03__development-finance-corporation__director-portfolio-analytics__bbf94fee5f7f30af/resume-xuewu-cai__development-finance-corporation__director-portfolio-analytics__891288700.md",
+          "sha256": "ca620211eb3df4904fa02f64520474a62bfc3779bb311028b531b53cb45adf16"
+        },
+        "resume_pdf": {
+          "path": "applications/2026-11-03__development-finance-corporation__director-portfolio-analytics__bbf94fee5f7f30af/resume-xuewu-cai__development-finance-corporation__director-portfolio-analytics__891288700.pdf",
+          "sha256": "f322648fbfe5ecc90289d294411682b15b0fdfb66731c645eb3d36de87f2f4e7"
+        }
+      },
+      "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a"
+    }
+  ],
+  "resume_status": "prepared_with_attention",
+  "resume_review": "Two rendered pages reviewed; all 77 distinct page images inspected across seven boards covering 166 pages. Text bounds, all 20 baseline experience bullets, updated title, neutral metadata and artifact hashes passed. Candidate qualifications remain unverified.",
+  "required_answers_pending": [
+    "Confirm portfolio-wide performance/risk frameworks, financial valuation of equity/debt/private assets, financial data governance and communication clauses; baseline CRT valuation and portfolio analytics overlap, but exact specialized experience remains unverified.",
+    "Hiring-path eligibility unverified: Competitive service, Career transition (CTAP, ICTAP, RPL), Land and base management, Veterans, Military spouses, Individuals with disabilities, Family of overseas employees, Peace Corps & AmeriCorps Vista, Special authorities. Confirm qualifying status before application; absence from baseline is not proof of ineligibility.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "confirmed_unmet_requirements": [],
+  "qualifications_verified": false,
+  "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a",
+  "resume_format": "restored_two_page",
+  "current_resume_naming": "unversioned",
+  "possible_companion_job_ids": [
+    "26649c2992fac570"
+  ]
+}

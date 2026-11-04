@@ -1,0 +1,1213 @@
+# IT Specialist (Data Engineer)
+
+{
+  "title": "IT Specialist (Data Engineer)",
+  "requisition_id": "270006MP-13103717-CS",
+  "canonical_url": "https://www.usajobs.gov/job/891337400",
+  "application_url": "https://www.usajobs.gov/job/891337400",
+  "posted_date": "2026-11-03",
+  "posted_date_evidence": "Official JobPosting.datePosted and native PositionStartDate",
+  "close_date": "2026-11-13",
+  "deadline_timezone": "America/New_York",
+  "deadline_time": "23:59",
+  "deadline_source": "https://www.usajobs.gov/job/891337400",
+  "deadline_verified": true,
+  "early_closure_conditions": [],
+  "rolling_cutoff": null,
+  "location": "Washington, DC; Baltimore, MD; Richmond, VA; Roanoke, VA",
+  "remote_restrictions": "Offered DMV work location; verify telework/attendance and screening conditions in announcement.",
+  "salary": "Starting at $90,925 Per year (GS 13)",
+  "retrieved_at": "2026-11-04T01:27:13.427519+00:00",
+  "control_number": "891337400",
+  "fit": "Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.",
+  "gaps": "Hiring-path eligibility unverified: Competitive service, Career transition (CTAP, ICTAP, RPL), Land and base management, Veterans, Military spouses, Family of overseas employees, Peace Corps & AmeriCorps Vista. Confirm qualifying status before application; absence from baseline is not proof of ineligibility. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.",
+  "requirements_confirmed_unmet": [],
+  "requirements_unverified": [
+    "Hiring-path eligibility unverified: Competitive service, Career transition (CTAP, ICTAP, RPL), Land and base management, Veterans, Military spouses, Family of overseas employees, Peace Corps & AmeriCorps Vista. Confirm qualifying status before application; absence from baseline is not proof of ineligibility.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "preferred_requirements_note": "See official qualifications/education sections; missing evidence does not establish an unmet requirement.",
+  "hiring_paths": [
+    "Competitive service",
+    "Career transition (CTAP, ICTAP, RPL)",
+    "Land and base management",
+    "Veterans",
+    "Military spouses",
+    "Family of overseas employees",
+    "Peace Corps & AmeriCorps Vista"
+  ],
+  "open_evidence": "Official announcement downloaded successfully; validThrough and native open-status evidence retained.",
+  "discovery_window": [
+    "2026-09-03",
+    "2026-11-03"
+  ]
+}
+
+## Summary
+
+This position is located in the Railroad Retirement Board's Bureau of Information Services. The incumbent will be responsible for designing, building, and maintaining scalable data pipelines and infrastructure to collect, store, process, and deliver large datasets in support of the agency's mission.
+This job announcement may be used to fill one or more vacancies.
+This is a bargaining unit position. This position is represented by the Council of AFGE Locals in the Board.
+
+## Duties
+
+As an IT Specialist (Data Engineer), you will:
+Design, implement, and optimize end-to-end data pipelines to ingest, process, and transform large volumes of structured and unstructured data from agency and external sources.
+Design and build large-scale data systems and database architectures to support both Online Transaction Processing (OLTP) and Online Analytical Processing (OLAP) environments.
+Manage the strategic planning, operation, and maintenance of data infrastructure across on-premises and cloud environments to ensure high levels of efficiency, security, scalability, and availability.
+Implement Data Operations (DataOps) best practices to improve the quality, speed, and reliability of data delivery across the agency.
+Serve as the agency's recognized technical authority for data engineering, providing expert guidance to cross-functional teams.
+
+## Qualifications
+
+Minimum Qualifications for GS-13 level:
+One year of specialized experience equivalent to the GS-12 grade level in the Federal service.
+Specialized experience is defined as:
+Experience with designing, implementing, and optimizing end-to-end data pipelines.
+Experience designing and building large-scale data systems and databases optimized for Online Transaction Processing (OLTP) and Online Analytical Processing (OLAP) environments.
+Experience managing data infrastructure across on-premises and cloud environments to include Amazon Web Services (AWS) and Azure.
+In addition, all applicants qualifying based on experience must have IT-related experience demonstrating each of the four competencies listed below. Applicants must demonstrate possession of these competencies within the body of the resume; no separate statements addressing them are required.
+Attention to Detail - Is thorough when performing work and conscientious about attending to detail.
+Customer Service - Works with clients and customers (that is, any individuals who use or receive the services or products that your work unit produces, including the general public, individuals who work in the agency, other agencies, or organizations outside the Government) to assess their needs, provide information or assistance, resolve their problems, or satisfy their expectations; knows about available products and services; is committed to providing quality products and services.
+Oral Communication - Expresses information (for example, ideas or facts) to individuals or groups effectively, taking into account the audience and nature of the information (for example, technical, sensitive, controversial); makes clear and convincing oral presentations; listens to others, attends to nonverbal cues, and responds appropriately.
+Problem Solving - Identifies problems; determines accuracy and relevance of information; uses sound judgment to generate and evaluate alternatives, and to make recommendations.
+Time-in grade-restrictions: Applicants who are current or former Federal employees and have held a GS grade any time in the past 52 weeks must also meet time-in-grade requirements (52 weeks at the next lower grade level).
+Experience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., Peace Corps, AmeriCorps) and other organizations (e.g., professional, philanthropic, religious, spiritual; community, student, social). Volunteer work helps build critical competencies, knowledge, and skills and can provide valuable training and experience that translates directly to paid employment. You will receive credit for all qualifying experience, including volunteer experience.
+Only experience and/or education obtained by the closing date of this announcement will be considered.
+Documenting experience: IN DESCRIBING YOUR EXPERIENCE, PLEASE BE CLEAR AND SPECIFIC. WE WILL NOT MAKE ASSUMPTIONS REGARDING YOUR EXPERIENCE. Qualifications are based on breadth/level of experience. In addition to describing duties performed, applicants must provide the exact dates of each period of employment (from MM/YY to MM/YY) and the number of hours worked per week if part time. As qualification determinations cannot be made when resumes do not include the required information, failure to provide this information may result in disqualification. Applicants are encouraged to use the USAJOBS Resume Builder to develop their federal resume.
+Do not copy and paste the duties or specialized experience from this announcement into your resume as that will not be considered a demonstration of your qualifications for this position.
+
+## Education
+
+There is no education substitution for this position.
+
+## Full rendered official announcement
+
+USAJOBS - Job Announcement
+
+ Skip to main content
+
+ An official website of the United States government
+
+Official websites use .gov
+
+A .gov website belongs to an official government organization in the United States.
+
+Secure .gov websites use HTTPS
+ A lock ( LockA locked padlock ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.
+
+ MENU
+
+ Sign in
+
+ My jobs
+
+ Profile
+
+ Resumes & documents
+
+ Notifications
+
+ Talent networks
+
+ Sign out
+
+ My jobs
+
+ Profile
+
+ Resumes & documents
+
+ Notifications
+
+ Talent networks
+
+ Sign out
+
+ Events
+
+ Help Center
+
+ Search
+
+ Back to results
+
+ Apply
+
+ IT Specialist (Data Engineer)
+
+Railroad Retirement Board
+
+Apply
+
+ Print
+
+ Share
+
+ Save
+
+ Summary
+
+ This job is open to
+
+ Duties
+
+ Requirements
+
+ How you will be evaluated
+
+ Required documents
+
+ How to apply
+
+Summary
+
+This position is located in the Railroad Retirement Board's Bureau of Information Services. The incumbent will be responsible for designing, building, and maintaining scalable data pipelines and infrastructure to collect, store, process, and deliver large datasets in support of the agency's mission.
+
+This job announcement may be used to fill one or more vacancies.
+
+This is a bargaining unit position. This position is represented by the Council of AFGE Locals in the Board.
+
+ Learn more about this agency
+
+Summary
+
+This position is located in the Railroad Retirement Board's Bureau of Information Services. The incumbent will be responsible for designing, building, and maintaining scalable data pipelines and infrastructure to collect, store, process, and deliver large datasets in support of the agency's mission.
+
+This job announcement may be used to fill one or more vacancies.
+
+This is a bargaining unit position. This position is represented by the Council of AFGE Locals in the Board.
+
+ Learn more about this agency
+
+Overview
+
+ Help
+
+Accepting applications
+
+Location
+
+1 vacancy in the following locations:
+
+ Birmingham, AL
+
+ Little Rock, AR
+
+ Mesa, AZ
+
+ Covina, CA
+
+ Oakland, CA
+
+ Roseville, CA
+
+ Denver, CO
+
+ Washington, DC
+
+ Jacksonville, FL
+
+ Tampa, FL
+
+ Atlanta, GA
+
+ Des Moines, IA
+
+ Chicago, IL
+
+ Decatur, IL
+
+ Joliet, IL
+
+ Indianapolis, IN
+
+ Wichita, KS
+
+ Louisville, KY
+
+ New Orleans, LA
+
+ Boston, MA
+
+ Baltimore, MD
+
+ Detroit, MI
+
+ Duluth, MN
+
+ Saint Paul, MN
+
+ Kansas City, MO
+
+ Saint Louis, MO
+
+ Billings, MT
+
+ Charlotte, NC
+
+ Fargo, ND
+
+ Omaha, NE
+
+ Newark, NJ
+
+ Albuquerque, NM
+
+ Albany, NY
+
+ Buffalo, NY
+
+ Central Islip, NY
+
+ New York, NY
+
+ Cincinnati, OH
+
+ Cleveland, OH
+
+ Portland, OR
+
+ Altoona, PA
+
+ Harrisburg, PA
+
+ Philadelphia, PA
+
+ Pittsburgh, PA
+
+ Scranton, PA
+
+ Nashville, TN
+
+ Fort Worth, TX
+
+ Houston, TX
+
+ Salt Lake City, UT
+
+ Richmond, VA
+
+ Roanoke, VA
+
+ Seattle, WA
+
+ Spokane, WA
+
+ Milwaukee, WI
+
+ Huntington, WV
+
+ No matching locations found.
+
+Work site options
+
+Telework eligible
+
+Yes—as determined by the agency policy. THIS IS NOT A REMOTE POSITION, and the incumbent must physically report to the office for work.
+
+Remote job
+
+No
+
+Relocation expenses reimbursed
+
+ No
+
+Salary
+
+ $90,925 - $118,204 per year
+
+The salary range indicated in this announcement will be adjusted to include locality pay once a candidate is selected.
+
+Pay scale & grade
+
+GS 13
+
+Promotion potential
+
+13
+
+ Learn more about pay scale and grade
+
+ Pay scale and grade determines the salary of the job.
+
+Work schedule
+
+Full-time
+
+Travel Required
+
+Occasional travel - You may be expected to travel for this position.
+
+Appointment type
+
+Permanent
+
+Occupations and job series
+
+ 2210 Information Technology Management
+
+Supervisory status
+
+No
+
+Federal service type
+
+This job is in the Competitive Service
+
+Represented by a union
+
+Yes
+
+Drug test
+
+No
+
+Security clearance
+
+Not Required
+
+Position sensitivity and risk
+
+Non-sensitive (NS)/Low Risk
+
+ Jobs require a
+ background check and some require a
+ security clearance. The type depends on the job.
+
+Background check type
+
+ Suitability/Fitness
+
+Financial disclosure required
+
+No
+
+ Some jobs require
+ financial disclosure to identify conflicts of interests.
+
+Announcement number
+
+270006MP-13103717-CS
+
+Control number
+
+891337400
+
+This job is open to
+
+ Help
+
+Federal employees - Competitive service
+
+ Current federal employees whose agencies follow the U.S. Office of Personnel Management's hiring rules and pay scales.
+
+Career transition (CTAP, ICTAP, RPL)
+
+ Federal employees whose job, agency or department was eliminated and are eligible for priority over other applicants.
+
+Land and base management
+
+ Current or former employees of a base management agency.
+
+Veterans
+
+ Veterans of the U.S. Armed Forces or a spouse, widow, widower or parent of a veteran, who may be eligible for derived preference
+
+Military spouses
+
+ Military spouses of active duty service members or whose spouse is 100 percent disabled or died on active duty.
+
+Family of overseas employees
+
+ Family members of a federal employee or uniformed service member who is or was, working overseas.
+
+Peace Corps & AmeriCorps Vista
+
+ Individuals who have served at least 2 years with the Peace Corps or 1 year with AmeriCorps VISTA.
+
+Duties
+
+ Help
+
+ As an IT Specialist (Data Engineer), you will:
+
+Design, implement, and optimize end-to-end data pipelines to ingest, process, and transform large volumes of structured and unstructured data from agency and external sources.
+
+Design and build large-scale data systems and database architectures to support both Online Transaction Processing (OLTP) and Online Analytical Processing (OLAP) environments.
+
+Manage the strategic planning, operation, and maintenance of data infrastructure across on-premises and cloud environments to ensure high levels of efficiency, security, scalability, and availability.
+
+Implement Data Operations (DataOps) best practices to improve the quality, speed, and reliability of data delivery across the agency.
+
+Serve as the agency's recognized technical authority for data engineering, providing expert guidance to cross-functional teams.
+
+Requirements
+
+ Help
+
+Conditions of employment
+
+Must be a U.S. Citizen
+
+Males born after 12/31/59 must be registered for Selective Service
+
+Suitable for Federal employment, determined by a background investigation
+
+May be required to successfully complete a probationary period
+
+Complete the initial online assessment and USAHire Assessment, if required
+
+May be required to work outside of normal duty hours, such as nights, weekends, and holidays, due to operational needs.
+
+Qualifications
+
+Minimum Qualifications for GS-13 level:
+
+One year of specialized experience equivalent to the GS-12 grade level in the Federal service.
+
+Specialized experience is defined as:
+
+Experience with designing, implementing, and optimizing end-to-end data pipelines.
+
+Experience designing and building large-scale data systems and databases optimized for Online Transaction Processing (OLTP) and Online Analytical Processing (OLAP) environments.
+
+Experience managing data infrastructure across on-premises and cloud environments to include Amazon Web Services (AWS) and Azure.
+
+In addition, all applicants qualifying based on experience must have IT-related experience demonstrating each of the four competencies listed below. Applicants must demonstrate possession of these competencies within the body of the resume; no separate statements addressing them are required.
+
+Attention to Detail - Is thorough when performing work and conscientious about attending to detail.
+
+Customer Service - Works with clients and customers (that is, any individuals who use or receive the services or products that your work unit produces, including the general public, individuals who work in the agency, other agencies, or organizations outside the Government) to assess their needs, provide information or assistance, resolve their problems, or satisfy their expectations; knows about available products and services; is committed to providing quality products and services.
+
+Oral Communication - Expresses information (for example, ideas or facts) to individuals or groups effectively, taking into account the audience and nature of the information (for example, technical, sensitive, controversial); makes clear and convincing oral presentations; listens to others, attends to nonverbal cues, and responds appropriately.
+
+Problem Solving - Identifies problems; determines accuracy and relevance of information; uses sound judgment to generate and evaluate alternatives, and to make recommendations.
+
+Time-in grade-restrictions: Applicants who are current or former Federal employees and have held a GS grade any time in the past 52 weeks must also meet time-in-grade requirements (52 weeks at the next lower grade level).
+
+Experience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., Peace Corps, AmeriCorps) and other organizations (e.g., professional, philanthropic, religious, spiritual; community, student, social). Volunteer work helps build critical competencies, knowledge, and skills and can provide valuable training and experience that translates directly to paid employment. You will receive credit for all qualifying experience, including volunteer experience.
+
+Only experience and/or education obtained by the closing date of this announcement will be considered.
+
+Documenting experience: IN DESCRIBING YOUR EXPERIENCE, PLEASE BE CLEAR AND SPECIFIC. WE WILL NOT MAKE ASSUMPTIONS REGARDING YOUR EXPERIENCE. Qualifications are based on breadth/level of experience. In addition to describing duties performed, applicants must provide the exact dates of each period of employment (from MM/YY to MM/YY) and the number of hours worked per week if part time. As qualification determinations cannot be made when resumes do not include the required information, failure to provide this information may result in disqualification. Applicants are encouraged to use the USAJOBS Resume Builder to develop their federal resume.
+
+Do not copy and paste the duties or specialized experience from this announcement into your resume as that will not be considered a demonstration of your qualifications for this position.
+
+Education
+
+ There is no education substitution for this position.
+
+Additional information
+
+Reasonable Accommodation (RA) Requests: If you believe you have a disability (i.e., physical or mental), covered by the Rehabilitation Act of 1973 as amended that would interfere with completing the USA Hire Competency Based Assessments, you will be granted the opportunity to request a RA in your online application. Requests for RA for the USA Hire Competency Based Assessments and appropriate supporting documentation for RA must be received prior to starting the USA Hire Competency Based Assessments. Decisions on requests for RA are made on a case-by-case basis. If you meet the minimum qualifications of the position, after notification of the adjudication of your request, you will receive an email invitation to complete the USA Hire Competency Based Assessments, based on your adjudication decision. You must complete all assessments within 48 hours of receiving the URL to access the USA Hire Competency Based Assessments if you received the link after the close of the announcement. To determine if you need a RA, please review the Procedures for Requesting a Reasonable Accommodation for Online Assessments. (https://appsupport-usastaffing.opm.gov/hc/en-us/sections/45063131363475-Reasonable-Accommodation-Information)
+
+Veterans Employment Opportunity Act (VEOA): To be eligible for a VEOA appointment under Merit Promotion procedures, the veteran must be a preference eligible or a veteran separated after 3 years or more of continuous active service performed under honorable conditions.
+
+INTERAGENCY CAREER TRANSITION ASSISTANCE PLAN (ICTAP):
+
+ICTAP provides eligible displaced Federal competitive service employees with selection priority for competitive service vacancies. You must be determined to be well-qualified for the vacancy to be eligible for special selection priority. After submission of an acceptable application which meets ICTAP eligibility, you will be determined to be well-qualified for a vacancy if your rating places you in the 85th percentile or higher in total possible points.
+
+ICTAP eligibles must submit proof of eligibility for special selection priority. Please see the Required Documents section below for more information. Click here for more information on ICTAP.
+
+Noncompetitive Appointment Authorities: For more information on noncompetitive appointment authority eligibility requirements:
+
+Special Hiring Authorities for Veterans
+
+Special Hiring Authorities for Certain Military Spouses
+
+Other Special Appointment Authorities
+
+If you are a male applicant who was born after 12/31/59 you are required to register under the Military Selective Service Act; the Defense Authorization Act of 1986 requires that you be registered or you are not eligible for appointment in this agency.
+
+ Expand Hide  additional information
+
+Candidates should be committed to improving the efficiency of the Federal government, passionate about the ideals of our American republic, and committed to upholding the rule of law and the United States Constitution.
+
+Benefits
+
+ Help
+
+ A career with the U.S. government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding. Opens in a new windowLearn more about federal benefits.
+
+Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time or intermittent. Contact the hiring agency for more information on the specific benefits offered.
+
+How you will be evaluated
+
+You will be evaluated for this job based on how well you meet the qualifications above.
+
+ You will be evaluated based on how well you meet the qualifications listed in this vacancy announcement. Your qualifications will be evaluated based on your application materials (e.g., resume, supporting documents), and the result of the online assessment for this position.
+
+In order to be considered for this position, you must complete the USA Hire Assessment.
+
+You will be assessed on the following competencies (knowledge, skills, abilities, and other characteristics):
+
+Accountability
+Attention to Detail
+Customer Service
+Decision Making
+Flexibility
+Influencing/Negotiating
+Integrity/Honesty
+Interpersonal Skills
+Learning
+Reading Comprehension
+Reasoning
+Self-Management
+Stress Tolerance
+Teamwork
+
+Overstating your qualifications and/or experience in your application materials or application questionnaire may result in your removal from consideration. Cheating on the online assessment may also result in your removal from consideration.
+
+Benefits
+
+ Help
+
+ A career with the U.S. government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding. Opens in a new windowLearn more about federal benefits.
+
+Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time or intermittent. Contact the hiring agency for more information on the specific benefits offered.
+
+Required documents
+
+Required Documents
+
+ Help
+
+ To apply for this position, you must provide a complete Application Package which includes:
+
+Resume showing work schedule, hours worked per week, dates of employment and duties performed. Resume must not exceed 2 pages. Applicants will be removed from consideration if their resume is longer than 2 pages. Please see "How to Apply" for additional information regarding the limit.
+
+SF-50: If you are a current or former Federal employee, you must submit a copy of a recent Notification of Personnel Action, SF-50, showing competitive status. (Blocks #24 and #34 must be completed.)
+
+Performance Appraisal: If you are a current or former Federal employee, you are encouraged to submit a complete copy of a current or last performance appraisal. The performance appraisal may be used as part of the ranking process and/or to verify your responses to the questionnaire.
+
+Veterans' Documentation: If you are a veteran, you must provide a copy of your Record of Military Service (DD-214), and proof of your veterans' preference, if applicable. Veterans with a service connected disability must also submit a completed claim form SF-15 (click here for form) along with the required proofs. Go to FedsHireVets-Veterans Preference for more information.
+
+Interagency Career Transition Assistance Plan (ICTAP) documentation: If you are eligible under ICTAP, you must submit all required materials verifying your eligibility as listed in "Additional Information." These materials include:
+
+Proof of eligibility: You must submit documentation such as a separation notice or other required material; and
+
+SF-50: You must submit a copy of a recent Notification of Personnel Action, SF-50 that shows career or career-conditional competitive service status (Blocks #24 and #34 must be completed); and
+
+Performance Appraisal: You must submit your most recent performance appraisal, which must be rated at least fully successful or equivalent. (This is not required if you are eligible for ICTAP due to compensable injury or disability retirement.) The performance appraisal may also be used as part of the ranking process and/or to verify your responses to the questionnaire.
+
+ If you are relying on your education to meet qualification requirements:
+
+ Education must be accredited by an accrediting institution recognized by the U.S. Department of Education in order for it to be credited towards qualifications. Therefore, provide only the attendance and/or degrees from
+ schools accredited by accrediting institutions recognized by the U.S. Department of Education.
+
+ Failure to provide all of the required information as stated in this vacancy announcement may result in an ineligible rating or may affect the overall rating.
+
+How to Apply
+
+ Help
+
+In accordance with the Merit Hiring Plan, only resumes up to a total of two pages will be accepted. Applicants with resumes exceeding two pages will be removed from consideration.
+
+Resumes must be legible so they can be reviewed for eligibility, minimum qualifications and other position requirements listed in the job announcement.
+
+We recommend using a sans-serif font size like Lato, if available. Other widely available options are Calibri, Helvetica, Arial, Verdana, Open Sans, Source Sans Pro, Roboto or Noro Sans. Make your page margins 0.5 inches. Consider using 14-point size font for titles and 10-point for the main text in your resume.
+
+For additional guidance on what to include in your resume, please see USAJOBS Help.
+
+Please read the entire announcement and all the instructions before you begin an application. To apply and be considered for this position, you must complete all required questionnaires, assessments and submit all required documentation as specified in the How to Apply and Required Documents section. The complete application package must be submitted by 11:59 PM (ET) on the closing date of the announcement to receive consideration. The application process is as follows:
+
+Click the Apply Online button.
+
+Answer the questions presented in the application and attach all necessary supporting documentation.
+
+Click the Submit Application button prior to 11:59 PM (ET) on the announcement closing date.
+
+If you are required to complete any USA Hire Assessments, you will be notified after submitting your application. The notification will be provided in your application submission screen and via email. The notification will include your unique assessment access link to the USA Hire system and the completion deadline. Additionally, in USAJOBS you can click "Track this application" to return to your assessment completion notice.
+
+Access USA Hire using your unique assessment link. Access is granted through your USAJOBS login credentials.
+
+Review all instructions prior to beginning your assessments. You will have the opportunity to request a testing accommodation before beginning the assessments should you have a disability covered under the Rehabilitation Act of 1973 as amended.
+
+Set aside about two (2) hours to take the USA Hire Assessments; however, most applicants complete the assessments in less time. If you need to stop the assessments and continue later, you can re-use your unique assessment link.
+
+Your responses to the USA Hire Assessments will be reused for one year (in most cases) from the date you complete an assessment. If future applications you submit require completion of the same assessments, your responses will be automatically reused.
+
+Visit the USA Hire Applicant Resource Center for practice assessments and assessment preparation resources at https://support-usahire.opm.gov/hc/en-us.
+
+To update your application, including supporting documentation: During the announcement open period, return to your USAJOBS account, find your application record, and click Edit my application. This option will no longer be available once the announcement has closed.
+
+To view the announcement status or your application status: Click on this: https://www.usajobs.gov/Help/how-to/application/status/. Your application status page is where you can view your application status, USA Hire assessment completion status, and review your notifications sent by the hiring agency regarding your application.
+
+Agency contact information
+
+ RRB Human Resources
+
+Phone
+
+ (312) 751-4580
+
+Email
+
+ recruit@rrb.gov
+
+Address
+
+ Railroad Retirement Board
+
+ 844 N Rush St
+
+ Chicago, IL 60611
+
+ US
+
+Next steps
+
+Once your online application is submitted you will receive a confirmation notification by email. After a review of your complete application is made, you will be notified of your rating and possible referral to the hiring official. If further evaluation or interviews are required you will be contacted.
+
+Fair and transparent
+
+The Federal hiring process is set up to be fair and transparent. Please read the following guidance.
+
+ Criminal history inquiries
+
+ Equal Employment Opportunity (EEO) Policy
+
+ Financial suitability
+
+ New employee probationary period
+
+ Privacy Act
+
+ Reasonable accommodation policy
+
+ Selective Service
+
+ Signature and false statements
+
+ Social security number request
+
+Required Documents
+
+ Help
+
+ To apply for this position, you must provide a complete Application Package which includes:
+
+Resume showing work schedule, hours worked per week, dates of employment and duties performed. Resume must not exceed 2 pages. Applicants will be removed from consideration if their resume is longer than 2 pages. Please see "How to Apply" for additional information regarding the limit.
+
+SF-50: If you are a current or former Federal employee, you must submit a copy of a recent Notification of Personnel Action, SF-50, showing competitive status. (Blocks #24 and #34 must be completed.)
+
+Performance Appraisal: If you are a current or former Federal employee, you are encouraged to submit a complete copy of a current or last performance appraisal. The performance appraisal may be used as part of the ranking process and/or to verify your responses to the questionnaire.
+
+Veterans' Documentation: If you are a veteran, you must provide a copy of your Record of Military Service (DD-214), and proof of your veterans' preference, if applicable. Veterans with a service connected disability must also submit a completed claim form SF-15 (click here for form) along with the required proofs. Go to FedsHireVets-Veterans Preference for more information.
+
+Interagency Career Transition Assistance Plan (ICTAP) documentation: If you are eligible under ICTAP, you must submit all required materials verifying your eligibility as listed in "Additional Information." These materials include:
+
+Proof of eligibility: You must submit documentation such as a separation notice or other required material; and
+
+SF-50: You must submit a copy of a recent Notification of Personnel Action, SF-50 that shows career or career-conditional competitive service status (Blocks #24 and #34 must be completed); and
+
+Performance Appraisal: You must submit your most recent performance appraisal, which must be rated at least fully successful or equivalent. (This is not required if you are eligible for ICTAP due to compensable injury or disability retirement.) The performance appraisal may also be used as part of the ranking process and/or to verify your responses to the questionnaire.
+
+ If you are relying on your education to meet qualification requirements:
+
+ Education must be accredited by an accrediting institution recognized by the U.S. Department of Education in order for it to be credited towards qualifications. Therefore, provide only the attendance and/or degrees from
+ schools accredited by accrediting institutions recognized by the U.S. Department of Education.
+
+ Failure to provide all of the required information as stated in this vacancy announcement may result in an ineligible rating or may affect the overall rating.
+
+How to Apply
+
+ Help
+
+In accordance with the Merit Hiring Plan, only resumes up to a total of two pages will be accepted. Applicants with resumes exceeding two pages will be removed from consideration.
+
+Resumes must be legible so they can be reviewed for eligibility, minimum qualifications and other position requirements listed in the job announcement.
+
+We recommend using a sans-serif font size like Lato, if available. Other widely available options are Calibri, Helvetica, Arial, Verdana, Open Sans, Source Sans Pro, Roboto or Noro Sans. Make your page margins 0.5 inches. Consider using 14-point size font for titles and 10-point for the main text in your resume.
+
+For additional guidance on what to include in your resume, please see USAJOBS Help.
+
+Please read the entire announcement and all the instructions before you begin an application. To apply and be considered for this position, you must complete all required questionnaires, assessments and submit all required documentation as specified in the How to Apply and Required Documents section. The complete application package must be submitted by 11:59 PM (ET) on the closing date of the announcement to receive consideration. The application process is as follows:
+
+Click the Apply Online button.
+
+Answer the questions presented in the application and attach all necessary supporting documentation.
+
+Click the Submit Application button prior to 11:59 PM (ET) on the announcement closing date.
+
+If you are required to complete any USA Hire Assessments, you will be notified after submitting your application. The notification will be provided in your application submission screen and via email. The notification will include your unique assessment access link to the USA Hire system and the completion deadline. Additionally, in USAJOBS you can click "Track this application" to return to your assessment completion notice.
+
+Access USA Hire using your unique assessment link. Access is granted through your USAJOBS login credentials.
+
+Review all instructions prior to beginning your assessments. You will have the opportunity to request a testing accommodation before beginning the assessments should you have a disability covered under the Rehabilitation Act of 1973 as amended.
+
+Set aside about two (2) hours to take the USA Hire Assessments; however, most applicants complete the assessments in less time. If you need to stop the assessments and continue later, you can re-use your unique assessment link.
+
+Your responses to the USA Hire Assessments will be reused for one year (in most cases) from the date you complete an assessment. If future applications you submit require completion of the same assessments, your responses will be automatically reused.
+
+Visit the USA Hire Applicant Resource Center for practice assessments and assessment preparation resources at https://support-usahire.opm.gov/hc/en-us.
+
+To update your application, including supporting documentation: During the announcement open period, return to your USAJOBS account, find your application record, and click Edit my application. This option will no longer be available once the announcement has closed.
+
+To view the announcement status or your application status: Click on this: https://www.usajobs.gov/Help/how-to/application/status/. Your application status page is where you can view your application status, USA Hire assessment completion status, and review your notifications sent by the hiring agency regarding your application.
+
+ Expand Hide  how to apply
+
+Agency contact information
+
+ RRB Human Resources
+
+Phone
+
+ (312) 751-4580
+
+Email
+
+ recruit@rrb.gov
+
+Address
+
+ Railroad Retirement Board
+
+ 844 N Rush St
+
+ Chicago, IL 60611
+
+ US
+
+Next steps
+
+Once your online application is submitted you will receive a confirmation notification by email. After a review of your complete application is made, you will be notified of your rating and possible referral to the hiring official. If further evaluation or interviews are required you will be contacted.
+
+ Expand Hide  next steps
+
+Fair and transparent
+
+The Federal hiring process is set up to be fair and transparent. Please read the following guidance.
+
+ Criminal history inquiries
+
+ Equal Employment Opportunity (EEO) Policy
+
+ Financial suitability
+
+ New employee probationary period
+
+ Privacy Act
+
+ Reasonable accommodation policy
+
+ Selective Service
+
+ Signature and false statements
+
+ Social security number request
+
+Additional locations
+
+ Oakland, CA
+
+ Roseville, CA
+
+ Denver, CO
+
+ Washington, DC
+
+ Jacksonville, FL
+
+ Tampa, FL
+
+ Atlanta, GA
+
+ Des Moines, IA
+
+ Chicago, IL
+
+ Decatur, IL
+
+ Joliet, IL
+
+ Indianapolis, IN
+
+ Wichita, KS
+
+ Louisville, KY
+
+ New Orleans, LA
+
+ Boston, MA
+
+ Baltimore, MD
+
+ Detroit, MI
+
+ Duluth, MN
+
+ Saint Paul, MN
+
+ Kansas City, MO
+
+ Saint Louis, MO
+
+ Billings, MT
+
+ Charlotte, NC
+
+ Fargo, ND
+
+ Omaha, NE
+
+ Newark, NJ
+
+ Albuquerque, NM
+
+ Albany, NY
+
+ Buffalo, NY
+
+ Central Islip, NY
+
+ New York, NY
+
+ Cincinnati, OH
+
+ Cleveland, OH
+
+ Portland, OR
+
+ Altoona, PA
+
+ Harrisburg, PA
+
+ Philadelphia, PA
+
+ Pittsburgh, PA
+
+ Scranton, PA
+
+ Nashville, TN
+
+ Fort Worth, TX
+
+ Houston, TX
+
+ Salt Lake City, UT
+
+ Richmond, VA
+
+ Roanoke, VA
+
+ Seattle, WA
+
+ Spokane, WA
+
+ Milwaukee, WI
+
+ Huntington, WV
+
+ Railroad Retirement Board
+
+ The Railroad Retirement Board (RRB) is an independent Federal agency established nearly 90 years ago under President Roosevelt's New Deal legislation. Created separate from (but similar to) the social security program for America's workforce, the RRB administers retirement, survivor, unemployment, and sickness benefits for railroad retirees, workers, and their families.
+
+We are the only Federal agency headquartered in downtown Chicago, with 53 field offices nationwide. Our dedicated staff works across a variety of career fields, including information technology, benefit program operations, accounting, finance, and law. Whatever the job title, every position within the RRB contributes to our proud tradition of excellent customer service -- a hallmark of the RRB since its inception in 1935.
+
+Whether you are just starting out or are an experienced professional seeking a career change, consider joining the RRB for challenging work that is truly meaningful.
+
+Agency contact information
+
+ RRB Human Resources
+
+Phone
+
+ (312) 751-4580
+
+Email
+
+ recruit@rrb.gov
+
+Address
+
+ Railroad Retirement Board
+
+ 844 N Rush St
+
+ Chicago, IL 60611
+
+ US
+
+Visit our careers page
+
+ Learn more about what it's like to work at Railroad Retirement Board, what the agency does, and about the types of careers this agency offers.
+
+ https://www.rrb.gov/index.php/OurAgency/AgencyOverview
+
+Summary
+
+This position is located in the Railroad Retirement Board's Bureau of Information Services. The incumbent will be responsible for designing, building, and maintaining scalable data pipelines and infrastructure to collect, store, process, and deliver large datasets in support of the agency's mission.
+
+This job announcement may be used to fill one or more vacancies.
+
+This is a bargaining unit position. This position is represented by the Council of AFGE Locals in the Board.
+
+ Learn more about this agency
+
+Overview
+
+ Help
+
+Accepting applications
+
+Location
+
+1 vacancy in the following locations:
+
+ Birmingham, AL
+
+ Little Rock, AR
+
+ Mesa, AZ
+
+ Covina, CA
+
+ Oakland, CA
+
+ Roseville, CA
+
+ Denver, CO
+
+ Washington, DC
+
+ Jacksonville, FL
+
+ Tampa, FL
+
+ Atlanta, GA
+
+ Des Moines, IA
+
+ Chicago, IL
+
+ Decatur, IL
+
+ Joliet, IL
+
+ Indianapolis, IN
+
+ Wichita, KS
+
+ Louisville, KY
+
+ New Orleans, LA
+
+ Boston, MA
+
+ Baltimore, MD
+
+ Detroit, MI
+
+ Duluth, MN
+
+ Saint Paul, MN
+
+ Kansas City, MO
+
+ Saint Louis, MO
+
+ Billings, MT
+
+ Charlotte, NC
+
+ Fargo, ND
+
+ Omaha, NE
+
+ Newark, NJ
+
+ Albuquerque, NM
+
+ Albany, NY
+
+ Buffalo, NY
+
+ Central Islip, NY
+
+ New York, NY
+
+ Cincinnati, OH
+
+ Cleveland, OH
+
+ Portland, OR
+
+ Altoona, PA
+
+ Harrisburg, PA
+
+ Philadelphia, PA
+
+ Pittsburgh, PA
+
+ Scranton, PA
+
+ Nashville, TN
+
+ Fort Worth, TX
+
+ Houston, TX
+
+ Salt Lake City, UT
+
+ Richmond, VA
+
+ Roanoke, VA
+
+ Seattle, WA
+
+ Spokane, WA
+
+ Milwaukee, WI
+
+ Huntington, WV
+
+ No matching locations found.
+
+Work site options
+
+Telework eligible
+
+Yes—as determined by the agency policy. THIS IS NOT A REMOTE POSITION, and the incumbent must physically report to the office for work.
+
+Remote job
+
+No
+
+Relocation expenses reimbursed
+
+ No
+
+Salary
+
+ $90,925 - $118,204 per year
+
+The salary range indicated in this announcement will be adjusted to include locality pay once a candidate is selected.
+
+Pay scale & grade
+
+GS 13
+
+Promotion potential
+
+13
+
+ Learn more about pay scale and grade
+
+ Pay scale and grade determines the salary of the job.
+
+Work schedule
+
+Full-time
+
+Travel Required
+
+Occasional travel - You may be expected to travel for this position.
+
+Appointment type
+
+Permanent
+
+Occupations and job series
+
+ 2210 Information Technology Management
+
+Supervisory status
+
+No
+
+Federal service type
+
+This job is in the Competitive Service
+
+Represented by a union
+
+Yes
+
+Drug test
+
+No
+
+Security clearance
+
+Not Required
+
+Position sensitivity and risk
+
+Non-sensitive (NS)/Low Risk
+
+ Jobs require a
+ background check and some require a
+ security clearance. The type depends on the job.
+
+Background check type
+
+ Suitability/Fitness
+
+Financial disclosure required
+
+No
+
+ Some jobs require
+ financial disclosure to identify conflicts of interests.
+
+Announcement number
+
+270006MP-13103717-CS
+
+Control number
+
+891337400
+
+ Previous result
+
+Next result
+
+Your session is about to expire!
+
+ Your USAJOBS session will expire due to inactivity in 8 minutes.
+ Any unsaved data will be lost if you allow the session to expire.
+ Click the button below to continue your session.
+
+ Sign out
+ Stay signed in
+
+ Return to top
+
+USAJOBS is a Opens in a new windowUnited States Office of Personnel Management website.
+
+ (Opens in a new window) OPM on LinkedIn
+
+ (Opens in a new window) OPM YouTube channel
+
+ (Opens in a new window) OPM on X
+
+Opens in a new windowEEO Policy Statement
+
+Opens in a new windowReasonable Accommodation Policy Statement
+
+Veterans Information
+
+Opens in a new windowLegal and Regulatory Guidance
+
+About USAJOBS
+
+Opens in a new windowAccessibility
+
+Opens in a new windowFOIA
+
+Opens in a new windowInspector general
+
+Opens in a new windowNo Fear Act Data
+
+Opens in a new windowPrivacy policy
+
+Opens in a new windowReports and publications
+
+Opens in a new windowTerms and conditions
+
+Opens in a new windowUSA.gov

@@ -1,0 +1,32 @@
+{
+  "@context": "http://www.schema.org",
+  "@type": "JobPosting",
+  "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": {
+      "@type": "QuantitativeValue",
+      "value": 143913.0,
+      "unitText": "YEAR"
+    }
+  },
+  "datePosted": "10/26/2026",
+  "description": "You will serve as a PROGRAM ANALYST (CYBER INFRASTRUCTURE) in the ASN EI-E WASHINGTON DC.",
+  "educationRequirements": "This job does not have an education qualification requirement.",
+  "employmentType": "OTHER",
+  "hiringOrganization": "ASN EI-E WASHINGTON DC",
+  "jobLocation": [
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Pentagon, Arlington",
+        "addressRegion": "VA "
+      }
+    }
+  ],
+  "responsibilities": "",
+  "qualifications": "Your resume must demonstrate at least one year of specialized experience at or equivalent to the GS-13 grade level or pay band in the Federal service or equivalent experience in the private or public sector. Specialized experience must demonstrate the following:\n<ul>\n\t<li>Experience interpreting strategic direction and policy and program requirements, developing program plans, and implementing corrective actions</li>\n\t<li>Experience with a full range of critical infrastructure protection and mission assurance programs; to include critical asset and cyber terrain identification, vulnerability assessments, contingency planning, critical asset physical and cyber security, and core energy, water, and utility infrastructure assurance</li>\n</ul>\n<br>\nAdditional qualification information can be found from the following Office of Personnel Management web site: <a href=\"https://www.opm.gov/policy-data-oversight/classification-qualifications/general-schedule-qualification-standards/#url=Group-Standards\">https://www.opm.gov/policy-data-oversight/classification-qualifications/general-schedule-qualification-standards/#url=Group-Standards</a><br>\n<br>\nExperience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., professional, philanthropic, religious, spiritual, community, student, social). Volunteer work helps build critical competencies, knowledge, and skills and can provide valuable training and experience that translates directly to paid employment.",
+  "title": "PROGRAM ANALYST (CYBER INFRASTRUCTURE)",
+  "validThrough": "2026-11-03"
+}

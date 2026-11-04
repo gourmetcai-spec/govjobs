@@ -1,0 +1,32 @@
+{
+  "@context": "http://www.schema.org",
+  "@type": "JobPosting",
+  "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": {
+      "@type": "QuantitativeValue",
+      "value": 143913.0,
+      "unitText": "YEAR"
+    }
+  },
+  "datePosted": "11/03/2026",
+  "description": "This is a public notice flyer to notify interested applicants of anticipated vacancies. Applications will not be accepted through this flyer. Interested applicants must follow the directions in the \"How to Apply\" section of this flyer to be considered. There may or may not be actual vacancies filled from this flyer. Notice of Result letters will not be sent to applicants who respond to this flyer.",
+  "educationRequirements": "You must meet the qualification requirement using experience alone; substitution of education for experience is not permitted at this grade level.",
+  "employmentType": "OTHER",
+  "hiringOrganization": "NAVY CYBER WARFARE DEVELOPMENT GROUP",
+  "jobLocation": [
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Fort Meade",
+        "addressRegion": "MD "
+      }
+    }
+  ],
+  "responsibilities": "",
+  "qualifications": "Your resume must demonstrate at least one year of IT-related experience demonstrating the following four (4) competencies as defined:\n<ol>\n\t<li><strong>Attention to Detail </strong>- Is thorough when performing work and conscientious about attending to detail.</li>\n\t<li><strong>Customer Service</strong> - Works with clients and customers (that is, any individuals who use or receive the services or products that your work unit produces, including the general public, individuals who work in the agency, other agencies, or organizations outside the Government) to assess their needs, provide information or assistance, resolve their problems, or satisfy their expectations; knows about available products and services; is committed to providing quality products and services.</li>\n\t<li><strong>Oral Communication</strong> - Expresses information (for example, ideas or facts) to individuals or groups effectively, taking into account the audience and nature of the information (for example, technical, sensitive, controversial); makes clear and convincing oral presentations; listens to others, attends to nonverbal cues, and responds appropriately.</li>\n\t<li><strong>Problem Solving</strong> - Identifies problems; determines accuracy and relevance of information; uses sound judgment to generate and evaluate alternatives, and to make recommendations.</li>\n</ol>\n<br>\nIn addition to experience demonstrating the four competencies above, your resume must demonstrate <strong>at least one year of specialized experience</strong> equivalent to the next lower grade level (GG/GS-13) or pay band in the federal service, or equivalent experience in the private or public sector performing duties that include the following:\n\n<ul>\n\t<li>Utilizing mastery knowledge of the interrelationships of multiple IT specialties (e.g., network services, systems administration, applications software) in oversight of the assessment and mitigation of cyber security vulnerabilities and threats to computer systems.</li>\n\t<li>Developing, implementing, and enforcing Information Security Policies and Procedures with familiarity with the agency's IT architecture and its security implications.</li>\n\t<li>Reviewing technical quality and timeliness of system accreditation plans for networks and systems under the command's cognizance through proficient understanding of systems security certification and accreditation (C&A) requirements and processes.</li>\n\t<li>Leading and/or managing complex security projects.</li>\n\t<li>Staying abreast of emerging technologies, new IT developments, and their application to business and security processes.</li>\n</ul>",
+  "title": "SUPERVISORY INFORMATION TECHNOLOGY SPECIALIST (SECURITY)",
+  "validThrough": "2026-11-09"
+}

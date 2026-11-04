@@ -1,0 +1,82 @@
+{
+  "title": "Program Analyst - DIRECT HIRE",
+  "requisition_id": "FTA.RO-2027-0001",
+  "canonical_url": "https://www.usajobs.gov/job/891220800",
+  "application_url": "https://www.usajobs.gov/job/891220800",
+  "posted_date": "2026-11-03",
+  "posted_date_evidence": "Official JobPosting.datePosted and native PositionStartDate",
+  "close_date": "2026-11-16",
+  "deadline_timezone": "America/New_York",
+  "deadline_time": "23:59",
+  "deadline_source": "https://www.usajobs.gov/job/891220800",
+  "deadline_verified": true,
+  "early_closure_conditions": [],
+  "rolling_cutoff": null,
+  "location": "Washington, DC",
+  "remote_restrictions": "Offered DMV work location; verify telework/attendance and screening conditions in announcement.",
+  "salary": "Starting at $85,447 Per year (GS 11-12)",
+  "retrieved_at": "2026-11-04T01:27:13.427519+00:00",
+  "control_number": "891220800",
+  "fit": "Java/Python/C/C++, database integration, enterprise platforms and AWS/IBM Symphony delivery overlap; announcement-specific technologies and scope need confirmation.",
+  "gaps": "Confirm the announcement-specific specialized experience, grade-equivalent scope and mandatory conditions against your actual work history. Hours worked per week and exact employment days, when required, need your confirmation; do not invent them.",
+  "requirements_confirmed_unmet": [],
+  "requirements_unverified": [
+    "Confirm the announcement-specific specialized experience, grade-equivalent scope and mandatory conditions against your actual work history.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "preferred_requirements_note": "See official qualifications/education sections; missing evidence does not establish an unmet requirement.",
+  "hiring_paths": [
+    "Open to the public",
+    "Career transition (CTAP, ICTAP, RPL)"
+  ],
+  "open_evidence": "Official announcement downloaded successfully; validThrough and native open-status evidence retained.",
+  "discovery_window": [
+    "2026-09-03",
+    "2026-11-03"
+  ],
+  "employer": "Federal Transit Administration",
+  "status": "needs_verification",
+  "aliases": [],
+  "id": "0e9417e28b71720f",
+  "application_directory": "applications/2026-11-03__federal-transit-administration__program-analyst-direct-hire__0e9417e28b71720f",
+  "step": 1,
+  "selected": false,
+  "submitted": false,
+  "artifacts": {
+    "resume_markdown": {
+      "path": "applications/2026-11-03__federal-transit-administration__program-analyst-direct-hire__0e9417e28b71720f/resume-xuewu-cai__federal-transit-administration__program-analyst-direct-hire__891220800.md",
+      "sha256": "aff99393cecc0bdceaf99326b7d4f9f948145e76ca687e47c1ab1e865da7ba6b"
+    },
+    "resume_pdf": {
+      "path": "applications/2026-11-03__federal-transit-administration__program-analyst-direct-hire__0e9417e28b71720f/resume-xuewu-cai__federal-transit-administration__program-analyst-direct-hire__891220800.pdf",
+      "sha256": "e06ea6dd0085ee02d89fdca873d7ae67b9b84fa82361a49eebf65fe7e71b8e24"
+    }
+  },
+  "artifact_versions": [
+    {
+      "revision_id": "2026-11-04T01:27:13.427519+00:00",
+      "artifacts": {
+        "resume_markdown": {
+          "path": "applications/2026-11-03__federal-transit-administration__program-analyst-direct-hire__0e9417e28b71720f/resume-xuewu-cai__federal-transit-administration__program-analyst-direct-hire__891220800.md",
+          "sha256": "aff99393cecc0bdceaf99326b7d4f9f948145e76ca687e47c1ab1e865da7ba6b"
+        },
+        "resume_pdf": {
+          "path": "applications/2026-11-03__federal-transit-administration__program-analyst-direct-hire__0e9417e28b71720f/resume-xuewu-cai__federal-transit-administration__program-analyst-direct-hire__891220800.pdf",
+          "sha256": "e06ea6dd0085ee02d89fdca873d7ae67b9b84fa82361a49eebf65fe7e71b8e24"
+        }
+      },
+      "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a"
+    }
+  ],
+  "resume_status": "prepared_with_attention",
+  "resume_review": "Two rendered pages reviewed; all 77 distinct page images inspected across seven boards covering 166 pages. Text bounds, all 20 baseline experience bullets, updated title, neutral metadata and artifact hashes passed. Candidate qualifications remain unverified.",
+  "required_answers_pending": [
+    "Confirm the announcement-specific specialized experience, grade-equivalent scope and mandatory conditions against your actual work history.",
+    "Hours worked per week and exact employment days, when required, need your confirmation; do not invent them."
+  ],
+  "confirmed_unmet_requirements": [],
+  "qualifications_verified": false,
+  "baseline_sha256": "bc528acc9373c51f65057a53ff45f0fc1ddf3fb479259fb8b92f0e38ce40c42a",
+  "resume_format": "restored_two_page",
+  "current_resume_naming": "unversioned"
+}
